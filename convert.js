@@ -1,3 +1,5 @@
+// https://github.com/cujarrett/markdown-tables
+
 import fs from "fs"
 import util from "util"
 import xlsx from "xlsx"
