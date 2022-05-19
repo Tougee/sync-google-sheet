@@ -999,7 +999,7 @@
 | android, iOS | My_shared_apps | My shared apps | Aplikasi bersama saya | Aplikasi kongsi saya | 我分享的应用 | おすすめロボをプロフィールに追加 |
 | android, iOS | My_Stickers | My Stickers |     |     | 我的表情 | マイステッカー |
 | android, iOS | NA  | N/A | N/A | N/A | 暂无价格 | なし  |
-| android, iOS | Name | Name | Nama | Nama | 名称  | 名前  |
+| android, iOS, Desktop | Name | Name | Nama | Nama | 名称  | 名前  |
 | android, iOS | Need_help | Need help? | Butuh bantuan? | Perlukan bantuan? | 需要帮助？ | ヘルプが必要ですか？ |
 | android, iOS | Never | Never | Jangan pernah | Tidak pernah | 从未备份 | ない  |
 | android, iOS | New_Group | New Group | Grup Baru | Kumpulan Baharu | 新建群组 | グループを作成 |
