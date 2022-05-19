@@ -95,7 +95,7 @@
 | android | Creating | Creating… | Membuat… | Membuat… | 正在创建… | 作成中… |
 | android | Crop | Crop |     |     | 裁剪  | トリミング |
 | android | Data_error | Data error | Kesalahan data | Kesalahan data | 数据错误 | データエラー |
-| android | Data_loading | Data loading, please wait... |     |     | 数据加载中，请稍后 |     |
+| android, Desktop | Data_loading | Data loading, please wait... |     |     | 数据加载中，请稍后 |     |
 | android | db_debug_warning | Attention: If a harmful SQL statement is executed, the result is irreversible! |     | Perhatian: Sekiranya pernyataan SQL berbahaya dijalankan, hasilnya tidak dapat dipulihkan! | 注意：如果执行了有侵害性的 SQL，结果不可逆！ | Attention: If a harmful SQL statement is executed, the result is irreversible! |
 | android | Debug_database | Debug database |     | Pangkalan data nyahpepijat |     | データベースデバッグ |
 | android | Decline | Decline | Tolak | Tolak | 挂断  | 拒否  |
@@ -945,7 +945,7 @@
 | android, iOS | Immediately | Immediately |     |     | 立刻  | すぐに |
 | android, iOS | in_connecting | Connecting… | Menyambungkan… | Menyambung… | 正在连接… | …に接続中 |
 | android, iOS | Incoming_voice_call | Incoming voice call | Panggilan suara masuk | Panggilan suara masuk | 语音通话来电 | 音声通話を受信中 |
-| android, iOS | Initializing | Initializing | Memulai... | Memulakan… | 初始化… | 初期化中… |
+| android, iOS, Desktop | Initializing | Initializing | Memulai... | Memulakan… | 初始化… | 初期化中… |
 | android, iOS | Invalid_payment_link | Invalid payment link | Pembayaran tidak valid | Pembayaran tidak sah | 无效支付信息 | 支払いが無効です |
 | android, iOS | Invalid_QR_Code | Invalid QR-Code |     |     | 无效的二维码 |     |
 | android, iOS | invite_info | Anyone with Mixin can follow this link to join this group. Only share it with people you trust. | Siapapun yang memiliki Mixin dapat mengikuti tautan ini untuk bergabung dengan grup ini. Hanya bagikan dengan orang yang Anda percaya. | Sesiapa sahaja yang mempunyai Mixin boleh mengikuti pautan ini untuk menyertai kumpulan ini. Kongsi sahaja dengan orang yang anda percayai. | Mixin 使用者可以使用此链接加入这个群组，请只跟您信任的人共享链接。 | リンクを知っている人はだれでも参加可能です。信頼できる人だけに共有してください。 |
