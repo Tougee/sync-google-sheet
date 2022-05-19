@@ -11,7 +11,7 @@
 | android | a_sticker | a sticker |     |     | 一张贴纸 | ステッカー |
 | android | a_transcript | a transcript |     |     | 一个聊天记录 | メッセージ履歴 |
 | android | a_video | a video |     |     | 一个视频 | 動画  |
-| android | about_version | Version %1$s | Versi %1$s | Versi %1$s | 版本 %1$s | バージョン %1$s |
+| android | about_version | Version %1$s | Versi %1$s | Versi %1$s | 版本 %1$s | 版本 %1$s |
 | android | Accept | Accept | Terima | Terima | 接听  |     |
 | android | Add_group_description | Add group description | Tambahkan deskripsi grup | Tambahkan keterangan kumpulan | 添加群公告 | グループアナウンスを更新 |
 | android | Add_people_hint | Add people by Mixin ID or phone number | ID Mixin atau Nomor telepon | Mixin ID atau Nombor telefon | 通过 Mixin ID 或手机号添加联系人 | Mixin IDまたは電話番号で追加する |
