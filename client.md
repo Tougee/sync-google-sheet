@@ -671,7 +671,7 @@
 | android, iOS | No_transactions | No transactions | Tidak ada transaksi | Tiada urus niaga | 暂无转账记录 | トランザクションはありません |
 | android, iOS | disable_disappearing_message | %1$s disabled disappearing message |     |     | %1$s 禁用了限时消息 |     |
 | android, iOS | Off | Off |     |     | 关闭  | オフ  |
-| android, iOS | About | About | Tentang | Mengenai | 关于  | Mixinについて |
+| android, iOS, Desktop | About | About | Tentang | Mengenai | 关于  | Mixinについて |
 | android, iOS | Access_denied | Access denied | Akses ditolak | Akses dinafikan | 禁止访问 | アクセスが拒否されました |
 | android, iOS | access_your_apps_list | access your apps list | mengakses daftar aplikasi Anda | akses senarai aplikasi anda | 访问你的应用列表 | アプリリストへのアクセス |
 | android, iOS | access_your_circle_list | access your circle list |     | akses senarai lingkaran anda | 访问你的圈子列表 | リストへのアクセス |
@@ -725,7 +725,7 @@
 | android, iOS | Amount | Amount | Jumlah | Jumlah | 金额  | 数量  |
 | android, iOS | app_card_shareable_false | The card has been set to not allow sharing |     |     | 包含不允许转发的卡片 | このカードを共有することはできません |
 | android, iOS | App_not_found | App not found | Aplikasi tidak ditemukan | Aplikasi tidak dijumpai | 找不到这个机器人 | アプリが見つかりません |
-| android, iOS | Appearance | Appearance | Tampilan | Penampilan | 外观  | 言語とテーマ |
+| android, iOS, Desktop | Appearance | Appearance | Tampilan | Penampilan | 外观  | 言語とテーマ |
 | android, iOS | Apply | Apply | Terapkan | Guna | 应用  | 適用  |
 | android, iOS | Asset_Key | Asset Key | Kode Aset | Kunci Aset | 资产标识 | 資産キー |
 | android, iOS | Asset_not_found | Asset not found. |     |     | 找不到该资产 | 資産が存在しません |
@@ -837,7 +837,7 @@
 | android, iOS | created_this_group | %1$s created this group |     |     | %1$s创建了这个群组 | %1$sがグループを作成しました |
 | android, iOS | Currency | Currency | Mata uang | Mata Wang | 货币  | 通貨  |
 | android, iOS | Custom_Time | Custom Time |     |     | 自定义时间 |     |
-| android, iOS | Data_and_Storage_Usage | Data and Storage Usage | Penggunaan Data dan Penyimpanan | Penggunaan Data dan Storan | 数据与存储空间 |     |
+| android, iOS, Desktop | Data_and_Storage_Usage | Data and Storage Usage | Penggunaan Data dan Penyimpanan | Penggunaan Data dan Storan | 数据与存储空间 |     |
 | android, iOS | database_upgrade_tips | The database is being upgraded, it may take several minutes, please do not close this App. | Database sedang ditingkatkan, mungkin perlu beberapa menit, jangan tutup Aplikasi ini. | Pangkalan data sedang ditingkatkan, mungkin memerlukan beberapa minit, jangan tutup Aplikasi ini. | 正在进行数据库升级，可能需要几分钟，请不要强制关闭应用。 | データベースをアップグレードしています。アプリを閉じないでください。 |
 | android, iOS | Date | Date | Tanggal | Tarikh | 日期  | 日付  |
 | android, iOS | date_format_date | MMM dd, yyyy | TTT bb, tttt | BBB hh, tttt | yyyy年MM月dd日 | MMM dd, yyyy |
