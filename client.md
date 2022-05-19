@@ -1281,3 +1281,4 @@
 | Desktop | edit_profile | Edit Profile |     |     | 编辑资料 |     |
 | DesktoP | sign_out | Sign Out |     |     | 登出  |     |
 | Desktop | no_data | No Data |     |     | 没有数据 |     |
+| Desktop | biography | Biography |     |     |     |     |
