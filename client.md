@@ -812,7 +812,7 @@
 | android, iOS | contact_mixin_id | Mixin ID: %1$s | Mixin ID: %1$s | Mixin ID: %1$s | Mixin ID: %1$s | Mixin ID: %1$s |
 | android, iOS | contact_mobile | Mobile: %1$s | Seluler: %1$s | Mudah alih: %1$s | 手机: %1$s | モバイル: %1$s |
 | android, iOS | contact_share_apps_title | %1$s's Shared Apps | Aplikasi Bersama %1$s | Aplikasi Dikongsi %1$s | %1$s 分享的应用 | %1$s\のシェアしたロボ |
-| android, iOS | CONTACTS | CONTACTS | KONTAK | KENALAN | 联系人 | 連絡先 |
+| android, iOS, Desktop | CONTACTS | CONTACTS | KONTAK | KENALAN | 联系人 | 連絡先 |
 | android, iOS | content_audio | [Audio] | [Audio] | [Audio] | [语音] | [音声] |
 | android, iOS | content_contact | [Contact] | [Kontak] | [Hubungi] | [联系人] | [連絡先] |
 | android, iOS | content_file | [File] | [File] | [Fail] | [文件] | [ファイル] |
