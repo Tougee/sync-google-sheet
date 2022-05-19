@@ -503,7 +503,7 @@
 | iOS | group_qr_code_prompt | Scan the QR Code to join this group |     |     | 扫描二维码加入群组 | QRコードをスキャンしてこのグループに参加 |
 | iOS | Help | Help |     |     | 帮助  | ヘルプ |
 | iOS | Hide_asset | Hide asset |     |     | 隐藏资产 | 資産を非表示にする |
-| iOS | image | image |     |     | 图片  | 画像  |
+| iOS, Desktop | image | image |     |     | 图片  | 画像  |
 | iOS | Include_files | Include Files |     |     | 包括文件 | ファイルをバックアップ |
 | iOS | Include_videos | Include Videos |     |     | 包括视频 | 動画をバックアップ |
 | iOS | Info | Info |     |     | 信息  | プロフィール |
@@ -1169,7 +1169,7 @@
 | android, iOS | Sort_by | Sort by |     |     | 顺序  |     |
 | android, iOS | Start_Messaging | Start Messaging | Mulai Mengirim Pesan | Mulakan Pemesejan | 开始聊天 | メッセージを開始 |
 | android, iOS | Status | Status | Status | Status | 交易状态 | ステータス |
-| android, iOS | Sticker | Sticker | Stiker | Pelekat | 贴纸  | スタンプ |
+| android, iOS, Desktop | Sticker | Sticker | Stiker | Pelekat | 贴纸  | スタンプ |
 | android, iOS | sticker_add_invalid_size | Requires stickers file size larger than 1KB and less than 1MB, width and height between 128px and 1024px. | Memerlukan ukuran file stiker yang lebih besar dari 1KB dan kurang dari 1MB, lebar dan tinggi antara 128px dan 1024px. | Memerlukan saiz fail pelekat lebih besar daripada 1KB dan kurang dari 1MB, lebar dan tinggi antara 128px dan 1024px. | 贴纸要求大于 1KB 且小于 1MB，宽高大于 128 像素且小于 1024 像素。 | スタンプのサイズは1K以上800KB未満、 幅と高さは64から512ピクセルである必要があります |
 | android, iOS | Sticker_Store | Sticker Store |     |     | 表情商店 | ステッカーストア |
 | android, iOS | stickers_count | %d stickers |     |     | %d 个表情 |     |
@@ -1229,7 +1229,7 @@
 | android, iOS | Verify | Verify | Verifikasikan | Sahkan | 验证  | 生体認証で認証 |
 | android, iOS | Verify_PIN | Verify PIN | Verifikasikan PIN | Sahkan PIN | 验证 PIN | 認証中… |
 | android, iOS | Version_Update | Version Update | Periksa Pembaruan | Kemas kini Versi | 版本更新 |     |
-| android, iOS | Video | Video | Video | Video | 视频  | 動画  |
+| android, iOS, Desktop | Video | Video | Video | Video | 视频  | 動画  |
 | android, iOS | Videos | Videos | Video | Video | 视频  | 動画  |
 | android, iOS | View_Authorization | View Authorization |     |     | 查看授权 | みる  |
 | android, iOS | View_emergency_contact | View emergency contact | Lihat kontak darurat | Lihat kenalan kecemasan | 查看紧急联系人 | 緊急連絡先を確認 |
