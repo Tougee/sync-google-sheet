@@ -1272,5 +1272,6 @@
 | android, iOS | You | You | Anda | Anda | 你   | 自分  |
 | android, iOS | You_deleted_this_message | You deleted this message | Anda menghapus pesan ini | Anda memadamkan mesej ini | 你撤回了一条消息 | このメッセージを削除しました。 |
 | android, iOS | You_have_left_the_group | You have left the group |     |     | 你不在此群组 | あなたはもうこのグループの参加者ではありません |
-| Desktop | Login to Mixin Messenger by QR Code | Login to Mixin Messenger by QR Code |     |     | 通过二维码登录 Mixin Messenger |     |
-| Desktop |     | Open Mixin Messenger on your phone, scan the QR Code on the screen and confirm your login. |     |     | 打开手机上的 Mixin Messenger，扫描屏幕上的二维码，确认登录。 |     |
+| Desktop | Login_by_QR_Code | Login to Mixin Messenger by QR Code |     |     | 通过二维码登录 Mixin Messenger |     |
+| Desktop | Login_by_QR_Code_tips | Open Mixin Messenger on your phone, scan the QR Code on the screen and confirm your login. |     |     | 打开手机上的 Mixin Messenger，扫描屏幕上的二维码，确认登录。 |     |
+| Desktop |     |     |     |     |     |     |
