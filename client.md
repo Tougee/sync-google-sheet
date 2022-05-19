@@ -1276,3 +1276,4 @@
 | Desktop | login_by_qrcode_tips | Open Mixin Messenger on your phone, scan the QR Code on the screen and confirm your login. |     |     | 打开手机上的 Mixin Messenger，扫描屏幕上的二维码，确认登录。 |     |
 | Desktop | click_to_reload_qrcode | Click to reload QR code |     |     | 点击重新加载二维码 |     |
 | Desktop | groups | Groups |     |     | 群组  |     |
+| Desktop | strangers | Strangers |     |     | 陌生人 |     |
