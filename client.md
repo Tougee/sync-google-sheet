@@ -772,7 +772,7 @@
 | android, iOS | Change_Profile_Photo_with_Camera | Change Profile Photo with Camera | Ubah Foto Profil dengan Kamera | Tukar Foto Profil dengan Kamera | 更换头像（相机） | プロフィール画像を撮影 |
 | android, iOS | Change_Profile_Photo_with_Library | Change Profile Photo with Library | Ubah Foto Profil dengan Koleksi | Tukar Foto Profil dengan Perpustakaan | 更换头像（相册） | プロフィール画像を選択 |
 | android, iOS | chat_app_reception_title | Tap the button to interact with the bot |     |     | 点击按钮使用机器人 |     |
-| android, iOS | Chat_Backup | Chat Backup |     |     | 聊天记录备份 |     |
+| android, iOS, Desktop | Chat_Backup | Chat Backup |     |     | 聊天记录备份 |     |
 | android, iOS | chat_call_duration | Duration %1$s | Durasi: %1$s | Tempoh: %1$s | 通话时长 %1$s | 通話時間 %1$s |
 | android, iOS | chat_call_warning_voice | Can't record voice messages during a Mixin call. | Tidak dapat merekam pesan suara selama panggilan Mixin. | Tidak dapat merakam mesej suara semasa panggilan Mixin. | 无法在 Mixin 通话时录制语音消息 | 通話中にボイスメッセージを録音することはできません。 |
 | android, iOS | chat_decryption_failed | This message decryption failed, please upgrade Mixin to the latest version. |     |     | 此信息解密失败，请将 Mixin 升级到最新版本。 | メッセージの解読に失敗しました。Mixinを最新バージョンにアップデートしてください。 |
