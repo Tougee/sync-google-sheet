@@ -251,7 +251,7 @@
 | android | Not_support | Not support | Tidak didukung | Tidak sokong | 不支持备份 | サポートしていない形式です |
 | android | Notice | Notice |     |     | 注意  | お知らせ |
 | android | notification_channel_description | Shows what music is currently playing in Mixin Messenger |     | Tunjukkan muzik apa yang sedang dimainkan di Mixin Messenger | 显示 Mixin Messenger 中正在播放的音乐 | Mixinで再生中の音楽を表示 |
-| android | Notifications | Notifications | Notifikasi | Pemberitahuan | 通知  | 通知  |
+| android, Desktop | Notifications | Notifications | Notifikasi | Pemberitahuan | 通知  | 通知  |
 | android | Now_Playing | Now Playing |     | Main sekarang | 正在播放 | 再生中 |
 | android | Old_PIN | Old PIN | PIN Lama | PIN lama | 验证旧的 PIN | 変更前のPIN |
 | android | Ongoing_voice_call | Ongoing voice call | Panggilan suara sedang berlangsung | Panggilan suara sedang berlangsung | 正在进行语音通话 | 音声通話が進行中 |
