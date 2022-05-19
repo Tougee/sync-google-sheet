@@ -747,7 +747,7 @@
 | android, iOS | Blocked_Users | Blocked Users |     |     | 屏蔽名单 |     |
 | android, iOS | bot_empty_tip | Please add your favorite bot first. | Harap tambahkan bot favorit Anda terlebih dahulu. | Sila masukkan bot kegemaran anda terlebih dahulu. | 可以添加你喜欢的机器人 | 最初にお気に入りのロボを追加してください。 |
 | android, iOS | bots_title | Bots | Bot | Bot | 机器人 | Myロボ一覧 |
-| android, iOS | BOTS | BOTS | BOT | BOT | 机器人 | ロボ  |
+| android, iOS, Desktop | BOTS | BOTS | BOT | BOT | 机器人 | ロボ  |
 | android, iOS | Call | Call |     |     | 语音  | 応答なし |
 | android, iOS | Call_declined | Call declined | Panggilan ditolak | Panggilan ditolak | 对方已拒绝 |     |
 | android, iOS | call_encryption_description | No one outside of this call can view or listen to it. Not even Mixin. |     |     | 除了参与通话的人，其他人包含Mixin在内都无法听取或查看。 | この通話はE2E暗号化されています。 |
@@ -1275,4 +1275,4 @@
 | Desktop | login_by_qrcode | Login to Mixin Messenger by QR Code |     |     | 通过二维码登录 Mixin Messenger |     |
 | Desktop | login_by_qrcode_tips | Open Mixin Messenger on your phone, scan the QR Code on the screen and confirm your login. |     |     | 打开手机上的 Mixin Messenger，扫描屏幕上的二维码，确认登录。 |     |
 | Desktop | click_to_reload_qrcode | Click to reload QR code |     |     | 点击重新加载二维码 |     |
-| Desktop | groups | Groups |     |     |     |     |
+| Desktop | groups | Groups |     |     | 群组  |     |
