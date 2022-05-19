@@ -1273,4 +1273,4 @@
 | android, iOS | You_deleted_this_message | You deleted this message | Anda menghapus pesan ini | Anda memadamkan mesej ini | 你撤回了一条消息 | このメッセージを削除しました。 |
 | android, iOS | You_have_left_the_group | You have left the group |     |     | 你不在此群组 | あなたはもうこのグループの参加者ではありません |
 | Desktop | Login_to_Mixin_Messenger_with_QR_code | Login to Mixin Messenger with QR code |     |     | 通过二维码登录 Mixin Messenger |     |
-| Desktop |     |     |     |     |     |     |
+| Desktop |     |     |     |     | 打开手机上的 Mixin Messenger，扫描屏幕上的二维码，确认登录。 |     |
