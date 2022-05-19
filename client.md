@@ -364,7 +364,7 @@
 | android | Verifying | Verifying… | Memverifikasi… | Mengesahkan… | 验证中… | Mixinをアップデート |
 | android | View | View |     |     | 查看  | 閲覧権限 |
 | android | Voice_call | Voice call | Panggilan suara | Panggilan suara | 语音通话 | 音声通話 |
-| android | Waiting_for_this_message | Waiting for this message. |     |     |     | このメッセージを待っています。 |
+| android, Desktop | Waiting_for_this_message | Waiting for this message. |     |     |     | このメッセージを待っています。 |
 | android | wallet_add_asset_already_hidden | Assets %1$s have been hidden by you, want to show them immediately on the wallet homepage? | Aset %1$s telah Anda sembunyikan, ingin segera menampilkannya di beranda wallet? | Aset %1$s telah disembunyikan oleh anda, mahu tunjukkan dengan segera di halaman utama dompet? | 资产 %1$s 已被你隐藏，要在钱包首页立刻显示？ |     |
 | android | wallet_address_add_tip | Mixin does not support withdrawal to the |     | Mixin tidak menyokong penarikan ke | Mixin 不支持提现到 | Mixinは への引き出しに未対応です |
 | android | wallet_already_hidden | %1$s has been hidden | %1$s telah disembunyikan | %1$s telah disembunyikan | 已隐藏 %1$s | %1$sが非表示になりました |
@@ -756,7 +756,7 @@
 | android, iOS | call_on_another_call_hint | You are already on another call. Try after it was ended. |     |     | 无法在 Mixin 通话时拨打电话 | 通話を最小化するためには、Mixinの権限を許可してください。 |
 | android, iOS | Calling | Calling… | Memanggil… | Memanggil… | 正在呼叫… | カメラ |
 | android, iOS | Camera | Camera | Kamera | Kamera | 相机  | QRコードが見つかりません |
-| android, iOS | Cancel | Cancel | Batal | Batal | 取消  | キャンセル |
+| android, iOS, Desktop | Cancel | Cancel | Batal | Batal | 取消  | キャンセル |
 | android, iOS | Cancel_Floating | Cancel Floating |     | Batal Terapung | 取消浮窗 | Floatingをキャンセル |
 | android, iOS | Canceled | Cancelled | Dibatalkan | Dibatalkan | 已取消 |     |
 | android, iOS | Canceled_by_caller | Cancelled by caller | Panggilan Dibatalkan oleh penelepon | Panggilan Dibatalkan oleh pemanggil | 对方已取消 | 不在着信 |
@@ -1200,7 +1200,7 @@
 | android, iOS | Transactions | Transactions | Transaksi | Urus Niaga | 转账记录 | もらった・あげたコイン💰 |
 | android, iOS | Transactions_CANNOT_be_deleted | Transactions CANNOT be deleted |     |     | 转账记录不会被删除 | トランザクション履歴を削除することはできません |
 | android, iOS | Transcript | Transcript |     |     | 聊天记录 | メッセージ履歴 |
-| android, iOS | Transfer | Transfer | Transfer | Pindah | 转账  | 送金  |
+| android, iOS, Desktop | Transfer | Transfer | Transfer | Pindah | 转账  | 送金  |
 | android, iOS | Transfer_Amount_count_down | Transfer Amount(%1$s) | Jumlah Transfer(%1$s) | Jumlah Pindahan(%1$s) | 转账金额(%1$s) | 通知金額(%1$s) |
 | android, iOS | transfer_memo | Memo (optional) |     |     | 备注（可选） |     |
 | android, iOS | Transfer_Notifications | Transfer Notifications | Notifikasi Transfer | Pindahkan Pemberitahuan | 转账通知 | コインの受取通知 |
@@ -1283,4 +1283,4 @@
 | Desktop | no_data | No Data |     |     | 没有数据 |     |
 | Desktop | biography | Biography |     |     | 简介  |     |
 | Desktop | mute | Mute |     |     | 静音  |     |
-| Desktop | delete_the_circle |     |     |     |     |     |
+| Desktop | delete_the_circle | Do you want to delete %1$s circle? |     |     | 确定删除%1$s圈子吗？ |     |
