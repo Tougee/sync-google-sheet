@@ -1109,7 +1109,7 @@
 | android, iOS | scan_code_add_me | Scan the QR code to add me on Mixin | Pindai kode QR untuk menambahkan saya di Mixin | Imbas kod QR untuk menambahkan saya di Mixin | 用 Mixin 扫描二维码加我为联系人 | QRコードをスキャンして私をMixinで追加してください。 |
 | android, iOS | Scan_QR_Code | Scan QR Code | Pindai Kode QR | Imbas Kod QR | 扫描二维码 | QRコードをスキャン |
 | android, iOS | Screen_Lock | Screen Lock | Kunci Layar | Kunci skrin | 锁屏  | 画面ロック |
-| android, iOS | Search | Search | Cari | Cari | 搜索  | 検索  |
+| android, iOS, Desktop | Search | Search | Cari | Cari | 搜索  | 検索  |
 | android, iOS | Search_Conversation | Search Conversation | Cari Percakapan | Cari Perbualan | 搜索聊天记录 | メッセージを検索 |
 | android, iOS | Search_GIPHY | Search GIPHY | Cari GIPHY | Cari GIPHY | 搜索 GIPHY | GIPHYを検索する |
 | android, iOS | search_placeholder_asset | Name, Symbol |     |     | 名称, 符号 | 名前、シンボル |
@@ -1277,3 +1277,4 @@
 | Desktop | click_to_reload_qrcode | Click to reload QR code |     |     | 点击重新加载二维码 |     |
 | Desktop | groups | Groups |     |     | 群组  |     |
 | Desktop | strangers | Strangers |     |     | 陌生人 |     |
+| Desktop | pick_a_conversation | Select a conversation and start sending a message |     |     | 选择一个对话，开始发送信息 |     |
