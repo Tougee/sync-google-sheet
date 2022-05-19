@@ -464,8 +464,8 @@
 | iOS | date_format_month | E, d MMM |     |     | MM 月 d 日 E | M月d日（E） |
 | iOS | date_format_week_date | E, d MMM yyyy |     |     | yyyy 年 MM 月 d 日 E | yyyy年MM月d日（E） |
 | iOS | delete_account_detail_hint | Local messages and iCloud Backups will not be deleted automatically |     |     | 本地消息和iCloud备份将不会自动删除 | ローカルメッセージとiCloudにバックアップされた内容は削除されません |
-| iOS | Delete_Chat | Delete Chat |     |     | 删除聊天 | チャットを削除 |
-| iOS | Delete_Circle | Delete Circle |     |     | 删除圈子 | リストを削除 |
+| iOS, Desktop | Delete_Chat | Delete Chat |     |     | 删除聊天 | チャットを削除 |
+| iOS, Desktop | Delete_Circle | Delete Circle |     |     | 删除圈子 | リストを削除 |
 | iOS | delete_contact_chat_confirmation | Delete chat with "%@"? |     |     | 删除与"%@"的会话并清空聊天记录? | "%@"からチャットを削除しますか? |
 | iOS | sticker_add_requirements | Requires stickers file size larger than %@KB and less than %@KB, width and height between %@ and %@ pixels. |     |     | 贴纸要求大于 %@KB 且小于 %@KB，宽高大于 %@ 像素且小于 %@ 像素。 |     |
 | iOS | delete_group_chat_confirmation | Delete "%@" group chat? |     |     | 删除"%@"的聊天? | "%@"のグループチャットを削除しますか? |
@@ -830,7 +830,7 @@
 | android, iOS | Conversation | Conversation | Percakapan | Perbualan | 会话  | 受信制限 |
 | android, iOS | Conversation_not_found | Conversation not found. |     |     | 找不到该会话 | 会話が見つかりません |
 | android, iOS | conversation_not_support | This type of message is not supported, please upgrade Mixin to the latest version. | Jenis pesan ini tidak didukung, harap tingkatkan Mixin ke versi terbaru. | Mesej jenis ini tidak disokong, sila tingkatkan Mixin ke versi terkini. | 不支持此类型消息。请升级 Mixin 查看。 | このメッセージは未対応であるため、Mixinを最新版にアップデートしてください。 |
-| android, iOS | Copy | Copy | Salin | Salinan | 复制  | コピー |
+| android, iOS, Desktop | Copy | Copy | Salin | Salinan | 复制  | コピー |
 | android, iOS | Copy_invite | Copy Invite Link | Salin Tautan | Salin pautan | 复制邀请链接 | リンクをコピーする |
 | android, iOS | Copy_link | Copy Link |     | Salin pautan | 复制链接 | リンクをコピー |
 | android, iOS | Create | Create | Buat | Buat | 创建  | 作成  |
@@ -842,7 +842,7 @@
 | android, iOS | Date | Date | Tanggal | Tarikh | 日期  | 日付  |
 | android, iOS | date_format_date | MMM dd, yyyy | TTT bb, tttt | BBB hh, tttt | yyyy年MM月dd日 | MMM dd, yyyy |
 | android, iOS | Declined | Declined | Ditolak | Menolak | 已拒绝 |     |
-| android, iOS | Delete | Delete |     |     | 删除  | 削除  |
+| android, iOS, Desktop | Delete | Delete |     |     | 删除  | 削除  |
 | android, iOS | delete_account_hint | Delete your account info and profile photo |     |     | 删除你的账户和个人照片 | アカウント情報とプロフィール画像を削除します |
 | android, iOS | Delete_address | Delete address | Hapus alamat | Padamkan alamat | 删除地址 | アドレスを削除 |
 | android, iOS | Delete_emergency_contact | Delete emergency contact | Hapus kontak darurat | Padamkan kenalan kecemasan | 删除紧急联系人 | 緊急連絡先を削除 |
@@ -926,7 +926,7 @@
 | android, iOS | Floating | Floating |     | Terapung | 浮窗  | Floating |
 | android, iOS | Follow_us_on_facebook | Follow us on Facebook | Ikuti kami di Facebook | Ikuti kami di Facebook | 关注我们的 Facebook | Facebookをフォロー |
 | android, iOS | Follow_us_on_twitter | Follow us on Twitter | Ikuti kami di Twitter | Ikuti kami di Twitter | 关注我们的 Twitter | Twitterをフォロー |
-| android, iOS | Forward | Forward | Teruskan | Ke hadapan | 转发  | 転送  |
+| android, iOS, Desktop | Forward | Forward | Teruskan | Ke hadapan | 转发  | 転送  |
 | android, iOS | fourth_pin_confirm_hint | Yes, there is a fourth PIN confirmation, and I promise it's the last one to ensure you have remembered your PIN. The PIN is unrecoverable if lost. | Ya, ada konfirmasi PIN keempat, dan saya berjanji ini yang terakhir untuk memastikan Anda mengingat PIN Anda. PIN tidak dapat dipulihkan jika hilang. | Ya, terdapat pengesahan PIN keempat, dan saya berjanji ia adalah yang terakhir untuk memastikan anda mengingati PIN anda. PIN tidak dapat dipulihkan sekiranya hilang. | 这是最后一次确认 PIN，记住：密码丢失将永远无法找回！ | 最終確認となります。もう一度PINを確認してください。PINを忘れた場合、復元はできません。 |
 | android, iOS | From | From |     |     | 来自  |     |
 | android, iOS | Get_a_new_wallet | Get a new wallet |     |     | 创建钱包 | 仮想通貨ウォレットを入手 |
@@ -1049,7 +1049,7 @@
 | android, iOS | phone_number_privacy | Who can find me by my number | Siapa yang dapat menemukan saya menurut nomor saya | Siapa yang dapat mencari saya dengan nombor saya | 谁可以通过手机号找到你 | あなたを電話番号検索で追加できるユーザー |
 | android, iOS | Photo | Photo | Foto | Foto | 照片  | 写真  |
 | android, iOS | Photos | Photos | Foto | Foto | 照片  | 画像  |
-| android, iOS | pin_title | Pin |     |     | 置顶  | ピン留め |
+| android, iOS, Desktop | pin_title | Pin |     |     | 置顶  | ピン留め |
 | android, iOS | PIN | PIN | PIN | PIN | PIN | PIN |
 | android, iOS | PIN_change | PIN change | Perubahan PIN | Tukar PIN | 修改 PIN | PIN変更 |
 | android, iOS | pin_check_tip | You'll be asked for it periodically to help you remember it. | Anda akan ditanya secara berkala untuk membantu Anda mengingatnya. | Anda akan diminta tentang ia secara berkala untuk membantu anda mengingatnya. | 定期输入 PIN 有助于记住该 PIN | 安全のため、定期的にPINコードを確認します。 |
@@ -1090,7 +1090,7 @@
 | android, iOS | Remove_emergency_contact | Remove emergency contact | Hapus kontak darurat | Alih keluar kenalan kecemasan | 移除紧急联系人 | 緊急連絡先を削除する |
 | android, iOS | Remove_emergency_contact_confirmation | Remove emergency contact? | Hapus kontak darurat? | Alih keluar kenalan kecemasan? | 确定移除紧急联系人？ | 緊急連絡先を削除しますか？ |
 | android, iOS | Remove_Stickers | Remove Stickers |     |     | 移除所有表情 | ステッカーの削除 |
-| android, iOS | Reply | Reply |     |     | 回复  | 返信  |
+| android, iOS, Desktop | Reply | Reply |     |     | 回复  | 返信  |
 | android, iOS | Report | Report | Laporkan | Lapor | 举报  | 報告  |
 | android, iOS | Report_and_block | Report and block? |     |     | 举报并屏蔽？ | 報告してブロックしますか? |
 | android, iOS | Represent_Messages | Represent Messages | Mewakili Pesan | Wakilkan Mesej | 代发消息 | ロボからの通知 |
@@ -1212,9 +1212,9 @@
 | android, iOS | Try_Again | Try Again | Coba lagi | Cuba lagi | 请重试 | もう一度試す |
 | android, iOS | Turn_On_Notifications | Turn On Notifications | Aktifkan Notifikasi | Hidupkan Pemberitahuan | 打开通知 | 通知をオンにする |
 | android, iOS | Unblock | Unblock | Batal Blokir | Buka sekatan | 解除屏蔽 | ブロックを解除 |
-| android, iOS | Unmute | Unmute | Suarakan | Nyahsenyap | 取消静音 | ミュート解除 |
+| android, iOS, Desktop | Unmute | Unmute | Suarakan | Nyahsenyap | 取消静音 | ミュート解除 |
 | android, iOS | Unnamed_location | Unnamed location | Lokasi tanpa nama | Lokasi tidak dinamakan | 未命名地点 | 名前のない場所 |
-| android, iOS | Unpin | Unpin |     |     | 取消置顶 | ピン留めを止める |
+| android, iOS, Desktop | Unpin | Unpin |     |     | 取消置顶 | ピン留めを止める |
 | android, iOS | Unpin_All_Messages | Unpin All Messages |     |     | 取消所有置顶消息 | 全てのメッセージのピン留めを解除する |
 | android, iOS | unpin_all_messages_confirmation | Are you sure you want to unpin all messages? |     |     | 确定取消置顶所有消息么？ |     |
 | android, iOS | Unread_messages | Unread messages |     |     | 未读消息 | 新しいメッセージ |
@@ -1282,3 +1282,5 @@
 | DesktoP | sign_out | Sign Out |     |     | 登出  |     |
 | Desktop | no_data | No Data |     |     | 没有数据 |     |
 | Desktop | biography | Biography |     |     | 简介  |     |
+| Desktop | mute | Mute |     |     | 静音  |     |
+| Desktop | delete_the_circle |     |     |     |     |     |
