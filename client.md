@@ -1279,3 +1279,4 @@
 | Desktop | strangers | Strangers |     |     | 陌生人 |     |
 | Desktop | pick_a_conversation | Select a conversation and start sending a message |     |     | 选择一个对话，开始发送信息 |     |
 | Desktop | edit_profile | Edit Profile |     |     | 编辑资料 |     |
+| DesktoP | sign_out | Sign Out |     |     | 登出  |     |
