@@ -874,11 +874,11 @@
 | android, iOS | Duplicate_Withdraw_Confirmation | Duplicate Withdraw Confirmation | Konfirmasi Penarikan Ganda | Pengesahan Pengunduran Pendua | 重复提现确认 | 二重出金の確認 |
 | android, iOS | edit_address | Edit %1$s Address |     |     | 修改 %1$s 地址 | %1$sアドレスを修正 |
 | android, iOS | Edit_Biography | Edit Biography | Edit Biografi | Edit Biografi | 修改简介 | 自己紹介文を変更 |
-| android, iOS | Edit_Circle_Name | Edit Circle Name | Edit Nama Lingkaran | Edit Nama Lingkaran | 编辑名称 | リスト名を編集 |
+| android, iOS, Desktop | Edit_Circle_Name | Edit Circle Name | Edit Nama Lingkaran | Edit Nama Lingkaran | 编辑名称 | リスト名を編集 |
 | android, iOS | Edit_Conversations | Edit Conversations | Edit Percakapan | Edit Perbualan | 管理圈子 | リストを編集 |
 | android, iOS | Edit_Group_Description | Edit Group Description | Edit deskripsi grup | Edit keterangan kumpulan | 编辑群公告 | グループアナウンス |
 | android, iOS | Edit_group_name | Edit Group Name | Edit Nama | Edit Nama | 编辑名称 | グループ名を変更 |
-| android, iOS | Edit_Name | Edit Name | Edit Nama | Edit Nama | 修改昵称 | 名前を変更 |
+| android, iOS, Desktop | Edit_Name | Edit Name | Edit Nama | Edit Nama | 修改昵称 | 名前を変更 |
 | android, iOS | Emergency_Contact | Emergency Contact | Kontak darurat | Kenalan kecemasan | 紧急联系人 | 緊急連絡先 |
 | android, iOS | empty_info | You can chat with contacts who have Mixin installed on their phone. | Anda dapat mengobrol dengan kontak yang memasang Mixin di telepon mereka | Anda boleh bersembang dengan kenalan yang memasang Mixin di telefon mereka | 你可以与你的 Mixin 好友一起聊天。 | Mixinをダウンロードしている人と\nいつでもチャットが可能です。 |
 | android, iOS | Enable_Emergency_Contact | Enable Emergency Contact | Aktifkan Kontak Darurat | Bolehkan Kenalan Kecemasan | 启用紧急联系人 | 緊急連絡先を有効にする |
@@ -951,7 +951,7 @@
 | android, iOS | invite_info | Anyone with Mixin can follow this link to join this group. Only share it with people you trust. | Siapapun yang memiliki Mixin dapat mengikuti tautan ini untuk bergabung dengan grup ini. Hanya bagikan dengan orang yang Anda percaya. | Sesiapa sahaja yang mempunyai Mixin boleh mengikuti pautan ini untuk menyertai kumpulan ini. Kongsi sahaja dengan orang yang anda percayai. | Mixin 使用者可以使用此链接加入这个群组，请只跟您信任的人共享链接。 | リンクを知っている人はだれでも参加可能です。信頼できる人だけに共有してください。 |
 | android, iOS | Invite_to_Group_via_Link | Invite to Group via Link | Undang ke Grup melalui Tautan | Jemput ke Kumpulan melalui Pautan | 群邀请链接 | リンクを使って招待する |
 | android, iOS | Join_group | Join Group |     |     | 加入群组 |     |
-| android, iOS | Joined_in | Joined in %1$s | Bergabung di %1$s | Menyertai %1$s | %1$s 加入 | %1$sからMixinを利用しています |
+| android, iOS, Desktop | Joined_in | Joined in %1$s | Bergabung di %1$s | Menyertai %1$s | %1$s 加入 | %1$sからMixinを利用しています |
 | android, iOS | Label | Label | Label | Label | 标题  | ラベル |
 | android, iOS | landing_delete_content | Your account will be deleted on %1$s, if you continue to log in, the request to delete your account will be cancelled. |     |     | 您的账户将于 %1$s 被删除，如果您继续登录，删除您账户的请求将被取消。 | バージョンが古いです (%1$s) 最新版んMixinにアップデートしてください。 |
 | android, iOS | landing_validation_title | Enter the 4-digit code sent to you at %1$s | Masukkan kode 4 digit yang dikirim kepada Anda di %1$s | Masukkan kod 4 digit yang dihantar kepada anda di %1$s | 请输入发送至以下号码的 4 位验证码： %1$s | %1$sに送信された4桁のコードを入力してください |
@@ -1044,7 +1044,7 @@
 | android, iOS | Phone_call | Phone call | Panggilan telepon | Panggilan telefon | 电话呼叫 | 通話  |
 | android, iOS | Phone_Contact | Phone Contacts | Kontak Telepon | Kenalan Telefon | 手机联系人 | 連絡帳と同期 |
 | android, iOS | Phone_Contacts | Phone Contacts | Kontak Telepon | Kenalan Telefon | 手机通讯录 | 連絡帳設定 |
-| android, iOS | Phone_Number | Phone Number | Nomor Telepon | Nombor telefon | 手机号码 | 電話番号からの追加 |
+| android, iOS, Desktop | Phone_Number | Phone Number | Nomor Telepon | Nombor telefon | 手机号码 | 電話番号からの追加 |
 | android, iOS | Phone_number_change | Phone number change | Perubahan nomor telepon | Tukar nombor telefon | 修改手机号 | 電話番号変更 |
 | android, iOS | phone_number_privacy | Who can find me by my number | Siapa yang dapat menemukan saya menurut nomor saya | Siapa yang dapat mencari saya dengan nombor saya | 谁可以通过手机号找到你 | あなたを電話番号検索で追加できるユーザー |
 | android, iOS | Photo | Photo | Foto | Foto | 照片  | 写真  |
@@ -1102,7 +1102,7 @@
 | android, iOS | Revoke_access | Revoke access | Cabut akses | Batal akses | 取消授权 | アクセスを取り消す |
 | android, iOS | Revoke_access_with | Revoke access %1$s? | Cabut akses %1$s? | Batalkan akses %1$s? | 取消 %1$s 授权? | アクセス%1$sを取り消しますか？ |
 | android, iOS | Revoke_multisig_transaction | Revoke Multisig Transaction | Cabut Transaksi Multisig | Batalkan Urus Niaga Multisig | 撤销多重签名交易 | マルチシグトランザクションを取り消す |
-| android, iOS | Save | Save | Simpan | Jimat | 保存  | 保存  |
+| android, iOS, Desktop | Save | Save | Simpan | Jimat | 保存  | 保存  |
 | android, iOS | Save_image | Save Image | Simpan Gambar | Menyimpan imej | 保存图片 | 画像を保存する |
 | android, iOS | Say_Hi | Say Hi | Katakan Hai | Ucap hai | 打招呼 | こんにちは |
 | android, iOS | scam_warning | Warning: Many users reported this account as a scam. Please be careful, especially if it asks you for money | Peringatan: Banyak pengguna yang melaporkan akun ini sebagai scam. Harap berhati-hati, terutama jika meminta uang Anda | Amaran: Ramai pengguna melaporkan akaun ini sebagai penipuan. Sila berhati-hati, terutamanya jika ia meminta wang kepada anda | 警告：此账号被大量用户举报，请谨防网络诈骗，注意个人财产安全 | 警告：たくさん報告されているユーザーです、詐欺に気をつけてください |
@@ -1268,7 +1268,7 @@
 | android, iOS | withdrawal_network_fee | Network fee:  |     |     | 网络手续费： | ネットワーク手数料： |
 | android, iOS | withdrawal_no_memo | No Memo | Tanpa Memo | Tiada Memo | 点击不使用 Memo（备注） | メモなし |
 | android, iOS | withdrawal_to | Withdraw to %1$s | Penarikan ke %1$s | Pengeluaran ke %1$s | 提现到 %1$s | %1$sへ出金 |
-| android, iOS | Write_Circles | Write Circles |     | Tulis Lingkaran | 管理圈子 |     |
+| android, iOS, Desktop | Write_Circles | Write Circles |     | Tulis Lingkaran | 管理圈子 |     |
 | android, iOS | You | You | Anda | Anda | 你   | 自分  |
 | android, iOS | You_deleted_this_message | You deleted this message | Anda menghapus pesan ini | Anda memadamkan mesej ini | 你撤回了一条消息 | このメッセージを削除しました。 |
 | android, iOS | You_have_left_the_group | You have left the group |     |     | 你不在此群组 | あなたはもうこのグループの参加者ではありません |
@@ -1281,4 +1281,4 @@
 | Desktop | edit_profile | Edit Profile |     |     | 编辑资料 |     |
 | DesktoP | sign_out | Sign Out |     |     | 登出  |     |
 | Desktop | no_data | No Data |     |     | 没有数据 |     |
-| Desktop | biography | Biography |     |     |     |     |
+| Desktop | biography | Biography |     |     | 简介  |     |
