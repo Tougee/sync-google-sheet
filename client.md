@@ -980,8 +980,7 @@
 | iOS | screen_lock_unlock | Use %@ to unlock Mixin |     |     | 通过%@解锁 Mixin | Mixinをアンロックするために%@を使用してください |
 | android, iOS, Desktop | Search | Search | Cari | Cari | 搜索  | 検索  |
 | android, iOS, Desktop | Search_Conversation | Search Conversation | Cari Percakapan | Cari Perbualan | 搜索聊天记录 | メッセージを検索 |
-| Desktop | search_empty | No chats, 
-contacts or messages found. |     |     | 找不到联系人或消息。 |     |
+| Desktop | search_empty | No chats, contacts or messages found. |     |     | 找不到联系人或消息。 |     |
 | android, iOS | Search_GIPHY | Search GIPHY | Cari GIPHY | Cari GIPHY | 搜索 GIPHY | GIPHYを検索する |
 | android | search_hint | assets, contacts and messages | aset, kontak, dan pesan | aset, kenalan dan mesej | 搜索资产，联系人，消息 | 資産, 連絡先とメッセージ |
 | android | SEARCH_MESSAGES | SEARCH MESSAGES | PESAN | CARI MESEJ | 搜索消息 | メッセージ |
