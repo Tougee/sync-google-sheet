@@ -585,7 +585,7 @@
 | android, iOS | Hide | Hide | Sembunyikan | Sembunyii | 隐藏  | 非表示 |
 | iOS | Hide_asset | Hide asset |     |     | 隐藏资产 | 資産を非表示にする |
 | android, iOS | hold_to_record_audio | Hold to record, release to send | Tahan untuk merekam, lepaskan untuk mengirim | Tahan untuk merakam, lepaskan untuk hantar | 长按说话，松手发送 | 長押しして録音、離して送信 |
-| android, iOS | Hour | %d Hour |     |     | %d 小时 |     |
+| android, iOS, Desktop | Hour | %d Hour |     |     | %d 小时 |     |
 | android, iOS, Desktop | Hour.count | %d Hours | %d Jam | %d Jam | %d 小时 |     |
 | android | I_know | I know | Saya tahu | saya tahu | 我知道了 | わかりました |
 | iOS, Desktop | image | image |     |     | 图片  | 画像  |
@@ -678,7 +678,7 @@
 | Desktop | login_by_qrcode | Login to Mixin Messenger by QR Code |     |     | 通过二维码登录 Mixin Messenger |     |
 | Desktop | login_by_qrcode_tips | Open Mixin Messenger on your phone, scan the QR Code on the screen and confirm your login. |     |     | 打开手机上的 Mixin Messenger，扫描屏幕上的二维码，确认登录。 |     |
 | android | Login_with_PIN | Login with PIN |     |     | 用 PIN 来登录 |     |
-| iOS | Logined | Logined |     |     | 已登录 | ログインしました |
+| iOS | Logined | Logged in |     |     | 已登录 | ログインしました |
 | android | Logout | Logout… | Keluar… | Log keluar… | 退出中… | ログアウト中… |
 | android, iOS | Logs | Logs | Log | Log | 日志  | ログ  |
 | android, iOS | Lost_your_mobile_number | Lost your mobile number? | Kehilangan nomor ponsel Anda? | Kehilangan nombor telefon bimbit anda? | 手机丢失? | 電話番号をお忘れですか？ |
@@ -989,7 +989,7 @@ contacts or messages found. |     |     | 找不到联系人或消息。 |     |
 | android, iOS | search_placeholder_asset | Name, Symbol |     |     | 名称, 符号 | 名前、シンボル |
 | iOS | search_placeholder_contact | Mixin ID, Name, Phone number |     |     | Mixin ID, 名称, 手机号码 | Mixin ID, 名前, 電話番号 |
 | android, iOS | search_placeholder_number | Search Mixin ID or phone number:  |     |     | 搜索 Mixin ID 或手机号码： | Mixin ID または電話番号を検索 |
-| android, iOS | search_related_message | %1$d related message |     |     | %1$d 条相关的消息 |     |
+| android, iOS, Desktop | search_related_message | %1$d related message |     |     | %1$d 条相关的消息 |     |
 | android, iOS, Desktop | search_related_message.count | %1$d related messages | %1$d pesan terkait | %1$d mesej berkaitan | %1$d 条相关的消息 |     |
 | iOS | search_result_prefix_phone | Phone Number:  |     |     | 手机号码： | 電話番号:  |
 | android | Searching | Searching | Mencari | Mencari | 搜索中 |     |
@@ -1021,8 +1021,10 @@ contacts or messages found. |     |     | 找不到联系人或消息。 |     |
 | iOS | setting_appearance_language_alert_description | You can pick a preferred language in settings |     |     | 前往系统设置修改语言偏好 | お使いのiPhoneの設定画面から言語を変更することができます |
 | android, iOS | setting_auth_access | Approved: %1$s, Last Accessed: %2$s | Disetujui: %1$s, Terakhir Diakses: %2$s | Diluluskan: %1$s, Akses Terakhir: %2$s | 授权时间：%1$s, 上次访问：%2$s | 許可: %1$s, 最終アクセス: %2$s |
 | android, iOS, Desktop | setting_auth_search_hint | Mixin ID, Name | Mixin ID, Nama | Mixin ID, Nama | Mixin ID, 昵称 | Mixin ID, 名前 |
-| iOS | setting_backup_tips | Back up your chat history to iCloud. if you lose your iPhone or switch to a new one, you can restore your chat history when you reinstall Mixin Messenger. Messages you back up are not protected by Mixin Messenger end-to-end encryption while in iCloud. |     |     | 备份你的聊天记录到 iCloud。如果你丢失或者更换手机，你可以在重新安装 Mixin Messenger 时恢复你的聊天记录。注意备份到 iCloud 中的聊天记录不受端对端加密保护！ | iCloudにチャット履歴をバックアップします。 iPhoneを紛失または機種変更した場合にMixinメッセンジャーを再インストールしてチャット履歴を復元できます。バックアップしたメッセージがiCloudに存在する間はMixinメッセンジャーのエンドツーエンド暗号によって保護されていません。 |
-| android | setting_battery_optimize_title | To ensure that Mixin receives messages properly, please set Mixin's battery optimization policy to "Don't Optimize" |     |     | 为了保证 Mixin 能够正常收到消息，请将 Mixin 的电池优化策略设置为“不优化” | Mixinが安全にメッセージを受け取るために、Mixin' のバッテリーを "Don't Optimize"へ最適化してください。 |
+| iOS | setting_backup_tips | Back up your chat history to iCloud. if you lose your iPhone or switch to a new one, you can restore your chat history when you reinstall Mixin Messenger. Messages you back up are not protected by Mixin Messenger end-to-end encryption while in iCloud. |     |     |     | iCloudにチャット履歴をバックアップします。 iPhoneを紛失または機種変更した場合にMixinメッセンジャーを再インストールしてチャット履歴を復元できます。バックアップしたメッセージがiCloudに存在する間はMixinメッセンジャーのエンドツーエンド暗号によって保護されていません。 |
+| android | setting_battery_optimize_title | This will improve reliability for incoming notifications and Mixin calls |     |     | 这将提高 Mixin 通知和呼叫的可靠性。 |     |
+| android | setting_battery_optimize_title_one_ui_below_s | This will improve reliability for incoming notifications and Telegram calls. Tap Settings -> Battery and turn <b>Allow background activity</b> on. |     |     |     |     |
+| android | setting_battery_optimize_title_one_ui_above_s | This will improve reliability for incoming notifications and Telegram calls. Please select <b>Optimised</b> or <b>Unrestricted</b> in Settings > Battery. |     |     |     |     |
 | android | setting_biometric_error_hardware_unavailable | Hardware unavailable, try again later |     | Perkakasan tidak tersedia, cuba lagi kemudian | 当前设备硬件不可用，请稍后再试 | ハードウェアが無効です |
 | android | setting_biometric_error_none_enrolled | No biometric or device credential is enrolled |     | Tiada bukti biometrik atau peranti didaftarkan | 未录入指纹或其他设备解锁凭证 | 生体認証可能な機種ではありません |
 | android | setting_biometric_error_not_secure | The key NOT resides inside secure hardware (TEE) |     | Kunci TIDAK berada di dalam perkakasan selamat (TEE) | 当前设备不安全 | 鍵はセキュアハードウェア(TEE)内に存在しません。 |
