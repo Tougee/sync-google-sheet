@@ -389,7 +389,7 @@
 | android, iOS | deposit_tip_trx | This address supports all TRC-10 and TRC-20 tokens. | Alamat ini mendukung semua token TRC-10 dan TRC-20, seperti TRX, BTT, USDT-TRON, dll. | Alamat ini menyokong semua token TRC-10 dan TRC-20, seperti TRX, BTT, USDT-TRON, dll. | 支持 TRX 和所有符合 TRC-10 TRC-20 标准的代币。 |     |
 | android | desktop | desktop | desktop | desktop | 桌面端 | デスクトップ |
 | android | desktop_login_no_pin | For your account security, please set up the PIN before logging into the desktop app. |     |     | 为了您的安全，登录桌面前请先设置 PIN 码！ | アカウントの安全を保つために、デスクトップアプリにログインする前にPINコードの設定をしてください。 |
-| android, iOS | desktop_on_hint | You have your desktop logged in |     |     | 桌面版已登入 |     |
+| android, iOS | desktop_on_hint | You have your desktop logged in |     |     | 桌面版已登入。 |     |
 | android, iOS | desktop_upgrade | Please upgrade Mixin Messenger Desktop to the latest version. | Harap tingkatkan Mixin Messenger Desktop ke versi terbaru. | Sila tingkatkan Mixin Messenger Desktop kepada versi terkini. | 请升级 Mixin Messenger 桌面端至最新版！ | デスクトップ版Mixinを最新バージョンにアップデートしてください。 |
 | android, iOS | detect_qr_tip | Detected a Mixin QR code, tap to recognize | Mendeteksi kode QR Mixin, ketuk untuk mengenali | Mengesan kod QR Mixin, ketuk untuk mengenali | 检测到一个 Mixin 二维码，点击识别 | Mixin QRコードを検出しました、タップしてアクセスします |
 | android, iOS, Desktop | Developer | Developer | Pengembang | Pemaju | 开发者 | 開発者情報 |
@@ -791,7 +791,7 @@
 | android, iOS | Notification_and_Confirmation | Notification and Confirmation | Notifikasi dan Konfirmasi | Pemberitahuan dan Pengesahan | 通知和确认 | 通知・送金確認 |
 | android | notification_channel_description | Shows what music is currently playing in Mixin Messenger |     | Tunjukkan muzik apa yang sedang dimainkan di Mixin Messenger | 显示 Mixin Messenger 中正在播放的音乐 | Mixinで再生中の音楽を表示 |
 | android, iOS, Desktop | notification_content | Don't miss messages from your friends. | Jangan lewatkan pesan dari teman Anda. | Jangan terlepas mesej daripada rakan anda. | 不再遗漏好友的消息。 | 友達からのメッセージを見逃さないで！ |
-| iOS | notification_message_preview_description | Preview message text inside new message notifications |     |     | 在推送通知中显示消息内容 | 通知でメッセージ内容を表示する |
+| iOS | notification_message_preview_description | Preview message text inside new message notifications |     |     | 在推送通知中显示消息内容。 | 通知でメッセージ内容を表示する |
 | android, Desktop | Notifications | Notifications | Notifikasi | Pemberitahuan | 通知  | 通知  |
 | iOS, Desktop | now_an_addmin | %@ now an admin |     |     | %@现在是管理员 | %@はサブリーダーです |
 | android | Now_Playing | Now Playing |     | Main sekarang | 正在播放 | 再生中 |
