@@ -1041,7 +1041,7 @@
 | android | setting_delete_account_url | https://mixinmessenger.zendesk.com/hc/articles/4414170627988 |     |     |     |     |
 | android, iOS | setting_desktop_confirm | Confirm login to Mixin Messenger Desktop | Konfirmasikan masuk ke Mixin Messenger Desktop |  Sahkan log masuk ke Desktop Mixin Messenger | 确认登录 Mixin Messenger 桌面端 | デスクトップ版Mixinへの\nログインを確認 |
 | android | setting_desktop_logout_failed | Logout of desktop failed. | Gagal keluar dari desktop. | Log keluar desktop gagal. | 退出桌面端失败 | デスクトップ版からのログアウトに失敗しました |
-| android, iOS | setting_duplicate_transfer_desc | Display confirmation dialog when you transfer the same amount to the same person within 6 hours |     | Paparkan dialog pengesahan apabila anda memindahkan jumlah yang sama kepada orang yang sama dalam masa 6 jam | 当你在 6 个小时内给相同的人转相同的金额时显示确认弹窗 | 6時間以内に同じ人に同額の送金を実行する際、確認を行う。 |
+| android, iOS | setting_duplicate_transfer_desc | Display confirmation dialog when you transfer the same amount to the same person within 6 hours |     | Paparkan dialog pengesahan apabila anda memindahkan jumlah yang sama kepada orang yang sama dalam masa 6 jam | 当你在 6 个小时内给相同的人转相同的金额时显示确认弹窗。 | 6時間以内に同じ人に同額の送金を実行する際、確認を行う。 |
 | android | setting_emergency_change_mobile | Do you want to change your mobile number now? | Ingin mengubah nomor ponsel Anda sekarang? | Adakah anda mahu menukar nombor telefon bimbit anda sekarang? | 立即修改手机号？ | 新しい電話番号の登録をしますか？ |
 | android | setting_emergency_change_success | Change emergency contact successfully | Berhasil mengubah kontak darurat | Penukaran kenalan kecemasan berjaya | 修改紧急联系人成功 | 緊急連絡先を変更しました |
 | android, iOS | setting_emergency_content | The emergency contact is designed to help you log in to your account if you are lost and can not retrieve your mobile number. | Kontak darurat ditujukan untuk membantu Anda masuk ke akun Anda jika Anda lupa akun dan tidak dapat mengambil kembali nomor ponsel Anda. | Kenalan kecemasan direka untuk membantu anda log masuk ke akaun anda sekiranya anda tersesat dan tidak dapat semula nombor telefon bimbit anda. | 紧急联系人旨在帮助你在丢失且无法找回手机号的情况下登录你的账号。 | 緊急連絡先は、紛失等の理由でデバイスへのアクセスが出来なくなった場合、ログインする方法となります。 |
@@ -1055,13 +1055,13 @@
 | android | setting_enable_biometric_pay | Enable Biometric Pay? |     | Bolehkan Bayaran Biometrik? | 开启生物识别支付？ | 生体認証で払いますか? |
 | android | setting_incognito_prompt | Disable keyboard personalized learning |     | Lumpuhkan pembelajaran peribadi papan kekunci | 禁止键盘个性化学习 | 予測変換の自動学習を無効化 |
 | android, iOS | setting_mobile_contact_warning | This will remove your contacts from the Mixin servers. | Ini akan menghapus kontak Anda dari server Mixin. | Ini akan mengalih keluar kenalan anda dari pelayan Mixin. | 确定删除已同步到 Mixin 服务器的通讯录？ | これにより、Mixinサーバーから連絡先が削除されます。 |
-| android, iOS | setting_notification_transfer_summary | Display notifications when receiving a transfer greater than or equal to %1$s. |     |     | 收到不少于 %1$s 转账时显示通知 | %1$s以上を受け取った時に通知する |
+| android, iOS | setting_notification_transfer_summary | Display notifications when receiving a transfer greater than or equal to %1$s. |     |     | 收到不少于 %1$s 转账时显示通知。 | %1$s以上を受け取った時に通知する |
 | android, iOS | setting_privacy_tip | Change who can add you to conversation and groups. | Ubah siapa yang dapat menambahkan Anda ke percakapan dan grup. | Tukar siapa yang boleh menambahkan anda ke perbualan dan kumpulan. | 谁可以给你发消息或邀请你加入群聊。 | あなた宛のメッセージや通話を制限 |
 | android, iOS | setting_storage_clear | Clear %1$d message (%2$s)? |     |     | 清除 %1$d 条消息 (%2$s)? |     |
 | android, iOS | setting_storage_clear.count | Clear %1$d messages (%2$s)? | Hapus %1$d pesan (%2$s)? | Kosongkan %1$d mesej (%2$s)? | 清除 %1$d 条消息 (%2$s)? |     |
 | android | setting_stranger_transfer_desc | Display confirmation dialog when you transfer to stranger |     | Paparkan dialog pengesahan apabila anda berpindah kepada orang asing | 当你给陌生人转账时显示确认弹窗 | 連絡先に追加していないユーザーへの送金を実行する際、確認を行う。 |
-| android, iOS | setting_transfer_large_summary | Show confirmation dialog when transfer greater than or equal to %1$s | Tampilkan dialog konfirmasi saat transfer lebih besar dari atau sama dengan %1$s | Tunjukkan dialog pengesahan apabila pemindahan lebih dari atau sama dengan %1$s | 当转账金额大于或等于 %1$s 时显示确认弹窗 | %1$s以上の送金時に確認画面を表示する |
-| android, iOS | setting_transfer_large_summary_greater | Show confirmation dialog when transfer greater than %1$s |     |     | 当转账金额大于 %1$s 时显示确认弹窗 | %1$s以上の送金時に確認画面を表示する |
+| android, iOS | setting_transfer_large_summary | Show confirmation dialog when transfer greater than or equal to %1$s | Tampilkan dialog konfirmasi saat transfer lebih besar dari atau sama dengan %1$s | Tunjukkan dialog pengesahan apabila pemindahan lebih dari atau sama dengan %1$s | 当转账金额大于或等于 %1$s 时显示确认弹窗。 | %1$s以上の送金時に確認画面を表示する |
+| android, iOS | setting_transfer_large_summary_greater | Show confirmation dialog when transfer greater than %1$s |     |     | 当转账金额大于 %1$s 时显示确认弹窗。 | %1$s以上の送金時に確認画面を表示する |
 | android, iOS | Settings | Settings | Pengaturan | Tetapan | 设置  | 設定  |
 | android, iOS, Desktop | Share | Share | Bagikan | Berkongsi | 分享  | 共有  |
 | Desktop | share_apps | Shared Apps |     |     | 分享的应用 |     |
