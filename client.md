@@ -1248,7 +1248,7 @@
 | android | wallet_already_shown | %1$s has been shown | %1$s telah ditampilkan | %1$s telah ditunjukkan | 已显示 %1$s | %1$sが表示されました |
 | android | wallet_biometric_invalid | Invalid biometrics state, please reset in wallet setting. | Status biometrik tidak valid, harap reset pada pengaturan wallet. | Keadaan biometrik tidak sah, sila tetapkan semula dalam tetapan dompet. | 生物识别失效，请重新设置。 | 生体認証が無効です。ウォレット設定からリセットしてください。 |
 | android | wallet_biometric_screen_lock_desc | Use your device pattern to continue | Gunakan pola perangkat Anda untuk melanjutkan | Gunakan corak peranti anda untuk meneruskan | 请解锁您的设备以继续 | パターンを使用して続ける |
-| iOS | wallet_enable_biometric_pay | Once enabled, %@ can be used to make quick transfers |     |     | 开启后，转账时可验证%@快速完成付款 | 一度有効にすると%@を使ってスムーズに送金できます |
+| iOS | wallet_enable_biometric_pay | Once enabled, %@ can be used to make quick transfers |     |     | 开启后，转账时可验证%@快速完成付款。 | 一度有効にすると%@を使ってスムーズに送金できます |
 | android | wallet_enable_biometric_pay_prompt | Once enabled, biometrics can be used to make quick transfers |     | Setelah dibolehkan, biometrik dapat digunakan untuk melakukan pemindahan cepat | 开启后，转账时可验证生物识别快速完成付款 | 支払い時の生体認証を有効にします |
 | iOS | wallet_hide_asset_confirmation | Are you sure you want to hide %@? |     |     | 您确定要隐藏%@吗？ | 本当に%@を隠しますか? |
 | android | wallet_password_change_tip | Please enter the 6 digit PIN to verify. | Harap masukkan PIN 6 digit untuk memverifikasi. | Sila masukkan PIN 6 digit untuk mengesahkan. | 请输入6位 PIN 来验证 | 認証するために6桁のPINを入力してください。 |
