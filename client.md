@@ -1362,3 +1362,4 @@
 | Desktop | next_conversation | Next conversation |     |     | 下一个会话 |     |
 | Desktop | toggle_chat_info | Toggle chat info |     |     | 展开/关闭会话信息 |     |
 | Desktop | close_window | Close window |     |     | 关闭窗口 |     |
+| Desktop | send_without_compression | Send without compression |     |     | 发送原始文件 |     |
