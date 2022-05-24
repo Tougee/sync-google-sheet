@@ -248,7 +248,7 @@
 | android, iOS | circle_info | Create circles for different groups of chats and quickly switch between them | Jika Anda ingin memfilter percakapan, harap setel lingkaran untuk percakapan tersebut terlebih dahulu. | Sekiranya anda ingin menapis perbualan, sila\ntetapkan lingkaran untuk perbualan terlebih dahulu. | 新建一个圈子可以过滤会话 | 最初のリストを作成して、\n自分の好きなユーザーやロボを追加しましょう |
 | android, iOS | circle_limit | The number has reached the limit | Jumlahnya sudah mencapai batas | Jumlahnya sudah mencapai had | 已达到上限 | 数が上限に達しました |
 | android, iOS | circle_no_conversation_hint | You can add contacts or groups to the current circle |     |     | 您可以添加联系人或者群组到当前圈子 | 連絡先またはグループを\n現在のリストに追加できます。 |
-| android, iOS | circle_subtitle | %1$d Conversation |     |     | %1$d 会话 |     |
+| android, iOS, Desktop | circle_subtitle | %1$d Conversation |     |     | %1$d 会话 |     |
 | android, iOS | circle_subtitle.count | %1$d Conversations | %1$d Percakapan | %1$d Perbualan | %1$d 会话 |     |
 | android, iOS, Desktop | circle_title | %1$s's Circles | Lingkaran %1$s | Lingkaran %1$s | %1$s的圈子 |     |
 | android, iOS, Desktop | Circles | Circles | Lingkaran | Lingkaran | 圈子  |     |
