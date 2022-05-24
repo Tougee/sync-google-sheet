@@ -1342,7 +1342,7 @@
 | Desktop | original_image | Original |     |     | 原图  |     |
 | Desktop | edit_image_clear_warning | All changes will be lost. Are you sure you want to exit? |     |     | 退出将会清除此次所有的改动。 |     |
 | Desktop | reset | Reset |     |     | 重置  |     |
-| Desktop | unable_to_open_file | Unable to open file: %1$s |     |     | 无法打开文件:  |     |
+| Desktop | unable_to_open_file | Unable to open file: %1$s |     |     | 无法打开文件：%1$s |     |
 | Desktop | open_log_directory | open log directory |     |     | 打开日志文件夹 |     |
 | Desktop | check_new_version | Check new version |     |     | 检查新版本 |     |
 | Desktop | ignore_this_version | Ignore the new version |     |     | 忽略这次版本更新 |     |
