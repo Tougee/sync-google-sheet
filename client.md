@@ -1365,3 +1365,4 @@
 | Desktop | close_window | Close window |     |     | 关闭窗口 |     |
 | Desktop | send_without_compression | Send without compression |     |     | 发送原始文件 |     |
 | Desktop | share_contact | Share Contact |     |     | 分享联系人 |     |
+| Desktop | new_version_available | New version available |     |     | 发现新版本 |     |
