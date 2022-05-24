@@ -249,7 +249,7 @@
 | android, iOS | circle_limit | The number has reached the limit | Jumlahnya sudah mencapai batas | Jumlahnya sudah mencapai had | 已达到上限 | 数が上限に達しました |
 | android, iOS | circle_no_conversation_hint | You can add contacts or groups to the current circle |     |     | 您可以添加联系人或者群组到当前圈子 | 連絡先またはグループを\n現在のリストに追加できます。 |
 | android, iOS, Desktop | circle_subtitle | %1$d Conversation |     |     | %1$d 会话 |     |
-| android, iOS | circle_subtitle.count | %1$d Conversations | %1$d Percakapan | %1$d Perbualan | %1$d 会话 |     |
+| android, iOS, Desktop | circle_subtitle.count | %1$d Conversations | %1$d Percakapan | %1$d Perbualan | %1$d 会话 |     |
 | android, iOS, Desktop | circle_title | %1$s's Circles | Lingkaran %1$s | Lingkaran %1$s | %1$s的圈子 |     |
 | android, iOS, Desktop | Circles | Circles | Lingkaran | Lingkaran | 圈子  |     |
 | android, iOS, Desktop | Clear | Clear | Bersihkan | Kosong | 清理  | クリア |
@@ -1021,7 +1021,7 @@
 | iOS | setting_appearance_language_alert_description | You can pick a preferred language in settings |     |     | 前往系统设置修改语言偏好 | お使いのiPhoneの設定画面から言語を変更することができます |
 | android, iOS | setting_auth_access | Approved: %1$s, Last Accessed: %2$s | Disetujui: %1$s, Terakhir Diakses: %2$s | Diluluskan: %1$s, Akses Terakhir: %2$s | 授权时间：%1$s, 上次访问：%2$s | 許可: %1$s, 最終アクセス: %2$s |
 | android, iOS, Desktop | setting_auth_search_hint | Mixin ID, Name | Mixin ID, Nama | Mixin ID, Nama | Mixin ID, 昵称 | Mixin ID, 名前 |
-| iOS | setting_backup_tips | Back up your chat history to iCloud. if you lose your iPhone or switch to a new one, you can restore your chat history when you reinstall Mixin Messenger. Messages you back up are not protected by Mixin Messenger end-to-end encryption while in iCloud. |     |     |     | iCloudにチャット履歴をバックアップします。 iPhoneを紛失または機種変更した場合にMixinメッセンジャーを再インストールしてチャット履歴を復元できます。バックアップしたメッセージがiCloudに存在する間はMixinメッセンジャーのエンドツーエンド暗号によって保護されていません。 |
+| iOS, Desktop | setting_backup_tips | Back up your chat history to iCloud. if you lose your iPhone or switch to a new one, you can restore your chat history when you reinstall Mixin Messenger. Messages you back up are not protected by Mixin Messenger end-to-end encryption while in iCloud. |     |     |     | iCloudにチャット履歴をバックアップします。 iPhoneを紛失または機種変更した場合にMixinメッセンジャーを再インストールしてチャット履歴を復元できます。バックアップしたメッセージがiCloudに存在する間はMixinメッセンジャーのエンドツーエンド暗号によって保護されていません。 |
 | android | setting_battery_optimize_title | This will improve reliability for incoming notifications and Mixin calls |     |     | 这将提高 Mixin 通知和呼叫的可靠性。 |     |
 | android | setting_battery_optimize_title_one_ui_below_s | This will improve reliability for incoming notifications and Telegram calls. Tap Settings -> Battery and turn <b>Allow background activity</b> on. |     |     |     |     |
 | android | setting_battery_optimize_title_one_ui_above_s | This will improve reliability for incoming notifications and Telegram calls. Please select <b>Optimised</b> or <b>Unrestricted</b> in Settings > Battery. |     |     |     |     |
