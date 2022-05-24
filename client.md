@@ -35,7 +35,7 @@
 | android, iOS | Add_memo | Add Memo | Tambahkan Memo | Tambah Memo | 点击添加 Memo（备注） | メモを追加する |
 | android, iOS, Desktop | Add_participants | Add Participants | Tambahkan Peserta | Tambah Peserta | 添加成员 | メンバーを追加 |
 | android | Add_people_hint | Add people by Mixin ID or phone number | ID Mixin atau Nomor telepon | Mixin ID atau Nombor telefon | 通过 Mixin ID 或手机号添加联系人 | Mixin IDまたは電話番号で追加する |
-| android | add_people_search_hint | Mixin ID or Phone number |     |     | Mixin ID 或手机号 | Mixin IDもしくは電話番号 |
+| android, Desktop | add_people_search_hint | Mixin ID or Phone number |     |     | Mixin ID 或手机号 | Mixin IDもしくは電話番号 |
 | android, iOS, Desktop | Add_Sticker | Add Sticker |     |     | 添加贴纸 | スタンプを追加する |
 | android, Desktop | Add_sticker_failed | Add sticker failed | Gagal menambahkan stiker | Penambahan pelekat gagal | 添加贴纸失败 | スタンプの追加に失敗しました |
 | android, iOS, Desktop | Add_stickers | Add Stickers |     |     | 添加所有表情 | スタンプを追加 |
