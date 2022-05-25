@@ -1114,8 +1114,6 @@
 | Desktop | strangers | Strangers |     |     | 陌生人 |     |
 | android | strikethrough | strikethrough |     | mencoret | 删除线 | 取り消し線 |
 | android, Desktop | Successful | Successful | Berhasil | Berjaya | 成功  | 成功  |
-| iOS | Successfully_changed_emergency_contact | Successfully changed emergency contact |     |     | 成功设置紧急联系人 | 緊急連絡先を変更しました |
-| iOS | Successfully_changed_phone_number | Successfully changed phone number |     |     | 更换手机号成功 | 電話番号を変更しました |
 | android | Sunday | Sunday | Minggu | Ahad | 星期日 | 日曜日 |
 | android, iOS | Suspicious_Link | Suspicious Link | Tautan yang Mencurigakan | Pautan yang mencurigakan | 可疑链接 | 不審なリンクです |
 | android | Switching_currency | Switching currency | Mengganti mata uang | Menukar mata wang | 切换货币中 | 通貨を切り替え |
