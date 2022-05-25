@@ -592,7 +592,7 @@
 | iOS, Desktop | image | image |     |     | 图片  | 画像  |
 | android, iOS | Immediately | Immediately |     |     | 立刻  | すぐに |
 | android | Import | Import |     |     | 导入聊天记录 | インポート |
-| android, iOS | in_connecting | Connecting… | Menyambungkan… | Menyambung… | 正在连接… | …に接続中 |
+| android, iOS | in_connecting | Connecting... | Menyambungkan… | Menyambung… | 正在连接… | …に接続中 |
 | iOS, Desktop | Include_files | Include Files |     |     | 包括文件 | ファイルをバックアップ |
 | iOS, Desktop | Include_videos | Include Videos |     |     | 包括视频 | 動画をバックアップ |
 | android | Incognito_Keyboard | Incognito Keyboard |     | Papan Kekunci Inkognito | 隐身键盘 | シークレットキーボード |
