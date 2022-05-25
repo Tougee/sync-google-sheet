@@ -1060,7 +1060,7 @@
 | android, iOS | setting_storage_clear.count | Clear %1$d messages (%2$s)? | Hapus %1$d pesan (%2$s)? | Kosongkan %1$d mesej (%2$s)? | 清除 %1$d 条消息 (%2$s)? |     |
 | android | setting_stranger_transfer_desc | Display confirmation dialog when you transfer to stranger |     | Paparkan dialog pengesahan apabila anda berpindah kepada orang asing | 当你给陌生人转账时显示确认弹窗 | 連絡先に追加していないユーザーへの送金を実行する際、確認を行う。 |
 | android, iOS | setting_transfer_large_summary | Show confirmation dialog when transfer greater than or equal to %1$s. | Tampilkan dialog konfirmasi saat transfer lebih besar dari atau sama dengan %1$s | Tunjukkan dialog pengesahan apabila pemindahan lebih dari atau sama dengan %1$s | 当转账金额大于或等于 %1$s 时显示确认弹窗。 | %1$s以上の送金時に確認画面を表示する |
-| android, iOS | setting_transfer_large_summary_greater | Show confirmation dialog when transfer greater than %1$s |     |     | 当转账金额大于 %1$s 时显示确认弹窗。 | %1$s以上の送金時に確認画面を表示する |
+| android, iOS | setting_transfer_large_summary_greater | Show confirmation dialog when transfer greater than %1$s. |     |     | 当转账金额大于 %1$s 时显示确认弹窗。 | %1$s以上の送金時に確認画面を表示する |
 | android, iOS | Settings | Settings | Pengaturan | Tetapan | 设置  | 設定  |
 | android, iOS, Desktop | Share | Share | Bagikan | Berkongsi | 分享  | 共有  |
 | Desktop | share_apps | Shared Apps |     |     | 分享的应用 |     |
