@@ -78,6 +78,10 @@
 | android, iOS | alert_key_group_text_message | %1$s sent a message | %1$s mengirim pesan | %1$s hantar mesej | %1$s 发送一条消息 | %1$sがメッセージを送信しました |
 | android, iOS | alert_key_group_transcript_message | %1$s sent a transcript |     |     | %1$s 分享一个聊天记录 | %1$sがメッセージ履歴を共有しました |
 | android, iOS | alert_key_group_video_message | %1$s sent a video | %1$s mengirim video | %1$s hantar video | %1$s 发送一个视频 | %1$sが動画を送信しました |
+| iOS | alert_key_contact_message | sent you a message |     |     | 发送一条消息 |     |
+| iOS | alert_key_contact_audio_call_cancelled_message | voice call cancelled |     |     | 对方已取消语音通话 |     |
+| iOS | alert_key_group_message | %1$s sent a message |     |     | %1$s 发来一条信息 |     |
+| iOS | alert_key_group_audio_invite_message | %1$s invites you to a voice call |     |     | %1$s 邀请你进行语音通话 |     |
 | android, iOS | All | All | Semua | Semua | 全部  | すべて |
 | Desktop | all_chats | Chats |     |     | 全部聊天 |     |
 | android, iOS | All_Conversations | All Conversations | Semua Percakapan | Semua Perbualan | 所有会话 | すべてのチャット |
@@ -90,7 +94,7 @@
 | android | ANSWER | ANSWER | JAWAB | JAWAPAN | 接听  | 電話をとる |
 | android, iOS | app_card_shareable_false | The card has been set to not allow sharing |     |     | 包含不允许转发的卡片 | このカードを共有することはできません |
 | android | app_name | Mixin |     |     |     |     |
-| android, iOS | App_not_found | App not found | Aplikasi tidak ditemukan | Aplikasi tidak dijumpai | 找不到这个机器人 | アプリが見つかりません |
+| android, iOS | Bot_not_found | Bot not found | Aplikasi tidak ditemukan | Aplikasi tidak dijumpai | 找不到这个机器人 | アプリが見つかりません |
 | iOS | app_pin_hint | You can long press and drag the frequently used robots here to display them on the home |     |     | 可将常用机器人长按拖至此处，可显示于首页 | よく使うロボを長押ししてドラッグすることでホーム画面から直接ロボにアクセスできます |
 | iOS | app_update_short_hint | Please update Mixin from App Store to continue use the service. |     |     | 请从 App Store 更新 Mixin 至最新版 | Mixinをアップデートしてください |
 | iOS | app_update_tips | The current version (%@) is no longer available! Please click "Update" below to update to the latest version from the App Store. |     |     | 当前版本（%@）已失效！请点击下方"更新"从 App Store 更新至最新版。 | (%@) "Update" AppStoreで新しいバージョンを入手してください。 |
@@ -242,7 +246,7 @@
 | android | CHOOSE | CHOOSE |     |     | 选择  | 選択  |
 | android | Choose_folder | Choose folder |     |     | 选择文件夹 | フォルダを選択する |
 | iOS | Choose_Photo | Choose Photo |     |     | 选择照片 | 画像を選ぶ |
-| android, iOS | circle_bottom | Create circle for different  groups of chats and quickly switch between them | Buat lingkaran untuk grup obrolan yang berbeda dan beralih dengan cepat di antaranya | Buat lingkaran untuk kumpulan sembang yang berbeza \ndan beralih antara mereka dengan segera | 为不同对话创建 圈子然后在它们之间快速切换 | チャットやロボ（高機能アカウント）を追加して\nリストを作成しましょう |
+| android, iOS | circle_bottom | Create circle for different groups of chats and quickly switch between them | Buat lingkaran untuk grup obrolan yang berbeda dan beralih dengan cepat di antaranya | Buat lingkaran untuk kumpulan sembang yang berbeza \ndan beralih antara mereka dengan segera | 为不同对话创建 圈子然后在它们之间快速切换 | チャットやロボ（高機能アカウント）を追加して\nリストを作成しましょう |
 | android | circle_delete_tip | Delete "%1$s" ? | Hapus "%1$s"? | Padamkan "%1$s"? | 确认删除 "%1$s" ? | "%1$s"を削除しますか？ |
 | android, iOS | circle_info | Create circles for different groups of chats and quickly switch between them | Jika Anda ingin memfilter percakapan, harap setel lingkaran untuk percakapan tersebut terlebih dahulu. | Sekiranya anda ingin menapis perbualan, sila\ntetapkan lingkaran untuk perbualan terlebih dahulu. | 新建一个圈子可以过滤会话 | 最初のリストを作成して、\n自分の好きなユーザーやロボを追加しましょう |
 | android, iOS | number_reached_limit | The number has reached the limit | Jumlahnya sudah mencapai batas | Jumlahnya sudah mencapai had | 已达到上限 | 数が上限に達しました |
