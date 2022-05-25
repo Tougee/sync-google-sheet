@@ -190,14 +190,13 @@
 | iOS | Change_Number | Change Number |     |     | 修改手机号 | 電話番号を変更 |
 | android, iOS | Change_Number_Instead | Change Number Instead |     |     | 仅修改手机号码 | 電話番号を変更 |
 | android, iOS | Change_Phone_Number | Change Phone Number | Ubah Nomor Telepon | Tukar Nombor Telefon | 修改手机号 | 電話番号を変更 |
-| android | change_phone_number_successfully | Change phone number successfully! | Berhasil mengubah nomor telepon! | Penukaran nombor telefon berjaya! | 修改手机号成功! | 電話番号を変更しました! |
 | android, iOS | Change_PIN | Change PIN | Ubah PIN | Tukar PIN | 修改 PIN | PINを変更する |
 | android, iOS | Change_PIN_successfully | Change PIN successfully | Berhasil mengubah PIN | Penukaran PIN berjaya | PIN 修改成功 | PINの変更が完了しました。 |
 | android, iOS | Change_Profile_Photo_with_Camera | Change Profile Photo with Camera | Ubah Foto Profil dengan Kamera | Tukar Foto Profil dengan Kamera | 更换头像（相机） | プロフィール画像を撮影 |
 | android, iOS | Change_Profile_Photo_with_Library | Change Profile Photo with Library | Ubah Foto Profil dengan Koleksi | Tukar Foto Profil dengan Perpustakaan | 更换头像（相册） | プロフィール画像を選択 |
 | iOS | Change_Settings | Change Settings |     |     | 更改设置 | 設定を変更する |
 | iOS | Change_your_app_language | Change your app language |     |     | 设置语言 | アプリの言語を変更する |
-| iOS | Changed | Changed |     |     | 已修改 | 変更しました |
+| android, iOS | Changed | Changed |     |     | 已修改 | 変更しました |
 | android, iOS | changed_disappearing_message_settings | %1$s changed disappearing message settings. |     |     | %1$s 修改了限时消息设置 |     |
 | android | Changing | Changing... | Mengubah… | Menukar… | 正在修改… | 変更中… |
 | android, iOS, Desktop | chat_app_reception_title | Tap the button to interact with the bot |     |     | 点击按钮使用机器人 |     |
@@ -1044,7 +1043,6 @@
 | android | setting_desktop_logout_failed | Logout of desktop failed. | Gagal keluar dari desktop. | Log keluar desktop gagal. | 退出桌面端失败 | デスクトップ版からのログアウトに失敗しました |
 | android, iOS | setting_duplicate_transfer_desc | Display confirmation dialog when you transfer the same amount to the same person within 6 hours |     | Paparkan dialog pengesahan apabila anda memindahkan jumlah yang sama kepada orang yang sama dalam masa 6 jam | 当你在 6 个小时内给相同的人转相同的金额时显示确认弹窗。 | 6時間以内に同じ人に同額の送金を実行する際、確認を行う。 |
 | android | setting_emergency_change_mobile | Do you want to change your mobile number now? | Ingin mengubah nomor ponsel Anda sekarang? | Adakah anda mahu menukar nombor telefon bimbit anda sekarang? | 立即修改手机号？ | 新しい電話番号の登録をしますか？ |
-| android | setting_emergency_change_success | Change emergency contact successfully | Berhasil mengubah kontak darurat | Penukaran kenalan kecemasan berjaya | 修改紧急联系人成功 | 緊急連絡先を変更しました |
 | android, iOS | setting_emergency_content | The emergency contact is designed to help you log in to your account if you are lost and can not retrieve your mobile number. | Kontak darurat ditujukan untuk membantu Anda masuk ke akun Anda jika Anda lupa akun dan tidak dapat mengambil kembali nomor ponsel Anda. | Kenalan kecemasan direka untuk membantu anda log masuk ke akaun anda sekiranya anda tersesat dan tidak dapat semula nombor telefon bimbit anda. | 紧急联系人旨在帮助你在丢失且无法找回手机号的情况下登录你的账号。 | 緊急連絡先は、紛失等の理由でデバイスへのアクセスが出来なくなった場合、ログインする方法となります。 |
 | android | setting_emergency_create_success | Create emergency contact successfully | Berhasil membuat kontak darurat | Buat kenalan kecemasan berjaya | 添加紧急联系人成功 | 緊急連絡先を作成しました |
 | android, iOS | setting_emergency_desc | When your lost your mobile number, please contact your emergency contact by phone or other means to get the Mixin ID and verification code. Read our Emergency Contact to learn more. | Saat nomor ponsel Anda hilang, hubungi kontak darurat Anda melalui telepon atau cara lain untuk mendapatkan ID Mixin dan kode verifikasi. Baca Kontak Darurat kami untuk mempelajari selengkapnya. | Apabila anda kehilangan nombor telefon bimbit, sila hubungi kenalan kecemasan anda melalui telefon atau cara lain untuk mendapatkan ID Mixin dan kod pengesahan. Baca Kenalan Kecemasan kami untuk mengetahui lebih lanjut. | 请放心，即使您的手机号丢失无法找回钱包资产也很安全，请牢记您的支付密码，阅读紧急联系人了解更多。 | 登録した電話番号が使用できなくなった場合は、緊急連絡先として登録した友だちに連絡し、Mixin IDと認証コードを取得してください。詳しくは緊急連絡先についてを確認してください。 |
