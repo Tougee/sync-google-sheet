@@ -93,7 +93,7 @@
 | android, iOS | App_not_found | App not found | Aplikasi tidak ditemukan | Aplikasi tidak dijumpai | 找不到这个机器人 | アプリが見つかりません |
 | iOS | app_pin_hint | You can long press and drag the frequently used robots here to display them on the home |     |     | 可将常用机器人长按拖至此处，可显示于首页 | よく使うロボを長押ししてドラッグすることでホーム画面から直接ロボにアクセスできます |
 | iOS | app_update_short_hint | Please update Mixin from App Store to continue use the service. |     |     | 请从 App Store 更新 Mixin 至最新版 | Mixinをアップデートしてください |
-| iOS | app_update_tips | The current version (%@) is no longer available! Please click "Update" below to update to the latest version from the App Store. |     |     | 当前版本（%@）已失效！请点击下方\"更新\"从 App Store 更新至最新版。 | (%@) "Update" AppStoreで新しいバージョンを入手してください。 |
+| iOS | app_update_tips | The current version (%@) is no longer available! Please click "Update" below to update to the latest version from the App Store. |     |     | 当前版本（%@）已失效！请点击下方"更新"从 App Store 更新至最新版。 | (%@) "Update" AppStoreで新しいバージョンを入手してください。 |
 | android | App_version | App version |     |     | 应用版本 | App version |
 | android, iOS, Desktop | Appearance | Appearance | Tampilan | Penampilan | 外观  | 言語とテーマ |
 | android, iOS | Apply | Apply | Terapkan | Guna | 应用  | 適用  |
@@ -254,7 +254,7 @@
 | android, iOS, Desktop | Clear | Clear | Bersihkan | Kosong | 清理  | クリア |
 | android, iOS, Desktop | Clear_chat | Clear Chat | Bersihkan Obrolan | Kosongkan Sembang | 清除聊天记录 | チャットをクリア |
 | iOS | clear_contact_chat_confirmation | Clear chat with "%@"? |     |     | 清空与"%@"的聊天记录? | "%@"のチャットをクリアしますか? |
-| iOS | clear_group_chat_confirmation | Clear "%@" group chat? |     |     | 清空\"%@\"的聊天记录? | "%@"のグループチャットをクリアしますか? |
+| iOS | clear_group_chat_confirmation | Clear "%@" group chat? |     |     | 清空"%@"的聊天记录? | "%@"のグループチャットをクリアしますか? |
 | iOS | Clear_unused_cache | Clear unused cache |     |     | 清理缓存 | データ使用量を軽減 |
 | iOS | Cleared | Cleared |     |     | 已清空 | クリア |
 | android | Clearing | Clearing… | Membersihkan… | Kosongkan… | 正在清理… | クリア中… |
