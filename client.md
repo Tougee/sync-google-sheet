@@ -758,7 +758,7 @@
 | android, iOS | new_wallet_hint | Create your first digital wallet, all your digital assets in one wallet, easy send and receive cryptocurrency. |     |     | 创建你的第一个数字钱包，所有资产都在一个钱包，收发加密资产简单易用。 | 簡単に仮想通貨をやり取りできるウォレットを作成しよう！ |
 | iOS | News | News |     |     | 新闻  | ニュース |
 | android, iOS, Desktop | Next | Next | Berikutnya | Seterusnya | 下一步 | 次へ  |
-| android, iOS | NO_APP | NO APP | TIDAK ADA APLIKASI | TIADA APLIKASI | 没有应用 | ロボがありません |
+| android, iOS | NO_BOT | NO BOT | TIDAK ADA APLIKASI | TIADA APLIKASI | 没有应用 | ロボがありません |
 | android, iOS, Desktop | NO_AUDIO | NO AUDIO | TIDAK ADA SUARA | TIADA AUDIO | 没有音频 | 音声がありません |
 | android, iOS | NO_AUTHORIZATION | NO_AUTHORIZATION | Tidak ada aplikasi yang diizinkan | Tiada aplikasi autentik | 没有授权任何机器人 |     |
 | android | No_Available_Asset | No Available Asset |     | Tiada Aset Yang Tersedia | 没有可用资产 | 有効な資産がありません |
