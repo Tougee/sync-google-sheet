@@ -937,7 +937,7 @@
 | iOS | report_title | Send the conversation log to developers? |     |     | 给开发人员发送聊天日志? | Mixinの開発者へ会話記録を送信しますか? |
 | android, iOS | Represent_Messages | Represent Messages | Mewakili Pesan | Wakilkan Mesej | 代发消息 | ロボからの通知 |
 | android | Requests_access_to_your | Requests access to your | Meminta akses ke Anda | Meminta akses ke anda | 需要访问你的 | 権限リクエスト |
-| iOS | Resend_cod_ in | Resend code in %@ |     |     | %@ 后重新发送验证码 | %@秒後にコードを再送する |
+| iOS | Resend_code_ in | Resend code in %@ |     |     | %@ 后重新发送验证码 | %@秒後にコードを再送する |
 | android, iOS, Desktop | Resend_code | Resend code | Kirim ulang kode | Hantar semula kod | 重发验证码 | コードを再送する |
 | android, iOS, Desktop | Resend_code_in | Resend code in %1$d s | Kirim ulang kode dalam %1$d d | Hantar semula kod dalam %1$d s | %1$d 秒后重新发送验证码 | %1$d秒後にコードを再送 |
 | iOS | resend_code_pending | Resend code in %@ | Kirim ulang kode dalam %1$d d | Hantar semula kod dalam %1$d s | %@ 后重新发送验证码 | %@ 後にコードを再送 |
