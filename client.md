@@ -597,7 +597,7 @@
 | android | Incognito_Keyboard | Incognito Keyboard |     | Papan Kekunci Inkognito | 隐身键盘 | シークレットキーボード |
 | android, iOS | Incoming_voice_call | Incoming voice call | Panggilan suara masuk | Panggilan suara masuk | 语音通话来电 | 音声通話を受信中 |
 | iOS | Info | Info |     |     | 信息  | プロフィール |
-| android, iOS, Desktop | Initializing | Initializing | Memulai... | Memulakan… | 初始化… | 初期化中… |
+| android, iOS, Desktop | Initializing | Initializing... | Memulai... | Memulakan… | 初始化… | 初期化中… |
 | iOS | Insufficient_transaction_fee | Insufficient transaction fee |     |     | 手续费不足 | トランザクション手数料が不足しています |
 | iOS | Interface_style | Interface Style |     |     | 外观  | 画面表示 |
 | iOS | Invalid_candidate | Invalid candidate |     |     | 无效的 Candidate | 無効な候補者 |
