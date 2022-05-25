@@ -791,7 +791,7 @@
 | android, iOS | Notification_and_Confirmation | Notification and Confirmation | Notifikasi dan Konfirmasi | Pemberitahuan dan Pengesahan | 通知和确认 | 通知・送金確認 |
 | android | notification_channel_description | Shows what music is currently playing in Mixin Messenger |     | Tunjukkan muzik apa yang sedang dimainkan di Mixin Messenger | 显示 Mixin Messenger 中正在播放的音乐 | Mixinで再生中の音楽を表示 |
 | android, iOS, Desktop | notification_content | Don't miss messages from your friends. | Jangan lewatkan pesan dari teman Anda. | Jangan terlepas mesej daripada rakan anda. | 不再遗漏好友的消息。 | 友達からのメッセージを見逃さないで！ |
-| iOS | notification_message_preview_description | Preview message text inside new message notifications |     |     | 在推送通知中显示消息内容。 | 通知でメッセージ内容を表示する |
+| iOS | notification_message_preview_description | Preview message text inside new message notifications. |     |     | 在推送通知中显示消息内容。 | 通知でメッセージ内容を表示する |
 | android, Desktop | Notifications | Notifications | Notifikasi | Pemberitahuan | 通知  | 通知  |
 | iOS, Desktop | now_an_addmin | %@ now an admin |     |     | %@现在是管理员 | %@はサブリーダーです |
 | android | Now_Playing | Now Playing |     | Main sekarang | 正在播放 | 再生中 |
