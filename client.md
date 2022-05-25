@@ -115,7 +115,7 @@
 | iOS | auto_back_up_hint | Automatically back up to iCloud only over Wi-Fi. |     |     | 只会在 Wi-Fi 下自动备份聊天记录。 | Wi-Fiの使用時に自動でiCloudにバックアップする |
 | Desktop | backup | Backup |     |     | 备份  |     |
 | iOS, Desktop | Auto_Backup | Auto Backup |     |     | 自动备份 | 自動バックアップ |
-| android, iOS | auto_download_hint | Change auto-download settings for medias. Voice messages are always automatically downloaded |     |     | 媒体自动下载设定，所有语音消息将自动下载。 | 音声品質を維持するため、ボイスメッセージは常に自動ダウンロードされます |
+| android, iOS | auto_download_hint | Change auto-download settings for medias. Voice messages are always automatically downloaded. |     |     | 媒体自动下载设定，所有语音消息将自动下载。 | 音声品質を維持するため、ボイスメッセージは常に自動ダウンロードされます |
 | android, iOS | Auto_Lock | Auto-Lock |     |     | 自动锁定 | 自動ロック |
 | iOS | Automatic | Automatic |     |     | 自动  | 自動モード |
 | android | avatar_transition_name | avatar_transition_name | avatar_transition_name | avatar_transition_name |     |     |
