@@ -1220,8 +1220,8 @@
 | iOS | Use_touch_pay | Use Touch Pay |     |     | 使用指纹支付 | Touch IDで支払う |
 | iOS | Use_touch_withdraw | Use Touch Withdraw |     |     | 使用指纹提现 | タッチ認証で出金する |
 | iOS | User_is_reported | User has been reported |     |     | 已举报 | 報告しました。 |
-| android, iOS | pin_change | PIN change |     |     | 修改 PIN |     |
-| android, iOS | your_pin_has_been_changed | Your PIN has been changed |     |     | PIN 已修改 |     |
+| android, iOS | pin_creation | PIN creation |     |     | 创建 PIN |     |
+| android, iOS | your_pin_has_been_created | Your PIN has been created |     |     | PIN 已修改 |     |
 | android, iOS, Desktop | User_not_found | User not found | Pengguna tidak ditemukan | Pengguna tidak ditemui | 找不到这个用户 | アップロード失敗 |
 | iOS | Validation_timed_out | Validation timed out |     |     | 验证超时 | 認証時間切れ |
 | android, iOS, Desktop | value_now | value now %1$s |     | nilai sekarang %1$s | 价值 %1$s | 現在価格 %1$s |
