@@ -830,7 +830,7 @@
 | iOS | Pay_with | Pay with %@ |     |     | %@支付 | %@で支払う |
 | android | Pay_with_Biometrics | Pay with Biometrics | Bayar dengan Biometrik | Bayar dengan Biometrik | 用生物识别支付 | 生体認証で支払う |
 | android, iOS | Pay_with_PIN | Pay with PIN | Bayar dengan PIN | Bayar dengan PIN | 用 PIN 支付 | PINで支払う |
-| android, iOS | Pay_with_PIN_interval | Pay with PIN interval | Bayar dengan interval PIN | Bayar dengan selang PIN | 支付 PIN 使用间隔 | PINコードの再確認間隔 |
+| android, iOS | Pay_with_PIN_interval | Pay with PIN interval | Bayar dengan interval PIN | Bayar dengan selang PIN | PIN 使用间隔 | PINコードの再確認間隔 |
 | iOS | Pay_withdrawal_memo | Amount %@ %@\nFee %@ %@ |     |     | 数量 %@ %@\n手续费 %@ %@ | 額 %@ %@\n手数料 %@ %@ |
 | iOS | Peer_closed | Peer closed |     |     | Peer 已关闭 | ピアが閉じています |
 | iOS | Peer_not_found | Peer not found |     |     | Peer 无效 | ピアが見つかりません |
