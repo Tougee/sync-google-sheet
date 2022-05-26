@@ -38,7 +38,6 @@
 | android, Desktop | add_people_search_hint | Mixin ID or Phone number |     |     | Mixin ID 或手机号 | Mixin IDもしくは電話番号 |
 | android, iOS, Desktop | Add_Sticker | Add Sticker |     |     | 添加贴纸 | スタンプを追加する |
 | android, Desktop | Add_sticker_failed | Add sticker failed | Gagal menambahkan stiker | Penambahan pelekat gagal | 添加贴纸失败 | スタンプの追加に失敗しました |
-| android, iOS, Desktop | Add_stickers | Add Stickers |     |     | 添加所有表情 | スタンプを追加 |
 | android | Add_success | Add success | Berhasil menambahkan | Menambah kejayaan | 添加成功 | 追加成功 |
 | android, iOS | Add_Tag | Add Tag | Tambahkan Tag | Tambah Tag | 点击添加 Tag（标签） | タグを追加する |
 | android | Add_to_Home_screen | Add to Home screen | Tambahkan ke layar Beranda | Tambahkan ke Skrin utama | 添加到桌面 | ホームへ追加 |
@@ -91,7 +90,7 @@
 | android, iOS | Amount | Amount | Jumlah | Jumlah | 金额  | 数量  |
 | android | an_audio | an audio |     |     | 一条语音 | 音声ファイル |
 | android | ANSWER | ANSWER | JAWAB | JAWAPAN | 接听  | 電話をとる |
-| android, iOS | app_card_shareable_false | The card has been set to not allow sharing |     |     | 包含不允许转发的卡片 | このカードを共有することはできません |
+| android, iOS | app_card_shareable_false | The card has been set to not allow sharing |     |     | 该卡片已被设置为不允许转发 | このカードを共有することはできません |
 | android | app_name | Mixin |     |     |     |     |
 | android, iOS | Bot_not_found | Bot not found | Aplikasi tidak ditemukan | Aplikasi tidak dijumpai | 找不到这个机器人 | アプリが見つかりません |
 | iOS | app_pin_hint | You can long press and drag the frequently used robots here to display them on the home |     |     | 可将常用机器人长按拖至此处，可显示于首页 | よく使うロボを長押ししてドラッグすることでホーム画面から直接ロボにアクセスできます |
