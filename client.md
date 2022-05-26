@@ -359,7 +359,7 @@
 | android, iOS | Declined | Declined | Ditolak | Menolak | 已拒绝 |     |
 | android | default_time | 00:00 | 00:00 | 00:00 |     |     |
 | android, iOS, Desktop | Delete | Delete |     |     | 删除  | 削除  |
-| iOS | delete_account_detail_hint | Local messages and iCloud Backups will not be deleted automatically |     |     | 本地消息和iCloud备份将不会自动删除 | ローカルメッセージとiCloudにバックアップされた内容は削除されません |
+| iOS | delete_account_detail_hint | Local messages and iCloud Backups will not be deleted automatically |     |     | #ERROR! | ローカルメッセージとiCloudにバックアップされた内容は削除されません |
 | android, iOS | delete_account_hint | Delete your account info and profile photo |     |     | 删除你的账户和个人照片 | アカウント情報とプロフィール画像を削除します |
 | android, iOS | Delete_address | Delete address | Hapus alamat | Padamkan alamat | 删除地址 | アドレスを削除 |
 | iOS, Desktop | Delete_Chat | Delete Chat |     |     | 删除聊天 | チャットを削除 |
