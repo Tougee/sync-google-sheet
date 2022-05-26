@@ -349,7 +349,7 @@
 | iOS | Database_access | Database access |     |     | 数据库访问 | データベースへの接続 |
 | android, iOS | database_upgrade_tips | The database is being upgraded, it may take several minutes, please do not close this App. | Database sedang ditingkatkan, mungkin perlu beberapa menit, jangan tutup Aplikasi ini. | Pangkalan data sedang ditingkatkan, mungkin memerlukan beberapa minit, jangan tutup Aplikasi ini. | 正在进行数据库升级，可能需要几分钟，请不要强制关闭应用。 | データベースをアップグレードしています。アプリを閉じないでください。 |
 | android, iOS | Date | Date | Tanggal | Tarikh | 日期  | 日付  |
-| android, iOS | date_format_date | MMM dd, yyyy | TTT bb, tttt | BBB hh, tttt | yyyy年MM月dd日 | MMM dd, yyyy |
+| android, iOS | date_format_date | MMM dd, yyyy | TTT bb, tttt | BBB hh, tttt | yyyy 年 MM 月 dd 日 | MMM dd, yyyy |
 | iOS | date_format_day | hh:mm a |     |     | ahh:mm | HH:mm |
 | iOS | date_format_month | E, d MMM |     |     | MM 月 d 日 E | M月d日（E） |
 | iOS | date_format_week_date | E, d MMM yyyy |     |     | yyyy 年 MM 月 d 日 E | yyyy年MM月d日（E） |
