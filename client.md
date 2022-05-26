@@ -86,7 +86,7 @@
 | android, iOS | All_Conversations | All Conversations | Semua Percakapan | Semua Perbualan | 所有会话 | すべてのチャット |
 | android | All_Media | All Media | Semua Media | Semua Media | 全部  | メディア |
 | iOS | All_Photos | All Photos |     |     | 所有照片 | すべての画像 |
-| android, iOS | All_Transactions | All Transactions | Semua Transaksi | Semua Urus Niaga | 所有交易 | 全てのトランザクション |
+| android, iOS | All_Transactions | All Transactions | Semua Transaksi | Semua Urus Niaga | 所有交易记录 | 全てのトランザクション |
 | iOS | Allow_Manual_Report_Message | Allow Manual Report Message |     |     | 允许手动上报消息 | マニュアル報告を許可する |
 | android, iOS | Amount | Amount | Jumlah | Jumlah | 金额  | 数量  |
 | android | an_audio | an audio |     |     | 一条语音 | 音声ファイル |
