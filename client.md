@@ -733,7 +733,7 @@
 | iOS, Desktop | Muted | Muted |     |     | 已静音 | ミュートされました |
 | iOS | Muted_until | Muted until %@ |     |     | 已静音至 %@ | %@までミュートする |
 | android, iOS | My_Contacts | My Contacts | Kontak Saya | Kenalan Saya | 我的联系人 | 友だち限定 |
-| android, iOS, Desktop | my_mixin_id | My Mixin ID: %1$s | ID Mixin saya: %1$s | ID Mixin Saya: %1$s | 我的 Mixin ID: %1$s |     |
+| android, iOS, Desktop | my_mixin_id | My Mixin ID: %1$s | ID Mixin saya: %1$s | ID Mixin Saya: %1$s | 我的 Mixin ID：%1$s |     |
 | android, iOS | My_QR_Code | My QR Code | Kode QR saya | Kod QR saya | 我的二维码 | マイQRコード |
 | android, iOS | My_shared_apps | My shared apps | Aplikasi bersama saya | Aplikasi kongsi saya | 我分享的应用 | おすすめロボをプロフィールに追加 |
 | android, iOS, Desktop | My_Stickers | My Stickers |     |     | 我的表情 | マイステッカー |
