@@ -246,7 +246,7 @@
 | android | Choose_folder | Choose folder |     |     | 选择文件夹 | フォルダを選択する |
 | iOS | Choose_Photo | Choose Photo |     |     | 选择照片 | 画像を選ぶ |
 | android, iOS | circle_bottom | Create circle for different groups of chats and quickly switch between them | Buat lingkaran untuk grup obrolan yang berbeda dan beralih dengan cepat di antaranya | Buat lingkaran untuk kumpulan sembang yang berbeza \ndan beralih antara mereka dengan segera | 为不同对话创建圈子然后在它们之间快速切换 | チャットやロボ（高機能アカウント）を追加して\nリストを作成しましょう |
-| android | circle_delete_tip | Delete "%1$s" ? | Hapus "%1$s"? | Padamkan "%1$s"? | 确认删除 "%1$s" ? | "%1$s"を削除しますか？ |
+| android | circle_delete_tip | Delete "%1$s" ? | Hapus "%1$s"? | Padamkan "%1$s"? | 确认删除 "%1$s"？ | "%1$s"を削除しますか？ |
 | android, iOS | circle_info | Create circles for different groups of chats and quickly switch between them | Jika Anda ingin memfilter percakapan, harap setel lingkaran untuk percakapan tersebut terlebih dahulu. | Sekiranya anda ingin menapis perbualan, sila\ntetapkan lingkaran untuk perbualan terlebih dahulu. | 新建一个圈子可以过滤会话 | 最初のリストを作成して、\n自分の好きなユーザーやロボを追加しましょう |
 | android, iOS | number_reached_limit | The number has reached the limit | Jumlahnya sudah mencapai batas | Jumlahnya sudah mencapai had | 已达到上限 | 数が上限に達しました |
 | android, iOS | circle_no_conversation_hint | You can add contacts or groups to the current circle |     |     | 您可以添加联系人或者群组到当前圈子 | 連絡先またはグループを\n現在のリストに追加できます。 |
@@ -267,7 +267,7 @@
 | android | Click_to_unlock | Click to unlock | Klik untuk membuka | Klik untuk membuka kunci | 点击解锁 | クリックしてアンロック |
 | iOS | clock_skew_hint | Please continue to use again after correction. Settings > General > Date & Time > Turn on Set Automatically |     |     | 请校正后再继续使用，设置 > 通用 > 日期与时间 > 自动设置。 | 設定を変更してください。 設定 > 一般 > 日付と時刻 > 自動設定をオン |
 | android, iOS | Close | Close |     |     | 关闭  | 閉じる |
-| iOS | Code | Code |     |     | 货币代码 | コード |
+| iOS | currency_code | Code |     |     | 货币代码 | コード |
 | iOS | collectible_token_id | #%@ |     |     | #%@ | #%@ |
 | android, iOS | Combine_and_forward | Combine and forward |     |     | 合并转发 | 転送を結合する |
 | iOS | Compress_Database | Compress Database |     |     | 压缩数据库 | データの圧縮 |
@@ -325,10 +325,10 @@
 | iOS | Copied | Copied |     |     | 已复制 | コピーしました |
 | android | copied_to_clipboard | Copied to Clipboard | Salin ke clipboard | Salin ke papan keratan | 已拷贝 | クリップボードにコピー |
 | android, iOS, Desktop | Copy | Copy | Salin | Salinan | 复制  | コピー |
-| iOS | Copy_Conversation_Id | Copy Conversation ID |     |     | 复制对话ID | 会話IDをコピー |
+| iOS | Copy_Conversation_Id | Copy Conversation ID |     |     | 复制对话 ID | 会話IDをコピー |
 | android, iOS, Desktop | Copy_invite | Copy Invite Link | Salin Tautan | Salin pautan | 复制邀请链接 | リンクをコピーする |
 | android, iOS | Copy_link | Copy Link |     | Salin pautan | 复制链接 | リンクをコピー |
-| iOS | Copy_User_Id | Copy User ID |     |     | 复制用户ID | ユーザーIDをコピー |
+| iOS | Copy_User_Id | Copy User ID |     |     | 复制用户 ID | ユーザーIDをコピー |
 | android, iOS, Desktop | Create | Create | Buat | Buat | 创建  | 作成  |
 | Desktop | create_circle | New Circle |     |     | 新建圈子 |     |
 | Desktop | create_conversation | New Conversation |     |     | 新建会话 |     |
