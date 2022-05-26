@@ -1209,7 +1209,7 @@
 | android, iOS | Upload_Mobile_Contacts | Upload Mobile Contacts |     |     | 上传通讯录找好友 | 連絡先をアップロードする |
 | android | Upload_timeout | Upload timeout | Batas waktu unggah | Tamat masa muat naik | 上传超时 | 生体認証でマルチシグを使用する |
 | iOS | Uploading | Uploading... |     |     | 备份中... | アップロードしています... |
-| iOS | Uploading_progress | Uploading: %@ of %@ (%@) |     |     | 上传中： %@ / %@（%@） | アップロード: %@ / %@ (%@) |
+| iOS | Uploading_progress | Uploading: %@ of %@ (%@) |     |     | 上传中：%@ / %@（%@） | アップロード: %@ / %@ (%@) |
 | iOS | url_unrecognized_hint | %@ failed to recognize, please upgrade Mixin to the latest version or contact the developer to check the link |     |     | %@ 识别失败，请升级至 Mixin 最新版本或联系开发者检查链接 | %@を認識できない場合は、Mixinを最新版にアップデートするか、もしくは運営リンクを確認してください。 |
 | android | Use_Biometric_Multisig | Use Biometric Multisig | Gunakan Multisig Biometrik | Gunakan Biometric Multisig | 使用生物识别签名 | ユーザーが見つかりません |
 | iOS | use_biometry | Use %@ |     |     | 采用%@ | %@を使用する |
