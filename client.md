@@ -107,7 +107,7 @@
 | iOS | assets_title | Assets |     |     | 资产  | 資産  |
 | android, iOS, Desktop | Audio | Audio | Audio | Audio | 语音  | 音声  |
 | android, iOS, Desktop | Audios | Audios |     |     | 音频  | 音声  |
-| android, iOS | auth_assets_more | %1$s and more | %1$s dan lainnya | %1$s dan banyak lagi | %1$s 等 | %1$sなど |
+| android, iOS | auth_assets_more | %1$s and more | %1$s dan lainnya | %1$s dan banyak lagi | %1$s等 | %1$sなど |
 | android, iOS | auth_messages_represent_description | allow bot to send messages represent of you | Izinkan bot untuk mengirim pesan yang mewakili Anda | benarkan bot menghantar mesej mewakili anda | 允许机器人代表你发消息 | 通知を許可する |
 | android, iOS | auth_profile_content | %1$s, %2$s, profile photo | %1$s, %2$s, foto profil | %1$s, %2$s, foto profil | %1$s, %2$s, 头像 | %1$s, %2$s, プロフィール画像 |
 | android, iOS | authorization | authorization | otorisasi | keizinan | 授权  | 認証  |
@@ -160,7 +160,7 @@
 | iOS | Business | Business |     |     | 商业  | ビジネス |
 | android, iOS | Call | Call |     |     | 语音  | 応答なし |
 | android, iOS | Call_declined | Call declined | Panggilan ditolak | Panggilan ditolak | 对方已拒绝 |     |
-| android, iOS | call_encryption_description | No one outside of this call can view or listen to it. Not even Mixin. |     |     | 除了参与通话的人，其他人包含Mixin在内都无法听取或查看。 | この通話はE2E暗号化されています。 |
+| android, iOS | call_encryption_description | No one outside of this call can view or listen to it. Not even Mixin. |     |     | 除了参与通话的人，其他人包含 Mixin 在内都无法听取或查看。 | この通話はE2E暗号化されています。 |
 | android, iOS | call_encryption_title | This call is secured with end-to-end encryption |     |     | 此通话使用端对端加密进行保护 | 通話に失敗しました |
 | android, iOS | Call_failed | Call failed | Panggilan gagal | Panggilan gagal | 呼叫失败 | 現在別の通話をしています。終了してから始めてください。 |
 | iOS | call_no_microphone_permission_hint | To make voice calls, Mixin needs access to your microphone. Please tap Setting to open system settings. |     |     | 如果使用语音通话，Mixin 需要麦克风权限，请点击'设置'打开系统授权。 | 設定をタップしてシステム設定に進みマイクの使用を許可してください。 |
