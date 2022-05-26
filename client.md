@@ -38,7 +38,7 @@
 | android, Desktop | add_people_search_hint | Mixin ID or Phone number |     |     | Mixin ID 或手机号 | Mixin IDもしくは電話番号 |
 | android, iOS, Desktop | Add_Sticker | Add Sticker |     |     | 添加贴纸 | スタンプを追加する |
 | android, Desktop | Add_sticker_failed | Add sticker failed | Gagal menambahkan stiker | Penambahan pelekat gagal | 添加贴纸失败 | スタンプの追加に失敗しました |
-| android, iOS, Desktop | Add_stickers | Add Stickers |     |     | 添加所有表情 | スタンプを追加 |
+| android, iOS, Desktop | Add_stickers | Add Stickers |     |     | 添加贴纸 | スタンプを追加 |
 | android | Add_success | Add success | Berhasil menambahkan | Menambah kejayaan | 添加成功 | 追加成功 |
 | android, iOS | Add_Tag | Add Tag | Tambahkan Tag | Tambah Tag | 点击添加 Tag（标签） | タグを追加する |
 | android | Add_to_Home_screen | Add to Home screen | Tambahkan ke layar Beranda | Tambahkan ke Skrin utama | 添加到桌面 | ホームへ追加 |
