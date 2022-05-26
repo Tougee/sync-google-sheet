@@ -66,7 +66,7 @@
 | android, iOS | alert_key_contact_transcript_message | sent you an transcript |     |     | 分享一个聊天记录 | メッセージ履歴が共有されました |
 | android, iOS | alert_key_contact_transfer_message | sent you a transfer | mengirimi Anda transfer | menghantar pindahan kepada anda | 发送一笔转账 | 送金が届きました |
 | android, iOS | alert_key_contact_video_message | sent you a video | mengirimi Anda video | menghantar video kepada anda | 发送一个视频 | 動画が届きました |
-| android, iOS | alert_key_group_audio_call_message | %1$s invites you to a voice call |     |     | %1$s 邀请你进行语音通话 | %1$s秒後にコードを再送する |
+| android | alert_key_group_audio_call_message | %1$s invites you to a voice call |     |     | %1$s 邀请你进行语音通话 | %1$s秒後にコードを再送する |
 | android, iOS | alert_key_group_audio_message | %1$s sent an audio | %1$s mengirim audio | %1$s hantarkan audio | %1$s 发送一条语音 | %1$sが音声を送信しました |
 | android, iOS | alert_key_group_contact_message | %1$s sent a contact | %1$s membagikan kontak | %1$s berkongsi kenalan | %1$s 分享了一个联系人 | %1$sが連絡先を送信しました |
 | android, iOS | alert_key_group_data_message | %1$s sent a file | %1$s mengirim file | %1$s hantar fail | %1$s 发送一个文件 | %1$sがファイルを送信しました |
