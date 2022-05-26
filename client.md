@@ -401,7 +401,7 @@
 | android | Diagnosis_Complete | Diagnosis Complete |     |     | 诊断完成 | Diagnosis Complete |
 | iOS | Disable | Disable |     |     | 禁用  | 無効にする |
 | iOS | disable_biometric_pay_confirmation | Disable %@ Pay? |     |     | 确定暂停使用%@支付？ | %@を無効にしますか? |
-| android | Disable_db_debug | Disable db debug |     | Lumpuhkan nyahpepijat db | error_pin_incorrect_with_times | Disable db debug |
+| android | Disable_db_debug | Disable db debug |     | Lumpuhkan nyahpepijat db | 已关闭 db 调试 | Disable db debug |
 | android, iOS | disable_disappearing_message | %1$s disabled disappearing message |     |     | %1$s禁用了限时消息 |     |
 | android | Disable_web_debug | Disable web debug |     | Lumpuhkan laman web nyahpepijat | 已关闭 Web 调试 | Disable web debug |
 | android | Disabled | Disabled |     |     | 已停用 | 利用できません |
