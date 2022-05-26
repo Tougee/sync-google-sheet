@@ -381,7 +381,7 @@
 | android, iOS | deposit_attention | Please try a small amount for the first deposit. | Harap coba jumlah kecil untuk deposit pertama. | Cuba sedikit untuk deposit pertama. | 首次充值建议小额尝试！ | 注意: 最初は必ず少額で入金テストをしてください。 |
 | android, iOS | deposit_confirmation | Deposit will arrive %1$d block confirmation |     |     | 充值到账需要 %1$d 个区块确认。 |     |
 | android, iOS | deposit_confirmation.count | Deposit will arrive %1$d block confirmations | Deposit akan tiba setelah setidaknya %1$d konfirmasi block | Deposit akan tiba setelah sekurang-kurangnya %1$d pengesahan sekatan | 充值到账需要 %1$d 个区块确认。 |     |
-| android | deposit_memo_notice | Memo is required, or you will lose your coins. |     |     | 充值时务必填写 Memo(备注)，否则您会丢失您的数字币 | メモが必要です。メモがない場合、仮想通貨を失う可能性があります。 |
+| android | deposit_memo_notice | Memo is required, or you will lose your coins. |     |     | 充值时务必填写 Memo（备注），否则您会丢失您的数字币 | メモが必要です。メモがない場合、仮想通貨を失う可能性があります。 |
 | android | deposit_notice | Both Memo and Address are required to deposit your %1$s to you account. |     |     | 地址 和 Memo（备注）同时使用才能充值 %1$s 到你的账号。 | %1$sをあなたのアドレスに入金するためには、メモと入金先アドレスの両方が必要です。 |
 | android, iOS | deposit_reserve | Deposit at least %1$s for the first time. | Deposit minimal %1$s untuk pertama kali. | Deposit sekurang-kurangnya %1$s untuk pertama kalinya. | 首次充值至少 %1$s ！ |     |
 | android, iOS | deposit_tip_btc | This address only supports BTC. | Alamat ini hanya mendukung BTC. | Alamat ini hanya menyokong BTC. | 该充值地址仅支持 BTC。 | このアドレスはビットコインのみサポートしています。 |
@@ -401,8 +401,8 @@
 | android | Diagnosis_Complete | Diagnosis Complete |     |     | 诊断完成 | Diagnosis Complete |
 | iOS | Disable | Disable |     |     | 禁用  | 無効にする |
 | iOS | disable_biometric_pay_confirmation | Disable %@ Pay? |     |     | 确定暂停使用%@支付？ | %@を無効にしますか? |
-| android | Disable_db_debug | Disable db debug |     | Lumpuhkan nyahpepijat db | 已关闭 db 调试 | Disable db debug |
-| android, iOS | disable_disappearing_message | %1$s disabled disappearing message |     |     | %1$s 禁用了限时消息 |     |
+| android | Disable_db_debug | Disable db debug |     | Lumpuhkan nyahpepijat db | error_pin_incorrect_with_times | Disable db debug |
+| android, iOS | disable_disappearing_message | %1$s disabled disappearing message |     |     | %1$s禁用了限时消息 |     |
 | android | Disable_web_debug | Disable web debug |     | Lumpuhkan laman web nyahpepijat | 已关闭 Web 调试 | Disable web debug |
 | android | Disabled | Disabled |     |     | 已停用 | 利用できません |
 | android, iOS | disappearing_message | Disappearing Messages |     |     | 限时消息 |     |
@@ -476,7 +476,7 @@
 | iOS, Desktop | error_network_task_failed | Network connection failed. Check or switch your network and try again |     |     | 网络连接失败。检查或切换网络，然后重试 | ネットワーク接続に失敗しました。ネットワーク接続状態を確認した後にもう一度試してください。 |
 | android, iOS, Desktop | error_not_found | ERROR %1$d: Not found | KESALAHAN %1$d: Tidak ditemukan | RALAT %1$d: Tidak ditemui | 错误 %1$d：没有找到相应的信息 | エラー %1$d: 結果なし |
 | android, Desktop | error_not_supported_audio_format | Not supported audio format, please open by other app. | Tidak mendukung format audio, harap buka dengan aplikasi lain. | Tidak disokong format audio, sila buka oleh aplikasi lain. | 不支持的音频格式，请用其他app打开。 | サポートされていないオーディオ形式です。他のアプリで開いてください。 |
-| android, Desktop | error_old_version | ERROR %1$d: Please update Mixin(%2$s) to continue use the service. | KESALAHAN %1$d: Harap perbarui Mixin(%2$s) untuk terus menggunakan layanan. | RALAT %1$d: Sila kemas kini Mixin(%2$s) untuk terus menggunakan perkhidmatan ini. | 错误 %1$d：请更新 Mixin(%2$s) 至最新版。 | エラー %1$d: このサービスを引き続き使用するには、Mixin(%2$s)をアップデートしてください。 |
+| android, Desktop | error_old_version | ERROR %1$d: Please update Mixin(%2$s) to continue use the service. | KESALAHAN %1$d: Harap perbarui Mixin(%2$s) untuk terus menggunakan layanan. | RALAT %1$d: Sila kemas kini Mixin(%2$s) untuk terus menggunakan perkhidmatan ini. | 错误 %1$d：请更新 Mixin（%2$s） 至最新版。 | エラー %1$d: このサービスを引き続き使用するには、Mixin(%2$s)をアップデートしてください。 |
 | android, Desktop | error_open_location | Can't find an map app | Tidak dapat menemukan aplikasi peta | Tidak dapat mencari aplikasi peta | 无法找到地图应用 | 地図アプリがありません |
 | android, Desktop | error_permission | Please open the necessary permissions | Harap buka izin yang diperlukan | Sila buka kebenaran yang diperlukan | 请开启相关权限 | 必要な権限を開いてください |
 | android, iOS, Desktop | error_phone_invalid_format | ERROR %1$d: Invalid phone number | KESALAHAN %1$d: Nomor telepon tidak valid | RALAT %1$d: Nombor telefon tidak sah | 错误 %1$d：手机号码不合法 | エラー %1$d: 電話番号が無効です |
@@ -584,7 +584,7 @@
 | iOS, Desktop | Help | Help |     |     | 帮助  | ヘルプ |
 | android, iOS, Desktop | Help_center | Help center | Pusat bantuan | Pusat bantuan | 帮助中心 | ヘルプセンター |
 | android | Hidden | Hidden | Tersembunyi | Sembunyi | 隐藏  | 非表示 |
-| android, iOS | Hidden_Assets | Hidden Assets | Aset Tersembunyi | Aset Tersembunyi | 隐藏资产 | 非表示資産 |
+| android, iOS | Hidden_Assets | Hidden Assets | Aset Tersembunyi | Aset Tersembunyi | 隐藏的资产 | 非表示資産 |
 | android, iOS | Hide | Hide | Sembunyikan | Sembunyii | 隐藏  | 非表示 |
 | iOS | Hide_asset | Hide asset |     |     | 隐藏资产 | 資産を非表示にする |
 | android, iOS | hold_to_record_audio | Hold to record, release to send | Tahan untuk merekam, lepaskan untuk mengirim | Tahan untuk merakam, lepaskan untuk hantar | 长按说话，松手发送 | 長押しして録音、離して送信 |
@@ -887,14 +887,14 @@
 | android, iOS, Desktop | Post | Post | Postingan | Kirim | 文章  |     |
 | iOS | post_sharing | post |     |     | 文章  | 投稿  |
 | iOS | Preparing | Preparing... |     |     | 准备... | 準備中... |
-| iOS | Preparing_progress | Preparing...(%@) |     |     | 备份中...(%@) | 準備中...(%@) |
+| iOS | Preparing_progress | Preparing...(%@) |     |     | 备份中...（%@） | 準備中...(%@) |
 | android, iOS | Privacy | Privacy | Privasi | Privasi | 隐私  | プライバシー |
 | android, iOS, Desktop | Privacy_Policy | Privacy Policy | Kebijakan Privasi | Dasar Privasi | 隐私政策 | プライバシーポリシー |
 | android | profile_modify_number | Do you want to change your phone number? | Ingin mengubah nomor telepon Anda? | Adakah anda mahu menukar nombor telefon anda? | 你想要修改手机号码么？ | 電話番号を変更しますか? |
 | android, iOS | Profile_photo | Profile Photo | Foto Profil | Gambar profil | 个人头像 |     |
 | android, iOS | profile_share_app_hint | If you want to share an app, add it to your contacts first |     |     | 如果您希望分享应用，请先添加联系人。 | ロボをシェアしたい場合は、先に連絡先に追加してください。 |
 | iOS | protect_setting_security_hint | Confirm PIN to protect your settings security. |     |     | 确认钱包密码保护设置安全 | 設定を変更するためPINを入力してください |
-| android, iOS | Public_profile | Public profile (required) | Profil publik (wajib diisi) | Profil awam (diperlukan) | 个人资料(必须) | プロフィール |
+| android, iOS | Public_profile | Public profile (required) | Profil publik (wajib diisi) | Profil awam (diperlukan) | 个人资料（必须） | プロフィール |
 | android, iOS | QR_Code | QR Code |     | kod QR | 二维码 |     |
 | android | qr_code_camera_code | Use the built-in Camera to scan any QR Code. When a code is detected, tap the notification to view more information. | Gunakan Kamera internal untuk memindai Kode QR apa pun. Saat kode terdeteksi, ketuk notifikasi untuk melihat informasi selengkapnya. | Gunakan Kamera bina dalam untuk mengimbas sebarang kod QR. Apabila kod dikesan, ketuk pemberitahuan untuk melihat lebih banyak maklumat. | 打开相机会默认开启二维码识别，当二维码被检测到时会显示一个通知，点击通知识别二维码。 |     |
 | android, iOS | QR_Code_not_found | QR Code not found | Kode Qr tidak ditemukan | Kod Qr tidak dijumpai | 未发现二维码 | QRコードが見つかりません |
@@ -1059,8 +1059,8 @@
 | android, iOS | setting_mobile_contact_warning | This will remove your contacts from the Mixin servers. | Ini akan menghapus kontak Anda dari server Mixin. | Ini akan mengalih keluar kenalan anda dari pelayan Mixin. | 确定删除已同步到 Mixin 服务器的通讯录？ | これにより、Mixinサーバーから連絡先が削除されます。 |
 | android, iOS | setting_notification_transfer_summary | Display notifications when receiving a transfer greater than or equal to %1$s. |     |     | 收到不少于 %1$s 转账时显示通知。 | %1$s以上を受け取った時に通知する |
 | android, iOS | setting_privacy_tip | Change who can add you to conversation and groups. | Ubah siapa yang dapat menambahkan Anda ke percakapan dan grup. | Tukar siapa yang boleh menambahkan anda ke perbualan dan kumpulan. | 谁可以给你发消息或邀请你加入群聊。 | あなた宛のメッセージや通話を制限 |
-| android, iOS | setting_storage_clear | Clear %1$d message (%2$s)? |     |     | 清除 %1$d 条消息 (%2$s)? |     |
-| android, iOS | setting_storage_clear.count | Clear %1$d messages (%2$s)? | Hapus %1$d pesan (%2$s)? | Kosongkan %1$d mesej (%2$s)? | 清除 %1$d 条消息 (%2$s)? |     |
+| android, iOS | setting_storage_clear | Clear %1$d message (%2$s)? |     |     | 清除 %1$d 条消息 （%2$s）? |     |
+| android, iOS | setting_storage_clear.count | Clear %1$d messages (%2$s)? | Hapus %1$d pesan (%2$s)? | Kosongkan %1$d mesej (%2$s)? | 清除 %1$d 条消息 （%2$s）? |     |
 | android | setting_stranger_transfer_desc | Display confirmation dialog when you transfer to stranger |     | Paparkan dialog pengesahan apabila anda berpindah kepada orang asing | 当你给陌生人转账时显示确认弹窗 | 連絡先に追加していないユーザーへの送金を実行する際、確認を行う。 |
 | android, iOS | setting_transfer_large_summary | Show confirmation dialog when transfer greater than or equal to %1$s. | Tampilkan dialog konfirmasi saat transfer lebih besar dari atau sama dengan %1$s | Tunjukkan dialog pengesahan apabila pemindahan lebih dari atau sama dengan %1$s | 当转账金额大于或等于 %1$s 时显示确认弹窗。 | %1$s以上の送金時に確認画面を表示する |
 | android, iOS | setting_transfer_large_summary_greater | Show confirmation dialog when transfer greater than %1$s. |     |     | 当转账金额大于 %1$s 时显示确认弹窗。 | %1$s以上の送金時に確認画面を表示する |
@@ -1158,7 +1158,7 @@
 | android, iOS, Desktop | Transcript | Transcript |     |     | 聊天记录 | メッセージ履歴 |
 | android, iOS, Desktop | Transfer | Transfer | Transfer | Pindah | 转账  | 送金  |
 | android | Transfer_Amount | Transfer Amount | Jumlah Transfer | Jumlah Pindahan | 转账金额 | 送金数量 |
-| android, iOS | Transfer_Amount_count_down | Transfer Amount(%1$s) | Jumlah Transfer(%1$s) | Jumlah Pindahan(%1$s) | 转账金额(%1$s) | 通知金額(%1$s) |
+| android, iOS | Transfer_Amount_count_down | Transfer Amount(%1$s) | Jumlah Transfer(%1$s) | Jumlah Pindahan(%1$s) | 转账金额（%1$s） | 通知金額(%1$s) |
 | iOS | transfer_error_pin_incorrect_with_times | ERROR 20119: PIN incorrect. You still have %@ chances. Please wait for 24 hours to retry later. |     |     | 错误 20119: 密码不正确。你还有 %@ 次机会尝试，使用完需等待 24 小时后再尝试。 | 間違っています。 |
 | android, iOS | transfer_memo | Memo (optional) |     |     | 备注（可选） |     |
 | android, iOS | Transfer_Notifications | Transfer Notifications | Notifikasi Transfer | Pindahkan Pemberitahuan | 转账通知 | コインの受取通知 |
@@ -1203,13 +1203,13 @@
 | android, iOS | Update | Update | Perbarui | Kemas kini | 升级  | アップデート |
 | android | update_downloaded | An update has just been downloaded. | Pembaruan baru saja diunduh. | Kemas kini baru sahaja dimuat turun. | 一个更新刚下载完成。 | アップデータをダウンロード中 |
 | android, iOS | Update_Mixin | Update Mixin | Perbarui Mixin | Kemas kini Mixin | 升级 Mixin |     |
-| android | update_mixin_description | The current version (%1$s) is no longer avaliable!\nPlease click "Update" below to update to the latest version from the Google Play. | Versi saat ini (%1$s) tidak lagi tersedia!\nHarap klik Perbarui berikut untuk memperbarui ke versi terbaru dari App Store. | Versi semasa (%1$s) tidak lagi tersedia!\nSila klik Kemas kini di bawah untuk mengemas kini ke versi terbaharu dari Google Play. | 当前版本(%1$s)不再可用!\n请点击下面的“更新”按钮从应用商店更新到最新版本。 |     |
+| android | update_mixin_description | The current version (%1$s) is no longer avaliable!\nPlease click "Update" below to update to the latest version from the Google Play. | Versi saat ini (%1$s) tidak lagi tersedia!\nHarap klik Perbarui berikut untuk memperbarui ke versi terbaru dari App Store. | Versi semasa (%1$s) tidak lagi tersedia!\nSila klik Kemas kini di bawah untuk mengemas kini ke versi terbaharu dari Google Play. | 当前版本（%1$s）不再可用!\n请点击下面的“更新”按钮从应用商店更新到最新版本。 |     |
 | android, iOS | Upgrade_Database | Upgrade Database | Tingkatkan Database | Naik taraf Pangkalan Data | 数据库升级 | データベースをアップグレード |
 | android, iOS | Upgrading | Upgrading | Meningkatkan | Menaik taraf | 升级中... |     |
 | android, iOS | Upload_Mobile_Contacts | Upload Mobile Contacts |     |     | 上传通讯录找好友 | 連絡先をアップロードする |
 | android | Upload_timeout | Upload timeout | Batas waktu unggah | Tamat masa muat naik | 上传超时 | 生体認証でマルチシグを使用する |
 | iOS | Uploading | Uploading... |     |     | 备份中... | アップロードしています... |
-| iOS | Uploading_progress | Uploading: %@ of %@ (%@) |     |     | 上传中: %@ / %@ (%@) | アップロード: %@ / %@ (%@) |
+| iOS | Uploading_progress | Uploading: %@ of %@ (%@) |     |     | 上传中: %@ / %@（%@） | アップロード: %@ / %@ (%@) |
 | iOS | url_unrecognized_hint | %@ failed to recognize, please upgrade Mixin to the latest version or contact the developer to check the link |     |     | %@ 识别失败，请升级至 Mixin 最新版本或联系开发者检查链接 | %@を認識できない場合は、Mixinを最新版にアップデートするか、もしくは運営リンクを確認してください。 |
 | android | Use_Biometric_Multisig | Use Biometric Multisig | Gunakan Multisig Biometrik | Gunakan Biometric Multisig | 使用生物识别签名 | ユーザーが見つかりません |
 | iOS | use_biometry | Use %@ |     |     | 采用%@ | %@を使用する |
