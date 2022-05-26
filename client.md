@@ -1071,8 +1071,8 @@
 | android, Desktop | Share_error | Share error. | Bagikan kesalahan. | Kongsi ralat | 分享出错 | エラーを共有 |
 | android, iOS, Desktop | Share_Link | Share Link | Bagikan Tautan | Kongsi pautan | 分享邀请链接 | リンクをシェアする |
 | iOS | Share_Log_File | Share Log File |     |     | 分享日志文件 | 記録ファイルを共有する |
-| android, iOS | share_message_description | Are you sure you want to send a %2$s from %1$s ? | Yakin ingin mengirim %2$s dari %1$s? | Adakah anda pasti mahu menghantar %2$s dari %1$s? | 你确定要发送来自%1$s的%2$s？ |     |
-| android, iOS | share_message_description_empty | Are you sure you want to send the %1$s ? | Yakin ingin mengirim %1$s? | Adakah anda pasti mahu menghantar %1$s? | 你确定要发送该%1$s？ |     |
+| android, iOS | share_message_description | Are you sure you want to send a %2$s from %1$s? | Yakin ingin mengirim %2$s dari %1$s? | Adakah anda pasti mahu menghantar %2$s dari %1$s? | 你确定要发送来自%1$s的%2$s？ |     |
+| android, iOS | share_message_description_empty | Are you sure you want to send the %1$s? | Yakin ingin mengirim %1$s? | Adakah anda pasti mahu menghantar %1$s? | 你确定要发送该%1$s？ |     |
 | android | Share_QR_Code | Share QR Code |     |     | 分享二维码 | QRコードを共有 |
 | android, iOS | Share_This_Bot | Share This Bot |     | Kongsi Aplikasi Ini | 分享机器人 | このアプリをシェアする |
 | android | share_to | Share %1$s to… | Bagikan %1$s ke… | Kongsi %1$s ke… | 分享%1$s到… | %1$sをシェアする |
