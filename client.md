@@ -81,7 +81,6 @@
 | iOS | alert_key_contact_message | sent you a message |     |     | 发送一条消息 |     |
 | iOS | alert_key_contact_audio_call_cancelled_message | voice call cancelled |     |     | 对方已取消语音通话 |     |
 | iOS | alert_key_group_message | %1$s sent a message |     |     | %1$s 发来一条信息 |     |
-| iOS | alert_key_group_audio_invite_message | %1$s invites you to a voice call |     |     | %1$s 邀请你进行语音通话 |     |
 | android, iOS | All | All | Semua | Semua | 全部  | すべて |
 | Desktop | all_chats | Chats |     |     | 全部聊天 |     |
 | android, iOS | All_Conversations | All Conversations | Semua Percakapan | Semua Perbualan | 所有会话 | すべてのチャット |
@@ -1101,7 +1100,7 @@
 | iOS | started_group_call | %@ has started a group call |     |     | %@ 开始了群通话 | %@がグループ通話を開始しました |
 | android, iOS | Status | Status | Status | Status | 交易状态 | ステータス |
 | android, iOS, Desktop | Sticker | Sticker | Stiker | Pelekat | 贴纸  | スタンプ |
-| android, iOS | sticker_add_invalid_size | Requires stickers file size larger than 1KB and less than 1MB, width and height between 128px and 1024px. | Memerlukan ukuran file stiker yang lebih besar dari 1KB dan kurang dari 1MB, lebar dan tinggi antara 128px dan 1024px. | Memerlukan saiz fail pelekat lebih besar daripada 1KB dan kurang dari 1MB, lebar dan tinggi antara 128px dan 1024px. | 贴纸要求大于 1KB 且小于 1MB，宽高大于 128 像素且小于 1024 像素。 | スタンプのサイズは1K以上800KB未満、 幅と高さは64から512ピクセルである必要があります |
+| android | sticker_add_invalid_size | Requires stickers file size larger than 1KB and less than 1MB, width and height between 128px and 1024px. | Memerlukan ukuran file stiker yang lebih besar dari 1KB dan kurang dari 1MB, lebar dan tinggi antara 128px dan 1024px. | Memerlukan saiz fail pelekat lebih besar daripada 1KB dan kurang dari 1MB, lebar dan tinggi antara 128px dan 1024px. | 贴纸要求大于 1KB 且小于 1MB，宽高大于 128 像素且小于 1024 像素。 | スタンプのサイズは1K以上800KB未満、 幅と高さは64から512ピクセルである必要があります |
 | iOS | sticker_add_requirements | Requires stickers file size larger than %@KB and less than %@KB, width and height between %@ and %@ pixels. |     |     | 贴纸要求大于 %@KB 且小于 %@KB，宽高大于 %@ 像素且小于 %@ 像素。 |     |
 | android, iOS, Desktop | Sticker_Store | Sticker Store |     |     | 表情商店 | ステッカーストア |
 | android, iOS | stickers_count | %d stickers |     |     | %d 个表情 |     |
