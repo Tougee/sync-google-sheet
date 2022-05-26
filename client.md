@@ -397,7 +397,7 @@
 | android, iOS, Desktop | Developer | Developer | Pengembang | Pemaju | 开发者 | 開発者情報 |
 | android | Device_unsupported | Device unsupported |     | Peranti tidak disokong | 当前设备不支持 | サポートしていないデバイスです |
 | iOS | Diagnose | Diagnose |     |     | 诊断  | 診断  |
-| iOS | diagnose_warning_hint | ⚠️Use these functions under instructions from the Mixin team only |     |     | ⚠️请在Mixin团队指导下使用 | ⚠️Mixinチームの指示のもと、これらの機能を使用してください。 |
+| iOS | diagnose_warning_hint | ⚠️Use these functions under instructions from the Mixin team only |     |     | ⚠️请在 Mixin 团队指导下使用 | ⚠️Mixinチームの指示のもと、これらの機能を使用してください。 |
 | android | Diagnosis_Complete | Diagnosis Complete |     |     | 诊断完成 | Diagnosis Complete |
 | iOS | Disable | Disable |     |     | 禁用  | 無効にする |
 | iOS | disable_biometric_pay_confirmation | Disable %@ Pay? |     |     | 确定暂停使用%@支付？ | %@を無効にしますか? |
