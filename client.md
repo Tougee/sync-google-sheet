@@ -899,7 +899,7 @@
 | android, iOS | QR_Code_not_found | QR Code not found | Kode Qr tidak ditemukan | Kod Qr tidak dijumpai | 未发现二维码 | QRコードが見つかりません |
 | android | quote | quote |     | petikan | 引用  | 引用  |
 | android, iOS | Raw | Raw | Raw | Mentah | 其他  | その他 |
-| android, iOS | Read_Apps | Read Apps | Membaca Aplikasi | Aplikasi baca | 查看应用 | アプリを読み取る |
+| android, iOS | Read_Bots | Read Bots | Membaca Aplikasi | Aplikasi baca | 查看应用 | アプリを読み取る |
 | android, iOS | Read_Assets | Read Assets | Membaca Aset | Baca Aset | 查看资产 | ウォレット機能連携 |
 | android, iOS | Read_Circles | Read Circles |     | Lingkaran Baca | 查看圈子 | リストの識別 |
 | android, iOS | Read_Collectibles | Read Collectibles |     |     | 查看 NFT | コレクションを読む |
@@ -919,7 +919,7 @@
 | android, iOS | Reload | Reload |     | Muat semula | 重新载入 | リロード |
 | android, iOS | Remove_all | Remove All |     | Keluarkan semua | 全部删除 | 全部クリア |
 | android, iOS | Remove_all_floats | Remove all floats? |     | Alih keluar semua apungan? | 确定删除全部浮窗？ | Floatを全部クリアしますか？ |
-| iOS | remove_app_hint | Remove app? Chat history will remain on your device |     |     | 删除机器人？聊天记录将会保留 | アプリを削除しますか? トーク履歴はデバイスから削除されません |
+| iOS | remove_bot_hint | Remove bot? Chat history will remain on your device |     |     | 删除机器人？聊天记录将会保留 | アプリを削除しますか? トーク履歴はデバイスから削除されません |
 | android, iOS, Desktop | Remove_Bot | Remove Bot | Hapus Bot | Keluarkan Bot | 删除机器人 | Myロボから削除 |
 | android, iOS, Desktop | Remove_Contact | Remove Contact | Hapus kontak | Buang kenalan | 删除联系人 | 連絡先を削除 |
 | iOS | remove_contact_hint | Remove friend? Chat history will remain on your device |     |     | 删除联系人？聊天记录将会保留 | 友達を削除しますか? トーク履歴はデバイスから削除されません |
