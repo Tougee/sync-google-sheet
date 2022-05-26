@@ -640,7 +640,7 @@
 | android | landing_verification_tip_url | https://mixinmessenger.zendesk.com/hc/articles/360024114492 | https://mixinmessenger.zendesk.com/hc/articles/360024114492 | https://mixinmessenger.zendesk.com/hc/articles/360024114492 |     |     |
 | android, iOS | Language | Language | Bahasa | Bahasa | 语言  | 言語  |
 | android, iOS | Large_Amount_Confirmation | Large Amount Confirmation | Konfirmasi Jumlah Besar | Pengesahan Jumlah Besar | 大额转账确认 | 送金時の確認 |
-| android, iOS | Large_Amount_Confirmation_with_symbol | Large Amount Confirmation(%1$s) | Konfirmasi Jumlah Besar(%1$s) | Pengesahan Jumlah Besar(%1$s) | 大额转账确认(%1$s) | 確認する金額(%1$s) |
+| android, iOS | Large_Amount_Confirmation_with_symbol | Large Amount Confirmation(%1$s) | Konfirmasi Jumlah Besar(%1$s) | Pengesahan Jumlah Besar(%1$s) | 大额转账确认（%1$s） | 確認する金額(%1$s) |
 | iOS | Last_active_time | Last active %@ |     |     | 最后登入于 %@ | 最後のアクティビティー %@ |
 | android | Last_Backup | Last Backup | Pencadangan Terakhir | Sandaran Terakhir | 上次备份 | 最後のバックアップ |
 | iOS | last_backup_hint | Last backup on %@, total size %@. |     |     | 上次备份是%@，占用空间 %@。 | 最後に行ったバックアップ %@, 合計サイズ %@. |
