@@ -168,7 +168,7 @@
 | android, iOS | call_on_another_call_hint | You are already on another call. Try after it was ended. |     |     | 无法在 Mixin 通话时拨打电话 | 通話を最小化するためには、Mixinの権限を許可してください。 |
 | iOS | Call_Phone | Call Phone |     |     | 电话呼叫 | 電話をかける |
 | android | call_pip_permission | You can't minimize a voice call as Mixin isn't authorized to use floating windows | Anda tidak dapat menciutkan panggilan suara karena Mixin tidak diizinkan menggunakan jendela mengambang | Anda tidak dapat meminimumkan panggilan suara kerana Mixin tidak diberi kuasa menggunakan tetingkap terapung | 你的手机没有授权 Mixin 获得浮窗权限，语音通话最小化不能正常使用 |     |
-| iOS | call_remote_error | The connection failed. Code %@ |     |     | 连接失败。代码%@ | 切断されました エラーコード%@ |
+| iOS | call_remote_error | The connection failed. Code %@ |     |     | 连接失败。代码 %@ | 切断されました エラーコード%@ |
 | android | call_who | Call %1$s | Hubungi %1$s | Hubungi %1$s | 呼叫 %1$s | %1$sに電話をかける |
 | iOS | Call_with_Mixin | Call with Mixin |     |     | 语音通话 | 音声通話 |
 | android, iOS | Calling | Calling… | Memanggil… | Memanggil… | 正在呼叫… | カメラ |
