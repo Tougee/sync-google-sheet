@@ -359,7 +359,7 @@
 | android, iOS | Declined | Declined | Ditolak | Menolak | 已拒绝 |     |
 | android | default_time | 00:00 | 00:00 | 00:00 |     |     |
 | android, iOS, Desktop | Delete | Delete |     |     | 删除  | 削除  |
-| iOS | delete_account_detail_hint | Local messages and iCloud Backups will not be deleted automatically |     |     | #ERROR! | ローカルメッセージとiCloudにバックアップされた内容は削除されません |
+| iOS | delete_account_detail_hint | Local messages and iCloud Backups will not be deleted automatically |     |     | 本地消息和 iCloud 备份不会被自动删除 | ローカルメッセージとiCloudにバックアップされた内容は削除されません |
 | android, iOS | delete_account_hint | Delete your account info and profile photo |     |     | 删除你的账户和个人照片 | アカウント情報とプロフィール画像を削除します |
 | android, iOS | Delete_address | Delete address | Hapus alamat | Padamkan alamat | 删除地址 | アドレスを削除 |
 | iOS, Desktop | Delete_Chat | Delete Chat |     |     | 删除聊天 | チャットを削除 |
@@ -376,7 +376,7 @@
 | android, iOS | Delete_withdraw_Address | Delete %1$s Address | Hapus Alamat %1$s | Padamkan Alamat %1$s | 删除 %1$s 地址 | %1$sアドレスを削除 |
 | iOS | Deleted | Deleted |     |     | 已删除 | 削除しました |
 | android, iOS | Deposit | Deposit | Deposit | Deposit | 充值  | 入金  |
-| android, iOS | deposit_account_attention | Attention: Please try a small amount for the first deposit. Both a Memo and an Address are required to successfully deposit your %1$s to Mixin Messenger. | Perhatian: Harap coba jumlah kecil untuk deposit pertama. Memo dan Alamat diperlukan agar deposit %1$s Anda ke Mixin Messenger dapat dilakukan dengan sukses. | Perhatian: Cuba sebilangan kecil untuk deposit pertama. Kedua-dua Memo dan Alamat diperlukan untuk memasukkan deposit anda dengan jayanya %1$s ke Mixin Messenger. | 注意：首次充值建议小额尝试！地址 和 Memo（备注）同时使用才能充值 %1$s 到 Mixin Messenger。 |     |
+| android, iOS | deposit_account_attention | Attention: Please try a small amount for the first deposit. Both a Memo and an Address are required to successfully deposit your %1$s to Mixin Messenger. | Perhatian: Harap coba jumlah kecil untuk deposit pertama. Memo dan Alamat diperlukan agar deposit %1$s Anda ke Mixin Messenger dapat dilakukan dengan sukses. | Perhatian: Cuba sebilangan kecil untuk deposit pertama. Kedua-dua Memo dan Alamat diperlukan untuk memasukkan deposit anda dengan jayanya %1$s ke Mixin Messenger. | 注意：首次充值建议小额尝试！地址和 Memo（备注）同时使用才能充值 %1$s 到 Mixin Messenger。 |     |
 | iOS | Deposit_at_least | Deposit at least %@ %@ for the first time. |     |     | 首次充值至少 %@ %@！ | 最初の入金は%@ %@ 以上に指定してください |
 | android, iOS | deposit_attention | Please try a small amount for the first deposit. | Harap coba jumlah kecil untuk deposit pertama. | Cuba sedikit untuk deposit pertama. | 首次充值建议小额尝试！ | 注意: 最初は必ず少額で入金テストをしてください。 |
 | android, iOS | deposit_confirmation | Deposit will arrive %1$d block confirmation |     |     | 充值到账需要 %1$d 个区块确认。 |     |
