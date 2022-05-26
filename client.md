@@ -245,7 +245,7 @@
 | android | CHOOSE | CHOOSE |     |     | 选择  | 選択  |
 | android | Choose_folder | Choose folder |     |     | 选择文件夹 | フォルダを選択する |
 | iOS | Choose_Photo | Choose Photo |     |     | 选择照片 | 画像を選ぶ |
-| android, iOS | circle_bottom | Create circle for different groups of chats and quickly switch between them | Buat lingkaran untuk grup obrolan yang berbeda dan beralih dengan cepat di antaranya | Buat lingkaran untuk kumpulan sembang yang berbeza \ndan beralih antara mereka dengan segera | 为不同对话创建圈子然后在它们之间快速切换 | チャットやロボ（高機能アカウント）を追加して\nリストを作成しましょう |
+| android | circle_bottom | Create circle for different groups of chats and quickly switch between them | Buat lingkaran untuk grup obrolan yang berbeda dan beralih dengan cepat di antaranya | Buat lingkaran untuk kumpulan sembang yang berbeza \ndan beralih antara mereka dengan segera | 为不同对话创建圈子然后在它们之间快速切换 | チャットやロボ（高機能アカウント）を追加して\nリストを作成しましょう |
 | android | circle_delete_tip | Delete "%1$s" ? | Hapus "%1$s"? | Padamkan "%1$s"? | 确认删除 "%1$s"？ | "%1$s"を削除しますか？ |
 | android, iOS | circle_info | Create circles for different groups of chats and quickly switch between them | Jika Anda ingin memfilter percakapan, harap setel lingkaran untuk percakapan tersebut terlebih dahulu. | Sekiranya anda ingin menapis perbualan, sila\ntetapkan lingkaran untuk perbualan terlebih dahulu. | 新建一个圈子可以过滤会话 | 最初のリストを作成して、\n自分の好きなユーザーやロボを追加しましょう |
 | android, iOS | number_reached_limit | The number has reached the limit | Jumlahnya sudah mencapai batas | Jumlahnya sudah mencapai had | 已达到上限 | 数が上限に達しました |
