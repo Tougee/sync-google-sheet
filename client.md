@@ -444,7 +444,7 @@
 | android | Enable_immediately | Enabled immediately |     |     | 立即启动 | すぐに有効化する |
 | iOS | enable_pay | Enable %@ Pay |     |     | 启用%@支付 | %@の支払いを有効化 |
 | iOS | enable_pay_confirmation | Enable %@ Pay? |     |     | 启用%@支付？ | %@の支払いを有効化しますか？ |
-| iOS | enable_touch_pay_hint | Confirm PIN to enable Touch Pay |     |     | 确认钱包 PIN 启用指纹支付 | PINを確認してTouch IDを利用可能にしてください |
+| iOS | enable_touch_pay_hint | Confirm PIN to enable Touch Pay |     |     | 确认 PIN 启用指纹支付 | PINを確認してTouch IDを利用可能にしてください |
 | android | Enable_web_debug | Enable web debug |     | Bolehkan laman web nyahpepijat | 已开启 Web 调试 | Enable web debug |
 | android | Encrypted | Encrypted |     |     | 端到端加密 | 暗号化 |
 | android, iOS | End_to_End_Encryption | End-to-end Encrypted | Terenkripsi end-to-end | Disulitkan | 端到端加密 | エンドツーエンド暗号化 |
