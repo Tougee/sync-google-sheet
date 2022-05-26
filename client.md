@@ -285,8 +285,8 @@
 | android, iOS | Contact_Developer | Contact Developer |     | Hubungi Pembangun | 联系开发者 | デベロッパーへ連絡 |
 | android | contact_empty_tip | Mixin needs access your contacts to help you connect with other people on Mixin. | Mixin perlu mengakses kontak Anda untuk membantu Anda terhubung dengan orang lain di Mixin. | Mixin perlu mengakses kenalan anda untuk membantu anda berhubung dengan orang lain di Mixin. | Mixin 需要访问你的通讯录来帮助你更快找到你的朋友。 | スマホの連絡帳と同期して友だちを自動追加 |
 | android, iOS | contact_invite_content | Hey, I'm using Mixin Messenger to chat. Download it here: https://mixin.one/messenger | Hai, saya menggunakan Mixin Messenger untuk mengobrol. Unduh di sini: https://mixin.one/messenger . | Hei, saya menggunakan Mixin Messenger untuk sembang. Muat turun di sini: https://mixin.one/messenger . | 我正在使用 Mixin 聊天。下载：https://mixin.one/messenger | Mixinを使いませんか？ ここからダウンロード: https://mixin.one/messenger |
-| android, iOS, Desktop | contact_mixin_id | Mixin ID: %1$s | Mixin ID: %1$s | Mixin ID: %1$s | Mixin ID： %1$s | Mixin ID: %1$s |
-| android, iOS | contact_mobile | Mobile: %1$s | Seluler: %1$s | Mudah alih: %1$s | 手机： %1$s | モバイル: %1$s |
+| android, iOS, Desktop | contact_mixin_id | Mixin ID: %1$s | Mixin ID: %1$s | Mixin ID: %1$s | Mixin ID：%1$s | Mixin ID: %1$s |
+| android, iOS | contact_mobile | Mobile: %1$s | Seluler: %1$s | Mudah alih: %1$s | 手机：%1$s | モバイル: %1$s |
 | android, Desktop | contact_mute_title | Mute notifications for… | Matikan notifikasi selama… | Senyapkan pemberitahuan untuk… | 静音通知 | 通知をミュート: |
 | android | contact_new_group_chat_desc | Create a group chat with up to  friends | Buat obrolan grup dengan maksimal teman | Buat kumpulan sembang dengan sehingga rakan | 创建一个最多支持 256 人的群 | 256人までのグループチャットを作成 |
 | iOS | contact_phone_contact_hint | Upload mobile contacts to find other Mixin friends. |     |     | 上传你的手机通讯录，如果你的通讯录中有朋友已经注册了 Mixin，系统会帮你自动添加为好友 | スマホの連絡帳と同期して友だちを自動追加 |
