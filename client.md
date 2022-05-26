@@ -1203,7 +1203,7 @@
 | android, iOS | Update | Update | Perbarui | Kemas kini | 升级  | アップデート |
 | android | update_downloaded | An update has just been downloaded. | Pembaruan baru saja diunduh. | Kemas kini baru sahaja dimuat turun. | 一个更新刚下载完成。 | アップデータをダウンロード中 |
 | android, iOS | Update_Mixin | Update Mixin | Perbarui Mixin | Kemas kini Mixin | 升级 Mixin |     |
-| android | update_mixin_description | The current version (%1$s) is no longer avaliable!\nPlease click "Update" below to update to the latest version from the Google Play. | Versi saat ini (%1$s) tidak lagi tersedia!\nHarap klik Perbarui berikut untuk memperbarui ke versi terbaru dari App Store. | Versi semasa (%1$s) tidak lagi tersedia!\nSila klik Kemas kini di bawah untuk mengemas kini ke versi terbaharu dari Google Play. | 当前版本（%1$s）不再可用!\n请点击下面的“更新”按钮从应用商店更新到最新版本。 |     |
+| android | update_mixin_description | The current version (%1$s) is no longer available!\nPlease click "Update" below to update to the latest version from the Google Play. | Versi saat ini (%1$s) tidak lagi tersedia!\nHarap klik Perbarui berikut untuk memperbarui ke versi terbaru dari App Store. | Versi semasa (%1$s) tidak lagi tersedia!\nSila klik Kemas kini di bawah untuk mengemas kini ke versi terbaharu dari Google Play. | 当前版本（%1$s）不再可用!\n请点击下面的“更新”按钮从应用商店更新到最新版本。 |     |
 | android, iOS | Upgrade_Database | Upgrade Database | Tingkatkan Database | Naik taraf Pangkalan Data | 数据库升级 | データベースをアップグレード |
 | android, iOS | Upgrading | Upgrading | Meningkatkan | Menaik taraf | 升级中... |     |
 | android, iOS | Upload_Mobile_Contacts | Upload Mobile Contacts |     |     | 上传通讯录找好友 | 連絡先をアップロードする |
