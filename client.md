@@ -440,7 +440,7 @@
 | android | Enable_after_30_minutes | Enabled after 30 minutes |     |     | 在 30 分钟后启动 | 30分後に有効化する |
 | android | Enable_db_debug | Enable db debug |     | Bolehkan nyahpepijat db | 已开启 db 调试 | Enable db debug |
 | android, iOS | Enable_Emergency_Contact | Enable Emergency Contact | Aktifkan Kontak Darurat | Bolehkan Kenalan Kecemasan | 启用紧急联系人 | 緊急連絡先を有効にする |
-| iOS | enable_face_pay_hint | Confirm PIN to enable Face Pay |     |     | 确认钱包 PIN 启用面容支付 | PINを確認してFace IDを利用可能にしてください |
+| iOS | enable_face_pay_hint | Confirm PIN to enable Face Pay |     |     | 确认 PIN 启用面容支付 | PINを確認してFace IDを利用可能にしてください |
 | android | Enable_immediately | Enabled immediately |     |     | 立即启动 | すぐに有効化する |
 | iOS | enable_pay | Enable %@ Pay |     |     | 启用%@支付 | %@の支払いを有効化 |
 | iOS | enable_pay_confirmation | Enable %@ Pay? |     |     | 启用%@支付？ | %@の支払いを有効化しますか？ |
@@ -471,7 +471,7 @@
 | android, iOS, Desktop | error_invalid_address_plain | ERROR %1$d: Invalid address format. | KESALAHAN %1$d: Format alamat tidak valid. | RALAT %1$d: Format alamat tidak sah. | 错误 %1$d：地址格式错误。 | エラー%1$d：無効なアドレス形式です。 |
 | android, Desktop | error_invalid_code_too_frequent | ERROR %1$d: Send verification code too frequent, please try again later. | KESALAHAN %1$d: Terlalu sering mengirim kode verifikasi, coba lagi nanti. | RALAT %1$d: Hantar kod pengesahan terlalu kerap, sila cuba sebentar lagi. | 错误 %1$d：发送验证码太频繁，请稍后再试 | エラー %1$d: 認証コードを送信する頻度が多すぎます。しばらくしてからもう一度お試しください。 |
 | android, iOS, Desktop | error_invalid_emergency_contact | ERROR %1$d: Invalid emergency contact | KESALAHAN %1$d: Kontak darurat tidak valid | RALAT %1$d: Kenalan kecemasan tidak sah | 错误 %1$d：紧急联系人不正确 | エラー %1$d: 緊急連絡先が無効です |
-| android, Desktop | error_invalid_pin_format | ERROR %1$d: Invalid PIN format.  | KESALAHAN %1$d: Format PIN tidak valid | RALAT %1$d: Format PIN tidak sah | 错误 %1$d：无效 PIN 格式 | エラー %1$d: 無効なPINフォーマットです |
+| android, Desktop | error_invalid_pin_format | ERROR %1$d: Invalid PIN format.  | KESALAHAN %1$d: Format PIN tidak valid | RALAT %1$d: Format PIN tidak sah | 错误 %1$d：PIN 格式不正确 | エラー %1$d: 無効なPINフォーマットです |
 | android | error_memo_too_long | Memo has too many characters, maximum is 200 |     |     | Memo字符超长，最多为200 |     |
 | iOS, Desktop | error_network_task_failed | Network connection failed. Check or switch your network and try again |     |     | 网络连接失败。检查或切换网络，然后重试 | ネットワーク接続に失敗しました。ネットワーク接続状態を確認した後にもう一度試してください。 |
 | android, iOS, Desktop | error_not_found | ERROR %1$d: Not found | KESALAHAN %1$d: Tidak ditemukan | RALAT %1$d: Tidak ditemui | 错误 %1$d：没有找到相应的信息 | エラー %1$d: 結果なし |
