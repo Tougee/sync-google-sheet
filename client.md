@@ -636,7 +636,7 @@
 | android, Desktop | landing_invitation_dialog_content | We will send a 4-digit code to your phone number %1$s, please enter the code in next screen. | Kami akan mengirim kode 4 digit ke nomor telepon Anda %1$s, harap masukkan kode tersebut pada layar berikutnya. | Kami akan menghantar kod 4 digit ke nombor telefon anda %1$s, sila masukkan kod di skrin seterusnya. | 我们将发送4位验证码到手机 %1$s, 请在下一个页面输入 | 4桁のコードを電話番号%1$sに送信します。次の画面でコードを入力してください。 |
 | android | landing_privacy_policy_url | https://mixin.one/pages/privacy | https://mixin.one/pages/privacy | https://mixin.one/pages/privacy |     |     |
 | android | landing_terms_url | https://mixin.one/pages/terms | https://mixin.one/pages/terms | https://mixin.one/pages/terms |     |     |
-| android, iOS, Desktop | landing_validation_title | Enter the 4-digit code sent to you at %1$s | Masukkan kode 4 digit yang dikirim kepada Anda di %1$s | Masukkan kod 4 digit yang dihantar kepada anda di %1$s | 请输入发送至以下号码的 4 位验证码： %1$s | %1$sに送信された4桁のコードを入力してください |
+| android, iOS, Desktop | landing_validation_title | Enter the 4-digit code sent to you at %1$s | Masukkan kode 4 digit yang dikirim kepada Anda di %1$s | Masukkan kod 4 digit yang dihantar kepada anda di %1$s | 请输入发送至以下号码的 4 位验证码：%1$s | %1$sに送信された4桁のコードを入力してください |
 | android | landing_verification_tip_url | https://mixinmessenger.zendesk.com/hc/articles/360024114492 | https://mixinmessenger.zendesk.com/hc/articles/360024114492 | https://mixinmessenger.zendesk.com/hc/articles/360024114492 |     |     |
 | android, iOS | Language | Language | Bahasa | Bahasa | 语言  | 言語  |
 | android, iOS | Large_Amount_Confirmation | Large Amount Confirmation | Konfirmasi Jumlah Besar | Pengesahan Jumlah Besar | 大额转账确认 | 送金時の確認 |
