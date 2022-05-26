@@ -466,7 +466,7 @@
 | android, iOS, Desktop | error_full_group | ERROR %1$d: The group chat is full. | KESALAHAN %1$d: Obrolan grup sudah penuh. | RALAT %1$d: Kumpulan sembang penuh. | 错误 %1$d：群组已满 | エラー %1$d: グループチャットが満員です |
 | android, iOS, Desktop | error_insufficient_balance | ERROR %1$d: Insufficient balance | KESALAHAN %1$d: Saldo tidak cukup | RALAT %1$d: Baki tidak mencukupi | 错误 %1$d：余额不足 | エラー %1$d: 残高が不足しています |
 | android, iOS, Desktop | error_insufficient_transaction_fee_with_amount | ERROR %1$d: Insufficient transaction fee. Please make sure your wallet has %2$s as fee |     |     | 错误 %1$d：手续费不足。请确保钱包至少有 %2$s 当作手续费。 | エラー%1$d：早期手数料が不足しています。ウォレット内に%2$sが保管されているか確認してください。 |
-| iOS | error_internal_with_msg | Internal error: %@ |     |     | 内部错误: %@ | 内部エラー: %@ |
+| iOS | error_internal_with_msg | Internal error: %@ |     |     | 内部错误：%@ | 内部エラー: %@ |
 | android, Desktop | error_invalid_address | ERROR %1$d: Invalid address format. Please enter the correct %2$s %3$s address! |     |     | 错误 %1$d：地址格式错误。请输入正确的 %2$s %3$s 的地址！ | エラー%1$d：無効なアドレス形式です。正しい%2$s %3$s アドレスを入力してください。 |
 | android, iOS, Desktop | error_invalid_address_plain | ERROR %1$d: Invalid address format. | KESALAHAN %1$d: Format alamat tidak valid. | RALAT %1$d: Format alamat tidak sah. | 错误 %1$d：地址格式错误。 | エラー%1$d：無効なアドレス形式です。 |
 | android, Desktop | error_invalid_code_too_frequent | ERROR %1$d: Send verification code too frequent, please try again later. | KESALAHAN %1$d: Terlalu sering mengirim kode verifikasi, coba lagi nanti. | RALAT %1$d: Hantar kod pengesahan terlalu kerap, sila cuba sebentar lagi. | 错误 %1$d：发送验证码太频繁，请稍后再试 | エラー %1$d: 認証コードを送信する頻度が多すぎます。しばらくしてからもう一度お試しください。 |
