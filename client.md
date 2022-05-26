@@ -876,8 +876,8 @@
 | iOS | pinned_a_sticker | %@ pinned a sticker |     |     | %@置顶了一个贴纸 | %@がステッカーをピン留めしました |
 | iOS | pinned_a_transcript | %@ pinned a transcript |     |     | %@置顶了一个聊天记录 | %@がメッセージ履歴をピン留めしました |
 | iOS | pinned_a_video | %@ pinned a video |     |     | %@置顶了一个视频 | %@が動画をピン留めしました |
-| android, iOS, Desktop | pinned_message_title | %1$d Pinned Message |     |     | %1$d条置顶消息 |     |
-| android, iOS, Desktop | pinned_message_title.count | %1$d Pinned Messages |     |     | %1$d条置顶消息 |     |
+| android, iOS, Desktop | pinned_message_title | %1$d Pinned Message |     |     | %1$d 条置顶消息 |     |
+| android, iOS, Desktop | pinned_message_title.count | %1$d Pinned Messages |     |     | %1$d 条置顶消息 |     |
 | android | Pinned_Messages | Pinned Messages |     |     | 置顶消息 | ピン留め済みのメッセージ |
 | android | Play | Play |     | Main | 播放  |     |
 | android | Playback_failed | Playback failed |     | Main balik gagal | 播放失败 | 再生失敗 |
