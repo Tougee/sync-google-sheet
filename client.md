@@ -200,7 +200,7 @@
 | iOS | Change_Settings | Change Settings |     |     | 更改设置 | 設定を変更する |
 | iOS | Change_your_app_language | Change your app language |     |     | 设置语言 | アプリの言語を変更する |
 | android, iOS | Changed | Changed |     |     | 已修改 | 変更しました |
-| android, iOS | changed_disappearing_message_settings | %1$s changed disappearing message settings. |     |     | %1$s 修改了限时消息设置 |     |
+| android, iOS | changed_disappearing_message_settings | %1$s changed disappearing message settings. |     |     | %1$s修改了限时消息设置 |     |
 | android | Changing | Changing... | Mengubah… | Menukar… | 正在修改… | 変更中… |
 | android, iOS, Desktop | chat_bot_reception_title | Tap the button to interact with the bot |     |     | 点击按钮使用机器人 |     |
 | android | chat_audio_discard_warning | Are you sure you want to stop recording and discard your voice message ? | Yakin ingin berhenti merekam dan membuang pesan suara Anda? | Adakah anda pasti mahu berhenti merakam dan membuang mesej suara anda? | 你确定要停止并放弃录制的语音吗？ | 録音を中止し、ボイスメッセージを破棄してもよろしいですか？ |
