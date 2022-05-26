@@ -210,7 +210,7 @@
 | android, iOS | chat_call_duration | Duration %1$s | Durasi: %1$s | Tempoh: %1$s | 通话时长 %1$s | 通話時間 %1$s |
 | android, iOS | chat_call_warning_voice | Can't record voice messages during a Mixin call. | Tidak dapat merekam pesan suara selama panggilan Mixin. | Tidak dapat merakam mesej suara semasa panggilan Mixin. | 无法在 Mixin 通话时录制语音消息 | 通話中にボイスメッセージを録音することはできません。 |
 | android, iOS | chat_decryption_failed | This message decryption failed, please upgrade Mixin to the latest version. |     |     | 此信息解密失败，请将 Mixin 升级到最新版本。 | メッセージの解読に失敗しました。Mixinを最新バージョンにアップデートしてください。 |
-| iOS, Desktop | chat_decryption_failed_hint | Waiting for %@ to get online and establish an encrypted session.  |     |     | 等待%@上线后建立加密会话。 | %@が参加し暗号化セッションが開始するまで待機しています... |
+| iOS, Desktop | chat_decryption_failed_hint | Waiting for %@ to get online and establish an encrypted session. |     |     | 等待%@上线后建立加密会话。 | %@が参加し暗号化セッションが開始するまで待機しています... |
 | android | chat_delete_message | Delete %1$d message? |     |     |     |     |
 | android | chat_delete_message.count | Delete %1$d messages? | Hapus %1$d pesan? | Padamkan %1$d mesej? | 删除 %1$d 条消息吗？ |     |
 | android | chat_delete_url | https://mixinmessenger.zendesk.com/hc/articles/360028209571 | https://mixinmessenger.zendesk.com/hc/articles/360028209571 | https://mixinmessenger.zendesk.com/hc/articles/360028209571 |     |     |
