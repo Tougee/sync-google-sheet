@@ -1135,7 +1135,7 @@
 | android, iOS | TEXT_QR_CODE | TEXT QR CODE | KODE QR TEKS | KOD QR TEKS | 文本二维码 | テキストQRコード |
 | android, iOS | The_code_is_incorrect | The code is incorrect. |     |     | 验证码不正确 | 入力したコードは正しくありません。 |
 | android, Desktop | Theme | Theme | Tema | Tema | 主题  | テーマ |
-| android, iOS | third_pin_confirm_hint | It's rare to see a third confirmation somewhere else, so please remember the PIN is unrecoverable if lost. |     |     | 很少看到第三次确认吧！所以请牢记，密码丢失是无法找回的。 |     |
+| android, iOS | third_pin_confirm_hint | It's rare to see a third confirmation somewhere else, so please remember the PIN is unrecoverable if lost. |     |     | 很少看到第三次确认吧！所以请牢记，PIN 丢失是无法找回的。 |     |
 | android, iOS, Desktop | This_message_was_deleted | This message was deleted | Pesan ini telah dihapus | Mesej ini telah dipadamkan | 此消息已撤回 | このメッセージは削除されています |
 | android | Thursday | Thursday | Kamis | Khamis | 星期四 | 木曜日 |
 | android, iOS, Desktop | Time | Time | Waktu | Masa | 时间  | 日時  |
