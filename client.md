@@ -613,7 +613,7 @@
 | android, iOS | Invalid_QR_Code | Invalid QR-Code |     |     | 无效的二维码 |     |
 | iOS | Invalid_request_body | Invalid request body |     |     | 无效的请求 | 無効なリクエストボディ |
 | iOS | Invalid_request_data | Invalid request data |     |     | 无效的请求数据 | 無効なリクエストデータ |
-| iOS | Invalid_sdp | Invalid sdp |     |     | 无效的 SDP | 無効なsdp |
+| iOS | Invalid_sdp | Invalid SDP |     |     | 无效的 SDP | 無効なsdp |
 | android | Invalid_sticker_format | Invalid sticker format | Format stiker tidak valid | Format pelekat tidak sah | 贴纸格式不支持 | スタンプのフォーマットが無効です。 |
 | iOS | Invalid_width | Invalid width |     |     | 宽度无效 | 無効な横幅 |
 | iOS | Invite | Invite |     |     | 邀请  | 招待する |
