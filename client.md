@@ -1032,7 +1032,7 @@
 | android | setting_biometric_error_pin_not_set | The PIN, pattern or password is NOT set or a SIM card is unlocked |     | PIN, corak atau kata laluan TIDAK ditetapkan atau kad SIM tidak terkunci | 当前设备不安全，请设置解锁密码或解锁手势或 SIM 卡锁定 | PIN、パターン、パスワードが設定されていない、またはSIMカードが入っていません |
 | android | setting_biometric_error_rooted | The device has been rooted |     | Peranti telah diakarkan | 当前设备不安全 | デバイスはroot化されています |
 | android, iOS | setting_conversation_group_tip | Who can add me to groups | Siapa yang dapat menambahkan saya ke grup. | Siapa yang boleh menambahkan saya ke kumpulan. | 谁能加我进入群组 | グループチャットに追加可能なユーザー |
-| android, iOS | setting_conversation_tip | Who can send message to me | Anda dapat membatasi siapa yang dapat mengirim pesan kepada saya. | Anda boleh mengehadkan siapa yang boleh menghantar mesej kepada saya. | 你可以限制谁给你发消息 | メッセージの送信や電話が可能なユーザー |
+| android, iOS | setting_conversation_tip | Who can send message to me | Anda dapat membatasi siapa yang dapat mengirim pesan kepada saya. | Anda boleh mengehadkan siapa yang boleh menghantar mesej kepada saya. | 谁可以给我发消息 | メッセージの送信や電話が可能なユーザー |
 | android | setting_data_mobile | When using mobile data | Saat menggunakan data seluler | Semasa menggunakan data mudah alih | 当使用移动数据时 | モバイル回線 |
 | android | setting_data_title | Media auto-download | Download otomatis media | Muat turun automatik media | 自动下载文件 | 自動ダウンロード設定 |
 | android | setting_data_wifi | When connected on Wi-Fi | Saat tersambung melalui Wi-Fi | Semasa disambungkan di Wi-Fi | 当连接到 Wi-Fi 时 | WiFi利用時 |
