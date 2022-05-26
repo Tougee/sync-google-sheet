@@ -290,7 +290,7 @@
 | android, Desktop | contact_mute_title | Mute notifications for… | Matikan notifikasi selama… | Senyapkan pemberitahuan untuk… | 静音通知 | 通知をミュート: |
 | android | contact_new_group_chat_desc | Create a group chat with up to  friends | Buat obrolan grup dengan maksimal teman | Buat kumpulan sembang dengan sehingga rakan | 创建一个最多支持 256 人的群 | 256人までのグループチャットを作成 |
 | iOS | contact_phone_contact_hint | Upload mobile contacts to find other Mixin friends. |     |     | 上传你的手机通讯录，如果你的通讯录中有朋友已经注册了 Mixin，系统会帮你自动添加为好友 | スマホの連絡帳と同期して友だちを自動追加 |
-| android, iOS | contact_share_bots_title | %1$s's Shared Bots | Aplikasi Bersama %1$s | Aplikasi Dikongsi %1$s | %1$s 分享的机器人 | %1$s\のシェアしたロボ |
+| android, iOS | contact_share_bots_title | %1$s's Shared Bots | Aplikasi Bersama %1$s | Aplikasi Dikongsi %1$s | %1$s分享的机器人 | %1$s\のシェアしたロボ |
 | iOS | contact_title | Contacts |     |     | 联系人 | マイページ |
 | android, iOS, Desktop | CONTACTS | CONTACTS | KONTAK | KENALAN | 联系人 | 連絡先 |
 | android, iOS | content_audio | [Audio] | [Audio] | [Audio] | [语音] | [音声] |
