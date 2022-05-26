@@ -66,21 +66,21 @@
 | android, iOS | alert_key_contact_transcript_message | sent you an transcript |     |     | 分享一个聊天记录 | メッセージ履歴が共有されました |
 | android, iOS | alert_key_contact_transfer_message | sent you a transfer | mengirimi Anda transfer | menghantar pindahan kepada anda | 发送一笔转账 | 送金が届きました |
 | android, iOS | alert_key_contact_video_message | sent you a video | mengirimi Anda video | menghantar video kepada anda | 发送一个视频 | 動画が届きました |
-| android, iOS | alert_key_group_audio_invite_message | %1$s invites you to a voice call |     |     | %1$s 邀请你进行语音通话 | %1$s秒後にコードを再送する |
-| android, iOS | alert_key_group_audio_message | %1$s sent an audio | %1$s mengirim audio | %1$s hantarkan audio | %1$s 发送一条语音 | %1$sが音声を送信しました |
-| android, iOS | alert_key_group_contact_message | %1$s sent a contact | %1$s membagikan kontak | %1$s berkongsi kenalan | %1$s 分享了一个联系人 | %1$sが連絡先を送信しました |
-| android, iOS | alert_key_group_data_message | %1$s sent a file | %1$s mengirim file | %1$s hantar fail | %1$s 发送一个文件 | %1$sがファイルを送信しました |
-| android, iOS | alert_key_group_image_message | %1$s sent a photo | %1$s mengirim foto | %1$s hantar foto | %1$s 发送一张照片 | %1$sが画像を送信しました |
-| android, iOS | alert_key_group_live_message | %1$s sent a live stream | %1$s mengirim siaran langsung | %1$s menghantar siaran langsung | %1$s 发送一个直播 | %1$sがライブ配信を送信しました |
-| android, iOS | alert_key_group_location_message | %1$s sent a location | %1$s mengirim lokasi | %1$s hantar lokasi | %1$s 发送一个位置 | %1$sが位置情報を送信しました |
-| android, iOS | alert_key_group_post_message | %1$s sent a post | %1$s mengirim postingan | %1$s hantar kiriman | %1$s 发送一篇文章 | %1$sが投稿を送信しました |
-| android, iOS | alert_key_group_sticker_message | %1$s sent a sticker | %1$s mengirim stiker | %1$s hantarkan pelekat | %1$s 发送一张贴纸 | %1$sがスタンプを送信しました |
-| android, iOS | alert_key_group_text_message | %1$s sent a message | %1$s mengirim pesan | %1$s hantar mesej | %1$s 发送一条消息 | %1$sがメッセージを送信しました |
-| android, iOS | alert_key_group_transcript_message | %1$s sent a transcript |     |     | %1$s 分享一个聊天记录 | %1$sがメッセージ履歴を共有しました |
-| android, iOS | alert_key_group_video_message | %1$s sent a video | %1$s mengirim video | %1$s hantar video | %1$s 发送一个视频 | %1$sが動画を送信しました |
+| android, iOS | alert_key_group_audio_invite_message | %1$s invites you to a voice call |     |     | %1$s邀请你进行语音通话 | %1$s秒後にコードを再送する |
+| android, iOS | alert_key_group_audio_message | %1$s sent an audio | %1$s mengirim audio | %1$s hantarkan audio | %1$s发送一条语音 | %1$sが音声を送信しました |
+| android, iOS | alert_key_group_contact_message | %1$s sent a contact | %1$s membagikan kontak | %1$s berkongsi kenalan | %1$s分享了一个联系人 | %1$sが連絡先を送信しました |
+| android, iOS | alert_key_group_data_message | %1$s sent a file | %1$s mengirim file | %1$s hantar fail | %1$s发送一个文件 | %1$sがファイルを送信しました |
+| android, iOS | alert_key_group_image_message | %1$s sent a photo | %1$s mengirim foto | %1$s hantar foto | %1$s发送一张照片 | %1$sが画像を送信しました |
+| android, iOS | alert_key_group_live_message | %1$s sent a live stream | %1$s mengirim siaran langsung | %1$s menghantar siaran langsung | %1$s发送一个直播 | %1$sがライブ配信を送信しました |
+| android, iOS | alert_key_group_location_message | %1$s sent a location | %1$s mengirim lokasi | %1$s hantar lokasi | %1$s发送一个位置 | %1$sが位置情報を送信しました |
+| android, iOS | alert_key_group_post_message | %1$s sent a post | %1$s mengirim postingan | %1$s hantar kiriman | %1$s发送一篇文章 | %1$sが投稿を送信しました |
+| android, iOS | alert_key_group_sticker_message | %1$s sent a sticker | %1$s mengirim stiker | %1$s hantarkan pelekat | %1$s发送一张贴纸 | %1$sがスタンプを送信しました |
+| android, iOS | alert_key_group_text_message | %1$s sent a message | %1$s mengirim pesan | %1$s hantar mesej | %1$s发送一条消息 | %1$sがメッセージを送信しました |
+| android, iOS | alert_key_group_transcript_message | %1$s sent a transcript |     |     | %1$s分享一个聊天记录 | %1$sがメッセージ履歴を共有しました |
+| android, iOS | alert_key_group_video_message | %1$s sent a video | %1$s mengirim video | %1$s hantar video | %1$s发送一个视频 | %1$sが動画を送信しました |
 | iOS | alert_key_contact_message | sent you a message |     |     | 发送一条消息 |     |
 | iOS | alert_key_contact_audio_call_cancelled_message | voice call cancelled |     |     | 对方已取消语音通话 |     |
-| iOS | alert_key_group_message | %1$s sent a message |     |     | %1$s 发来一条信息 |     |
+| iOS | alert_key_group_message | %1$s sent a message |     |     | %1$s发来一条信息 |     |
 | android, iOS | All | All | Semua | Semua | 全部  | すべて |
 | Desktop | all_chats | Chats |     |     | 全部聊天 |     |
 | android, iOS | All_Conversations | All Conversations | Semua Percakapan | Semua Perbualan | 所有会话 | すべてのチャット |
