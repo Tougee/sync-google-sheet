@@ -483,13 +483,13 @@
 | android, iOS, Desktop | error_phone_sms_delivery | ERROR %1$d: Failed to deliver SMS | KESALAHAN %1$d: Gagal mengirim SMS | RALAT %1$d: Gagal menghantar SMS | 错误 %1$d：发送短信失败 | エラー %1$d: SMSの送信に失敗しました |
 | android, iOS, Desktop | error_phone_verification_code_expired | ERROR %1$d: Expired phone verification code | KESALAHAN %1$d: Kode verifikasi telepon sudah tidak berlaku | RALAT %1$d: Kod pengesahan telefon yang telah tamat tempoh | 错误 %1$d：验证码已过期 | エラー %1$d: 電話番号認証コードが期限切れです |
 | android, iOS, Desktop | error_phone_verification_code_invalid | ERROR %1$d: Invalid phone verification code | KESALAHAN %1$d: Kode verifikasi telepon tidak valid | RALAT %1$d: Kod pengesahan telefon tidak sah | 错误 %1$d：验证码错误 | エラー %1$d: 電話番号認証コードが無効です |
-| android, iOS, Desktop | error_pin_check_too_many_request | You have tried more than 5 times, please wait at least 24 hours to try again. | Anda telah mencoba lebih dari 5 kali, harap tunggu setidaknya 24 jam untuk mencoba lagi. | Anda telah mencuba lebih dari 5 kali, sila tunggu sekurang-kurangnya 24 jam untuk mencuba lagi. | 你已经尝试了超过5次，请等待24小时后再次尝试。 | 入力ミスが5回に達したため一時的にロックします。24時間後にもう一度試してください。 |
+| android, iOS, Desktop | error_pin_check_too_many_request | You have tried more than 5 times, please wait at least 24 hours to try again. | Anda telah mencoba lebih dari 5 kali, harap tunggu setidaknya 24 jam untuk mencoba lagi. | Anda telah mencuba lebih dari 5 kali, sila tunggu sekurang-kurangnya 24 jam untuk mencuba lagi. | 你已经尝试了超过 5 次，请等待 24 小时后再次尝试。 | 入力ミスが5回に達したため一時的にロックします。24時間後にもう一度試してください。 |
 | android, iOS, Desktop | error_pin_incorrect | ERROR %1$d: PIN incorrect | KESALAHAN %1$d: PIN salah | RALAT %1$d: PIN tidak betul | 错误 %1$d：PIN 不正确 | エラー %1$d: PINが間違っています |
-| android, iOS, Desktop | error_pin_incorrect_with_times | ERROR %1$d: PIN incorrect. You still have %2$d chance. Please wait for 24 hours to retry later. |     |     | 错误 %1$d：PIN 不正确。你还有%2$d次机会，使用完需等待24小时后再次尝试。 |     |
-| android, iOS, Desktop | error_pin_incorrect_with_times.count | ERROR %1$d: PIN incorrect. You still have %2$d chances. Please wait for 24 hours to retry later. | KESALAHAN %1$d: PIN salah. Anda masih memiliki %2$d kesempatan. Harap tunggu 24 jam untuk mencoba lagi nanti. | RALAT %1$d: PIN tidak betul. Anda masih mempunyai %2$d peluang. Sila tunggu selama 24 jam untuk cuba lagi kemudian. | 错误 %1$d：PIN 不正确。你还有%2$d次机会，使用完需等待24小时后再次尝试。 |     |
+| android, iOS, Desktop | error_pin_incorrect_with_times | ERROR %1$d: PIN incorrect. You still have %2$d chance. Please wait for 24 hours to retry later. |     |     | 错误 %1$d：PIN 不正确。你还有 %2$d 次机会，使用完需等待 24 小时后再次尝试。 |     |
+| android, iOS, Desktop | error_pin_incorrect_with_times.count | ERROR %1$d: PIN incorrect. You still have %2$d chances. Please wait for 24 hours to retry later. | KESALAHAN %1$d: PIN salah. Anda masih memiliki %2$d kesempatan. Harap tunggu 24 jam untuk mencoba lagi nanti. | RALAT %1$d: PIN tidak betul. Anda masih mempunyai %2$d peluang. Sila tunggu selama 24 jam untuk cuba lagi kemudian. | 错误 %1$d：PIN 不正确。你还有 %2$d 次机会，使用完需等待 24 小时后再次尝试。 |     |
 | android, iOS, Desktop | error_recaptcha_is_invalid | ERROR %1$d: Recaptcha is invalid | KESALAHAN %1$d: Recaptcha tidak valid | RALAT %1$d: Recaptcha tidak sah | 错误 %1$d：验证失败 | エラー %1$d: Recaptchaが無効です |
 | iOS | error_requires_captcha | Captcha is required. |     |     | 需要验证码。 | Captcha認証が必要です |
-| android, Desktop | error_server_5xx_code | Server is under maintenance: %1$d | Server sedang dalam pemeliharaan: %1$d | Pelayan sedang dalam penyelenggaraan: %1$d | 服务器出错，请稍后重试: %1$d | サーバーメンテナンス中: %1$d |
+| android, Desktop | error_server_5xx_code | Server is under maintenance: %1$d | Server sedang dalam pemeliharaan: %1$d | Pelayan sedang dalam penyelenggaraan: %1$d | 服务器出错，请稍后重试：%1$d | サーバーメンテナンス中: %1$d |
 | android, iOS | error_too_many_friends | ERROR %1$d: Too many friends |     |     | 错误 %1$d：好友数已达上限 |     |
 | android, iOS, Desktop | error_too_many_request | ERROR %1$d: Rate limit exceeded | KESALAHAN %1$d: Batas nilai terlampaui | RALAT %1$d: Had kadar melebihi | 错误 %1$d：请求过于频繁 | エラー %1$d: レート制限を超過しています |
 | android, iOS, Desktop | error_too_many_stickers | ERROR %1$d: Too many stickers | KESALAHAN %1$d: Terlalu banyak stiker | RALAT %1$d: Terlalu banyak pelekat | 错误 %1$d：贴纸数已达上限 | エラー %1$d: スタンプが多すぎます |
@@ -497,14 +497,14 @@
 | android, iOS, Desktop | error_too_small_withdraw_amount | ERROR %1$d: Withdraw amount too small | KESALAHAN %1$d: Jumlah penarikan dana terlalu kecil | RALAT %1$d: Jumlah penarikan terlalu kecil | 错误 %1$d：提现金额太小 | エラー %1$d: 出金額が小さすぎます |
 | android, Desktop | error_transcript_forward | Please forward all attachments after they have been downloaded |     |     | 请在所有附件下载完成之后再转发 | 添付ファイルはすべてダウンロード後、転送してください。 |
 | android, iOS | error_transfer_is_already_paid | ERROR %1$d: Transfer is already paid. |     |     | 错误 %1$d：转账已被支付 |     |
-| iOS | error_two_parts | ERROR %@: %@ |     |     | 错误 %@: %@ | エラー %@: %@ |
+| iOS | error_two_parts | ERROR %@: %@ |     |     | 错误 %@：%@ | エラー %@: %@ |
 | android | error_unable_to_open_link | Can't find an app able to open this link.\n%1$s |     |     | 未找到能打开该链接的应用\n%1$s |     |
 | android, Desktop | error_unable_to_open_media | Can't find an app able to open this media. | Tidak dapat menemukan aplikasi yang dapat membuka media ini. | Tidak dapat mencari aplikasi yang dapat buka media ini. | 无法找到能打开该媒体的应用 | メディアを開くことができるアプリがありません |
 | android, Desktop | error_unknown_with_code | ERROR: %1$d | KESALAHAN: %1$d | RALAT: %1$d | 错误：%1$d | エラー: %1$d |
 | android, Desktop | error_unknown_with_message | ERROR: %1$s | KESALAHAN: %1$s | RALAT: %1$s | 错误：%1$s | エラー: %1$s |
 | android, iOS, Desktop | error_used_phone | ERROR %1$d: This phone number is already associated with another account. | KESALAHAN %1$d: Ponsel digunakan oleh orang lain. | RALAT %1$d: Telefon digunakan oleh orang lain. | 错误 %1$d：电话号码已经被占用。 | エラー%1$d：携帯が第三者によって利用されています。 |
 | android, Desktop | error_user_invalid_format | Invalid user id | ID pengguna tidak valid | Id pengguna tidak sah | 用户数据不合法 | ユーザーIDが無効です |
-| android, iOS, Desktop | error_withdrawal_memo_format_incorrect | ERROR %1$d: Withdrawal memo format incorrect. | KESALAHAN %1$d: Format memo penarikan salah. | RALAT %1$d: Penarikan format memo tidak betul. | ERROR %1$d: 提现备注格式不正确 | エラー %1$d: 出金メモの形式が正しくありません。 |
+| android, iOS, Desktop | error_withdrawal_memo_format_incorrect | ERROR %1$d: Withdrawal memo format incorrect. | KESALAHAN %1$d: Format memo penarikan salah. | RALAT %1$d: Penarikan format memo tidak betul. | ERROR %1$d：提现备注格式不正确 | エラー %1$d: 出金メモの形式が正しくありません。 |
 | android, iOS | Everybody | Everybody | Semua orang | Semua orang | 任何人 | 全員  |
 | android, Desktop | Exit | Exit | Keluar | Keluar | 退出  | 退出  |
 | iOS | Exit_confirmation | Exit "%@"? |     |     | 退出"%@"? | "%@"を終了しますか? |
@@ -562,7 +562,7 @@
 | android, iOS | Group_Call | Group Call | Panggilan Grup | Panggilan Berkumpulan | 群组语音 | グループ通話 |
 | android, iOS | group_call_end_with_duration | Group call ended, duration: %1$s | Panggilan grup berakhir, durasi: %1$s | Panggilan kumpulan berakhir, tempoh: %1$s | 群组语音结束，时长 %1$s | グループ通話は終了しました。通話時間：%1$s |
 | iOS | Group_call_has_been_declined | Group call has been declined |     |     | 已拒绝通话 | 権限不足です |
-| android, iOS | Group_call_participants_limit_hint | Group calling allows up to %1$d participants to call each other |     |     | 支持最多%1$d人同时通话 | グループ通話の上限は %1$d人です |
+| android, iOS | Group_call_participants_limit_hint | Group calling allows up to %1$d participants to call each other |     |     | 支持最多 %1$d 人同时通话 | グループ通話の上限は %1$d人です |
 | android, Desktop | group_cant_send | You can't send messages to this group because you're no longer a participant. | Anda tidak dapat mengirim pesan ke grup ini karena Anda bukan lagi peserta. | Anda tidak dapat menghantar mesej kepada kumpulan ini kerana anda bukan lagi peserta. | 您不能发送消息，因为您已经不再是此群组成员。 | 参加者ではないため、このグループにメッセージを送ることができません。 |
 | android | group_click_create_tip | Couldn't create. Tap to retry. | Tidak dapat membuat. Ketuk untuk mencoba lagi. | Tidak dapat membuat. Ketuk untuk mencuba semula. | 不能创建，请点击重试 | 作成できませんでした。タップしてもう一度お試しください。 |
 | iOS | Group_Description | Group Description |     |     | 群组公告 | グループアナウンス |
