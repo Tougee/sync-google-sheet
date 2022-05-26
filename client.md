@@ -91,7 +91,7 @@
 | android, iOS | Amount | Amount | Jumlah | Jumlah | 金额  | 数量  |
 | android | an_audio | an audio |     |     | 一条语音 | 音声ファイル |
 | android | ANSWER | ANSWER | JAWAB | JAWAPAN | 接听  | 電話をとる |
-| android, iOS | app_card_shareable_false | The card has been set to not allow sharing |     |     | 包含不允许转发的卡片 | このカードを共有することはできません |
+| android, iOS | app_card_shareable_false | The card has been set to not allow sharing |     |     | 该卡片已被设置为不允许转发 | このカードを共有することはできません |
 | android | app_name | Mixin |     |     |     |     |
 | android, iOS | Bot_not_found | Bot not found | Aplikasi tidak ditemukan | Aplikasi tidak dijumpai | 找不到这个机器人 | アプリが見つかりません |
 | iOS | app_pin_hint | You can long press and drag the frequently used robots here to display them on the home |     |     | 可将常用机器人长按拖至此处，可显示于首页 | よく使うロボを長押ししてドラッグすることでホーム画面から直接ロボにアクセスできます |
@@ -656,7 +656,8 @@
 | android | Links | Links | Tautan | Pautan | 链接  | リンク |
 | android, iOS, Desktop | Live | Live | Siaran Langsung | Langsung | 直播  | ライブ配信 |
 | android | live_permission | Mixin needs access to draw above other apps to play videos in Picture-in-Picture mode. | Mixin memerlukan akses untuk berada di atas aplikasi lain untuk memutar video dalam mode Gambar-di dalam-Gambar. | Mixin memerlukan akses untuk menarik di atas aplikasi lain untuk memainkan video dalam mod Gambar-dalam-Gambar. | Mixin 需要使用出现在其它应用上的权限以在画中画模式中播放视频。 |     |
-| android, iOS | live_shareable_false | The live has been set to not allow sharing |     |     | 包含不允许转发的直播 | このライブ配信を共有することはできません |
+| android, iOS | live_shareable_false | The live has been set to not allow sharing |     |     | 该直播已被设置为不允许转发 | このライブ配信を共有することはできません |
+| iOS | link_shareable_false | The link has been set to not allow sharing |     |     | 该链接已被设置为不允许分享 |     |
 | iOS | live_stream | live stream |     |     | 直播卡片 | ライブ |
 | iOS, Desktop | Loading | Loading... |     |     | 正在加载... | ロード中... |
 | android, Desktop | loading_time | System time is unusual, please continue to use again after correction | Waktu sistem tidak normal, silakan gunakan lagi setelah perbaikan dilakukan | Waktu sistem tidak biasa, sila terus gunakan lagi selepas pembetulan | 检测到系统时间异常，请校正后再继续使用 | システム時刻が異常です。修正後、使用してください |
@@ -1037,7 +1038,7 @@
 | android | setting_data_title | Media auto-download | Download otomatis media | Muat turun automatik media | 自动下载文件 | 自動ダウンロード設定 |
 | android | setting_data_wifi | When connected on Wi-Fi | Saat tersambung melalui Wi-Fi | Semasa disambungkan di Wi-Fi | 当连接到 Wi-Fi 时 | WiFi利用時 |
 | android | setting_delete_account_content_2 | Local messages and Backups will not be Deleted automatically |     |     | 本地信息和备份不会被自动删除 | ローカルメッセージとiCloudにバックアップされた内容は削除されません |
-| android, iOS | setting_delete_account_pin_content | If you continue, your profile and account details will be delete on %1$s. read our document to Learn more. |     |     | 如果您继续，您的个人资料和账户信息将在%1$s被删除。阅读我们的文件以了解更多。 | %1$sと紐付けられたプロフィールとアカウント情報が削除されます。詳細はドキュメントをご覧ください。 |
+| android, iOS | setting_delete_account_pin_content | If you continue, your profile and account details will be delete on %1$s. read our document to Learn more. |     |     | 如果您继续，您的个人资料和账户信息将在%1$s被删除。阅读我们的文档以了解更多。 | %1$sと紐付けられたプロフィールとアカウント情報が削除されます。詳細はドキュメントをご覧ください。 |
 | android, iOS | setting_delete_account_send | We will send a 4-digit code to %1$s |     |     | 我们将发送4位验证码到手机 %1$s | %1$sへ4桁のコードを送信します |
 | android, iOS | setting_delete_account_tip | Your Mixin wallet still has some assets that can be withdrawn to other wallets or exchanges. Once the account is cancelled, these assets will be \n abandoned along with the wallet and cannot be recovered. |     |     | 你的 Mixin 钱包还有一些资产，可以提现至其他钱包或交易所，账户一旦注销，这些资产将和钱包一起被\n弃用无法找回。 | Mixinウォレット内に仮想通貨が残っています。アカウントを削除すると、仮想通貨を引き出すことができませんが、よろしいでしょうか？ |
 | android | setting_delete_account_url | https://mixinmessenger.zendesk.com/hc/articles/4414170627988 |     |     |     |     |
@@ -1047,7 +1048,7 @@
 | android | setting_emergency_change_mobile | Do you want to change your mobile number now? | Ingin mengubah nomor ponsel Anda sekarang? | Adakah anda mahu menukar nombor telefon bimbit anda sekarang? | 立即修改手机号？ | 新しい電話番号の登録をしますか？ |
 | android, iOS | setting_emergency_content | The emergency contact is designed to help you log in to your account if you are lost and can not retrieve your mobile number. | Kontak darurat ditujukan untuk membantu Anda masuk ke akun Anda jika Anda lupa akun dan tidak dapat mengambil kembali nomor ponsel Anda. | Kenalan kecemasan direka untuk membantu anda log masuk ke akaun anda sekiranya anda tersesat dan tidak dapat semula nombor telefon bimbit anda. | 紧急联系人旨在帮助你在丢失且无法找回手机号的情况下登录你的账号。 | 緊急連絡先は、紛失等の理由でデバイスへのアクセスが出来なくなった場合、ログインする方法となります。 |
 | android | setting_emergency_create_success | Create emergency contact successfully | Berhasil membuat kontak darurat | Buat kenalan kecemasan berjaya | 添加紧急联系人成功 | 緊急連絡先を作成しました |
-| android, iOS | setting_emergency_desc | When your lost your mobile number, please contact your emergency contact by phone or other means to get the Mixin ID and verification code. Read our Emergency Contact to learn more. | Saat nomor ponsel Anda hilang, hubungi kontak darurat Anda melalui telepon atau cara lain untuk mendapatkan ID Mixin dan kode verifikasi. Baca Kontak Darurat kami untuk mempelajari selengkapnya. | Apabila anda kehilangan nombor telefon bimbit, sila hubungi kenalan kecemasan anda melalui telefon atau cara lain untuk mendapatkan ID Mixin dan kod pengesahan. Baca Kenalan Kecemasan kami untuk mengetahui lebih lanjut. | 请放心，即使您的手机号丢失无法找回钱包资产也很安全，请牢记您的支付密码，阅读紧急联系人了解更多。 | 登録した電話番号が使用できなくなった場合は、緊急連絡先として登録した友だちに連絡し、Mixin IDと認証コードを取得してください。詳しくは緊急連絡先についてを確認してください。 |
+| android, iOS | setting_emergency_desc | When your lost your mobile number, please contact your emergency contact by phone or other means to get the Mixin ID and verification code. Read our Emergency Contact to learn more. | Saat nomor ponsel Anda hilang, hubungi kontak darurat Anda melalui telepon atau cara lain untuk mendapatkan ID Mixin dan kode verifikasi. Baca Kontak Darurat kami untuk mempelajari selengkapnya. | Apabila anda kehilangan nombor telefon bimbit, sila hubungi kenalan kecemasan anda melalui telefon atau cara lain untuk mendapatkan ID Mixin dan kod pengesahan. Baca Kenalan Kecemasan kami untuk mengetahui lebih lanjut. | 请放心，即使您的手机号丢失无法找回钱包资产也很安全，请牢记您的支付密码，阅读文档了解更多。 | 登録した電話番号が使用できなくなった場合は、緊急連絡先として登録した友だちに連絡し、Mixin IDと認証コードを取得してください。詳しくは緊急連絡先についてを確認してください。 |
 | android, iOS | setting_emergency_pin_tip | Your emergency contact is protected by PIN | Kontak darurat Anda dilindungi dengan PIN | Kenalan kecemasan anda dilindungi oleh PIN | 紧急联系人经支付 PIN 加密保护 | あなたの緊急連絡先はPINにより保護されています。 |
 | android, iOS | setting_emergency_send_code | Enter the 4-digit code sent to Mixin ID: %1$s | Masukkan kode 4 digit yang dikirim ke ID Mixin: %1$s | Masukkan kod 4 digit yang dihantar ke Mixin ID: %1$s | 请输入发送至以下 Mixin ID 的 4 位验证码：%1$s | 相手のMixinに送信された4桁のコードを入力してください：%1$s |
 | android | setting_emergency_set | Set emergency contact | Tetapkan kontak darurat | Tetapkan kenalan kecemasan | 设置紧急联系人 | 緊急連絡先を設定する |
