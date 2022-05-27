@@ -1069,7 +1069,7 @@
 | Desktop | send_without_compression | Send without compression |     |     | 发送原始文件 |     |
 | android, iOS, Desktop | Send_Without_Sound | Send Without Sound |     |     | 静音发送 | 通知音を鳴らさずに送信する |
 | android, iOS | Send_your_Current_Location | Send your Current Location | Kirim Lokasi Anda Saat Ini | Hantarkan Lokasi Semasa Anda | 发送您当前的位置 | 現在地を送信 |
-| iOS | send.count | Send(%1$d ) |     |     | 发送（%1$d） |     |
+| iOS | send.count | Send(%1$d) |     |     | 发送（%1$d） |     |
 | android, iOS | Senders | Senders | Pengirim | Pengirim | 交易发起人 | 送信者 |
 | android, iOS | Set | Set |     |     | 设置  |     |
 | android, iOS | set_disappearing_message_time_to | %1$s set disappearing message time to %2$s |     |     | %1$s将限时消息设置为 %2$s |     |
