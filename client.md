@@ -69,8 +69,8 @@
 |     | No_Items_Selected | No Items Selected |     |     |     |     |
 |     | Send_as_Files | Send as Files |     |     |     |     |
 |     | Send_as_File | Send as File |     |     |     |     |
-|     |     | Send(%d) |     |     |     |     |
-|     | photo.count | %d Photos |     |     |     |     |
+|     | send.count | Send(%1$d ) |     |     |     |     |
+|     | photo.count | %1$d  Photos |     |     |     |     |
 | iOS | alert_key_contact_audio_call_cancelled_message | voice call cancelled |     |     | 对方已取消语音通话 |     |
 | android, iOS | alert_key_contact_audio_call_message | invites you to a voice call | meminta panggilan audio dengan Anda | tanya anda panggilan audio | 发起了语音通话 | グループ通話に招待されました |
 | android, iOS | alert_key_contact_audio_message | sent you an audio | mengirim audio | hantar audio | 发送一条语音 | 音声が届きました |
