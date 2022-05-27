@@ -56,6 +56,8 @@
 | iOS | Albums | Albums |     |     | 相册  | アルバム |
 | iOS | selected_photo | Selected 1 Photo |     |     |     |     |
 | iOS | selected_photo.count | Selected %1$d Photos |     |     |     |     |
+|     |     | Selected 1 Video |     |     |     |     |
+|     |     | Selected %d Videos |     |     |     |     |
 | iOS | alert_key_contact_audio_call_cancelled_message | voice call cancelled |     |     | 对方已取消语音通话 |     |
 | android, iOS | alert_key_contact_audio_call_message | invites you to a voice call | meminta panggilan audio dengan Anda | tanya anda panggilan audio | 发起了语音通话 | グループ通話に招待されました |
 | android, iOS | alert_key_contact_audio_message | sent you an audio | mengirim audio | hantar audio | 发送一条语音 | 音声が届きました |
