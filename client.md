@@ -54,6 +54,8 @@
 | android | Agree_and_Continue | Agree & Continue | Setuju & Lanjutkan | Setuju & Teruskan | 同意并继续 | 同意して進む |
 | iOS | agree_hint | By proceeding, you agree to the %@ and %@. |     |     | 继续使用即表示你同意 %@ 和 %@ | %@と%@に同意し次へ進む |
 | iOS | Albums | Albums |     |     | 相册  | アルバム |
+| iOS | chat_delete_message | Selected 1 Photo |     |     |     |     |
+| iOS | chat_delete_message.count | Selected %d Photos |     |     |     |     |
 | iOS | alert_key_contact_audio_call_cancelled_message | voice call cancelled |     |     | 对方已取消语音通话 |     |
 | android, iOS | alert_key_contact_audio_call_message | invites you to a voice call | meminta panggilan audio dengan Anda | tanya anda panggilan audio | 发起了语音通话 | グループ通話に招待されました |
 | android, iOS | alert_key_contact_audio_message | sent you an audio | mengirim audio | hantar audio | 发送一条语音 | 音声が届きました |
