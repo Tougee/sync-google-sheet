@@ -54,23 +54,6 @@
 | android | Agree_and_Continue | Agree & Continue | Setuju & Lanjutkan | Setuju & Teruskan | 同意并继续 | 同意して進む |
 | iOS | agree_hint | By proceeding, you agree to the %@ and %@. |     |     | 继续使用即表示你同意 %@ 和 %@ | %@と%@に同意し次へ進む |
 | iOS | Albums | Albums |     |     | 相册  | アルバム |
-| iOS | selected_photo | Selected 1 Photo |     |     | 已选择 1 张图片 |     |
-| iOS | selected_photo.count | Selected %1$d Photos |     |     | 已选择 %1$d 张图片 |     |
-| iOS | selected_video | Selected 1 Video |     |     | 已选择 1 个视频 |     |
-| iOS | selected_video.count | Selected %1$d Videos |     |     | 已选择 %1$d 个视频 |     |
-| iOS | selected_Item | Selected 1 Item |     |     | 已选择 1 项 |     |
-| iOS | selected_Item.count | Selected %1$d Items |     |     | 已选择 %1$d 项 |     |
-| iOS | send_photo | Send 1 Photo |     |     | 发送 1 张图片 |     |
-| iOS | send_photo.count | Send %1$d Photos |     |     | 发送 %1$d 张图片 |     |
-| iOS | send_video | Send 1 Video |     |     | 发送 1 个视频 |     |
-| iOS | send_video.count | Send %1$d Videos |     |     | 发送 %1$d 个视频 |     |
-| iOS | send_item | Send 1 Item |     |     | 发送 1 项 |     |
-| iOS | send_item.count | Send %1$d Items |     |     | 发送 %1$d 项 |     |
-| iOS | No_Items_Selected | No Items Selected |     |     | 未选定项目 |     |
-| iOS | Send_as_Files | Send as Files |     |     | 发送为文件 |     |
-| iOS | Send_as_File | Send as File |     |     | 发送为文件 |     |
-| iOS | send.count | Send(%1$d ) |     |     | 发送（%1$d） |     |
-| iOS | photo.count | %1$d  Photos |     |     | %1$d 张图片 |     |
 | iOS | alert_key_contact_audio_call_cancelled_message | voice call cancelled |     |     | 对方已取消语音通话 |     |
 | android, iOS | alert_key_contact_audio_call_message | invites you to a voice call | meminta panggilan audio dengan Anda | tanya anda panggilan audio | 发起了语音通话 | グループ通話に招待されました |
 | android, iOS | alert_key_contact_audio_message | sent you an audio | mengirim audio | hantar audio | 发送一条语音 | 音声が届きました |
@@ -808,6 +791,7 @@
 | android | No_fee | No fee | Tidak ada biaya | Tanpa bayaran | 暂无手续费记录 | 手数料はありません |
 | android, iOS, Desktop | NO_FILE | NO FILE | TIDAK ADA FILE | TIADA FAIL | 没有文件 | ファイルがありません |
 | android, iOS | No_hidden_asset | No hidden asset | Tidak ada aset tersembunyi | Tiada aset tersembunyi | 没有隐藏的资产 | 非表示資産はありません |
+| iOS | No_Items_Selected | No Items Selected |     |     | 未选定项目 |     |
 | android, Desktop | NO_LINK | NO LINK | TIDAK ADA TAUTAN | TIADA Pautan | 没有链接 | リンクがありません |
 | android, iOS | No_log | No log | Tidak ada log | Tiada log | 没有日志 | ログがありません |
 | android, iOS, Desktop | NO_MEDIA | NO MEDIA | TIDAK ADA MEDIA | TIADA MEDIA | 没有媒体 | メディアがありません |
@@ -897,6 +881,7 @@
 | android, iOS | phone_number_privacy | Who can find me by my number | Siapa yang dapat menemukan saya menurut nomor saya | Siapa yang dapat mencari saya dengan nombor saya | 谁可以通过手机号找到你 | あなたを電話番号検索で追加できるユーザー |
 | android, iOS | Photo | Photo | Foto | Foto | 照片  | 写真  |
 | iOS | Photo_saved | Photo saved. |     |     | 图片已成功保存在相册 | 画像が保存されました |
+| iOS | photo.count | %1$d  Photos |     |     | %1$d 张图片 |     |
 | android, iOS, Desktop | Photos | Photos | Foto | Foto | 照片  | 画像  |
 | Desktop | pick_a_conversation | Select a conversation and start sending a message |     |     | 选择一个对话，开始发送信息 |     |
 | iOS | Pick_from_Library | Pick from Library |     |     | 打开相册 | ライブラリーから選択する |
@@ -1055,11 +1040,23 @@
 | android, iOS | Select_Emergency_Contact | Select Emergency Contact | Pilih Kontak Darurat | Pilih Kenalan Kecemasan | 选择紧急联系人 | 緊急連絡先を選択する |
 | iOS | Select_More_Photos | Select More Photos |     |     | 选择更多照片 | さらに写真を選択する |
 | iOS | selected_count | %@ Selected |     |     | 选择了 %@ 个消息 | %@のメッセージを選択しています。 |
+| iOS | selected_Item | Selected 1 Item |     |     | 已选择 1 项 |     |
+| iOS | selected_Item.count | Selected %1$d Items |     |     | 已选择 %1$d 项 |     |
+| iOS | selected_photo | Selected 1 Photo |     |     | 已选择 1 张图片 |     |
+| iOS | selected_photo.count | Selected %1$d Photos |     |     | 已选择 %1$d 张图片 |     |
+| iOS | selected_video | Selected 1 Video |     |     | 已选择 1 个视频 |     |
+| iOS | selected_video.count | Selected %1$d Videos |     |     | 已选择 %1$d 个视频 |     |
 | android, iOS, Desktop | Send | Send | Kirim | Hantar | 发送  | 送る  |
 | Desktop | send_archived | Archived all files in one zip file |     |     | 打包成 zip 发送 |     |
+| iOS | Send_as_File | Send as File |     |     | 发送为文件 |     |
 | android | Send_as_file | Send as file |     |     | 按文件发送 | ファイルとして送信する |
+| iOS | Send_as_Files | Send as Files |     |     | 发送为文件 |     |
 | android | send_file_group | Send "%1$s" to "%2$s"? | Kirim "%1$s" ke "%2$s"? | Hantar "%1$s" ke "%2$s"? | 将 "%1$s" 发送给 "%2$s"？ | "%1$s"を"%2$s"に送りますか？ |
+| iOS | send_item | Send 1 Item |     |     | 发送 1 项 |     |
+| iOS | send_item.count | Send %1$d Items |     |     | 发送 %1$d 项 |     |
 | android, iOS | Send_Message | Send Message | Kirim Pesan | Menghantar mesej | 发消息 | メッセージを送る |
+| iOS | send_photo | Send 1 Photo |     |     | 发送 1 张图片 |     |
+| iOS | send_photo.count | Send %1$d Photos |     |     | 发送 %1$d 张图片 |     |
 | Desktop | send_quickly | Send quickly |     |     | 快速发送 |     |
 | android, iOS | Send_This_Location | Send This Location | Kirim Lokasi Ini | Hantar Lokasi Ini | 发送这个位置 |     |
 | android, iOS | send_to | Send to %1$s | Kirim ke %1$s | Hantar ke %1$s | 发送给 %1$s | %1$sへ送金 |
@@ -1067,9 +1064,12 @@
 | iOS | Send_To_Title | Send To |     |     | 转给  | 送金  |
 | android | Send_transfer | Send |     |     | 转出  |     |
 | iOS | Send_verification_code_frequent | Send verification code too frequent, please try again later. |     |     | 发送验证码太频繁，请稍后再试 | しばらく経ってから再度送信してください |
+| iOS | send_video | Send 1 Video |     |     | 发送 1 个视频 |     |
+| iOS | send_video.count | Send %1$d Videos |     |     | 发送 %1$d 个视频 |     |
 | Desktop | send_without_compression | Send without compression |     |     | 发送原始文件 |     |
 | android, iOS, Desktop | Send_Without_Sound | Send Without Sound |     |     | 静音发送 | 通知音を鳴らさずに送信する |
 | android, iOS | Send_your_Current_Location | Send your Current Location | Kirim Lokasi Anda Saat Ini | Hantarkan Lokasi Semasa Anda | 发送您当前的位置 | 現在地を送信 |
+| iOS | send.count | Send(%1$d ) |     |     | 发送（%1$d） |     |
 | android, iOS | Senders | Senders | Pengirim | Pengirim | 交易发起人 | 送信者 |
 | android, iOS | Set | Set |     |     | 设置  |     |
 | android, iOS | set_disappearing_message_time_to | %1$s set disappearing message time to %2$s |     |     | %1$s将限时消息设置为 %2$s |     |
