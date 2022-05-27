@@ -54,23 +54,23 @@
 | android | Agree_and_Continue | Agree & Continue | Setuju & Lanjutkan | Setuju & Teruskan | 同意并继续 | 同意して進む |
 | iOS | agree_hint | By proceeding, you agree to the %@ and %@. |     |     | 继续使用即表示你同意 %@ 和 %@ | %@と%@に同意し次へ進む |
 | iOS | Albums | Albums |     |     | 相册  | アルバム |
-| iOS | selected_photo | Selected 1 Photo |     |     |     |     |
-| iOS | selected_photo.count | Selected %1$d Photos |     |     |     |     |
-|     | selected_video | Selected 1 Video |     |     |     |     |
-|     | selected_video.count | Selected %1$dVideos |     |     |     |     |
-|     | selected_Item | Selected 1 Item |     |     |     |     |
-|     | selected_Item.count | Selected %1$d Items |     |     |     |     |
-|     | send_photo | Send 1 Photo |     |     |     |     |
-|     | send_photo.count | Send %1$d Photos |     |     |     |     |
-|     | send_video | Send 1 Video |     |     |     |     |
-|     | send_video.count | Send %1$d Videos |     |     |     |     |
-|     | send_item | Send 1 Item |     |     |     |     |
-|     | send_item.count | Send %1$d Items |     |     |     |     |
-|     | No_Items_Selected | No Items Selected |     |     |     |     |
-|     | Send_as_Files | Send as Files |     |     |     |     |
-|     | Send_as_File | Send as File |     |     |     |     |
-|     | send.count | Send(%1$d ) |     |     |     |     |
-|     | photo.count | %1$d  Photos |     |     |     |     |
+| iOS | selected_photo | Selected 1 Photo |     |     | 已选择 1 张图片 |     |
+| iOS | selected_photo.count | Selected %1$d Photos |     |     | 已选择 %d 张图片 |     |
+| iOS | selected_video | Selected 1 Video |     |     | 已选择 1 个视频 |     |
+| iOS | selected_video.count | Selected %1$d Videos |     |     | 已选择 %d 个视频 |     |
+| iOS | selected_Item | Selected 1 Item |     |     | 已选择 1 项 |     |
+| iOS | selected_Item.count | Selected %1$d Items |     |     | 已选择 %d 项 |     |
+| iOS | send_photo | Send 1 Photo |     |     | 发送 1 张图片 |     |
+| iOS | send_photo.count | Send %1$d Photos |     |     | 发送 %d 张图片 |     |
+| iOS | send_video | Send 1 Video |     |     | 发送 1 个视频 |     |
+| iOS | send_video.count | Send %1$d Videos |     |     | 发送 %d 个视频 |     |
+| iOS | send_item | Send 1 Item |     |     | 发送 1 项 |     |
+| iOS | send_item.count | Send %1$d Items |     |     | 发送 %1$d 项 |     |
+| iOS | No_Items_Selected | No Items Selected |     |     | 未选定项目 |     |
+| iOS | Send_as_Files | Send as Files |     |     | 发送为文件 |     |
+| iOS | Send_as_File | Send as File |     |     | 发送为文件 |     |
+| iOS | send.count | Send(%1$d ) |     |     | 发送（%1$d） |     |
+| iOS | photo.count | %1$d  Photos |     |     | %1$d 张图片 |     |
 | iOS | alert_key_contact_audio_call_cancelled_message | voice call cancelled |     |     | 对方已取消语音通话 |     |
 | android, iOS | alert_key_contact_audio_call_message | invites you to a voice call | meminta panggilan audio dengan Anda | tanya anda panggilan audio | 发起了语音通话 | グループ通話に招待されました |
 | android, iOS | alert_key_contact_audio_message | sent you an audio | mengirim audio | hantar audio | 发送一条语音 | 音声が届きました |
