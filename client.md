@@ -56,8 +56,16 @@
 | iOS | Albums | Albums |     |     | 相册  | アルバム |
 | iOS | selected_photo | Selected 1 Photo |     |     |     |     |
 | iOS | selected_photo.count | Selected %1$d Photos |     |     |     |     |
-|     |     | Selected 1 Video |     |     |     |     |
-|     |     | Selected %d Videos |     |     |     |     |
+|     | selected_video | Selected 1 Video |     |     |     |     |
+|     | selected_video.count | Selected %1$dVideos |     |     |     |     |
+|     | selected_Item | Selected 1 Item |     |     |     |     |
+|     | selected_Item.count | Selected %1$d Items |     |     |     |     |
+|     | send_photo | Send 1 Photo |     |     |     |     |
+|     | send_photo.count | Send %1$d Photos |     |     |     |     |
+|     | send_video | Send 1 Video |     |     |     |     |
+|     | send_video.count | Send %1$d Videos |     |     |     |     |
+|     | send_item | Send 1 Item |     |     |     |     |
+|     | send_item.count | Send %1$d Items |     |     |     |     |
 | iOS | alert_key_contact_audio_call_cancelled_message | voice call cancelled |     |     | 对方已取消语音通话 |     |
 | android, iOS | alert_key_contact_audio_call_message | invites you to a voice call | meminta panggilan audio dengan Anda | tanya anda panggilan audio | 发起了语音通话 | グループ通話に招待されました |
 | android, iOS | alert_key_contact_audio_message | sent you an audio | mengirim audio | hantar audio | 发送一条语音 | 音声が届きました |
