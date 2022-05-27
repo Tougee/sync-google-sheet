@@ -55,15 +55,15 @@
 | iOS | agree_hint | By proceeding, you agree to the %@ and %@. |     |     | 继续使用即表示你同意 %@ 和 %@ | %@と%@に同意し次へ進む |
 | iOS | Albums | Albums |     |     | 相册  | アルバム |
 | iOS | selected_photo | Selected 1 Photo |     |     | 已选择 1 张图片 |     |
-| iOS | selected_photo.count | Selected %1$d Photos |     |     | 已选择 %d 张图片 |     |
+| iOS | selected_photo.count | Selected %1$d Photos |     |     | 已选择 %1$d 张图片 |     |
 | iOS | selected_video | Selected 1 Video |     |     | 已选择 1 个视频 |     |
-| iOS | selected_video.count | Selected %1$d Videos |     |     | 已选择 %d 个视频 |     |
+| iOS | selected_video.count | Selected %1$d Videos |     |     | 已选择 %1$d 个视频 |     |
 | iOS | selected_Item | Selected 1 Item |     |     | 已选择 1 项 |     |
-| iOS | selected_Item.count | Selected %1$d Items |     |     | 已选择 %d 项 |     |
+| iOS | selected_Item.count | Selected %1$d Items |     |     | 已选择 %1$d 项 |     |
 | iOS | send_photo | Send 1 Photo |     |     | 发送 1 张图片 |     |
-| iOS | send_photo.count | Send %1$d Photos |     |     | 发送 %d 张图片 |     |
+| iOS | send_photo.count | Send %1$d Photos |     |     | 发送 %1$d 张图片 |     |
 | iOS | send_video | Send 1 Video |     |     | 发送 1 个视频 |     |
-| iOS | send_video.count | Send %1$d Videos |     |     | 发送 %d 个视频 |     |
+| iOS | send_video.count | Send %1$d Videos |     |     | 发送 %1$d 个视频 |     |
 | iOS | send_item | Send 1 Item |     |     | 发送 1 项 |     |
 | iOS | send_item.count | Send %1$d Items |     |     | 发送 %1$d 项 |     |
 | iOS | No_Items_Selected | No Items Selected |     |     | 未选定项目 |     |
