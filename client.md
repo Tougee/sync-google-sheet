@@ -881,7 +881,7 @@
 | android, iOS | phone_number_privacy | Who can find me by my number | Siapa yang dapat menemukan saya menurut nomor saya | Siapa yang dapat mencari saya dengan nombor saya | 谁可以通过手机号找到你 | あなたを電話番号検索で追加できるユーザー |
 | android, iOS | Photo | Photo | Foto | Foto | 照片  | 写真  |
 | iOS | Photo_saved | Photo saved. |     |     | 图片已成功保存在相册 | 画像が保存されました |
-| iOS | photo.count | %1$d  Photos |     |     | %1$d 张图片 |     |
+| iOS | photo.count | %1$d Photos |     |     | %1$d 张图片 |     |
 | android, iOS, Desktop | Photos | Photos | Foto | Foto | 照片  | 画像  |
 | Desktop | pick_a_conversation | Select a conversation and start sending a message |     |     | 选择一个对话，开始发送信息 |     |
 | iOS | Pick_from_Library | Pick from Library |     |     | 打开相册 | ライブラリーから選択する |
