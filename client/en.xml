@@ -1131,7 +1131,7 @@
   <string name="share_message_description" platform="android, iOS">Are you sure you want to send a %2$s from %1$s?</string>
   <string name="share_message_description_empty" platform="android, iOS">Are you sure you want to send the %1$s?</string>
   <string name="Share_QR_Code" platform="android">Share QR Code</string>
-  <string name="Share_This_Bot" platform="android, iOS">Share This Bot</string>
+  <string name="Share_This_App" platform="android, iOS">Share This App</string>
   <string name="share_to" platform="android">Share %1$s to…</string>
   <string name="Share_To" platform="iOS">Share To</string>
   <string name="Shared_Media" platform="android, iOS, Desktop">Shared Media</string>

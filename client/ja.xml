@@ -926,7 +926,7 @@
   <string name="Share_Link" platform="android, iOS, Desktop">リンクをシェアする</string>
   <string name="Share_Log_File" platform="iOS">記録ファイルを共有する</string>
   <string name="Share_QR_Code" platform="android">QRコードを共有</string>
-  <string name="Share_This_Bot" platform="android, iOS">このアプリをシェアする</string>
+  <string name="Share_This_App" platform="android, iOS">このアプリをシェアする</string>
   <string name="share_to" platform="android">%1$sをシェアする</string>
   <string name="Share_To" platform="iOS">共有する</string>
   <string name="Shared_Media" platform="android, iOS, Desktop">写真や動画</string>

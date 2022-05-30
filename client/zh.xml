@@ -1112,7 +1112,7 @@
   <string name="share_message_description" platform="android, iOS">你确定要发送来自%1$s的%2$s？</string>
   <string name="share_message_description_empty" platform="android, iOS">你确定要发送该%1$s？</string>
   <string name="Share_QR_Code" platform="android">分享二维码</string>
-  <string name="Share_This_Bot" platform="android, iOS">分享机器人</string>
+  <string name="Share_This_App" platform="android, iOS">分享应用</string>
   <string name="share_to" platform="android">分享%1$s到…</string>
   <string name="Share_To" platform="iOS">分享给</string>
   <string name="Shared_Media" platform="android, iOS, Desktop">媒体内容</string>

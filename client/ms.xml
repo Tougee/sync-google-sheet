@@ -625,7 +625,7 @@
   <string name="Share_Link" platform="android, iOS, Desktop">Kongsi pautan</string>
   <string name="share_message_description" platform="android, iOS">Adakah anda pasti mahu menghantar %2$s dari %1$s?</string>
   <string name="share_message_description_empty" platform="android, iOS">Adakah anda pasti mahu menghantar %1$s?</string>
-  <string name="Share_This_Bot" platform="android, iOS">Kongsi Aplikasi Ini</string>
+  <string name="Share_This_App" platform="android, iOS">Kongsi Aplikasi Ini</string>
   <string name="share_to" platform="android">Kongsi %1$s ke…</string>
   <string name="Shared_Media" platform="android, iOS, Desktop">Media Berkongsi</string>
   <string name="Show" platform="android, iOS, Desktop">Tunjuk</string>
