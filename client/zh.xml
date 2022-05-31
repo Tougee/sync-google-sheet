@@ -768,7 +768,7 @@
   <string name="NO_AUTHORIZATIONS" platform="android, iOS">没有授权任何机器人</string>
   <string name="No_Available_Assets" platform="android">没有可用资产</string>
   <string name="No_blocked_users" platform="android, iOS">没有屏蔽任何人</string>
-  <string name="NO_BOTS" platform="android, iOS">没有应用</string>
+  <string name="NO_BOTS" platform="android, iOS">没有机器人</string>
   <string name="No_camera" platform="android, Desktop">没有相机</string>
   <string name="no_data" platform="Desktop">没有数据</string>
   <string name="No_deposits" platform="android">暂无充值记录</string>

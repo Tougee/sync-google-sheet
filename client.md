@@ -784,7 +784,7 @@
 | android, iOS | NO_AUTHORIZATIONS | NO AUTHORIZATIONS | Tidak ada aplikasi yang diizinkan | Tiada aplikasi autentik | 没有授权任何机器人 |     |
 | android | No_Available_Assets | No Available Assets |     | Tiada Aset Yang Tersedia | 没有可用资产 | 有効な資産がありません |
 | android, iOS | No_blocked_users | No blocked users | Tidak ada pengguna yang diblokir | Tiada pengguna yang disekat | 没有屏蔽任何人 | ブロック済みのユーザーはいません |
-| android, iOS | NO_BOTS | NO BOTS | TIDAK ADA APLIKASI | TIADA APLIKASI | 没有应用 | ロボがありません |
+| android, iOS | NO_BOTS | NO BOTS | TIDAK ADA APLIKASI | TIADA APLIKASI | 没有机器人 | ロボがありません |
 | android, Desktop | No_camera | No camera | Tidak ada kamera | Tiada kamera | 没有相机 | カメラを認識できません |
 | Desktop | no_data | No Data |     |     | 没有数据 |     |
 | android | No_deposits | No deposits | Tidak ada deposit | Tiada deposit | 暂无充值记录 | 入金はありません |
