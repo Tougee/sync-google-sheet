@@ -341,6 +341,7 @@
   <string name="Invalid_Link" platform="android">Pautan Tidak Sah</string>
   <string name="Invalid_payment_link" platform="android, iOS">Pembayaran tidak sah</string>
   <string name="Invalid_sticker_format" platform="android">Format pelekat tidak sah</string>
+  <string name="Invite_a_Friend" platform="android, iOS">Kongsi Aplikasi Ini</string>
   <string name="invite_info" platform="android, iOS, Desktop">Sesiapa sahaja yang mempunyai Mixin boleh mengikuti pautan ini untuk menyertai kumpulan ini. Kongsi sahaja dengan orang yang anda percayai.</string>
   <string name="Invite_people" platform="android">Jemput Orang</string>
   <string name="Invite_to_Group_via_Link" platform="android, iOS, Desktop">Jemput ke Kumpulan melalui Pautan</string>
@@ -625,7 +626,6 @@
   <string name="Share_Link" platform="android, iOS, Desktop">Kongsi pautan</string>
   <string name="share_message_description" platform="android, iOS">Adakah anda pasti mahu menghantar %2$s dari %1$s?</string>
   <string name="share_message_description_empty" platform="android, iOS">Adakah anda pasti mahu menghantar %1$s?</string>
-  <string name="Invite_a_Friend" platform="android, iOS">Kongsi Aplikasi Ini</string>
   <string name="share_to" platform="android">Kongsi %1$s ke…</string>
   <string name="Shared_Media" platform="android, iOS, Desktop">Media Berkongsi</string>
   <string name="Show" platform="android, iOS, Desktop">Tunjuk</string>

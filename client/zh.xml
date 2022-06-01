@@ -195,6 +195,7 @@
   <string name="Change_Number_Instead" platform="android, iOS">仅修改手机号码</string>
   <string name="Change_Phone_Number" platform="android, iOS">修改手机号</string>
   <string name="Change_PIN" platform="android, iOS">修改 PIN</string>
+  <string name="change_pin_interval_hint" platform="iOS">输入 PIN 修改使用间隔</string>
   <string name="Change_PIN_successfully" platform="android, iOS">PIN 修改成功</string>
   <string name="Change_Profile_Photo_with_Camera" platform="android, iOS">更换头像（相机）</string>
   <string name="Change_Profile_Photo_with_Library" platform="android, iOS">更换头像（相册）</string>
@@ -621,6 +622,7 @@
   <string name="Invalid_sticker_format" platform="android">贴纸格式不支持</string>
   <string name="Invalid_width" platform="iOS">宽度无效</string>
   <string name="Invite" platform="iOS">邀请</string>
+  <string name="Invite_a_Friend" platform="android, iOS">邀请好友</string>
   <string name="invite_info" platform="android, iOS, Desktop">Mixin 使用者可以使用此链接加入这个群组，请只跟您信任的人共享链接。</string>
   <string name="Invite_people" platform="android">邀请好友</string>
   <string name="Invite_to_Group_via_Link" platform="android, iOS, Desktop">群邀请链接</string>
@@ -730,7 +732,7 @@
   <string name="multisig_state_unlocked" platform="android, iOS">这笔交易已经被其他人撤销了，您无法再次撤销。</string>
   <string name="Multisig_Transaction" platform="android, iOS">多重签名交易</string>
   <string name="Music" platform="iOS">音乐</string>
-  <string name="Mute" platform="android, iOS">静音通知</string>
+  <string name="Mute" platform="android, iOS">静音</string>
   <string name="mute" platform="Desktop">静音</string>
   <string name="Mute_until" platform="android, iOS">直到 %1$s</string>
   <string name="Muted" platform="iOS, Desktop">已静音</string>
@@ -909,7 +911,6 @@
   <string name="profile_modify_number" platform="android">你想要修改手机号码么？</string>
   <string name="Profile_photo" platform="android, iOS">个人头像</string>
   <string name="profile_share_bot_hint" platform="android, iOS">如果您希望分享机器人，请先添加联系人。</string>
-  <string name="change_pin_interval_hint" platform="iOS">输入 PIN 修改使用间隔</string>
   <string name="Public_profile" platform="android, iOS">个人资料（必须）</string>
   <string name="QR_Code" platform="android, iOS">二维码</string>
   <string name="qr_code_camera_code" platform="android">打开相机会默认开启二维码识别，当二维码被检测到时会显示一个通知，点击通知识别二维码。</string>
@@ -1112,7 +1113,6 @@
   <string name="share_message_description" platform="android, iOS">你确定要发送来自%1$s的%2$s？</string>
   <string name="share_message_description_empty" platform="android, iOS">你确定要发送该%1$s？</string>
   <string name="Share_QR_Code" platform="android">分享二维码</string>
-  <string name="Invite_a_Friend" platform="android, iOS">邀请好友</string>
   <string name="share_to" platform="android">分享%1$s到…</string>
   <string name="Share_To" platform="iOS">分享给</string>
   <string name="Shared_Media" platform="android, iOS, Desktop">媒体内容</string>

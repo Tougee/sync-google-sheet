@@ -175,6 +175,7 @@
   <string name="Change_Number_Instead" platform="android, iOS">電話番号を変更</string>
   <string name="Change_Phone_Number" platform="android, iOS">電話番号を変更</string>
   <string name="Change_PIN" platform="android, iOS">PINを変更する</string>
+  <string name="change_pin_interval_hint" platform="iOS">設定を変更するためPINを入力してください</string>
   <string name="Change_PIN_successfully" platform="android, iOS">PINの変更が完了しました。</string>
   <string name="Change_Profile_Photo_with_Camera" platform="android, iOS">プロフィール画像を撮影</string>
   <string name="Change_Profile_Photo_with_Library" platform="android, iOS">プロフィール画像を選択</string>
@@ -531,6 +532,7 @@
   <string name="Invalid_sticker_format" platform="android">スタンプのフォーマットが無効です。</string>
   <string name="Invalid_width" platform="iOS">無効な横幅</string>
   <string name="Invite" platform="iOS">招待する</string>
+  <string name="Invite_a_Friend" platform="android, iOS">このアプリをシェアする</string>
   <string name="invite_info" platform="android, iOS, Desktop">リンクを知っている人はだれでも参加可能です。信頼できる人だけに共有してください。</string>
   <string name="Invite_people" platform="android">招待する</string>
   <string name="Invite_to_Group_via_Link" platform="android, iOS, Desktop">リンクを使って招待する</string>
@@ -768,7 +770,6 @@
   <string name="Privacy_Policy" platform="android, iOS, Desktop">プライバシーポリシー</string>
   <string name="profile_modify_number" platform="android">電話番号を変更しますか?</string>
   <string name="profile_share_bot_hint" platform="android, iOS">ロボをシェアしたい場合は、先に連絡先に追加してください。</string>
-  <string name="change_pin_interval_hint" platform="iOS">設定を変更するためPINを入力してください</string>
   <string name="Public_profile" platform="android, iOS">プロフィール</string>
   <string name="QR_Code_not_found" platform="android, iOS">QRコードが見つかりません</string>
   <string name="quote" platform="android">引用</string>
@@ -926,7 +927,6 @@
   <string name="Share_Link" platform="android, iOS, Desktop">リンクをシェアする</string>
   <string name="Share_Log_File" platform="iOS">記録ファイルを共有する</string>
   <string name="Share_QR_Code" platform="android">QRコードを共有</string>
-  <string name="Invite_a_Friend" platform="android, iOS">このアプリをシェアする</string>
   <string name="share_to" platform="android">%1$sをシェアする</string>
   <string name="Share_To" platform="iOS">共有する</string>
   <string name="Shared_Media" platform="android, iOS, Desktop">写真や動画</string>

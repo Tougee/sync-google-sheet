@@ -197,6 +197,7 @@
   <string name="Change_Number_Instead" platform="android, iOS">Change Number Instead</string>
   <string name="Change_Phone_Number" platform="android, iOS">Change Phone Number</string>
   <string name="Change_PIN" platform="android, iOS">Change PIN</string>
+  <string name="change_pin_interval_hint" platform="iOS">Confirm PIN to change interval</string>
   <string name="Change_PIN_successfully" platform="android, iOS">Change PIN successfully</string>
   <string name="Change_Profile_Photo_with_Camera" platform="android, iOS">Change Profile Photo with Camera</string>
   <string name="Change_Profile_Photo_with_Library" platform="android, iOS">Change Profile Photo with Library</string>
@@ -630,6 +631,7 @@
   <string name="Invalid_sticker_format" platform="android">Invalid sticker format</string>
   <string name="Invalid_width" platform="iOS">Invalid width</string>
   <string name="Invite" platform="iOS">Invite</string>
+  <string name="Invite_a_Friend" platform="android, iOS">Invite a Friend</string>
   <string name="invite_info" platform="android, iOS, Desktop">Anyone with Mixin can follow this link to join this group. Only share it with people you trust.</string>
   <string name="Invite_people" platform="android">Invite People</string>
   <string name="Invite_to_Group_via_Link" platform="android, iOS, Desktop">Invite to Group via Link</string>
@@ -924,7 +926,6 @@
   <string name="profile_modify_number" platform="android">Do you want to change your phone number?</string>
   <string name="Profile_photo" platform="android, iOS">Profile Photo</string>
   <string name="profile_share_bot_hint" platform="android, iOS">If you want to share a bot, add it to your contacts first</string>
-  <string name="change_pin_interval_hint" platform="iOS">Confirm PIN to change interval</string>
   <string name="Public_profile" platform="android, iOS">Public profile (required)</string>
   <string name="QR_Code" platform="android, iOS">QR Code</string>
   <string name="qr_code_camera_code" platform="android">Use the built-in Camera to scan any QR Code. When a code is detected, tap the notification to view more information.</string>
@@ -1131,7 +1132,6 @@
   <string name="share_message_description" platform="android, iOS">Are you sure you want to send a %2$s from %1$s?</string>
   <string name="share_message_description_empty" platform="android, iOS">Are you sure you want to send the %1$s?</string>
   <string name="Share_QR_Code" platform="android">Share QR Code</string>
-  <string name="Invite_a_Friend" platform="android, iOS">Invite a Friend</string>
   <string name="share_to" platform="android">Share %1$s to…</string>
   <string name="Share_To" platform="iOS">Share To</string>
   <string name="Shared_Media" platform="android, iOS, Desktop">Shared Media</string>
