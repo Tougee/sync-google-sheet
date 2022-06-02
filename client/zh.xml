@@ -1060,7 +1060,7 @@
   <string name="send.count" platform="iOS">发送（%1$d）</string>
   <string name="Senders" platform="android, iOS">交易发起人</string>
   <string name="Set" platform="android, iOS">设置</string>
-  <string name="set_disappearing_message_time_to" platform="android, iOS">%1$s将限时消息设置为%2$s</string>
+  <string name="set_disappearing_message_time_to" platform="android, iOS">%1$s将限时消息设置为 %2$s</string>
   <string name="Set_new_PIN" platform="android, iOS">设置新的 PIN</string>
   <string name="Set_PIN" platform="android">设置 PIN</string>
   <string name="Set_PIN_successfully" platform="android, iOS">PIN 设置成功</string>
