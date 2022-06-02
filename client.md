@@ -590,8 +590,8 @@
 | iOS | group_participant_add_full | You can’t add this participant because this group is full. |     |     | 不能再添加成员，群已经满员了！ | グループメンバーが上限に達したため追加できません |
 | iOS | group_participant_add_limit | You can’t add this participant because only add up to 50 at a time. |     |     | 不能再添加成员，一次最多添加 50 个。 | 一度に追加できるメンバーは最大50人です |
 | Desktop | group_participants | Participants |     |     | 群成员 |     |
-| android, Desktop | group_pop_menu_message | Message %1$s | Kirim pesan ke %1$s | Mesej %1$s | 发送消息至 %1$s | メッセージを送信 |
-| android, Desktop | group_pop_menu_remove | Remove %1$s | Hapus %1$s | Alih keluar %1$s | 移除 %1$s | グループから退会させる |
+| android, Desktop | group_pop_menu_message | Message %1$s | Kirim pesan ke %1$s | Mesej %1$s | 发送消息至 %1$s |     |
+| android, Desktop | group_pop_menu_remove | Remove %1$s | Hapus %1$s | Alih keluar %1$s | 移除 %1$s |     |
 | android | group_pop_menu_view | View %1$s | Lihat %1$s | Lihat %1$s | 查看 %1$s | 詳細%1$s |
 | iOS | group_qr_code_prompt | Scan the QR Code to join this group |     |     | 扫描二维码加入群组 | QRコードをスキャンしてこのグループに参加 |
 | android | group_role | You' re now an admin | Anda sekarang adalah admin | Anda sekarang adalah pentadbir | 你现在成为管理员 | サブリーダーに任命されました |

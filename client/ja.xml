@@ -492,8 +492,6 @@
   <string name="Group_Notification" platform="android">グループ通知</string>
   <string name="group_participant_add_full" platform="iOS">グループメンバーが上限に達したため追加できません</string>
   <string name="group_participant_add_limit" platform="iOS">一度に追加できるメンバーは最大50人です</string>
-  <string name="group_pop_menu_message" platform="android, Desktop">メッセージを送信</string>
-  <string name="group_pop_menu_remove" platform="android, Desktop">グループから退会させる</string>
   <string name="group_pop_menu_view" platform="android">詳細%1$s</string>
   <string name="group_qr_code_prompt" platform="iOS">QRコードをスキャンしてこのグループに参加</string>
   <string name="group_role" platform="android">サブリーダーに任命されました</string>
