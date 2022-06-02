@@ -174,6 +174,10 @@
   <string name="call_remote_error" platform="iOS">The connection failed. Code %@</string>
   <string name="call_who" platform="android">Call %1$s</string>
   <string name="Call_with_Mixin" platform="iOS">Call with Mixin</string>
+  <string name="Chat_Background" platform="iOS">Chat Background</string>
+  <string name="Background_Preview" platform="iOS">Background Preview</string>
+  <string name="how_are_you" platform="iOS">Hi, how are you?</string>
+  <string name="i_am_good" platform="iOS">I’m good.</string>
   <string name="Calling" platform="android, iOS">Calling…</string>
   <string name="Camera" platform="android, iOS">Camera</string>
   <string name="can_not_recognize_qr_code" platform="android, Desktop">Can not recognize the QR code</string>

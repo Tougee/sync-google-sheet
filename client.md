@@ -175,6 +175,10 @@
 | iOS | call_remote_error | The connection failed. Code %@ |     |     | 连接失败。代码 %@ | 切断されました エラーコード%@ |
 | android | call_who | Call %1$s | Hubungi %1$s | Hubungi %1$s | 呼叫 %1$s | %1$sに電話をかける |
 | iOS | Call_with_Mixin | Call with Mixin |     |     | 语音通话 | 音声通話 |
+| iOS | Chat_Background | Chat Background |     |     | 聊天背景 |     |
+| iOS | Background_Preview | Background Preview |     |     | 背景预览 |     |
+| iOS | how_are_you | Hi, how are you? |     |     | 嗨，你好吗？ |     |
+| iOS | i_am_good | I’m good. |     |     | 我很好。 |     |
 | android, iOS | Calling | Calling… | Memanggil… | Memanggil… | 正在呼叫… | カメラ |
 | android, iOS | Camera | Camera | Kamera | Kamera | 相机  | QRコードが見つかりません |
 | android, Desktop | can_not_recognize_qr_code | Can not recognize the QR code | Tidak dapat mengenal kode QR | Tidak dapat mengenali kod QR | 无法识别二维码 |     |

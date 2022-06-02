@@ -172,6 +172,10 @@
   <string name="call_remote_error" platform="iOS">连接失败。代码 %@</string>
   <string name="call_who" platform="android">呼叫 %1$s</string>
   <string name="Call_with_Mixin" platform="iOS">语音通话</string>
+  <string name="Chat_Background" platform="iOS">聊天背景</string>
+  <string name="Background_Preview" platform="iOS">背景预览</string>
+  <string name="how_are_you" platform="iOS">嗨，你好吗？</string>
+  <string name="i_am_good" platform="iOS">我很好。</string>
   <string name="Calling" platform="android, iOS">正在呼叫…</string>
   <string name="Camera" platform="android, iOS">相机</string>
   <string name="can_not_recognize_qr_code" platform="android, Desktop">无法识别二维码</string>
