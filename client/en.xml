@@ -1378,6 +1378,7 @@
   <string name="withdrawal_with_biometric" platform="android">Withdrawal with Biometric</string>
   <string name="withdrawal_with_PIN" platform="android">Withdrawal with PIN</string>
   <string name="Write_Circles" platform="android, iOS, Desktop">Write Circles</string>
+  <string name="you" platform="android">you</string>
   <string name="You" platform="android, iOS, Desktop">You</string>
   <string name="You_deleted_this_message" platform="android, iOS, Desktop">You deleted this message</string>
   <string name="You_have_a_new_message" platform="iOS">You have a new message</string>

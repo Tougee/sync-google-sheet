@@ -1379,6 +1379,7 @@
 | android | withdrawal_with_biometric | Withdrawal with Biometric | Penarikan dengan Biometrik | Pengeluaran dengan Biometrik | 用生物识别提现 | PINを使用して出金 |
 | android | withdrawal_with_PIN | Withdrawal with PIN | Penarikan dengan PIN | Pengeluaran dengan PIN | 用 PIN 提现 | リストの変更 |
 | android, iOS, Desktop | Write_Circles | Write Circles |     | Tulis Lingkaran | 管理圈子 |     |
+| android | you | you |     |     | 你   |     |
 | android, iOS, Desktop | You | You | Anda | Anda | 你   | 自分  |
 | android, iOS, Desktop | You_deleted_this_message | You deleted this message | Anda menghapus pesan ini | Anda memadamkan mesej ini | 你撤回了一条消息 | このメッセージを削除しました。 |
 | iOS | You_have_a_new_message | You have a new message |     |     | 你收到了一条消息 | 新しいメッセージがあります |
