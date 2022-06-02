@@ -141,7 +141,6 @@
   <string name="bot_pin_hint" platform="iOS">よく使うロボを長押ししてドラッグすることでホーム画面から直接ロボにアクセスできます</string>
   <string name="BOTS" platform="android, iOS, Desktop">ロボ</string>
   <string name="bots_title" platform="android, iOS">Myロボ一覧</string>
-  <string name="bottom_transfer_stranger_tip" platform="android">電話</string>
   <string name="Business" platform="iOS">ビジネス</string>
   <string name="Call" platform="android, iOS">応答なし</string>
   <string name="call_encryption_description" platform="android, iOS">この通話はE2E暗号化されています。</string>

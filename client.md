@@ -160,7 +160,7 @@
 | iOS | bot_pin_hint | You can long press and drag the frequently used bots here to display them on the home |     |     | 可将常用机器人长按拖至此处，可显示于首页 | よく使うロボを長押ししてドラッグすることでホーム画面から直接ロボにアクセスできます |
 | android, iOS, Desktop | BOTS | BOTS | BOT | BOT | 机器人 | ロボ  |
 | android, iOS | bots_title | Bots | Bot | Bot | 机器人 | Myロボ一覧 |
-| android | bottom_transfer_stranger_tip | Mixin ID %1$s is not on your contact list. Make sure the recipient you chosen is correct. If you transfer to the wrong person, your assets will be lost! |     | ID Mixin %1$s tidak ada dalam senarai kenalan anda. Pastikan penerima yang anda pilih betul. Sekiranya anda pindah ke orang yang salah, aset anda akan hilang! | Mixin ID %1$s 不是您的联系人，请确认收款人是否正确。如果您转错了人资产将无法追回！ | 電話  |
+| android | bottom_transfer_stranger_tip | Mixin ID %1$s is not on your contact list. Make sure the recipient you chosen is correct. If you transfer to the wrong person, your assets will be lost! |     | ID Mixin %1$s tidak ada dalam senarai kenalan anda. Pastikan penerima yang anda pilih betul. Sekiranya anda pindah ke orang yang salah, aset anda akan hilang! | Mixin ID %1$s 不是您的联系人，请确认收款人是否正确。如果您转错了人资产将无法追回！ |     |
 | iOS | Business | Business |     |     | 商业  | ビジネス |
 | android, iOS | Call | Call |     |     | 语音  | 応答なし |
 | android, iOS | Call_declined | Call declined | Panggilan ditolak | Panggilan ditolak | 对方已拒绝 |     |
