@@ -1100,7 +1100,7 @@
   <string name="setting_emergency_change_mobile" platform="android">立即修改手机号？</string>
   <string name="setting_emergency_content" platform="android, iOS">紧急联系人旨在帮助你在丢失且无法找回手机号的情况下登录你的账号。</string>
   <string name="setting_emergency_create_success" platform="android">添加紧急联系人成功</string>
-  <string name="setting_emergency_desc" platform="android, iOS">请放心，即使您的手机号丢失无法找回钱包资产也很安全，请牢记您的 PIN，阅读文档了解更多。</string>
+  <string name="setting_emergency_desc" platform="android, iOS">请放心，即使您的手机号丢失无法找回钱包资产也很安全，请牢记您的 PIN，阅读文档**了解更多**。</string>
   <string name="setting_emergency_pin_tip" platform="android, iOS">紧急联系人受 PIN 加密保护</string>
   <string name="setting_emergency_send_code" platform="android, iOS">请输入发送至以下 Mixin ID 的 4 位验证码：%1$s</string>
   <string name="setting_emergency_set" platform="android">设置紧急联系人</string>
