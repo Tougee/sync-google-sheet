@@ -562,7 +562,7 @@
   <string name="setting_emergency_change_mobile" platform="android">Ingin mengubah nomor ponsel Anda sekarang?</string>
   <string name="setting_emergency_content" platform="android, iOS">Kontak darurat ditujukan untuk membantu Anda masuk ke akun Anda jika Anda lupa akun dan tidak dapat mengambil kembali nomor ponsel Anda.</string>
   <string name="setting_emergency_create_success" platform="android">Berhasil membuat kontak darurat</string>
-  <string name="setting_emergency_desc" platform="android, iOS">Saat nomor ponsel Anda hilang, hubungi kontak darurat Anda melalui telepon atau cara lain untuk mendapatkan ID Mixin dan kode verifikasi. Baca Kontak Darurat kami untuk mempelajari selengkapnya.</string>
+  <string name="setting_emergency_desc" platform="android, iOS">Saat nomor ponsel Anda hilang, hubungi kontak darurat Anda melalui telepon atau cara lain untuk mendapatkan ID Mixin dan kode verifikasi. Baca Kontak Darurat kami untuk **mempelajari selengkapnya**.</string>
   <string name="setting_emergency_pin_tip" platform="android, iOS">Kontak darurat Anda dilindungi dengan PIN</string>
   <string name="setting_emergency_send_code" platform="android, iOS">Masukkan kode 4 digit yang dikirim ke ID Mixin: %1$s</string>
   <string name="setting_emergency_set" platform="android">Tetapkan kontak darurat</string>
