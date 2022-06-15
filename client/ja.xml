@@ -893,7 +893,7 @@
   <string name="setting_data_title" platform="android">自動ダウンロード設定</string>
   <string name="setting_data_wifi" platform="android">WiFi利用時</string>
   <string name="setting_delete_account_content_2" platform="android">ローカルメッセージとiCloudにバックアップされた内容は削除されません</string>
-  <string name="setting_delete_account_pin_content" platform="android, iOS">%1$sと紐付けられたプロフィールとアカウント情報が削除されます。**詳細は**ドキュメントをご覧ください。</string>
+  <string name="setting_delete_account_pin_content" platform="android, iOS">%1$sと紐付けられたプロフィールとアカウント情報が削除されます。詳細はドキュ**メントをご覧ください**。</string>
   <string name="setting_delete_account_send" platform="android, iOS">%1$sへ4桁のコードを送信します</string>
   <string name="setting_delete_account_tip" platform="android, iOS">Mixinウォレット内に仮想通貨が残っています。アカウントを削除すると、仮想通貨を引き出すことができませんが、よろしいでしょうか？</string>
   <string name="setting_desktop_confirm" platform="android, iOS">デスクトップ版Mixinへの\nログインを確認</string>
