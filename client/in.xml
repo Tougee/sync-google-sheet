@@ -664,7 +664,7 @@
   <string name="wallet_password_change_tip" platform="android">Harap masukkan PIN 6 digit untuk memverifikasi.</string>
   <string name="wallet_password_not_equal" platform="android, iOS">PIN tidak cocok dengan PIN yang diketik ulang, harap coba lagi.</string>
   <string name="wallet_password_set_new_pin_desc" platform="android">Harap buat PIN 6 digit baru.</string>
-  <string name="wallet_password_set_pin_desc" platform="android, iOS">Siapkan PIN dompet 6 digit untuk membuat dompet digital pertama Anda, baca dokumentasi kami untuk mempelajari lebih lanjut.</string>
+  <string name="wallet_password_set_pin_desc" platform="android, iOS">Siapkan PIN dompet 6 digit untuk membuat dompet digital pertama Anda, baca dokumentasi kami untuk **mempelajari lebih lanjut**.</string>
   <string name="wallet_password_unsafe" platform="android, iOS">PIN-nya terlalu sederhana dan tidak aman.</string>
   <string name="wallet_pin_modify_biometrics" platform="android">Harap masukkan PIN untuk Mengubah Pembayaran dengan interval PIN</string>
   <string name="wallet_pin_open_biometrics" platform="android">Harap masukkan PIN untuk membuka Biometrik</string>

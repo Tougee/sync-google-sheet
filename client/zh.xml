@@ -1310,7 +1310,7 @@
   <string name="wallet_password_change_tip" platform="android">请输入6位 PIN 来验证</string>
   <string name="wallet_password_not_equal" platform="android, iOS">PIN 不一致, 请重新输入</string>
   <string name="wallet_password_set_new_pin_desc" platform="android">设置新的 6 位数字 PIN</string>
-  <string name="wallet_password_set_pin_desc" platform="android, iOS">设置 6 位数字 PIN 创建你的第一个数字钱包，阅读文档以了解更多。</string>
+  <string name="wallet_password_set_pin_desc" platform="android, iOS">设置 6 位数字 PIN 创建你的第一个数字钱包，阅读文档以**了解更多**。</string>
   <string name="wallet_password_unsafe" platform="android, iOS">PIN 过于简单不安全</string>
   <string name="wallet_pin_modify_biometrics" platform="android">请输入 PIN 来修改支付 PIN 使用间隔</string>
   <string name="wallet_pin_open_biometrics" platform="android">请输入 PIN 来启用生物识别支付</string>
