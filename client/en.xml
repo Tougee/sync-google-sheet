@@ -1119,7 +1119,7 @@
   <string name="setting_emergency_change_mobile" platform="android">Do you want to change your mobile number now?</string>
   <string name="setting_emergency_content" platform="android, iOS">The emergency contact is designed to help you log in to your account if you are lost and can not retrieve your mobile number.</string>
   <string name="setting_emergency_create_success" platform="android">Create emergency contact successfully</string>
-  <string name="setting_emergency_desc" platform="android, iOS">When your lost your mobile number, please contact your emergency contact by phone or other means to get the Mixin ID and verification code. Read our Emergency Contact to learn more.</string>
+  <string name="setting_emergency_desc" platform="android, iOS">When your lost your mobile number, please contact your emergency contact by phone or other means to get the Mixin ID and verification code. Read our Emergency Contact to **learn more**.</string>
   <string name="setting_emergency_pin_tip" platform="android, iOS">Your emergency contact is protected by PIN</string>
   <string name="setting_emergency_send_code" platform="android, iOS">Enter the 4-digit code sent to Mixin ID: %1$s</string>
   <string name="setting_emergency_set" platform="android">Set emergency contact</string>
