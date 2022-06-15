@@ -1077,7 +1077,7 @@
   <string name="wallet_pin_modify_biometrics" platform="android">変更を確定するには、PINを入力してください。</string>
   <string name="wallet_pin_open_biometrics" platform="android">PINを入力して、生体認証を開いてください</string>
   <string name="wallet_pin_pay_interval_tips" platform="android, iOS">セキュリティ保護のため、PINコードの定期的な再確認が必要です。</string>
-  <string name="wallet_pin_tops_desc" platform="android, iOS">PINコードを忘れた場合、ウォレットにアクセスすることができなくなるため、必ず覚えておいてください。PINコードは、分散型キー導出プロトコルであるThrottled Identity Protocolから作成されています。詳しくはドキュメントをご覧ください。</string>
+  <string name="wallet_pin_tops_desc" platform="android, iOS">PINコードを忘れた場合、ウォレットにアクセスすることができなくなるため、必ず覚えておいてください。PINコードは、分散型キー導出プロトコルであるThrottled Identity Protocolから作成されています。**詳しくは**ドキュメントをご覧ください。</string>
   <string name="wallet_refresh_address_failed" platform="android, iOS">出金手数料が変更され、更新に失敗しました。もう一度やり直してください。</string>
   <string name="wallet_transaction_continue_count_down" platform="android, iOS">続ける (%1$d)</string>
   <string name="wallet_transaction_that_time_value_tip" platform="android">やりとりした当時の価格</string>
