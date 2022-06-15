@@ -429,7 +429,7 @@
 | android | Disable_web_debug | Disable web debug |     | Lumpuhkan laman web nyahpepijat | 已关闭 Web 调试 | Disable web debug |
 | android | Disabled | Disabled |     |     | 已停用 | 利用できません |
 | android, iOS | disappearing_message | Disappearing Messages |     |     | 限时消息 |     |
-| android, iOS | disappearing_message_hint | When enabled, new messages sent and received in this chat will disappear after they have been seen, read the document to learn more. |     |     | 启用后，在此聊天中发送和接收的新信息在被看到后会消失，阅读文档以了解更多。 |     |
+| android, iOS | disappearing_message_hint | When enabled, new messages sent and received in this chat will disappear after they have been seen, read the document to **learn more**. |     |     | 启用后，在此聊天中发送和接收的新信息在被看到后会消失，阅读文档以**了解更多**。 |     |
 | android | disappearing_message_url | https://mixinmessenger.zendesk.com/hc/articles/5127869180564 |     |     |     |     |
 | android, iOS | disappearing_option_1 | 30 seconds |     |     | 30 秒 |     |
 | android, iOS | disappearing_option_2 | 10 minutes |     |     | 10 分 |     |

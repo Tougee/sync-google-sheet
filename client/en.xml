@@ -428,7 +428,7 @@
   <string name="Disable_web_debug" platform="android">Disable web debug</string>
   <string name="Disabled" platform="android">Disabled</string>
   <string name="disappearing_message" platform="android, iOS">Disappearing Messages</string>
-  <string name="disappearing_message_hint" platform="android, iOS">When enabled, new messages sent and received in this chat will disappear after they have been seen, read the document to learn more.</string>
+  <string name="disappearing_message_hint" platform="android, iOS">When enabled, new messages sent and received in this chat will disappear after they have been seen, read the document to **learn more**.</string>
   <string name="disappearing_message_url" platform="android">https://mixinmessenger.zendesk.com/hc/articles/5127869180564</string>
   <string name="disappearing_option_1" platform="android, iOS">30 seconds</string>
   <string name="disappearing_option_2" platform="android, iOS">10 minutes</string>
