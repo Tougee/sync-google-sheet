@@ -902,7 +902,7 @@
   <string name="setting_emergency_change_mobile" platform="android">新しい電話番号の登録をしますか？</string>
   <string name="setting_emergency_content" platform="android, iOS">緊急連絡先は、紛失等の理由でデバイスへのアクセスが出来なくなった場合、ログインする方法となります。</string>
   <string name="setting_emergency_create_success" platform="android">緊急連絡先を作成しました</string>
-  <string name="setting_emergency_desc" platform="android, iOS">登録した電話番号が使用できなくなった場合は、緊急連絡先として登録した友だちに連絡し、Mixin IDと認証コードを取得してください。詳しくは緊急連絡先についてを確認してください。</string>
+  <string name="setting_emergency_desc" platform="android, iOS">登録した電話番号が使用できなくなった場合は、緊急連絡先として登録した友だちに連絡し、Mixin IDと認証コードを取得してください。**詳しくは**緊急連絡先についてを確認してください。</string>
   <string name="setting_emergency_pin_tip" platform="android, iOS">あなたの緊急連絡先はPINにより保護されています。</string>
   <string name="setting_emergency_send_code" platform="android, iOS">相手のMixinに送信された4桁のコードを入力してください：%1$s</string>
   <string name="setting_emergency_set" platform="android">緊急連絡先を設定する</string>
