@@ -1091,7 +1091,7 @@
   <string name="setting_data_title" platform="android">自动下载文件</string>
   <string name="setting_data_wifi" platform="android">当连接到 Wi-Fi 时</string>
   <string name="setting_delete_account_content_2" platform="android">本地信息和备份不会被自动删除</string>
-  <string name="setting_delete_account_pin_content" platform="android, iOS">如果您继续，您的个人资料和账户信息将在%1$s被删除。阅读我们的文档以了解更多。</string>
+  <string name="setting_delete_account_pin_content" platform="android, iOS">如果您继续，您的个人资料和账户信息将在%1$s被删除。阅读我们的文档以**了解更多**。</string>
   <string name="setting_delete_account_send" platform="android, iOS">我们将发送 4 位验证码到手机 %1$s</string>
   <string name="setting_delete_account_tip" platform="android, iOS">你的 Mixin 钱包还有一些资产，可以提现至其他钱包或交易所，账户一旦注销，这些资产将和钱包一起被弃用无法找回。</string>
   <string name="setting_desktop_confirm" platform="android, iOS">确认登录 Mixin Messenger 桌面端</string>
