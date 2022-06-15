@@ -1336,7 +1336,7 @@
   <string name="wallet_pin_modify_biometrics" platform="android">Please enter PIN to Modify Pay with PIN interval</string>
   <string name="wallet_pin_open_biometrics" platform="android">Please enter PIN to open Biometrics</string>
   <string name="wallet_pin_pay_interval_tips" platform="android, iOS">For the security of your assets, you need to verify your PIN for the specified interval.</string>
-  <string name="wallet_pin_tops_desc" platform="android, iOS">Please remember the PIN is unrecoverable if lost. The PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to learn more.</string>
+  <string name="wallet_pin_tops_desc" platform="android, iOS">Please remember the PIN is unrecoverable if lost. The PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **learn more**.</string>
   <string name="wallet_refresh_address_failed" platform="android, iOS">The withdrawal fee has been changed and the refresh fails, please try again.</string>
   <string name="wallet_setting_currency_desc" platform="android">%1$s (%2$s)</string>
   <string name="wallet_transaction_continue_count_down" platform="android, iOS">Continue (%1$d)</string>
