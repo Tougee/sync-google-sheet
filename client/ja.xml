@@ -100,7 +100,7 @@
   <string name="ANSWER" platform="android">電話をとる</string>
   <string name="app_card_share_disallow" platform="Desktop">このURLの共有を許可しない</string>
   <string name="app_card_shareable_false" platform="android, iOS">このカードを共有することはできません</string>
-  <string name="app_name" platform="android">Links</string>
+  <string name="app_name" platform="android">Mixin</string>
   <string name="app_update_short_hint" platform="iOS">アップデート</string>
   <string name="app_update_tips" platform="iOS">(%@) "Update" AppStoreで新しいバージョンを入手してください。</string>
   <string name="App_version" platform="android">App version</string>

@@ -105,7 +105,7 @@
 | android | ANSWER | ANSWER | JAWAB | JAWAPAN | 接听  | 電話をとる |
 | Desktop | app_card_share_disallow | Disallow sharing of this URL |     |     | 该链接已被设置为不允许分享 | このURLの共有を許可しない |
 | android, iOS | app_card_shareable_false | The card has been set to not allow sharing |     |     | 该卡片已被设置为不允许转发 | このカードを共有することはできません |
-| android | app_name | Mixin |     |     |     | Links |
+| android | app_name | Mixin |     |     |     | Mixin |
 | iOS | app_update_short_hint | Please update Mixin from App Store to continue use the service. |     |     | 请从 App Store 更新 Mixin 至最新版 | アップデート |
 | iOS | app_update_tips | The current version (%@) is no longer available! Please click "Update" below to update to the latest version from the App Store. |     |     | 当前版本（%@）已失效！请点击下方"更新"从 App Store 更新至最新版。 | (%@) "Update" AppStoreで新しいバージョンを入手してください。 |
 | android | App_version | App version |     |     | 应用版本 | App version |
