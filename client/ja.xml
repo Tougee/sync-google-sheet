@@ -1279,7 +1279,7 @@
   <string name="wallet_password_change_tip" platform="android">認証するために6桁のPINを入力してください。</string>
   <string name="wallet_password_not_equal" platform="android, iOS">PINが一致しません、もう一度お試しください。</string>
   <string name="wallet_password_set_new_pin_desc" platform="android">6桁の新しいPINを作成してください</string>
-  <string name="wallet_password_set_pin_desc" platform="android, iOS">6桁のPINを作成してください、詳しくはこちら</string>
+  <string name="wallet_password_set_pin_desc" platform="android, iOS">6桁のPINを作成してください、**詳しくは**こちら</string>
   <string name="wallet_password_unsafe" platform="android, iOS">PINをより複雑な数字に変更してください</string>
   <string name="wallet_pin_modify_biometrics" platform="android">変更を確定するには、PINを入力してください。</string>
   <string name="wallet_pin_open_biometrics" platform="android">PINを入力して、生体認証を開いてください</string>
