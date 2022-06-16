@@ -141,7 +141,7 @@
 | android | Backup | Backup |     |     | 备份  | チャット履歴のバックアップ |
 | android | backup_choose_a_folder | Choose a folder, backups will be saved to this location |     |     | 请选择用于保存备份的文件夹 | 選択  |
 | android | Backup_delete | Backup delete | Hapus cadangan | Padam sandaran | 删除备份 | 削除  |
-| android | backup_des | Back up your messages to external storage. You can restore them when you reinstall Mixin. Messages you back up are not protected while in external storage. | Cadangkan pesan Anda ke penyimpanan eksternal. Anda dapat memulihkannya saat memasang ulang Mixin. Pesan yang Anda cadangkan tidak dilindungi saat berada di penyimpanan eksternal. | Sandarkan mesej anda ke storan luaran. Anda boleh memulihkannya semasa memasang semula Mixin. Mesej yang anda sandarkan tidak dilindungi semasa berada di storan luaran. | 备份对话记录到外部存储以便在重新安装 Mixin 时还原对话记录，备份到外部存储的对话不会进行加密处理。 | メッセージを外部ストレージにバックアップします。Linksを再インストールすると、バックアップを元に復元することができます。 |
+| android | backup_des | Back up your messages to external storage. You can restore them when you reinstall Mixin. Messages you back up are not protected while in external storage. | Cadangkan pesan Anda ke penyimpanan eksternal. Anda dapat memulihkannya saat memasang ulang Mixin. Pesan yang Anda cadangkan tidak dilindungi saat berada di penyimpanan eksternal. | Sandarkan mesej anda ke storan luaran. Anda boleh memulihkannya semasa memasang semula Mixin. Mesej yang anda sandarkan tidak dilindungi semasa berada di storan luaran. | 备份对话记录到外部存储以便在重新安装 Mixin 时还原对话记录，备份到外部存储的对话不会进行加密处理。 | メッセージを外部ストレージにバックアップします。Mixinを再インストールすると、バックアップを元に復元することができます。 |
 | android | backup_dialog_title | Auto back up to external storage | Cadangkan otomatis ke penyimpanan eksternal | Sandarkan automatik ke storan luaran | 自动备份到外部存储 | 外部ストレージに自動的にバックアップします。 |
 | iOS | backup_disable_hint | Sign in to iCloud to back up your history. Settings > iCloud > Turn on iCloud Drive. |     |     | 需要登录 iCloud 来备份你的聊天记录。 设置 > iCloud > 打开 iCloud 云盘。 | 無効にする |
 | android | backup_external_storage | External storage: %1$s | Penyimpanan eksternal: %1$s | Storan luaran: %1$s | 外部存储： %1$s | 外部ストレージ: %1$s |
@@ -185,7 +185,7 @@
 | android | call_pip_permission | You can't minimize a voice call as Mixin isn't authorized to use floating windows | Anda tidak dapat menciutkan panggilan suara karena Mixin tidak diizinkan menggunakan jendela mengambang | Anda tidak dapat meminimumkan panggilan suara kerana Mixin tidak diberi kuasa menggunakan tetingkap terapung | 你的手机没有授权 Mixin 获得浮窗权限，语音通话最小化不能正常使用 | Mixinはフローティングウィンドウの使用を許可されていないため、音声通話を最小化することはできません。 |
 | iOS | call_remote_error | The connection failed. Code %@ |     |     | 连接失败。代码 %@ | 切断されました エラーコード%@ |
 | android | call_who | Call %1$s | Hubungi %1$s | Hubungi %1$s | 呼叫 %1$s | %1$sに電話をかける |
-| iOS | Call_with_Mixin | Call with Mixin |     |     | 语音通话 | Links |
+| iOS | Call_with_Mixin | Call with Mixin |     |     | 语音通话 |     |
 | iOS | Chat_Background | Chat Background |     |     | 聊天背景 |     |
 | iOS | Background_Preview | Background Preview |     |     | 背景预览 | 閲覧  |
 | iOS | how_are_you | Hi, how are you? |     |     | 嗨，你好吗？ |     |
@@ -307,7 +307,7 @@
 | android, iOS | Contact_Developer | Contact Developer |     | Hubungi Pembangun | 联系开发者 | 開発者情報 |
 | android | contact_empty_tip | Mixin needs access your contacts to help you connect with other people on Mixin. | Mixin perlu mengakses kontak Anda untuk membantu Anda terhubung dengan orang lain di Mixin. | Mixin perlu mengakses kenalan anda untuk membantu anda berhubung dengan orang lain di Mixin. | Mixin 需要访问你的通讯录来帮助你更快找到你的朋友。 | スマホの連絡帳と同期して友だちを自動追加 |
 | android, iOS | contact_invite_content | Hey, I'm using Mixin Messenger to chat. Download it here: https://mixin.one/messenger | Hai, saya menggunakan Mixin Messenger untuk mengobrol. Unduh di sini: https://mixin.one/messenger . | Hei, saya menggunakan Mixin Messenger untuk sembang. Muat turun di sini: https://mixin.one/messenger . | 我正在使用 Mixin 聊天。下载：https://mixin.one/messenger | Mixinを使いませんか？ ここからダウンロード: https://mixin.one/messenger |
-| android, iOS, Desktop | contact_mixin_id | Mixin ID: %1$s | Mixin ID: %1$s | Mixin ID: %1$s | Mixin ID：%1$s | Links ID |
+| android, iOS, Desktop | contact_mixin_id | Mixin ID: %1$s | Mixin ID: %1$s | Mixin ID: %1$s | Mixin ID：%1$s | Mixin ID |
 | android, iOS | contact_mobile | Mobile: %1$s | Seluler: %1$s | Mudah alih: %1$s | 手机：%1$s | モバイル: %1$s |
 | android, Desktop | contact_mute_title | Mute notifications for… | Matikan notifikasi selama… | Senyapkan pemberitahuan untuk… | 静音通知 | 通知をミュート: |
 | android | contact_new_group_chat_desc | Create a group chat with up to  friends | Buat obrolan grup dengan maksimal teman | Buat kumpulan sembang dengan sehingga rakan | 创建一个最多支持 256 人的群 | 新しいグループを作成 |
@@ -399,7 +399,7 @@
 | android, iOS | Delete_withdraw_Address | Delete %1$s Address | Hapus Alamat %1$s | Padamkan Alamat %1$s | 删除 %1$s 地址 | アドレス送金 |
 | iOS | Deleted | Deleted |     |     | 已删除 | 削除しました |
 | android, iOS | Deposit | Deposit | Deposit | Deposit | 充值  | 入金  |
-| android, iOS | deposit_account_attention | Attention: Please try a small amount for the first deposit. Both a Memo and an Address are required to successfully deposit your %1$s to Mixin Messenger. | Perhatian: Harap coba jumlah kecil untuk deposit pertama. Memo dan Alamat diperlukan agar deposit %1$s Anda ke Mixin Messenger dapat dilakukan dengan sukses. | Perhatian: Cuba sebilangan kecil untuk deposit pertama. Kedua-dua Memo dan Alamat diperlukan untuk memasukkan deposit anda dengan jayanya %1$s ke Mixin Messenger. | 注意：首次充值建议小额尝试！地址和 Memo（备注）同时使用才能充值 %1$s 到 Mixin Messenger。 | 注意： 最初の入金は少額でお試しください。Linksに %1$s を入金するためには、メモとアドレスの両方の記入が必要です。 |
+| android, iOS | deposit_account_attention | Attention: Please try a small amount for the first deposit. Both a Memo and an Address are required to successfully deposit your %1$s to Mixin Messenger. | Perhatian: Harap coba jumlah kecil untuk deposit pertama. Memo dan Alamat diperlukan agar deposit %1$s Anda ke Mixin Messenger dapat dilakukan dengan sukses. | Perhatian: Cuba sebilangan kecil untuk deposit pertama. Kedua-dua Memo dan Alamat diperlukan untuk memasukkan deposit anda dengan jayanya %1$s ke Mixin Messenger. | 注意：首次充值建议小额尝试！地址和 Memo（备注）同时使用才能充值 %1$s 到 Mixin Messenger。 | 注意： 最初の入金は少額でお試しください。Mixinに %1$s を入金するためには、メモとアドレスの両方の記入が必要です。 |
 | iOS | Deposit_at_least | Deposit at least %@ %@ for the first time. |     |     | 首次充值至少 %@ %@！ | 最初の入金は%@ %@ 以上に指定してください |
 | android, iOS | deposit_attention | Please try a small amount for the first deposit. | Harap coba jumlah kecil untuk deposit pertama. | Cuba sedikit untuk deposit pertama. | 首次充值建议小额尝试！ | 注意: 最初は必ず少額で入金テストをしてください。 |
 | android, iOS | deposit_confirmation | Deposit will arrive %1$d block confirmation |     |     | 充值到账需要 %1$d 个区块确认。 | 入金した仮想通貨は、%1$dブロック確認後に着金します |
@@ -711,9 +711,9 @@
 | android, iOS, Desktop | Log_in | Log in | Masuk | Log masuk | 登录  | ログイン |
 | android, iOS | log_out_from_desktop | Log out from desktop |     |     | 从桌面版退出 | デスクトップ版からログアウト |
 | android, iOS, Desktop | login_and_abort_account_deletion | Continue to log in and abort account deletion |     |     | 继续登录并放弃删除账户 | そのままログインし、アカウント削除をキャンセルします |
-| Desktop | login_by_qrcode | Login to Mixin Messenger by QR Code |     |     | 通过二维码登录 Mixin Messenger | QRコードでLinksにログインする |
-| Desktop | login_by_qrcode_tips | Open Mixin Messenger on your phone, scan the QR Code on the screen and confirm your login. |     |     | 打开手机上的 Mixin Messenger，扫描屏幕上的二维码，确认登录。 | 携帯でLinksを開き、画面に表示されるQRコードを読み取り、ログインします |
-| android | Login_with_PIN | Login with PIN |     |     | 用 PIN 来登录 | PINコードでLinksにログインする |
+| Desktop | login_by_qrcode | Login to Mixin Messenger by QR Code |     |     | 通过二维码登录 Mixin Messenger | QRコードでMixinにログインする |
+| Desktop | login_by_qrcode_tips | Open Mixin Messenger on your phone, scan the QR Code on the screen and confirm your login. |     |     | 打开手机上的 Mixin Messenger，扫描屏幕上的二维码，确认登录。 | 携帯でMixinを開き、画面に表示されるQRコードを読み取り、ログインします |
+| android | Login_with_PIN | Login with PIN |     |     | 用 PIN 来登录 | PINコードでMixinにログインする |
 | iOS | Logined | Logged in |     |     | 已登录 | ログインしました |
 | android | Logout | Logout… | Keluar… | Log keluar… | 退出中… | ログアウト中… |
 | android, iOS | Logs | Logs | Log | Log | 日志  | ログ  |
@@ -769,7 +769,7 @@
 | iOS, Desktop | Muted | Muted |     |     | 已静音 | ミュートされました |
 | iOS | Muted_until | Muted until %@ |     |     | 已静音至 %@ | %@までミュートする |
 | android, iOS | My_Contacts | My Contacts | Kontak Saya | Kenalan Saya | 我的联系人 | 連絡先 |
-| android, iOS, Desktop | my_mixin_id | My Mixin ID: %1$s | ID Mixin saya: %1$s | ID Mixin Saya: %1$s | 我的 Mixin ID：%1$s | マイLinks ID:%1$s |
+| android, iOS, Desktop | my_mixin_id | My Mixin ID: %1$s | ID Mixin saya: %1$s | ID Mixin Saya: %1$s | 我的 Mixin ID：%1$s | マイMixin ID:%1$s |
 | android, iOS | My_QR_Code | My QR Code | Kode QR saya | Kod QR saya | 我的二维码 | マイQRコード |
 | android, iOS | My_shared_bots | My shared bots | Aplikasi bersama saya | Aplikasi kongsi saya | 我分享的机器人 | おすすめロボをプロフィールに追加 |
 | android, iOS, Desktop | My_Stickers | My Stickers |     |     | 我的表情 | マイステッカー |
@@ -792,7 +792,7 @@
 | android | new_group_name | new group name | nama grup baru | nama kumpulan baharu | 新群组名称 | 新規グループ名 |
 | iOS | new_name | new name |     |     | 名称  | 新しい名前 |
 | Desktop | new_version_available | New version available |     |     | 发现新版本 | 最新版の公開 |
-| Desktop | new_version_description | Mixin Messenger %1$s is now available, you have %2$s. Would you like to download it now? |     |     | 发现新版本 Mixin Messenger %1$s，当前版本为 %2$s。是否要下载最新的版本？ | Links%1$sが利用可能です。今すぐアップデートしますか？ |
+| Desktop | new_version_description | Mixin Messenger %1$s is now available, you have %2$s. Would you like to download it now? |     |     | 发现新版本 Mixin Messenger %1$s，当前版本为 %2$s。是否要下载最新的版本？ | Mixin%1$sが利用可能です。今すぐアップデートしますか？ |
 | android, iOS | new_wallet_hint | Create your first digital wallet, all your digital assets in one wallet, easy send and receive cryptocurrency. |     |     | 创建你的第一个数字钱包，所有资产都在一个钱包，收发加密资产简单易用。 | 簡単に仮想通貨をやり取りできるウォレットを作成しよう！ |
 | iOS | News | News |     |     | 新闻  | ニュース |
 | android, iOS, Desktop | Next | Next | Berikutnya | Seterusnya | 下一步 | 次へ  |
@@ -1281,7 +1281,7 @@
 | iOS | Unrecognized_codes | Unrecognized codes |     |     | 未识别的链接 | 不明なコード |
 | android, iOS | Update | Update | Perbarui | Kemas kini | 升级  | アップデート |
 | android | update_downloaded | An update has just been downloaded. | Pembaruan baru saja diunduh. | Kemas kini baru sahaja dimuat turun. | 一个更新刚下载完成。 | アップデータをダウンロード中 |
-| android, iOS | Update_Mixin | Update Mixin | Perbarui Mixin | Kemas kini Mixin | 升级 Mixin | Linksのアップデート |
+| android, iOS | Update_Mixin | Update Mixin | Perbarui Mixin | Kemas kini Mixin | 升级 Mixin | Mixinのアップデート |
 | android | update_mixin_description | The current version (%1$s) is no longer available!\nPlease click "Update" below to update to the latest version from the Google Play. | Versi saat ini (%1$s) tidak lagi tersedia!\nHarap klik Perbarui berikut untuk memperbarui ke versi terbaru dari App Store. | Versi semasa (%1$s) tidak lagi tersedia!\nSila klik Kemas kini di bawah untuk mengemas kini ke versi terbaharu dari Google Play. | 当前版本（%1$s）不再可用!\n请点击下面的“更新”按钮从应用商店更新到最新版本。 | 現在のバージョン(%1$s)は使用できなくなりました。\n「アップデート」をクリックして、Google Playから最新バージョンにアップデートしてください。 |
 | android, iOS | Upgrade_Database | Upgrade Database | Tingkatkan Database | Naik taraf Pangkalan Data | 数据库升级 | データベースをアップグレード |
 | android, iOS | Upgrading | Upgrading | Meningkatkan | Menaik taraf | 升级中... | アップデート中 |
@@ -1358,7 +1358,7 @@
 | android | Wednesday | Wednesday | Rabu | Rabu | 星期三 | 水曜日 |
 | iOS | Weekly | Weekly |     |     | 每周  | 週   |
 | iOS | weeks | weeks |     |     | 周   | 週間  |
-| android | Welcome_to_Mixin | Welcome to Mixin | Welcome to Mixin | Welcome to Mixin |     | Linksへようこそ！ |
+| android | Welcome_to_Mixin | Welcome to Mixin | Welcome to Mixin | Welcome to Mixin |     | Mixinへようこそ！ |
 | android, iOS, Desktop | Whats_your_name | What's your name? | Siapa nama Anda? | Siapa nama awak? | 你的名字？ | お名前は何ですか？ |
 | android | When_roaming | When roaming | Saat roaming | Semasa perayauan | 当漫游时 | ローミング時 |
 | iOS | WiFi | Wi-Fi |     |     | WLAN | Wi-Fi |

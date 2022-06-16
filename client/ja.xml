@@ -135,7 +135,7 @@
   <string name="Backup" platform="android">チャット履歴のバックアップ</string>
   <string name="backup_choose_a_folder" platform="android">選択</string>
   <string name="Backup_delete" platform="android">削除</string>
-  <string name="backup_des" platform="android">メッセージを外部ストレージにバックアップします。Linksを再インストールすると、バックアップを元に復元することができます。</string>
+  <string name="backup_des" platform="android">メッセージを外部ストレージにバックアップします。Mixinを再インストールすると、バックアップを元に復元することができます。</string>
   <string name="backup_dialog_title" platform="android">外部ストレージに自動的にバックアップします。</string>
   <string name="backup_disable_hint" platform="iOS">無効にする</string>
   <string name="backup_external_storage" platform="android">外部ストレージ: %1$s</string>
@@ -179,7 +179,6 @@
   <string name="call_pip_permission" platform="android">Mixinはフローティングウィンドウの使用を許可されていないため、音声通話を最小化することはできません。</string>
   <string name="call_remote_error" platform="iOS">切断されました エラーコード%@</string>
   <string name="call_who" platform="android">%1$sに電話をかける</string>
-  <string name="Call_with_Mixin" platform="iOS">Links</string>
   <string name="Background_Preview" platform="iOS">閲覧</string>
   <string name="i_am_good" platform="iOS">移動</string>
   <string name="Calling" platform="android, iOS">着信中</string>
@@ -298,7 +297,7 @@
   <string name="Contact_Developer" platform="android, iOS">開発者情報</string>
   <string name="contact_empty_tip" platform="android">スマホの連絡帳と同期して友だちを自動追加</string>
   <string name="contact_invite_content" platform="android, iOS">Mixinを使いませんか？ ここからダウンロード: https://mixin.one/messenger</string>
-  <string name="contact_mixin_id" platform="android, iOS, Desktop">Links ID</string>
+  <string name="contact_mixin_id" platform="android, iOS, Desktop">Mixin ID</string>
   <string name="contact_mobile" platform="android, iOS">モバイル: %1$s</string>
   <string name="contact_mute_title" platform="android, Desktop">通知をミュート:</string>
   <string name="contact_new_group_chat_desc" platform="android">新しいグループを作成</string>
@@ -388,7 +387,7 @@
   <string name="Delete_withdraw_Address" platform="android, iOS">アドレス送金</string>
   <string name="Deleted" platform="iOS">削除しました</string>
   <string name="Deposit" platform="android, iOS">入金</string>
-  <string name="deposit_account_attention" platform="android, iOS">注意： 最初の入金は少額でお試しください。Linksに %1$s を入金するためには、メモとアドレスの両方の記入が必要です。</string>
+  <string name="deposit_account_attention" platform="android, iOS">注意： 最初の入金は少額でお試しください。Mixinに %1$s を入金するためには、メモとアドレスの両方の記入が必要です。</string>
   <string name="Deposit_at_least" platform="iOS">最初の入金は%@ %@ 以上に指定してください</string>
   <string name="deposit_attention" platform="android, iOS">注意: 最初は必ず少額で入金テストをしてください。</string>
   <string name="deposit_confirmation" platform="android, iOS">入金した仮想通貨は、%1$dブロック確認後に着金します</string>
@@ -696,9 +695,9 @@
   <string name="Log_in" platform="android, iOS, Desktop">ログイン</string>
   <string name="log_out_from_desktop" platform="android, iOS">デスクトップ版からログアウト</string>
   <string name="login_and_abort_account_deletion" platform="android, iOS, Desktop">そのままログインし、アカウント削除をキャンセルします</string>
-  <string name="login_by_qrcode" platform="Desktop">QRコードでLinksにログインする</string>
-  <string name="login_by_qrcode_tips" platform="Desktop">携帯でLinksを開き、画面に表示されるQRコードを読み取り、ログインします</string>
-  <string name="Login_with_PIN" platform="android">PINコードでLinksにログインする</string>
+  <string name="login_by_qrcode" platform="Desktop">QRコードでMixinにログインする</string>
+  <string name="login_by_qrcode_tips" platform="Desktop">携帯でMixinを開き、画面に表示されるQRコードを読み取り、ログインします</string>
+  <string name="Login_with_PIN" platform="android">PINコードでMixinにログインする</string>
   <string name="Logined" platform="iOS">ログインしました</string>
   <string name="Logout" platform="android">ログアウト中…</string>
   <string name="Logs" platform="android, iOS">ログ</string>
@@ -748,7 +747,7 @@
   <string name="Muted" platform="iOS, Desktop">ミュートされました</string>
   <string name="Muted_until" platform="iOS">%@までミュートする</string>
   <string name="My_Contacts" platform="android, iOS">連絡先</string>
-  <string name="my_mixin_id" platform="android, iOS, Desktop">マイLinks ID:%1$s</string>
+  <string name="my_mixin_id" platform="android, iOS, Desktop">マイMixin ID:%1$s</string>
   <string name="My_QR_Code" platform="android, iOS">マイQRコード</string>
   <string name="My_shared_bots" platform="android, iOS">おすすめロボをプロフィールに追加</string>
   <string name="My_Stickers" platform="android, iOS, Desktop">マイステッカー</string>
@@ -771,7 +770,7 @@
   <string name="new_group_name" platform="android">新規グループ名</string>
   <string name="new_name" platform="iOS">新しい名前</string>
   <string name="new_version_available" platform="Desktop">最新版の公開</string>
-  <string name="new_version_description" platform="Desktop">Links%1$sが利用可能です。今すぐアップデートしますか？</string>
+  <string name="new_version_description" platform="Desktop">Mixin%1$sが利用可能です。今すぐアップデートしますか？</string>
   <string name="new_wallet_hint" platform="android, iOS">簡単に仮想通貨をやり取りできるウォレットを作成しよう！</string>
   <string name="News" platform="iOS">ニュース</string>
   <string name="Next" platform="android, iOS, Desktop">次へ</string>
@@ -1228,7 +1227,7 @@
   <string name="Unrecognized_codes" platform="iOS">不明なコード</string>
   <string name="Update" platform="android, iOS">アップデート</string>
   <string name="update_downloaded" platform="android">アップデータをダウンロード中</string>
-  <string name="Update_Mixin" platform="android, iOS">Linksのアップデート</string>
+  <string name="Update_Mixin" platform="android, iOS">Mixinのアップデート</string>
   <string name="update_mixin_description" platform="android">現在のバージョン(%1$s)は使用できなくなりました。\n「アップデート」をクリックして、Google Playから最新バージョンにアップデートしてください。</string>
   <string name="Upgrade_Database" platform="android, iOS">データベースをアップグレード</string>
   <string name="Upgrading" platform="android, iOS">アップデート中</string>
@@ -1305,7 +1304,7 @@
   <string name="Wednesday" platform="android">水曜日</string>
   <string name="Weekly" platform="iOS">週</string>
   <string name="weeks" platform="iOS">週間</string>
-  <string name="Welcome_to_Mixin" platform="android">Linksへようこそ！</string>
+  <string name="Welcome_to_Mixin" platform="android">Mixinへようこそ！</string>
   <string name="Whats_your_name" platform="android, iOS, Desktop">お名前は何ですか？</string>
   <string name="When_roaming" platform="android">ローミング時</string>
   <string name="WiFi" platform="iOS">Wi-Fi</string>
