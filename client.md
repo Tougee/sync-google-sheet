@@ -182,7 +182,7 @@
 | iOS | call_no_network_hint | Call service unavailable. Make sure your phone has an internet connection and try again. |     |     | 通话服务不可用，请确认网络连接正常并重试 | 現在通話ができません。 インターネットの接続を確認しもう一度お試しください。 |
 | android, iOS | call_on_another_call_hint | You are already on another call. Try after it was ended. |     |     | 无法在 Mixin 通话时拨打电话 | その他 |
 | iOS | Call_Phone | Call Phone |     |     | 电话呼叫 | 電話をかける |
-| android | call_pip_permission | You can't minimize a voice call as Mixin isn't authorized to use floating windows | Anda tidak dapat menciutkan panggilan suara karena Mixin tidak diizinkan menggunakan jendela mengambang | Anda tidak dapat meminimumkan panggilan suara kerana Mixin tidak diberi kuasa menggunakan tetingkap terapung | 你的手机没有授权 Mixin 获得浮窗权限，语音通话最小化不能正常使用 | Linksはフローティングウィンドウの使用を許可されていないため、音声通話を最小化することはできません。 |
+| android | call_pip_permission | You can't minimize a voice call as Mixin isn't authorized to use floating windows | Anda tidak dapat menciutkan panggilan suara karena Mixin tidak diizinkan menggunakan jendela mengambang | Anda tidak dapat meminimumkan panggilan suara kerana Mixin tidak diberi kuasa menggunakan tetingkap terapung | 你的手机没有授权 Mixin 获得浮窗权限，语音通话最小化不能正常使用 | Mixinはフローティングウィンドウの使用を許可されていないため、音声通話を最小化することはできません。 |
 | iOS | call_remote_error | The connection failed. Code %@ |     |     | 连接失败。代码 %@ | 切断されました エラーコード%@ |
 | android | call_who | Call %1$s | Hubungi %1$s | Hubungi %1$s | 呼叫 %1$s | %1$sに電話をかける |
 | iOS | Call_with_Mixin | Call with Mixin |     |     | 语音通话 | Links |

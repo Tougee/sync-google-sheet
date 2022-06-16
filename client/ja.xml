@@ -176,7 +176,7 @@
   <string name="call_no_network_hint" platform="iOS">現在通話ができません。 インターネットの接続を確認しもう一度お試しください。</string>
   <string name="call_on_another_call_hint" platform="android, iOS">その他</string>
   <string name="Call_Phone" platform="iOS">電話をかける</string>
-  <string name="call_pip_permission" platform="android">Linksはフローティングウィンドウの使用を許可されていないため、音声通話を最小化することはできません。</string>
+  <string name="call_pip_permission" platform="android">Mixinはフローティングウィンドウの使用を許可されていないため、音声通話を最小化することはできません。</string>
   <string name="call_remote_error" platform="iOS">切断されました エラーコード%@</string>
   <string name="call_who" platform="android">%1$sに電話をかける</string>
   <string name="Call_with_Mixin" platform="iOS">Links</string>
