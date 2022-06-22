@@ -24,7 +24,7 @@
 | iOS | Name_or_Phone_number | Name or Phone number |     |     | 姓名或手机号 | 名前  |
 | iOS | Search_contacts | Search Contacts |     |     | 搜索联系人 | 連絡先を検索 |
 | iOS | Access_to_Contacts | Access to Contacts |     |     | 访问通讯录 |     |
-| iOS | Access_Contacts_Hint | Mixin syncs your address book to Mixin servers to help you connect with other Mixin users |     |     | Mixin 将你的通讯录同步到 Mixin 服务器，以帮助你与其他 Mixin 用户联系 |     |
+| iOS | Access_Contacts_Hint | Mixin syncs your address book to Mixin servers to help you connect with other Mixin users |     |     | 同步通讯录到 Mixin 发现更多好友 |     |
 | android, iOS, Desktop | Access_denied | Access denied | Akses ditolak | Akses dinafikan | 禁止访问 | アクセスが拒否されました |
 | android, iOS | access_your_bots_list | access your bots list | mengakses daftar aplikasi Anda | akses senarai aplikasi anda | 访问你的机器人列表 | 自分  |
 | android, iOS | access_your_circle_list | access your circle list |     | akses senarai lingkaran anda | 访问你的圈子列表 | リストへのアクセス |
