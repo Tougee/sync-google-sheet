@@ -488,8 +488,8 @@
   <string name="error_network_task_failed" platform="iOS, Desktop">ネットワーク接続に失敗しました。ネットワーク接続状態を確認した後にもう一度試してください。</string>
   <string name="error_not_found" platform="android, iOS, Desktop">エラー 404: 結果なし</string>
   <string name="error_not_supported_audio_format" platform="android, Desktop">サポートされていないオーディオ形式です。他のアプリで開いてください。</string>
-  <string name="error_number_reached_limit" platform="android, Desktop">エラー %1$d: 数が上限に達しています。</string>
-  <string name="error_old_version" platform="android, Desktop">エラー %1$d: このサービスを引き続き使用するには、Mixin(%2$s)をアップデートしてください。</string>
+  <string name="error_number_reached_limit" platform="android, Desktop">エラー 20132: 数が上限に達しています。</string>
+  <string name="error_old_version" platform="android, Desktop">エラー 10006: このサービスを引き続き使用するには、Mixin(%2$s)をアップデートしてください。</string>
   <string name="error_open_location" platform="android, Desktop">地図アプリがありません</string>
   <string name="error_permission" platform="android, Desktop">必要な権限を開いてください</string>
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">エラー %1$d: 電話番号が無効です</string>

@@ -493,8 +493,8 @@
   <string name="error_network_task_failed" platform="iOS, Desktop">网络连接失败。检查或切换网络，然后重试</string>
   <string name="error_not_found" platform="android, iOS, Desktop">错误 404：没有找到相应的信息</string>
   <string name="error_not_supported_audio_format" platform="android, Desktop">不支持的音频格式，请用其他app打开。</string>
-  <string name="error_number_reached_limit" platform="android, Desktop">错误 %1$d： 已达到上限</string>
-  <string name="error_old_version" platform="android, Desktop">错误 %1$d：请更新 Mixin（%2$s） 至最新版。</string>
+  <string name="error_number_reached_limit" platform="android, Desktop">错误 20132： 已达到上限</string>
+  <string name="error_old_version" platform="android, Desktop">错误 10006：请更新 Mixin（%2$s） 至最新版。</string>
   <string name="error_open_location" platform="android, Desktop">无法找到地图应用</string>
   <string name="error_permission" platform="android, Desktop">请开启相关权限</string>
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">错误 %1$d：手机号码不合法</string>

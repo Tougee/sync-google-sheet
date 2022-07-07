@@ -242,8 +242,8 @@
   <string name="error_invalid_pin_format" platform="android, Desktop">KESALAHAN 20118: Format PIN tidak valid</string>
   <string name="error_not_found" platform="android, iOS, Desktop">KESALAHAN 404: Tidak ditemukan</string>
   <string name="error_not_supported_audio_format" platform="android, Desktop">Tidak mendukung format audio, harap buka dengan aplikasi lain.</string>
-  <string name="error_number_reached_limit" platform="android, Desktop">KESALAHAN %1$d: Jumlahnya telah mencapai batas.</string>
-  <string name="error_old_version" platform="android, Desktop">KESALAHAN %1$d: Harap perbarui Mixin(%2$s) untuk terus menggunakan layanan.</string>
+  <string name="error_number_reached_limit" platform="android, Desktop">KESALAHAN 20132: Jumlahnya telah mencapai batas.</string>
+  <string name="error_old_version" platform="android, Desktop">KESALAHAN 10006: Harap perbarui Mixin(%2$s) untuk terus menggunakan layanan.</string>
   <string name="error_open_location" platform="android, Desktop">Tidak dapat menemukan aplikasi peta</string>
   <string name="error_permission" platform="android, Desktop">Harap buka izin yang diperlukan</string>
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">KESALAHAN %1$d: Nomor telepon tidak valid</string>

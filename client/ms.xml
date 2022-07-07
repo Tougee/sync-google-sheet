@@ -259,8 +259,8 @@
   <string name="error_invalid_pin_format" platform="android, Desktop">RALAT 20118: Format PIN tidak sah</string>
   <string name="error_not_found" platform="android, iOS, Desktop">RALAT 404: Tidak ditemui</string>
   <string name="error_not_supported_audio_format" platform="android, Desktop">Tidak disokong format audio, sila buka oleh aplikasi lain.</string>
-  <string name="error_number_reached_limit" platform="android, Desktop">RALAT %1$d: Angka telah mencapai had.</string>
-  <string name="error_old_version" platform="android, Desktop">RALAT %1$d: Sila kemas kini Mixin(%2$s) untuk terus menggunakan perkhidmatan ini.</string>
+  <string name="error_number_reached_limit" platform="android, Desktop">RALAT 20132: Angka telah mencapai had.</string>
+  <string name="error_old_version" platform="android, Desktop">RALAT 10006: Sila kemas kini Mixin(%2$s) untuk terus menggunakan perkhidmatan ini.</string>
   <string name="error_open_location" platform="android, Desktop">Tidak dapat mencari aplikasi peta</string>
   <string name="error_permission" platform="android, Desktop">Sila buka kebenaran yang diperlukan</string>
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">RALAT %1$d: Nombor telefon tidak sah</string>
