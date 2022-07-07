@@ -238,7 +238,7 @@
   <string name="error_insufficient_balance" platform="android, iOS, Desktop">KESALAHAN 20117: Saldo tidak cukup</string>
   <string name="error_invalid_address_plain" platform="android, iOS, Desktop">KESALAHAN 30102: Format alamat tidak valid.</string>
   <string name="error_invalid_code_too_frequent" platform="android, Desktop">KESALAHAN 20129: Terlalu sering mengirim kode verifikasi, coba lagi nanti.</string>
-  <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">KESALAHAN %1$d: Kontak darurat tidak valid</string>
+  <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">KESALAHAN 20130: Kontak darurat tidak valid</string>
   <string name="error_invalid_pin_format" platform="android, Desktop">KESALAHAN %1$d: Format PIN tidak valid</string>
   <string name="error_not_found" platform="android, iOS, Desktop">KESALAHAN %1$d: Tidak ditemukan</string>
   <string name="error_not_supported_audio_format" platform="android, Desktop">Tidak mendukung format audio, harap buka dengan aplikasi lain.</string>

@@ -487,7 +487,7 @@
   <string name="error_invalid_address" platform="android, Desktop">错误 30102：地址格式错误。请输入正确的 %2$s %3$s 的地址！</string>
   <string name="error_invalid_address_plain" platform="android, iOS, Desktop">错误 30102：地址格式错误。</string>
   <string name="error_invalid_code_too_frequent" platform="android, Desktop">错误 20129：发送验证码太频繁，请稍后再试</string>
-  <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">错误 %1$d：紧急联系人不正确</string>
+  <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">错误 20130：紧急联系人不正确</string>
   <string name="error_invalid_pin_format" platform="android, Desktop">错误 %1$d：PIN 格式不正确</string>
   <string name="error_memo_too_long" platform="android">Memo 字符超长，最多为 200</string>
   <string name="error_network_task_failed" platform="iOS, Desktop">网络连接失败。检查或切换网络，然后重试</string>
