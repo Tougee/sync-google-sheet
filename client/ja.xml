@@ -471,7 +471,7 @@
   <string name="error_address_exists" platform="android, Desktop">アドレスが存在しません。アドレスが正常に追加されていることを確認してください。</string>
   <string name="error_address_not_sync" platform="android, Desktop">アドレスの更新に失敗しました。もう一度やり直してください。</string>
   <string name="error_asset_exists" platform="Desktop">資産がありません</string>
-  <string name="error_authentication" platform="android, Desktop">エラー %1$d: サインインをして続ける</string>
+  <string name="error_authentication" platform="android, Desktop">エラー 401: サインインをして続ける</string>
   <string name="error_bad_data" platform="android, Desktop">エラー %1$d: リクエストデータが無効です</string>
   <string name="error_blockchain" platform="android, iOS, Desktop">エラー %1$d:ブロックチェーンが同期できていません。後程もう一度お試し下さい。</string>
   <string name="error_connection_timeout" platform="android, iOS, Desktop">ネットワーク接続がタイムアウトしました</string>
