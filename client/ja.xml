@@ -507,7 +507,7 @@
   <string name="error_too_many_request" platform="android, iOS, Desktop">エラー 429: レート制限を超過しています</string>
   <string name="error_too_many_stickers" platform="android, iOS, Desktop">エラー 20126: スタンプが多すぎます</string>
   <string name="error_too_small_transfer_amount" platform="android, iOS, Desktop">送金数量</string>
-  <string name="error_too_small_withdraw_amount" platform="android, iOS, Desktop">エラー %1$d: 出金額が小さすぎます</string>
+  <string name="error_too_small_withdraw_amount" platform="android, iOS, Desktop">エラー 20127: 出金額が小さすぎます</string>
   <string name="error_transcript_forward" platform="android, Desktop">添付ファイルはすべてダウンロード後、転送してください。</string>
   <string name="error_transfer_is_already_paid" platform="android, iOS">エラー </string>
   <string name="error_two_parts" platform="iOS">エラー %@: %@</string>

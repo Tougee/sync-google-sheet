@@ -521,7 +521,7 @@
 | android, iOS, Desktop | error_too_many_request | ERROR 429: Rate limit exceeded | KESALAHAN 429: Batas nilai terlampaui | RALAT 429: Had kadar melebihi | 错误 429：请求过于频繁 | エラー 429: レート制限を超過しています |
 | android, iOS, Desktop | error_too_many_stickers | ERROR 20126: Too many stickers | KESALAHAN 20126: Terlalu banyak stiker | RALAT 20126: Terlalu banyak pelekat | 错误 20126：贴纸数已达上限 | エラー 20126: スタンプが多すぎます |
 | android, iOS, Desktop | error_too_small_transfer_amount | ERROR 20120: Transfer amount is too small | KESALAHAN 20120: Jumlahnya terlalu kecil | RALAT 20120: Jumlahnya terlalu kecil | 错误 20120：转账金额太小 | 送金数量 |
-| android, iOS, Desktop | error_too_small_withdraw_amount | ERROR %1$d: Withdraw amount too small | KESALAHAN %1$d: Jumlah penarikan dana terlalu kecil | RALAT %1$d: Jumlah penarikan terlalu kecil | 错误 %1$d：提现金额太小 | エラー %1$d: 出金額が小さすぎます |
+| android, iOS, Desktop | error_too_small_withdraw_amount | ERROR 20127: Withdraw amount too small | KESALAHAN 20127: Jumlah penarikan dana terlalu kecil | RALAT 20127: Jumlah penarikan terlalu kecil | 错误 20127：提现金额太小 | エラー 20127: 出金額が小さすぎます |
 | android, Desktop | error_transcript_forward | Please forward all attachments after they have been downloaded |     |     | 请在所有附件下载完成之后再转发 | 添付ファイルはすべてダウンロード後、転送してください。 |
 | android, iOS | error_transfer_is_already_paid | ERROR %1$d: Transfer is already paid. |     |     | 错误 %1$d：转账已被支付 | エラー  |
 | iOS | error_two_parts | ERROR %@: %@ |     |     | 错误 %@：%@ | エラー %@: %@ |
