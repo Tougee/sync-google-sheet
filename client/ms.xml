@@ -251,7 +251,7 @@
   <string name="error_bad_data" platform="android, Desktop">RALAT 10002: Data permintaan mempunyai medan yang tidak sah</string>
   <string name="error_blockchain" platform="android, iOS, Desktop">RALAT 30100: Rantai blok tidak diselaraskan, sila cuba sebentar lagi.</string>
   <string name="error_connection_timeout" platform="android, iOS, Desktop">Tamat masa sambungan rangkaian</string>
-  <string name="error_full_group" platform="android, iOS, Desktop">RALAT %1$d: Kumpulan sembang penuh.</string>
+  <string name="error_full_group" platform="android, iOS, Desktop">RALAT 20116: Kumpulan sembang penuh.</string>
   <string name="error_insufficient_balance" platform="android, iOS, Desktop">RALAT %1$d: Baki tidak mencukupi</string>
   <string name="error_invalid_address_plain" platform="android, iOS, Desktop">RALAT %1$d: Format alamat tidak sah.</string>
   <string name="error_invalid_code_too_frequent" platform="android, Desktop">RALAT %1$d: Hantar kod pengesahan terlalu kerap, sila cuba sebentar lagi.</string>
