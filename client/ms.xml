@@ -254,7 +254,7 @@
   <string name="error_full_group" platform="android, iOS, Desktop">RALAT 20116: Kumpulan sembang penuh.</string>
   <string name="error_insufficient_balance" platform="android, iOS, Desktop">RALAT 20117: Baki tidak mencukupi</string>
   <string name="error_invalid_address_plain" platform="android, iOS, Desktop">RALAT 30102: Format alamat tidak sah.</string>
-  <string name="error_invalid_code_too_frequent" platform="android, Desktop">RALAT %1$d: Hantar kod pengesahan terlalu kerap, sila cuba sebentar lagi.</string>
+  <string name="error_invalid_code_too_frequent" platform="android, Desktop">RALAT 20129: Hantar kod pengesahan terlalu kerap, sila cuba sebentar lagi.</string>
   <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">RALAT %1$d: Kenalan kecemasan tidak sah</string>
   <string name="error_invalid_pin_format" platform="android, Desktop">RALAT %1$d: Format PIN tidak sah</string>
   <string name="error_not_found" platform="android, iOS, Desktop">RALAT %1$d: Tidak ditemui</string>
