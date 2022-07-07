@@ -497,7 +497,7 @@
 | android, iOS, Desktop | error_invalid_address_plain | ERROR 30102: Invalid address format. | KESALAHAN 30102: Format alamat tidak valid. | RALAT 30102: Format alamat tidak sah. | 错误 30102：地址格式错误。 | エラー30102：無効なアドレス形式です。 |
 | android, Desktop | error_invalid_code_too_frequent | ERROR 20129: Send verification code too frequent, please try again later. | KESALAHAN 20129: Terlalu sering mengirim kode verifikasi, coba lagi nanti. | RALAT 20129: Hantar kod pengesahan terlalu kerap, sila cuba sebentar lagi. | 错误 20129：发送验证码太频繁，请稍后再试 | エラー 20129: 認証コードを送信する頻度が多すぎます。しばらくしてからもう一度お試しください。 |
 | android, iOS, Desktop | error_invalid_emergency_contact | ERROR 20130: Invalid emergency contact | KESALAHAN 20130: Kontak darurat tidak valid | RALAT 20130: Kenalan kecemasan tidak sah | 错误 20130：紧急联系人不正确 | エラー 20130: 緊急連絡先が無効です |
-| android, Desktop | error_invalid_pin_format | ERROR %1$d: Invalid PIN format.  | KESALAHAN %1$d: Format PIN tidak valid | RALAT %1$d: Format PIN tidak sah | 错误 %1$d：PIN 格式不正确 | エラー %1$d: 無効なPINフォーマットです |
+| android, Desktop | error_invalid_pin_format | ERROR 20118: Invalid PIN format.  | KESALAHAN 20118: Format PIN tidak valid | RALAT 20118: Format PIN tidak sah | 错误 20118：PIN 格式不正确 | エラー 20118: 無効なPINフォーマットです |
 | android | error_memo_too_long | Memo has too many characters, maximum is 200 |     |     | Memo 字符超长，最多为 200 | メモの上限文字数は200文字です |
 | iOS, Desktop | error_network_task_failed | Network connection failed. Check or switch your network and try again |     |     | 网络连接失败。检查或切换网络，然后重试 | ネットワーク接続に失敗しました。ネットワーク接続状態を確認した後にもう一度試してください。 |
 | android, iOS, Desktop | error_not_found | ERROR %1$d: Not found | KESALAHAN %1$d: Tidak ditemukan | RALAT %1$d: Tidak ditemui | 错误 %1$d：没有找到相应的信息 | エラー %1$d: 結果なし |
