@@ -514,7 +514,7 @@
   <string name="error_too_small_transfer_amount" platform="android, iOS, Desktop">错误 20120：转账金额太小</string>
   <string name="error_too_small_withdraw_amount" platform="android, iOS, Desktop">错误 20127：提现金额太小</string>
   <string name="error_transcript_forward" platform="android, Desktop">请在所有附件下载完成之后再转发</string>
-  <string name="error_transfer_is_already_paid" platform="android, iOS">错误 %1$d：转账已被支付</string>
+  <string name="error_transfer_is_already_paid" platform="android, iOS">错误 20125：转账已被支付</string>
   <string name="error_two_parts" platform="iOS">错误 %@：%@</string>
   <string name="error_unable_to_open_link" platform="android">未找到能打开该链接的应用\n%1$s</string>
   <string name="error_unable_to_open_media" platform="android, Desktop">无法找到能打开该媒体的应用</string>

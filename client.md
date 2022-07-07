@@ -523,7 +523,7 @@
 | android, iOS, Desktop | error_too_small_transfer_amount | ERROR 20120: Transfer amount is too small | KESALAHAN 20120: Jumlahnya terlalu kecil | RALAT 20120: Jumlahnya terlalu kecil | 错误 20120：转账金额太小 | 送金数量 |
 | android, iOS, Desktop | error_too_small_withdraw_amount | ERROR 20127: Withdraw amount too small | KESALAHAN 20127: Jumlah penarikan dana terlalu kecil | RALAT 20127: Jumlah penarikan terlalu kecil | 错误 20127：提现金额太小 | エラー 20127: 出金額が小さすぎます |
 | android, Desktop | error_transcript_forward | Please forward all attachments after they have been downloaded |     |     | 请在所有附件下载完成之后再转发 | 添付ファイルはすべてダウンロード後、転送してください。 |
-| android, iOS | error_transfer_is_already_paid | ERROR %1$d: Transfer is already paid. |     |     | 错误 %1$d：转账已被支付 | エラー  |
+| android, iOS | error_transfer_is_already_paid | ERROR 20125: Transfer is already paid. |     |     | 错误 20125：转账已被支付 | エラー  |
 | iOS | error_two_parts | ERROR %@: %@ |     |     | 错误 %@：%@ | エラー %@: %@ |
 | android | error_unable_to_open_link | Can't find an app able to open this link.\n%1$s |     |     | 未找到能打开该链接的应用\n%1$s | リンクを開く:%1$s |
 | android, Desktop | error_unable_to_open_media | Can't find an app able to open this media. | Tidak dapat menemukan aplikasi yang dapat membuka media ini. | Tidak dapat mencari aplikasi yang dapat buka media ini. | 无法找到能打开该媒体的应用 | メディアを開くことができるアプリがありません |
