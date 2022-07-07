@@ -236,7 +236,7 @@
   <string name="error_connection_timeout" platform="android, iOS, Desktop">Batas waktu sambungan jaringan</string>
   <string name="error_full_group" platform="android, iOS, Desktop">KESALAHAN 20116: Obrolan grup sudah penuh.</string>
   <string name="error_insufficient_balance" platform="android, iOS, Desktop">KESALAHAN 20117: Saldo tidak cukup</string>
-  <string name="error_invalid_address_plain" platform="android, iOS, Desktop">KESALAHAN %1$d: Format alamat tidak valid.</string>
+  <string name="error_invalid_address_plain" platform="android, iOS, Desktop">KESALAHAN 30102: Format alamat tidak valid.</string>
   <string name="error_invalid_code_too_frequent" platform="android, Desktop">KESALAHAN %1$d: Terlalu sering mengirim kode verifikasi, coba lagi nanti.</string>
   <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">KESALAHAN %1$d: Kontak darurat tidak valid</string>
   <string name="error_invalid_pin_format" platform="android, Desktop">KESALAHAN %1$d: Format PIN tidak valid</string>
