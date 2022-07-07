@@ -500,12 +500,12 @@
   <string name="error_pin_incorrect" platform="android, iOS, Desktop">PINが違います</string>
   <string name="error_pin_incorrect_with_times" platform="android, iOS, Desktop">エラー 20119: PINが間違っています。あと%2$d回入力可能です。24時間後に再試行してください。</string>
   <string name="error_pin_incorrect_with_times.count" platform="android, iOS, Desktop">エラー20119: PINが間違っています。あと%2$d回入力可能です。24時間後に再試行してください。</string>
-  <string name="error_recaptcha_is_invalid" platform="android, iOS, Desktop">エラー %1$d: Recaptchaが無効です</string>
+  <string name="error_recaptcha_is_invalid" platform="android, iOS, Desktop">エラー 10004: Recaptchaが無効です</string>
   <string name="error_requires_captcha" platform="iOS">Captcha認証が必要です</string>
   <string name="error_server_5xx_code" platform="android, Desktop">サーバーメンテナンス中: %1$d</string>
-  <string name="error_too_many_friends" platform="android, iOS">エラー%1$d: 友だちが多すぎます</string>
-  <string name="error_too_many_request" platform="android, iOS, Desktop">エラー %1$d: レート制限を超過しています</string>
-  <string name="error_too_many_stickers" platform="android, iOS, Desktop">エラー %1$d: スタンプが多すぎます</string>
+  <string name="error_too_many_friends" platform="android, iOS">エラー20128: 友だちが多すぎます</string>
+  <string name="error_too_many_request" platform="android, iOS, Desktop">エラー 429: レート制限を超過しています</string>
+  <string name="error_too_many_stickers" platform="android, iOS, Desktop">エラー 20126: スタンプが多すぎます</string>
   <string name="error_too_small_transfer_amount" platform="android, iOS, Desktop">送金数量</string>
   <string name="error_too_small_withdraw_amount" platform="android, iOS, Desktop">エラー %1$d: 出金額が小さすぎます</string>
   <string name="error_transcript_forward" platform="android, Desktop">添付ファイルはすべてダウンロード後、転送してください。</string>

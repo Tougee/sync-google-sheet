@@ -514,12 +514,12 @@
 | android, iOS, Desktop | error_pin_incorrect | ERROR 20119: PIN incorrect | KESALAHAN 20119: PIN salah | RALAT 20119: PIN tidak betul | 错误 20119：PIN 不正确 | PINが違います |
 | android, iOS, Desktop | error_pin_incorrect_with_times | ERROR 20119: PIN incorrect. You still have %2$d chance. Please wait for 24 hours to retry later. |     |     | 错误 20119：PIN 不正确。你还有 %2$d 次机会，使用完需等待 24 小时后再次尝试。 | エラー 20119: PINが間違っています。あと%2$d回入力可能です。24時間後に再試行してください。 |
 | android, iOS, Desktop | error_pin_incorrect_with_times.count | ERROR 20119: PIN incorrect. You still have %2$d chances. Please wait for 24 hours to retry later. | KESALAHAN 20119: PIN salah. Anda masih memiliki %2$d kesempatan. Harap tunggu 24 jam untuk mencoba lagi nanti. | RALAT 20119: PIN tidak betul. Anda masih mempunyai %2$d peluang. Sila tunggu selama 24 jam untuk cuba lagi kemudian. | 错误 20119：PIN 不正确。你还有 %2$d 次机会，使用完需等待 24 小时后再次尝试。 | エラー20119: PINが間違っています。あと%2$d回入力可能です。24時間後に再試行してください。 |
-| android, iOS, Desktop | error_recaptcha_is_invalid | ERROR %1$d: Recaptcha is invalid | KESALAHAN %1$d: Recaptcha tidak valid | RALAT %1$d: Recaptcha tidak sah | 错误 %1$d：验证失败 | エラー %1$d: Recaptchaが無効です |
+| android, iOS, Desktop | error_recaptcha_is_invalid | ERROR 10004: Recaptcha is invalid | KESALAHAN 10004: Recaptcha tidak valid | RALAT 10004: Recaptcha tidak sah | 错误 10004：验证失败 | エラー 10004: Recaptchaが無効です |
 | iOS | error_requires_captcha | Captcha is required. |     |     | 需要验证码。 | Captcha認証が必要です |
 | android, Desktop | error_server_5xx_code | Server is under maintenance: %1$d | Server sedang dalam pemeliharaan: %1$d | Pelayan sedang dalam penyelenggaraan: %1$d | 服务器出错，请稍后重试：%1$d | サーバーメンテナンス中: %1$d |
-| android, iOS | error_too_many_friends | ERROR %1$d: Too many friends |     |     | 错误 %1$d：好友数已达上限 | エラー%1$d: 友だちが多すぎます |
-| android, iOS, Desktop | error_too_many_request | ERROR %1$d: Rate limit exceeded | KESALAHAN %1$d: Batas nilai terlampaui | RALAT %1$d: Had kadar melebihi | 错误 %1$d：请求过于频繁 | エラー %1$d: レート制限を超過しています |
-| android, iOS, Desktop | error_too_many_stickers | ERROR %1$d: Too many stickers | KESALAHAN %1$d: Terlalu banyak stiker | RALAT %1$d: Terlalu banyak pelekat | 错误 %1$d：贴纸数已达上限 | エラー %1$d: スタンプが多すぎます |
+| android, iOS | error_too_many_friends | ERROR 20128: Too many friends |     |     | 错误 20128：好友数已达上限 | エラー20128: 友だちが多すぎます |
+| android, iOS, Desktop | error_too_many_request | ERROR 429: Rate limit exceeded | KESALAHAN 429: Batas nilai terlampaui | RALAT 429: Had kadar melebihi | 错误 429：请求过于频繁 | エラー 429: レート制限を超過しています |
+| android, iOS, Desktop | error_too_many_stickers | ERROR 20126: Too many stickers | KESALAHAN 20126: Terlalu banyak stiker | RALAT 20126: Terlalu banyak pelekat | 错误 20126：贴纸数已达上限 | エラー 20126: スタンプが多すぎます |
 | android, iOS, Desktop | error_too_small_transfer_amount | ERROR %1$d: Transfer amount is too small | KESALAHAN %1$d: Jumlahnya terlalu kecil | RALAT %1$d: Jumlahnya terlalu kecil | 错误 %1$d：转账金额太小 | 送金数量 |
 | android, iOS, Desktop | error_too_small_withdraw_amount | ERROR %1$d: Withdraw amount too small | KESALAHAN %1$d: Jumlah penarikan dana terlalu kecil | RALAT %1$d: Jumlah penarikan terlalu kecil | 错误 %1$d：提现金额太小 | エラー %1$d: 出金額が小さすぎます |
 | android, Desktop | error_transcript_forward | Please forward all attachments after they have been downloaded |     |     | 请在所有附件下载完成之后再转发 | 添付ファイルはすべてダウンロード後、転送してください。 |

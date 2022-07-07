@@ -513,12 +513,12 @@
   <string name="error_pin_incorrect" platform="android, iOS, Desktop">ERROR 20119: PIN incorrect</string>
   <string name="error_pin_incorrect_with_times" platform="android, iOS, Desktop">ERROR 20119: PIN incorrect. You still have %2$d chance. Please wait for 24 hours to retry later.</string>
   <string name="error_pin_incorrect_with_times.count" platform="android, iOS, Desktop">ERROR 20119: PIN incorrect. You still have %2$d chances. Please wait for 24 hours to retry later.</string>
-  <string name="error_recaptcha_is_invalid" platform="android, iOS, Desktop">ERROR %1$d: Recaptcha is invalid</string>
+  <string name="error_recaptcha_is_invalid" platform="android, iOS, Desktop">ERROR 10004: Recaptcha is invalid</string>
   <string name="error_requires_captcha" platform="iOS">Captcha is required.</string>
   <string name="error_server_5xx_code" platform="android, Desktop">Server is under maintenance: %1$d</string>
-  <string name="error_too_many_friends" platform="android, iOS">ERROR %1$d: Too many friends</string>
-  <string name="error_too_many_request" platform="android, iOS, Desktop">ERROR %1$d: Rate limit exceeded</string>
-  <string name="error_too_many_stickers" platform="android, iOS, Desktop">ERROR %1$d: Too many stickers</string>
+  <string name="error_too_many_friends" platform="android, iOS">ERROR 20128: Too many friends</string>
+  <string name="error_too_many_request" platform="android, iOS, Desktop">ERROR 429: Rate limit exceeded</string>
+  <string name="error_too_many_stickers" platform="android, iOS, Desktop">ERROR 20126: Too many stickers</string>
   <string name="error_too_small_transfer_amount" platform="android, iOS, Desktop">ERROR %1$d: Transfer amount is too small</string>
   <string name="error_too_small_withdraw_amount" platform="android, iOS, Desktop">ERROR %1$d: Withdraw amount too small</string>
   <string name="error_transcript_forward" platform="android, Desktop">Please forward all attachments after they have been downloaded</string>
