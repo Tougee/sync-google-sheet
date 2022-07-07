@@ -515,7 +515,7 @@
   <string name="error_unable_to_open_media" platform="android, Desktop">メディアを開くことができるアプリがありません</string>
   <string name="error_unknown_with_code" platform="android, Desktop">エラー: %1$d</string>
   <string name="error_unknown_with_message" platform="android, Desktop">エラー: %1$s</string>
-  <string name="error_used_phone" platform="android, iOS, Desktop">エラー%1$d：携帯が第三者によって利用されています。</string>
+  <string name="error_used_phone" platform="android, iOS, Desktop">エラー20122：携帯が第三者によって利用されています。</string>
   <string name="error_user_invalid_format" platform="android, Desktop">ユーザーIDが無効です</string>
   <string name="error_withdrawal_memo_format_incorrect" platform="android, iOS, Desktop">メモ</string>
   <string name="Everybody" platform="android, iOS">全員</string>

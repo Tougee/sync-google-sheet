@@ -528,7 +528,7 @@
   <string name="error_unable_to_open_media" platform="android, Desktop">Can't find an app able to open this media.</string>
   <string name="error_unknown_with_code" platform="android, Desktop">ERROR: %1$d</string>
   <string name="error_unknown_with_message" platform="android, Desktop">ERROR: %1$s</string>
-  <string name="error_used_phone" platform="android, iOS, Desktop">ERROR %1$d: This phone number is already associated with another account.</string>
+  <string name="error_used_phone" platform="android, iOS, Desktop">ERROR 20122: This phone number is already associated with another account.</string>
   <string name="error_user_invalid_format" platform="android, Desktop">Invalid user id</string>
   <string name="error_withdrawal_memo_format_incorrect" platform="android, iOS, Desktop">ERROR %1$d: Withdrawal memo format incorrect.</string>
   <string name="Everybody" platform="android, iOS">Everybody</string>
