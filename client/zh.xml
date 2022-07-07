@@ -511,7 +511,7 @@
   <string name="error_too_many_friends" platform="android, iOS">错误 20128：好友数已达上限</string>
   <string name="error_too_many_request" platform="android, iOS, Desktop">错误 429：请求过于频繁</string>
   <string name="error_too_many_stickers" platform="android, iOS, Desktop">错误 20126：贴纸数已达上限</string>
-  <string name="error_too_small_transfer_amount" platform="android, iOS, Desktop">错误 %1$d：转账金额太小</string>
+  <string name="error_too_small_transfer_amount" platform="android, iOS, Desktop">错误 20120：转账金额太小</string>
   <string name="error_too_small_withdraw_amount" platform="android, iOS, Desktop">错误 %1$d：提现金额太小</string>
   <string name="error_transcript_forward" platform="android, Desktop">请在所有附件下载完成之后再转发</string>
   <string name="error_transfer_is_already_paid" platform="android, iOS">错误 %1$d：转账已被支付</string>
