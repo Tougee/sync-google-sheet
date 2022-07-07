@@ -498,7 +498,7 @@
   <string name="error_open_location" platform="android, Desktop">无法找到地图应用</string>
   <string name="error_permission" platform="android, Desktop">请开启相关权限</string>
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">错误 20110：手机号码不合法</string>
-  <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">错误 %1$d：发送短信失败</string>
+  <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">错误 10003：发送短信失败</string>
   <string name="error_phone_verification_code_expired" platform="android, iOS, Desktop">错误 %1$d：验证码已过期</string>
   <string name="error_phone_verification_code_invalid" platform="android, iOS, Desktop">错误 %1$d：验证码错误</string>
   <string name="error_pin_check_too_many_request" platform="android, iOS, Desktop">你已经尝试了超过 5 次，请等待 24 小时后再次尝试。</string>
