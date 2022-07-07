@@ -485,7 +485,7 @@
   <string name="error_address_not_sync" platform="android, Desktop">Address refresh failed, please try again</string>
   <string name="error_asset_exists" platform="Desktop">Asset does not exist</string>
   <string name="error_authentication" platform="android, Desktop">ERROR 401: Sign in to continue</string>
-  <string name="error_bad_data" platform="android, Desktop">ERROR %1$d: The request data has invalid field</string>
+  <string name="error_bad_data" platform="android, Desktop">ERROR 10002: The request data has invalid field</string>
   <string name="error_blockchain" platform="android, iOS, Desktop">ERROR %1$d: Blockchain not in sync, please try again later.</string>
   <string name="error_connection_timeout" platform="android, iOS, Desktop">Network connection timeout, please try again</string>
   <string name="error_full_group" platform="android, iOS, Desktop">ERROR %1$d: The group chat is full.</string>
