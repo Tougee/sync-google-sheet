@@ -473,7 +473,7 @@
   <string name="error_asset_exists" platform="Desktop">資産がありません</string>
   <string name="error_authentication" platform="android, Desktop">エラー 401: サインインをして続ける</string>
   <string name="error_bad_data" platform="android, Desktop">エラー 10002: リクエストデータが無効です</string>
-  <string name="error_blockchain" platform="android, iOS, Desktop">エラー %1$d:ブロックチェーンが同期できていません。後程もう一度お試し下さい。</string>
+  <string name="error_blockchain" platform="android, iOS, Desktop">エラー 30100:ブロックチェーンが同期できていません。後程もう一度お試し下さい。</string>
   <string name="error_connection_timeout" platform="android, iOS, Desktop">ネットワーク接続がタイムアウトしました</string>
   <string name="error_full_group" platform="android, iOS, Desktop">エラー %1$d: グループチャットが満員です</string>
   <string name="error_insufficient_balance" platform="android, iOS, Desktop">エラー %1$d: 残高が不足しています</string>

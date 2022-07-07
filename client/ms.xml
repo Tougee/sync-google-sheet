@@ -249,7 +249,7 @@
   <string name="EOS_contract_address" platform="android">alamat kontrak EOS</string>
   <string name="error_authentication" platform="android, Desktop">RALAT 401: Log masuk untuk meneruskan</string>
   <string name="error_bad_data" platform="android, Desktop">RALAT 10002: Data permintaan mempunyai medan yang tidak sah</string>
-  <string name="error_blockchain" platform="android, iOS, Desktop">RALAT %1$d: Rantai blok tidak diselaraskan, sila cuba sebentar lagi.</string>
+  <string name="error_blockchain" platform="android, iOS, Desktop">RALAT 30100: Rantai blok tidak diselaraskan, sila cuba sebentar lagi.</string>
   <string name="error_connection_timeout" platform="android, iOS, Desktop">Tamat masa sambungan rangkaian</string>
   <string name="error_full_group" platform="android, iOS, Desktop">RALAT %1$d: Kumpulan sembang penuh.</string>
   <string name="error_insufficient_balance" platform="android, iOS, Desktop">RALAT %1$d: Baki tidak mencukupi</string>

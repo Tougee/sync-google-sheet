@@ -487,7 +487,7 @@
 | Desktop | error_asset_exists | Asset does not exist |     |     | 没有相关资产 | 資産がありません |
 | android, Desktop | error_authentication | ERROR 401: Sign in to continue | KESALAHAN 401: Masuk untuk melanjutkan | RALAT 401: Log masuk untuk meneruskan | 错误 401：请重新登录 | エラー 401: サインインをして続ける |
 | android, Desktop | error_bad_data | ERROR 10002: The request data has invalid field | KESALAHAN 10002: Data permintaan memiliki bidang yang tidak valid | RALAT 10002: Data permintaan mempunyai medan yang tidak sah | 错误 10002：请求数据不合法 | エラー 10002: リクエストデータが無効です |
-| android, iOS, Desktop | error_blockchain | ERROR %1$d: Blockchain not in sync, please try again later. | KESALAHAN %1$d: Blockchain tidak sinkron, coba lagi nanti. | RALAT %1$d: Rantai blok tidak diselaraskan, sila cuba sebentar lagi. | 错误 %1$d：区块链同步异常，请稍后重试 | エラー %1$d:ブロックチェーンが同期できていません。後程もう一度お試し下さい。 |
+| android, iOS, Desktop | error_blockchain | ERROR 30100: Blockchain not in sync, please try again later. | KESALAHAN 30100: Blockchain tidak sinkron, coba lagi nanti. | RALAT 30100: Rantai blok tidak diselaraskan, sila cuba sebentar lagi. | 错误 30100：区块链同步异常，请稍后重试 | エラー 30100:ブロックチェーンが同期できていません。後程もう一度お試し下さい。 |
 | android, iOS, Desktop | error_connection_timeout | Network connection timeout, please try again | Batas waktu sambungan jaringan | Tamat masa sambungan rangkaian | 网络连接超时 | ネットワーク接続がタイムアウトしました |
 | android, iOS, Desktop | error_full_group | ERROR %1$d: The group chat is full. | KESALAHAN %1$d: Obrolan grup sudah penuh. | RALAT %1$d: Kumpulan sembang penuh. | 错误 %1$d：群组已满 | エラー %1$d: グループチャットが満員です |
 | android, iOS, Desktop | error_insufficient_balance | ERROR %1$d: Insufficient balance | KESALAHAN %1$d: Saldo tidak cukup | RALAT %1$d: Baki tidak mencukupi | 错误 %1$d：余额不足 | エラー %1$d: 残高が不足しています |
