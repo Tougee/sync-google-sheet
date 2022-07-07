@@ -500,7 +500,7 @@
 | android, Desktop | error_invalid_pin_format | ERROR 20118: Invalid PIN format.  | KESALAHAN 20118: Format PIN tidak valid | RALAT 20118: Format PIN tidak sah | 错误 20118：PIN 格式不正确 | エラー 20118: 無効なPINフォーマットです |
 | android | error_memo_too_long | Memo has too many characters, maximum is 200 |     |     | Memo 字符超长，最多为 200 | メモの上限文字数は200文字です |
 | iOS, Desktop | error_network_task_failed | Network connection failed. Check or switch your network and try again |     |     | 网络连接失败。检查或切换网络，然后重试 | ネットワーク接続に失敗しました。ネットワーク接続状態を確認した後にもう一度試してください。 |
-| android, iOS, Desktop | error_not_found | ERROR %1$d: Not found | KESALAHAN %1$d: Tidak ditemukan | RALAT %1$d: Tidak ditemui | 错误 %1$d：没有找到相应的信息 | エラー %1$d: 結果なし |
+| android, iOS, Desktop | error_not_found | ERROR 404: Not found | KESALAHAN 404: Tidak ditemukan | RALAT 404: Tidak ditemui | 错误 404：没有找到相应的信息 | エラー 404: 結果なし |
 | android, Desktop | error_not_supported_audio_format | Not supported audio format, please open by other app. | Tidak mendukung format audio, harap buka dengan aplikasi lain. | Tidak disokong format audio, sila buka oleh aplikasi lain. | 不支持的音频格式，请用其他app打开。 | サポートされていないオーディオ形式です。他のアプリで開いてください。 |
 | android, Desktop | error_number_reached_limit | ERROR %1$d: The number has reached the limit. | KESALAHAN %1$d: Jumlahnya telah mencapai batas. | RALAT %1$d: Angka telah mencapai had. | 错误 %1$d： 已达到上限 | エラー %1$d: 数が上限に達しています。 |
 | android, Desktop | error_old_version | ERROR %1$d: Please update Mixin(%2$s) to continue use the service. | KESALAHAN %1$d: Harap perbarui Mixin(%2$s) untuk terus menggunakan layanan. | RALAT %1$d: Sila kemas kini Mixin(%2$s) untuk terus menggunakan perkhidmatan ini. | 错误 %1$d：请更新 Mixin（%2$s） 至最新版。 | エラー %1$d: このサービスを引き続き使用するには、Mixin(%2$s)をアップデートしてください。 |
