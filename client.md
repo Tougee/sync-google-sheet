@@ -490,7 +490,7 @@
 | android, iOS, Desktop | error_blockchain | ERROR 30100: Blockchain not in sync, please try again later. | KESALAHAN 30100: Blockchain tidak sinkron, coba lagi nanti. | RALAT 30100: Rantai blok tidak diselaraskan, sila cuba sebentar lagi. | 错误 30100：区块链同步异常，请稍后重试 | エラー 30100:ブロックチェーンが同期できていません。後程もう一度お試し下さい。 |
 | android, iOS, Desktop | error_connection_timeout | Network connection timeout, please try again | Batas waktu sambungan jaringan | Tamat masa sambungan rangkaian | 网络连接超时 | ネットワーク接続がタイムアウトしました |
 | android, iOS, Desktop | error_full_group | ERROR 20116: The group chat is full. | KESALAHAN 20116: Obrolan grup sudah penuh. | RALAT 20116: Kumpulan sembang penuh. | 错误 20116：群组已满 | エラー 20116: グループチャットが満員です |
-| android, iOS, Desktop | error_insufficient_balance | ERROR %1$d: Insufficient balance | KESALAHAN %1$d: Saldo tidak cukup | RALAT %1$d: Baki tidak mencukupi | 错误 %1$d：余额不足 | エラー %1$d: 残高が不足しています |
+| android, iOS, Desktop | error_insufficient_balance | ERROR 20117: Insufficient balance | KESALAHAN 20117: Saldo tidak cukup | RALAT 20117: Baki tidak mencukupi | 错误 20117：余额不足 | エラー 20117: 残高が不足しています |
 | android, iOS, Desktop | error_insufficient_transaction_fee_with_amount | ERROR %1$d: Insufficient transaction fee. Please make sure your wallet has %2$s as fee |     |     | 错误 %1$d：手续费不足。请确保钱包至少有 %2$s 当作手续费。 | トランザクション手数料が不足しています |
 | iOS | error_internal_with_msg | Internal error: %@ |     |     | 内部错误：%@ | 内部エラー: %@ |
 | android, Desktop | error_invalid_address | ERROR %1$d: Invalid address format. Please enter the correct %2$s %3$s address! |     |     | 错误 %1$d：地址格式错误。请输入正确的 %2$s %3$s 的地址！ | エラー%1$d：無効なアドレス形式です。正しい%2$s %3$s アドレスを入力してください。 |
