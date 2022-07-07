@@ -502,8 +502,8 @@
   <string name="error_phone_verification_code_expired" platform="android, iOS, Desktop">错误 20114：验证码已过期</string>
   <string name="error_phone_verification_code_invalid" platform="android, iOS, Desktop">错误 20113：验证码错误</string>
   <string name="error_pin_check_too_many_request" platform="android, iOS, Desktop">你已经尝试了超过 5 次，请等待 24 小时后再次尝试。</string>
-  <string name="error_pin_incorrect" platform="android, iOS, Desktop">错误 %1$d：PIN 不正确</string>
-  <string name="error_pin_incorrect_with_times" platform="android, iOS, Desktop">错误 %1$d：PIN 不正确。你还有 %2$d 次机会，使用完需等待 24 小时后再次尝试。</string>
+  <string name="error_pin_incorrect" platform="android, iOS, Desktop">错误 20119：PIN 不正确</string>
+  <string name="error_pin_incorrect_with_times" platform="android, iOS, Desktop">错误 20119：PIN 不正确。你还有 %2$d 次机会，使用完需等待 24 小时后再次尝试。</string>
   <string name="error_pin_incorrect_with_times.count" platform="android, iOS, Desktop">错误 %1$d：PIN 不正确。你还有 %2$d 次机会，使用完需等待 24 小时后再次尝试。</string>
   <string name="error_recaptcha_is_invalid" platform="android, iOS, Desktop">错误 %1$d：验证失败</string>
   <string name="error_requires_captcha" platform="iOS">需要验证码。</string>

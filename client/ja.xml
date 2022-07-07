@@ -498,7 +498,7 @@
   <string name="error_phone_verification_code_invalid" platform="android, iOS, Desktop">エラー 20113: 電話番号認証コードが無効です</string>
   <string name="error_pin_check_too_many_request" platform="android, iOS, Desktop">入力ミスが5回に達したため一時的にロックします。24時間後にもう一度試してください。</string>
   <string name="error_pin_incorrect" platform="android, iOS, Desktop">PINが違います</string>
-  <string name="error_pin_incorrect_with_times" platform="android, iOS, Desktop">エラー %1$d: PINが間違っています。あと%2$d回入力可能です。24時間後に再試行してください。</string>
+  <string name="error_pin_incorrect_with_times" platform="android, iOS, Desktop">エラー 20119: PINが間違っています。あと%2$d回入力可能です。24時間後に再試行してください。</string>
   <string name="error_pin_incorrect_with_times.count" platform="android, iOS, Desktop">エラー%1$d: PINが間違っています。あと%2$d回入力可能です。24時間後に再試行してください。</string>
   <string name="error_recaptcha_is_invalid" platform="android, iOS, Desktop">エラー %1$d: Recaptchaが無効です</string>
   <string name="error_requires_captcha" platform="iOS">Captcha認証が必要です</string>
