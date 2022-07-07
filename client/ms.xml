@@ -247,7 +247,7 @@
   <string name="Enter_your_phone_number" platform="android, iOS, Desktop">Masukkan nombor telefon bimbit anda</string>
   <string name="Enter_your_PIN" platform="android, iOS">Masukkan PIN anda</string>
   <string name="EOS_contract_address" platform="android">alamat kontrak EOS</string>
-  <string name="error_authentication" platform="android, Desktop">RALAT %1$d: Log masuk untuk meneruskan</string>
+  <string name="error_authentication" platform="android, Desktop">RALAT 401: Log masuk untuk meneruskan</string>
   <string name="error_bad_data" platform="android, Desktop">RALAT %1$d: Data permintaan mempunyai medan yang tidak sah</string>
   <string name="error_blockchain" platform="android, iOS, Desktop">RALAT %1$d: Rantai blok tidak diselaraskan, sila cuba sebentar lagi.</string>
   <string name="error_connection_timeout" platform="android, iOS, Desktop">Tamat masa sambungan rangkaian</string>

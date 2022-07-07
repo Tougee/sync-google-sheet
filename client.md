@@ -485,7 +485,7 @@
 | android, Desktop | error_address_exists | The address does not exist, please make sure that the address is added successfully |     |     | 地址不存在，请确保地址是否添加成功 | アドレスが存在しません。アドレスが正常に追加されていることを確認してください。 |
 | android, Desktop | error_address_not_sync | Address refresh failed, please try again |     |     | 地址刷新失败，请重试 | アドレスの更新に失敗しました。もう一度やり直してください。 |
 | Desktop | error_asset_exists | Asset does not exist |     |     | 没有相关资产 | 資産がありません |
-| android, Desktop | error_authentication | ERROR %1$d: Sign in to continue | KESALAHAN %1$d: Masuk untuk melanjutkan | RALAT %1$d: Log masuk untuk meneruskan | 错误 %1$d：请重新登录 | エラー %1$d: サインインをして続ける |
+| android, Desktop | error_authentication | ERROR 401: Sign in to continue | KESALAHAN 401: Masuk untuk melanjutkan | RALAT 401: Log masuk untuk meneruskan | 错误 401：请重新登录 | エラー %1$d: サインインをして続ける |
 | android, Desktop | error_bad_data | ERROR %1$d: The request data has invalid field | KESALAHAN %1$d: Data permintaan memiliki bidang yang tidak valid | RALAT %1$d: Data permintaan mempunyai medan yang tidak sah | 错误 %1$d：请求数据不合法 | エラー %1$d: リクエストデータが無効です |
 | android, iOS, Desktop | error_blockchain | ERROR %1$d: Blockchain not in sync, please try again later. | KESALAHAN %1$d: Blockchain tidak sinkron, coba lagi nanti. | RALAT %1$d: Rantai blok tidak diselaraskan, sila cuba sebentar lagi. | 错误 %1$d：区块链同步异常，请稍后重试 | エラー %1$d:ブロックチェーンが同期できていません。後程もう一度お試し下さい。 |
 | android, iOS, Desktop | error_connection_timeout | Network connection timeout, please try again | Batas waktu sambungan jaringan | Tamat masa sambungan rangkaian | 网络连接超时 | ネットワーク接続がタイムアウトしました |
