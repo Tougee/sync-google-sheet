@@ -380,7 +380,8 @@
 | android | Decline | Decline | Tolak | Tolak | 挂断  | 拒否  |
 | android, iOS | Declined | Declined | Ditolak | Menolak | 已拒绝 |     |
 | android | deep_clean | Deep clean |     |     | 深度清理 |     |
-| android | deep_cleaning |     |     |     |     |     |
+| android | deep_cleaning | Cleaning up... |     |     | 正在清理... |     |
+| android | deep_cleaning_deleted | Cleaning up, %1$s deleted |     |     | 正在清理，已删除 %1$s |     |
 | android | default_time | 00:00 | 00:00 | 00:00 |     |     |
 | android, iOS, Desktop | Delete | Delete |     |     | 删除  | 削除  |
 | iOS | delete_account_detail_hint | Local messages and iCloud Backups will not be deleted automatically |     |     | 本地消息和 iCloud 备份不会被自动删除 | ローカルメッセージとiCloudにバックアップされた内容は削除されません |

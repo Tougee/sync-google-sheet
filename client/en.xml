@@ -379,6 +379,8 @@
   <string name="Decline" platform="android">Decline</string>
   <string name="Declined" platform="android, iOS">Declined</string>
   <string name="deep_clean" platform="android">Deep clean</string>
+  <string name="deep_cleaning" platform="android">Cleaning up...</string>
+  <string name="deep_cleaning_deleted" platform="android">Cleaning up, %1$s deleted</string>
   <string name="default_time" platform="android">00:00</string>
   <string name="Delete" platform="android, iOS, Desktop">Delete</string>
   <string name="delete_account_detail_hint" platform="iOS">Local messages and iCloud Backups will not be deleted automatically</string>

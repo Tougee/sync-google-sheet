@@ -373,6 +373,8 @@
   <string name="Decline" platform="android">挂断</string>
   <string name="Declined" platform="android, iOS">已拒绝</string>
   <string name="deep_clean" platform="android">深度清理</string>
+  <string name="deep_cleaning" platform="android">正在清理...</string>
+  <string name="deep_cleaning_deleted" platform="android">正在清理，已删除 %1$s</string>
   <string name="Delete" platform="android, iOS, Desktop">删除</string>
   <string name="delete_account_detail_hint" platform="iOS">本地消息和 iCloud 备份不会被自动删除</string>
   <string name="delete_account_hint" platform="android, iOS">删除你的账户和个人照片</string>
