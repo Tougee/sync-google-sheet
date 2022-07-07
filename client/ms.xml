@@ -281,7 +281,7 @@
   <string name="error_unknown_with_message" platform="android, Desktop">RALAT: %1$s</string>
   <string name="error_used_phone" platform="android, iOS, Desktop">RALAT 20122: Telefon digunakan oleh orang lain.</string>
   <string name="error_user_invalid_format" platform="android, Desktop">Id pengguna tidak sah</string>
-  <string name="error_withdrawal_memo_format_incorrect" platform="android, iOS, Desktop">RALAT %1$d: Penarikan format memo tidak betul.</string>
+  <string name="error_withdrawal_memo_format_incorrect" platform="android, iOS, Desktop">RALAT 20131: Penarikan format memo tidak betul.</string>
   <string name="Everybody" platform="android, iOS">Semua orang</string>
   <string name="Exit" platform="android, Desktop">Keluar</string>
   <string name="Exit_Group" platform="android, iOS, Desktop">Keluar Kumpulan</string>

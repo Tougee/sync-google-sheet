@@ -264,7 +264,7 @@
   <string name="error_unknown_with_message" platform="android, Desktop">KESALAHAN: %1$s</string>
   <string name="error_used_phone" platform="android, iOS, Desktop">KESALAHAN 20122: Ponsel digunakan oleh orang lain.</string>
   <string name="error_user_invalid_format" platform="android, Desktop">ID pengguna tidak valid</string>
-  <string name="error_withdrawal_memo_format_incorrect" platform="android, iOS, Desktop">KESALAHAN %1$d: Format memo penarikan salah.</string>
+  <string name="error_withdrawal_memo_format_incorrect" platform="android, iOS, Desktop">KESALAHAN 20131: Format memo penarikan salah.</string>
   <string name="Everybody" platform="android, iOS">Semua orang</string>
   <string name="Exit" platform="android, Desktop">Keluar</string>
   <string name="Exit_Group" platform="android, iOS, Desktop">Keluar dari Grup</string>

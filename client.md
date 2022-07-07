@@ -531,7 +531,7 @@
 | android, Desktop | error_unknown_with_message | ERROR: %1$s | KESALAHAN: %1$s | RALAT: %1$s | 错误：%1$s | エラー: %1$s |
 | android, iOS, Desktop | error_used_phone | ERROR 20122: This phone number is already associated with another account. | KESALAHAN 20122: Ponsel digunakan oleh orang lain. | RALAT 20122: Telefon digunakan oleh orang lain. | 错误 20122：电话号码已经被占用。 | エラー20122：携帯が第三者によって利用されています。 |
 | android, Desktop | error_user_invalid_format | Invalid user id | ID pengguna tidak valid | Id pengguna tidak sah | 用户数据不合法 | ユーザーIDが無効です |
-| android, iOS, Desktop | error_withdrawal_memo_format_incorrect | ERROR %1$d: Withdrawal memo format incorrect. | KESALAHAN %1$d: Format memo penarikan salah. | RALAT %1$d: Penarikan format memo tidak betul. | ERROR %1$d：提现备注格式不正确 | メモ  |
+| android, iOS, Desktop | error_withdrawal_memo_format_incorrect | ERROR 20131: Withdrawal memo format incorrect. | KESALAHAN 20131: Format memo penarikan salah. | RALAT 20131: Penarikan format memo tidak betul. | ERROR 20131：提现备注格式不正确 | メモ  |
 | android, iOS | Everybody | Everybody | Semua orang | Semua orang | 任何人 | 全員  |
 | android, Desktop | Exit | Exit | Keluar | Keluar | 退出  | 退出  |
 | iOS | Exit_confirmation | Exit "%@"? |     |     | 退出"%@"？ | "%@"を終了しますか? |
