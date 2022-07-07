@@ -495,7 +495,7 @@
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">エラー 20110: 電話番号が無効です</string>
   <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">エラー 10003: SMSの送信に失敗しました</string>
   <string name="error_phone_verification_code_expired" platform="android, iOS, Desktop">期限切れ</string>
-  <string name="error_phone_verification_code_invalid" platform="android, iOS, Desktop">エラー %1$d: 電話番号認証コードが無効です</string>
+  <string name="error_phone_verification_code_invalid" platform="android, iOS, Desktop">エラー 20113: 電話番号認証コードが無効です</string>
   <string name="error_pin_check_too_many_request" platform="android, iOS, Desktop">入力ミスが5回に達したため一時的にロックします。24時間後にもう一度試してください。</string>
   <string name="error_pin_incorrect" platform="android, iOS, Desktop">PINが違います</string>
   <string name="error_pin_incorrect_with_times" platform="android, iOS, Desktop">エラー %1$d: PINが間違っています。あと%2$d回入力可能です。24時間後に再試行してください。</string>

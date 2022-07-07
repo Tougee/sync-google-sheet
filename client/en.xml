@@ -507,8 +507,8 @@
   <string name="error_permission" platform="android, Desktop">Please open the necessary permissions</string>
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">ERROR 20110: Invalid phone number</string>
   <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">ERROR 10003: Failed to deliver SMS</string>
-  <string name="error_phone_verification_code_expired" platform="android, iOS, Desktop">ERROR %1$d: Expired phone verification code</string>
-  <string name="error_phone_verification_code_invalid" platform="android, iOS, Desktop">ERROR %1$d: Invalid phone verification code</string>
+  <string name="error_phone_verification_code_expired" platform="android, iOS, Desktop">ERROR 20114: Expired phone verification code</string>
+  <string name="error_phone_verification_code_invalid" platform="android, iOS, Desktop">ERROR 20113: Invalid phone verification code</string>
   <string name="error_pin_check_too_many_request" platform="android, iOS, Desktop">You have tried more than 5 times, please wait at least 24 hours to try again.</string>
   <string name="error_pin_incorrect" platform="android, iOS, Desktop">ERROR %1$d: PIN incorrect</string>
   <string name="error_pin_incorrect_with_times" platform="android, iOS, Desktop">ERROR %1$d: PIN incorrect. You still have %2$d chance. Please wait for 24 hours to retry later.</string>
