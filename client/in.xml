@@ -246,7 +246,7 @@
   <string name="error_old_version" platform="android, Desktop">KESALAHAN 10006: Harap perbarui Mixin(%2$s) untuk terus menggunakan layanan.</string>
   <string name="error_open_location" platform="android, Desktop">Tidak dapat menemukan aplikasi peta</string>
   <string name="error_permission" platform="android, Desktop">Harap buka izin yang diperlukan</string>
-  <string name="error_phone_invalid_format" platform="android, iOS, Desktop">KESALAHAN %1$d: Nomor telepon tidak valid</string>
+  <string name="error_phone_invalid_format" platform="android, iOS, Desktop">KESALAHAN 20110: Nomor telepon tidak valid</string>
   <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">KESALAHAN %1$d: Gagal mengirim SMS</string>
   <string name="error_phone_verification_code_expired" platform="android, iOS, Desktop">KESALAHAN %1$d: Kode verifikasi telepon sudah tidak berlaku</string>
   <string name="error_phone_verification_code_invalid" platform="android, iOS, Desktop">KESALAHAN %1$d: Kode verifikasi telepon tidak valid</string>

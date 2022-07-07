@@ -263,7 +263,7 @@
   <string name="error_old_version" platform="android, Desktop">RALAT 10006: Sila kemas kini Mixin(%2$s) untuk terus menggunakan perkhidmatan ini.</string>
   <string name="error_open_location" platform="android, Desktop">Tidak dapat mencari aplikasi peta</string>
   <string name="error_permission" platform="android, Desktop">Sila buka kebenaran yang diperlukan</string>
-  <string name="error_phone_invalid_format" platform="android, iOS, Desktop">RALAT %1$d: Nombor telefon tidak sah</string>
+  <string name="error_phone_invalid_format" platform="android, iOS, Desktop">RALAT 20110: Nombor telefon tidak sah</string>
   <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">RALAT %1$d: Gagal menghantar SMS</string>
   <string name="error_phone_verification_code_expired" platform="android, iOS, Desktop">RALAT %1$d: Kod pengesahan telefon yang telah tamat tempoh</string>
   <string name="error_phone_verification_code_invalid" platform="android, iOS, Desktop">RALAT %1$d: Kod pengesahan telefon tidak sah</string>
