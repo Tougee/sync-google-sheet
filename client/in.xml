@@ -243,7 +243,7 @@
   <string name="error_not_found" platform="android, iOS, Desktop">KESALAHAN 404: Tidak ditemukan</string>
   <string name="error_not_supported_audio_format" platform="android, Desktop">Tidak mendukung format audio, harap buka dengan aplikasi lain.</string>
   <string name="error_number_reached_limit" platform="android, Desktop">KESALAHAN 20132: Jumlahnya telah mencapai batas.</string>
-  <string name="error_old_version" platform="android, Desktop">KESALAHAN 10006: Harap perbarui Mixin(%2$s) untuk terus menggunakan layanan.</string>
+  <string name="error_old_version" platform="android, Desktop">KESALAHAN 10006: Harap perbarui Mixin(%1$s) untuk terus menggunakan layanan.</string>
   <string name="error_open_location" platform="android, Desktop">Tidak dapat menemukan aplikasi peta</string>
   <string name="error_permission" platform="android, Desktop">Harap buka izin yang diperlukan</string>
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">KESALAHAN 20110: Nomor telepon tidak valid</string>
@@ -252,7 +252,7 @@
   <string name="error_phone_verification_code_invalid" platform="android, iOS, Desktop">KESALAHAN 20113: Kode verifikasi telepon tidak valid</string>
   <string name="error_pin_check_too_many_request" platform="android, iOS, Desktop">Anda telah mencoba lebih dari 5 kali, harap tunggu setidaknya 24 jam untuk mencoba lagi.</string>
   <string name="error_pin_incorrect" platform="android, iOS, Desktop">KESALAHAN 20119: PIN salah</string>
-  <string name="error_pin_incorrect_with_times.count" platform="android, iOS, Desktop">KESALAHAN 20119: PIN salah. Anda masih memiliki %2$d kesempatan. Harap tunggu 24 jam untuk mencoba lagi nanti.</string>
+  <string name="error_pin_incorrect_with_times.count" platform="android, iOS, Desktop">KESALAHAN 20119: PIN salah. Anda masih memiliki %1$d kesempatan. Harap tunggu 24 jam untuk mencoba lagi nanti.</string>
   <string name="error_recaptcha_is_invalid" platform="android, iOS, Desktop">KESALAHAN 10004: Recaptcha tidak valid</string>
   <string name="error_server_5xx_code" platform="android, Desktop">Server sedang dalam pemeliharaan: %1$d</string>
   <string name="error_too_many_request" platform="android, iOS, Desktop">KESALAHAN 429: Batas nilai terlampaui</string>

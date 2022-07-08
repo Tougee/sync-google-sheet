@@ -487,7 +487,7 @@
   <string name="error_insufficient_balance" platform="android, iOS, Desktop">错误 20117：余额不足</string>
   <string name="error_insufficient_transaction_fee_with_amount" platform="android, iOS, Desktop">错误 20124：手续费不足。请确保钱包至少有 %1$s 当作手续费。</string>
   <string name="error_internal_with_msg" platform="iOS">内部错误：%@</string>
-  <string name="error_invalid_address" platform="android, Desktop">错误 30102：地址格式错误。请输入正确的 %2$s %3$s 的地址！</string>
+  <string name="error_invalid_address" platform="android, Desktop">错误 30102：地址格式错误。请输入正确的 %1$s %2$s 的地址！</string>
   <string name="error_invalid_address_plain" platform="android, iOS, Desktop">错误 30102：地址格式错误。</string>
   <string name="error_invalid_code_too_frequent" platform="android, Desktop">错误 20129：发送验证码太频繁，请稍后再试</string>
   <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">错误 20130：紧急联系人不正确</string>
@@ -497,7 +497,7 @@
   <string name="error_not_found" platform="android, iOS, Desktop">错误 404：没有找到相应的信息</string>
   <string name="error_not_supported_audio_format" platform="android, Desktop">不支持的音频格式，请用其他app打开。</string>
   <string name="error_number_reached_limit" platform="android, Desktop">错误 20132： 已达到上限</string>
-  <string name="error_old_version" platform="android, Desktop">错误 10006：请更新 Mixin（%2$s） 至最新版。</string>
+  <string name="error_old_version" platform="android, Desktop">错误 10006：请更新 Mixin（%1$s） 至最新版。</string>
   <string name="error_open_location" platform="android, Desktop">无法找到地图应用</string>
   <string name="error_permission" platform="android, Desktop">请开启相关权限</string>
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">错误 20110：手机号码不合法</string>
@@ -506,8 +506,8 @@
   <string name="error_phone_verification_code_invalid" platform="android, iOS, Desktop">错误 20113：验证码错误</string>
   <string name="error_pin_check_too_many_request" platform="android, iOS, Desktop">你已经尝试了超过 5 次，请等待 24 小时后再次尝试。</string>
   <string name="error_pin_incorrect" platform="android, iOS, Desktop">错误 20119：PIN 不正确</string>
-  <string name="error_pin_incorrect_with_times" platform="android, iOS, Desktop">错误 20119：PIN 不正确。你还有 %2$d 次机会，使用完需等待 24 小时后再次尝试。</string>
-  <string name="error_pin_incorrect_with_times.count" platform="android, iOS, Desktop">错误 20119：PIN 不正确。你还有 %2$d 次机会，使用完需等待 24 小时后再次尝试。</string>
+  <string name="error_pin_incorrect_with_times" platform="android, iOS, Desktop">错误 20119：PIN 不正确。你还有 %1$d 次机会，使用完需等待 24 小时后再次尝试。</string>
+  <string name="error_pin_incorrect_with_times.count" platform="android, iOS, Desktop">错误 20119：PIN 不正确。你还有 %1$d 次机会，使用完需等待 24 小时后再次尝试。</string>
   <string name="error_recaptcha_is_invalid" platform="android, iOS, Desktop">错误 10004：验证失败</string>
   <string name="error_requires_captcha" platform="iOS">需要验证码。</string>
   <string name="error_server_5xx_code" platform="android, Desktop">服务器出错，请稍后重试：%1$d</string>

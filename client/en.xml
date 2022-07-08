@@ -495,7 +495,7 @@
   <string name="error_insufficient_balance" platform="android, iOS, Desktop">ERROR 20117: Insufficient balance</string>
   <string name="error_insufficient_transaction_fee_with_amount" platform="android, iOS, Desktop">ERROR 20124: Insufficient transaction fee. Please make sure your wallet has %1$s as fee</string>
   <string name="error_internal_with_msg" platform="iOS">Internal error: %@</string>
-  <string name="error_invalid_address" platform="android, Desktop">ERROR 30102: Invalid address format. Please enter the correct %2$s %3$s address!</string>
+  <string name="error_invalid_address" platform="android, Desktop">ERROR 30102: Invalid address format. Please enter the correct %1$s %2$s address!</string>
   <string name="error_invalid_address_plain" platform="android, iOS, Desktop">ERROR 30102: Invalid address format.</string>
   <string name="error_invalid_code_too_frequent" platform="android, Desktop">ERROR 20129: Send verification code too frequent, please try again later.</string>
   <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">ERROR 20130: Invalid emergency contact</string>
@@ -505,7 +505,7 @@
   <string name="error_not_found" platform="android, iOS, Desktop">ERROR 404: Not found</string>
   <string name="error_not_supported_audio_format" platform="android, Desktop">Not supported audio format, please open by other app.</string>
   <string name="error_number_reached_limit" platform="android, Desktop">ERROR 20132: The number has reached the limit.</string>
-  <string name="error_old_version" platform="android, Desktop">ERROR 10006: Please update Mixin(%2$s) to continue use the service.</string>
+  <string name="error_old_version" platform="android, Desktop">ERROR 10006: Please update Mixin(%1$s) to continue use the service.</string>
   <string name="error_open_location" platform="android, Desktop">Can't find an map app</string>
   <string name="error_permission" platform="android, Desktop">Please open the necessary permissions</string>
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">ERROR 20110: Invalid phone number</string>
@@ -514,8 +514,8 @@
   <string name="error_phone_verification_code_invalid" platform="android, iOS, Desktop">ERROR 20113: Invalid phone verification code</string>
   <string name="error_pin_check_too_many_request" platform="android, iOS, Desktop">You have tried more than 5 times, please wait at least 24 hours to try again.</string>
   <string name="error_pin_incorrect" platform="android, iOS, Desktop">ERROR 20119: PIN incorrect</string>
-  <string name="error_pin_incorrect_with_times" platform="android, iOS, Desktop">ERROR 20119: PIN incorrect. You still have %2$d chance. Please wait for 24 hours to retry later.</string>
-  <string name="error_pin_incorrect_with_times.count" platform="android, iOS, Desktop">ERROR 20119: PIN incorrect. You still have %2$d chances. Please wait for 24 hours to retry later.</string>
+  <string name="error_pin_incorrect_with_times" platform="android, iOS, Desktop">ERROR 20119: PIN incorrect. You still have %1$d chance. Please wait for 24 hours to retry later.</string>
+  <string name="error_pin_incorrect_with_times.count" platform="android, iOS, Desktop">ERROR 20119: PIN incorrect. You still have %1$d chances. Please wait for 24 hours to retry later.</string>
   <string name="error_recaptcha_is_invalid" platform="android, iOS, Desktop">ERROR 10004: Recaptcha is invalid</string>
   <string name="error_requires_captcha" platform="iOS">Captcha is required.</string>
   <string name="error_server_5xx_code" platform="android, Desktop">Server is under maintenance: %1$d</string>

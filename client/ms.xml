@@ -260,7 +260,7 @@
   <string name="error_not_found" platform="android, iOS, Desktop">RALAT 404: Tidak ditemui</string>
   <string name="error_not_supported_audio_format" platform="android, Desktop">Tidak disokong format audio, sila buka oleh aplikasi lain.</string>
   <string name="error_number_reached_limit" platform="android, Desktop">RALAT 20132: Angka telah mencapai had.</string>
-  <string name="error_old_version" platform="android, Desktop">RALAT 10006: Sila kemas kini Mixin(%2$s) untuk terus menggunakan perkhidmatan ini.</string>
+  <string name="error_old_version" platform="android, Desktop">RALAT 10006: Sila kemas kini Mixin(%1$s) untuk terus menggunakan perkhidmatan ini.</string>
   <string name="error_open_location" platform="android, Desktop">Tidak dapat mencari aplikasi peta</string>
   <string name="error_permission" platform="android, Desktop">Sila buka kebenaran yang diperlukan</string>
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">RALAT 20110: Nombor telefon tidak sah</string>
@@ -269,7 +269,7 @@
   <string name="error_phone_verification_code_invalid" platform="android, iOS, Desktop">RALAT 20113: Kod pengesahan telefon tidak sah</string>
   <string name="error_pin_check_too_many_request" platform="android, iOS, Desktop">Anda telah mencuba lebih dari 5 kali, sila tunggu sekurang-kurangnya 24 jam untuk mencuba lagi.</string>
   <string name="error_pin_incorrect" platform="android, iOS, Desktop">RALAT 20119: PIN tidak betul</string>
-  <string name="error_pin_incorrect_with_times.count" platform="android, iOS, Desktop">RALAT 20119: PIN tidak betul. Anda masih mempunyai %2$d peluang. Sila tunggu selama 24 jam untuk cuba lagi kemudian.</string>
+  <string name="error_pin_incorrect_with_times.count" platform="android, iOS, Desktop">RALAT 20119: PIN tidak betul. Anda masih mempunyai %1$d peluang. Sila tunggu selama 24 jam untuk cuba lagi kemudian.</string>
   <string name="error_recaptcha_is_invalid" platform="android, iOS, Desktop">RALAT 10004: Recaptcha tidak sah</string>
   <string name="error_server_5xx_code" platform="android, Desktop">Pelayan sedang dalam penyelenggaraan: %1$d</string>
   <string name="error_too_many_request" platform="android, iOS, Desktop">RALAT 429: Had kadar melebihi</string>
