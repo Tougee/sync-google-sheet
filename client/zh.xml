@@ -1083,6 +1083,8 @@
   <string name="setting_auth_search_hint" platform="android, iOS, Desktop">Mixin ID, 昵称</string>
   <string name="setting_backup_tips" platform="iOS, Desktop">备份你的聊天记录到 iCloud。如果你丢失或者更换手机，你可以在重新安装 Mixin Messenger 时恢复你的聊天记录。注意备份到 iCloud 中的聊天记录不受端对端加密保护！</string>
   <string name="setting_battery_optimize_title" platform="android">这将提高 Mixin 通知和呼叫的可靠性。</string>
+  <string name="setting_battery_optimize_title_one_ui_above_s" platform="android">这将提高 Mixin 通知和呼叫的可靠性. 请在设置 > 电池中选择 **已优化** 或者 **不受限制**。</string>
+  <string name="setting_battery_optimize_title_one_ui_below_s" platform="android">这将提高 Mixin 通知和呼叫的可靠性。点击设置 -> 电池，开启**允许后台活动**。</string>
   <string name="setting_biometric_error_hardware_unavailable" platform="android">当前设备硬件不可用，请稍后再试</string>
   <string name="setting_biometric_error_none_enrolled" platform="android">未录入指纹或其他设备解锁凭证</string>
   <string name="setting_biometric_error_not_secure" platform="android">当前设备不安全</string>
