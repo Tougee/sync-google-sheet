@@ -271,6 +271,7 @@
 	<string name="Debug_database">データベースデバッグ</string>
 	<string name="Decline">拒否</string>
 	<string name="deep_cleaning_deleted">削除しました</string>
+	<string name="default_time">00:00</string>
 	<string name="Delete">削除</string>
 	<string name="delete_account_hint">アカウント情報とプロフィール画像を削除します</string>
 	<string name="Delete_address">アドレスを削除</string>
@@ -380,7 +381,7 @@
 		<item quantity="one">エラー 20119: PINコードが間違っています。あと%1$d回入力可能です。24時間後に再試行してください。</item>
 		<item quantity="other">エラー20119: PINコードが間違っています。あと%1$d回入力可能です。24時間後に再試行してください。</item>
 	</plurals>
-	<string name="error_recaptcha_is_invalid">エラー 10004: Recaptchaが無効です</string>
+	<string name="error_recaptcha_is_invalid">エラー 10004: CAPTCHAが無効です</string>
 	<string name="error_server_5xx_code">サーバーメンテナンス中: %1$d</string>
 	<string name="error_too_many_friends">エラー20128: 友だちが多すぎます</string>
 	<string name="error_too_many_request">エラー 429: レート制限を超過しています</string>

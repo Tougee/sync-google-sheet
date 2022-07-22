@@ -324,7 +324,7 @@
 "enter_your_pin" = "PINコードを入力してください";
 "enter_your_pin_to_continue" = "PINコードを入力して、続けてください";
 "error_blockchain" = "エラー 30100:ブロックチェーンが同期できていません。後程もう一度お試し下さい。";
-"error_captcha_is_invalid" = "エラー10004:captchaが無効です";
+"error_captcha_is_invalid" = "エラー10004: CAPTCHAが無効です";
 "error_connection_timeout" = "ネットワーク接続がタイムアウトしました";
 "error_expired_authorization_code" = "認証コードの期限切れ";
 "error_full_group" = "エラー 20116: グループチャットが満員です";
@@ -343,7 +343,7 @@
 "error_pin_incorrect" = "PINコードが違います";
 "error_pin_incorrect_with_times" = "エラー 20119: PINコードが間違っています。あと%d回入力可能です。24時間後に再試行してください。";
 "error_pin_incorrect_with_times_count" = "エラー20119: PINコードが間違っています。あと%d回入力可能です。24時間後に再試行してください。";
-"error_requires_captcha" = "Captcha認証が必要です";
+"error_requires_captcha" = "CAPTCHA認証が必要です";
 "error_too_many_friends" = "エラー20128: 友だちが多すぎます";
 "error_too_many_request" = "エラー 429: レート制限を超過しています";
 "error_too_many_stickers" = "エラー 20126: スタンプが多すぎます";
