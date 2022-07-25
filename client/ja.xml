@@ -15,17 +15,17 @@
   <string name="Accept" platform="android">確認</string>
   <string name="Profile" platform="iOS">プロフィール</string>
   <string name="New_Chat" platform="iOS">チャットを作成</string>
-  <string name="No_CONTACTS" platform="iOS">連絡先</string>
-  <string name="Add_by_ID_or_Phone_number" platform="iOS">電話番号を変更する</string>
-  <string name="Add_by_Phone_Contacts" platform="iOS">連絡帳</string>
-  <string name="Add_by_QR_Code" platform="iOS">QRコード</string>
-  <string name="Allow" platform="iOS">すべて</string>
-  <string name="Name_or_Phone_number" platform="iOS">名前</string>
+  <string name="No_CONTACTS" platform="iOS">友達未追加</string>
+  <string name="Add_by_ID_or_Phone_number" platform="iOS">Mixin IDか電話番号で追加</string>
+  <string name="Add_by_Phone_Contacts" platform="iOS">スマホの連絡先から追加</string>
+  <string name="Add_by_QR_Code" platform="iOS">QRコードから追加</string>
+  <string name="Allow" platform="iOS">許可</string>
+  <string name="Name_or_Phone_number" platform="iOS">名前か電話番号</string>
   <string name="Search_contacts" platform="iOS">友達を検索</string>
   <string name="Access_to_Contacts" platform="iOS">連絡先へのアクセス</string>
   <string name="Access_Contacts_Hint" platform="iOS">Mixinはあなたの連絡先をMixinサーバーに同期させ、Mixinユーザーを自動追加します</string>
   <string name="Access_denied" platform="android, iOS, Desktop">アクセスが拒否されました</string>
-  <string name="access_your_bots_list" platform="android, iOS">ミニアプリ</string>
+  <string name="access_your_bots_list" platform="android, iOS">あなたのミニアプリ一覧へのアクセス</string>
   <string name="access_your_circle_list" platform="android, iOS">グループリスト一覧へのアクセス</string>
   <string name="access_your_collectibles" platform="android, iOS">あなたのNFTコレクションへのアクセス</string>
   <string name="access_your_contacts_list" platform="android, iOS">友達一覧へのアクセス</string>
@@ -33,22 +33,22 @@
   <string name="Account" platform="android, iOS">アカウント</string>
   <string name="Acknowledgements" platform="iOS">承認</string>
   <string name="Add" platform="android, iOS, Desktop">追加</string>
-  <string name="Add_address" platform="android, iOS">連絡先</string>
+  <string name="Add_address" platform="android, iOS">アドレスに追加</string>
   <string name="Add_bot" platform="android, iOS">ミニアプリを追加</string>
   <string name="add_bot_with_plus" platform="Desktop">ミニアプリに追加</string>
   <string name="Add_circle" platform="android, iOS">グループリストを追加</string>
   <string name="Add_Contact" platform="android, iOS, Desktop">友だちを追加</string>
   <string name="add_contact_with_plus" platform="Desktop">友だちを追加</string>
-  <string name="Add_conversations" platform="android, iOS">チャットルーム</string>
-  <string name="Add_emergency_contact" platform="android, iOS">緊急連絡先</string>
+  <string name="Add_conversations" platform="android, iOS">チャットルームを追加</string>
+  <string name="Add_emergency_contact" platform="android, iOS">緊急連絡先を追加</string>
   <string name="add_file" platform="Desktop">ファイルを追加</string>
   <string name="Add_group_description" platform="android, Desktop">グループアナウンス</string>
-  <string name="Add_memo" platform="android, iOS">メモ</string>
-  <string name="Add_participants" platform="android, iOS, Desktop">参加者</string>
+  <string name="Add_memo" platform="android, iOS">メモを追加</string>
+  <string name="Add_participants" platform="android, iOS, Desktop">メンバーを追加</string>
   <string name="Add_people_hint" platform="android">Mixin IDまたは電話番号でメンバー追加</string>
   <string name="add_people_search_hint" platform="android, Desktop">Mixin IDまたは電話番号</string>
   <string name="Add_Sticker" platform="android, iOS, Desktop">スタンプを追加する</string>
-  <string name="Add_sticker_failed" platform="android, Desktop">失敗しました</string>
+  <string name="Add_sticker_failed" platform="android, Desktop">エラー</string>
   <string name="Add_stickers" platform="android, iOS, Desktop">スタンプを追加</string>
   <string name="Add_success" platform="android">追加成功</string>
   <string name="Add_Tag" platform="android, iOS">タグを追加する</string>
@@ -56,12 +56,12 @@
   <string name="Add_to_Stickers" platform="iOS">スタンプを追加</string>
   <string name="Added" platform="android, iOS, Desktop">追加ずみ</string>
   <string name="Adding" platform="android">追加中…</string>
-  <string name="Address" platform="android, iOS">アドレス</string>
-  <string name="Address_not_found" platform="iOS">見つかりません</string>
+  <string name="Address" platform="android, iOS">連絡先</string>
+  <string name="Address_not_found" platform="iOS">連絡先が見つかりません</string>
   <string name="Admin" platform="android, iOS, Desktop">管理者</string>
-  <string name="After_1_minute" platform="android">%d 分</string>
+  <string name="After_1_minute" platform="android">1分後に</string>
   <string name="After_30_minutes" platform="android">30分後に</string>
-  <string name="Agree_and_Continue" platform="android">続ける</string>
+  <string name="Agree_and_Continue" platform="android">同意して続ける</string>
   <string name="agree_hint" platform="iOS">%@と%@に同意し次へ進む</string>
   <string name="Albums" platform="iOS">アルバム</string>
   <string name="alert_key_contact_audio_call_cancelled_message" platform="iOS">キャンセル</string>
@@ -69,7 +69,7 @@
   <string name="alert_key_contact_audio_message" platform="android, iOS">音声メッセージが届きました</string>
   <string name="alert_key_contact_contact_message" platform="android, iOS, Desktop">連絡先が届きました</string>
   <string name="alert_key_contact_data_message" platform="android, iOS">ファイルが届きました</string>
-  <string name="alert_key_contact_image_message" platform="android, iOS">画像</string>
+  <string name="alert_key_contact_image_message" platform="android, iOS">画像が届きました</string>
   <string name="alert_key_contact_live_message" platform="android, iOS">配信が届きました</string>
   <string name="alert_key_contact_location_message" platform="android, iOS">位置情報が届きました</string>
   <string name="alert_key_contact_message" platform="iOS">メッセージが届きました</string>
@@ -79,7 +79,7 @@
   <string name="alert_key_contact_transcript_message" platform="android, iOS">メッセージ履歴が共有されました</string>
   <string name="alert_key_contact_transfer_message" platform="android, iOS">振り込みされました</string>
   <string name="alert_key_contact_video_message" platform="android, iOS">動画が届きました</string>
-  <string name="alert_key_group_audio_invite_message" platform="android, iOS">招待する</string>
+  <string name="alert_key_group_audio_invite_message" platform="android, iOS">%1$sが音声通話に招待しました</string>
   <string name="alert_key_group_audio_message" platform="android, iOS">%1$sが音声メッセージを送信しました</string>
   <string name="alert_key_group_contact_message" platform="android, iOS">%1$sが連絡先を送信しました</string>
   <string name="alert_key_group_data_message" platform="android, iOS">%1$sがファイルを送信しました</string>
@@ -95,17 +95,17 @@
   <string name="All" platform="android, iOS">すべて</string>
   <string name="all_chats" platform="Desktop">チャット</string>
   <string name="All_Conversations" platform="android, iOS">すべてのチャットルーム</string>
-  <string name="All_Media" platform="android">メディア</string>
-  <string name="All_Photos" platform="iOS">写真</string>
+  <string name="All_Media" platform="android">全てのメディア</string>
+  <string name="All_Photos" platform="iOS">全ての画像</string>
   <string name="All_Transactions" platform="android, iOS">もらった・あげたコイン💰</string>
-  <string name="Allow_Manual_Report_Message" platform="iOS">報告</string>
+  <string name="Allow_Manual_Report_Message" platform="iOS">メッセージ単位の報告を許可</string>
   <string name="Amount" platform="android, iOS">数量</string>
   <string name="an_audio" platform="android">音声ファイル</string>
   <string name="ANSWER" platform="android">電話に出る</string>
   <string name="app_card_share_disallow" platform="Desktop">このURLの共有を許可しない</string>
   <string name="app_card_shareable_false" platform="android, iOS">このカードを共有することはできません</string>
   <string name="app_name" platform="android">Mixin</string>
-  <string name="app_update_short_hint" platform="iOS">日付</string>
+  <string name="app_update_short_hint" platform="iOS">サービスを利用するためにApp StoreでMixinのアップデートをお願いします。</string>
   <string name="app_update_tips" platform="iOS">現在のバージョン(%@)はもう利用いただけません。App Storeで新しいバージョンを入手してください</string>
   <string name="App_version" platform="android">App version</string>
   <string name="Appearance" platform="android, iOS, Desktop">言語とテーマ</string>
@@ -116,10 +116,10 @@
   <string name="Asset_Type" platform="iOS, Desktop">資産タイプ</string>
   <string name="ASSETS" platform="android, iOS">資産</string>
   <string name="assets_title" platform="iOS">資産</string>
-  <string name="Audio" platform="android, iOS, Desktop">音声</string>
+  <string name="Audio" platform="android, iOS, Desktop">音声メッセージ</string>
   <string name="Audios" platform="android, iOS, Desktop">音声メッセージ</string>
-  <string name="auth_assets_more" platform="android, iOS">もっとみる</string>
-  <string name="auth_messages_represent_description" platform="android, iOS">メッセージ</string>
+  <string name="auth_assets_more" platform="android, iOS">%1$sとさらに</string>
+  <string name="auth_messages_represent_description" platform="android, iOS">あなたの代わりにミニアプリがメッセージを送ることを許可</string>
   <string name="auth_profile_content" platform="android, iOS">%1$s, %2$s, プロフィール画像</string>
   <string name="authorization" platform="android, iOS">認証</string>
   <string name="Authorizations" platform="android, iOS">許可</string>
@@ -127,8 +127,8 @@
   <string name="Authorize_payment_via" platform="iOS">%@で支払いを承認してください</string>
   <string name="Authorized" platform="iOS">許可しました</string>
   <string name="auto_back_up_hint" platform="iOS">Wi-Fiの使用時に自動でiCloudにバックアップする</string>
-  <string name="Auto_Backup" platform="iOS, Desktop">チャット履歴のバックアップ</string>
-  <string name="auto_download_hint" platform="android, iOS">ダウンロード</string>
+  <string name="Auto_Backup" platform="iOS, Desktop">チャット履歴の自動バックアップ</string>
+  <string name="auto_download_hint" platform="android, iOS">メディアを自動ダウンロードする設定に変更する：音声メッセージは常に自動ダウンロードされます</string>
   <string name="Auto_Lock" platform="android, iOS">自動ロック</string>
   <string name="Automatic" platform="iOS">自動モード</string>
   <string name="avatar" platform="Desktop">アバター</string>
@@ -136,20 +136,21 @@
   <string name="Back_To_Chat" platform="android, iOS">チャットに戻る</string>
   <string name="Back_Up_Now" platform="iOS">今すぐバックアップ</string>
   <string name="Backing_Up" platform="android, iOS">バックアップしています...</string>
+  <string name="backup" platform="Desktop">チャット履歴のバックアップ</string>
   <string name="Backup" platform="android">チャット履歴のバックアップ</string>
   <string name="backup_choose_a_folder" platform="android">選択</string>
-  <string name="Backup_delete" platform="android">削除</string>
+  <string name="Backup_delete" platform="android">バックアップを削除</string>
   <string name="backup_des" platform="android">メッセージを外部ストレージにバックアップします。Mixinを再インストールすると、バックアップを元に復元することができます。外部ストレージにデータがある間は、そのデータは保護されません。</string>
   <string name="backup_dialog_title" platform="android">外部ストレージに自動的にバックアップします。</string>
-  <string name="backup_disable_hint" platform="iOS">無効にする</string>
+  <string name="backup_disable_hint" platform="iOS">履歴をバックアップするためにサインインしてください：設定＞ユーザー名＞iCloud＞iCloud Driveをオン</string>
   <string name="backup_external_storage" platform="android">外部ストレージ: %1$s</string>
-  <string name="backup_failure_tip" platform="android">失敗</string>
+  <string name="backup_failure_tip" platform="android">バックアップ失敗、もう一度試してください</string>
   <string name="Backup_found" platform="android">バックアップが見つかりました</string>
   <string name="backup_ing" platform="android">外部ストレージにバックアップ…</string>
   <string name="backup_media" platform="android">メディアファイルが含まれています</string>
   <string name="backup_media_title" platform="android">外部ストレージへのバックアップ</string>
   <string name="backup_no_available_memory" platform="android">バックアップに使用できるメモリがありません</string>
-  <string name="backup_notification_content" platform="android">友達からのメッセージを見逃さないで！</string>
+  <string name="backup_notification_content" platform="android">バックアップの準備中…</string>
   <string name="backup_notification_title" platform="android">バックアップが進行中</string>
   <string name="Backup_success" platform="android">バックアップ成功</string>
   <string name="Balance" platform="iOS">残高</string>
@@ -166,36 +167,36 @@
   <string name="bot_empty_tip" platform="android, iOS">最初にお気に入りのミニアプリを追加してください</string>
   <string name="bot_not_auth_yet" platform="android">このミニアプリへのアクセス許可がありません</string>
   <string name="Bot_not_found" platform="android, iOS">ミニアプリが見つかりません</string>
-  <string name="bot_pin_hint" platform="iOS">PINコード</string>
-  <string name="BOTS" platform="android, iOS, Desktop">ロボ</string>
+  <string name="bot_pin_hint" platform="iOS">お気に入りのミニアプリを長押ししてドラッグし、ここに表示できます。</string>
+  <string name="BOTS" platform="android, iOS, Desktop">ミニアプリ</string>
   <string name="bots_title" platform="android, iOS">Myミニアプリ一覧</string>
   <string name="bottom_transfer_stranger_tip" platform="android">Mixin ID %1$sはあなたの友達ではありません。選択した受取人が正しいかどうか確認してください。</string>
   <string name="Business" platform="iOS">ビジネス</string>
-  <string name="Call" platform="android, iOS">応答なし</string>
-  <string name="Call_declined" platform="android, iOS">拒否</string>
+  <string name="Call" platform="android, iOS">電話</string>
+  <string name="Call_declined" platform="android, iOS">応答拒否</string>
   <string name="call_encryption_description" platform="android, iOS">この電話はMixinを含む外部から盗聴不可能です</string>
   <string name="call_encryption_title" platform="android, iOS">この通話はE2E暗号化されています</string>
   <string name="Call_failed" platform="android, iOS">現在電話できません</string>
-  <string name="call_no_microphone_permission_hint" platform="iOS">トリミング</string>
+  <string name="call_no_microphone_permission_hint" platform="iOS">音声通話するために、Mixinにあなたのスマホのアクセスを許可してください。設定をタップし、システム設定を開いてください。</string>
   <string name="call_no_network_hint" platform="iOS">現在通話ができません。 インターネットの接続を確認しもう一度お試しください。</string>
-  <string name="call_on_another_call_hint" platform="android, iOS">その他</string>
+  <string name="call_on_another_call_hint" platform="android, iOS">あなたは現在電話中です。電話を終了後もう一度お試しください。</string>
   <string name="Call_Phone" platform="iOS">電話をかける</string>
   <string name="call_pip_permission" platform="android">Mixinはフローティングウィンドウの使用を許可されていないため、音声通話を最小化することはできません。</string>
   <string name="call_remote_error" platform="iOS">切断されました（エラーコード%@）</string>
   <string name="call_who" platform="android">%1$sに電話をかける</string>
-  <string name="Call_with_Mixin" platform="iOS">Mixin</string>
+  <string name="Call_with_Mixin" platform="iOS">Mixinで電話をかける</string>
   <string name="Chat_Background" platform="iOS">チャットの背景</string>
   <string name="Background_Preview" platform="iOS">背景のプレビュー</string>
   <string name="how_are_you" platform="iOS">こんにちは、調子はどうですか</string>
-  <string name="i_am_good" platform="iOS">移動</string>
+  <string name="i_am_good" platform="iOS">いい気分</string>
   <string name="Calling" platform="android, iOS">着信中</string>
   <string name="Camera" platform="android, iOS">カメラ</string>
   <string name="can_not_recognize_qr_code" platform="android, Desktop">QRコードが見つかりません</string>
   <string name="Cancel" platform="android, iOS, Desktop">キャンセル</string>
-  <string name="Cancel_Floating" platform="android, iOS">フローティング</string>
+  <string name="Cancel_Floating" platform="android, iOS">フローティングのキャンセル</string>
   <string name="Canceled" platform="android, iOS">キャンセルしました</string>
   <string name="Canceled_by_caller" platform="android, iOS">発信者がキャンセルしました</string>
-  <string name="Cant_receive_the_code" platform="android, iOS">入金</string>
+  <string name="Cant_receive_the_code" platform="android, iOS">コードを受け取れませんか？</string>
   <string name="cant_talk_self" platform="android">自分自身に電話はできません</string>
   <string name="cant_transfer_self" platform="android">自分自身に送金はできません</string>
   <string name="caption_send" platform="iOS">送信</string>
@@ -213,14 +214,14 @@
   <string name="Change_PIN" platform="android, iOS">PINコードを変更</string>
   <string name="change_pin_interval_hint" platform="iOS">設定を変更するためPINコードを入力してください</string>
   <string name="Change_PIN_successfully" platform="android, iOS">PINコード変更成功</string>
-  <string name="Change_Profile_Photo_with_Camera" platform="android, iOS">プロフィール画像</string>
+  <string name="Change_Profile_Photo_with_Camera" platform="android, iOS">プロフィール画像をカメラから選択</string>
   <string name="Change_Profile_Photo_with_Library" platform="android, iOS">プロフィール画像を選択</string>
   <string name="Change_Settings" platform="iOS">設定変更</string>
-  <string name="Change_your_app_language" platform="iOS">言語</string>
+  <string name="Change_your_app_language" platform="iOS">言語設定</string>
   <string name="Changed" platform="android, iOS">変更しました</string>
-  <string name="changed_disappearing_message_settings" platform="android, iOS, Desktop">表示されないメッセージ</string>
+  <string name="changed_disappearing_message_settings" platform="android, iOS, Desktop">%1$sが消えるメッセージを設定しました</string>
   <string name="Changing" platform="android">変更中…</string>
-  <string name="chat_audio_discard_warning" platform="android">破棄</string>
+  <string name="chat_audio_discard_warning" platform="android">録音終了し音声メッセージを破棄してよろしいですか？</string>
   <string name="chat_audio_discard_warning_title" platform="android">音声メッセージを破棄する</string>
   <string name="chat_audio_warning" platform="android">別の音声を再生している場合、音声を再生することはできません。</string>
   <string name="Chat_Backup" platform="android, iOS, Desktop">チャットのバックアップ</string>
@@ -233,20 +234,20 @@
   <string name="chat_delete_message.count" platform="android, Desktop">%1$dのメッセージを削除しますか？</string>
   <string name="chat_delete_url" platform="android">https://mixinmessenger.zendesk.com/hc/articles/360028209571</string>
   <string name="chat_group_add" platform="android, iOS, Desktop">%1$sが%2$sを追加しました</string>
-  <string name="chat_group_call_cancel" platform="android, iOS">グループ通話</string>
+  <string name="chat_group_call_cancel" platform="android, iOS">%1$sがグループ通話をキャンセルしました</string>
   <string name="chat_group_call_decline" platform="android, iOS">%1$sグループ通話が終了しました</string>
   <string name="chat_group_call_end" platform="android">グループ通話が終了しました </string>
   <string name="chat_group_call_invite" platform="android, iOS">%1$sからグループ通話の招待がきています</string>
-  <string name="chat_group_call_mute" platform="android">ミュート</string>
-  <string name="chat_group_call_remote_peer_closed" platform="android">ピアが閉じています</string>
-  <string name="chat_group_exit" platform="android, iOS, Desktop">退出</string>
+  <string name="chat_group_call_mute" platform="android">通話開始時にミュートされています</string>
+  <string name="chat_group_call_remote_peer_closed" platform="android">接続が切断されました、もう一度試してください</string>
+  <string name="chat_group_exit" platform="android, iOS, Desktop">%1$sが退出しました</string>
   <string name="chat_group_join" platform="android, iOS, Desktop">%1$sが招待リンクから参加しました</string>
   <string name="chat_group_remove" platform="android, iOS, Desktop">%1$sが%2$sを退会させました</string>
   <string name="chat_hint_e2e" platform="Desktop">E2E暗号化</string>
-  <string name="chat_import_content" platform="android">インポート</string>
+  <string name="chat_import_content" platform="android">%1$sにメッセージをインポートしますか？</string>
   <string name="chat_import_fail_content" platform="android">メッセージのインポートに失敗しました。ファイルとして送信しますか？</string>
-  <string name="chat_list_empty_info" platform="android, iOS">プロフィール</string>
-  <string name="chat_not_support" platform="android, iOS">サポートしていない形式です</string>
+  <string name="chat_list_empty_info" platform="android, iOS">Mixinアプリをダウンロードしている友人とチャットできます</string>
+  <string name="chat_not_support" platform="android, iOS">サポートしていない形式です、Mixinを最新版にアップデートしてください%1$s</string>
   <string name="chat_not_support_uri_on_phone" platform="Desktop">URLが読み込めません。お使いの携帯電話の設定をご確認ください</string>
   <string name="chat_not_support_url" platform="android, Desktop">https://mixinmessenger.zendesk.com/hc/articles/360043776071</string>
   <string name="chat_not_support_view_on_phone" platform="Desktop">この種類のチャットは読み込めません。お使いの携帯電話の設定をご確認ください</string>
@@ -275,7 +276,7 @@
   <string name="Circles" platform="android, iOS, Desktop">グループリスト</string>
   <string name="Clear" platform="android, iOS, Desktop">削除</string>
   <string name="Clear_chat" platform="android, iOS, Desktop">チャットを削除する</string>
-  <string name="clear_contact_chat_confirmation" platform="iOS">確認する</string>
+  <string name="clear_contact_chat_confirmation" platform="iOS">"%@"とチャットを削除しますか?</string>
   <string name="clear_group_chat_confirmation" platform="iOS">"%@"のグループチャットを削除しますか?</string>
   <string name="Clear_unused_cache" platform="iOS">データ使用量(キャッシュ)を軽減</string>
   <string name="Cleared" platform="iOS">クリアずみ</string>
@@ -289,10 +290,10 @@
   <string name="close_window" platform="Desktop">ウィンドウを閉じる</string>
   <string name="collapse" platform="Desktop">サイドバー</string>
   <string name="collectible_token_id" platform="iOS">#%@</string>
-  <string name="Combine_and_forward" platform="android, iOS, Desktop">転送</string>
+  <string name="Combine_and_forward" platform="android, iOS, Desktop">まとめて転送</string>
   <string name="Compress_Database" platform="iOS">データの圧縮</string>
   <string name="Compressed" platform="iOS">圧縮しました</string>
-  <string name="Confirm" platform="android, iOS, Desktop">許可する</string>
+  <string name="Confirm" platform="android, iOS, Desktop">確認する</string>
   <string name="Confirm_fingerprint" platform="android">指紋認証の確認</string>
   <string name="Confirm_PIN" platform="android">PINコードを確認</string>
   <string name="Connected" platform="iOS">接続済</string>
@@ -302,21 +303,21 @@
   <string name="contact_category" platform="iOS">連絡先</string>
   <string name="contact_count" platform="android, iOS">%1$dの連絡先</string>
   <string name="contact_count.count" platform="android, iOS">%1$dの連絡先</string>
-  <string name="Contact_Developer" platform="android, iOS">開発者向け情報</string>
+  <string name="Contact_Developer" platform="android, iOS">開発者情報</string>
   <string name="contact_empty_tip" platform="android">スマホの連絡帳と同期して友だちを自動追加</string>
   <string name="contact_invite_content" platform="android, iOS">Mixinを使いませんか？ ここからダウンロードしてください: https://mixin.one/messenger</string>
-  <string name="contact_mixin_id" platform="android, iOS, Desktop">Mixin ID</string>
+  <string name="contact_mixin_id" platform="android, iOS, Desktop">Mixin ID: %1$s</string>
   <string name="contact_mobile" platform="android, iOS">モバイル: %1$s</string>
   <string name="contact_mute_title" platform="android, Desktop">通知をミュート</string>
-  <string name="contact_new_group_chat_desc" platform="android">新しいグループチャットを作成</string>
+  <string name="contact_new_group_chat_desc" platform="android">友達と新しいグループチャットを作成</string>
   <string name="contact_phone_contact_hint" platform="iOS">スマホの連絡帳と同期して友だちを自動追加</string>
   <string name="contact_share_bots_title" platform="android, iOS">%1$s\のシェアしたミニアプリ</string>
   <string name="contact_title" platform="iOS">連絡先</string>
   <string name="CONTACTS" platform="android, iOS, Desktop">連絡先</string>
   <string name="content_audio" platform="android, iOS">[音声メッセージ]</string>
   <string name="content_contact" platform="android, iOS">[連絡先]</string>
-  <string name="content_deposit" platform="iOS">入金</string>
-  <string name="content_fee" platform="iOS">手数料</string>
+  <string name="content_deposit" platform="iOS">[入金]</string>
+  <string name="content_fee" platform="iOS">[手数料]</string>
   <string name="content_file" platform="android, iOS">[ファイル]</string>
   <string name="content_group_call" platform="android">[グループ通話]</string>
   <string name="content_group_call_ended" platform="iOS">[グループ通話が終了しました]</string>
@@ -324,7 +325,7 @@
   <string name="content_location" platform="android, iOS">[位置情報]</string>
   <string name="content_photo" platform="android, iOS">[画像]</string>
   <string name="content_post" platform="android, iOS">[投稿]</string>
-  <string name="content_rebate" platform="iOS">払い戻し</string>
+  <string name="content_rebate" platform="iOS">[払い戻し]</string>
   <string name="content_sticker" platform="android, iOS">[スタンプ]</string>
   <string name="Content_too_long" platform="android, Desktop">文字数を減らしてください</string>
   <string name="content_transcript" platform="android, iOS">[メッセージ履歴]</string>
@@ -332,15 +333,15 @@
   <string name="content_unknown" platform="iOS">不明</string>
   <string name="content_video" platform="android, iOS">[動画]</string>
   <string name="content_voice" platform="android, iOS, Desktop">[音声通話]</string>
-  <string name="content_withdrawal" platform="iOS">その他</string>
+  <string name="content_withdrawal" platform="iOS">[出金]</string>
   <string name="Continue" platform="android, iOS, Desktop">続ける</string>
   <string name="Continue_Open_URL" platform="android, iOS">URLを開く</string>
-  <string name="Conversation" platform="android, iOS, Desktop">会話</string>
+  <string name="Conversation" platform="android, iOS, Desktop">チャットルーム</string>
   <string name="conversation_delete_tip" platform="android">チャットルームを削除すると、今までのやりとりがすべて消去されます</string>
   <string name="conversation_delete_title" platform="android, Desktop">チャットを削除する：%1$s</string>
   <string name="conversation_has_too_many_circles" platform="iOS">グループリスト数を減らしてください</string>
   <string name="Conversation_not_found" platform="android, iOS">チャットルームが見つかりません</string>
-  <string name="Conversations" platform="iOS">チャット</string>
+  <string name="Conversations" platform="iOS">チャットルーム</string>
   <string name="Copied" platform="iOS">コピーしました</string>
   <string name="copied_to_clipboard" platform="android">クリップボードにコピー</string>
   <string name="Copy" platform="android, iOS, Desktop">コピー</string>
@@ -376,9 +377,10 @@
   <string name="db_debug_warning" platform="android">注意：有害なSQL文書が実行された場合、結果を元に戻せません</string>
   <string name="Debug_database" platform="android">データベースdebag</string>
   <string name="Decline" platform="android">拒否</string>
+  <string name="Declined" platform="android, iOS">拒否</string>
   <string name="deep_clean" platform="android">削除</string>
   <string name="deep_cleaning" platform="android">削除中…</string>
-  <string name="deep_cleaning_deleted" platform="android">削除しました</string>
+  <string name="deep_cleaning_deleted" platform="android">削除中…、%1$sが削除しました</string>
   <string name="default_time" platform="android">00:00</string>
   <string name="Delete" platform="android, iOS, Desktop">削除</string>
   <string name="delete_account_detail_hint" platform="iOS">ローカルメッセージとiCloudにバックアップされた内容は削除されません</string>
@@ -404,7 +406,7 @@
   <string name="deposit_attention" platform="android, iOS">注意: 最初は必ず少額で入金テストをしてください。</string>
   <string name="deposit_confirmation" platform="android, iOS">入金した仮想通貨は、%1$dブロック確認後に着金します</string>
   <string name="deposit_confirmation.count" platform="android, iOS">入金した仮想通貨は、%1$dブロック確認後に着金します</string>
-  <string name="deposit_memo_notice" platform="android">お知らせ</string>
+  <string name="deposit_memo_notice" platform="android">メモが必要です、メモを添付せずに送金した場合に資産を失うおそれがあります</string>
   <string name="deposit_notice" platform="android">%1$sをあなたのアドレスに入金するためには、メモと入金先アドレスの両方の記入が必要です</string>
   <string name="deposit_reserve" platform="android, iOS">最初は、%1$s以上の金額を入金してください</string>
   <string name="deposit_tip_btc" platform="android, iOS">このアドレスはビットコインのみサポートしています</string>
@@ -417,7 +419,7 @@
   <string name="desktop_on_hint" platform="android, iOS">デスクトップにログインしています</string>
   <string name="desktop_upgrade" platform="android, iOS">デスクトップ版Mixinを最新バージョンにアップデートしてください</string>
   <string name="detect_qr_tip" platform="android, iOS">Mixin QRコードを検出しました、タップしてアクセスします</string>
-  <string name="Developer" platform="android, iOS, Desktop">開発者情報</string>
+  <string name="Developer" platform="android, iOS, Desktop">開発者向け情報</string>
   <string name="Device_unsupported" platform="android">サポートしていないデバイスです</string>
   <string name="Diagnose" platform="iOS">診断</string>
   <string name="diagnose_warning_hint" platform="iOS">⚠️Mixinチームの指示がない場合、この機能を使用しないでください</string>
@@ -428,6 +430,7 @@
   <string name="disable_disappearing_message" platform="android, iOS, Desktop">%1$sが表示されないメッセージを無効にしました</string>
   <string name="Disable_web_debug" platform="android">Disable webデバッグの無効化</string>
   <string name="Disabled" platform="android">無効ずみ</string>
+  <string name="disappearing_message" platform="android, iOS, Desktop">表示されないメッセージ</string>
   <string name="disappearing_message_hint" platform="android, iOS, Desktop">有効にすると、このチャットで送受信された新しいメッセージは、見た後に消えます。詳しくは、「ドキュメント」をお読みください。</string>
   <string name="disappearing_message_url" platform="android">https://mixinmessenger.zendesk.com/hc/articles/5127869180564</string>
   <string name="disappearing_option_1" platform="android, iOS">30秒</string>
@@ -441,9 +444,10 @@
   <string name="divide" platform="android">,</string>
   <string name="Documents" platform="android">ドキュメント</string>
   <string name="Done" platform="android, iOS, Desktop">完了</string>
+  <string name="download" platform="Desktop">ダウンロード</string>
   <string name="download_link" platform="Desktop">ダウンロードリンク:</string>
   <string name="drag_and_drop_file_here" platform="Desktop">ファイルをドラッグ＆ドロップ</string>
-  <string name="Draw" platform="android">編集</string>
+  <string name="Draw" platform="android">引き出す</string>
   <string name="Duplicate_Transfer_Confirmation" platform="android, iOS">二重送金の確認</string>
   <string name="Duplicate_Withdraw_Confirmation" platform="android, iOS">二重出金の確認</string>
   <string name="Duration_is_too_short" platform="android, Desktop">期間が短すぎます</string>
@@ -453,7 +457,7 @@
   <string name="Edit_Circle_Name" platform="android, iOS, Desktop">グループリスト名を編集</string>
   <string name="Edit_Conversations" platform="android, iOS">チャットルームを編集</string>
   <string name="Edit_Group_Description" platform="android, iOS, Desktop">グループアナウンスを編集</string>
-  <string name="Edit_group_name" platform="android, iOS, Desktop">グループ名</string>
+  <string name="Edit_group_name" platform="android, iOS, Desktop">グループ名を編集</string>
   <string name="edit_image_clear_warning" platform="Desktop">すべての変更が失われます。本当に終了しますか？</string>
   <string name="Edit_Name" platform="android, iOS, Desktop">名前を変更</string>
   <string name="edit_profile" platform="Desktop">プロフィールを編集</string>
@@ -465,7 +469,7 @@
   <string name="Enable_db_debug" platform="android">dbデバッグの有効化</string>
   <string name="Enable_Emergency_Contact" platform="android, iOS">緊急連絡先を有効にする</string>
   <string name="enable_face_pay_hint" platform="iOS">PINコードを確認して顔認証を利用可能にしてください</string>
-  <string name="Enable_immediately" platform="android">すぐに</string>
+  <string name="Enable_immediately" platform="android">すぐに有効化する</string>
   <string name="enable_pay" platform="iOS">%@の支払いを有効化</string>
   <string name="enable_pay_confirmation" platform="iOS">%@の支払いを有効化しますか？</string>
   <string name="enable_touch_pay_hint" platform="iOS">PINコードを確認して指紋認証を利用可能にしてください</string>
@@ -489,7 +493,7 @@
   <string name="error_connection_timeout" platform="android, iOS, Desktop">ネットワーク接続がタイムアウトしました</string>
   <string name="error_full_group" platform="android, iOS, Desktop">エラー 20116：グループチャットが満員です</string>
   <string name="error_insufficient_balance" platform="android, iOS, Desktop">エラー 20117：残高が不足しています</string>
-  <string name="error_insufficient_transaction_fee_with_amount" platform="android, iOS, Desktop">取引手数料が不足しています</string>
+  <string name="error_insufficient_transaction_fee_with_amount" platform="android, iOS, Desktop">エラー 20124：取引手数料が不足しています。ウォレットに手数料用に最低でも%1$sがあることを確認してください。</string>
   <string name="error_internal_with_msg" platform="iOS">内部エラー: %@</string>
   <string name="error_invalid_address" platform="android, Desktop">エラー30102：無効なアドレス形式です。正しい%1$s %2$s アドレスを入力してください。</string>
   <string name="error_invalid_address_plain" platform="android, iOS, Desktop">エラー30102：無効なアドレス形式です</string>
@@ -500,7 +504,7 @@
   <string name="error_network_task_failed" platform="iOS, Desktop">ネットワーク接続に失敗しました。ネットワーク接続状態を確認した後にもう一度試してください。</string>
   <string name="error_not_found" platform="android, iOS, Desktop">エラー 404：結果なし</string>
   <string name="error_not_supported_audio_format" platform="android, Desktop">サポートされていないオーディオ形式です。他のアプリで開いてください。</string>
-  <string name="error_number_reached_limit" platform="android, Desktop">数が上限に達しました</string>
+  <string name="error_number_reached_limit" platform="android, Desktop">エラー 20132：数が上限に達しています</string>
   <string name="error_old_version" platform="android, Desktop">エラー 10006：このサービスを引き続き使用するには、Mixin(%1$s)をアップデートしてください。</string>
   <string name="error_open_location" platform="android, Desktop">地図アプリがありません</string>
   <string name="error_permission" platform="android, Desktop">必要な権限を開いてください</string>
@@ -525,7 +529,7 @@
   <string name="error_transcript_forward" platform="android, Desktop">添付ファイルはすべてダウンロード後、転送してください。</string>
   <string name="error_transfer_is_already_paid" platform="android, iOS">エラー 20125：すでに支払われています</string>
   <string name="error_two_parts" platform="iOS">エラー %@：%@</string>
-  <string name="error_unable_to_open_link" platform="android">リンクを開く: %1$s</string>
+  <string name="error_unable_to_open_link" platform="android">リンクを開くことができるアプリがありません：\n%1$s</string>
   <string name="error_unable_to_open_media" platform="android, Desktop">メディアを開くことができるアプリがありません</string>
   <string name="error_unknown_with_code" platform="android, Desktop">エラー：%1$d</string>
   <string name="error_unknown_with_message" platform="android, Desktop">エラー：%1$s</string>
@@ -547,6 +551,7 @@
   <string name="Export_PDF" platform="android">PDFのエクスポート</string>
   <string name="Extract_QR_Code" platform="android">QRコードを生成する</string>
   <string name="Face_ID" platform="iOS">顔認証</string>
+  <string name="failed" platform="Desktop">失敗しました</string>
   <string name="Failed_to_compose_avatar" platform="iOS">アバターの作成に失敗しました。別の画像を使ってください</string>
   <string name="Failed_to_send_location" platform="iOS">位置情報を送信できませんでした</string>
   <string name="Failed_to_send_photo" platform="iOS">画像を送信できませんでした</string>
@@ -563,7 +568,7 @@
   <string name="FILTER_BY" platform="android, iOS">絞り込み：</string>
   <string name="fingerprint_lock" platform="android">指紋認証ロック</string>
   <string name="Flash_unit_not_available" platform="android">フラッシュユニットは使用できません</string>
-  <string name="Floating" platform="android, iOS">Floating</string>
+  <string name="Floating" platform="android, iOS">フローティング</string>
   <string name="Floats_allows_up_to_count" platform="iOS">フロート数の上限 %d</string>
   <string name="Follow_system" platform="android, Desktop">システム設定に従う</string>
   <string name="Follow_us_on_facebook" platform="android, iOS, Desktop">FacebookでMixinをフォロー</string>
@@ -573,13 +578,14 @@
   <string name="Forward_message" platform="android">転送メッセージ</string>
   <string name="Forward_success" platform="android">転送成功</string>
   <string name="Forward_to_friend" platform="android">友達に転送する</string>
-  <string name="fourth_pin_confirm_hint" platform="android, iOS">PINコードを確実に記憶してください。ウォレットを失った場合、復元することはできません</string>
+  <string name="fourth_pin_confirm_hint" platform="android, iOS">最終確認：PINコードを確実に記憶してください。ウォレットを失った場合、復元することはできません</string>
   <string name="Friday" platform="android">金曜日</string>
   <string name="From" platform="android, iOS, Desktop">From</string>
   <string name="from_with_colon" platform="Desktop">From:</string>
   <string name="Games" platform="iOS">ゲーム</string>
   <string name="Get_a_new_wallet" platform="android, iOS">新たなウォレットを作成</string>
   <string name="GIF" platform="android">GIF</string>
+  <string name="Go" platform="android">移動</string>
   <string name="Go_settings" platform="android">設定へ移動</string>
   <string name="Got_it" platform="android, iOS">確認</string>
   <string name="got_it_count_down" platform="android">確認 (%1$d)</string>
@@ -629,7 +635,7 @@
   <string name="Incoming_voice_call" platform="android, iOS">着信</string>
   <string name="Info" platform="iOS">プロフィール</string>
   <string name="Initializing" platform="android, iOS, Desktop">初期化中…</string>
-  <string name="Insufficient_transaction_fee" platform="iOS">トランザクション手数料が不足しています</string>
+  <string name="Insufficient_transaction_fee" platform="iOS">取引手数料が不足しています</string>
   <string name="Interface_style" platform="iOS">画面表示</string>
   <string name="Invalid_candidate" platform="iOS">無効な候補</string>
   <string name="Invalid_height" platform="iOS">無効な高さ</string>
@@ -663,7 +669,7 @@
   <string name="landing_enter_mobile_tip" platform="android">Mixin社はあなたの電話番号を決して公表しません</string>
   <string name="landing_introduction" platform="android">"同意して続ける"をタップして%1$sと%2$sを確認</string>
   <string name="landing_invitation_dialog_content" platform="android, Desktop">4桁のコードを電話番号%1$sに送信します、次の画面でコードを入力してください</string>
-  <string name="landing_privacy_policy_url" platform="android">プライバシーポリシー</string>
+  <string name="landing_privacy_policy_url" platform="android">プライバシーポリシー: https://mixin.one/pages/privacy </string>
   <string name="landing_terms_url" platform="android">https://mixin.one/pages/terms</string>
   <string name="landing_validation_title" platform="android, iOS, Desktop">%1$sに送信された4桁のコードを入力してください</string>
   <string name="landing_verification_tip_url" platform="android">https://mixinmessenger.zendesk.com/hc/articles/360024114492</string>
@@ -684,7 +690,7 @@
   <string name="Link_recognition_failure" platform="iOS">リンクの認識に失敗しました</string>
   <string name="link_shareable_false" platform="iOS">このリンクを共有することはできません</string>
   <string name="Links" platform="android, iOS">リンク</string>
-  <string name="Live" platform="android, iOS, Desktop">ライブ配信</string>
+  <string name="Live" platform="android, iOS, Desktop">配信</string>
   <string name="live_permission" platform="android">Mixinは、ピクチャーインピクチャーモードでビデオを再生するために、他のアプリより上の描画にアクセスする必要があります。</string>
   <string name="live_shareable_false" platform="android, iOS">この配信を共有することはできません</string>
   <string name="live_stream" platform="iOS">配信</string>
@@ -737,10 +743,14 @@
   <string name="message_preview_description" platform="Desktop">新着メッセージ通知内のメッセージテキストをプレビューします</string>
   <string name="Message_sent" platform="android, iOS">送信完了</string>
   <string name="Message_unpinned" platform="android">メッセージのピン留めを解除</string>
+  <string name="Messages" platform="android, iOS, Desktop">メッセージ</string>
   <string name="Messaging_Node" platform="android">メッセージングノード</string>
   <string name="Messaging_node_running" platform="android">メッセージングノードが稼働中</string>
   <string name="minimize" platform="Desktop">最小化</string>
+  <string name="Minute" platform="android, iOS">%d 分</string>
   <string name="Minute.count" platform="android, iOS">%d分間</string>
+  <string name="Mixin" platform="android, iOS">Mixin</string>
+  <string name="Mixin_ID" platform="android">Mixin ID</string>
   <string name="mixin_id_or_phone" platform="iOS">Mixin ID, 電話番号</string>
   <string name="Mixin_Locked" platform="android, iOS">Mixinはロックされています</string>
   <string name="Mixin_Messenger_Desktop" platform="android, iOS, Desktop">Mixin Messenger Desktop</string>
@@ -780,7 +790,7 @@
   <string name="Never" platform="android">しない</string>
   <string name="never_auto_download" platform="iOS">しない</string>
   <string name="New_Group" platform="android, iOS">グループを作成</string>
-  <string name="New_Group_Chat" platform="android, iOS">新しいグループを作成</string>
+  <string name="New_Group_Chat" platform="android, iOS">新しいグループチャットを作成</string>
   <string name="new_group_name" platform="android">新規グループ名</string>
   <string name="new_name" platform="iOS">新しい名前</string>
   <string name="new_version_available" platform="Desktop">最新版の公開</string>
@@ -818,8 +828,9 @@
   <string name="Nobody" platform="android, iOS">ユーザーなし</string>
   <string name="Nodes" platform="android">ノード</string>
   <string name="None" platform="android, iOS">なし</string>
+  <string name="Not_found" platform="android, iOS, Desktop">見つかりません</string>
   <string name="Not_logged_in" platform="android">ログインしていません</string>
-  <string name="Not_playing" platform="iOS">再生</string>
+  <string name="Not_playing" platform="iOS">再生しません</string>
   <string name="Not_recognized" platform="android">認識できません</string>
   <string name="Not_support" platform="android">サポートしていない形式です</string>
   <string name="Notice" platform="android">お知らせ</string>
@@ -840,12 +851,13 @@
   <string name="one_week" platform="android, iOS, Desktop">1週間</string>
   <string name="one_year" platform="android, iOS, Desktop">1年間</string>
   <string name="Ongoing_voice_call" platform="android">進行中の音声通話</string>
-  <string name="Open" platform="android, iOS">ブラウザで開く</string>
+  <string name="Open" platform="android, iOS">開く</string>
   <string name="Open_Home_page" platform="android, iOS, Desktop">ホームページを開く</string>
   <string name="Open_in_browser" platform="android, iOS">ブラウザで開く</string>
   <string name="Open_in_gaode_maps" platform="iOS">Gaodeマップで開く</string>
   <string name="Open_in_google_maps" platform="iOS">Googleマップで開く</string>
   <string name="Open_in_maps" platform="iOS">マップで開く</string>
+  <string name="Open_Link" platform="android, iOS">リンクを開く: %1$s</string>
   <string name="open_log_directory" platform="Desktop">ログディレクトリを開く</string>
   <string name="Open_url" platform="iOS">URLを開く</string>
   <string name="operation_failed" platform="iOS">操作が失敗しました。しばらくしてからもう一度お試しください</string>
@@ -857,6 +869,7 @@
   <string name="Other" platform="iOS">その他</string>
   <string name="Owner" platform="android, iOS, Desktop">オーナー</string>
   <string name="parse_dns_result" platform="android">Parse DNS result:</string>
+  <string name="Participants" platform="android, iOS">参加者</string>
   <string name="participants_count" platform="iOS, Desktop">%@人のメンバー</string>
   <string name="Pause" platform="android">一時停止</string>
   <string name="pay_paid" platform="android, iOS">この支払いリンクはすでに使用済みです。重複して支払いを行うことはできません。</string>
@@ -879,24 +892,24 @@
   <string name="permission_video" platform="android">ビデオの録画を許可しますか？</string>
   <string name="Permissions" platform="android, iOS">許可</string>
   <string name="Phone_call" platform="android, iOS">通話</string>
-  <string name="Phone_Contact" platform="android, iOS">連絡帳と同期</string>
-  <string name="Phone_Contacts" platform="android, iOS">連絡帳設定</string>
-  <string name="Phone_Number" platform="android, iOS, Desktop">電話番号からの追加</string>
+  <string name="Phone_Contact" platform="android, iOS">連絡帳</string>
+  <string name="Phone_Contacts" platform="android, iOS">連絡帳</string>
+  <string name="Phone_Number" platform="android, iOS, Desktop">電話番号を変更する</string>
   <string name="Phone_number_change" platform="android, iOS">電話番号変更</string>
   <string name="phone_number_privacy" platform="android, iOS">あなたを電話番号検索で追加できるユーザー</string>
   <string name="Photo" platform="android, iOS">写真</string>
   <string name="Photo_saved" platform="iOS">保存しました</string>
   <string name="photo.count" platform="iOS">%1$d写真</string>
-  <string name="Photos" platform="android, iOS, Desktop">画像</string>
+  <string name="Photos" platform="android, iOS, Desktop">写真</string>
   <string name="pick_a_conversation" platform="Desktop">チャットルームを選択して、メッセージを送信してみましょう</string>
   <string name="Pick_from_Library" platform="iOS">ライブラリーから選択する</string>
-  <string name="PIN" platform="android, iOS">PIN</string>
+  <string name="PIN" platform="android, iOS">PINコード</string>
   <string name="PIN_change" platform="android, iOS">PINコード変更</string>
   <string name="pin_check_tip" platform="android, iOS">安全のため、定期的にPINコードを確認します。</string>
   <string name="pin_confirm_again_hint" platform="android, iOS">もう一度PINコードを確認してください</string>
-  <string name="pin_confirm_hint" platform="android, iOS">PINを確実に記憶してください。ウォレットを失った場合、復元することはできません</string>
+  <string name="pin_confirm_hint" platform="android, iOS">PINコードを確実に記憶してください。ウォレットを失った場合、復元することはできません</string>
   <string name="pin_creation" platform="android, iOS">PINコードの生成</string>
-  <string name="PIN_incorrect" platform="android, iOS">PINが違います</string>
+  <string name="PIN_incorrect" platform="android, iOS">PINコードが違います</string>
   <string name="pin_lost_hint" platform="android, iOS">PINコードを忘れた場合、ウォレットを復元することは一切できません</string>
   <string name="pin_title" platform="android, iOS, Desktop">ピン留め</string>
   <string name="pinned_a_audio" platform="iOS">%@が音声ファイルをピン留めしました</string>
@@ -914,10 +927,12 @@
   <string name="pinned_message_title" platform="android, iOS, Desktop">%1$d個のピン留めされたメッセージ</string>
   <string name="pinned_message_title.count" platform="android, iOS, Desktop">%1$d個のピン留めされたメッセージ</string>
   <string name="Pinned_Messages" platform="android">ピン留めされたメッセージ</string>
+  <string name="Play" platform="android">再生</string>
   <string name="Playback_failed" platform="android">再生失敗</string>
   <string name="Playlist" platform="android, iOS">プレイリスト</string>
   <string name="Please_wait_a_bit" platform="android">少々お待ちください…</string>
   <string name="POST" platform="android">投稿</string>
+  <string name="Post" platform="android, iOS, Desktop">投稿</string>
   <string name="post_sharing" platform="iOS">投稿</string>
   <string name="preferences" platform="Desktop">環境設定</string>
   <string name="Preparing" platform="iOS">準備中...</string>
@@ -926,8 +941,10 @@
   <string name="Privacy" platform="android, iOS">プライバシー</string>
   <string name="Privacy_Policy" platform="android, iOS, Desktop">プライバシーポリシー</string>
   <string name="profile_modify_number" platform="android">電話番号を変更しますか?</string>
+  <string name="Profile_photo" platform="android, iOS">プロフィール画像</string>
   <string name="profile_share_bot_hint" platform="android, iOS">ミニアプリをシェアしたい場合は、まずミニアプリを連絡先に追加してください。</string>
   <string name="Public_profile" platform="android, iOS">プロフィール(必須)</string>
+  <string name="QR_Code" platform="android, iOS">QRコード</string>
   <string name="qr_code_camera_code" platform="android">内蔵カメラでQRコードを読み取ります。コードが検出されたら、通知をタップしてください</string>
   <string name="QR_Code_not_found" platform="android, iOS">QRコードが見つかりません</string>
   <string name="quick_search" platform="Desktop">クイック検索</string>
@@ -942,8 +959,10 @@
   <string name="Read_Snapshots" platform="android, iOS">スナップショットの識別</string>
   <string name="Rebate" platform="android, iOS">払い戻し</string>
   <string name="Recaptcha_timeout" platform="android, Desktop">Recaptchaがタイムアウトしました</string>
+  <string name="Receive" platform="android">入金</string>
   <string name="RECEIVE" platform="android, iOS">入金</string>
   <string name="Receive_Money" platform="android, iOS">仮想通貨を受け取る</string>
+  <string name="Receiver" platform="android, iOS, Desktop">受取人</string>
   <string name="Receivers" platform="iOS">受取人</string>
   <string name="recent_chats" platform="android, iOS, Desktop">チャット</string>
   <string name="Recent_searches" platform="android, iOS">最近の検索</string>
@@ -1017,6 +1036,7 @@
   <string name="screen_lock_enable_biometric_hint" platform="iOS">Mixinをアンロックするには%@が必要になります。Mixinがロックされている場合でも、通知されたメッセージへの返信や電話の応答は可能です。</string>
   <string name="screen_lock_unlock" platform="iOS">Mixinをアンロックするために%@を使用してください</string>
   <string name="Search" platform="android, iOS, Desktop">検索</string>
+  <string name="search_contact" platform="Desktop">連絡先を検索</string>
   <string name="Search_Conversation" platform="android, iOS, Desktop">チャットルームを検索</string>
   <string name="search_empty" platform="Desktop">一致する情報は見つかりませんでした</string>
   <string name="Search_GIPHY" platform="android, iOS">GIPHYを検索する</string>
@@ -1052,6 +1072,7 @@
   <string name="send_item" platform="iOS">アイテムを一つ送信</string>
   <string name="send_item.count" platform="iOS">%1$sのアイテムを送信</string>
   <string name="Send_Message" platform="android, iOS">メッセージを送信</string>
+  <string name="send_photo" platform="iOS">写真を送信</string>
   <string name="send_photo.count" platform="iOS">%1$s枚の写真を送信</string>
   <string name="send_quickly" platform="Desktop">クイック送信</string>
   <string name="Send_This_Location" platform="android, iOS">位置情報を送信</string>
@@ -1060,12 +1081,14 @@
   <string name="Send_To_Title" platform="iOS">へ送信</string>
   <string name="Send_transfer" platform="android">送信</string>
   <string name="Send_verification_code_frequent" platform="iOS">しばらく経ってから再度送信してください</string>
+  <string name="send_video" platform="iOS">ビデオを送信</string>
   <string name="send_video.count" platform="iOS">%1$sのビデオを送信</string>
   <string name="send_without_compression" platform="Desktop">圧縮せずに送信</string>
   <string name="Send_Without_Sound" platform="android, iOS, Desktop">通知音を鳴らさずに送信する</string>
   <string name="Send_your_Current_Location" platform="android, iOS">現在地を送信</string>
   <string name="send.count" platform="iOS">送信(%1$s)</string>
   <string name="Senders" platform="android, iOS">送信者</string>
+  <string name="Set" platform="android, iOS, Desktop">設定</string>
   <string name="set_disappearing_message_time_to" platform="android, iOS, Desktop">1$sは、消えるメッセージの有効時間を%2$sに設定しました。</string>
   <string name="Set_new_PIN" platform="android, iOS">新しいPINコードを設定</string>
   <string name="Set_PIN" platform="android">PINコードを設定</string>
@@ -1086,7 +1109,7 @@
   <string name="setting_conversation_tip" platform="android, iOS">あなたにメッセージの送信や電話が可能なユーザー</string>
   <string name="setting_data_mobile" platform="android">モバイル回線使用時</string>
   <string name="setting_data_title" platform="android">メディア自動ダウンロード設定</string>
-  <string name="setting_data_wifi" platform="android">Wi-Fi</string>
+  <string name="setting_data_wifi" platform="android">Wi-Fiに接続時</string>
   <string name="setting_delete_account_content_2" platform="android">ローカルメッセージとiCloudにバックアップされた内容は自動的に削除されません</string>
   <string name="setting_delete_account_pin_content" platform="android, iOS">%1$sと紐付けられたプロフィールとアカウント情報が削除されます。詳細は「ドキュメント」をご覧ください。</string>
   <string name="setting_delete_account_send" platform="android, iOS">%1$sへ4桁のコードを送信します</string>
@@ -1201,6 +1224,7 @@
   <string name="Tools" platform="iOS">ツール</string>
   <string name="Touch_ID" platform="iOS">指紋認証</string>
   <string name="Touch_the_fingerprint_sensor" platform="android">指紋センサーにタッチしてください</string>
+  <string name="Trace" platform="android">記録情報</string>
   <string name="Track_not_found" platform="iOS">トラックが見つかりません</string>
   <string name="Trading" platform="iOS">トレード</string>
   <string name="Transaction" platform="android, iOS">トランザクション</string>
@@ -1339,7 +1363,8 @@
   <string name="When_roaming" platform="android">ローミング時</string>
   <string name="WiFi" platform="iOS">Wi-Fi</string>
   <string name="WiFi_and_cellular" platform="iOS">Wi-Fiとデータ通信</string>
-  <string name="withdraw_Address" platform="android, iOS">アドレス送金</string>
+  <string name="window" platform="Desktop">Window</string>
+  <string name="withdraw_Address" platform="android, iOS">アドレス</string>
   <string name="Withdraw_by_PIN" platform="iOS">PINコードを使って出金する</string>
   <string name="Withdrawal" platform="android, iOS">出金</string>
   <string name="withdrawal_addr_biometric_add" platform="android">生体認証を使用してアドレスを保存</string>
