@@ -62,7 +62,7 @@
   <string name="After_1_minute" platform="android">Через 1 минуту</string>
   <string name="After_30_minutes" platform="android">Через 30 минут</string>
   <string name="Agree_and_Continue" platform="android">Согласиться и продолжить</string>
-  <string name="agree_hint" platform="iOS">Продолжая, вы соглашаетесь с %\@ и %\@.</string>
+  <string name="agree_hint" platform="iOS">Продолжая, вы соглашаетесь с %@ и %@.</string>
   <string name="Albums" platform="iOS">Альбомы</string>
   <string name="alert_key_contact_audio_call_cancelled_message" platform="iOS">голосовой вызов отменен</string>
   <string name="alert_key_contact_audio_call_message" platform="android, iOS">приглашает вас на голосовой вызов</string>
@@ -106,7 +106,7 @@
   <string name="app_card_shareable_false" platform="android, iOS">Карта была настроена так, чтобы не разрешать совместное использование</string>
   <string name="app_name" platform="android">Mixin</string>
   <string name="app_update_short_hint" platform="iOS">Пожалуйста, обновите Mixin из App Store, чтобы продолжить пользоваться сервисом.</string>
-  <string name="app_update_tips" platform="iOS">Текущая версия (%\@) больше недоступна! Нажмите «Обновить» ниже, чтобы выполнить обновление до последней версии из App Store.</string>
+  <string name="app_update_tips" platform="iOS">Текущая версия (%@) больше недоступна! Нажмите «Обновить» ниже, чтобы выполнить обновление до последней версии из App Store.</string>
   <string name="App_version" platform="android">Версия приложения</string>
   <string name="Appearance" platform="android, iOS, Desktop">Вид</string>
   <string name="Apply" platform="android, iOS">Подать заявление</string>
@@ -124,7 +124,7 @@
   <string name="authorization" platform="android, iOS">авторизация</string>
   <string name="Authorizations" platform="android, iOS">Авторизации</string>
   <string name="Authorize" platform="iOS">Разрешить</string>
-  <string name="Authorize_payment_via" platform="iOS">Авторизовать платеж через %\@</string>
+  <string name="Authorize_payment_via" platform="iOS">Авторизовать платеж через %@</string>
   <string name="Authorized" platform="iOS">Авторизованный</string>
   <string name="auto_back_up_hint" platform="iOS">Автоматическое резервное копирование в iCloud только через Wi-Fi.</string>
   <string name="Auto_Backup" platform="iOS, Desktop">Автоматическое резервное копирование</string>
@@ -182,7 +182,7 @@
   <string name="call_on_another_call_hint" platform="android, iOS">Вы уже разговариваете по другому вызову. Попробуйте после окончания.</string>
   <string name="Call_Phone" platform="iOS">Телефонный звонок</string>
   <string name="call_pip_permission" platform="android">Вы не можете свернуть голосовой вызов, так как Mixin не имеет права использовать плавающие окна.</string>
-  <string name="call_remote_error" platform="iOS">Соединение не удалось. Код %\@</string>
+  <string name="call_remote_error" platform="iOS">Соединение не удалось. Код %@</string>
   <string name="call_who" platform="android">Позвонить %1$s</string>
   <string name="Call_with_Mixin" platform="iOS">Позвонить с Mixin</string>
   <string name="Chat_Background" platform="iOS">Фон чата</string>
@@ -229,7 +229,7 @@
   <string name="chat_call_duration" platform="android, iOS">Продолжительность %1$s</string>
   <string name="chat_call_warning_voice" platform="android, iOS">Не удается записать голосовые сообщения во время вызова Mixin.</string>
   <string name="chat_decryption_failed" platform="android, iOS">Не удалось расшифровать это сообщение, обновите Mixin до последней версии.</string>
-  <string name="chat_decryption_failed_hint" platform="iOS, Desktop">Ожидание подключения %\@ к сети и установления зашифрованного сеанса.</string>
+  <string name="chat_decryption_failed_hint" platform="iOS, Desktop">Ожидание подключения %@ к сети и установления зашифрованного сеанса.</string>
   <string name="chat_delete_message" platform="android">Удалить %1$d сообщение?</string>
   <string name="chat_delete_message.count" platform="android">Удалить %1$d сообщения?</string>
   <string name="chat_delete_url" platform="android">https://mixinmessenger.zendesk.com/hc/articles/360028209571</string>
@@ -276,8 +276,8 @@
   <string name="Circles" platform="android, iOS, Desktop">Круги</string>
   <string name="Clear" platform="android, iOS, Desktop">Очистить</string>
   <string name="Clear_chat" platform="android, iOS, Desktop">Очистить чат</string>
-  <string name="clear_contact_chat_confirmation" platform="iOS">Очистить чат с %\@?</string>
-  <string name="clear_group_chat_confirmation" platform="iOS">Очистить групповой чат %\@?</string>
+  <string name="clear_contact_chat_confirmation" platform="iOS">Очистить чат с %@?</string>
+  <string name="clear_group_chat_confirmation" platform="iOS">Очистить групповой чат %@?</string>
   <string name="Clear_unused_cache" platform="iOS">Очистить неиспользуемый кеш</string>
   <string name="Cleared" platform="iOS">Очищено</string>
   <string name="Clearing" platform="android">Очистка…</string>
@@ -289,7 +289,7 @@
   <string name="Close" platform="android, iOS">Закрыть</string>
   <string name="close_window" platform="Desktop">Закрыть окно</string>
   <string name="collapse" platform="Desktop">Свернуть</string>
-  <string name="collectible_token_id" platform="iOS">#%\@</string>
+  <string name="collectible_token_id" platform="iOS">#%@</string>
   <string name="Combine_and_forward" platform="android, iOS">Объединить и вперед</string>
   <string name="Compress_Database" platform="iOS">Сжать базу данных</string>
   <string name="Compressed" platform="iOS">Сжатый</string>
@@ -389,12 +389,12 @@
   <string name="Delete_Chat" platform="iOS, Desktop">Удалить чат</string>
   <string name="delete_chat_description" platform="Desktop">Удаление чата приведет к удалению сообщений только с этих устройств. Они не будут удалены с других устройств.</string>
   <string name="Delete_Circle" platform="iOS, Desktop">Удалить круг</string>
-  <string name="delete_contact_chat_confirmation" platform="iOS">Удалить чат с %\@?</string>
+  <string name="delete_contact_chat_confirmation" platform="iOS">Удалить чат с %@?</string>
   <string name="Delete_emergency_contact" platform="android, iOS">Удалить экстренный контакт</string>
   <string name="Delete_for_everyone" platform="android, iOS, Desktop">Удалить для всех</string>
   <string name="Delete_for_me" platform="android, iOS, Desktop">Удалить для меня</string>
   <string name="Delete_Group" platform="android, Desktop">Удалить группу</string>
-  <string name="delete_group_chat_confirmation" platform="iOS">Удалить групповой чат %\@?</string>
+  <string name="delete_group_chat_confirmation" platform="iOS">Удалить групповой чат %@?</string>
   <string name="Delete_my_account" platform="android, iOS">Удалить мой аккаунт</string>
   <string name="Delete_Synced_Contact" platform="android, iOS">Удалить синхронизированные контакты</string>
   <string name="delete_the_circle" platform="Desktop">Удалить %1$s круг?</string>
@@ -402,7 +402,7 @@
   <string name="Deleted" platform="iOS">Удалено</string>
   <string name="Deposit" platform="android, iOS">Депозит</string>
   <string name="deposit_account_attention" platform="android, iOS">Внимание: Пожалуйста, попробуйте небольшую сумму для первого депозита. Для успешного внесения %1$s в Mixin Messenger необходимы как памятка, так и адрес.</string>
-  <string name="Deposit_at_least" platform="iOS">Внесите не менее %\@ %\@ в первый раз.</string>
+  <string name="Deposit_at_least" platform="iOS">Внесите не менее %@ %@ в первый раз.</string>
   <string name="deposit_attention" platform="android, iOS">Пожалуйста, попробуйте небольшую сумму для первого депозита.</string>
   <string name="deposit_confirmation" platform="android, iOS">Депозит придет %1$d подтверждение блокировки</string>
   <string name="deposit_confirmation.count" platform="android, iOS">Депозит получит %1$d подтверждения блокировки</string>
@@ -425,7 +425,7 @@
   <string name="diagnose_warning_hint" platform="iOS">⚠️Используйте эти функции только по инструкции от команды Mixin.</string>
   <string name="Diagnosis_Complete" platform="android">Диагностика завершена</string>
   <string name="Disable" platform="iOS">Запретить</string>
-  <string name="disable_biometric_pay_confirmation" platform="iOS">Отключить %\@ Pay?</string>
+  <string name="disable_biometric_pay_confirmation" platform="iOS">Отключить %@ Pay?</string>
   <string name="Disable_db_debug" platform="android">Отключить отладку БД</string>
   <string name="disable_disappearing_message" platform="android, iOS">%1$s отключил исчезающие сообщения</string>
   <string name="Disable_web_debug" platform="android">Отключить веб-отладку</string>
@@ -470,8 +470,8 @@
   <string name="Enable_Emergency_Contact" platform="android, iOS">Включить экстренный контакт</string>
   <string name="enable_face_pay_hint" platform="iOS">Подтвердите PIN-код, чтобы включить Face Pay</string>
   <string name="Enable_immediately" platform="android">Включено немедленно</string>
-  <string name="enable_pay" platform="iOS">Включить %\@ Pay</string>
-  <string name="enable_pay_confirmation" platform="iOS">Включить %\@ Pay?</string>
+  <string name="enable_pay" platform="iOS">Включить %@ Pay</string>
+  <string name="enable_pay_confirmation" platform="iOS">Включить %@ Pay?</string>
   <string name="enable_touch_pay_hint" platform="iOS">Подтвердите PIN-код, чтобы включить Touch Pay</string>
   <string name="Enable_web_debug" platform="android">Включить веб-отладку</string>
   <string name="Encrypted" platform="android">Зашифровано</string>
@@ -494,7 +494,7 @@
   <string name="error_full_group" platform="android, iOS, Desktop">ОШИБКА 20116: Групповой чат заполнен.</string>
   <string name="error_insufficient_balance" platform="android, iOS, Desktop">ОШИБКА 20117: Недостаточный баланс</string>
   <string name="error_insufficient_transaction_fee_with_amount" platform="android, iOS, Desktop">ОШИБКА 20124: Недостаточная комиссия за транзакцию. Убедитесь, что в вашем кошельке есть %1$s в качестве комиссии.</string>
-  <string name="error_internal_with_msg" platform="iOS">Внутренняя ошибка: %\@</string>
+  <string name="error_internal_with_msg" platform="iOS">Внутренняя ошибка: %@</string>
   <string name="error_invalid_address" platform="android, Desktop">ОШИБКА 30102: Недопустимый формат адреса. Пожалуйста, введите правильный адрес %1$s %2$s!</string>
   <string name="error_invalid_address_plain" platform="android, iOS, Desktop">ОШИБКА 30102: Недопустимый формат адреса.</string>
   <string name="error_invalid_code_too_frequent" platform="android, Desktop">ОШИБКА 20129: Код подтверждения отправляется слишком часто. Повторите попытку позже.</string>
@@ -528,7 +528,7 @@
   <string name="error_too_small_withdraw_amount" platform="android, iOS, Desktop">ОШИБКА 20127: Слишком маленькая сумма вывода</string>
   <string name="error_transcript_forward" platform="android, Desktop">Пожалуйста, пересылайте все вложения после их загрузки</string>
   <string name="error_transfer_is_already_paid" platform="android, iOS">ОШИБКА 20125: Перевод уже оплачен.</string>
-  <string name="error_two_parts" platform="iOS">ОШИБКА %\@: %\@</string>
+  <string name="error_two_parts" platform="iOS">ОШИБКА %@: %@</string>
   <string name="error_unable_to_open_link" platform="android">Не могу найти приложение, которое может открыть эту ссылку.&#13;\n%1$s</string>
   <string name="error_unable_to_open_media" platform="android, Desktop">Не удается найти приложение, способное открыть этот носитель.</string>
   <string name="error_unknown_with_code" platform="android, Desktop">ОШИБКА: %1$d</string>
@@ -538,7 +538,7 @@
   <string name="error_withdrawal_memo_format_incorrect" platform="android, iOS, Desktop">ОШИБКА 20131: Неверный формат уведомления о снятии средств.</string>
   <string name="Everybody" platform="android, iOS">Все</string>
   <string name="Exit" platform="android, Desktop">Выход</string>
-  <string name="Exit_confirmation" platform="iOS">Выйти из %\@?</string>
+  <string name="Exit_confirmation" platform="iOS">Выйти из %@?</string>
   <string name="Exit_Group" platform="android, iOS, Desktop">Выйти из группы</string>
   <string name="Exit_group_and_report_inviter" platform="iOS">Выйти из группы и сообщить о приглашении</string>
   <string name="exit_without_save" platform="android">Выйти без сохранения?</string>
@@ -641,7 +641,7 @@
   <string name="Invalid_height" platform="iOS">Неверный рост</string>
   <string name="Invalid_Link" platform="android">Неверная ссылка</string>
   <string name="Invalid_malformed_address_eos_hint" platform="iOS">Неверный формат адреса. Mixin не поддерживает вывод средств на адрес контракта EOS!</string>
-  <string name="Invalid_malformed_address_hint" platform="iOS">Неверный формат адреса. Повторите попытку с действительным адресом %\@</string>
+  <string name="Invalid_malformed_address_hint" platform="iOS">Неверный формат адреса. Повторите попытку с действительным адресом %@</string>
   <string name="Invalid_parameters" platform="iOS">Недопустимые параметры</string>
   <string name="Invalid_payment_link" platform="android, iOS">Неверная ссылка для оплаты</string>
   <string name="Invalid_QR_Code" platform="android, iOS">Неверный QR-код</string>
@@ -676,9 +676,9 @@
   <string name="Language" platform="android, iOS">Язык</string>
   <string name="Large_Amount_Confirmation" platform="android, iOS">Подтверждение крупной суммы</string>
   <string name="Large_Amount_Confirmation_with_symbol" platform="android, iOS">Подтверждение крупной суммы(%1$s)</string>
-  <string name="Last_active_time" platform="iOS">Последнее посещение %\@</string>
+  <string name="Last_active_time" platform="iOS">Последнее посещение %@</string>
   <string name="Last_Backup" platform="android">Последнее резервное копирование</string>
-  <string name="last_backup_hint" platform="iOS">Последняя резервная копия %\@, общий размер %\@.</string>
+  <string name="last_backup_hint" platform="iOS">Последняя резервная копия %@, общий размер %@.</string>
   <string name="Later" platform="android, iOS">Потом</string>
   <string name="Learn_More" platform="android, iOS, Desktop">Узнать больше</string>
   <string name="less" platform="Desktop">меньше</string>
@@ -700,10 +700,10 @@
   <string name="locate_to_chat" platform="Desktop">найти, чтобы пообщаться</string>
   <string name="Locating" platform="iOS">Поиск...</string>
   <string name="Location" platform="android, iOS, Desktop">Расположение</string>
-  <string name="location_accuracy_to" platform="iOS">С точностью до %\@</string>
+  <string name="location_accuracy_to" platform="iOS">С точностью до %@</string>
   <string name="location_accurate" platform="android">Точность до %1$d метра</string>
   <string name="location_accurate.count" platform="android">Точность до %1$d метра</string>
-  <string name="location_distance" platform="iOS">Расстояние: %\@</string>
+  <string name="location_distance" platform="iOS">Расстояние: %@</string>
   <string name="location_distance_away" platform="android">%1$s %2$s осталось</string>
   <string name="location_empty" platform="android, iOS">По запросу %1$s ничего не найдено. Попробуйте новый поиск.</string>
   <string name="location_enable_title" platform="android">Включите GPS для доступа к местоположению</string>
@@ -711,7 +711,7 @@
   <string name="location_kilometre" platform="android">км</string>
   <string name="location_metre" platform="android">м</string>
   <string name="location_undetermined" platform="iOS">Ваше местоположение еще не определено. Пожалуйста, попробуйте позже</string>
-  <string name="lock_with_biometric" platform="iOS">Заблокировать с помощью %\@</string>
+  <string name="lock_with_biometric" platform="iOS">Заблокировать с помощью %@</string>
   <string name="Log_in" platform="android, iOS, Desktop">Авторизоваться</string>
   <string name="log_out_from_desktop" platform="android, iOS">Выйти с рабочего стола</string>
   <string name="login_and_abort_account_deletion" platform="android, iOS, Desktop">Продолжить вход и отменить удаление учетной записи</string>
@@ -771,7 +771,7 @@
   <string name="mute" platform="Desktop">Беззвучный</string>
   <string name="Mute_until" platform="android, iOS">До %1$s</string>
   <string name="Muted" platform="iOS, Desktop">Приглушен</string>
-  <string name="Muted_until" platform="iOS">Приглушено до %\@</string>
+  <string name="Muted_until" platform="iOS">Приглушено до %@</string>
   <string name="My_Contacts" platform="android, iOS">Мои контакты</string>
   <string name="my_mixin_id" platform="android, iOS, Desktop">Мой Mixin ID: %1$s</string>
   <string name="My_QR_Code" platform="android, iOS">Мой QR-код</string>
@@ -785,7 +785,7 @@
   <string name="Net_Diagnosis" platform="android">Чистая диагностика</string>
   <string name="network_connection_lost" platform="iOS">Сетевое соединение было потеряно, проверьте свою сеть и повторите попытку позже.</string>
   <string name="Network_error" platform="android, Desktop">Сетевая ошибка</string>
-  <string name="network_fee" platform="iOS">Сетевая комисиия: %\@</string>
+  <string name="network_fee" platform="iOS">Сетевая комисиия: %@</string>
   <string name="Network_Operator" platform="android">Сетевой оператор</string>
   <string name="Network_Type" platform="android">Тип сети</string>
   <string name="Network_unavailable" platform="android">Сеть недоступна</string>
@@ -843,7 +843,7 @@
   <string name="notification_message_preview_description" platform="iOS">Предварительный просмотр текста сообщения в уведомлениях о новых сообщениях.</string>
   <string name="notification_permission_manually" platform="Desktop">Уведомления запрещены. Чтобы включить их, перейдите в настройки уведомлений.</string>
   <string name="Notifications" platform="android, Desktop">Уведомления</string>
-  <string name="now_an_addmin" platform="iOS, Desktop">%\@ теперь администратор</string>
+  <string name="now_an_addmin" platform="iOS, Desktop">%@ теперь администратор</string>
   <string name="Now_Playing" platform="android">Сейчас играет</string>
   <string name="number_reached_limit" platform="android, iOS">Количество достигло предела</string>
   <string name="Off" platform="android, iOS">Выключенный</string>
@@ -873,14 +873,14 @@
   <string name="Owner" platform="android, iOS, Desktop">Владелец</string>
   <string name="parse_dns_result" platform="android">Разобрать результат DNS: </string>
   <string name="Participants" platform="android, iOS">Участники</string>
-  <string name="participants_count" platform="iOS, Desktop">%\@ УЧАСТНИКОВ</string>
+  <string name="participants_count" platform="iOS, Desktop">%@ УЧАСТНИКОВ</string>
   <string name="Pause" platform="android">Пауза</string>
   <string name="pay_paid" platform="android, iOS">Эта платежная ссылка уже кем-то оплачена, повторный платеж сделать нельзя.</string>
-  <string name="Pay_with" platform="iOS">Платить с помощью %\@</string>
+  <string name="Pay_with" platform="iOS">Платить с помощью %@</string>
   <string name="Pay_with_Biometrics" platform="android">Оплата с помощью биометрии</string>
   <string name="Pay_with_PIN" platform="android, iOS">Оплатить PIN-кодом</string>
   <string name="Pay_with_PIN_interval" platform="android, iOS">Оплата с интервалом PIN</string>
-  <string name="Pay_withdrawal_memo" platform="iOS">Сумма %\@ %\@&#13;\nКомиссия %\@ %\@</string>
+  <string name="Pay_withdrawal_memo" platform="iOS">Сумма %@ %@&#13;\nКомиссия %@ %@</string>
   <string name="Peer_closed" platform="iOS">Пир закрыт</string>
   <string name="Peer_not_found" platform="iOS">Пир не найден</string>
   <string name="pending_confirmation" platform="android, iOS">%1$d/%2$d подтверждение</string>
@@ -915,18 +915,18 @@
   <string name="PIN_incorrect" platform="android, iOS">PIN-код неверный</string>
   <string name="pin_lost_hint" platform="android, iOS">В случае утери кошелек невозможно восстановить.</string>
   <string name="pin_title" platform="android, iOS, Desktop">Pin</string>
-  <string name="pinned_a_audio" platform="iOS">%\@ закрепил аудио</string>
-  <string name="pinned_a_card" platform="iOS">%\@ закрепил карту</string>
-  <string name="pinned_a_contact" platform="iOS">%\@ закрепил контакт</string>
-  <string name="pinned_a_file" platform="iOS">%\@ закрепил файл</string>
-  <string name="pinned_a_general" platform="iOS">%\@ закрепил сообщение</string>
-  <string name="pinned_a_image" platform="iOS">%\@ закрепил фото</string>
-  <string name="pinned_a_live" platform="iOS">%\@ закрепил прямую трансляцию</string>
-  <string name="pinned_a_location" platform="iOS">%\@ закрепил местоположение</string>
-  <string name="pinned_a_post" platform="iOS">%\@ закрепил публикацию</string>
-  <string name="pinned_a_sticker" platform="iOS">%\@ прикрепил наклейку</string>
-  <string name="pinned_a_transcript" platform="iOS">%\@ закрепил стенограмму</string>
-  <string name="pinned_a_video" platform="iOS">%\@ закрепил видео</string>
+  <string name="pinned_a_audio" platform="iOS">%@ закрепил аудио</string>
+  <string name="pinned_a_card" platform="iOS">%@ закрепил карту</string>
+  <string name="pinned_a_contact" platform="iOS">%@ закрепил контакт</string>
+  <string name="pinned_a_file" platform="iOS">%@ закрепил файл</string>
+  <string name="pinned_a_general" platform="iOS">%@ закрепил сообщение</string>
+  <string name="pinned_a_image" platform="iOS">%@ закрепил фото</string>
+  <string name="pinned_a_live" platform="iOS">%@ закрепил прямую трансляцию</string>
+  <string name="pinned_a_location" platform="iOS">%@ закрепил местоположение</string>
+  <string name="pinned_a_post" platform="iOS">%@ закрепил публикацию</string>
+  <string name="pinned_a_sticker" platform="iOS">%@ прикрепил наклейку</string>
+  <string name="pinned_a_transcript" platform="iOS">%@ закрепил стенограмму</string>
+  <string name="pinned_a_video" platform="iOS">%@ закрепил видео</string>
   <string name="pinned_message_title" platform="android, iOS, Desktop">%1$d закрепленное сообщение</string>
   <string name="pinned_message_title.count" platform="android, iOS, Desktop">%1$d закрепленных сообщений</string>
   <string name="Pinned_Messages" platform="android">Закрепленные сообщения</string>
@@ -939,7 +939,7 @@
   <string name="post_sharing" platform="iOS">публикация</string>
   <string name="preferences" platform="Desktop">Настройки</string>
   <string name="Preparing" platform="iOS">Подготовка...</string>
-  <string name="Preparing_progress" platform="iOS">Подготовка...(%\@)</string>
+  <string name="Preparing_progress" platform="iOS">Подготовка...(%@)</string>
   <string name="previous_conversation" platform="Desktop">Предыдущий разговор</string>
   <string name="Privacy" platform="android, iOS">Конфиденциальность</string>
   <string name="Privacy_Policy" platform="android, iOS, Desktop">Политика конфиденциальности</string>
@@ -995,7 +995,7 @@
   <string name="Requests_access_to_your" platform="android">Запрашивает доступ к вашему</string>
   <string name="Resend_code" platform="android, iOS, Desktop">Отправить код еще раз</string>
   <string name="Resend_code_in" platform="android, Desktop">Повторно отправить код через %1$d с.</string>
-  <string name="resend_code_pending" platform="iOS">Повторно отправить код в %\@</string>
+  <string name="resend_code_pending" platform="iOS">Повторно отправить код в %@</string>
   <string name="reset" platform="Desktop">Перезагрузить</string>
   <string name="Reset_Link" platform="android, iOS, Desktop">Сбросить ссылку</string>
   <string name="Reset_notifications" platform="android">Сбросить уведомления</string>
@@ -1009,7 +1009,7 @@
   <string name="restore_not_found" platform="android">Не найдено, скопируйте файл резервной копии в %1$s.</string>
   <string name="restore_path" platform="android">Путь: %1$s</string>
   <string name="Restoring" platform="android, iOS">Восстановление...</string>
-  <string name="Restoring_progress" platform="iOS">Восстановление %\@</string>
+  <string name="Restoring_progress" platform="iOS">Восстановление %@</string>
   <string name="Retry" platform="android">Повторить попытку</string>
   <string name="Retry_upload_failed" platform="android, Desktop">Повторная загрузка не удалась.</string>
   <string name="Revoke_access" platform="android, iOS">Отменить доступ</string>
@@ -1036,8 +1036,8 @@
   <string name="Scan_QR" platform="android">Сканировать QR-код</string>
   <string name="Scan_QR_Code" platform="android, iOS">Сканировать QR-код</string>
   <string name="Screen_Lock" platform="android, iOS">Блокировка экрана</string>
-  <string name="screen_lock_enable_biometric_hint" platform="iOS">Вам нужно будет использовать %\@, чтобы разблокировать Mixin. Вы по-прежнему можете отвечать на сообщения из уведомлений и отвечать на звонки, если Mixin заблокирован.</string>
-  <string name="screen_lock_unlock" platform="iOS">Используйте %\@, чтобы разблокировать Mixin</string>
+  <string name="screen_lock_enable_biometric_hint" platform="iOS">Вам нужно будет использовать %@, чтобы разблокировать Mixin. Вы по-прежнему можете отвечать на сообщения из уведомлений и отвечать на звонки, если Mixin заблокирован.</string>
+  <string name="screen_lock_unlock" platform="iOS">Используйте %@, чтобы разблокировать Mixin</string>
   <string name="Search" platform="android, iOS, Desktop">Поиск</string>
   <string name="search_contact" platform="Desktop">Поиск контакта</string>
   <string name="Search_Conversation" platform="android, iOS, Desktop">Поиск беседы</string>
@@ -1059,7 +1059,7 @@
   <string name="Select_a_country_or_region" platform="iOS">Выберите страну или регион</string>
   <string name="Select_Emergency_Contact" platform="android, iOS">Выберите экстренный контакт</string>
   <string name="Select_More_Photos" platform="iOS">Выберите больше фотографий</string>
-  <string name="selected_count" platform="iOS">%\@ Выбрано</string>
+  <string name="selected_count" platform="iOS">%@ Выбрано</string>
   <string name="selected_Item" platform="iOS">Выбрано 1 элемент</string>
   <string name="selected_Item.count" platform="iOS">Выбрано %1$d элементов</string>
   <string name="selected_photo" platform="iOS">Выбрано 1 фото</string>
@@ -1177,11 +1177,11 @@
   <string name="Sort" platform="android">Сортировать</string>
   <string name="Sort_by" platform="android, iOS">Сортировать по</string>
   <string name="Start_Messaging" platform="android, iOS">Начать обмен сообщениями</string>
-  <string name="started_group_call" platform="iOS">%\@ начал групповой вызов</string>
+  <string name="started_group_call" platform="iOS">%@ начал групповой вызов</string>
   <string name="Status" platform="android, iOS">Статус</string>
   <string name="Sticker" platform="android, iOS, Desktop">Наклейка</string>
   <string name="sticker_add_invalid_size" platform="android">Требуется размер файла наклеек от 1 КБ до 1 МБ, ширина и высота от 128 до 1024 пикселей.</string>
-  <string name="sticker_add_requirements" platform="iOS">Требуется размер файла наклеек больше %\@KB и меньше %\@KB, ширина и высота от %\@ до %\@ пикселей.</string>
+  <string name="sticker_add_requirements" platform="iOS">Требуется размер файла наклеек больше %@KB и меньше %@KB, ширина и высота от %@ до %@ пикселей.</string>
   <string name="sticker_album_detail" platform="Desktop">Деталь альбома стикеров</string>
   <string name="Sticker_Store" platform="android, iOS, Desktop">Магазин наклеек</string>
   <string name="stickers_count" platform="android, iOS">%d стикеров</string>
@@ -1212,7 +1212,7 @@
   <string name="Terms_of_Service" platform="android, iOS, Desktop">Условия обслуживания</string>
   <string name="Text" platform="android, Desktop">Текст</string>
   <string name="text" platform="iOS">текст</string>
-  <string name="text_confirm_send_code" platform="iOS">Пожалуйста, подтвердите номер телефона %\@</string>
+  <string name="text_confirm_send_code" platform="iOS">Пожалуйста, подтвердите номер телефона %@</string>
   <string name="TEXT_QR_CODE" platform="android, iOS">ТЕКСТОВЫЙ QR-КОД</string>
   <string name="The_code_is_incorrect" platform="android, iOS">Код неверный.</string>
   <string name="Theme" platform="android, Desktop">Тема</string>
@@ -1241,7 +1241,7 @@
   <string name="Transfer" platform="android, iOS, Desktop">Передача</string>
   <string name="Transfer_Amount" platform="android">Сумма перевода</string>
   <string name="Transfer_Amount_count_down" platform="android, iOS">Сумма перевода(%1$s)</string>
-  <string name="transfer_error_pin_incorrect_with_times" platform="iOS">ОШИБКА 20119: неверный PIN-код. У вас еще есть %\@ шансов. Пожалуйста, подождите 24 часа, чтобы повторить попытку позже.</string>
+  <string name="transfer_error_pin_incorrect_with_times" platform="iOS">ОШИБКА 20119: неверный PIN-код. У вас еще есть %@ шансов. Пожалуйста, подождите 24 часа, чтобы повторить попытку позже.</string>
   <string name="transfer_memo" platform="android, iOS">Памятка (необязательно)</string>
   <string name="Transfer_Notifications" platform="android, iOS">Уведомления о переносе</string>
   <string name="transfer_qrcode_prompt" platform="android, iOS">Отсканируйте QR-код, чтобы перевести меня на Mixin</string>
@@ -1292,10 +1292,10 @@
   <string name="Upload_Mobile_Contacts" platform="android, iOS">Загрузить мобильные контакты</string>
   <string name="Upload_timeout" platform="android">Тайм-аут загрузки</string>
   <string name="Uploading" platform="iOS">Загрузка...</string>
-  <string name="Uploading_progress" platform="iOS">Загрузка: %\@ из %\@ (%\@)</string>
-  <string name="url_unrecognized_hint" platform="iOS">%\@ не удалось распознать, обновите Mixin до последней версии или свяжитесь с разработчиком, чтобы проверить ссылку</string>
+  <string name="Uploading_progress" platform="iOS">Загрузка: %@ из %@ (%@)</string>
+  <string name="url_unrecognized_hint" platform="iOS">%@ не удалось распознать, обновите Mixin до последней версии или свяжитесь с разработчиком, чтобы проверить ссылку</string>
   <string name="Use_Biometric_Multisig" platform="android">Использовать биометрическую мультиподпись</string>
-  <string name="use_biometry" platform="iOS">Использовать %\@</string>
+  <string name="use_biometry" platform="iOS">Использовать %@</string>
   <string name="Use_face_multisig" platform="iOS">Используйте Face Multisig</string>
   <string name="Use_face_pay" platform="iOS">Используйте Face Pay</string>
   <string name="Use_face_withdraw" platform="iOS">Используйте Face Withdraw</string>
@@ -1330,9 +1330,9 @@
   <string name="wallet_already_shown" platform="android">%1$s было показано</string>
   <string name="wallet_biometric_invalid" platform="android">Неверный статус биометрии, сбросьте его в настройках кошелька.</string>
   <string name="wallet_biometric_screen_lock_desc" platform="android">Используйте шаблон своего устройства, чтобы продолжить</string>
-  <string name="wallet_enable_biometric_pay" platform="iOS">После включения, %\@ можно использовать для быстрой передачи.</string>
+  <string name="wallet_enable_biometric_pay" platform="iOS">После включения, %@ можно использовать для быстрой передачи.</string>
   <string name="wallet_enable_biometric_pay_prompt" platform="android">После включения биометрические данные можно использовать для быстрых переводов.</string>
-  <string name="wallet_hide_asset_confirmation" platform="iOS">Вы уверены, что хотите скрыть %\@?</string>
+  <string name="wallet_hide_asset_confirmation" platform="iOS">Вы уверены, что хотите скрыть %@?</string>
   <string name="wallet_password_change_tip" platform="android">Пожалуйста, введите 6-значный PIN-код для подтверждения.</string>
   <string name="wallet_password_not_equal" platform="android, iOS">PIN-код не повторяется дважды, попробуйте еще раз.</string>
   <string name="wallet_password_set_new_pin_desc" platform="android">Установите новый 6-значный PIN-код.</string>
