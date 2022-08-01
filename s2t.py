@@ -9,4 +9,4 @@ for element in rootElement.findall('string'):
     content = element.text
     element.text = converter.convert(content)
 
-xmlTree.write('./client/zh-HK.xml', encoding='UTF-8')
+xmlTree.write('./client/zh-TW.xml', encoding='UTF-8')
