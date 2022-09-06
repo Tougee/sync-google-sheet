@@ -263,7 +263,7 @@
   <string name="check_trace_failed" platform="android">記録情報の確認失敗、もう一度お試しください</string>
   <string name="Checking_link" platform="android">リンク確認中</string>
   <string name="Checking_payment_info" platform="android">支払い情報を確認中</string>
-  <string name="CHOOSE" platform="android">選択</string>
+  <string name="Choose" platform="android">選択</string>
   <string name="Choose_folder" platform="android">フォルダを選択する</string>
   <string name="Choose_Photo" platform="iOS">画像を選ぶ</string>
   <string name="circle_bottom" platform="android">グループリストを作成し、種類の異なるチャットを切り替えましょう</string>

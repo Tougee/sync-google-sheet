@@ -264,7 +264,7 @@
 | android | check_trace_failed | Check trace info failed, please try again | 检查支付信息失败，请重试 | 記録情報の確認失敗、もう一度お試しください | Periksa maklumat jejak gagal, sila cuba lagi | Gagal memeiksa info jejak, coba lagi |
 | android | Checking_link | Checking link | 正在检查链接 | リンク確認中 | Memeriksa pautan | Memeriksa tautan |
 | android | Checking_payment_info | Checking payment info | 请检查支付信息 | 支払い情報を確認中 | Memeriksa maklumat pembayaran | Memeriksa info pembayaran |
-| android | CHOOSE | CHOOSE | 选择  | 選択  |     |     |
+| android | Choose | Choose | 选择  | 選択  |     |     |
 | android | Choose_folder | Choose folder | 选择文件夹 | フォルダを選択する |     |     |
 | iOS | Choose_Photo | Choose Photo | 选择照片 | 画像を選ぶ |     |     |
 | android | circle_bottom | Create circle for different groups of chats and quickly switch between them | 为不同对话创建圈子然后在它们之间快速切换 | グループリストを作成し、種類の異なるチャットを切り替えましょう | Buat lingkaran untuk kumpulan sembang yang berbeza \ndan beralih antara mereka dengan segera | Buat lingkaran untuk grup obrolan yang berbeda dan beralih dengan cepat di antaranya |
