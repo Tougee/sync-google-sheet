@@ -763,7 +763,7 @@
 | iOS | Monthly | Monthly | 每月  | 月   |     |     |
 | android, iOS, Desktop | More | More | 更多  | もっとみる | Lebih banyak lagi | Lebih banyak |
 | android, iOS | Multisig_by_PIN | Multisig by PIN | 通过 PIN 签名 | PINコードでマルチシグウォレットを使用する | Multisig dengan PIN | Multisig dengan PIN |
-| android | multisig_receivers_threshold | Receivers (%1$s) | 交易接收人（%1$s） | 受取人 | Penerima (%1$s) | Penerima (%1$s) |
+| android | multisig_receivers_threshold | Receivers (%1$s) | 交易接收人（%1$s） | 受取人(%1$s) | Penerima (%1$s) | Penerima (%1$s) |
 | android, iOS | multisig_state_signed | This multisig link has already been signed by yourself, you can not make a duplicate operation. | 您已经对这笔交易进行了签名，您无法再次签名。 | このマルチシグリンクはすでにあなたが署名しているため、重複した操作を行うことはできません | Pautan multisig ini sudah ditandatangani oleh anda sendiri, anda tidak boleh membuat operasi pendua. | Tautan multisig ini telah dibuka oleh Anda sendiri, Anda tidak dapat melakukan tindakan ganda. |
 | android, iOS | multisig_state_unlocked | This multisig link has already been unlocked by someone, you can not make a duplicate operation. | 这笔交易已经被其他人撤销了，您无法再次撤销。 | このマルチシグリンクは既に他のユーザーによってロック解除されています。重複した操作を行うことはできません。 | Pautan multisig ini telah dibuka kuncinya oleh seseorang, anda tidak boleh membuat operasi pendua. | Tautan multisig ini telah dibuka oleh seseorang, Anda tidak dapat melakukan tindakan ganda. |
 | android, iOS | Multisig_Transaction | Multisig Transaction | 多重签名交易 | マルチシグトランザクション | Transaksi Multisig | Transaksi Multisig |
