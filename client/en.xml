@@ -953,6 +953,7 @@
   <string name="quit_mixin" platform="Desktop">Quit Mixin</string>
   <string name="quote" platform="android">quote</string>
   <string name="Raw" platform="android, iOS">Raw</string>
+  <string name="Raw_Transfer" platform="android">Raw Transfer</string>
   <string name="Read_Assets" platform="android, iOS">Read Assets</string>
   <string name="Read_Bots" platform="android, iOS">Read Bots</string>
   <string name="Read_Circles" platform="android, iOS">Read Circles</string>

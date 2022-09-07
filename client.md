@@ -954,6 +954,7 @@
 | Desktop | quit_mixin | Quit Mixin | 退出 Mixin | 終了  |     |     |
 | android | quote | quote | 引用  | 引用  | petikan |     |
 | android, iOS | Raw | Raw | 其他  | その他 | Mentah | Raw |
+| android | Raw_Transfer | Raw Transfer |     |     |     |     |
 | android, iOS | Read_Assets | Read Assets | 查看资产 | ウォレット資産識別 | Baca Aset | Membaca Aset |
 | android, iOS | Read_Bots | Read Bots | 查看应用 | ミニアプリの識別 | Aplikasi baca | Membaca Aplikasi |
 | android, iOS | Read_Circles | Read Circles | 查看圈子 | グループリストの識別 | Lingkaran Baca |     |
