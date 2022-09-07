@@ -625,7 +625,7 @@
   <string name="Transfer_Amount_count_down" platform="android, iOS">Jumlah Transfer(%1$s)</string>
   <string name="Transfer_Notifications" platform="android, iOS">Notifikasi Transfer</string>
   <string name="transfer_to" platform="android, iOS">Transfer ke %1$s</string>
-  <string name="Transfer_to_Mixin_address" platform="android, iOS">Transfer ke alamat Mixin</string>
+  <string name="Transfer_to_Mixin_address" platform="iOS">Transfer ke alamat Mixin</string>
   <string name="Transfer_to_user_or_bot" platform="iOS">Transfer ke pengguna atau bot</string>
   <string name="transfer_without_pin" platform="android">Anda harus membuat PIN untuk transfer</string>
   <string name="Try_Again" platform="android, iOS">Coba lagi</string>

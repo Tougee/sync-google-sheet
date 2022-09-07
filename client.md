@@ -1248,7 +1248,7 @@
 | android, iOS | Transfer_Notifications | Transfer Notifications | 转账通知 | 送金の受取通知 | Pindahkan Pemberitahuan | Notifikasi Transfer |
 | android, iOS | transfer_qrcode_prompt | Scan the QR Code to transfer me on Mixin | 用 Mixin 扫描二维码给我转账 | 私に送金するためにQRコードをスキャンして下さい。 |     |     |
 | android, iOS | transfer_to | Transfer to %1$s | 转账给 %1$s | %1$sに送金する | Pindahkan ke %1$s | Transfer ke %1$s |
-| android, iOS | Transfer_to_Mixin_address | Transfer to Mixin address | 给主网地址转账 | Mixinのアドレスへ送金する | Pindahkan ke alamat Mixin | Transfer ke alamat Mixin |
+| iOS | Transfer_to_Mixin_address | Transfer to Mixin address | 给主网地址转账 | Mixinのアドレスへ送金する | Pindahkan ke alamat Mixin | Transfer ke alamat Mixin |
 | iOS | Transfer_to_user_or_bot | Transfer to user or bot | 给用户或机器人转账 | ミニアプリまたはユーザーへ送金する | Pindahkan ke pengguna atau bot | Transfer ke pengguna atau bot |
 | android | transfer_without_pin | You must setup PIN for transfer | 转账前请先设置 PIN | 送金するにはPINコードの設定が必要です | Anda mesti sediakan PIN untuk pemindahan | Anda harus membuat PIN untuk transfer |
 | android, iOS | Trending | Trending | 热门资产 | トレンド | Sohor Kini |     |

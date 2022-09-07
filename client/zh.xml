@@ -1228,7 +1228,7 @@
   <string name="Transfer_Notifications" platform="android, iOS">转账通知</string>
   <string name="transfer_qrcode_prompt" platform="android, iOS">用 Mixin 扫描二维码给我转账</string>
   <string name="transfer_to" platform="android, iOS">转账给 %1$s</string>
-  <string name="Transfer_to_Mixin_address" platform="android, iOS">给主网地址转账</string>
+  <string name="Transfer_to_Mixin_address" platform="iOS">给主网地址转账</string>
   <string name="Transfer_to_user_or_bot" platform="iOS">给用户或机器人转账</string>
   <string name="transfer_without_pin" platform="android">转账前请先设置 PIN</string>
   <string name="Trending" platform="android, iOS">热门资产</string>

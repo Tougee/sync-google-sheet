@@ -1247,7 +1247,7 @@
   <string name="Transfer_Notifications" platform="android, iOS">Transfer Notifications</string>
   <string name="transfer_qrcode_prompt" platform="android, iOS">Scan the QR Code to transfer me on Mixin</string>
   <string name="transfer_to" platform="android, iOS">Transfer to %1$s</string>
-  <string name="Transfer_to_Mixin_address" platform="android, iOS">Transfer to Mixin address</string>
+  <string name="Transfer_to_Mixin_address" platform="iOS">Transfer to Mixin address</string>
   <string name="Transfer_to_user_or_bot" platform="iOS">Transfer to user or bot</string>
   <string name="transfer_without_pin" platform="android">You must setup PIN for transfer</string>
   <string name="Trending" platform="android, iOS">Trending</string>
