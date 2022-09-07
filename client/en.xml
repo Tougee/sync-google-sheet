@@ -1079,6 +1079,7 @@
   <string name="send_quickly" platform="Desktop">Send quickly</string>
   <string name="Send_This_Location" platform="android, iOS">Send This Location</string>
   <string name="send_to" platform="android, iOS">Send to %1$s</string>
+  <string name="Send_to_contact" platform="android">Send to contact</string>
   <string name="Send_to_Developer" platform="iOS">Send to Developer</string>
   <string name="Send_To_Title" platform="iOS">Send To</string>
   <string name="Send_transfer" platform="android">Send</string>
@@ -1246,7 +1247,7 @@
   <string name="transfer_qrcode_prompt" platform="android, iOS">Scan the QR Code to transfer me on Mixin</string>
   <string name="transfer_to" platform="android, iOS">Transfer to %1$s</string>
   <string name="Transfer_to_Mixin_address" platform="android, iOS">Transfer to Mixin address</string>
-  <string name="Transfer_to_user_or_bot" platform="android, iOS">Transfer to user or bot</string>
+  <string name="Transfer_to_user_or_bot" platform="iOS">Transfer to user or bot</string>
   <string name="transfer_without_pin" platform="android">You must setup PIN for transfer</string>
   <string name="Trending" platform="android, iOS">Trending</string>
   <string name="Try_Again" platform="android, iOS">Try Again</string>

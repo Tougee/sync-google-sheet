@@ -1080,6 +1080,7 @@
 | Desktop | send_quickly | Send quickly | 快速发送 | クイック送信 |     |     |
 | android, iOS | Send_This_Location | Send This Location | 发送这个位置 | 位置情報を送信 | Hantar Lokasi Ini | Kirim Lokasi Ini |
 | android, iOS | send_to | Send to %1$s | 发送给 %1$s | %1$sへ送信 | Hantar ke %1$s | Kirim ke %1$s |
+| android | Send_to_contact | Send to contact | 转账给联系人 |     |     |     |
 | iOS | Send_to_Developer | Send to Developer | 把日志发给开发者 | 開発者へ送信 |     |     |
 | iOS | Send_To_Title | Send To | 转给  | 振替先 |     |     |
 | android | Send_transfer | Send | 转出  | 送信  |     |     |
@@ -1247,7 +1248,7 @@
 | android, iOS | transfer_qrcode_prompt | Scan the QR Code to transfer me on Mixin | 用 Mixin 扫描二维码给我转账 | 私に送金するためにQRコードをスキャンして下さい。 |     |     |
 | android, iOS | transfer_to | Transfer to %1$s | 转账给 %1$s | %1$sに送金する | Pindahkan ke %1$s | Transfer ke %1$s |
 | android, iOS | Transfer_to_Mixin_address | Transfer to Mixin address | 给主网地址转账 | Mixinのアドレスへ送金する | Pindahkan ke alamat Mixin | Transfer ke alamat Mixin |
-| android, iOS | Transfer_to_user_or_bot | Transfer to user or bot | 给用户或机器人转账 | ミニアプリまたはユーザーへ送金する | Pindahkan ke pengguna atau bot | Transfer ke pengguna atau bot |
+| iOS | Transfer_to_user_or_bot | Transfer to user or bot | 给用户或机器人转账 | ミニアプリまたはユーザーへ送金する | Pindahkan ke pengguna atau bot | Transfer ke pengguna atau bot |
 | android | transfer_without_pin | You must setup PIN for transfer | 转账前请先设置 PIN | 送金するにはPINコードの設定が必要です | Anda mesti sediakan PIN untuk pemindahan | Anda harus membuat PIN untuk transfer |
 | android, iOS | Trending | Trending | 热门资产 | トレンド | Sohor Kini |     |
 | android, iOS | Try_Again | Try Again | 请重试 | もう一度試す | Cuba lagi | Coba lagi |

@@ -679,7 +679,7 @@
   <string name="Transfer_Notifications" platform="android, iOS">Pindahkan Pemberitahuan</string>
   <string name="transfer_to" platform="android, iOS">Pindahkan ke %1$s</string>
   <string name="Transfer_to_Mixin_address" platform="android, iOS">Pindahkan ke alamat Mixin</string>
-  <string name="Transfer_to_user_or_bot" platform="android, iOS">Pindahkan ke pengguna atau bot</string>
+  <string name="Transfer_to_user_or_bot" platform="iOS">Pindahkan ke pengguna atau bot</string>
   <string name="transfer_without_pin" platform="android">Anda mesti sediakan PIN untuk pemindahan</string>
   <string name="Trending" platform="android, iOS">Sohor Kini</string>
   <string name="Try_Again" platform="android, iOS">Cuba lagi</string>

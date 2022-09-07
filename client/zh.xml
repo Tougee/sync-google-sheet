@@ -1063,6 +1063,7 @@
   <string name="send_quickly" platform="Desktop">快速发送</string>
   <string name="Send_This_Location" platform="android, iOS">发送这个位置</string>
   <string name="send_to" platform="android, iOS">发送给 %1$s</string>
+  <string name="Send_to_contact" platform="android">转账给联系人</string>
   <string name="Send_to_Developer" platform="iOS">把日志发给开发者</string>
   <string name="Send_To_Title" platform="iOS">转给</string>
   <string name="Send_transfer" platform="android">转出</string>
@@ -1228,7 +1229,7 @@
   <string name="transfer_qrcode_prompt" platform="android, iOS">用 Mixin 扫描二维码给我转账</string>
   <string name="transfer_to" platform="android, iOS">转账给 %1$s</string>
   <string name="Transfer_to_Mixin_address" platform="android, iOS">给主网地址转账</string>
-  <string name="Transfer_to_user_or_bot" platform="android, iOS">给用户或机器人转账</string>
+  <string name="Transfer_to_user_or_bot" platform="iOS">给用户或机器人转账</string>
   <string name="transfer_without_pin" platform="android">转账前请先设置 PIN</string>
   <string name="Trending" platform="android, iOS">热门资产</string>
   <string name="Try_Again" platform="android, iOS">请重试</string>
