@@ -1411,4 +1411,6 @@
   <string name="Start" platform="android,iOS">开始</string>
   <string name="Enter_your_old_PIN" platform="android,iOS">输入你的旧 PIN</string>
   <string name="Enter_your_new_PIN" platform="android,iOS">输入你的新 PIN</string>
+  <string name="Not_enough_partials" platform="android,iOS">没有足够的节点返回密钥分片</string>
+  <string name="Not_all_signer_success" platform="android,iOS">有些节点失败了</string>
 </resources>

@@ -1438,4 +1438,5 @@
   <string name="Enter_your_old_PIN" platform="android,iOS">Enter your old PIN</string>
   <string name="Enter_your_new_PIN" platform="android,iOS">Enter your new PIN</string>
   <string name="Not_enough_partials" platform="android,iOS">Not enough nodes return key shard</string>
+  <string name="Not_all_signer_success" platform="android,iOS">Not all node success</string>
 </resources>
