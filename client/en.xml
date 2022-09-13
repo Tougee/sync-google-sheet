@@ -1451,4 +1451,6 @@
   <string name="Connect_to_TIP_network_failed" platform="android,iOS">If you see "Failed to connect to the TIP network", please try switching to 4G, Wi-Fi, or VPN and attempting again.</string>
   <string name="Upgrade_need_verify_your_PIN" platform="android,iOS">The upgrade requires verifying your PIN.</string>
   <string name="Continue_need_verify_your_PIN" platform="android,iOS">Continue need to verify your old PIN and new PIN</string>
+  <string name="Exchanging_data" platform="android,iOS">Synchronization key shards in progress:(%1$d/%2$d)…</string>
+  <string name="Upgrade_PIN_aborted_unexpectedly_at" platform="android,iOS">The process of upgrading TIP terminated unexpectedly at %1$s</string>
 </resources>

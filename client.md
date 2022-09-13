@@ -1452,4 +1452,6 @@
 | android,iOS | Connect_to_TIP_network_failed | If you see "Failed to connect to the TIP network", please try switching to 4G, Wi-Fi, or VPN and attempting again. | 连接 TIP 网络失败，请尝试切换4G、Wi-Fi 或 VPN 后重试 |     |     |     |
 | android,iOS | Upgrade_need_verify_your_PIN | The upgrade requires verifying your PIN. | 升级需要验证你的 PIN |     |     |     |
 | android,iOS | Continue_need_verify_your_PIN | Continue need to verify your old PIN and new PIN | 继续需要验证你的旧 PIN 以及新 PIN |     |     |     |
-| android,iOS |     |     |     |     |     |     |
+| android,iOS | Exchanging_data | Synchronization key shards in progress:(%1$d/%2$d)… | 正在同步密钥分片，进度（%1$d/%2$d）… |     |     |     |
+| android,iOS | Upgrade_PIN_aborted_unexpectedly_at | The process of upgrading TIP terminated unexpectedly at %1$s | 升级 TIP 意外终止于 %1$s |     |     |     |
+| android,iOS | Syncing_and_verifying_TIP |     |     |     |     |     |
