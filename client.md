@@ -1334,7 +1334,6 @@
 | android, iOS | Upgrade_Database | Upgrade Database | 数据库升级 | データベースをアップグレード | Naik taraf Pangkalan Data | Tingkatkan Database |
 | android,iOS | Upgrade_need_verify_your_PIN | The upgrade requires verifying your PIN. | 升级需要验证你的 PIN |     |     |     |
 | android,iOS | Upgrade_PIN | Upgrade PIN | 升级 PIN |     |     |     |
-| android,iOS | Upgrade_PIN_aborted_unexpectedly_at | The process of upgrading TIP terminated unexpectedly at %1$s | 升级 TIP 意外终止于 %1$s |     |     |     |
 | android, iOS | Upgrading | Upgrading | 升级中... | アップデート中 | Menaik taraf | Meningkatkan |
 | android, iOS | Upload_Mobile_Contacts | Upload Mobile Contacts | 上传通讯录找好友 | 連絡先をアップロードする |     |     |
 | android | Upload_timeout | Upload timeout | 上传超时 | アップロードタイムアウト | Tamat masa muat naik | Batas waktu unggah |
@@ -1455,3 +1454,4 @@
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |
 | AppStore |     | Convenient wallet for popular cryptocurrencies |     |     |     |     |
+| android,iOS |     |     |     |     |     |     |

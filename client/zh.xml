@@ -1314,7 +1314,6 @@
   <string name="Upgrade_Database" platform="android, iOS">数据库升级</string>
   <string name="Upgrade_need_verify_your_PIN" platform="android,iOS">升级需要验证你的 PIN</string>
   <string name="Upgrade_PIN" platform="android,iOS">升级 PIN</string>
-  <string name="Upgrade_PIN_aborted_unexpectedly_at" platform="android,iOS">升级 TIP 意外终止于 %1$s</string>
   <string name="Upgrading" platform="android, iOS">升级中...</string>
   <string name="Upload_Mobile_Contacts" platform="android, iOS">上传通讯录找好友</string>
   <string name="Upload_timeout" platform="android">上传超时</string>

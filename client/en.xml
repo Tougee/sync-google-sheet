@@ -1333,7 +1333,6 @@
   <string name="Upgrade_Database" platform="android, iOS">Upgrade Database</string>
   <string name="Upgrade_need_verify_your_PIN" platform="android,iOS">The upgrade requires verifying your PIN.</string>
   <string name="Upgrade_PIN" platform="android,iOS">Upgrade PIN</string>
-  <string name="Upgrade_PIN_aborted_unexpectedly_at" platform="android,iOS">The process of upgrading TIP terminated unexpectedly at %1$s</string>
   <string name="Upgrading" platform="android, iOS">Upgrading</string>
   <string name="Upload_Mobile_Contacts" platform="android, iOS">Upload Mobile Contacts</string>
   <string name="Upload_timeout" platform="android">Upload timeout</string>
