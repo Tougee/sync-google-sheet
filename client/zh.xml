@@ -1427,4 +1427,6 @@
   <string name="Your_PIN_has_been_changed" platform="iOS">修改 PIN</string>
   <string name="your_pin_has_been_created" platform="android, iOS">PIN 已创建</string>
   <string name="zoom" platform="Desktop">缩放</string>
+  <string name="Creating_wallet_terminated_unexpectedly" platform="android,iOS">创建钱包意外中止，点继续完成钱包创建</string>
+  <string name="Upgrading_TIP_terminated_unexpectedly" platform="android,iOS">升级 TIP 意外中止，点继续完成 TIP 升级</string>
 </resources>

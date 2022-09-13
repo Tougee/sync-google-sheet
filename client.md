@@ -1454,4 +1454,5 @@
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |
 | AppStore |     | Convenient wallet for popular cryptocurrencies |     |     |     |     |
-| android,iOS |     |     |     |     |     |     |
+| android,iOS | Creating_wallet_terminated_unexpectedly | Creating wallet terminated unexpectedly, click \"Continue\" to complete the creation | 创建钱包意外中止，点继续完成钱包创建 |     |     |     |
+| android,iOS | Upgrading_TIP_terminated_unexpectedly |     | 升级 TIP 意外中止，点继续完成 TIP 升级 |     |     |     |
