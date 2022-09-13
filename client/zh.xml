@@ -1405,4 +1405,5 @@
   <string name="NSMicrophoneUsageDescription" platform="iOSAuthorization">Mixin 使用你的麦克风录制语音消息发给你的联系人</string>
   <string name="NSFaceIDUsageDescription" platform="iOSAuthorization">Mixin 使用面容识别来验证支付</string>
   <string name="NSLocationWhenInUseUsageDescription" platform="iOSAuthorization">允许获取位置让您可以在对话中发送当前的位置或附近的地点</string>
+  <string name="Upgrade" platform="android,iOS">升级</string>
 </resources>

@@ -1431,4 +1431,5 @@
   <string name="" platform="AppStore">End-to-end encrypted group voice call with up to 16 people</string>
   <string name="" platform="AppStore">Send Bitcoin and other cryptocurrencies to contacts instantly</string>
   <string name="" platform="AppStore">Convenient wallet for popular cryptocurrencies</string>
+  <string name="Upgrade" platform="android,iOS">Upgrade</string>
 </resources>
