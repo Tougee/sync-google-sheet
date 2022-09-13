@@ -1440,4 +1440,6 @@
 | android,iOS | Enter_your_new_PIN | Enter your new PIN | 输入你的新 PIN |     |     |     |
 | android,iOS | Not_enough_partials | Not enough nodes return key shard | 没有足够的节点返回密钥分片 |     |     |     |
 | android,iOS | Not_all_signer_success | Not all node success | 有些节点失败了 |     |     |     |
-| android,iOS |     |     |     |     |     |     |
+| android,iOS | All_signer_failure | All node failure, perhaps PIN does not match what was set when it was last terminated unexpectedly | 所有节点失败，也许 PIN 跟上次意外退出时设置的不一致 |     |     |     |
+| android,iOS | PIN_not_same_as_last_time | PIN does not match what was set when it was last terminated unexpectedly | PIN 跟上次意外退出时设置的不一致 |     |     |     |
+| android,iOS | Set_or_update_PIN_failed | Set or update PIN failed |     |     |     |     |
