@@ -13,18 +13,9 @@
   <string name="About" platform="android, iOS, Desktop">About</string>
   <string name="about_version" platform="android">Version %1$s</string>
   <string name="Accept" platform="android">Accept</string>
-  <string name="Profile" platform="iOS">Profile</string>
-  <string name="New_Chat" platform="iOS">New Chat</string>
-  <string name="No_CONTACTS" platform="iOS">NO CONTACTS</string>
-  <string name="Add_by_ID_or_Phone_number" platform="iOS">Add by Mixin ID or Phone number</string>
-  <string name="Add_by_Phone_Contacts" platform="iOS">Add by Phone Contacts</string>
-  <string name="Add_by_QR_Code" platform="iOS">Add by QR Code</string>
-  <string name="Allow" platform="iOS">Allow</string>
-  <string name="Name_or_Phone_number" platform="iOS">Name or Phone number</string>
-  <string name="Search_contacts" platform="iOS">Search Contacts</string>
-  <string name="Access_to_Contacts" platform="iOS">Access to Contacts</string>
   <string name="Access_Contacts_Hint" platform="iOS">Mixin syncs your address book to Mixin servers to help you connect with other Mixin users</string>
   <string name="Access_denied" platform="android, iOS, Desktop">Access denied</string>
+  <string name="Access_to_Contacts" platform="iOS">Access to Contacts</string>
   <string name="access_your_bots_list" platform="android, iOS">access your bots list</string>
   <string name="access_your_circle_list" platform="android, iOS">access your circle list</string>
   <string name="access_your_collectibles" platform="android, iOS">access your collectibles</string>
@@ -32,10 +23,14 @@
   <string name="access_your_snapshots" platform="android, iOS">access your snapshots</string>
   <string name="Account" platform="android, iOS, Desktop">Account</string>
   <string name="Acknowledgements" platform="iOS">Acknowledgements</string>
+  <string name="activity" platform="Desktop">Activity</string>
   <string name="Add" platform="android, iOS, Desktop">Add</string>
   <string name="Add_address" platform="android, iOS">Add address</string>
   <string name="Add_bot" platform="android, iOS">Add Bot</string>
   <string name="add_bot_with_plus" platform="Desktop">+ Add Bot</string>
+  <string name="Add_by_ID_or_Phone_number" platform="iOS">Add by Mixin ID or Phone number</string>
+  <string name="Add_by_Phone_Contacts" platform="iOS">Add by Phone Contacts</string>
+  <string name="Add_by_QR_Code" platform="iOS">Add by QR Code</string>
   <string name="Add_circle" platform="android, iOS">Add Circle</string>
   <string name="Add_Contact" platform="android, iOS, Desktop">Add Contact</string>
   <string name="add_contact_with_plus" platform="Desktop">+ Add Contact</string>
@@ -52,6 +47,7 @@
   <string name="Add_stickers" platform="android, iOS, Desktop">Add Stickers</string>
   <string name="Add_success" platform="android">Add success</string>
   <string name="Add_Tag" platform="android, iOS">Add Tag</string>
+  <string name="add_to_circle" platform="Desktop">Add to Circle</string>
   <string name="Add_to_Home_screen" platform="android">Add to Home screen</string>
   <string name="Add_to_Stickers" platform="iOS">Add to Stickers</string>
   <string name="Added" platform="android, iOS, Desktop">Added</string>
@@ -97,10 +93,13 @@
   <string name="All_Conversations" platform="android, iOS">All Conversations</string>
   <string name="All_Media" platform="android">All Media</string>
   <string name="All_Photos" platform="iOS">All Photos</string>
+  <string name="All_signer_failure" platform="android,iOS">All node failure, perhaps PIN does not match what was set when it was last terminated unexpectedly</string>
   <string name="All_Transactions" platform="android, iOS">All Transactions</string>
+  <string name="Allow" platform="iOS">Allow</string>
   <string name="Allow_Manual_Report_Message" platform="iOS">Allow Manual Report Message</string>
   <string name="Amount" platform="android, iOS">Amount</string>
   <string name="an_audio" platform="android">an audio</string>
+  <string name="animals_and_nature" platform="Desktop">Animals &amp; Nature</string>
   <string name="ANSWER" platform="android">ANSWER</string>
   <string name="app_card_share_disallow" platform="Desktop">Disallow sharing of this URL</string>
   <string name="app_card_shareable_false" platform="android, iOS">The card has been set to not allow sharing</string>
@@ -135,9 +134,10 @@
   <string name="avatar_transition_name" platform="android">avatar_transition_name</string>
   <string name="Back_To_Chat" platform="android, iOS">Back To Chat</string>
   <string name="Back_Up_Now" platform="iOS">Back Up Now</string>
+  <string name="Background_Preview" platform="iOS">Background Preview</string>
   <string name="Backing_Up" platform="android, iOS">Backing Up...</string>
-  <string name="backup" platform="Desktop">Backup</string>
   <string name="Backup" platform="android">Backup</string>
+  <string name="backup" platform="Desktop">Backup</string>
   <string name="backup_choose_a_folder" platform="android">Choose a folder, backups will be saved to this location</string>
   <string name="Backup_delete" platform="android">Backup delete</string>
   <string name="backup_des" platform="android">Back up your messages to external storage. You can restore them when you reinstall Mixin. Messages you back up are not protected while in external storage.</string>
@@ -171,6 +171,7 @@
   <string name="BOTS" platform="android, iOS, Desktop">BOTS</string>
   <string name="bots_title" platform="android, iOS, Desktop">Bots</string>
   <string name="bottom_transfer_stranger_tip" platform="android">Mixin ID %1$s is not on your contact list. Make sure the recipient you chosen is correct. If you transfer to the wrong person, your assets will be lost!</string>
+  <string name="bring_all_to_front" platform="Desktop">Bring All To Front</string>
   <string name="Business" platform="iOS">Business</string>
   <string name="Call" platform="android, iOS">Call</string>
   <string name="Call_declined" platform="android, iOS">Call declined</string>
@@ -185,10 +186,6 @@
   <string name="call_remote_error" platform="iOS">The connection failed. Code %@</string>
   <string name="call_who" platform="android">Call %1$s</string>
   <string name="Call_with_Mixin" platform="iOS">Call with Mixin</string>
-  <string name="Chat_Background" platform="iOS">Chat Background</string>
-  <string name="Background_Preview" platform="iOS">Background Preview</string>
-  <string name="how_are_you" platform="iOS">Hi, how are you?</string>
-  <string name="i_am_good" platform="iOS">I’m good.</string>
   <string name="Calling" platform="android, iOS">Calling…</string>
   <string name="Camera" platform="android, iOS">Camera</string>
   <string name="can_not_recognize_qr_code" platform="android, Desktop">Can not recognize the QR code</string>
@@ -224,6 +221,7 @@
   <string name="chat_audio_discard_warning" platform="android">Are you sure you want to stop recording and discard your voice message ?</string>
   <string name="chat_audio_discard_warning_title" platform="android">Discard Voice message</string>
   <string name="chat_audio_warning" platform="android">You cannot play audio if your're already on play another audio.</string>
+  <string name="Chat_Background" platform="iOS">Chat Background</string>
   <string name="Chat_Backup" platform="android, iOS, Desktop">Chat Backup</string>
   <string name="chat_bot_reception_title" platform="android, iOS, Desktop">Tap the button to interact with the bot</string>
   <string name="chat_call_duration" platform="android, iOS">Duration %1$s</string>
@@ -296,6 +294,7 @@
   <string name="Confirm" platform="android, iOS, Desktop">Confirm</string>
   <string name="Confirm_fingerprint" platform="android">Confirm fingerprint</string>
   <string name="Confirm_PIN" platform="android">Confirm PIN</string>
+  <string name="Connect_to_TIP_network_failed" platform="android,iOS">If you see "Failed to connect to the TIP network", please try switching to 4G, Wi-Fi, or VPN and attempting again.</string>
   <string name="Connected" platform="iOS">Connected</string>
   <string name="Connecting" platform="android, iOS">Connecting</string>
   <string name="Connection_unstable" platform="android, iOS">Connection unstable</string>
@@ -335,6 +334,7 @@
   <string name="content_voice" platform="android, iOS, Desktop">[Voice call]</string>
   <string name="content_withdrawal" platform="iOS">[Withdrawal]</string>
   <string name="Continue" platform="android, iOS, Desktop">Continue</string>
+  <string name="Continue_need_verify_your_PIN" platform="android,iOS">Continue need to verify your old PIN and new PIN</string>
   <string name="Continue_Open_URL" platform="android, iOS">Continue Open URL</string>
   <string name="Conversation" platform="android, iOS, Desktop">Conversation</string>
   <string name="conversation_delete_tip" platform="android">Once deleted, all this chat messages will be cleared</string>
@@ -353,11 +353,13 @@
   <string name="create_circle" platform="Desktop">New Circle</string>
   <string name="create_conversation" platform="Desktop">New Conversation</string>
   <string name="create_group" platform="Desktop">New Group</string>
+  <string name="Create_PIN" platform="android,iOS">Create PIN</string>
   <string name="created_this_group" platform="android, iOS, Desktop">%1$s created this group</string>
   <string name="Creating" platform="android">Creating…</string>
   <string name="Crop" platform="android">Crop</string>
   <string name="Currency" platform="android, iOS">Currency</string>
   <string name="currency_code" platform="iOS">Code</string>
+  <string name="Current_Language" platform="iOS">English</string>
   <string name="Current_Location" platform="iOS">Current Location</string>
   <string name="Current_Selected" platform="iOS">Current Selected</string>
   <string name="Custom_Time" platform="android, iOS, Desktop">Custom Time</string>
@@ -430,6 +432,7 @@
   <string name="disable_disappearing_message" platform="android, iOS, Desktop">%1$s disabled disappearing message</string>
   <string name="Disable_web_debug" platform="android">Disable web debug</string>
   <string name="Disabled" platform="android">Disabled</string>
+  <string name="disappearing_custom_time_max_warning" platform="Desktop">The maximum time is %1$s.</string>
   <string name="disappearing_message" platform="android, iOS, Desktop">Disappearing Messages</string>
   <string name="disappearing_message_hint" platform="android, iOS, Desktop">When enabled, new messages sent and received in this chat will disappear after they have been seen, read the document to **learn more**.</string>
   <string name="disappearing_message_url" platform="android">https://mixinmessenger.zendesk.com/hc/articles/5127869180564</string>
@@ -439,6 +442,8 @@
   <string name="disappearing_option_4" platform="android, iOS">1 day</string>
   <string name="disappearing_option_5" platform="android, iOS">1 week</string>
   <string name="DISCARD" platform="android">DISCARD</string>
+  <string name="discard" platform="Desktop">Discard</string>
+  <string name="discard_recording_warning" platform="Desktop">Are you sure you want to stop recording and discard your voice message?</string>
   <string name="Disconnecting" platform="iOS">Disconnecting</string>
   <string name="Dismiss_as_Admin" platform="android, iOS, Desktop">Dismiss as Admin</string>
   <string name="divide" platform="android">, </string>
@@ -476,10 +481,11 @@
   <string name="Enable_web_debug" platform="android">Enable web debug</string>
   <string name="Encrypted" platform="android">Encrypted</string>
   <string name="End_to_End_Encryption" platform="android, iOS">End-to-end Encrypted</string>
-  <string name="Current_Language" platform="iOS">English</string>
   <string name="Enter_new_phone_number" platform="android">Enter your new phone number</string>
   <string name="Enter_PIN_to_delete_account" platform="android, iOS, Desktop">Enter your PIN to delete your account</string>
   <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">Enter your emergency contact Mixin ID</string>
+  <string name="Enter_your_new_PIN" platform="android,iOS">Enter your new PIN</string>
+  <string name="Enter_your_old_PIN" platform="android,iOS">Enter your old PIN</string>
   <string name="Enter_your_phone_number" platform="android, iOS, Desktop">Enter your phone number</string>
   <string name="Enter_your_PIN" platform="android, iOS">Enter your PIN</string>
   <string name="Enter_your_PIN_to_continue" platform="android, iOS, Desktop">Enter your PIN to continue</string>
@@ -490,7 +496,9 @@
   <string name="error_authentication" platform="android, Desktop">ERROR 401: Sign in to continue</string>
   <string name="error_bad_data" platform="android, Desktop">ERROR 10002: The request data has invalid field</string>
   <string name="error_blockchain" platform="android, iOS, Desktop">ERROR 30100: Blockchain not in sync, please try again later.</string>
+  <string name="error_captcha_is_invalid" platform="iOS">ERROR 10004: CAPTCHA is invalid</string>
   <string name="error_connection_timeout" platform="android, iOS, Desktop">Network connection timeout, please try again</string>
+  <string name="error_expired_authorization_code" platform="android, iOS">ERROR 20121: Expired authorization code</string>
   <string name="error_full_group" platform="android, iOS, Desktop">ERROR 20116: The group chat is full.</string>
   <string name="error_insufficient_balance" platform="android, iOS, Desktop">ERROR 20117: Insufficient balance</string>
   <string name="error_insufficient_transaction_fee_with_amount" platform="android, iOS, Desktop">ERROR 20124: Insufficient transaction fee. Please make sure your wallet has %1$s as fee</string>
@@ -502,6 +510,7 @@
   <string name="error_invalid_pin_format" platform="android, Desktop">ERROR 20118: Invalid PIN format. </string>
   <string name="error_memo_too_long" platform="android">Memo has too many characters, maximum is 200</string>
   <string name="error_network_task_failed" platform="iOS, Desktop">Network connection failed. Check or switch your network and try again</string>
+  <string name="error_no_pin_token" platform="Desktop">No token, Please log in again and try this feature again.</string>
   <string name="error_not_found" platform="android, iOS, Desktop">ERROR 404: Not found</string>
   <string name="error_not_supported_audio_format" platform="android, Desktop">Not supported audio format, please open by other app.</string>
   <string name="error_number_reached_limit" platform="android, Desktop">ERROR 20132: The number has reached the limit.</string>
@@ -511,14 +520,12 @@
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">ERROR 20110: Invalid phone number</string>
   <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">ERROR 10003: Failed to deliver SMS</string>
   <string name="error_phone_verification_code_expired" platform="android, iOS, Desktop">ERROR 20114: Expired phone verification code</string>
-  <string name="error_expired_authorization_code" platform="android, iOS">ERROR 20121: Expired authorization code</string>
   <string name="error_phone_verification_code_invalid" platform="android, iOS, Desktop">ERROR 20113: Invalid phone verification code</string>
   <string name="error_pin_check_too_many_request" platform="android, iOS, Desktop">You have tried more than 5 times, please wait at least 24 hours to try again.</string>
   <string name="error_pin_incorrect" platform="android, iOS, Desktop">ERROR 20119: PIN incorrect</string>
   <string name="error_pin_incorrect_with_times" platform="android, iOS, Desktop">ERROR 20119: PIN incorrect. You still have %1$d chance. Please wait for 24 hours to retry later.</string>
   <string name="error_pin_incorrect_with_times.count" platform="android, iOS, Desktop">ERROR 20119: PIN incorrect. You still have %1$d chances. Please wait for 24 hours to retry later.</string>
   <string name="error_recaptcha_is_invalid" platform="android, Desktop">ERROR 10004: Recaptcha is invalid</string>
-  <string name="error_captcha_is_invalid" platform="iOS">ERROR 10004: CAPTCHA is invalid</string>
   <string name="error_requires_captcha" platform="iOS">CAPTCHA is required.</string>
   <string name="error_server_5xx_code" platform="android, Desktop">Server is under maintenance: %1$d</string>
   <string name="error_too_many_friends" platform="android, iOS">ERROR 20128: Too many friends</string>
@@ -537,6 +544,7 @@
   <string name="error_user_invalid_format" platform="android, Desktop">Invalid user id</string>
   <string name="error_withdrawal_memo_format_incorrect" platform="android, iOS, Desktop">ERROR 20131: Withdrawal memo format incorrect.</string>
   <string name="Everybody" platform="android, iOS">Everybody</string>
+  <string name="Exchanging_data" platform="android,iOS">Synchronization key shards in progress:(%1$d/%2$d)…</string>
   <string name="Exit" platform="android, Desktop">Exit</string>
   <string name="Exit_confirmation" platform="iOS">Exit "%@"?</string>
   <string name="Exit_Group" platform="android, iOS, Desktop">Exit Group</string>
@@ -567,12 +575,14 @@
   <string name="Filter" platform="android, iOS">Filter</string>
   <string name="FILTER_BY" platform="android, iOS">FILTER BY</string>
   <string name="fingerprint_lock" platform="android">Fingerprint lock</string>
+  <string name="flags" platform="Desktop">Flags</string>
   <string name="Flash_unit_not_available" platform="android">Flash unit not available</string>
   <string name="Floating" platform="android, iOS">Floating</string>
   <string name="Floats_allows_up_to_count" platform="iOS">Floats allows up to %d ones</string>
   <string name="Follow_system" platform="android, Desktop">Follow System</string>
   <string name="Follow_us_on_facebook" platform="android, iOS, Desktop">Follow us on Facebook</string>
   <string name="Follow_us_on_twitter" platform="android, iOS, Desktop">Follow us on Twitter</string>
+  <string name="food_and_drink" platform="Desktop">Food &amp; Drink</string>
   <string name="Format_not_supported" platform="android, Desktop">Format not supported</string>
   <string name="Forward" platform="android, iOS, Desktop">Forward</string>
   <string name="Forward_message" platform="android">Forward message</string>
@@ -623,6 +633,8 @@
   <string name="hold_to_record_audio" platform="android, iOS">Hold to record, release to send</string>
   <string name="Hour" platform="android, iOS, Desktop">%d Hour</string>
   <string name="Hour.count" platform="android, iOS, Desktop">%d Hours</string>
+  <string name="how_are_you" platform="iOS">Hi, how are you?</string>
+  <string name="i_am_good" platform="iOS">I’m good.</string>
   <string name="I_know" platform="android">I know</string>
   <string name="ignore_this_version" platform="Desktop">Ignore the new version</string>
   <string name="image" platform="iOS, Desktop">image</string>
@@ -689,6 +701,7 @@
   <string name="Link_desktop_success" platform="android">Link desktop success</string>
   <string name="Link_recognition_failure" platform="iOS">Link recognition failure</string>
   <string name="link_shareable_false" platform="iOS">The link has been set to not allow sharing</string>
+  <string name="linked_device" platform="Desktop">linked device</string>
   <string name="Links" platform="android, iOS">Links</string>
   <string name="Live" platform="android, iOS, Desktop">Live</string>
   <string name="live_permission" platform="android">Mixin needs access to draw above other apps to play videos in Picture-in-Picture mode.</string>
@@ -739,8 +752,8 @@
   <string name="message_not_support" platform="android, iOS, Desktop">This type of message is not supported, please upgrade Mixin to the latest version.</string>
   <string name="Message_Notification" platform="android">Message Notification</string>
   <string name="Message_pinned" platform="android">Message pinned</string>
-  <string name="Message_Preview" platform="iOS">Message Preview</string>
   <string name="message_preview" platform="Desktop">Message Preview</string>
+  <string name="Message_Preview" platform="iOS">Message Preview</string>
   <string name="message_preview_description" platform="Desktop">Preview message text inside new message notifications.</string>
   <string name="Message_sent" platform="android, iOS">Message sent</string>
   <string name="Message_unpinned" platform="android">Message unpinned</string>
@@ -779,10 +792,12 @@
   <string name="My_Stickers" platform="android, iOS, Desktop">My Stickers</string>
   <string name="NA" platform="android, iOS, Desktop">N/A</string>
   <string name="Name" platform="android, iOS, Desktop">Name</string>
+  <string name="Name_or_Phone_number" platform="iOS">Name or Phone number</string>
   <string name="need_background_permission" platform="android">Requires start in background permission for continue</string>
   <string name="need_camera_permission" platform="android">Requires camera permission for continue</string>
   <string name="Need_help" platform="android, iOS">Need help?</string>
   <string name="Net_Diagnosis" platform="android">Net Diagnosis</string>
+  <string name="network_connection_failed" platform="Desktop">Network connection failed</string>
   <string name="network_connection_lost" platform="iOS">The network connection was lost, please check your network and try again later</string>
   <string name="Network_error" platform="android, Desktop">Network error</string>
   <string name="network_fee" platform="iOS">Network fee: %@</string>
@@ -791,6 +806,7 @@
   <string name="Network_unavailable" platform="android">Network unavailable</string>
   <string name="Never" platform="android">Never</string>
   <string name="never_auto_download" platform="iOS">Never</string>
+  <string name="New_Chat" platform="iOS">New Chat</string>
   <string name="New_Group" platform="android, iOS">New Group</string>
   <string name="New_Group_Chat" platform="android, iOS">New Group Chat</string>
   <string name="new_group_name" platform="android">new group name</string>
@@ -807,6 +823,7 @@
   <string name="No_blocked_users" platform="android, iOS">No blocked users</string>
   <string name="NO_BOTS" platform="android, iOS">NO BOTS</string>
   <string name="No_camera" platform="android, Desktop">No camera</string>
+  <string name="No_CONTACTS" platform="iOS">NO CONTACTS</string>
   <string name="no_data" platform="Desktop">No Data</string>
   <string name="No_deposits" platform="android">No deposits</string>
   <string name="No_fees" platform="android">No fees</string>
@@ -830,6 +847,8 @@
   <string name="Nobody" platform="android, iOS">Nobody</string>
   <string name="Nodes" platform="android">Nodes</string>
   <string name="None" platform="android, iOS">None</string>
+  <string name="Not_all_signer_success" platform="android,iOS">Not all node success</string>
+  <string name="Not_enough_partials" platform="android,iOS">Not enough nodes return key shard</string>
   <string name="Not_found" platform="android, iOS, Desktop">Not found</string>
   <string name="Not_logged_in" platform="android">Not logged in</string>
   <string name="Not_playing" platform="iOS">Not playing</string>
@@ -844,7 +863,14 @@
   <string name="Notifications" platform="android, Desktop">Notifications</string>
   <string name="now_an_addmin" platform="iOS, Desktop">%@ now an admin</string>
   <string name="Now_Playing" platform="android">Now Playing</string>
+  <string name="NSCameraUsageDescription" platform="iOSAuthorization">Mixin uses the camera to set profile photo, and send photo to your contact in chat</string>
+  <string name="NSContactsUsageDescription" platform="iOSAuthorization">Mixin syncs your address book to Mixin servers to help you connect with other Mixin users.</string>
+  <string name="NSFaceIDUsageDescription" platform="iOSAuthorization">Mixin uses Face ID to authorize payment</string>
+  <string name="NSLocationWhenInUseUsageDescription" platform="iOSAuthorization">Turn on location services to send your current location or nearby places in conversation</string>
+  <string name="NSMicrophoneUsageDescription" platform="iOSAuthorization">Mixin uses your microphone to record voice messages to share with your contacts</string>
+  <string name="NSPhotoLibraryUsageDescription" platform="iOSAuthorization">Mixin uses the photo library to set profile photo, and send photo to your contact in chat</string>
   <string name="number_reached_limit" platform="android, iOS">The number has reached the limit</string>
+  <string name="objects" platform="Desktop">Objects</string>
   <string name="Off" platform="android, iOS">Off</string>
   <string name="OK" platform="android, iOS">OK</string>
   <string name="Old_PIN" platform="android">Old PIN</string>
@@ -913,6 +939,7 @@
   <string name="pin_creation" platform="android, iOS">PIN creation</string>
   <string name="PIN_incorrect" platform="android, iOS">PIN incorrect</string>
   <string name="pin_lost_hint" platform="android, iOS">If lost, there is no way to recover your wallet.</string>
+  <string name="PIN_not_same_as_last_time" platform="android,iOS">PIN does not match what was set when it was last terminated unexpectedly</string>
   <string name="pin_title" platform="android, iOS, Desktop">Pin</string>
   <string name="pinned_a_audio" platform="iOS">%@ pinned an audio</string>
   <string name="pinned_a_card" platform="iOS">%@ pinned a card</string>
@@ -932,6 +959,8 @@
   <string name="Play" platform="android">Play</string>
   <string name="Playback_failed" platform="android">Playback failed</string>
   <string name="Playlist" platform="android, iOS">Playlist</string>
+  <string name="Please_keep_app_in_foreground" platform="android,iOS">Please keep the app in the foreground and do not force quit it during the setup process.</string>
+  <string name="Please_use_when_network_is_connected" platform="android,iOS">Please complete the operation under a stable network environment.</string>
   <string name="Please_wait_a_bit" platform="android">Please wait a bit…</string>
   <string name="POST" platform="android">POST</string>
   <string name="Post" platform="android, iOS, Desktop">Post</string>
@@ -942,6 +971,8 @@
   <string name="previous_conversation" platform="Desktop">Previous conversation</string>
   <string name="Privacy" platform="android, iOS">Privacy</string>
   <string name="Privacy_Policy" platform="android, iOS, Desktop">Privacy Policy</string>
+  <string name="Process_can_not_be_stop" platform="android,iOS">The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.</string>
+  <string name="Profile" platform="iOS">Profile</string>
   <string name="profile_modify_number" platform="android">Do you want to change your phone number?</string>
   <string name="Profile_photo" platform="android, iOS">Profile Photo</string>
   <string name="profile_share_bot_hint" platform="android, iOS">If you want to share a bot, add it to your contacts first</string>
@@ -1040,6 +1071,7 @@
   <string name="screen_lock_unlock" platform="iOS">Use %@ to unlock Mixin</string>
   <string name="Search" platform="android, iOS, Desktop">Search</string>
   <string name="search_contact" platform="Desktop">Search contact</string>
+  <string name="Search_contacts" platform="iOS">Search Contacts</string>
   <string name="Search_Conversation" platform="android, iOS, Desktop">Search Conversation</string>
   <string name="search_empty" platform="Desktop">No chats, contacts or messages found.</string>
   <string name="Search_GIPHY" platform="android, iOS">Search GIPHY</string>
@@ -1068,8 +1100,8 @@
   <string name="selected_video.count" platform="iOS">Selected %1$d Videos</string>
   <string name="Send" platform="android, iOS, Desktop">Send</string>
   <string name="send_archived" platform="Desktop">Archived all files in one zip file</string>
-  <string name="Send_as_File" platform="iOS">Send as File</string>
   <string name="Send_as_file" platform="android">Send as file</string>
+  <string name="Send_as_File" platform="iOS">Send as File</string>
   <string name="Send_as_Files" platform="iOS">Send as Files</string>
   <string name="send_file_group" platform="android">Send "%1$s" to "%2$s"?</string>
   <string name="send_item" platform="iOS">Send 1 Item</string>
@@ -1095,6 +1127,7 @@
   <string name="Set" platform="android, iOS, Desktop">Set</string>
   <string name="set_disappearing_message_time_to" platform="android, iOS, Desktop">%1$s set disappearing message time to %2$s</string>
   <string name="Set_new_PIN" platform="android, iOS">Set a new PIN</string>
+  <string name="Set_or_update_PIN_failed" platform="android,iOS">Set or update PIN failed</string>
   <string name="Set_PIN" platform="android">Set PIN</string>
   <string name="Set_PIN_successfully" platform="android, iOS">Set PIN successfully</string>
   <string name="setting_appearance_language_alert_description" platform="iOS">You can pick a preferred language in settings</string>
@@ -1173,10 +1206,12 @@
   <string name="Size" platform="android">Size</string>
   <string name="Skip" platform="android, iOS">Skip</string>
   <string name="Slide_to_cancel" platform="android, iOS">Slide to Cancel</string>
+  <string name="smileys_and_people" platform="Desktop">Smileys &amp; People</string>
   <string name="Snapshot_not_found" platform="iOS">Snapshot not found.</string>
   <string name="Social" platform="iOS">Social</string>
   <string name="Sort" platform="android">Sort</string>
   <string name="Sort_by" platform="android, iOS">Sort by</string>
+  <string name="Start" platform="android,iOS">Start</string>
   <string name="Start_Messaging" platform="android, iOS">Start Messaging</string>
   <string name="started_group_call" platform="iOS">%@ has started a group call</string>
   <string name="Status" platform="android, iOS">Status</string>
@@ -1202,6 +1237,8 @@
   <string name="Switching_currency" platform="android">Switching currency</string>
   <string name="Symbol" platform="android, iOS">Symbol</string>
   <string name="symbol_withdrawal" platform="android, iOS">%1$s Withdrawal</string>
+  <string name="symbols" platform="Desktop">Symbols</string>
+  <string name="Syncing_and_verifying_TIP" platform="android,iOS">Please keep the app in the foreground while verifying and synchronizing shard keys to the TIP network; do not force quit the app during the setup process.</string>
   <string name="Syncing_messages" platform="android">Syncing messages</string>
   <string name="Syncing_progress" platform="iOS">Syncing %d%%</string>
   <string name="syncs_contact_hint" platform="android, iOS">Mixin syncs your address book to Mixin servers to help you connect with other Mixin users.</string>
@@ -1221,6 +1258,7 @@
   <string name="This_message_was_deleted" platform="android, iOS, Desktop">This message was deleted</string>
   <string name="Thursday" platform="android">Thursday</string>
   <string name="Time" platform="android, iOS, Desktop">Time</string>
+  <string name="TIP_introduction" platform="android,iOS">The 6-digit PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **learn more**.</string>
   <string name="title_participants" platform="android, iOS">%1$d Participant</string>
   <string name="title_participants.count" platform="android, iOS">%1$d Participants</string>
   <string name="To" platform="android, iOS">To</string>
@@ -1250,8 +1288,11 @@
   <string name="Transfer_to_Mixin_address" platform="iOS">Transfer to Mixin address</string>
   <string name="Transfer_to_user_or_bot" platform="iOS">Transfer to user or bot</string>
   <string name="transfer_without_pin" platform="android">You must setup PIN for transfer</string>
+  <string name="travel_and_places" platform="Desktop">Travel &amp; Places</string>
   <string name="Trending" platform="android, iOS">Trending</string>
   <string name="Try_Again" platform="android, iOS">Try Again</string>
+  <string name="Trying_connect_tip_network" platform="android,iOS">Connecting the TIP network</string>
+  <string name="Trying_connect_tip_node" platform="android,iOS">Trying connect TIP node</string>
   <string name="Tuesday" platform="android">Tuesday</string>
   <string name="Turn_On_Notifications" platform="android, iOS, Desktop">Turn On Notifications</string>
   <string name="Type_message" platform="android, Desktop">Type message</string>
@@ -1288,7 +1329,11 @@
   <string name="update_downloaded" platform="android">An update has just been downloaded.</string>
   <string name="Update_Mixin" platform="android, iOS">Update Mixin</string>
   <string name="update_mixin_description" platform="android">The current version (%1$s) is no longer available!\nPlease click "Update" below to update to the latest version from the Google Play.</string>
+  <string name="Upgrade" platform="android,iOS">Upgrade</string>
   <string name="Upgrade_Database" platform="android, iOS">Upgrade Database</string>
+  <string name="Upgrade_need_verify_your_PIN" platform="android,iOS">The upgrade requires verifying your PIN.</string>
+  <string name="Upgrade_PIN" platform="android,iOS">Upgrade PIN</string>
+  <string name="Upgrade_PIN_aborted_unexpectedly_at" platform="android,iOS">The process of upgrading TIP terminated unexpectedly at %1$s</string>
   <string name="Upgrading" platform="android, iOS">Upgrading</string>
   <string name="Upload_Mobile_Contacts" platform="android, iOS">Upload Mobile Contacts</string>
   <string name="Upload_timeout" platform="android">Upload timeout</string>
@@ -1404,54 +1449,9 @@
   <string name="Your_phone_number_has_been_changed" platform="iOS">Your phone number has been changed</string>
   <string name="Your_PIN_has_been_changed" platform="iOS">Your PIN has been changed</string>
   <string name="your_pin_has_been_created" platform="android, iOS">Your PIN has been created</string>
-  <string name="add_to_circle" platform="Desktop">Add to Circle</string>
   <string name="zoom" platform="Desktop">Zoom</string>
-  <string name="bring_all_to_front" platform="Desktop">Bring All To Front</string>
-  <string name="disappearing_custom_time_max_warning" platform="Desktop">The maximum time is %1$s.</string>
-  <string name="discard" platform="Desktop">Discard</string>
-  <string name="discard_recording_warning" platform="Desktop">Are you sure you want to stop recording and discard your voice message?</string>
-  <string name="smileys_and_people" platform="Desktop">Smileys &amp; People</string>
-  <string name="animals_and_nature" platform="Desktop">Animals &amp; Nature</string>
-  <string name="food_and_drink" platform="Desktop">Food &amp; Drink</string>
-  <string name="activity" platform="Desktop">Activity</string>
-  <string name="travel_and_places" platform="Desktop">Travel &amp; Places</string>
-  <string name="objects" platform="Desktop">Objects</string>
-  <string name="symbols" platform="Desktop">Symbols</string>
-  <string name="flags" platform="Desktop">Flags</string>
-  <string name="linked_device" platform="Desktop">linked device</string>
-  <string name="error_no_pin_token" platform="Desktop">No token, Please log in again and try this feature again.</string>
-  <string name="network_connection_failed" platform="Desktop">Network connection failed</string>
-  <string name="NSContactsUsageDescription" platform="iOSAuthorization">Mixin syncs your address book to Mixin servers to help you connect with other Mixin users.</string>
-  <string name="NSCameraUsageDescription" platform="iOSAuthorization">Mixin uses the camera to set profile photo, and send photo to your contact in chat</string>
-  <string name="NSPhotoLibraryUsageDescription" platform="iOSAuthorization">Mixin uses the photo library to set profile photo, and send photo to your contact in chat</string>
-  <string name="NSMicrophoneUsageDescription" platform="iOSAuthorization">Mixin uses your microphone to record voice messages to share with your contacts</string>
-  <string name="NSFaceIDUsageDescription" platform="iOSAuthorization">Mixin uses Face ID to authorize payment</string>
-  <string name="NSLocationWhenInUseUsageDescription" platform="iOSAuthorization">Turn on location services to send your current location or nearby places in conversation</string>
   <string name="" platform="AppStore">All messages, audios, photos and files are end-to-end encrypted</string>
   <string name="" platform="AppStore">End-to-end encrypted group voice call with up to 16 people</string>
   <string name="" platform="AppStore">Send Bitcoin and other cryptocurrencies to contacts instantly</string>
   <string name="" platform="AppStore">Convenient wallet for popular cryptocurrencies</string>
-  <string name="Upgrade" platform="android,iOS">Upgrade</string>
-  <string name="Create_PIN" platform="android,iOS">Create PIN</string>
-  <string name="Upgrade_PIN" platform="android,iOS">Upgrade PIN</string>
-  <string name="Start" platform="android,iOS">Start</string>
-  <string name="Enter_your_old_PIN" platform="android,iOS">Enter your old PIN</string>
-  <string name="Enter_your_new_PIN" platform="android,iOS">Enter your new PIN</string>
-  <string name="Not_enough_partials" platform="android,iOS">Not enough nodes return key shard</string>
-  <string name="Not_all_signer_success" platform="android,iOS">Not all node success</string>
-  <string name="All_signer_failure" platform="android,iOS">All node failure, perhaps PIN does not match what was set when it was last terminated unexpectedly</string>
-  <string name="PIN_not_same_as_last_time" platform="android,iOS">PIN does not match what was set when it was last terminated unexpectedly</string>
-  <string name="Set_or_update_PIN_failed" platform="android,iOS">Set or update PIN failed</string>
-  <string name="TIP_introduction" platform="android,iOS">The 6-digit PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **learn more**.</string>
-  <string name="Please_use_when_network_is_connected" platform="android,iOS">Please complete the operation under a stable network environment.</string>
-  <string name="Please_keep_app_in_foreground" platform="android,iOS">Please keep the app in the foreground and do not force quit it during the setup process.</string>
-  <string name="Process_can_not_be_stop" platform="android,iOS">The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.</string>
-  <string name="Trying_connect_tip_network" platform="android,iOS">Connecting the TIP network</string>
-  <string name="Trying_connect_tip_node" platform="android,iOS">Trying connect TIP node</string>
-  <string name="Connect_to_TIP_network_failed" platform="android,iOS">If you see "Failed to connect to the TIP network", please try switching to 4G, Wi-Fi, or VPN and attempting again.</string>
-  <string name="Upgrade_need_verify_your_PIN" platform="android,iOS">The upgrade requires verifying your PIN.</string>
-  <string name="Continue_need_verify_your_PIN" platform="android,iOS">Continue need to verify your old PIN and new PIN</string>
-  <string name="Exchanging_data" platform="android,iOS">Synchronization key shards in progress:(%1$d/%2$d)…</string>
-  <string name="Upgrade_PIN_aborted_unexpectedly_at" platform="android,iOS">The process of upgrading TIP terminated unexpectedly at %1$s</string>
-  <string name="Syncing_and_verifying_TIP" platform="android,iOS">Please keep the app in the foreground while verifying and synchronizing shard keys to the TIP network; do not force quit the app during the setup process.</string>
 </resources>

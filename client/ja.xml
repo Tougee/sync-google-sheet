@@ -13,18 +13,9 @@
   <string name="About" platform="android, iOS, Desktop">Mixinについて</string>
   <string name="about_version" platform="android">バージョン%1$s</string>
   <string name="Accept" platform="android">確認</string>
-  <string name="Profile" platform="iOS">プロフィール</string>
-  <string name="New_Chat" platform="iOS">チャットを作成</string>
-  <string name="No_CONTACTS" platform="iOS">友達未追加</string>
-  <string name="Add_by_ID_or_Phone_number" platform="iOS">Mixin IDか電話番号で追加</string>
-  <string name="Add_by_Phone_Contacts" platform="iOS">スマホの連絡先から追加</string>
-  <string name="Add_by_QR_Code" platform="iOS">QRコードから追加</string>
-  <string name="Allow" platform="iOS">許可</string>
-  <string name="Name_or_Phone_number" platform="iOS">名前か電話番号</string>
-  <string name="Search_contacts" platform="iOS">友達を検索</string>
-  <string name="Access_to_Contacts" platform="iOS">連絡先へのアクセス</string>
   <string name="Access_Contacts_Hint" platform="iOS">MixinはあなたのアドレスをMixinサーバーに同期させ、Mixinユーザーを自動追加します</string>
   <string name="Access_denied" platform="android, iOS, Desktop">アクセスが拒否されました</string>
+  <string name="Access_to_Contacts" platform="iOS">連絡先へのアクセス</string>
   <string name="access_your_bots_list" platform="android, iOS">あなたのミニアプリ一覧へのアクセス</string>
   <string name="access_your_circle_list" platform="android, iOS">グループリスト一覧へのアクセス</string>
   <string name="access_your_collectibles" platform="android, iOS">あなたのNFTコレクションへのアクセス</string>
@@ -36,6 +27,9 @@
   <string name="Add_address" platform="android, iOS">アドレスに追加</string>
   <string name="Add_bot" platform="android, iOS">ミニアプリを追加</string>
   <string name="add_bot_with_plus" platform="Desktop">ミニアプリに追加</string>
+  <string name="Add_by_ID_or_Phone_number" platform="iOS">Mixin IDか電話番号で追加</string>
+  <string name="Add_by_Phone_Contacts" platform="iOS">スマホの連絡先から追加</string>
+  <string name="Add_by_QR_Code" platform="iOS">QRコードから追加</string>
   <string name="Add_circle" platform="android, iOS">グループリストを追加</string>
   <string name="Add_Contact" platform="android, iOS, Desktop">友だちを追加</string>
   <string name="add_contact_with_plus" platform="Desktop">友だちを追加</string>
@@ -98,6 +92,7 @@
   <string name="All_Media" platform="android">全てのメディア</string>
   <string name="All_Photos" platform="iOS">全ての画像</string>
   <string name="All_Transactions" platform="android, iOS">もらった・あげたコイン💰</string>
+  <string name="Allow" platform="iOS">許可</string>
   <string name="Allow_Manual_Report_Message" platform="iOS">メッセージ単位の報告を許可</string>
   <string name="Amount" platform="android, iOS">数量</string>
   <string name="an_audio" platform="android">音声ファイル</string>
@@ -135,9 +130,10 @@
   <string name="avatar_transition_name" platform="android">avatar_transition_name</string>
   <string name="Back_To_Chat" platform="android, iOS">チャットに戻る</string>
   <string name="Back_Up_Now" platform="iOS">今すぐバックアップ</string>
+  <string name="Background_Preview" platform="iOS">背景のプレビュー</string>
   <string name="Backing_Up" platform="android, iOS">バックアップしています...</string>
-  <string name="backup" platform="Desktop">チャット履歴のバックアップ</string>
   <string name="Backup" platform="android">チャット履歴のバックアップ</string>
+  <string name="backup" platform="Desktop">チャット履歴のバックアップ</string>
   <string name="backup_choose_a_folder" platform="android">選択</string>
   <string name="Backup_delete" platform="android">バックアップを削除</string>
   <string name="backup_des" platform="android">メッセージを外部ストレージにバックアップします。Mixinを再インストールすると、バックアップを元に復元することができます。外部ストレージにデータがある間は、そのデータは保護されません。</string>
@@ -185,10 +181,6 @@
   <string name="call_remote_error" platform="iOS">切断されました（エラーコード%@）</string>
   <string name="call_who" platform="android">%1$sに電話をかける</string>
   <string name="Call_with_Mixin" platform="iOS">Mixinで電話をかける</string>
-  <string name="Chat_Background" platform="iOS">チャットの背景</string>
-  <string name="Background_Preview" platform="iOS">背景のプレビュー</string>
-  <string name="how_are_you" platform="iOS">こんにちは、調子はどうですか</string>
-  <string name="i_am_good" platform="iOS">いい気分</string>
   <string name="Calling" platform="android, iOS">着信中</string>
   <string name="Camera" platform="android, iOS">カメラ</string>
   <string name="can_not_recognize_qr_code" platform="android, Desktop">QRコードが見つかりません</string>
@@ -224,6 +216,7 @@
   <string name="chat_audio_discard_warning" platform="android">録音終了し音声メッセージを破棄してよろしいですか？</string>
   <string name="chat_audio_discard_warning_title" platform="android">音声メッセージを破棄する</string>
   <string name="chat_audio_warning" platform="android">別の音声を再生している場合、音声を再生することはできません。</string>
+  <string name="Chat_Background" platform="iOS">チャットの背景</string>
   <string name="Chat_Backup" platform="android, iOS, Desktop">チャットのバックアップ</string>
   <string name="chat_bot_reception_title" platform="android, iOS, Desktop">ミニアプリを使用するためにボタンをタップしてください</string>
   <string name="chat_call_duration" platform="android, iOS">通話時間：%1$s</string>
@@ -358,6 +351,7 @@
   <string name="Crop" platform="android">トリミング</string>
   <string name="Currency" platform="android, iOS">通貨</string>
   <string name="currency_code" platform="iOS">コード</string>
+  <string name="Current_Language" platform="iOS">日本語</string>
   <string name="Current_Location" platform="iOS">現在の位置</string>
   <string name="Current_Selected" platform="iOS">選択</string>
   <string name="Custom_Time" platform="android, iOS, Desktop">日時</string>
@@ -476,7 +470,6 @@
   <string name="Enable_web_debug" platform="android">webデバッグの有効化</string>
   <string name="Encrypted" platform="android">暗号化</string>
   <string name="End_to_End_Encryption" platform="android, iOS">E2E暗号化</string>
-  <string name="Current_Language" platform="iOS">日本語</string>
   <string name="Enter_new_phone_number" platform="android">新しい電話番号を入力してください</string>
   <string name="Enter_PIN_to_delete_account" platform="android, iOS, Desktop">アカウントを削除するためにPINコードを入力してください</string>
   <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">あなたの緊急連絡先のMixin IDを入力してください</string>
@@ -490,7 +483,9 @@
   <string name="error_authentication" platform="android, Desktop">エラー 401：サインインをして続ける</string>
   <string name="error_bad_data" platform="android, Desktop">エラー 10002：リクエストデータが無効です</string>
   <string name="error_blockchain" platform="android, iOS, Desktop">エラー 30100：ブロックチェーンが同期できていません。後程もう一度お試し下さい。</string>
+  <string name="error_captcha_is_invalid" platform="iOS">エラー10004：captchaが無効です</string>
   <string name="error_connection_timeout" platform="android, iOS, Desktop">ネットワーク接続がタイムアウトしました</string>
+  <string name="error_expired_authorization_code" platform="android, iOS">認証コードの期限切れ</string>
   <string name="error_full_group" platform="android, iOS, Desktop">エラー 20116：グループチャットが満員です</string>
   <string name="error_insufficient_balance" platform="android, iOS, Desktop">エラー 20117：残高が不足しています</string>
   <string name="error_insufficient_transaction_fee_with_amount" platform="android, iOS, Desktop">エラー 20124：取引手数料が不足しています。ウォレットに手数料用に最低でも%1$sがあることを確認してください。</string>
@@ -511,14 +506,12 @@
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">エラー 20110：無効な電話番号です</string>
   <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">エラー 10003：SMSの送信に失敗しました</string>
   <string name="error_phone_verification_code_expired" platform="android, iOS, Desktop">期限切れ</string>
-  <string name="error_expired_authorization_code" platform="android, iOS">認証コードの期限切れ</string>
   <string name="error_phone_verification_code_invalid" platform="android, iOS, Desktop">エラー 20113：電話番号認証コードが無効です</string>
   <string name="error_pin_check_too_many_request" platform="android, iOS, Desktop">入力ミスが5回に達したため一時的にロックします。24時間後にもう一度試してください。</string>
   <string name="error_pin_incorrect" platform="android, iOS, Desktop">PINコードが違います</string>
   <string name="error_pin_incorrect_with_times" platform="android, iOS, Desktop">エラー 20119：PINコードが間違っています。あと%1$d回入力可能です。24時間後に再試行してください。</string>
   <string name="error_pin_incorrect_with_times.count" platform="android, iOS, Desktop">エラー20119：PINコードが間違っています。あと%1$d回入力可能です。24時間後に再試行してください。</string>
   <string name="error_recaptcha_is_invalid" platform="android, Desktop">エラー 10004：Recaptchaが無効です</string>
-  <string name="error_captcha_is_invalid" platform="iOS">エラー10004：captchaが無効です</string>
   <string name="error_requires_captcha" platform="iOS">Captcha認証が必要です</string>
   <string name="error_server_5xx_code" platform="android, Desktop">サーバーメンテナンス中：%1$d</string>
   <string name="error_too_many_friends" platform="android, iOS">エラー20128：友だちが多すぎます</string>
@@ -623,6 +616,8 @@
   <string name="hold_to_record_audio" platform="android, iOS">長押しして録音、離して送信</string>
   <string name="Hour" platform="android, iOS, Desktop">%d時間</string>
   <string name="Hour.count" platform="android, iOS, Desktop">%d時間</string>
+  <string name="how_are_you" platform="iOS">こんにちは、調子はどうですか</string>
+  <string name="i_am_good" platform="iOS">いい気分</string>
   <string name="I_know" platform="android">わかりました</string>
   <string name="ignore_this_version" platform="Desktop">最新版を無視</string>
   <string name="image" platform="iOS, Desktop">画像</string>
@@ -777,6 +772,7 @@
   <string name="My_Stickers" platform="android, iOS, Desktop">マイスタンプ</string>
   <string name="NA" platform="android, iOS, Desktop">なし</string>
   <string name="Name" platform="android, iOS, Desktop">名前</string>
+  <string name="Name_or_Phone_number" platform="iOS">名前か電話番号</string>
   <string name="need_background_permission" platform="android">続けるにはバックグラウンド許可が必要です</string>
   <string name="need_camera_permission" platform="android">続けるにはカメラの使用許可が必要です</string>
   <string name="Need_help" platform="android, iOS">ヘルプが必要ですか？</string>
@@ -789,6 +785,7 @@
   <string name="Network_unavailable" platform="android">ネットワークは利用不可能です</string>
   <string name="Never" platform="android">しない</string>
   <string name="never_auto_download" platform="iOS">しない</string>
+  <string name="New_Chat" platform="iOS">チャットを作成</string>
   <string name="New_Group" platform="android, iOS">グループを作成</string>
   <string name="New_Group_Chat" platform="android, iOS">新しいグループチャットを作成</string>
   <string name="new_group_name" platform="android">新規グループ名</string>
@@ -805,6 +802,7 @@
   <string name="No_blocked_users" platform="android, iOS">ブロック済みのユーザーはいません</string>
   <string name="NO_BOTS" platform="android, iOS">ミニアプリがありません</string>
   <string name="No_camera" platform="android, Desktop">カメラを認識できません</string>
+  <string name="No_CONTACTS" platform="iOS">友達未追加</string>
   <string name="no_data" platform="Desktop">データがありません</string>
   <string name="No_deposits" platform="android">入金はありません</string>
   <string name="No_fees" platform="android">手数料はありません</string>
@@ -842,6 +840,12 @@
   <string name="Notifications" platform="android, Desktop">通知</string>
   <string name="now_an_addmin" platform="iOS, Desktop">%@は管理者です</string>
   <string name="Now_Playing" platform="android">再生中</string>
+  <string name="NSCameraUsageDescription" platform="iOSAuthorization">カメラは、プロフィール画像の設定、写真の共有に使用されます</string>
+  <string name="NSContactsUsageDescription" platform="iOSAuthorization">連絡先をMixinにアップロードすることで、友だちと簡単に繋がる事ができます</string>
+  <string name="NSFaceIDUsageDescription" platform="iOSAuthorization">Face IDでの支払いを許可</string>
+  <string name="NSLocationWhenInUseUsageDescription" platform="iOSAuthorization">位置情報へのアクセスは、位置情報の共有に使用されます</string>
+  <string name="NSMicrophoneUsageDescription" platform="iOSAuthorization">マイクは、通話やボイスメッセージに使用されます</string>
+  <string name="NSPhotoLibraryUsageDescription" platform="iOSAuthorization">アルバムは、プロフィール画像の設定、画像の共有に使用されます</string>
   <string name="number_reached_limit" platform="android, iOS">数が上限に達しました</string>
   <string name="Off" platform="android, iOS">オフ</string>
   <string name="OK" platform="android, iOS">OK</string>
@@ -940,6 +944,7 @@
   <string name="previous_conversation" platform="Desktop">過去のチャットルーム</string>
   <string name="Privacy" platform="android, iOS">プライバシー</string>
   <string name="Privacy_Policy" platform="android, iOS, Desktop">プライバシーポリシー</string>
+  <string name="Profile" platform="iOS">プロフィール</string>
   <string name="profile_modify_number" platform="android">電話番号を変更しますか?</string>
   <string name="Profile_photo" platform="android, iOS">プロフィール画像</string>
   <string name="profile_share_bot_hint" platform="android, iOS">ミニアプリをシェアしたい場合は、まずミニアプリを連絡先に追加してください。</string>
@@ -1037,6 +1042,7 @@
   <string name="screen_lock_unlock" platform="iOS">Mixinをアンロックするために%@を使用してください</string>
   <string name="Search" platform="android, iOS, Desktop">検索</string>
   <string name="search_contact" platform="Desktop">連絡先を検索</string>
+  <string name="Search_contacts" platform="iOS">友達を検索</string>
   <string name="Search_Conversation" platform="android, iOS, Desktop">チャットルームを検索</string>
   <string name="search_empty" platform="Desktop">一致する情報は見つかりませんでした</string>
   <string name="Search_GIPHY" platform="android, iOS">GIPHYを検索する</string>
@@ -1065,8 +1071,8 @@
   <string name="selected_video.count" platform="iOS">%1$d本のビデオを選択中</string>
   <string name="Send" platform="android, iOS, Desktop">送る</string>
   <string name="send_archived" platform="Desktop">1つのZIPファイルにアーカイブ</string>
-  <string name="Send_as_File" platform="iOS">ファイルとして送信する</string>
   <string name="Send_as_file" platform="android">ファイルとして送信する</string>
+  <string name="Send_as_File" platform="iOS">ファイルとして送信する</string>
   <string name="Send_as_Files" platform="iOS">複数ファイルとして送信する</string>
   <string name="send_file_group" platform="android">"%1$s"を"%2$s"に送りますか？</string>
   <string name="send_item" platform="iOS">アイテムを一つ送信</string>
@@ -1399,10 +1405,4 @@
   <string name="Your_phone_number_has_been_changed" platform="iOS">電話番号が変更されました</string>
   <string name="Your_PIN_has_been_changed" platform="iOS">PINコードが変更されました</string>
   <string name="your_pin_has_been_created" platform="android, iOS">PINコードが生成されました</string>
-  <string name="NSContactsUsageDescription" platform="iOSAuthorization">連絡先をMixinにアップロードすることで、友だちと簡単に繋がる事ができます</string>
-  <string name="NSCameraUsageDescription" platform="iOSAuthorization">カメラは、プロフィール画像の設定、写真の共有に使用されます</string>
-  <string name="NSPhotoLibraryUsageDescription" platform="iOSAuthorization">アルバムは、プロフィール画像の設定、画像の共有に使用されます</string>
-  <string name="NSMicrophoneUsageDescription" platform="iOSAuthorization">マイクは、通話やボイスメッセージに使用されます</string>
-  <string name="NSFaceIDUsageDescription" platform="iOSAuthorization">Face IDでの支払いを許可</string>
-  <string name="NSLocationWhenInUseUsageDescription" platform="iOSAuthorization">位置情報へのアクセスは、位置情報の共有に使用されます</string>
 </resources>
