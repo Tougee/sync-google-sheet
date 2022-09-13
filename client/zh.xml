@@ -1415,4 +1415,7 @@
   <string name="Not_all_signer_success" platform="android,iOS">有些节点失败了</string>
   <string name="All_signer_failure" platform="android,iOS">所有节点失败，也许 PIN 跟上次意外退出时设置的不一致</string>
   <string name="PIN_not_same_as_last_time" platform="android,iOS">PIN 跟上次意外退出时设置的不一致</string>
+  <string name="Set_or_update_PIN_failed" platform="android,iOS">设置或更新 PIN 失败</string>
+  <string name="TIP_introduction" platform="android,iOS">6 位数字 PIN 基于去中心化密钥派生协议 Throttled Identity Protocol，阅读文档以**了解更多**。</string>
+  <string name="Please_use_when_network_is_connected" platform="android,iOS">请在网络流畅的环境下进行此操作</string>
 </resources>
