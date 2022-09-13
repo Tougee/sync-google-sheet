@@ -216,6 +216,7 @@
   <string name="Changed" platform="android, iOS">已修改</string>
   <string name="changed_disappearing_message_settings" platform="android, iOS, Desktop">%1$s修改了限时消息设置</string>
   <string name="Changing" platform="android">正在修改…</string>
+  <string name="Changing_PIN_terminated_unexpectedly" platform="android,iOS">更新 PIN 意外中止，点继续完成 PIN 修改</string>
   <string name="chat_audio_discard_warning" platform="android">你确定要停止并放弃录制的语音吗？</string>
   <string name="chat_audio_discard_warning_title" platform="android">放弃录制语音</string>
   <string name="chat_audio_warning" platform="android">无法在 Mixin 录音时播放语音</string>
@@ -351,6 +352,7 @@
   <string name="Create_PIN" platform="android,iOS">创建 PIN</string>
   <string name="created_this_group" platform="android, iOS, Desktop">%1$s创建了这个群组</string>
   <string name="Creating" platform="android">正在创建…</string>
+  <string name="Creating_wallet_terminated_unexpectedly" platform="android,iOS">创建钱包意外中止，点继续完成钱包创建</string>
   <string name="Crop" platform="android">裁剪</string>
   <string name="Currency" platform="android, iOS">货币</string>
   <string name="currency_code" platform="iOS">货币代码</string>
@@ -1315,6 +1317,7 @@
   <string name="Upgrade_need_verify_your_PIN" platform="android,iOS">升级需要验证你的 PIN</string>
   <string name="Upgrade_PIN" platform="android,iOS">升级 PIN</string>
   <string name="Upgrading" platform="android, iOS">升级中...</string>
+  <string name="Upgrading_TIP_terminated_unexpectedly" platform="android,iOS">升级 TIP 意外中止，点继续完成 TIP 升级</string>
   <string name="Upload_Mobile_Contacts" platform="android, iOS">上传通讯录找好友</string>
   <string name="Upload_timeout" platform="android">上传超时</string>
   <string name="Uploading" platform="iOS">备份中...</string>
@@ -1427,7 +1430,4 @@
   <string name="Your_PIN_has_been_changed" platform="iOS">修改 PIN</string>
   <string name="your_pin_has_been_created" platform="android, iOS">PIN 已创建</string>
   <string name="zoom" platform="Desktop">缩放</string>
-  <string name="Creating_wallet_terminated_unexpectedly" platform="android,iOS">创建钱包意外中止，点继续完成钱包创建</string>
-  <string name="Upgrading_TIP_terminated_unexpectedly" platform="android,iOS">升级 TIP 意外中止，点继续完成 TIP 升级</string>
-  <string name="Changing_PIN_terminated_unexpectedly" platform="android,iOS">更新 PIN 意外中止，点继续完成 PIN 修改</string>
 </resources>

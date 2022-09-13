@@ -219,6 +219,7 @@
 | android, iOS | Changed | Changed | 已修改 | 変更しました |     |     |
 | android, iOS, Desktop | changed_disappearing_message_settings | %1$s changed disappearing message settings. | %1$s修改了限时消息设置 | %1$sが消えるメッセージを設定しました |     |     |
 | android | Changing | Changing... | 正在修改… | 変更中… | Menukar… | Mengubah… |
+| android,iOS | Changing_PIN_terminated_unexpectedly | Changing PIN terminated unexpectedly, click "Continue" to complete the change | 更新 PIN 意外中止，点继续完成 PIN 修改 |     |     |     |
 | android | chat_audio_discard_warning | Are you sure you want to stop recording and discard your voice message ? | 你确定要停止并放弃录制的语音吗？ | 録音終了し音声メッセージを破棄してよろしいですか？ | Adakah anda pasti mahu berhenti merakam dan membuang mesej suara anda? | Yakin ingin berhenti merekam dan membuang pesan suara Anda? |
 | android | chat_audio_discard_warning_title | Discard Voice message | 放弃录制语音 | 音声メッセージを破棄する | Buang mesej Suara | Buang pesan Suara |
 | android | chat_audio_warning | You cannot play audio if your're already on play another audio. | 无法在 Mixin 录音时播放语音 | 別の音声を再生している場合、音声を再生することはできません。 | Anda tidak dapat memainkan audio jika sedang memainkan audio lain. | Anda tidak dapat memutar audio jika Anda sedang memutar audio lain. |
@@ -357,6 +358,7 @@
 | android,iOS | Create_PIN | Create PIN | 创建 PIN |     |     |     |
 | android, iOS, Desktop | created_this_group | %1$s created this group | %1$s创建了这个群组 | %1$sがグループを作成しました |     |     |
 | android | Creating | Creating… | 正在创建… | 作成中… | Membuat… | Membuat… |
+| android,iOS | Creating_wallet_terminated_unexpectedly | Creating wallet terminated unexpectedly, click "Continue" to complete the creation | 创建钱包意外中止，点继续完成钱包创建 |     |     |     |
 | android | Crop | Crop | 裁剪  | トリミング |     |     |
 | android, iOS | Currency | Currency | 货币  | 通貨  | Mata Wang | Mata uang |
 | iOS | currency_code | Code | 货币代码 | コード |     |     |
@@ -1335,6 +1337,7 @@
 | android,iOS | Upgrade_need_verify_your_PIN | The upgrade requires verifying your PIN. | 升级需要验证你的 PIN |     |     |     |
 | android,iOS | Upgrade_PIN | Upgrade PIN | 升级 PIN |     |     |     |
 | android, iOS | Upgrading | Upgrading | 升级中... | アップデート中 | Menaik taraf | Meningkatkan |
+| android,iOS | Upgrading_TIP_terminated_unexpectedly | Upgrading TIP terminated unexpectedly, click "Continue" to complete the upgrade | 升级 TIP 意外中止，点继续完成 TIP 升级 |     |     |     |
 | android, iOS | Upload_Mobile_Contacts | Upload Mobile Contacts | 上传通讯录找好友 | 連絡先をアップロードする |     |     |
 | android | Upload_timeout | Upload timeout | 上传超时 | アップロードタイムアウト | Tamat masa muat naik | Batas waktu unggah |
 | iOS | Uploading | Uploading... | 备份中... | アップロードしています... |     |     |
@@ -1454,6 +1457,3 @@
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |
 | AppStore |     | Convenient wallet for popular cryptocurrencies |     |     |     |     |
-| android,iOS | Creating_wallet_terminated_unexpectedly | Creating wallet terminated unexpectedly, click \"Continue\" to complete the creation | 创建钱包意外中止，点继续完成钱包创建 |     |     |     |
-| android,iOS | Upgrading_TIP_terminated_unexpectedly | Upgrading TIP terminated unexpectedly, click \"Continue\" to complete the upgrade | 升级 TIP 意外中止，点继续完成 TIP 升级 |     |     |     |
-| android,iOS | Changing_PIN_terminated_unexpectedly | Changing PIN terminated unexpectedly, click \"Continue\" to complete the change | 更新 PIN 意外中止，点继续完成 PIN 修改 |     |     |     |

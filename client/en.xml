@@ -218,6 +218,7 @@
   <string name="Changed" platform="android, iOS">Changed</string>
   <string name="changed_disappearing_message_settings" platform="android, iOS, Desktop">%1$s changed disappearing message settings.</string>
   <string name="Changing" platform="android">Changing...</string>
+  <string name="Changing_PIN_terminated_unexpectedly" platform="android,iOS">Changing PIN terminated unexpectedly, click "Continue" to complete the change</string>
   <string name="chat_audio_discard_warning" platform="android">Are you sure you want to stop recording and discard your voice message ?</string>
   <string name="chat_audio_discard_warning_title" platform="android">Discard Voice message</string>
   <string name="chat_audio_warning" platform="android">You cannot play audio if your're already on play another audio.</string>
@@ -356,6 +357,7 @@
   <string name="Create_PIN" platform="android,iOS">Create PIN</string>
   <string name="created_this_group" platform="android, iOS, Desktop">%1$s created this group</string>
   <string name="Creating" platform="android">Creating…</string>
+  <string name="Creating_wallet_terminated_unexpectedly" platform="android,iOS">Creating wallet terminated unexpectedly, click "Continue" to complete the creation</string>
   <string name="Crop" platform="android">Crop</string>
   <string name="Currency" platform="android, iOS">Currency</string>
   <string name="currency_code" platform="iOS">Code</string>
@@ -1334,6 +1336,7 @@
   <string name="Upgrade_need_verify_your_PIN" platform="android,iOS">The upgrade requires verifying your PIN.</string>
   <string name="Upgrade_PIN" platform="android,iOS">Upgrade PIN</string>
   <string name="Upgrading" platform="android, iOS">Upgrading</string>
+  <string name="Upgrading_TIP_terminated_unexpectedly" platform="android,iOS">Upgrading TIP terminated unexpectedly, click "Continue" to complete the upgrade</string>
   <string name="Upload_Mobile_Contacts" platform="android, iOS">Upload Mobile Contacts</string>
   <string name="Upload_timeout" platform="android">Upload timeout</string>
   <string name="Uploading" platform="iOS">Uploading...</string>
@@ -1453,7 +1456,4 @@
   <string name="" platform="AppStore">End-to-end encrypted group voice call with up to 16 people</string>
   <string name="" platform="AppStore">Send Bitcoin and other cryptocurrencies to contacts instantly</string>
   <string name="" platform="AppStore">Convenient wallet for popular cryptocurrencies</string>
-  <string name="Creating_wallet_terminated_unexpectedly" platform="android,iOS">Creating wallet terminated unexpectedly, click \"Continue\" to complete the creation</string>
-  <string name="Upgrading_TIP_terminated_unexpectedly" platform="android,iOS">Upgrading TIP terminated unexpectedly, click \"Continue\" to complete the upgrade</string>
-  <string name="Changing_PIN_terminated_unexpectedly" platform="android,iOS">Changing PIN terminated unexpectedly, click \"Continue\" to complete the change</string>
 </resources>
