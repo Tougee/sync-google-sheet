@@ -1454,4 +1454,4 @@
 | android,iOS | Continue_need_verify_your_PIN | Continue need to verify your old PIN and new PIN | 继续需要验证你的旧 PIN 以及新 PIN |     |     |     |
 | android,iOS | Exchanging_data | Synchronization key shards in progress:(%1$d/%2$d)… | 正在同步密钥分片，进度（%1$d/%2$d）… |     |     |     |
 | android,iOS | Upgrade_PIN_aborted_unexpectedly_at | The process of upgrading TIP terminated unexpectedly at %1$s | 升级 TIP 意外终止于 %1$s |     |     |     |
-| android,iOS | Syncing_and_verifying_TIP |     |     |     |     |     |
+| android,iOS | Syncing_and_verifying_TIP | Please keep the app in the foreground while verifying and synchronizing shard keys to the TIP network; do not force quit the app during the setup process. | 正在验证并同步密钥分片到 TIP 网络，请保持应用在前台，设置过程中不要强制关闭应用 |     |     |     |
