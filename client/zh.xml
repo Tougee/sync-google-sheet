@@ -1418,4 +1418,7 @@
   <string name="Set_or_update_PIN_failed" platform="android,iOS">设置或更新 PIN 失败</string>
   <string name="TIP_introduction" platform="android,iOS">6 位数字 PIN 基于去中心化密钥派生协议 Throttled Identity Protocol，阅读文档以**了解更多**。</string>
   <string name="Please_use_when_network_is_connected" platform="android,iOS">请在网络流畅的环境下进行此操作</string>
+  <string name="Please_keep_app_in_foreground" platform="android,iOS">请保持应用在前台，设置过程中不要强制关闭应用</string>
+  <string name="Process_can_not_be_stop" platform="android,iOS">流程一旦开始无法取消，请牢记 6 位数字 PIN，意外中止流程需要再次输入</string>
+  <string name="Trying_connect_tip_network" platform="android,iOS">正在连接 TIP 网络</string>
 </resources>

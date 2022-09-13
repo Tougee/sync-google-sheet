@@ -1445,4 +1445,6 @@
   <string name="TIP_introduction" platform="android,iOS">The 6-digit PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **learn more**.</string>
   <string name="Please_use_when_network_is_connected" platform="android,iOS">Please complete the operation under a stable network environment.</string>
   <string name="Please_keep_app_in_foreground" platform="android,iOS">Please keep the app in the foreground and do not force quit it during the setup process.</string>
+  <string name="Process_can_not_be_stop" platform="android,iOS">The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.</string>
+  <string name="Trying_connect_tip_network" platform="android,iOS">Connecting the TIP network</string>
 </resources>

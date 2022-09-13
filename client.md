@@ -1445,4 +1445,7 @@
 | android,iOS | Set_or_update_PIN_failed | Set or update PIN failed | 设置或更新 PIN 失败 |     |     |     |
 | android,iOS | TIP_introduction | The 6-digit PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **learn more**. | 6 位数字 PIN 基于去中心化密钥派生协议 Throttled Identity Protocol，阅读文档以**了解更多**。 |     |     |     |
 | android,iOS | Please_use_when_network_is_connected | Please complete the operation under a stable network environment. | 请在网络流畅的环境下进行此操作 |     |     |     |
-| android,iOS | Please_keep_app_in_foreground | Please keep the app in the foreground and do not force quit it during the setup process. |     |     |     |     |
+| android,iOS | Please_keep_app_in_foreground | Please keep the app in the foreground and do not force quit it during the setup process. | 请保持应用在前台，设置过程中不要强制关闭应用 |     |     |     |
+| android,iOS | Process_can_not_be_stop | The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly. | 流程一旦开始无法取消，请牢记 6 位数字 PIN，意外中止流程需要再次输入 |     |     |     |
+| android,iOS | Trying_connect_tip_network | Connecting the TIP network | 正在连接 TIP 网络 |     |     |     |
+| android,iOS |     |     |     |     |     |     |
