@@ -1448,4 +1448,5 @@
 | android,iOS | Please_keep_app_in_foreground | Please keep the app in the foreground and do not force quit it during the setup process. | 请保持应用在前台，设置过程中不要强制关闭应用 |     |     |     |
 | android,iOS | Process_can_not_be_stop | The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly. | 流程一旦开始无法取消，请牢记 6 位数字 PIN，意外中止流程需要再次输入 |     |     |     |
 | android,iOS | Trying_connect_tip_network | Connecting the TIP network | 正在连接 TIP 网络 |     |     |     |
-| android,iOS |     |     |     |     |     |     |
+| android,iOS | Trying_connect_tip_node | Trying connect TIP node | 正在连接节点… |     |     |     |
+| android,iOS | Connect_to_TIP_network_failed |     |     |     |     |     |

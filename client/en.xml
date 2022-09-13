@@ -1447,4 +1447,5 @@
   <string name="Please_keep_app_in_foreground" platform="android,iOS">Please keep the app in the foreground and do not force quit it during the setup process.</string>
   <string name="Process_can_not_be_stop" platform="android,iOS">The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.</string>
   <string name="Trying_connect_tip_network" platform="android,iOS">Connecting the TIP network</string>
+  <string name="Trying_connect_tip_node" platform="android,iOS">Trying connect TIP node</string>
 </resources>
