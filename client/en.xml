@@ -1432,4 +1432,9 @@
   <string name="" platform="AppStore">Send Bitcoin and other cryptocurrencies to contacts instantly</string>
   <string name="" platform="AppStore">Convenient wallet for popular cryptocurrencies</string>
   <string name="Upgrade" platform="android,iOS">Upgrade</string>
+  <string name="Create_PIN" platform="android,iOS">Create PIN</string>
+  <string name="Upgrade_PIN" platform="android,iOS">Upgrade PIN</string>
+  <string name="Start" platform="android,iOS">Start</string>
+  <string name="Enter_your_old_PIN" platform="android,iOS">Enter your old PIN</string>
+  <string name="Enter_your_new_PIN" platform="android,iOS">Enter your new PIN</string>
 </resources>

@@ -1406,4 +1406,9 @@
   <string name="NSFaceIDUsageDescription" platform="iOSAuthorization">Mixin 使用面容识别来验证支付</string>
   <string name="NSLocationWhenInUseUsageDescription" platform="iOSAuthorization">允许获取位置让您可以在对话中发送当前的位置或附近的地点</string>
   <string name="Upgrade" platform="android,iOS">升级</string>
+  <string name="Create_PIN" platform="android,iOS">创建 PIN</string>
+  <string name="Upgrade_PIN" platform="android,iOS">升级 PIN</string>
+  <string name="Start" platform="android,iOS">开始</string>
+  <string name="Enter_your_old_PIN" platform="android,iOS">输入你的旧 PIN</string>
+  <string name="Enter_your_new_PIN" platform="android,iOS">输入你的新 PIN</string>
 </resources>

@@ -1433,4 +1433,9 @@
 | AppStore |     | Send Bitcoin and other cryptocurrencies to contacts instantly |     |     |     |     |
 | AppStore |     | Convenient wallet for popular cryptocurrencies |     |     |     |     |
 | android,iOS | Upgrade | Upgrade | 升级  |     |     |     |
-| android,iOS |     |     |     |     |     |     |
+| android,iOS | Create_PIN | Create PIN | 创建 PIN |     |     |     |
+| android,iOS | Upgrade_PIN | Upgrade PIN | 升级 PIN |     |     |     |
+| android,iOS | Start | Start | 开始  |     |     |     |
+| android,iOS | Enter_your_old_PIN | Enter your old PIN | 输入你的旧 PIN |     |     |     |
+| android,iOS | Enter_your_new_PIN | Enter your new PIN | 输入你的新 PIN |     |     |     |
+| android,iOS | Not_enough_partials |     |     |     |     |     |
