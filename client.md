@@ -1438,4 +1438,4 @@
 | android,iOS | Start | Start | 开始  |     |     |     |
 | android,iOS | Enter_your_old_PIN | Enter your old PIN | 输入你的旧 PIN |     |     |     |
 | android,iOS | Enter_your_new_PIN | Enter your new PIN | 输入你的新 PIN |     |     |     |
-| android,iOS | Not_enough_partials |     |     |     |     |     |
+| android,iOS | Not_enough_partials | Not enough nodes return key shard |     |     |     |     |
