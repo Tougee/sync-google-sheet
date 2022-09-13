@@ -1448,4 +1448,7 @@
   <string name="Process_can_not_be_stop" platform="android,iOS">The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.</string>
   <string name="Trying_connect_tip_network" platform="android,iOS">Connecting the TIP network</string>
   <string name="Trying_connect_tip_node" platform="android,iOS">Trying connect TIP node</string>
+  <string name="Connect_to_TIP_network_failed" platform="android,iOS">If you see "Failed to connect to the TIP network", please try switching to 4G, Wi-Fi, or VPN and attempting again.</string>
+  <string name="Upgrade_need_verify_your_PIN" platform="android,iOS">The upgrade requires verifying your PIN.</string>
+  <string name="Continue_need_verify_your_PIN" platform="android,iOS">Continue need to verify your old PIN and new PIN</string>
 </resources>

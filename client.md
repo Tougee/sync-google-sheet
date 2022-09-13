@@ -1449,4 +1449,7 @@
 | android,iOS | Process_can_not_be_stop | The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly. | 流程一旦开始无法取消，请牢记 6 位数字 PIN，意外中止流程需要再次输入 |     |     |     |
 | android,iOS | Trying_connect_tip_network | Connecting the TIP network | 正在连接 TIP 网络 |     |     |     |
 | android,iOS | Trying_connect_tip_node | Trying connect TIP node | 正在连接节点… |     |     |     |
-| android,iOS | Connect_to_TIP_network_failed |     |     |     |     |     |
+| android,iOS | Connect_to_TIP_network_failed | If you see "Failed to connect to the TIP network", please try switching to 4G, Wi-Fi, or VPN and attempting again. | 连接 TIP 网络失败，请尝试切换4G、Wi-Fi 或 VPN 后重试 |     |     |     |
+| android,iOS | Upgrade_need_verify_your_PIN | The upgrade requires verifying your PIN. | 升级需要验证你的 PIN |     |     |     |
+| android,iOS | Continue_need_verify_your_PIN | Continue need to verify your old PIN and new PIN | 继续需要验证你的旧 PIN 以及新 PIN |     |     |     |
+| android,iOS |     |     |     |     |     |     |
