@@ -1454,4 +1454,6 @@
   <string name="" platform="AppStore">Send Bitcoin and other cryptocurrencies to contacts instantly</string>
   <string name="" platform="AppStore">Convenient wallet for popular cryptocurrencies</string>
   <string name="Creating_wallet_terminated_unexpectedly" platform="android,iOS">Creating wallet terminated unexpectedly, click \"Continue\" to complete the creation</string>
+  <string name="Upgrading_TIP_terminated_unexpectedly" platform="android,iOS">Upgrading TIP terminated unexpectedly, click \"Continue\" to complete the upgrade</string>
+  <string name="Changing_PIN_terminated_unexpectedly" platform="android,iOS">Changing PIN terminated unexpectedly, click \"Continue\" to complete the change</string>
 </resources>
