@@ -548,7 +548,7 @@
   <string name="restore_message" platform="android">Sandarkan mesej dan media anda ke storan luaran. Anda boleh memulihkannya semasa memasang semula Mixin. Mesej dan media anda juga akan disandarkan ke storan dalaman telefon anda. Media dan mesej sandaran anda tidak dilindungi oleh penyulitan hujung-ke-hujung Mixin semasa berada di storan luaran.</string>
   <string name="restore_not_found" platform="android">Tidak dijumpai, salin fail sandaran ke dalam %1$s</string>
   <string name="restore_path" platform="android">Laluan: %1$s</string>
-  <string name="Retry" platform="android">CUBA SEMULA</string>
+  <string name="Retry" platform="android,iOS">CUBA SEMULA</string>
   <string name="Retry_upload_failed" platform="android, Desktop">Gagal memuat naik semula.</string>
   <string name="Revoke_access" platform="android, iOS">Batal akses</string>
   <string name="Revoke_multisig_transaction" platform="android, iOS">Batalkan Urus Niaga Multisig</string>

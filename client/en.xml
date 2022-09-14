@@ -1043,7 +1043,7 @@
   <string name="restore_path" platform="android">Path: %1$s</string>
   <string name="Restoring" platform="android, iOS">Restoring...</string>
   <string name="Restoring_progress" platform="iOS">Restoring %@</string>
-  <string name="Retry" platform="android">Retry</string>
+  <string name="Retry" platform="android,iOS">Retry</string>
   <string name="Retry_upload_failed" platform="android, Desktop">Retry upload failed.</string>
   <string name="Revoke_access" platform="android, iOS">Revoke access</string>
   <string name="Revoke_multisig_transaction" platform="android, iOS">Revoke Multisig Transaction</string>

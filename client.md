@@ -1044,7 +1044,7 @@
 | android | restore_path | Path: %1$s | 备份路径：%1$s | パス：%1$s | Laluan: %1$s |     |
 | android, iOS | Restoring | Restoring... | 正在恢复... | …の復元を準備中 |     |     |
 | iOS | Restoring_progress | Restoring %@ | 正在恢复 %@ | %@を復元しています |     |     |
-| android | Retry | Retry | 重试  | リトライ | CUBA SEMULA | COBA LAGI |
+| android,iOS | Retry | Retry | 重试  | リトライ | CUBA SEMULA | COBA LAGI |
 | android, Desktop | Retry_upload_failed | Retry upload failed. | 重新上传失败。 | アップロードの再試行に失敗しました。 | Gagal memuat naik semula. | Unggahan ulang gagal. |
 | android, iOS | Revoke_access | Revoke access | 取消授权 | アクセスを取り消す | Batal akses | Cabut akses |
 | android, iOS | Revoke_multisig_transaction | Revoke Multisig Transaction | 撤销多重签名交易 | マルチシグトランザクションを取り消す | Batalkan Urus Niaga Multisig | Cabut Transaksi Multisig |
