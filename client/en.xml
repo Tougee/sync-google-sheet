@@ -1334,7 +1334,8 @@
   <string name="Upgrade" platform="android,iOS">Upgrade</string>
   <string name="Upgrade_Database" platform="android, iOS">Upgrade Database</string>
   <string name="Upgrade_need_verify_your_PIN" platform="android,iOS">The upgrade requires verifying your PIN.</string>
-  <string name="Upgrade_PIN" platform="android,iOS">Upgrade PIN</string>
+  <string name="Upgrade_TIP" platform="android,iOS">Upgrade TIP</string>
+  <string name="Upgrade_TIP_successfully" platform="android,iOS">Upgrade TIP successfully</string>
   <string name="Upgrading" platform="android, iOS">Upgrading</string>
   <string name="Upgrading_TIP_terminated_unexpectedly" platform="android,iOS">Upgrading TIP terminated unexpectedly, click "Continue" to complete the upgrade</string>
   <string name="Upload_Mobile_Contacts" platform="android, iOS">Upload Mobile Contacts</string>

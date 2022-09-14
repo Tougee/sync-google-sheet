@@ -349,7 +349,7 @@
   <string name="create_circle" platform="Desktop">新建圈子</string>
   <string name="create_conversation" platform="Desktop">新建会话</string>
   <string name="create_group" platform="Desktop">新建群组</string>
-  <string name="Create_PIN" platform="android,iOS">创建 PIN</string>
+  <string name="Create_PIN" platform="android,iOS">创建钱包</string>
   <string name="created_this_group" platform="android, iOS, Desktop">%1$s创建了这个群组</string>
   <string name="Creating" platform="android">正在创建…</string>
   <string name="Creating_wallet_terminated_unexpectedly" platform="android,iOS">创建钱包意外中止，点继续完成钱包创建</string>
@@ -1315,7 +1315,8 @@
   <string name="Upgrade" platform="android,iOS">升级</string>
   <string name="Upgrade_Database" platform="android, iOS">数据库升级</string>
   <string name="Upgrade_need_verify_your_PIN" platform="android,iOS">升级需要验证你的 PIN</string>
-  <string name="Upgrade_PIN" platform="android,iOS">升级 PIN</string>
+  <string name="Upgrade_TIP" platform="android,iOS">升级 TIP</string>
+  <string name="Upgrade_TIP_successfully" platform="android,iOS">TIP 升级成功</string>
   <string name="Upgrading" platform="android, iOS">升级中...</string>
   <string name="Upgrading_TIP_terminated_unexpectedly" platform="android,iOS">升级 TIP 意外中止，点继续完成 TIP 升级</string>
   <string name="Upload_Mobile_Contacts" platform="android, iOS">上传通讯录找好友</string>
