@@ -1262,8 +1262,9 @@
 | android, iOS, Desktop | This_message_was_deleted | This message was deleted | 此消息已撤回 | このメッセージは削除されています | Mesej ini telah dipadamkan | Pesan ini telah dihapus |
 | android | Thursday | Thursday | 星期四 | 木曜日 | Khamis | Kamis |
 | android, iOS, Desktop | Time | Time | 时间  | 日時  | Masa | Waktu |
-| android,iOS | TIP_introduction | The 6-digit PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **learn more**. | 6 位数字 PIN 基于去中心化密钥派生协议 Throttled Identity Protocol，阅读文档以**了解更多**。 |     |     |     |
+| android, iOS | tip_create_pin_title | Set a 6 digit PIN to create your first digital wallet | 设置 6 位数字 PIN 创建你的第一个数字钱包 | 6桁のPINコードを作成してください | Sediakan PIN dompet 6 digit untuk membuat dompet digital pertama anda | Siapkan PIN dompet 6 digit untuk membuat dompet digital pertama Anda |
 | android,iOS | TIP_creation_introduction | Set a 6 digit Wallet PIN to create your first digital wallet, the PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **learn more**. | 设置 6 位数字 PIN 创建你的第一个加密货币钱包，PIN 基于去中心化密钥派生协议 Throttled Identity Protocol，阅读文档以**了解更多**。 |     |     |     |
+| android,iOS | TIP_introduction | The 6-digit PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **learn more**. | 6 位数字 PIN 基于去中心化密钥派生协议 Throttled Identity Protocol，阅读文档以**了解更多**。 |     |     |     |
 | android, iOS | title_participants | %1$d Participant | %1$d 成员 | %1$d人の参加者 |     |     |
 | android, iOS | title_participants.count | %1$d Participants | %1$d 成员 | %1$d人の参加者 | %1$d peserta | %1$d peserta |
 | android, iOS | To  | To  | 至   | 宛先  |     |     |
@@ -1388,7 +1389,6 @@
 | android | wallet_password_change_tip | Please enter the 6 digit PIN to verify. | 请输入6位 PIN 来验证 | 認証するために6桁のPINコードを入力してください | Sila masukkan PIN 6 digit untuk mengesahkan. | Harap masukkan PIN 6 digit untuk memverifikasi. |
 | android, iOS | wallet_password_not_equal | The PIN is not the same twice, please try again. | PIN 不一致, 请重新输入 | PINコードが一致しません、もう一度お試しください | PIN tidak padan dengan PIN yang ditaip semula, sila cuba lagi. | PIN tidak cocok dengan PIN yang diketik ulang, harap coba lagi. |
 | android | wallet_password_set_new_pin_desc | Please set a new 6 digit PIN. | 设置新的 6 位数字 PIN | 6桁の新しいPINコードを作成してください | Sila tetapkan PIN 6 digit baharu. | Harap buat PIN 6 digit baru. |
-| android, iOS | tip_create_pin_title | Set a 6 digit PIN to create your first digital wallet | 设置 6 位数字 PIN 创建你的第一个数字钱包 | 6桁のPINコードを作成してください | Sediakan PIN dompet 6 digit untuk membuat dompet digital pertama anda | Siapkan PIN dompet 6 digit untuk membuat dompet digital pertama Anda |
 | android, iOS | wallet_password_unsafe | The PIN is too simple and insecure. | PIN 过于简单不安全 | PINコードがシンプルすぎます | PIN terlalu mudah dan tidak selamat. | PIN-nya terlalu sederhana dan tidak aman. |
 | android | wallet_pin_modify_biometrics | Please enter PIN to Modify Pay with PIN interval | 请输入 PIN 来修改支付 PIN 使用间隔 | 変更を確定するには、PINコードを入力してください | Sila masukkan PIN untuk Ubahsuai Bayar dengan selang PIN | Harap masukkan PIN untuk Mengubah Pembayaran dengan interval PIN |
 | android | wallet_pin_open_biometrics | Please enter PIN to open Biometrics | 请输入 PIN 来启用生物识别支付 | PINコードを入力して、生体認証を開いてください | Sila masukkan PIN untuk membuka Biometrik | Harap masukkan PIN untuk membuka Biometrik |

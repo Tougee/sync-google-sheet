@@ -1243,8 +1243,9 @@
   <string name="This_message_was_deleted" platform="android, iOS, Desktop">此消息已撤回</string>
   <string name="Thursday" platform="android">星期四</string>
   <string name="Time" platform="android, iOS, Desktop">时间</string>
-  <string name="TIP_introduction" platform="android,iOS">6 位数字 PIN 基于去中心化密钥派生协议 Throttled Identity Protocol，阅读文档以**了解更多**。</string>
+  <string name="tip_create_pin_title" platform="android, iOS">设置 6 位数字 PIN 创建你的第一个数字钱包</string>
   <string name="TIP_creation_introduction" platform="android,iOS">设置 6 位数字 PIN 创建你的第一个加密货币钱包，PIN 基于去中心化密钥派生协议 Throttled Identity Protocol，阅读文档以**了解更多**。</string>
+  <string name="TIP_introduction" platform="android,iOS">6 位数字 PIN 基于去中心化密钥派生协议 Throttled Identity Protocol，阅读文档以**了解更多**。</string>
   <string name="title_participants" platform="android, iOS">%1$d 成员</string>
   <string name="title_participants.count" platform="android, iOS">%1$d 成员</string>
   <string name="To" platform="android, iOS">至</string>
@@ -1367,7 +1368,6 @@
   <string name="wallet_password_change_tip" platform="android">请输入6位 PIN 来验证</string>
   <string name="wallet_password_not_equal" platform="android, iOS">PIN 不一致, 请重新输入</string>
   <string name="wallet_password_set_new_pin_desc" platform="android">设置新的 6 位数字 PIN</string>
-  <string name="tip_create_pin_title" platform="android, iOS">设置 6 位数字 PIN 创建你的第一个数字钱包</string>
   <string name="wallet_password_unsafe" platform="android, iOS">PIN 过于简单不安全</string>
   <string name="wallet_pin_modify_biometrics" platform="android">请输入 PIN 来修改支付 PIN 使用间隔</string>
   <string name="wallet_pin_open_biometrics" platform="android">请输入 PIN 来启用生物识别支付</string>

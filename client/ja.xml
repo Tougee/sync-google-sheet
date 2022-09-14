@@ -1222,6 +1222,7 @@
   <string name="This_message_was_deleted" platform="android, iOS, Desktop">このメッセージは削除されています</string>
   <string name="Thursday" platform="android">木曜日</string>
   <string name="Time" platform="android, iOS, Desktop">日時</string>
+  <string name="tip_create_pin_title" platform="android, iOS">6桁のPINコードを作成してください</string>
   <string name="title_participants" platform="android, iOS">%1$d人の参加者</string>
   <string name="title_participants.count" platform="android, iOS">%1$d人の参加者</string>
   <string name="To" platform="android, iOS">宛先</string>
@@ -1338,7 +1339,6 @@
   <string name="wallet_password_change_tip" platform="android">認証するために6桁のPINコードを入力してください</string>
   <string name="wallet_password_not_equal" platform="android, iOS">PINコードが一致しません、もう一度お試しください</string>
   <string name="wallet_password_set_new_pin_desc" platform="android">6桁の新しいPINコードを作成してください</string>
-  <string name="tip_create_pin_title" platform="android, iOS">6桁のPINコードを作成してください</string>
   <string name="wallet_password_unsafe" platform="android, iOS">PINコードがシンプルすぎます</string>
   <string name="wallet_pin_modify_biometrics" platform="android">変更を確定するには、PINコードを入力してください</string>
   <string name="wallet_pin_open_biometrics" platform="android">PINコードを入力して、生体認証を開いてください</string>

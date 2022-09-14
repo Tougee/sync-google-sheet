@@ -613,6 +613,7 @@
   <string name="This_message_was_deleted" platform="android, iOS, Desktop">Pesan ini telah dihapus</string>
   <string name="Thursday" platform="android">Kamis</string>
   <string name="Time" platform="android, iOS, Desktop">Waktu</string>
+  <string name="tip_create_pin_title" platform="android, iOS">Siapkan PIN dompet 6 digit untuk membuat dompet digital pertama Anda</string>
   <string name="title_participants.count" platform="android, iOS">%1$d peserta</string>
   <string name="Today" platform="android, iOS, Desktop">Hari ini</string>
   <string name="Transaction" platform="android, iOS">Transaksi</string>
@@ -664,7 +665,6 @@
   <string name="wallet_password_change_tip" platform="android">Harap masukkan PIN 6 digit untuk memverifikasi.</string>
   <string name="wallet_password_not_equal" platform="android, iOS">PIN tidak cocok dengan PIN yang diketik ulang, harap coba lagi.</string>
   <string name="wallet_password_set_new_pin_desc" platform="android">Harap buat PIN 6 digit baru.</string>
-  <string name="tip_create_pin_title" platform="android, iOS">Siapkan PIN dompet 6 digit untuk membuat dompet digital pertama Anda</string>
   <string name="wallet_password_unsafe" platform="android, iOS">PIN-nya terlalu sederhana dan tidak aman.</string>
   <string name="wallet_pin_modify_biometrics" platform="android">Harap masukkan PIN untuk Mengubah Pembayaran dengan interval PIN</string>
   <string name="wallet_pin_open_biometrics" platform="android">Harap masukkan PIN untuk membuka Biometrik</string>
