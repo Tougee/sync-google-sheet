@@ -596,6 +596,7 @@
 | android, iOS, Desktop | From | From | 来自  | より  |     |     |
 | Desktop | from_with_colon | From:  | 来自：  | アイコンより： |     |     |
 | iOS | Games | Games | 游戏  | ゲーム |     |     |
+| android,iOS | Generating_keys | Generating keys... | 正在创建密钥... |     |     |     |
 | android, iOS | Get_a_new_wallet | Get a new wallet | 创建钱包 | 新たなウォレットを作成 |     |     |
 | android | GIF | GIF |     | GIF | GIF | GIF |
 | android | Go  | Go  | 导航  | 移動  | Buka | Buka |

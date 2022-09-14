@@ -595,6 +595,7 @@
   <string name="From" platform="android, iOS, Desktop">From</string>
   <string name="from_with_colon" platform="Desktop">From: </string>
   <string name="Games" platform="iOS">Games</string>
+  <string name="Generating_keys" platform="android,iOS">Generating keys...</string>
   <string name="Get_a_new_wallet" platform="android, iOS">Get a new wallet</string>
   <string name="GIF" platform="android">GIF</string>
   <string name="Go" platform="android">Go</string>

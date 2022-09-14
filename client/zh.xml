@@ -587,6 +587,7 @@
   <string name="From" platform="android, iOS, Desktop">来自</string>
   <string name="from_with_colon" platform="Desktop">来自： </string>
   <string name="Games" platform="iOS">游戏</string>
+  <string name="Generating_keys" platform="android,iOS">正在创建密钥...</string>
   <string name="Get_a_new_wallet" platform="android, iOS">创建钱包</string>
   <string name="Go" platform="android">导航</string>
   <string name="Go_settings" platform="android">去设置</string>
