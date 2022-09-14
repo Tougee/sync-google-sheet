@@ -1384,7 +1384,7 @@
   <string name="wallet_password_change_tip" platform="android">Please enter the 6 digit PIN to verify.</string>
   <string name="wallet_password_not_equal" platform="android, iOS">The PIN is not the same twice, please try again.</string>
   <string name="wallet_password_set_new_pin_desc" platform="android">Please set a new 6 digit PIN.</string>
-  <string name="wallet_password_set_pin_desc" platform="android, iOS">Set a 6 digit PIN to create your first digital wallet, read the document to **learn more**.</string>
+  <string name="tip_create_pin_title" platform="android, iOS">Set a 6 digit PIN to create your first digital wallet</string>
   <string name="wallet_password_unsafe" platform="android, iOS">The PIN is too simple and insecure.</string>
   <string name="wallet_pin_modify_biometrics" platform="android">Please enter PIN to Modify Pay with PIN interval</string>
   <string name="wallet_pin_open_biometrics" platform="android">Please enter PIN to open Biometrics</string>

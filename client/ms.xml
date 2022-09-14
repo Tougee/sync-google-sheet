@@ -723,7 +723,7 @@
   <string name="wallet_password_change_tip" platform="android">Sila masukkan PIN 6 digit untuk mengesahkan.</string>
   <string name="wallet_password_not_equal" platform="android, iOS">PIN tidak padan dengan PIN yang ditaip semula, sila cuba lagi.</string>
   <string name="wallet_password_set_new_pin_desc" platform="android">Sila tetapkan PIN 6 digit baharu.</string>
-  <string name="wallet_password_set_pin_desc" platform="android, iOS">Sediakan PIN dompet 6 digit untuk membuat dompet digital pertama anda, baca dokumentasi kami untuk **mengetahui lebih lanjut**.</string>
+  <string name="tip_create_pin_title" platform="android, iOS">Sediakan PIN dompet 6 digit untuk membuat dompet digital pertama anda</string>
   <string name="wallet_password_unsafe" platform="android, iOS">PIN terlalu mudah dan tidak selamat.</string>
   <string name="wallet_pin_modify_biometrics" platform="android">Sila masukkan PIN untuk Ubahsuai Bayar dengan selang PIN</string>
   <string name="wallet_pin_open_biometrics" platform="android">Sila masukkan PIN untuk membuka Biometrik</string>
