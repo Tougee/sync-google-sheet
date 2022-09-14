@@ -1263,7 +1263,7 @@
 | android | Thursday | Thursday | 星期四 | 木曜日 | Khamis | Kamis |
 | android, iOS, Desktop | Time | Time | 时间  | 日時  | Masa | Waktu |
 | android,iOS | TIP_introduction | The 6-digit PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **learn more**. | 6 位数字 PIN 基于去中心化密钥派生协议 Throttled Identity Protocol，阅读文档以**了解更多**。 |     |     |     |
-| android,iOS | TIP_creation_introduction |     |     |     |     |     |
+| android,iOS | TIP_creation_introduction | Set a 6 digit Wallet PIN to create your first digital wallet, the PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **learn more**. | 设置 6 位数字 PIN 创建你的第一个加密货币钱包，PIN 基于去中心化密钥派生协议 Throttled Identity Protocol，阅读文档以**了解更多**。 |     |     |     |
 | android, iOS | title_participants | %1$d Participant | %1$d 成员 | %1$d人の参加者 |     |     |
 | android, iOS | title_participants.count | %1$d Participants | %1$d 成员 | %1$d人の参加者 | %1$d peserta | %1$d peserta |
 | android, iOS | To  | To  | 至   | 宛先  |     |     |

@@ -1262,6 +1262,7 @@
   <string name="Thursday" platform="android">Thursday</string>
   <string name="Time" platform="android, iOS, Desktop">Time</string>
   <string name="TIP_introduction" platform="android,iOS">The 6-digit PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **learn more**.</string>
+  <string name="TIP_creation_introduction" platform="android,iOS">Set a 6 digit Wallet PIN to create your first digital wallet, the PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **learn more**.</string>
   <string name="title_participants" platform="android, iOS">%1$d Participant</string>
   <string name="title_participants.count" platform="android, iOS">%1$d Participants</string>
   <string name="To" platform="android, iOS">To</string>
