@@ -295,7 +295,7 @@
   <string name="Confirm" platform="android, iOS, Desktop">Confirm</string>
   <string name="Confirm_fingerprint" platform="android">Confirm fingerprint</string>
   <string name="Confirm_PIN" platform="android">Confirm PIN</string>
-  <string name="Connect_to_TIP_network_failed" platform="android,iOS">If you see "Failed to connect to the TIP network", please try switching to 4G, Wi-Fi, or VPN and attempting again.</string>
+  <string name="Connect_to_TIP_network_failed" platform="android,iOS">Unable to connect to TIP network. Check your connection and try again.</string>
   <string name="Connected" platform="iOS">Connected</string>
   <string name="Connecting" platform="android, iOS">Connecting</string>
   <string name="Connection_unstable" platform="android, iOS">Connection unstable</string>

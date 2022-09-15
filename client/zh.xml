@@ -290,7 +290,7 @@
   <string name="Confirm" platform="android, iOS, Desktop">确认</string>
   <string name="Confirm_fingerprint" platform="android">确认指纹</string>
   <string name="Confirm_PIN" platform="android">确认 PIN</string>
-  <string name="Connect_to_TIP_network_failed" platform="android,iOS">连接 TIP 网络失败，请尝试切换4G、Wi-Fi 或 VPN 后重试</string>
+  <string name="Connect_to_TIP_network_failed" platform="android,iOS">连接 TIP 网络失败，请尝试切换网络后重试</string>
   <string name="Connected" platform="iOS">已连接</string>
   <string name="Connecting" platform="android, iOS">正在连接</string>
   <string name="Connection_unstable" platform="android, iOS">当前通话网络不佳</string>

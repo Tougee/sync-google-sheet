@@ -296,7 +296,7 @@
 | android, iOS, Desktop | Confirm | Confirm | 确认  | 確認する | Sahkan | Konfirmasi |
 | android | Confirm_fingerprint | Confirm fingerprint | 确认指纹 | 指紋認証の確認 |     |     |
 | android | Confirm_PIN | Confirm PIN | 确认 PIN | PINコードを確認 | Sahkan PIN | Konfirmasikan PIN |
-| android,iOS | Connect_to_TIP_network_failed | If you see "Failed to connect to the TIP network", please try switching to 4G, Wi-Fi, or VPN and attempting again. | 连接 TIP 网络失败，请尝试切换4G、Wi-Fi 或 VPN 后重试 |     |     |     |
+| android,iOS | Connect_to_TIP_network_failed | Unable to connect to TIP network. Check your connection and try again. | 连接 TIP 网络失败，请尝试切换网络后重试 |     |     |     |
 | iOS | Connected | Connected | 已连接 | 接続済 |     |     |
 | android, iOS | Connecting | Connecting | 正在连接 | 接続中 | Menyambung | Menyambungkan |
 | android, iOS | Connection_unstable | Connection unstable | 当前通话网络不佳 | 接続が不安定です |     |     |
