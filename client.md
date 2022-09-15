@@ -547,7 +547,7 @@
 | android, Desktop | error_user_invalid_format | Invalid user id | 用户数据不合法 | 無効なユーザーIDです | Id pengguna tidak sah | ID pengguna tidak valid |
 | android, iOS, Desktop | error_withdrawal_memo_format_incorrect | ERROR 20131: Withdrawal memo format incorrect. | 错误 20131：提现备注格式不正确 | エラー20131：出金メモのフォーマットが不正確です | RALAT 20131: Penarikan format memo tidak betul. | KESALAHAN 20131: Format memo penarikan salah. |
 | android, iOS | Everybody | Everybody | 任何人 | 全員  | Semua orang | Semua orang |
-| android,iOS | Exchanging_data | Synchronization key shards in progress %1$s%… | 正在同步密钥分片，进度 %1$s%… |     |     |     |
+| android,iOS | Exchanging_data | Synchronization key shards in progress %1$s%%… | 正在同步密钥分片，进度 %1$s%%… |     |     |     |
 | android, Desktop | Exit | Exit | 退出  | 退出  | Keluar | Keluar |
 | iOS | Exit_confirmation | Exit "%@"? | 退出"%@"？ | "%@"を退出しますか? |     |     |
 | android, iOS, Desktop | Exit_Group | Exit Group | 退出群组 | グループから退出 | Keluar Kumpulan | Keluar dari Grup |

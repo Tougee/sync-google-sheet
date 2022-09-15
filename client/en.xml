@@ -546,7 +546,7 @@
   <string name="error_user_invalid_format" platform="android, Desktop">Invalid user id</string>
   <string name="error_withdrawal_memo_format_incorrect" platform="android, iOS, Desktop">ERROR 20131: Withdrawal memo format incorrect.</string>
   <string name="Everybody" platform="android, iOS">Everybody</string>
-  <string name="Exchanging_data" platform="android,iOS">Synchronization key shards in progress %1$s%…</string>
+  <string name="Exchanging_data" platform="android,iOS">Synchronization key shards in progress %1$s%%…</string>
   <string name="Exit" platform="android, Desktop">Exit</string>
   <string name="Exit_confirmation" platform="iOS">Exit "%@"?</string>
   <string name="Exit_Group" platform="android, iOS, Desktop">Exit Group</string>
