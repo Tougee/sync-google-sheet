@@ -1010,7 +1010,7 @@
   <string name="restore_path" platform="android">Путь: %1$s</string>
   <string name="Restoring" platform="android, iOS">Восстановление...</string>
   <string name="Restoring_progress" platform="iOS">Восстановление %@</string>
-  <string name="Retry" platform="android">Повторить попытку</string>
+  <string name="Retry" platform="android">Повторить</string>
   <string name="Retry_upload_failed" platform="android, Desktop">Повторная загрузка не удалась.</string>
   <string name="Revoke_access" platform="android, iOS">Отменить доступ</string>
   <string name="Revoke_multisig_transaction" platform="android, iOS">Отозвать транзакцию с мультиподписью</string>
