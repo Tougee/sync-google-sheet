@@ -1089,7 +1089,7 @@
 | android, iOS, Desktop | search_related_message.count | %1$d related messages | %1$d 条相关的消息 | %1$d個の関連するメッセージ | %1$d mesej berkaitan | %1$d pesan terkait |
 | iOS | search_result_prefix_phone | Phone Number:  | 手机号码： | 電話番号:  |     |     |
 | android | Searching | Searching | 搜索中 | 検索中 | Mencari | Mencari |
-| android,iOS | Secured_by_TIP | Secured by TIP |     |     |     |     |
+| android,iOS | Secured_by_TIP | Secured by TIP | 由 TIP 保障 |     |     |     |
 | android, Desktop | secret_url | https://mixin.one/pages/1000007 |     | https://mixin.one/pages/1000007 | https://mixin.one/pages/1000007 | https://mixin.one/pages/1000007 |
 | android, iOS | Security | Security | 安全  | セキュリティ | Keselamatan | Keamanan |
 | android, iOS, Desktop | Select | Select | 选择  | 選択  | Pilih | Pilih |

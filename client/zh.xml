@@ -1072,6 +1072,7 @@
   <string name="search_related_message.count" platform="android, iOS, Desktop">%1$d 条相关的消息</string>
   <string name="search_result_prefix_phone" platform="iOS">手机号码：</string>
   <string name="Searching" platform="android">搜索中</string>
+  <string name="Secured_by_TIP" platform="android,iOS">由 TIP 保障</string>
   <string name="Security" platform="android, iOS">安全</string>
   <string name="Select" platform="android, iOS, Desktop">选择</string>
   <string name="Select_a_country_or_region" platform="iOS">选择一个国家或地区</string>
