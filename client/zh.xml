@@ -1430,7 +1430,7 @@
   <string name="You_deleted_this_message" platform="android, iOS, Desktop">你撤回了一条消息</string>
   <string name="You_have_a_new_message" platform="iOS">你收到了一条消息</string>
   <string name="You_have_left_the_group" platform="android, iOS">你不在此群组</string>
-  <string name="Your_emergency_contact_has_been_changed" platform="iOS">紧急联系人已修改</string>
+  <string name="Your_emergency_contact_has_been_changed" platform="android,iOS">紧急联系人已修改</string>
   <string name="Your_phone_number_has_been_changed" platform="iOS">更换手机号</string>
   <string name="Your_PIN_has_been_changed" platform="iOS">修改 PIN</string>
   <string name="your_pin_has_been_created" platform="android, iOS">PIN 已创建</string>

@@ -1401,7 +1401,7 @@
   <string name="You_deleted_this_message" platform="android, iOS, Desktop">このメッセージを削除しました。</string>
   <string name="You_have_a_new_message" platform="iOS">新しいメッセージがあります</string>
   <string name="You_have_left_the_group" platform="android, iOS">グループから退会しました</string>
-  <string name="Your_emergency_contact_has_been_changed" platform="iOS">緊急連絡先が変更されました</string>
+  <string name="Your_emergency_contact_has_been_changed" platform="android,iOS">緊急連絡先が変更されました</string>
   <string name="Your_phone_number_has_been_changed" platform="iOS">電話番号が変更されました</string>
   <string name="Your_PIN_has_been_changed" platform="iOS">PINコードが変更されました</string>
   <string name="your_pin_has_been_created" platform="android, iOS">PINコードが生成されました</string>

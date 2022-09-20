@@ -1452,7 +1452,7 @@
   <string name="You_deleted_this_message" platform="android, iOS, Desktop">You deleted this message</string>
   <string name="You_have_a_new_message" platform="iOS">You have a new message</string>
   <string name="You_have_left_the_group" platform="android, iOS">You have left the group</string>
-  <string name="Your_emergency_contact_has_been_changed" platform="iOS">Your emergency contact has been changed</string>
+  <string name="Your_emergency_contact_has_been_changed" platform="android,iOS">Your emergency contact has been changed</string>
   <string name="Your_phone_number_has_been_changed" platform="iOS">Your phone number has been changed</string>
   <string name="Your_PIN_has_been_changed" platform="iOS">Your PIN has been changed</string>
   <string name="your_pin_has_been_created" platform="android, iOS">Your PIN has been created</string>

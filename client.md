@@ -1453,7 +1453,7 @@
 | android, iOS, Desktop | You_deleted_this_message | You deleted this message | 你撤回了一条消息 | このメッセージを削除しました。 | Anda memadamkan mesej ini | Anda menghapus pesan ini |
 | iOS | You_have_a_new_message | You have a new message | 你收到了一条消息 | 新しいメッセージがあります |     |     |
 | android, iOS | You_have_left_the_group | You have left the group | 你不在此群组 | グループから退会しました |     |     |
-| iOS | Your_emergency_contact_has_been_changed | Your emergency contact has been changed | 紧急联系人已修改 | 緊急連絡先が変更されました |     |     |
+| android,iOS | Your_emergency_contact_has_been_changed | Your emergency contact has been changed | 紧急联系人已修改 | 緊急連絡先が変更されました |     |     |
 | iOS | Your_phone_number_has_been_changed | Your phone number has been changed | 更换手机号 | 電話番号が変更されました |     |     |
 | iOS | Your_PIN_has_been_changed | Your PIN has been changed | 修改 PIN | PINコードが変更されました |     |     |
 | android, iOS | your_pin_has_been_created | Your PIN has been created | PIN 已创建 | PINコードが生成されました |     |     |
