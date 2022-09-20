@@ -1088,6 +1088,7 @@
   <string name="search_related_message.count" platform="android, iOS, Desktop">%1$d related messages</string>
   <string name="search_result_prefix_phone" platform="iOS">Phone Number: </string>
   <string name="Searching" platform="android">Searching</string>
+  <string name="Secured_by_TIP" platform="android,iOS">Secured by TIP</string>
   <string name="secret_url" platform="android, Desktop">https://mixin.one/pages/1000007</string>
   <string name="Security" platform="android, iOS">Security</string>
   <string name="Select" platform="android, iOS, Desktop">Select</string>
