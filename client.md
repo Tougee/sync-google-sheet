@@ -1129,6 +1129,7 @@
 | iOS | send.count | Send(%1$d) | 发送（%1$d） | 送信(%1$d) |     |     |
 | android, iOS | Senders | Senders | 交易发起人 | 送信者 | Pengirim | Pengirim |
 | android, iOS, Desktop | Set | Set | 设置  | 設定  |     |     |
+| android,iOS |     |     |     |     |     |     |
 | android, iOS, Desktop | set_disappearing_message_time_to | %1$s set disappearing message time to %2$s | %1$s将限时消息设置为 %2$s | 1$sは、消えるメッセージの有効時間を%2$sに設定しました。 |     |     |
 | android, iOS | Set_new_PIN | Set a new PIN | 设置新的 PIN | 新しいPINコードを設定 | Tetapkan PIN baru | Buat PIN baru |
 | android,iOS | Set_or_update_PIN_failed | Set or update PIN failed | 设置或更新 PIN 失败 |     |     |     |
