@@ -1128,6 +1128,7 @@
   <string name="send.count" platform="iOS">Send(%1$d)</string>
   <string name="Senders" platform="android, iOS">Senders</string>
   <string name="Set" platform="android, iOS, Desktop">Set</string>
+  <string name="Set_emergency_create_successfully" platform="android,iOS">Set emergency contact successfully</string>
   <string name="set_disappearing_message_time_to" platform="android, iOS, Desktop">%1$s set disappearing message time to %2$s</string>
   <string name="Set_new_PIN" platform="android, iOS">Set a new PIN</string>
   <string name="Set_or_update_PIN_failed" platform="android,iOS">Set or update PIN failed</string>

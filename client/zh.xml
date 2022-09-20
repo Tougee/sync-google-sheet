@@ -1111,6 +1111,7 @@
   <string name="send.count" platform="iOS">发送（%1$d）</string>
   <string name="Senders" platform="android, iOS">交易发起人</string>
   <string name="Set" platform="android, iOS, Desktop">设置</string>
+  <string name="Set_emergency_create_successfully" platform="android,iOS">设置紧急联系人成功</string>
   <string name="set_disappearing_message_time_to" platform="android, iOS, Desktop">%1$s将限时消息设置为 %2$s</string>
   <string name="Set_new_PIN" platform="android, iOS">设置新的 PIN</string>
   <string name="Set_or_update_PIN_failed" platform="android,iOS">设置或更新 PIN 失败</string>
