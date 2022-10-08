@@ -329,6 +329,7 @@
   <string name="content_post" platform="android, iOS">[Post]</string>
   <string name="content_rebate" platform="iOS">[Rebate]</string>
   <string name="content_sticker" platform="android, iOS">[Sticker]</string>
+  <string name="content_system" platform="android">[System Message]</string>
   <string name="Content_too_long" platform="android, Desktop">Content too long</string>
   <string name="content_transcript" platform="android, iOS">[Transcript]</string>
   <string name="content_transfer" platform="android, iOS">[Transfer]</string>

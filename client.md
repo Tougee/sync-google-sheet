@@ -330,6 +330,7 @@
 | android, iOS | content_post | [Post] | [文章] | [投稿] | [Catatan] | [Postingan] |
 | iOS | content_rebate | [Rebate] | [退款] | [払い戻し] |     |     |
 | android, iOS | content_sticker | [Sticker] | [贴纸] | [スタンプ] | [Pelekat] | [Stiker] |
+| android | content_system | [System Message] | [系统消息] |     |     |     |
 | android, Desktop | Content_too_long | Content too long | 内容过长 | 文字数を減らしてください | Kandungan terlalu lama | Konten terlalu panjang |
 | android, iOS | content_transcript | [Transcript] | [聊天记录] | [メッセージ履歴] |     |     |
 | android, iOS | content_transfer | [Transfer] | [转账] | [送金] | [Pindah] | [Transfer] |

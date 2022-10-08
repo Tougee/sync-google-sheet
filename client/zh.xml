@@ -324,6 +324,7 @@
   <string name="content_post" platform="android, iOS">[文章]</string>
   <string name="content_rebate" platform="iOS">[退款]</string>
   <string name="content_sticker" platform="android, iOS">[贴纸]</string>
+  <string name="content_system" platform="android">[系统消息]</string>
   <string name="Content_too_long" platform="android, Desktop">内容过长</string>
   <string name="content_transcript" platform="android, iOS">[聊天记录]</string>
   <string name="content_transfer" platform="android, iOS">[转账]</string>
