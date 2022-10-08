@@ -325,6 +325,7 @@
   <string name="content_live" platform="android, iOS">[Live]</string>
   <string name="content_location" platform="android, iOS">[Location]</string>
   <string name="content_photo" platform="android, iOS">[Photo]</string>
+  <string name="content_pin" platform="android">[Pin Message]</string>
   <string name="content_post" platform="android, iOS">[Post]</string>
   <string name="content_rebate" platform="iOS">[Rebate]</string>
   <string name="content_sticker" platform="android, iOS">[Sticker]</string>

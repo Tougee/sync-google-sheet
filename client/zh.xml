@@ -320,6 +320,7 @@
   <string name="content_live" platform="android, iOS">[直播]</string>
   <string name="content_location" platform="android, iOS">[位置]</string>
   <string name="content_photo" platform="android, iOS">[照片]</string>
+  <string name="content_pin" platform="android">[置顶消息]</string>
   <string name="content_post" platform="android, iOS">[文章]</string>
   <string name="content_rebate" platform="iOS">[退款]</string>
   <string name="content_sticker" platform="android, iOS">[贴纸]</string>
