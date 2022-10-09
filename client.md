@@ -456,7 +456,7 @@
 | android | divide | ,   | 、   | ,   | ,   | ,   |
 | android | Documents | Documents | 文档  | ドキュメント | Dokumen | Dokumen |
 | android, iOS, Desktop | Done | Done | 完成  | 完了  | Selesai | Selesai |
-| android,iOS |     |     |     |     |     |     |
+| android,iOS | Dont_have_assets | Don't have assets? |     |     |     |     |
 | Desktop | download | Download | 下载  | ダウンロード |     |     |
 | Desktop | download_link | Download Link:  | 下载链接： | ダウンロードリンク: |     |     |
 | Desktop | drag_and_drop_file_here | Drag and drop files here | 拖放文件到此处 | ファイルをドラッグ＆ドロップ |     |     |
