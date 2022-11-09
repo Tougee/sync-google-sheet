@@ -54,7 +54,7 @@
 | android, iOS | Allow_bot_access_bots | Allow bot to access your bot list. | 允许机器人访问你的机器人列表。 |     |     |     |
 | android, iOS | Allow_bot_manage_bots | Allow bot to add or modify your bots. | 允许机器人添加或修改你的机器人列表。 |     |     |     |
 | android, iOS | Allow_bot_access_circles | Allow bot to access your circle list. | 允许机器人访问你的圈子列表。 |     |     |     |
-| android, iOS | Allow_bot_manage_circles | Allow bot to add, modify and delete your circles. | 允许机器人添加、修改和删除你的所有圈子。 |     |     |     |
+| android, iOS | Allow_bot_manage_circles | Allow bot to add, modify and delete your circles. | 允许机器人添加、修改和删除你所有的圈子。 |     |     |     |
 | android, iOS | Request_Authorization | Request Authorization | 请求授权 |     |     |     |
 | android, iOS | Choose_Network | Choose Network | 选择充值网络 |     |     |     |
 | android, iOS | Choose_network_tip | Please ensure the network you choose to deposit that Mixin supports. Otherwise, your assets may be lost. | 请选择 Mixin 支持的网络进行充值，否则您的充值将不会到账。 |     |     |     |
