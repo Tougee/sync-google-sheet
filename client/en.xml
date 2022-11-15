@@ -1016,6 +1016,7 @@
   <string name="quick_search" platform="Desktop">Quick search</string>
   <string name="quit_mixin" platform="Desktop">Quit Mixin</string>
   <string name="quote" platform="android">quote</string>
+  <string name="Random_keyboard" platform="android">Random keyboard</string>
   <string name="Raw" platform="android, iOS, Desktop">Raw</string>
   <string name="Raw_Transfer" platform="android">Raw Transfer</string>
   <string name="Read_Assets" platform="android, iOS">Read Assets</string>

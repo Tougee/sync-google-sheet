@@ -1001,6 +1001,7 @@
   <string name="quick_search" platform="Desktop">快速搜索</string>
   <string name="quit_mixin" platform="Desktop">退出 Mixin</string>
   <string name="quote" platform="android">引用</string>
+  <string name="Random_keyboard" platform="android">随机键盘</string>
   <string name="Raw" platform="android, iOS, Desktop">其他</string>
   <string name="Read_Assets" platform="android, iOS">查看资产</string>
   <string name="Read_Bots" platform="android, iOS">查看应用</string>
