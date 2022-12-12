@@ -411,6 +411,7 @@
 | iOS | date_format_week_date | E, d MMM yyyy | yyyy 年 MM 月 d 日 E | yyyy年MM月d日（E） |     |     |
 | android | db_debug_warning | Attention: If a harmful SQL statement is executed, the result is irreversible! | 注意：如果执行了有侵害性的 SQL，结果不可逆！ | 注意：有害なSQL文書が実行された場合、結果を元に戻せません | Perhatian: Sekiranya pernyataan SQL berbahaya dijalankan, hasilnya tidak dapat dipulihkan! |     |
 | android | Debug_database | Debug database |     | データベースdebag | Pangkalan data nyahpepijat |     |
+| android | Debug_Tools | Debug Tools |     |     |     |     |
 | android | Decline | Decline | 挂断  | 拒否  | Tolak | Tolak |
 | android, iOS | Declined | Declined | 已拒绝 | 拒否  | Menolak | Ditolak |
 | android | deep_clean | Deep clean | 深度清理 | 削除  |     |     |

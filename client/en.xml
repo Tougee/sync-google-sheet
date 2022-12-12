@@ -410,6 +410,7 @@
   <string name="date_format_week_date" platform="iOS">E, d MMM yyyy</string>
   <string name="db_debug_warning" platform="android">Attention: If a harmful SQL statement is executed, the result is irreversible!</string>
   <string name="Debug_database" platform="android">Debug database</string>
+  <string name="Debug_Tools" platform="android">Debug Tools</string>
   <string name="Decline" platform="android">Decline</string>
   <string name="Declined" platform="android, iOS">Declined</string>
   <string name="deep_clean" platform="android">Deep clean</string>
