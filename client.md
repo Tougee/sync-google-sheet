@@ -1157,7 +1157,7 @@
 | iOS | Send_verification_code_frequent | Send verification code too frequent, please try again later. | 发送验证码太频繁，请稍后再试 | しばらく経ってから再度送信してください |     |     |
 | iOS | send_video | Send 1 Video | 发送 1 个视频 | ビデオを送信 |     |     |
 | iOS | send_video.count | Send %1$d Videos | 发送 %1$d 个视频 | %1$d本のビデオを送信 |     |     |
-| Desktop | send_without_compression | Send without compression | 发送原始文件 | 圧縮せずに送信 |     |     |
+| android, Desktop | send_without_compression | Send without compression | 发送原始文件 | 圧縮せずに送信 |     |     |
 | android, iOS, Desktop | Send_Without_Sound | Send Without Sound | 静音发送 | 通知音を鳴らさずに送信する |     |     |
 | android, iOS | Send_your_Current_Location | Send your Current Location | 发送您当前的位置 | 現在地を送信 | Hantarkan Lokasi Semasa Anda | Kirim Lokasi Anda Saat Ini |
 | iOS | send.count | Send(%1$d) | 发送（%1$d） | 送信(%1$d) |     |     |
@@ -1436,7 +1436,7 @@
 | android, iOS | wallet_transaction_tip | Are you sure you want to transfer %3$s worth %2$s to %1$s? | 确定给 %1$s 转价值 %2$s 的 %3$s ？ | %1$sへ%2$s相当の%3$sを送金してもよろしいですか？ | Adakah anda pasti mahu memindahkan %3$s bernilai %2$s ke %1$s？ | Yakin ingin mentransfer %3$s senilai %2$s ke %1$s？ |
 | android, iOS | wallet_transactions_asset_key_warning | Asset key is NOT a deposit address! | 资产标识不是充值地址！ | 資産キーは入金アドレスではありません！ | Kunci aset BUKAN alamat deposit! | Kode aset BUKAN alamat deposit! |
 | android, iOS | wallet_transfer_recent_tip | You have already transferred %3$s to %2$s %1$s ago. Do you want to transfer it again? | 你已经在 %1$s 前给 %2$s 转账了 %3$s，确认还要再转一次吗？ | あなたは%1$s前に%2$sへ同額の送金をしています。再度%3$sを送金しますか？ | Anda telah memindahkan %3$s ke %2$s %1$s. Adakah anda mahu memindahkannya lagi? | Anda telah mentransfer %3$s ke %2$s %1$s. Ingin mentransfernya lagi? |
-| android, iOS | wallet_withdrawal_changed | The withdrawal fee has been changed from %1$s to %2$s, would you like to proceed  with the request? | 手续费已从 %1$s 变更为 %2$s，要更新手续费并继续提现吗？ | 出金手数料が%1$sから%2$sへ変更されました。このまま出金を行いますか？ |     |     |
+| android, iOS | wallet_withdrawal_changed | The withdrawal fee has been changed from %1$s to %2$s, would you like to proceed with the request? | 手续费已从 %1$s 变更为 %2$s，要更新手续费并继续提现吗？ | 出金手数料が%1$sから%2$sへ変更されました。このまま出金を行いますか？ |     |     |
 | android, iOS | wallet_withdrawal_recent_tip | You have already withdrawn %3$s to %2$s %1$s ago, Do you want to withdraw it again? | 你已经在 %1$s 前提现 %3$s 到 %2$s，确认还要再提一次吗？ | あなたは%1$sに同額の出金を%2$sへ送っています。再度%3$sを出金しますか？ | Anda telah menarik balik %3$s ke %2$s %1$s, Adakah anda mahu menariknya semula? | Anda telah menarik %3$s ke %2$s %1$s, Anda ingin menariknya lagi? |
 | android, iOS | web_cannot_reached_desc | %1$s took too long to respond. Please check your network and try to switch 4G, Wi-Fi or VPN to reload the page. | 无法访问 %1$s，请检查你的网络并尝试切换 4G、Wi-Fi 或 VPN 后重新载入页面。 | %1$s 接続に時間がかかり過ぎています、ネットワーク設定を確認してページをリロードしてください。 | %1$s mengambil masa terlalu lama untuk beri maklum balas. Sila periksa rangkaian anda dan cuba tukar 4G, Wi-Fi atau VPN untuk memuat semula halaman. |     |
 | android, iOS | web_cannot_reached_title | This webpage can't be reached | 无法访问此网页 | アクセスできません | Laman web ini tidak dapat dicapai |     |

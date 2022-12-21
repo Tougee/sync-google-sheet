@@ -1138,7 +1138,7 @@
   <string name="Send_verification_code_frequent" platform="iOS">发送验证码太频繁，请稍后再试</string>
   <string name="send_video" platform="iOS">发送 1 个视频</string>
   <string name="send_video.count" platform="iOS">发送 %1$d 个视频</string>
-  <string name="send_without_compression" platform="Desktop">发送原始文件</string>
+  <string name="send_without_compression" platform="android, Desktop">发送原始文件</string>
   <string name="Send_Without_Sound" platform="android, iOS, Desktop">静音发送</string>
   <string name="Send_your_Current_Location" platform="android, iOS">发送您当前的位置</string>
   <string name="send.count" platform="iOS">发送（%1$d）</string>

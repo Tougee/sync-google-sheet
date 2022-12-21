@@ -1090,7 +1090,7 @@
   <string name="Send_verification_code_frequent" platform="iOS">しばらく経ってから再度送信してください</string>
   <string name="send_video" platform="iOS">ビデオを送信</string>
   <string name="send_video.count" platform="iOS">%1$d本のビデオを送信</string>
-  <string name="send_without_compression" platform="Desktop">圧縮せずに送信</string>
+  <string name="send_without_compression" platform="android, Desktop">圧縮せずに送信</string>
   <string name="Send_Without_Sound" platform="android, iOS, Desktop">通知音を鳴らさずに送信する</string>
   <string name="Send_your_Current_Location" platform="android, iOS">現在地を送信</string>
   <string name="send.count" platform="iOS">送信(%1$d)</string>

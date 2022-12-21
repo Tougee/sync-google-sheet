@@ -1156,7 +1156,7 @@
   <string name="Send_verification_code_frequent" platform="iOS">Send verification code too frequent, please try again later.</string>
   <string name="send_video" platform="iOS">Send 1 Video</string>
   <string name="send_video.count" platform="iOS">Send %1$d Videos</string>
-  <string name="send_without_compression" platform="Desktop">Send without compression</string>
+  <string name="send_without_compression" platform="android, Desktop">Send without compression</string>
   <string name="Send_Without_Sound" platform="android, iOS, Desktop">Send Without Sound</string>
   <string name="Send_your_Current_Location" platform="android, iOS">Send your Current Location</string>
   <string name="send.count" platform="iOS">Send(%1$d)</string>
@@ -1435,7 +1435,7 @@
   <string name="wallet_transaction_tip" platform="android, iOS">Are you sure you want to transfer %3$s worth %2$s to %1$s?</string>
   <string name="wallet_transactions_asset_key_warning" platform="android, iOS">Asset key is NOT a deposit address!</string>
   <string name="wallet_transfer_recent_tip" platform="android, iOS">You have already transferred %3$s to %2$s %1$s ago. Do you want to transfer it again?</string>
-  <string name="wallet_withdrawal_changed" platform="android, iOS">The withdrawal fee has been changed from %1$s to %2$s, would you like to proceed  with the request?</string>
+  <string name="wallet_withdrawal_changed" platform="android, iOS">The withdrawal fee has been changed from %1$s to %2$s, would you like to proceed with the request?</string>
   <string name="wallet_withdrawal_recent_tip" platform="android, iOS">You have already withdrawn %3$s to %2$s %1$s ago, Do you want to withdraw it again?</string>
   <string name="web_cannot_reached_desc" platform="android, iOS">%1$s took too long to respond. Please check your network and try to switch 4G, Wi-Fi or VPN to reload the page.</string>
   <string name="web_cannot_reached_title" platform="android, iOS">This webpage can't be reached</string>
