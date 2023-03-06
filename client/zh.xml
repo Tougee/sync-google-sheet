@@ -285,6 +285,8 @@
   <string name="chat_waiting" platform="android, iOS">等待%1$s上线后建立加密会话。%2$s。</string>
   <string name="CHATS" platform="android, iOS">会话</string>
   <string name="check_new_version" platform="Desktop">检查新版本</string>
+  <string name="Closing_Balance" platform="iOS, android">期末余额</string>
+  <string name="Opening_Balance" platform="">期初余额</string>
   <string name="check_trace_failed" platform="android">检查支付信息失败，请重试</string>
   <string name="Checking_link" platform="android">正在检查链接</string>
   <string name="Checking_payment_info" platform="android">请检查支付信息</string>
