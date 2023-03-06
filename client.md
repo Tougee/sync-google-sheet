@@ -291,6 +291,7 @@
 | android, iOS | chat_waiting | Waiting for %1$s to get online and establish an encrypted session. %2$s. | 等待%1$s上线后建立加密会话。%2$s。 | オンラインで暗号化されたやりとりを開始するまであと%1$s。%2$s | Menunggu %1$s untuk berada dalam talian dan tubuhkan sesi yang disulitkan. %2$s. | Menunggu %1$s untuk online dan membuat sesi terenkripsi. %2$s. |
 | android, iOS | CHATS | CHATS | 会话  | チャット | SEMBANG | OBROLAN |
 | Desktop | check_new_version | Check new version | 检查新版本 | 最新版をチェック |     |     |
+| iOS, android | Closing_Balance |     |     |     |     |     |
 | android | check_trace_failed | Check trace info failed, please try again | 检查支付信息失败，请重试 | 記録情報の確認失敗、もう一度お試しください | Periksa maklumat jejak gagal, sila cuba lagi | Gagal memeiksa info jejak, coba lagi |
 | android | Checking_link | Checking link | 正在检查链接 | リンク確認中 | Memeriksa pautan | Memeriksa tautan |
 | android | Checking_payment_info | Checking payment info | 请检查支付信息 | 支払い情報を確認中 | Memeriksa maklumat pembayaran | Memeriksa info pembayaran |
@@ -677,7 +678,7 @@
 | iOS, Desktop | i_am_good | I’m good. | 我很好。 | いい気分 |     |     |
 | android | I_know | I know | 我知道了 | わかりました | saya tahu | Saya tahu |
 | Desktop | ignore_this_version | Ignore the new version | 忽略这次版本更新 | 最新版を無視 |     |     |
-| iOS, Desktop | image | image | 图片  | 画像  |     |     |
+| iOS, Desktop | image | image | 图像  | 画像  |     |     |
 | android, iOS | Immediately | Immediately | 立刻  | すぐに |     |     |
 | android | Import | Import | 导入聊天记录 | インポート |     |     |
 | android, iOS | in_connecting | Connecting… | 正在连接… | 接続中… | Menyambung… | Menyambungkan… |

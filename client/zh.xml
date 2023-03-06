@@ -666,7 +666,7 @@
   <string name="i_am_good" platform="iOS, Desktop">我很好。</string>
   <string name="I_know" platform="android">我知道了</string>
   <string name="ignore_this_version" platform="Desktop">忽略这次版本更新</string>
-  <string name="image" platform="iOS, Desktop">图片</string>
+  <string name="image" platform="iOS, Desktop">图像</string>
   <string name="Immediately" platform="android, iOS">立刻</string>
   <string name="Import" platform="android">导入聊天记录</string>
   <string name="in_connecting" platform="android, iOS">正在连接…</string>
