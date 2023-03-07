@@ -1,0 +1,1508 @@
+<resources>
+  <string name="a_card" platform="android">una tarjeta</string>
+  <string name="a_contact" platform="android">un contacto</string>
+  <string name="a_file" platform="android">un archivo</string>
+  <string name="a_live" platform="android">en vivo</string>
+  <string name="a_location" platform="android">una localización</string>
+  <string name="a_message" platform="android, Desktop">un mensaje</string>
+  <string name="a_photo" platform="android">una fotografía</string>
+  <string name="a_post" platform="android">una publicación</string>
+  <string name="a_sticker" platform="android">una pegatina</string>
+  <string name="a_transcript" platform="android">una transcripción</string>
+  <string name="a_video" platform="android">un video</string>
+  <string name="About" platform="android, iOS, Desktop">Acerca de</string>
+  <string name="about_version" platform="android">Versión %1$s</string>
+  <string name="Accept" platform="android">Aceptar</string>
+  <string name="Access_Contacts_Hint" platform="iOS">Mixin sincroniza tu libreta de direcciones con los servidores de Mixin para ayudarte a conectarte con otros usuarios de Mixin</string>
+  <string name="Access_denied" platform="android, iOS, Desktop">Acceso denegado</string>
+  <string name="Access_to_Contacts" platform="iOS">Acceso a Contactos</string>
+  <string name="not_supported_deposit" platform="android, iOS">Mixin Wallet no admite el depósito de %1$s. Ten en cuenta que puedes seguir transfiriendo o retirando los %2$s depositados. Lee el documento para **obtener más información**.</string>
+  <string name="access_your_bots_list" platform="android, iOS">accede a tu lista de bots</string>
+  <string name="access_your_circle_list" platform="android, iOS">accede a tu lista de círculos</string>
+  <string name="access_your_collectibles" platform="android, iOS">accede a tus coleccionables</string>
+  <string name="access_your_contacts_list" platform="android, iOS">accede a tu lista de contactos</string>
+  <string name="access_your_snapshots" platform="android, iOS">accede a tus instantáneas</string>
+  <string name="Account" platform="android, iOS, Desktop">Cuenta</string>
+  <string name="Acknowledgements" platform="iOS">Agradecimientos</string>
+  <string name="Authorize_desktop_login" platform="iOS">Autorizar inicio de sesión de escritorio a través de %\@</string>
+  <string name="activity" platform="Desktop">Actividad</string>
+  <string name="Add" platform="android, iOS, Desktop">Añadir</string>
+  <string name="Move_and_Scale" platform="iOS">Mover y escalar</string>
+  <string name="Add_address" platform="android, iOS">Añadir dirección</string>
+  <string name="Add_bot" platform="android, iOS">Añadir Bot</string>
+  <string name="add_bot_with_plus" platform="Desktop">+ Añadir Bot</string>
+  <string name="Add_by_ID_or_Phone_number" platform="iOS">Añadir por Mixin ID o número de teléfono</string>
+  <string name="Add_by_Phone_Contacts" platform="iOS">Añadir por contactos telefónicos</string>
+  <string name="Add_by_QR_Code" platform="iOS">Añadir por código QR</string>
+  <string name="Read_your_circles" platform="android, iOS">Lee tus círculos</string>
+  <string name="Manage_your_circles" platform="android, iOS">Administra tus círculos</string>
+  <string name="Read_your_apps" platform="android, iOS">Lee tus bots</string>
+  <string name="Manage_your_apps" platform="android, iOS">Administra tus bots</string>
+  <string name="Read_your_assets" platform="android, iOS">Lee tus activos</string>
+  <string name="Read_your_snapshots" platform="android, iOS">Lee tus instantáneas</string>
+  <string name="Read_your_NFTs" platform="android, iOS">Lee tus NFT</string>
+  <string name="Read_your_public_profile" platform="android, iOS">Lee tu perfil público</string>
+  <string name="Read_your_contacts" platform="android, iOS">Lee tus contactos</string>
+  <string name="Read_your_phone_number" platform="android, iOS">Lee tu número de teléfono</string>
+  <string name="Represent_send_messages" platform="android, iOS">Representar enviar mensajes</string>
+  <string name="Allow_bot_access_profile" platform="android, iOS">Permite que el bot acceda a tu perfil público, como nombre, ID de Mixin, avatar, etc.</string>
+  <string name="Allow_bot_access_number" platform="android, iOS">Permite que el bot acceda a tu número de teléfono.</string>
+  <string name="Allow_bot_access_contact" platform="android, iOS">Permite que el bot acceda a tu lista de contactos y a tu lista de bloqueados.</string>
+  <string name="Allow_bot_send_messages" platform="android, iOS">Permita que el bot envíe mensajes que lo representen.</string>
+  <string name="Allow_bot_access_asset" platform="android, iOS">Permite que el bot acceda a tu lista de activos y saldo.</string>
+  <string name="Allow_bot_access_snapshots" platform="android, iOS">Permite que el bot acceda a tus registros de transferencia, incluidos los depósitos y retiros.</string>
+  <string name="Allow_bot_access_nfts" platform="android, iOS">Permite que el bot acceda a tu lista y saldo de NFT.</string>
+  <string name="Allow_bot_access_bots" platform="android, iOS">Permite que el bot acceda a tu lista de bots.</string>
+  <string name="Allow_bot_manage_bots" platform="android, iOS">Permite que el bot añada o modifique tus bots.</string>
+  <string name="Allow_bot_access_circles" platform="android, iOS">Permite que el bot acceda a tu lista de círculos.</string>
+  <string name="Allow_bot_manage_circles" platform="android, iOS">Permite que el bot añada, modifique y elimine tus círculos.</string>
+  <string name="Request_Authorization" platform="android, iOS">Solicitar Autorización</string>
+  <string name="Choose_Network" platform="android, iOS">Elige Red</string>
+  <string name="Choose_network_tip" platform="android, iOS">Asegúrate de que la red que elijas para depositar sea compatible con Mixin. De lo contrario, tus bienes pueden perderse.</string>
+  <string name="Add_circle" platform="android, iOS">Añadir círculo</string>
+  <string name="Add_Contact" platform="android, iOS, Desktop">Añadir contacto</string>
+  <string name="add_contact_with_plus" platform="Desktop">+ Añadir contacto</string>
+  <string name="Add_conversations" platform="android, iOS">Añadir conversaciones</string>
+  <string name="Add_emergency_contact" platform="android, iOS">Añadir contacto de emergencia</string>
+  <string name="add_file" platform="Desktop">Añadir archivo</string>
+  <string name="Add_group_description" platform="android, Desktop">Añadir descripción del grupo</string>
+  <string name="Add_memo" platform="android, iOS">Añadir nota</string>
+  <string name="Add_participants" platform="android, iOS, Desktop">Añadir participantes</string>
+  <string name="Add_people_hint" platform="android">Añadir personas por ID de Mixin o número de teléfono</string>
+  <string name="add_people_search_hint" platform="android, Desktop">ID de Mixin o Número de teléfono</string>
+  <string name="Add_Sticker" platform="android, iOS, Desktop">Añadir pegatina</string>
+  <string name="Add_sticker_failed" platform="android, Desktop">No se ha podido añadir la etiqueta</string>
+  <string name="Add_stickers" platform="android, iOS, Desktop">Añadir pegatinas</string>
+  <string name="Add_success" platform="android">Añadir éxito</string>
+  <string name="Add_Tag" platform="android, iOS">Añadir etiqueta</string>
+  <string name="add_to_circle" platform="Desktop">Añadir al círculo</string>
+  <string name="Add_to_Home_screen" platform="android">Añadir a la pantalla principal</string>
+  <string name="Add_to_Stickers" platform="iOS">Añadir a pegatinas</string>
+  <string name="Added" platform="android, iOS, Desktop">Añadido</string>
+  <string name="Adding" platform="android">Añadido…</string>
+  <string name="Address" platform="android, iOS, Desktop">Dirección</string>
+  <string name="Address_not_found" platform="iOS">Dirección no encontrada.</string>
+  <string name="Admin" platform="android, iOS, Desktop">Administrador</string>
+  <string name="After_1_minute" platform="android">Después de 1 minuto</string>
+  <string name="After_30_minutes" platform="android">Después de 30 minutos</string>
+  <string name="Agree_and_Continue" platform="android">Aceptar y continuar</string>
+  <string name="agree_hint" platform="iOS">Al continuar, aceptas el %\@ y el %\@.</string>
+  <string name="Albums" platform="iOS">Álbumes</string>
+  <string name="alert_key_contact_audio_call_cancelled_message" platform="iOS">llamada de voz cancelada</string>
+  <string name="alert_key_contact_audio_call_message" platform="android, iOS">te invita a una llamada de voz</string>
+  <string name="alert_key_contact_audio_message" platform="android, iOS">te ha enviado un audio</string>
+  <string name="alert_key_contact_contact_message" platform="android, iOS, Desktop">te ha enviado un contacto</string>
+  <string name="alert_key_contact_data_message" platform="android, iOS">te ha enviado un archivo</string>
+  <string name="alert_key_contact_image_message" platform="android, iOS">te ha enviado una foto</string>
+  <string name="alert_key_contact_live_message" platform="android, iOS">te ha enviado una transmisión en vivo</string>
+  <string name="alert_key_contact_location_message" platform="android, iOS">te ha enviado una ubicación</string>
+  <string name="alert_key_contact_message" platform="iOS">te ha enviado un mensaje</string>
+  <string name="alert_key_contact_post_message" platform="android, iOS">te ha enviado una publicación</string>
+  <string name="alert_key_contact_sticker_message" platform="android, iOS">te ha enviado una pegatina</string>
+  <string name="alert_key_contact_text_message" platform="android, iOS">te ha enviado un mensaje</string>
+  <string name="alert_key_contact_transcript_message" platform="android, iOS">te ha enviado una transcripción</string>
+  <string name="alert_key_contact_transfer_message" platform="android, iOS">te ha enviado una transferencia</string>
+  <string name="alert_key_contact_video_message" platform="android, iOS">te ha enviado un video</string>
+  <string name="alert_key_group_audio_invite_message" platform="android, iOS">%1$s te invita a una llamada de voz</string>
+  <string name="alert_key_group_audio_message" platform="android, iOS">%1$s ha enviado un audio</string>
+  <string name="alert_key_group_contact_message" platform="android, iOS">%1$s ha enviado un contacto</string>
+  <string name="alert_key_group_data_message" platform="android, iOS">%1$s ha enviado un archivo</string>
+  <string name="alert_key_group_image_message" platform="android, iOS">%1$s ha enviado una foto</string>
+  <string name="alert_key_group_live_message" platform="android, iOS">%1$s ha enviado una emisión en directo</string>
+  <string name="alert_key_group_location_message" platform="android, iOS">%1$s ha enviado una ubicación</string>
+  <string name="alert_key_group_message" platform="iOS">%1$s ha enviado un mensaje</string>
+  <string name="alert_key_group_post_message" platform="android, iOS">%1$s ha enviado una publicación</string>
+  <string name="alert_key_group_sticker_message" platform="android, iOS">%1$s ha enviado una pegatina</string>
+  <string name="alert_key_group_text_message" platform="android, iOS">%1$s ha enviado un mensaje</string>
+  <string name="alert_key_group_transcript_message" platform="android, iOS">%1$s ha enviado una transcripción</string>
+  <string name="alert_key_group_video_message" platform="android, iOS">%1$s ha enviado un vídeo</string>
+  <string name="All" platform="android, iOS">Todo</string>
+  <string name="all_chats" platform="Desktop">Chats</string>
+  <string name="All_Conversations" platform="android, iOS">Todas las conversaciones</string>
+  <string name="All_Media" platform="android">Todos los medios</string>
+  <string name="All_Photos" platform="iOS">Todas las fotos</string>
+  <string name="All_signer_failure" platform="android,iOS">Falla de todos los nodos, tal vez el PIN no coincida con lo que se configuró la última vez que finalizó inesperadamente</string>
+  <string name="All_Transactions" platform="android, iOS">Todas las transacciones</string>
+  <string name="Allow" platform="iOS">Permitir</string>
+  <string name="Allow_Manual_Report_Message" platform="iOS">Permitir mensaje de informe manual</string>
+  <string name="Amount" platform="android, iOS">Cantidad</string>
+  <string name="an_audio" platform="android">un audio</string>
+  <string name="animals_and_nature" platform="Desktop">Animales y Naturaleza</string>
+  <string name="ANSWER" platform="android">RESPUESTA</string>
+  <string name="app_card_share_disallow" platform="Desktop">No permitir compartir esta URL</string>
+  <string name="app_card_shareable_false" platform="android, iOS">La tarjeta se ha configurado para no permitir compartir</string>
+  <string name="file_shareable_false" platform="android, iOS">El archivo se ha configurado para no permitir compartir</string>
+  <string name="app_name" platform="android">Mixin</string>
+  <string name="app_update_short_hint" platform="iOS">Actualiza Mixin desde App Store para continuar usando el servicio.</string>
+  <string name="app_update_tips" platform="iOS">¡La versión actual (%\@) ya no está disponible! Haz clic en Actualizar a continuación para actualizar a la última versión de la App Store.</string>
+  <string name="App_version" platform="android">Versión de aplicación</string>
+  <string name="Appearance" platform="android, iOS, Desktop">Apariencia</string>
+  <string name="Apply" platform="android, iOS">Aplicar</string>
+  <string name="archived_folder" platform="Desktop">carpeta archivada</string>
+  <string name="Asset_Key" platform="android, iOS">Clave de activo</string>
+  <string name="Asset_not_found" platform="android, iOS">Activo no encontrado.</string>
+  <string name="Asset_Type" platform="iOS, Desktop">Tipo de activo</string>
+  <string name="ASSETS" platform="android, iOS">ACTIVOS</string>
+  <string name="assets_title" platform="iOS">Activos</string>
+  <string name="Audio" platform="android, iOS, Desktop">Audio</string>
+  <string name="Audios" platform="android, iOS, Desktop">Audios</string>
+  <string name="auth_assets_more" platform="android, iOS">%1$s y más</string>
+  <string name="auth_messages_represent_description" platform="android, iOS">permitir que el bot envíe mensajes que lo representen</string>
+  <string name="auth_profile_content" platform="android, iOS">%1$s, %2$s, foto de perfil</string>
+  <string name="authorization" platform="android, iOS">autorización</string>
+  <string name="Authorizations" platform="android, iOS">Autorizaciones</string>
+  <string name="Authorize" platform="iOS">Autorizar</string>
+  <string name="Authorize_payment_via" platform="iOS">Autorizar pago a través de %\@</string>
+  <string name="Authorized" platform="iOS">Autorizado</string>
+  <string name="auto_back_up_hint" platform="iOS">Realiza una copia de seguridad automática en iCloud solo a través de Wi-Fi.</string>
+  <string name="Auto_Backup" platform="iOS, Desktop">Copia de seguridad automática</string>
+  <string name="auto_download_hint" platform="android, iOS">Cambia la configuración de descarga automática para medios. Los mensajes de voz siempre se descargan automáticamente.</string>
+  <string name="Auto_Lock" platform="android, iOS">Bloqueo automático</string>
+  <string name="Automatic" platform="iOS">Automático</string>
+  <string name="avatar" platform="Desktop">Avatar</string>
+  <string name="avatar_transition_name" platform="android">avatar_transition_name</string>
+  <string name="back_to_merchant" platform="android, iOS">Volver al comerciante</string>
+  <string name="stay_in_mixin" platform="android, iOS">Quédate en Mixin</string>
+  <string name="Back_To_Chat" platform="android, iOS">Volver al chat</string>
+  <string name="Back_Up_Now" platform="iOS">Realiza copia. de seguridad ahora</string>
+  <string name="Background_Preview" platform="iOS">Vista previa de fondo</string>
+  <string name="Backing_Up" platform="android, iOS">Realizando copia de seguridad...</string>
+  <string name="Backup" platform="android">Copia de seguridad</string>
+  <string name="backup" platform="Desktop">Copia de seguridad</string>
+  <string name="backup_choose_a_folder" platform="android">Elige una carpeta, las copias de seguridad se guardarán en esta ubicación</string>
+  <string name="Backup_delete" platform="android">Eliminar copia de seguridad</string>
+  <string name="backup_des" platform="android">Haz una copia de seguridad de tus mensajes en un almacenamiento externo. Puedes restaurarlos cuando reinstales Mixin. Los mensajes de los que realizas una copia de seguridad no están protegidos mientras se encuentran en almacenamiento externo.</string>
+  <string name="backup_dialog_title" platform="android">Copia de seguridad automática en almacenamiento externo</string>
+  <string name="backup_disable_hint" platform="iOS">Inicie sesión en iCloud para realizar una copia de seguridad de tu historial. Configuración &gt; iCloud &gt; Activar iCloud Drive.</string>
+  <string name="backup_external_storage" platform="android">Almacenamiento externo: %1$s</string>
+  <string name="backup_failure_tip" platform="android">Fallo en la copia de seguridad, inténtalo de nuevo.</string>
+  <string name="Backup_found" platform="android">Copia de seguridad encontrada</string>
+  <string name="backup_ing" platform="android">Copia de seguridad de almacenamiento externo...</string>
+  <string name="backup_media" platform="android">Incluir archivos multimedia</string>
+  <string name="backup_media_title" platform="android">Copia de seguridad en almacenamiento externo</string>
+  <string name="backup_no_available_memory" platform="android">No hay memoria disponible para la copia de seguridad.</string>
+  <string name="backup_notification_content" platform="android">Preparando copia de seguridad…</string>
+  <string name="backup_notification_title" platform="android">Copia de seguridad en proceso</string>
+  <string name="Backup_success" platform="android">Éxito de la copia de seguridad</string>
+  <string name="Balance" platform="iOS">Balance</string>
+  <string name="biography" platform="Desktop">Biografía</string>
+  <string name="Biometric_Payment" platform="android">Pago biométrico</string>
+  <string name="Block" platform="android, iOS, Desktop">Bloquear</string>
+  <string name="block_hint" platform="iOS">Los contactos bloqueados ya no podrán llamarte ni enviarte mensajes</string>
+  <string name="block_tip" platform="android, iOS">Los usuarios bloqueados no pueden enviarte mensajes ni añadirte a grupos.</string>
+  <string name="Blocked" platform="android, iOS">Bloqueado</string>
+  <string name="Blocked_Users" platform="android, iOS">Usuarios bloqueados</string>
+  <string name="bold" platform="android">atrevido</string>
+  <string name="Books" platform="iOS">Libros</string>
+  <string name="bot_dock_empty" platform="android">Mantén presionado y arrastra el bot hacia arriba</string>
+  <string name="bot_empty_tip" platform="android, iOS">Por favor añade tu bot favorito primero.</string>
+  <string name="bot_not_auth_yet" platform="android">No se ha concedido ningún permiso a este bot</string>
+  <string name="Bot_not_found" platform="android, iOS, Desktop">Bot no encontrado</string>
+  <string name="bot_pin_hint" platform="iOS">Puedes pulsar prolongadamente y arrastrar los bots de uso frecuente aquí para mostrarlos en el inicio</string>
+  <string name="BOTS" platform="android, iOS, Desktop">BOTS</string>
+  <string name="bots_title" platform="android, iOS, Desktop">Bots</string>
+  <string name="bottom_transfer_stranger_tip" platform="android">El ID de Mixin %1$s no está en tu lista de contactos. Asegúrate de que el destinatario que hayas elegido sea el correcto. Si transfieres a la persona equivocada, ¡perderá tus activos!</string>
+  <string name="bring_all_to_front" platform="Desktop">Traer todo al frente</string>
+  <string name="Business" platform="iOS">Negocio</string>
+  <string name="Call" platform="android, iOS">Llamar</string>
+  <string name="Call_declined" platform="android, iOS">Llamada rechazada</string>
+  <string name="call_encryption_description" platform="android, iOS">Nadie fuera de esta llamada puede verla o escucharla. Ni siquiera Mixin.</string>
+  <string name="call_encryption_title" platform="android, iOS">Esta llamada está protegida con encriptación de extremo a extremo</string>
+  <string name="Call_failed" platform="android, iOS">Llamada fallida</string>
+  <string name="call_no_microphone_permission_hint" platform="iOS">Para realizar llamadas de voz, Mixin necesita acceso a tu micrófono. Toca Configuración para abrir la configuración del sistema.</string>
+  <string name="call_no_network_hint" platform="iOS">Servicio de llamadas no disponible. Asegúrate de que tu teléfono tenga conexión a Internet e inténtalo de nuevo.</string>
+  <string name="call_on_another_call_hint" platform="android, iOS">Ya estás en otra llamada. Inténtalo después de que haya terminado.</string>
+  <string name="Call_Phone" platform="iOS">Llamada telefónica</string>
+  <string name="call_pip_permission" platform="android">No puedes minimizar una llamada de voz ya que Mixin no está autorizado para usar ventanas flotantes</string>
+  <string name="call_remote_error" platform="iOS">La conexión ha fallado. Código %\@</string>
+  <string name="call_who" platform="android">Llamar a %1$s</string>
+  <string name="Call_with_Mixin" platform="iOS">Llamar con Mixin</string>
+  <string name="Calling" platform="android, iOS">Llamando…</string>
+  <string name="Camera" platform="android, iOS">Cámara</string>
+  <string name="can_not_recognize_qr_code" platform="android, Desktop">No puedo reconocer el código QR</string>
+  <string name="Cancel" platform="android, iOS, Desktop">Cancelar</string>
+  <string name="Cancel_Floating" platform="android, iOS">Cancelar flotante</string>
+  <string name="Canceled" platform="android, iOS">Cancelado</string>
+  <string name="Canceled_by_caller" platform="android, iOS">Cancelado por la persona que llama</string>
+  <string name="Cant_receive_the_code" platform="android, iOS">¿No puedes recibir el código?</string>
+  <string name="cant_talk_self" platform="android">No puedes hablar contigo mismo</string>
+  <string name="cant_transfer_self" platform="android">No puedes transferirte a ti mismo</string>
+  <string name="caption_send" platform="iOS">Enviar</string>
+  <string name="Card" platform="android, Desktop">Tarjeta</string>
+  <string name="card" platform="iOS">tarjeta</string>
+  <string name="category_chats" platform="iOS">Chats</string>
+  <string name="Chain" platform="android, iOS">Cadena</string>
+  <string name="Change" platform="android, iOS, Desktop">Cambiar</string>
+  <string name="Change_Amount" platform="android, iOS">Cambiar cantidad</string>
+  <string name="Change_emergency_contact" platform="android, iOS">Cambiar contacto de emergencia</string>
+  <string name="Change_name" platform="iOS">Cambiar nombre</string>
+  <string name="Change_Number" platform="iOS, Desktop">Cambie el número</string>
+  <string name="Change_Number_Instead" platform="android, iOS, Desktop">Cambiar número en su lugar</string>
+  <string name="Change_Phone_Number" platform="android, iOS">Cambiar número de teléfono</string>
+  <string name="Change_PIN" platform="android, iOS">Cambiar PIN</string>
+  <string name="change_pin_interval_hint" platform="iOS">Confirmar PIN para cambiar el intervalo</string>
+  <string name="Change_PIN_successfully" platform="android, iOS">Cambiar PIN con éxito</string>
+  <string name="Change_Profile_Photo_with_Camera" platform="android, iOS">Cambiar foto de perfil con cámara</string>
+  <string name="Change_Profile_Photo_with_Library" platform="android, iOS">Cambiar foto de perfil con biblioteca</string>
+  <string name="Change_Settings" platform="iOS">Cambiar ajustes</string>
+  <string name="Change_your_app_language" platform="iOS">Cambia el idioma de tu aplicación</string>
+  <string name="Changed" platform="android, iOS">Cambiado</string>
+  <string name="changed_disappearing_message_settings" platform="android, iOS, Desktop">%1$s ha cambiado la configuración de los mensajes que desaparecen.</string>
+  <string name="Changing" platform="android">Cambiando...</string>
+  <string name="Changing_PIN_terminated_unexpectedly" platform="android,iOS">El cambio de PIN ha finalizado inesperadamente, haz clic en Continuar para completar el cambio</string>
+  <string name="chat_audio_discard_warning" platform="android">¿Estás seguro de que deseas detener la grabación y descartar tu mensaje de voz?</string>
+  <string name="chat_audio_discard_warning_title" platform="android">Descartar mensaje de voz</string>
+  <string name="chat_audio_warning" platform="android">No puedes reproducir audio si ya está reproduciendo otro audio.</string>
+  <string name="Chat_Background" platform="iOS">Fondo de chat</string>
+  <string name="Chat_Backup" platform="android, iOS, Desktop">Copia de seguridad de chat</string>
+  <string name="chat_bot_reception_title" platform="android, iOS, Desktop">Toca el botón para interactuar con el bot</string>
+  <string name="chat_call_duration" platform="android, iOS">Duración %1$s</string>
+  <string name="chat_call_warning_voice" platform="android, iOS">No puedo grabar mensajes de voz durante una llamada de Mixin.</string>
+  <string name="chat_decryption_failed" platform="android, iOS">El descifrado de este mensaje ha fallado, actualiza Mixin a la última versión.</string>
+  <string name="chat_decryption_failed_hint" platform="iOS, Desktop">Esperando a que %\@ se conecte y establezca una sesión cifrada.</string>
+  <string name="chat_delete_message" platform="android, Desktop">¿Eliminar %1$d mensaje?</string>
+  <string name="chat_delete_message.count" platform="android, Desktop">¿Eliminar %1$d mensajes?</string>
+  <string name="chat_delete_url" platform="android">https://mixinmessenger.zendesk.com/hc/articles/360028209571</string>
+  <string name="chat_group_add" platform="android, iOS, Desktop">%1$s ha añadido %2$s</string>
+  <string name="chat_group_call_cancel" platform="android, iOS">%1$s ha cancelado una llamada de grupo</string>
+  <string name="chat_group_call_decline" platform="android, iOS">%1$s ha rechazado una llamada de grupo</string>
+  <string name="chat_group_call_end" platform="android">La llamada de grupo ha finalizado.</string>
+  <string name="chat_group_call_invite" platform="android, iOS">%1$s te ha invitado a una llamada de grupo</string>
+  <string name="chat_group_call_mute" platform="android">Tu micrófono estará apagado para comenzar</string>
+  <string name="chat_group_call_remote_peer_closed" platform="android">Se ha cerrado la conexión entre pares, inténtalo de nuevo</string>
+  <string name="chat_group_exit" platform="android, iOS, Desktop">quedan %1$s</string>
+  <string name="chat_group_join" platform="android, iOS, Desktop">%1$s se ha unido al grupo mediante un enlace de invitación</string>
+  <string name="chat_group_remove" platform="android, iOS, Desktop">%1$s ha eliminado %2$s</string>
+  <string name="chat_hint_e2e" platform="Desktop">Cifrado de extremo a extremo</string>
+  <string name="chat_import_content" platform="android">¿Quieres importar mensajes a %1$s?</string>
+  <string name="chat_import_fail_content" platform="android">¡Error en la importación de mensajes! ¿Quieres enviarlo como un archivo?</string>
+  <string name="chat_list_empty_info" platform="android, iOS">Puedes chatear con contactos que tengan Mixin instalado en tu teléfono.</string>
+  <string name="chat_not_support" platform="android, iOS">Este tipo de mensaje no es compatible, actualiza Mixin a la última versión. %1$s.</string>
+  <string name="chat_not_support_uri_on_phone" platform="Desktop">Este tipo de URL no es compatible, verifícalo en su teléfono.</string>
+  <string name="chat_not_support_url" platform="android, Desktop">https://mixinmessenger.zendesk.com/hc/articles/360043776071</string>
+  <string name="chat_not_support_view_on_phone" platform="Desktop">Este tipo de mensaje no es compatible, verifícalo en su teléfono.</string>
+  <string name="chat_on_mixin_content" platform="android, iOS">¡Chateemos en Mixin Messenger! Sencillo, seguro y fácil de usar. También es compatible con Bitcoin, Ethereum y otras criptomonedas. Descarga https://mixin.one/messenger y busca \@%1$s para añadirme como amigo.</string>
+  <string name="chat_pin_message" platform="android, iOS, Desktop">%1$s ha fijado %2$s</string>
+  <string name="Chat_pinned" platform="android">Chat fijado</string>
+  <string name="chat_recall_delete_alert" platform="android, iOS">Los mensajes que has seleccionado se eliminarán para todos en la última versión de Mixin en este chat.</string>
+  <string name="chat_restore_subtitle" platform="iOS">No podrás restaurar más tarde si te niegas a restaurar ahora. Los archivos multimedia continuarán restableciéndose en segundo plano después de restaurar los mensajes.</string>
+  <string name="Chat_unpinned" platform="android">Chat no fijado</string>
+  <string name="chat_waiting" platform="android, iOS">Esperando a que %1$s se conecte y establezca una sesión cifrada. %2$s.</string>
+  <string name="CHATS" platform="android, iOS">CHATS</string>
+  <string name="check_new_version" platform="Desktop">Comprobar nueva versión</string>
+  <string name="check_trace_failed" platform="android">No se ha podido comprobar la información de seguimiento, inténtalo de nuevo</string>
+  <string name="Checking_link" platform="android">Comprobando enlace</string>
+  <string name="Checking_payment_info" platform="android">Comprobación de la información de pago</string>
+  <string name="Choose" platform="android">Elegir</string>
+  <string name="Choose_folder" platform="android">Elegir la carpeta</string>
+  <string name="Choose_Photo" platform="iOS">Escoge una foto</string>
+  <string name="generating" platform="iOS">Generando...</string>
+  <string name="circle_bottom" platform="android">Crea un círculo para diferentes grupos de chats y cambie rápidamente entre ellos</string>
+  <string name="circle_delete_tip" platform="android">¿Eliminar %1$s?</string>
+  <string name="circle_info" platform="android, iOS">Crea círculos para diferentes grupos de chats y cambia rápidamente entre ellos</string>
+  <string name="circle_no_conversation_hint" platform="android, iOS">Puedes añadir contactos o grupos al círculo actual</string>
+  <string name="circle_subtitle" platform="android, iOS, Desktop">%1$d Conversación</string>
+  <string name="circle_subtitle.count" platform="android, iOS, Desktop">%1$d Conversaciones</string>
+  <string name="circle_title" platform="android, iOS, Desktop">Círculos de %1$s</string>
+  <string name="Circles" platform="android, iOS, Desktop">Círculos</string>
+  <string name="Clear" platform="android, iOS, Desktop">Borrar</string>
+  <string name="Clear_chat" platform="android, iOS, Desktop">Vaciar la conversación</string>
+  <string name="clear_contact_chat_confirmation" platform="iOS">¿Borrar chat con %\@?</string>
+  <string name="clear_group_chat_confirmation" platform="iOS">¿Borrar el chat grupal de %\@?</string>
+  <string name="Clear_unused_cache" platform="iOS">Borrar caché no utilizado</string>
+  <string name="Cleared" platform="iOS">Borrado</string>
+  <string name="Clearing" platform="android">Borrando…</string>
+  <string name="Click_to_lock" platform="android">Haz clic para bloquear</string>
+  <string name="click_to_reload_qrcode" platform="Desktop">Haz clic para recargar el código QR</string>
+  <string name="Click_to_retry" platform="android">Haz clic para volver a intentarlo</string>
+  <string name="Click_to_unlock" platform="android">Haz clic para desbloquear</string>
+  <string name="clock_skew_hint" platform="iOS">Continúa usándolo nuevamente después de la corrección. Configuración &gt; General &gt; Fecha y hora &gt; Activar Establecer automáticamente</string>
+  <string name="Close" platform="android, iOS, Desktop">Cerrar</string>
+  <string name="close_window" platform="Desktop">Cerrar ventana</string>
+  <string name="collapse" platform="Desktop">Colapsar</string>
+  <string name="collectible_token_id" platform="iOS">#%\@</string>
+  <string name="Combine_and_forward" platform="android, iOS, Desktop">Combinar y avanzar</string>
+  <string name="Compress_Database" platform="iOS">Comprimir base de datos</string>
+  <string name="Compressed" platform="iOS">Comprimido</string>
+  <string name="Confirm" platform="android, iOS, Desktop">Confirmar</string>
+  <string name="Confirm_fingerprint" platform="android">Confirmar huella digital</string>
+  <string name="Confirm_PIN" platform="android">Confirmar PIN</string>
+  <string name="Connect_to_TIP_network_failed" platform="android,iOS">No se puede conectar a la red TIP. Comprueba tu conexión e inténtalo de nuevo.</string>
+  <string name="Connected" platform="iOS">Conectado</string>
+  <string name="Connecting" platform="android, iOS">Conectando</string>
+  <string name="Connection_unstable" platform="android, iOS">Conexión inestable</string>
+  <string name="Contact" platform="android, iOS, Desktop">Contacto</string>
+  <string name="contact_category" platform="iOS">contacto</string>
+  <string name="contact_count" platform="android, iOS">%1$d contacto</string>
+  <string name="contact_count.count" platform="android, iOS">%1$d contactos</string>
+  <string name="Contact_Developer" platform="android, iOS">Contactar al desarrollador</string>
+  <string name="contact_empty_tip" platform="android">Mixin necesita acceder a tus contactos para ayudarte a conectarse con otras personas en Mixin.</string>
+  <string name="contact_invite_content" platform="android, iOS">Oye, estoy usando Mixin Messenger para chatear. Descárgalo aquí: https://mixin.one/messenger</string>
+  <string name="contact_mixin_id" platform="android, iOS, Desktop">ID de Mixin: %1$s</string>
+  <string name="contact_mobile" platform="android, iOS">Móvil: %1$s</string>
+  <string name="contact_mute_title" platform="android, Desktop">Silenciar notificaciones para…</string>
+  <string name="contact_new_group_chat_desc" platform="android">Crea un chat grupal con hasta amigos</string>
+  <string name="contact_phone_contact_hint" platform="iOS">Carga contactos móviles para encontrar otros amigos de Mixin.</string>
+  <string name="contact_share_bots_title" platform="android, iOS">Bots compartidos de %1$s</string>
+  <string name="contact_title" platform="iOS, Desktop">Contactos</string>
+  <string name="CONTACTS" platform="android, iOS">CONTACTOS</string>
+  <string name="content_audio" platform="android, iOS">[Audio]</string>
+  <string name="content_contact" platform="android, iOS">[Contacto]</string>
+  <string name="content_deposit" platform="iOS">[Depósito]</string>
+  <string name="content_fee" platform="iOS">[Tarifa]</string>
+  <string name="content_file" platform="android, iOS">[Archivo]</string>
+  <string name="content_group_call" platform="android">[Llamada grupal]</string>
+  <string name="content_group_call_ended" platform="iOS">[Llamada grupal finalizada]</string>
+  <string name="content_live" platform="android, iOS">[En vivo]</string>
+  <string name="content_location" platform="android, iOS">[Ubicación]</string>
+  <string name="content_photo" platform="android, iOS">[Foto]</string>
+  <string name="content_pin" platform="android">[Fijar mensaje]</string>
+  <string name="content_post" platform="android, iOS">[Publicar]</string>
+  <string name="content_rebate" platform="iOS">[Reembolso]</string>
+  <string name="content_sticker" platform="android, iOS">[Pegatina]</string>
+  <string name="content_system" platform="android">[Mensaje del sistema]</string>
+  <string name="Content_too_long" platform="android, Desktop">Contenido demasiado largo</string>
+  <string name="content_transcript" platform="android, iOS">[Transcripción]</string>
+  <string name="content_transfer" platform="android, iOS">[Transferir]</string>
+  <string name="content_unknown" platform="iOS">[Desconocido]</string>
+  <string name="content_video" platform="android, iOS">[Video]</string>
+  <string name="content_voice" platform="android, iOS, Desktop">[Llamada de voz]</string>
+  <string name="content_withdrawal" platform="iOS">[Retiro]</string>
+  <string name="Continue" platform="android, iOS, Desktop">Continuar</string>
+  <string name="Continue_need_verify_your_PIN" platform="android,iOS">Continuar necesita verificar su PIN anterior y PIN nuevo</string>
+  <string name="Continue_Open_URL" platform="android, iOS">Continuar Abrir URL</string>
+  <string name="Conversation" platform="android, iOS, Desktop">Conversación</string>
+  <string name="conversation_delete_tip" platform="android">Una vez eliminados, todos estos mensajes de chat se borrarán</string>
+  <string name="conversation_delete_title" platform="android, Desktop">Eliminar chat: %1$s</string>
+  <string name="conversation_has_too_many_circles" platform="iOS">La conversación tiene demasiados círculos.</string>
+  <string name="Conversation_not_found" platform="android, iOS">Conversación no encontrada.</string>
+  <string name="Conversations" platform="iOS">Conversaciones</string>
+  <string name="Copied" platform="iOS">Copiado</string>
+  <string name="copied_to_clipboard" platform="android">Copiado al portapapeles</string>
+  <string name="Copy" platform="android, iOS, Desktop">Copiar</string>
+  <string name="Copy_Conversation_Id" platform="iOS">Copiar ID de conversación</string>
+  <string name="Copy_invite" platform="android, iOS, Desktop">Copiar enlace de invitación</string>
+  <string name="Copy_link" platform="android, iOS, Desktop">Copiar enlace</string>
+  <string name="Copy_User_Id" platform="iOS">Copiar ID de usuario</string>
+  <string name="Create" platform="android, iOS, Desktop">Crear</string>
+  <string name="create_circle" platform="Desktop">Nuevo círculo</string>
+  <string name="create_conversation" platform="Desktop">Nueva conversación</string>
+  <string name="create_group" platform="Desktop">Nuevo grupo</string>
+  <string name="Create_PIN" platform="android,iOS">Crear PIN</string>
+  <string name="created_this_group" platform="android, iOS, Desktop">%1$s ha creado este grupo</string>
+  <string name="Creating" platform="android">Creando…</string>
+  <string name="Creating_wallet_terminated_unexpectedly" platform="android,iOS">La creación de la artera ha finalizado inesperadamente, haz clic en Continuar para completar la creación</string>
+  <string name="Crop" platform="android">Recortar</string>
+  <string name="Currency" platform="android, iOS">Divisa</string>
+  <string name="currency_code" platform="iOS">Código</string>
+  <string name="Current_Language" platform="iOS">Inglés</string>
+  <string name="Current_Location" platform="iOS">Ubicación actual</string>
+  <string name="Current_Selected" platform="iOS">Seleccionado actual</string>
+  <string name="Custom_Time" platform="android, iOS, Desktop">Hora personalizada</string>
+  <string name="Daily" platform="iOS">Diario</string>
+  <string name="Dark" platform="iOS, Desktop">Oscuro</string>
+  <string name="Data_and_Storage_Usage" platform="android, iOS, Desktop">Uso de datos y almacenamiento</string>
+  <string name="Data_error" platform="android, Desktop">Error de datos</string>
+  <string name="Data_loading" platform="android, Desktop">Cargando datos, por favor espera...</string>
+  <string name="Data_Parsing_Error" platform="iOS">Error de análisis de datos</string>
+  <string name="Database_access" platform="iOS">Acceso a la base de datos</string>
+  <string name="database_upgrade_tips" platform="android, iOS">La base de datos se está actualizando, puede tardar varios minutos, no cierres esta aplicación.</string>
+  <string name="Date" platform="android, iOS">Fecha</string>
+  <string name="date_format_date" platform="android, iOS">MMM dd, aaaa</string>
+  <string name="date_format_day" platform="iOS">hh:mm un</string>
+  <string name="date_format_month" platform="iOS">E, D MMM</string>
+  <string name="date_format_week_date" platform="iOS">E, d MMM aaaa</string>
+  <string name="db_debug_warning" platform="android">Atención: ¡Si se ejecuta una declaración SQL dañina, el resultado es irreversible!</string>
+  <string name="Debug_database" platform="android">Base de datos de depuración</string>
+  <string name="Debug_Tools" platform="android">Herramientas de depuración</string>
+  <string name="Decline" platform="android">Rechazar</string>
+  <string name="Declined" platform="android, iOS">Rechazado</string>
+  <string name="deep_clean" platform="android">Limpieza profunda</string>
+  <string name="deep_cleaning" platform="android">Limpiando...</string>
+  <string name="deep_cleaning_deleted" platform="android">Limpiando, %1$s eliminado</string>
+  <string name="default_time" platform="android">00:00</string>
+  <string name="Delete" platform="android, iOS, Desktop">Borrar</string>
+  <string name="delete_account_detail_hint" platform="iOS, Desktop">Los mensajes locales y las copias de seguridad de iCloud no se eliminarán automáticamente</string>
+  <string name="delete_account_hint" platform="android, iOS, Desktop">Eliminar la información de tu cuenta y la foto de perfil</string>
+  <string name="Delete_address" platform="android, iOS">Eliminar dirección</string>
+  <string name="Delete_Chat" platform="iOS, Desktop">Eliminar chat</string>
+  <string name="delete_chat_description" platform="Desktop">Eliminar el chat eliminará los mensajes de estos dispositivos únicamente. No se eliminarán de otros dispositivos.</string>
+  <string name="Delete_Circle" platform="iOS, Desktop">Eliminar círculo</string>
+  <string name="delete_contact_chat_confirmation" platform="iOS">¿Eliminar el chat con %\@?</string>
+  <string name="Delete_emergency_contact" platform="android, iOS">Eliminar contacto de emergencia</string>
+  <string name="Delete_for_everyone" platform="android, iOS, Desktop">Eliminar para todos</string>
+  <string name="Delete_for_me" platform="android, iOS, Desktop">Eliminar para mí</string>
+  <string name="Delete_Group" platform="android, Desktop">Eliminar grupo</string>
+  <string name="delete_group_chat_confirmation" platform="iOS">¿Eliminar %\@ chat de grupo?</string>
+  <string name="Delete_my_account" platform="android, iOS, Desktop">Borrar mi cuenta</string>
+  <string name="Delete_Synced_Contact" platform="android, iOS">Eliminar contactos sincronizados</string>
+  <string name="delete_the_circle" platform="Desktop">¿Quieres eliminar el círculo %1$s?</string>
+  <string name="Delete_withdraw_Address" platform="android, iOS">Eliminar dirección de %1$s</string>
+  <string name="Deleted" platform="iOS">Eliminado</string>
+  <string name="Deposit" platform="android, iOS, Desktop">Depósito</string>
+  <string name="deposit_account_attention" platform="android, iOS">Atención: prueba con una pequeña cantidad para el primer depósito. Se requiere una nota y una dirección para depositar correctamente tu %1$s en Mixin Messenger.</string>
+  <string name="Deposit_at_least" platform="iOS">Deposita al menos %\@ %\@ por primera vez.</string>
+  <string name="deposit_attention" platform="android, iOS">Prueba con una pequeña cantidad para el primer depósito.</string>
+  <string name="deposit_confirmation" platform="android, iOS">El depósito llegará %1$d confirmación de bloqueo</string>
+  <string name="deposit_confirmation.count" platform="android, iOS">El depósito llegará %1$d bloquear confirmaciones</string>
+  <string name="deposit_memo_notice" platform="android">Se requiere Memo, o perderás tus monedas.</string>
+  <string name="deposit_notice" platform="android">Tanto el memorándum como la dirección son necesarios para depositar tu %1$s en tu cuenta.</string>
+  <string name="deposit_reserve" platform="android, iOS">Deposita al menos %1$s por primera vez.</string>
+  <string name="deposit_tip_btc" platform="android, iOS">Esta dirección solo admite BTC.</string>
+  <string name="deposit_tip_common" platform="android, iOS">Esta dirección solo admite %1$s.</string>
+  <string name="deposit_tip_eos" platform="android, iOS">Esta dirección es compatible con todos los tokens basados en EOS.</string>
+  <string name="deposit_tip_eth" platform="android, iOS">Esta dirección admite todos los tokens ERC-20, como ETH, XIN, etc.</string>
+  <string name="deposit_tip_trx" platform="android, iOS">Esta dirección admite todos los tokens TRC-10 y TRC-20.</string>
+  <string name="desktop" platform="android">escritorio</string>
+  <string name="desktop_login_no_pin" platform="android">Para la seguridad de tu cuenta, configura el PIN antes de iniciar sesión en la aplicación de escritorio.</string>
+  <string name="desktop_on_hint" platform="android, iOS">Tienes tu escritorio conectado</string>
+  <string name="desktop_upgrade" platform="android, iOS">Actualiza Mixin Messenger Desktop a la última versión.</string>
+  <string name="detect_qr_tip" platform="android, iOS">Se ha detectado un código QR de Mixin, toca para reconocer</string>
+  <string name="Developer" platform="android, iOS, Desktop">Desarrollador</string>
+  <string name="Device_unsupported" platform="android">Dispositivo no compatible</string>
+  <string name="Diagnose" platform="iOS">Diagnosticar</string>
+  <string name="diagnose_warning_hint" platform="iOS">⚠️Usa estas funciones solo bajo las instrucciones del equipo de Mixin</string>
+  <string name="Diagnosis_Complete" platform="android">Diagnóstico completo</string>
+  <string name="Disable" platform="iOS">Desactivar</string>
+  <string name="disable_biometric_pay_confirmation" platform="iOS">¿Desactivar %\@ Pagar?</string>
+  <string name="Disable_db_debug" platform="android">Deshabilitar depuración de base de datos</string>
+  <string name="disable_disappearing_message" platform="android, iOS, Desktop">%1$s mensaje de desaparición inhabilitado</string>
+  <string name="Disable_web_debug" platform="android">Deshabilitar depuración web</string>
+  <string name="Disabled" platform="android">Desactivado</string>
+  <string name="disappearing_custom_time_max_warning" platform="Desktop">El tiempo máximo es %1$s.</string>
+  <string name="disappearing_message" platform="android, iOS, Desktop">Mensajes que desaparecen</string>
+  <string name="disappearing_message_hint" platform="android, iOS, Desktop">Cuando está habilitado, los nuevos mensajes enviados y recibidos en este chat desaparecerán después de que se hayan visto, lee el documento para **obtener más información**.</string>
+  <string name="disappearing_message_url" platform="android">https://mixinmessenger.zendesk.com/hc/articles/5127869180564</string>
+  <string name="disappearing_option_1" platform="android, iOS">30 segundos</string>
+  <string name="disappearing_option_2" platform="android, iOS">10 minutos</string>
+  <string name="disappearing_option_3" platform="android, iOS">2 horas</string>
+  <string name="disappearing_option_4" platform="android, iOS">1 día</string>
+  <string name="disappearing_option_5" platform="android, iOS">1 semana</string>
+  <string name="DISCARD" platform="android">DESECHAR</string>
+  <string name="discard" platform="Desktop">Desechar</string>
+  <string name="discard_recording_warning" platform="Desktop">¿Estás seguro de que deseas detener la grabación y descartar tu mensaje de voz?</string>
+  <string name="Disconnecting" platform="iOS">Desconectando</string>
+  <string name="Dismiss_as_Admin" platform="android, iOS, Desktop">Descartar como administrador</string>
+  <string name="divide" platform="android">, </string>
+  <string name="Documents" platform="android">Documentos</string>
+  <string name="Done" platform="android, iOS, Desktop">Hecho</string>
+  <string name="Dont_have_assets" platform="android,iOS">¿No tienes activos?</string>
+  <string name="download" platform="Desktop">Descargar</string>
+  <string name="download_link" platform="Desktop">Enlace de descarga: </string>
+  <string name="drag_and_drop_file_here" platform="Desktop">Arrastra y suelta archivos aquí</string>
+  <string name="Draw" platform="android">Dibujar</string>
+  <string name="Duplicate_Transfer_Confirmation" platform="android, iOS">Confirmación de transferencia duplicada</string>
+  <string name="Duplicate_Withdraw_Confirmation" platform="android, iOS">Confirmación de retiro duplicado</string>
+  <string name="Duration_is_too_short" platform="android, Desktop">La duración es demasiado corta</string>
+  <string name="Edit" platform="iOS, Desktop">Editar</string>
+  <string name="edit_address" platform="android, iOS">Editar dirección de %1$s</string>
+  <string name="Edit_Biography" platform="android, iOS">Editar biografía</string>
+  <string name="Edit_Circle_Name" platform="android, iOS, Desktop">Editar nombre del círculo</string>
+  <string name="Edit_Conversations" platform="android, iOS, Desktop">Editar conversaciones</string>
+  <string name="Edit_Group_Description" platform="android, iOS, Desktop">Editar descripción del grupo</string>
+  <string name="Edit_group_name" platform="android, iOS, Desktop">Editar nombre de grupo</string>
+  <string name="edit_image_clear_warning" platform="Desktop">Todos los cambios se perderán. ¿Estás seguro de que quieres salir?</string>
+  <string name="Edit_Name" platform="android, iOS, Desktop">Editar nombre</string>
+  <string name="edit_profile" platform="Desktop">Editar perfil</string>
+  <string name="Education" platform="iOS">Educación</string>
+  <string name="Emergency_Contact" platform="android, iOS">Contacto de emergencia</string>
+  <string name="Empty_address_book" platform="android">Libreta de direcciones vacía</string>
+  <string name="Enable_after_1_minute" platform="android">Habilitado después de 1 minuto</string>
+  <string name="Enable_after_30_minutes" platform="android">Habilitado después de 30 minutos</string>
+  <string name="Enable_db_debug" platform="android">Habilitar depuración de base de datos</string>
+  <string name="Enable_Emergency_Contact" platform="android, iOS">Habilitar contacto de emergencia</string>
+  <string name="enable_face_pay_hint" platform="iOS">Confirme el PIN para habilitar Face Pay</string>
+  <string name="Enable_immediately" platform="android">Habilitado inmediatamente</string>
+  <string name="enable_pay" platform="iOS">Habilitar %\@ Pagar</string>
+  <string name="enable_pay_confirmation" platform="iOS">¿Habilitar %\@ Pagar?</string>
+  <string name="enable_touch_pay_hint" platform="iOS">Confirme el PIN para habilitar Touch Pay</string>
+  <string name="Enable_web_debug" platform="android">Habilitar depuración web</string>
+  <string name="Encrypted" platform="android">Encriptado</string>
+  <string name="End_to_End_Encryption" platform="android, iOS">Cifrado de extremo a extremo</string>
+  <string name="Enter_new_phone_number" platform="android, iOS">Introduce tu nuevo número de teléfono</string>
+  <string name="Enter_PIN_to_delete_account" platform="android, iOS, Desktop">Introduce tu PIN para eliminar tu cuenta</string>
+  <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">Introduce tu contacto de emergencia Mixin ID</string>
+  <string name="Enter_your_new_PIN" platform="android,iOS">Introduce tu nuevo PIN</string>
+  <string name="Enter_your_old_PIN" platform="android,iOS">Introduce tu antiguo PIN</string>
+  <string name="Enter_your_phone_number" platform="android, iOS, Desktop">Introduce tu número telefónico</string>
+  <string name="Enter_your_PIN" platform="android, iOS">Introduce tu PIN</string>
+  <string name="Enter_your_PIN_to_continue" platform="android, iOS, Desktop">Introduce tu PIN para continuar</string>
+  <string name="EOS_contract_address" platform="android">Dirección del contrato EOS</string>
+  <string name="error_address_exists" platform="android, Desktop">La dirección no existe, asegúrate de que la dirección se haya añadido correctamente</string>
+  <string name="error_address_not_sync" platform="android, Desktop">No se ha podido actualizar la dirección, inténtalo de nuevo</string>
+  <string name="error_asset_exists" platform="Desktop">El activo no existe</string>
+  <string name="error_authentication" platform="android, Desktop">ERROR 401: Iniciar sesión para continuar</string>
+  <string name="error_bad_data" platform="android, Desktop">ERROR 10002: Los datos de la solicitud tienen un campo no válido</string>
+  <string name="error_blockchain" platform="android, iOS, Desktop">ERROR 30100: Blockchain no está sincronizado, inténtalo de nuevo más tarde.</string>
+  <string name="error_captcha_is_invalid" platform="iOS">ERROR 10004: CAPTCHA no es válido</string>
+  <string name="error_connection_timeout" platform="android, iOS, Desktop">Se ha agotado el tiempo de espera de la conexión de red, inténtalo de nuevo</string>
+  <string name="error_expired_authorization_code" platform="android, iOS">ERROR 20121: Código de autorización caducado</string>
+  <string name="error_full_group" platform="android, iOS, Desktop">ERROR 20116: El chat de grupo está lleno.</string>
+  <string name="error_insufficient_balance" platform="android, iOS, Desktop">ERROR 20117: Saldo insuficiente</string>
+  <string name="error_insufficient_transaction_fee_with_amount" platform="android, iOS, Desktop">ERROR 20124: Tarifa de transacción insuficiente. Asegúrate de que tu cartera tenga %1$s como tarifa</string>
+  <string name="error_internal_with_msg" platform="iOS">Error interno: %\@</string>
+  <string name="error_invalid_address" platform="android, Desktop">ERROR 30102: formato de dirección no válido. Introduce la dirección %1$s %2$s correcta.</string>
+  <string name="error_invalid_address_plain" platform="android, iOS, Desktop">ERROR 30102: formato de dirección no válido.</string>
+  <string name="error_invalid_code_too_frequent" platform="android, Desktop">ERROR 20129: enviar el código de verificación con demasiada frecuencia, inténtalo de nuevo más tarde.</string>
+  <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">ERROR 20130: Contacto de emergencia no válido</string>
+  <string name="error_invalid_pin_format" platform="android, Desktop">ERROR 20118: Formato de PIN no válido. </string>
+  <string name="error_memo_too_long" platform="android">Memo tiene demasiados caracteres, el máximo es 200</string>
+  <string name="error_network_task_failed" platform="iOS, Desktop">La conexión de red ha fallado. Comprueba o cambia tu red e inténtalo de nuevo</string>
+  <string name="error_no_pin_token" platform="Desktop">Sin token, vuelva a iniciar sesión e intenta esta función de nuevo.</string>
+  <string name="error_not_found" platform="android, iOS, Desktop">Error 404 no encontrado</string>
+  <string name="error_not_supported_audio_format" platform="android, Desktop">Formato de audio no compatible, ábrelo con otra aplicación.</string>
+  <string name="error_number_reached_limit" platform="android, Desktop">ERROR 20132: El número ha llegado al límite.</string>
+  <string name="error_old_version" platform="android, Desktop">ERROR 10006: Actualiza Mixin(%1$s) para seguir usando el servicio.</string>
+  <string name="error_open_location" platform="android, Desktop">No puedo encontrar una aplicación de mapas</string>
+  <string name="error_permission" platform="android, Desktop">Por favor abre los permisos necesarios</string>
+  <string name="error_phone_invalid_format" platform="android, iOS, Desktop">ERROR 20110: Número de teléfono no válido</string>
+  <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">ERROR 10003: Error al entregar SMS</string>
+  <string name="error_phone_verification_code_expired" platform="android, iOS, Desktop">ERROR 20114: Código de verificación del teléfono caducado</string>
+  <string name="error_phone_verification_code_invalid" platform="android, iOS, Desktop">ERROR 20113: Código de verificación del teléfono no válido</string>
+  <string name="error_pin_check_too_many_request" platform="android, iOS, Desktop">Lo ha intentado más de 5 veces, espera al menos 24 horas para volver a intentarlo.</string>
+  <string name="error_pin_incorrect" platform="android, iOS, Desktop">ERROR 20119: PIN incorrecto</string>
+  <string name="error_pin_incorrect_with_times" platform="android, iOS, Desktop">ERROR 20119: PIN incorrecto. Todavía tienes %1$d oportunidad. Espera 24 horas para volver a intentarlo más tarde.</string>
+  <string name="error_pin_incorrect_with_times.count" platform="android, iOS, Desktop">ERROR 20119: PIN incorrecto. Todavía tienes %1$d oportunidades. Espera 24 horas para volver a intentarlo más tarde.</string>
+  <string name="error_recaptcha_is_invalid" platform="android, Desktop">ERROR 10004: Recaptcha no es válido</string>
+  <string name="error_requires_captcha" platform="iOS">Se requiere CAPTCHA.</string>
+  <string name="error_server_5xx_code" platform="android, Desktop">El servidor está en mantenimiento: %1$d</string>
+  <string name="error_too_many_friends" platform="android, iOS">ERROR 20128: Demasiados amigos</string>
+  <string name="error_too_many_request" platform="android, iOS, Desktop">ERROR 429: Límite de tasa excedido</string>
+  <string name="error_too_many_stickers" platform="android, iOS, Desktop">ERROR 20126: Demasiadas pegatinas</string>
+  <string name="error_too_small_transfer_amount" platform="android, iOS, Desktop">ERROR 20120: Importe de la transferencia demasiado pequeño</string>
+  <string name="error_too_small_withdraw_amount" platform="android, iOS, Desktop">ERROR 20127: Cantidad de retiro demasiado pequeña</string>
+  <string name="error_transcript_forward" platform="android, Desktop">Reenvía todos los archivos adjuntos después de que se hayan descargado.</string>
+  <string name="error_transfer_is_already_paid" platform="android, iOS">ERROR 20125: La transferencia ya está pagada.</string>
+  <string name="error_two_parts" platform="iOS">ERROR %\@: %\@</string>
+  <string name="error_unable_to_open_link" platform="android">No puedo encontrar una aplicación capaz de abrir este enlace.&#13;\n%1$s</string>
+  <string name="error_unable_to_open_media" platform="android, Desktop">No puedo encontrar una aplicación capaz de abrir este medio.</string>
+  <string name="error_unknown_with_code" platform="android, Desktop">ERROR: %1$d</string>
+  <string name="error_unknown_with_message" platform="android, Desktop">ERROR: %1$s</string>
+  <string name="error_used_phone" platform="android, iOS, Desktop">ERROR 20122: Este número de teléfono ya está asociado a otra cuenta.</string>
+  <string name="error_user_invalid_format" platform="android, Desktop">ID de usuario invalido</string>
+  <string name="error_withdrawal_memo_format_incorrect" platform="android, iOS, Desktop">ERROR 20131: Formato de nota de retiro incorrecto.</string>
+  <string name="Everybody" platform="android, iOS">Todos</string>
+  <string name="Exchanging_data" platform="android,iOS">Fragmentos de clave de sincronización en curso %1$s%%...</string>
+  <string name="Exit" platform="android, Desktop">Salir</string>
+  <string name="Exit_confirmation" platform="iOS">¿Salir de %\@?</string>
+  <string name="Exit_Group" platform="android, iOS, Desktop">Salir del grupo</string>
+  <string name="Exit_group_and_report_inviter" platform="iOS">Salir del grupo e reportar persona que te ha invitado</string>
+  <string name="exit_without_save" platform="android">¿Salir sin guardar?</string>
+  <string name="Expired" platform="android, iOS">Caducado</string>
+  <string name="Export" platform="iOS">Exportar</string>
+  <string name="Export_Chat" platform="android">Exportar chat</string>
+  <string name="Export_failed" platform="android, iOS">Exportación fallida</string>
+  <string name="export_ip" platform="android">IP de exportación</string>
+  <string name="Export_Markdown" platform="android">Exportar descuento</string>
+  <string name="Export_PDF" platform="android">Exportar PDF</string>
+  <string name="Extract_QR_Code" platform="android">Extraer código QR</string>
+  <string name="Face_ID" platform="iOS">ID facial</string>
+  <string name="failed" platform="Desktop">Fallido</string>
+  <string name="Failed_to_compose_avatar" platform="iOS">No se ha podido componer el avatar. Prueba con otra imagen en su lugar.</string>
+  <string name="Failed_to_send_location" platform="iOS">No se ha podido enviar la ubicación</string>
+  <string name="Failed_to_send_photo" platform="iOS">No se ha podido enviar la foto</string>
+  <string name="Failed_to_send_video" platform="iOS">No se ha podido enviar el video</string>
+  <string name="Failure" platform="android">Falla</string>
+  <string name="Fee" platform="android, iOS, Desktop">Tarifa</string>
+  <string name="Feedback" platform="android, iOS">Comentario</string>
+  <string name="File" platform="android, iOS, Desktop">Archivo</string>
+  <string name="File_chooser_error" platform="android, Desktop">Error del selector de archivos</string>
+  <string name="File_does_not_exist" platform="android, Desktop">El archivo no existe</string>
+  <string name="File_error" platform="android, Desktop">Error de archivo</string>
+  <string name="Files" platform="android, iOS, Desktop">Archivos</string>
+  <string name="Filter" platform="android, iOS">Filtrar</string>
+  <string name="FILTER_BY" platform="android, iOS">FILTRADO POR</string>
+  <string name="fingerprint_lock" platform="android">Bloqueo de huellas dactilares</string>
+  <string name="flags" platform="Desktop">Banderas</string>
+  <string name="Flash_unit_not_available" platform="android">Unidad de flash no disponible</string>
+  <string name="Floating" platform="android, iOS">Flotante</string>
+  <string name="Floats_allows_up_to_count" platform="iOS">Los flotadores permiten hasta %d unos</string>
+  <string name="Follow_system" platform="android, Desktop">Seguir sistema</string>
+  <string name="Follow_us_on_facebook" platform="android, iOS, Desktop">Síguenos en Facebook</string>
+  <string name="Follow_us_on_twitter" platform="android, iOS, Desktop">Síguenos en Twitter</string>
+  <string name="food_and_drink" platform="Desktop">Comida y bebida</string>
+  <string name="Format_not_supported" platform="android, Desktop">Formato no compatible</string>
+  <string name="Forward" platform="android, iOS, Desktop">Adelante</string>
+  <string name="Forward_message" platform="android">Reenviar mensaje</string>
+  <string name="Forward_success" platform="android">Adelante éxito</string>
+  <string name="Forward_to_friend" platform="android">Reenviar a un amigo</string>
+  <string name="fourth_pin_confirm_hint" platform="android, iOS">Sí, hay una cuarta confirmación de PIN y le prometo que es la última para asegurarse de que has recordado tu PIN. El PIN es irrecuperable si se pierde.</string>
+  <string name="Friday" platform="android">Viernes</string>
+  <string name="From" platform="android, iOS, Desktop">De</string>
+  <string name="from_with_colon" platform="Desktop">De: </string>
+  <string name="Games" platform="iOS">Juegos</string>
+  <string name="Generating_keys" platform="android,iOS">Generando claves...</string>
+  <string name="Get_a_new_wallet" platform="android, iOS">Obtener una nueva cartera</string>
+  <string name="GIF" platform="android">GIF</string>
+  <string name="Go" platform="android">Ir</string>
+  <string name="Go_settings" platform="android">Ir a la configuración</string>
+  <string name="Got_it" platform="android, iOS">Entendido</string>
+  <string name="got_it_count_down" platform="android">Entendido (%1$d)</string>
+  <string name="group_already_in" platform="android, Desktop">Ya estas en el grupo</string>
+  <string name="Group_Call" platform="android, iOS">Llamada de grupo</string>
+  <string name="group_call_end_with_duration" platform="android, iOS">Llamada de grupo finalizada, duración: %1$s</string>
+  <string name="Group_call_has_been_declined" platform="iOS">Se ha rechazado la llamada de grupo</string>
+  <string name="Group_call_participants_limit_hint" platform="android, iOS">Las llamadas de grupo permiten que hasta %1$d participantes se llamen entre sí</string>
+  <string name="group_cant_send" platform="android, Desktop">No puedes enviar mensajes a este grupo porque ya no eres un participante.</string>
+  <string name="group_click_create_tip" platform="android">No se ha podido crear. Toca para volver a intentarlo.</string>
+  <string name="Group_Description" platform="iOS">Descripción del Grupo</string>
+  <string name="Group_Info" platform="android">Información del grupo</string>
+  <string name="group_info_remove_tip" platform="android">¿Quitar a %1$s del grupo %2$s?</string>
+  <string name="Group_Name" platform="android, iOS, Desktop">Nombre del grupo</string>
+  <string name="Group_Notice" platform="android">Aviso de grupo</string>
+  <string name="Group_Notification" platform="android">Notificación de grupo</string>
+  <string name="group_participant_add_full" platform="iOS">No puede añadir a este participante porque este grupo está lleno.</string>
+  <string name="group_participant_add_limit" platform="iOS">No puede añadir a este participante porque solo puede añadir hasta 50 a la vez.</string>
+  <string name="group_participants" platform="Desktop">Participantes</string>
+  <string name="group_pop_menu_message" platform="android, Desktop">Mensaje %1$s</string>
+  <string name="group_pop_menu_remove" platform="android, Desktop">Quitar %1$s</string>
+  <string name="group_pop_menu_view" platform="android">Ver %1$s</string>
+  <string name="group_qr_code_prompt" platform="iOS">Escanea el código QR para unirte a este grupo</string>
+  <string name="group_role" platform="android">Ahora eres administrador</string>
+  <string name="groups" platform="Desktop">Grupos</string>
+  <string name="Groups_In_Common" platform="android, iOS, Desktop">Grupos en común</string>
+  <string name="Hang_up" platform="android">Colgar</string>
+  <string name="Help" platform="iOS, Desktop">Ayuda</string>
+  <string name="Help_center" platform="android, iOS, Desktop">Centro de ayuda</string>
+  <string name="Hidden" platform="android">Oculto</string>
+  <string name="Hidden_Assets" platform="android, iOS">Activos ocultos</string>
+  <string name="Hide" platform="android, iOS">Ocultar</string>
+  <string name="Hide_asset" platform="iOS">Ocultar activo</string>
+  <string name="hide_mixin" platform="Desktop">Ocultar Mixin</string>
+  <string name="hold_to_record_audio" platform="android, iOS">Sostén para grabar, suelta para enviar</string>
+  <string name="Hour" platform="android, iOS, Desktop">%d Hora</string>
+  <string name="Hour.count" platform="android, iOS, Desktop">%d Horas</string>
+  <string name="how_are_you" platform="iOS, Desktop">¿Hola, cómo estás?</string>
+  <string name="i_am_good" platform="iOS, Desktop">Estoy bien.</string>
+  <string name="I_know" platform="android">Lo sé</string>
+  <string name="ignore_this_version" platform="Desktop">Ignorar la nueva versión</string>
+  <string name="image" platform="iOS, Desktop">imagen</string>
+  <string name="Immediately" platform="android, iOS">Inmediatamente</string>
+  <string name="Import" platform="android">Importar</string>
+  <string name="in_connecting" platform="android, iOS">Conectando…</string>
+  <string name="Include_files" platform="iOS, Desktop">Incluir archivos</string>
+  <string name="Include_videos" platform="iOS, Desktop">Incluir vídeos</string>
+  <string name="Incognito_Keyboard" platform="android">Teclado incógnito</string>
+  <string name="Incoming_voice_call" platform="android, iOS">Llamada de voz entrante</string>
+  <string name="Info" platform="iOS">Información</string>
+  <string name="Initializing" platform="android, iOS, Desktop">Inicializando…</string>
+  <string name="Insufficient_transaction_fee" platform="iOS">Tarifa de transacción insuficiente</string>
+  <string name="Interface_style" platform="iOS">Estilo de interfaz</string>
+  <string name="Invalid_candidate" platform="iOS">Candidato inválido</string>
+  <string name="Invalid_height" platform="iOS">Altura inválida</string>
+  <string name="Invalid_Link" platform="android">Enlace inválido</string>
+  <string name="Invalid_malformed_address_eos_hint" platform="iOS">Formato de dirección inválido. ¡Mixin no admite el retiro a la dirección del contrato EOS!</string>
+  <string name="Invalid_malformed_address_hint" platform="iOS">Formato de dirección inválido. Vuelve a intentarlo con una dirección válida de %\@</string>
+  <string name="Invalid_parameters" platform="iOS">Parámetros inválidos</string>
+  <string name="Invalid_payment_link" platform="android, iOS">Enlace de pago inválido</string>
+  <string name="Invalid_QR_Code" platform="android, iOS">Código QR inválido</string>
+  <string name="Invalid_request_body" platform="iOS">Cuerpo de solicitud inválido</string>
+  <string name="Invalid_request_data" platform="iOS">Datos de solicitud inválidos</string>
+  <string name="Invalid_sdp" platform="iOS">SDP inválido</string>
+  <string name="Invalid_sticker_format" platform="android">Formato de etiqueta inválido</string>
+  <string name="Invalid_width" platform="iOS">Ancho inválido</string>
+  <string name="Invite" platform="iOS">Invitar</string>
+  <string name="Invite_a_Friend" platform="android, iOS">Invita a un amigo</string>
+  <string name="invite_info" platform="android, iOS, Desktop">Cualquier persona con Mixin puede seguir este enlace para unirse a este grupo. Solo compártelo con personas en las que confíes.</string>
+  <string name="Invite_people" platform="android">Invitar a la gente</string>
+  <string name="Invite_to_Group_via_Link" platform="android, iOS, Desktop">Invitar al grupo a través de un enlace</string>
+  <string name="Invite_to_Mixin" platform="android">Invitar a Mixin</string>
+  <string name="invited_by_stranger" platform="iOS">El anfitrión no está en tus contactos.</string>
+  <string name="invites_you_to_a_voice_call" platform="iOS">te invita a una llamada de voz</string>
+  <string name="is_network_available" platform="android">isNetworkAvailable</string>
+  <string name="italic" platform="android">itálico</string>
+  <string name="Join_group" platform="android, iOS">Únete al grupo</string>
+  <string name="join_group_with_plus" platform="Desktop">+ Únete al grupo</string>
+  <string name="Joined_in" platform="android, iOS, Desktop">Se ha unido en %1$s</string>
+  <string name="Label" platform="android, iOS">Etiqueta</string>
+  <string name="Landing_back" platform="android">Aterrizando de vuelta</string>
+  <string name="landing_delete_content" platform="android, iOS, Desktop">Tu cuenta se eliminará el %1$s; si continúas iniciando sesión, se cancelará la solicitud para eliminar tu cuenta.</string>
+  <string name="landing_enter_mobile_tip" platform="android">Nunca mostraremos tu número de móvil públicamente.</string>
+  <string name="landing_introduction" platform="android">Toca Aceptar y continuar para aceptar %1$s y %2$s.</string>
+  <string name="landing_invitation_dialog_content" platform="android, Desktop">Te enviaremos un código de 4 dígitos a tu número de teléfono %1$s. Introduce el código en la siguiente pantalla.</string>
+  <string name="landing_privacy_policy_url" platform="android">https://mixin.one/pages/privacy</string>
+  <string name="landing_terms_url" platform="android">https://mixin.one/pages/terms</string>
+  <string name="landing_validation_title" platform="android, iOS, Desktop">Introduce el código de 4 dígitos que te enviamos a %1$s</string>
+  <string name="landing_verification_tip_url" platform="android">https://mixinmessenger.zendesk.com/hc/articles/360024114492</string>
+  <string name="Language" platform="android, iOS">Idioma</string>
+  <string name="Large_Amount_Confirmation" platform="android, iOS">Confirmación de gran cantidad</string>
+  <string name="Large_Amount_Confirmation_with_symbol" platform="android, iOS">Confirmación de gran cantidad(%1$s)</string>
+  <string name="Last_active_time" platform="iOS">Último Activo %\@</string>
+  <string name="Last_Backup" platform="android">Última copia de seguridad</string>
+  <string name="last_backup_hint" platform="iOS">Última copia de seguridad en %\@, tamaño total %\@.</string>
+  <string name="Later" platform="android, iOS">Más tarde</string>
+  <string name="Learn_More" platform="android, iOS, Desktop">Obtener más información</string>
+  <string name="less" platform="Desktop">menos</string>
+  <string name="Light" platform="iOS, Desktop">Claro</string>
+  <string name="Line_busy" platform="android, iOS">Linea ocupada</string>
+  <string name="Line_busy_remote" platform="android, iOS">Linea ocupada</string>
+  <string name="Link_desktop_failed" platform="android">Ha fallado vincular escritorio</string>
+  <string name="Link_desktop_success" platform="android">Escritorio vinculado con éxito</string>
+  <string name="Link_recognition_failure" platform="iOS">Error de reconocimiento de enlace</string>
+  <string name="link_shareable_false" platform="iOS">El enlace se ha configurado para no permitir compartir</string>
+  <string name="linked_device" platform="Desktop">dispositivo vinculado</string>
+  <string name="Links" platform="android, iOS">Enlaces</string>
+  <string name="Live" platform="android, iOS, Desktop">En vivo</string>
+  <string name="live_permission" platform="android">Mixin necesita acceso para dibujar sobre otras aplicaciones para reproducir videos en modo Picture-in-Picture.</string>
+  <string name="live_shareable_false" platform="android, iOS">El directo se ha configurado para no permitir compartir</string>
+  <string name="audio_shareable_false" platform="android, iOS">El audio se ha configurado para no permitir compartir</string>
+  <string name="video_shareable_false" platform="android, iOS">El video se ha configurado para no permitir compartir</string>
+  <string name="image_shareable_false" platform="android, iOS">La imagen se ha configurado para no permitir compartir</string>
+  <string name="live_stream" platform="iOS">transmisión en vivo</string>
+  <string name="Loading" platform="iOS, Desktop">Cargando...</string>
+  <string name="loading_time" platform="android, Desktop">La hora del sistema es inusual, continúa usándola nuevamente después de la corrección</string>
+  <string name="Local_IP" platform="android">Direcciones IP locales</string>
+  <string name="locate_to_chat" platform="Desktop">ubicar para chatear</string>
+  <string name="Locating" platform="iOS">Localizando...</string>
+  <string name="Location" platform="android, iOS, Desktop">Localización</string>
+  <string name="location_accuracy_to" platform="iOS">Preciso al %\@</string>
+  <string name="location_accurate" platform="android">Precisión de %1$d metro</string>
+  <string name="location_accurate.count" platform="android">Precisión de %1$d metros</string>
+  <string name="location_distance" platform="iOS">Distancia: %\@</string>
+  <string name="location_distance_away" platform="android">%1$s %2$s de distancia</string>
+  <string name="location_empty" platform="android, iOS">No ha habido resultados para %1$s&#13;\nPrueba una nueva búsqueda</string>
+  <string name="location_enable_title" platform="android">Habilita tu GPS para acceder a la ubicación</string>
+  <string name="location_google_error" platform="android">El servicio de Google no está instalado.</string>
+  <string name="location_kilometre" platform="android">km</string>
+  <string name="location_metre" platform="android">m</string>
+  <string name="location_undetermined" platform="iOS">Tu ubicación aún no se ha determinado. Por favor, inténtalo de nuevo más tarde</string>
+  <string name="lock_with_biometric" platform="iOS">Bloquear con %\@</string>
+  <string name="Log_in" platform="android, iOS, Desktop">Iniciar sesión</string>
+  <string name="log_out_from_desktop" platform="android, iOS">Cerrar sesión desde el escritorio</string>
+  <string name="login_and_abort_account_deletion" platform="android, iOS, Desktop">Continuar para iniciar sesión y cancelar la eliminación de la cuenta</string>
+  <string name="login_by_qrcode" platform="Desktop">Iniciar sesión en Mixin Messenger por código QR</string>
+  <string name="Login_with_PIN" platform="android">Iniciar sesión con PIN</string>
+  <string name="Logined" platform="iOS">Sesión iniciada</string>
+  <string name="Logout" platform="android">Cerrar sesión…</string>
+  <string name="Logs" platform="android, iOS">Registros</string>
+  <string name="Lost_your_mobile_number" platform="android, iOS">¿Has perdido tu número de móvil?</string>
+  <string name="Make_group_admin" platform="android, iOS, Desktop">Hacer administrador de grupo</string>
+  <string name="Manage" platform="iOS">Administrar</string>
+  <string name="manage_all_your_bots" platform="android, iOS">administra todos tus bots</string>
+  <string name="manage_all_your_circles" platform="android, iOS">administrar todos tus círculos</string>
+  <string name="Manage_Bots" platform="android, iOS">Administrar bots</string>
+  <string name="Manager_Sticker" platform="android">Administrar Pegatina</string>
+  <string name="Manufacturer" platform="android">Fabricante</string>
+  <string name="Mark_as_read" platform="android">Marcar como leído</string>
+  <string name="Media" platform="android, iOS, Desktop">Medios de comunicación</string>
+  <string name="Memo" platform="android, iOS, Desktop">Memorándum</string>
+  <string name="message" platform="android">mensaje</string>
+  <string name="message_e2ee" platform="android, iOS, Desktop">Los mensajes de esta conversación están encriptados de extremo a extremo, toca para obtener más información.</string>
+  <string name="message_encryption_hint" platform="iOS">Los mensajes entre usuarios están protegidos con un cifrado de extremo a extremo</string>
+  <string name="Message_not_found" platform="android, iOS, Desktop">Mensaje no encontrado</string>
+  <string name="message_not_support" platform="android, iOS, Desktop">Este tipo de mensaje no es compatible, actualice Mixin a la última versión.</string>
+  <string name="Message_Notification" platform="android">Notificación de mensajes</string>
+  <string name="Message_pinned" platform="android">Mensaje fijado</string>
+  <string name="message_preview" platform="Desktop">Vista previa del mensaje</string>
+  <string name="Message_Preview" platform="iOS">Vista previa del mensaje</string>
+  <string name="message_preview_description" platform="Desktop">Obtén una vista previa del texto del mensaje dentro de las notificaciones de mensajes nuevos.</string>
+  <string name="Message_sent" platform="android, iOS">Mensaje enviado</string>
+  <string name="Message_unpinned" platform="android">Mensaje desanclado</string>
+  <string name="Messages" platform="android, iOS, Desktop">Mensajes</string>
+  <string name="Messaging_Node" platform="android">Nodo de mensajería</string>
+  <string name="Messaging_node_running" platform="android">Nodo de mensajería en ejecución</string>
+  <string name="minimize" platform="Desktop">Minimizar</string>
+  <string name="Minute" platform="android, iOS">%d Minuto</string>
+  <string name="Minute.count" platform="android, iOS">%d Minutos</string>
+  <string name="Mixin" platform="android, iOS">Mixin</string>
+  <string name="Mixin_ID" platform="android">ID de Mixin</string>
+  <string name="mixin_id_or_phone" platform="iOS">ID de Mixin, número de teléfono</string>
+  <string name="Mixin_Locked" platform="android, iOS">Mixin bloqueado</string>
+  <string name="Mixin_Messenger_Desktop" platform="android, iOS, Desktop">Mixin Messenger de Escritorio</string>
+  <string name="Mixin_server_encounters_errors" platform="iOS">El servidor Mixin encuentra errores</string>
+  <string name="Mobile_Contacts" platform="iOS">Contactos móviles</string>
+  <string name="Model" platform="android">Modelo</string>
+  <string name="Monday" platform="android">Lunes</string>
+  <string name="Monthly" platform="iOS">Mensual</string>
+  <string name="More" platform="android, iOS, Desktop">Más</string>
+  <string name="Multisig_by_PIN" platform="android, iOS">Multifirma por PIN</string>
+  <string name="multisig_receivers_threshold" platform="android">Receptores (%1$s)</string>
+  <string name="multisig_state_signed" platform="android, iOS">Este enlace multisig ya ha sido firmado por ti mismo, no puedes realizar una operación duplicada.</string>
+  <string name="multisig_state_unlocked" platform="android, iOS">Este enlace multisig ya fue desbloqueado por alguien, no se puede hacer una operación duplicada.</string>
+  <string name="Multisig_Transaction" platform="android, iOS, Desktop">Transacción multigrado</string>
+  <string name="Music" platform="iOS">Música</string>
+  <string name="Mute" platform="android, iOS">Silenciar</string>
+  <string name="mute" platform="Desktop">Silenciar</string>
+  <string name="Mute_until" platform="android, iOS">Hasta el %1$s</string>
+  <string name="Muted" platform="iOS">Silenciado</string>
+  <string name="Muted_until" platform="iOS">Silenciado hasta %\@</string>
+  <string name="My_Contacts" platform="android, iOS">Mis contactos</string>
+  <string name="my_mixin_id" platform="android, iOS, Desktop">Mi ID de Mixin: %1$s</string>
+  <string name="My_QR_Code" platform="android, iOS">Mi código QR</string>
+  <string name="My_shared_bots" platform="android, iOS">Mis bots compartidos</string>
+  <string name="My_Stickers" platform="android, iOS, Desktop">Mis pegatinas</string>
+  <string name="NA" platform="android, iOS, Desktop">N/D</string>
+  <string name="Name" platform="android, iOS, Desktop">Nombre</string>
+  <string name="Name_or_Phone_number" platform="iOS">Nombre o número de teléfono</string>
+  <string name="need_background_permission" platform="android">Requiere permiso de inicio en segundo plano para continuar</string>
+  <string name="need_camera_permission" platform="android">Requiere permiso de la cámara para continuar</string>
+  <string name="Need_help" platform="android, iOS">¿Necesitas ayuda?</string>
+  <string name="Net_Diagnosis" platform="android">Diagnóstico de red</string>
+  <string name="network_connection_failed" platform="Desktop">Conexión de red fallida</string>
+  <string name="network_connection_lost" platform="iOS">Se ha perdido la conexión de red, verifica tu red e intenta nuevamente más tarde</string>
+  <string name="Network_error" platform="android, Desktop">Error de red</string>
+  <string name="network_fee" platform="iOS">Tarifa de red: %\@</string>
+  <string name="Network_Operator" platform="android">Operador de red</string>
+  <string name="Network_Type" platform="android">Tipo de red</string>
+  <string name="Network_unavailable" platform="android">Red no disponible</string>
+  <string name="Never" platform="android">Nunca</string>
+  <string name="never_auto_download" platform="iOS">Nunca</string>
+  <string name="New_Chat" platform="iOS">Nueva chat</string>
+  <string name="New_Group" platform="android, iOS">Nuevo grupo</string>
+  <string name="New_Group_Chat" platform="android, iOS">Nuevo chat grupal</string>
+  <string name="new_group_name" platform="android">nuevo nombre de grupo</string>
+  <string name="new_name" platform="iOS">nuevo nombre</string>
+  <string name="new_version_available" platform="Desktop">Nueva versión disponible</string>
+  <string name="new_version_description" platform="Desktop">Mixin Messenger %1$s ya está disponible, tienes %2$s. ¿Te gustaría descargarlo ahora?</string>
+  <string name="new_wallet_hint" platform="android, iOS">Crea tu primera cartera digital, todos tus activos digitales en una cartera, envía y recibe fácilmente criptomonedas.</string>
+  <string name="News" platform="iOS">Noticias</string>
+  <string name="Next" platform="android, iOS, Desktop">Próximo</string>
+  <string name="next_conversation" platform="Desktop">Próxima conversación</string>
+  <string name="NO_AUDIO" platform="android, iOS, Desktop">SIN AUDIO</string>
+  <string name="NO_AUTHORIZATIONS" platform="android, iOS">SIN AUTORIZACIONES</string>
+  <string name="No_Available_Assets" platform="android">No hay activos disponibles</string>
+  <string name="No_blocked_users" platform="android, iOS">Sin usuarios bloqueados</string>
+  <string name="NO_BOTS" platform="android, iOS">SIN BOTS</string>
+  <string name="No_camera" platform="android, Desktop">Sin cámaras</string>
+  <string name="No_CONTACTS" platform="iOS">SIN CONTACTOS</string>
+  <string name="no_data" platform="Desktop">Sin datos</string>
+  <string name="No_deposits" platform="android">Sin depósitos</string>
+  <string name="No_fees" platform="android">Sin cargos</string>
+  <string name="NO_FILES" platform="android, iOS, Desktop">SIN ARCHIVOS</string>
+  <string name="No_hidden_assets" platform="android, iOS">Sin activos ocultos</string>
+  <string name="No_Items_Selected" platform="iOS">No hay elementos seleccionados</string>
+  <string name="NO_LINKS" platform="android, iOS, Desktop">SIN ENLACES</string>
+  <string name="No_logs" platform="android, iOS">Sin registros</string>
+  <string name="NO_MEDIA" platform="android, iOS, Desktop">SIN MULTIMEDIA</string>
+  <string name="No_media_yet" platform="android">No hay medios</string>
+  <string name="No_Memo" platform="android, iOS">Sin memorando</string>
+  <string name="No_network_connection" platform="android, iOS, Desktop">No hay conexion de red</string>
+  <string name="NO_POSTS" platform="android, iOS, Desktop">SIN PUBLICACIONES</string>
+  <string name="No_raws" platform="android">Sin procesos</string>
+  <string name="No_rebates" platform="android">Sin reembolsos</string>
+  <string name="NO_RESULTS" platform="android, iOS, Desktop">SIN RESULTADOS</string>
+  <string name="NO_STICKERS" platform="android, iOS">SIN PEGATINAS</string>
+  <string name="No_tag" platform="android, iOS">Sin etiqueta</string>
+  <string name="No_transactions" platform="android, iOS">Sin transacciones</string>
+  <string name="No_withdrawals" platform="android">Sin retiros</string>
+  <string name="Nobody" platform="android, iOS">Nadie</string>
+  <string name="Nodes" platform="android">Nodos</string>
+  <string name="None" platform="android, iOS">Ninguno</string>
+  <string name="Not_all_signer_success" platform="android,iOS">No todos los nodos tienen éxito</string>
+  <string name="Not_enough_partials" platform="android,iOS">No hay suficientes nodos que devuelvan fragmento de clave</string>
+  <string name="Not_found" platform="android, iOS, Desktop">Extraviado</string>
+  <string name="Not_logged_in" platform="android">No se ha iniciado sesión</string>
+  <string name="Not_playing" platform="iOS">No se está reproduciendo</string>
+  <string name="Not_recognized" platform="android">No reconocido</string>
+  <string name="Not_support" platform="android">No compatible</string>
+  <string name="Notice" platform="android">Aviso</string>
+  <string name="Notification_and_Confirmation" platform="android, iOS">Notificación y Confirmación</string>
+  <string name="notification_channel_description" platform="android">Muestra qué música se está reproduciendo actualmente en Mixin Messenger</string>
+  <string name="notification_content" platform="android, iOS, Desktop">No te pierdas los mensajes de tus amigos.</string>
+  <string name="notification_message_preview_description" platform="iOS">Obtén una vista previa del texto del mensaje dentro de las notificaciones de mensajes nuevos.</string>
+  <string name="notification_permission_manually" platform="Desktop">Las notificaciones no están permitidas, ve a Configuración de notificaciones para activarlas.</string>
+  <string name="Notifications" platform="android, Desktop">Notificaciones</string>
+  <string name="now_an_addmin" platform="iOS, Desktop">%\@ ahora es administrador</string>
+  <string name="Now_Playing" platform="android">Reproduciendo ahora</string>
+  <string name="NSCameraUsageDescription" platform="iOSAuthorization">Mixin usa la cámara para configurar la foto de perfil y enviar una foto a tu contacto en el chat</string>
+  <string name="NSContactsUsageDescription" platform="iOSAuthorization">Mixin sincroniza tu libreta de direcciones con los servidores de Mixin para ayudarte a conectarse con otros usuarios de Mixin.</string>
+  <string name="NSFaceIDUsageDescription" platform="iOSAuthorization">Mixin usa Face ID para autorizar el pago</string>
+  <string name="NSLocationWhenInUseUsageDescription" platform="iOSAuthorization">Activa los servicios de ubicación para enviar tu ubicación actual o lugares cercanos en una conversación</string>
+  <string name="NSMicrophoneUsageDescription" platform="iOSAuthorization">Mixin usa tu micrófono para grabar mensajes de voz para compartir con tus contactos</string>
+  <string name="NSPhotoLibraryUsageDescription" platform="iOSAuthorization">Mixin usa la biblioteca de fotos para configurar la foto de perfil y enviar una foto a tu contacto en el chat</string>
+  <string name="number_reached_limit" platform="android, iOS">El número ha llegado al límite.</string>
+  <string name="objects" platform="Desktop">Objetos</string>
+  <string name="Off" platform="android, iOS">Apagado</string>
+  <string name="OK" platform="android, iOS">OK</string>
+  <string name="Old_PIN" platform="android">PIN antiguo</string>
+  <string name="One_by_One_Forward" platform="iOS, Desktop">Adelante uno por uno</string>
+  <string name="one_hour" platform="android, iOS, Desktop">1 hora</string>
+  <string name="one_week" platform="android, iOS, Desktop">1 semana</string>
+  <string name="one_year" platform="android, iOS, Desktop">1 año</string>
+  <string name="Ongoing_voice_call" platform="android">Llamada de voz en curso</string>
+  <string name="Open" platform="android, iOS">Abierto</string>
+  <string name="Open_Home_page" platform="android, iOS, Desktop">Abrir página de inicio</string>
+  <string name="Open_in_browser" platform="android, iOS">Abrir en el navegador</string>
+  <string name="Open_in_gaode_maps" platform="iOS">Abrir en 高德地图</string>
+  <string name="Open_in_google_maps" platform="iOS">Abrir en Google Maps</string>
+  <string name="Open_in_maps" platform="iOS">Abrir en Mapas</string>
+  <string name="Open_Link" platform="android, iOS, Desktop">Abrir enlace: %1$s</string>
+  <string name="open_log_directory" platform="Desktop">abrir directorio de registro</string>
+  <string name="Open_url" platform="iOS">Abrir URL</string>
+  <string name="operation_failed" platform="iOS">La operación ha fallado, intenta nuevamente más tarde</string>
+  <string name="Operator" platform="android">Operador</string>
+  <string name="Optimize_Database" platform="iOS">Optimizar base de datos</string>
+  <string name="Optimized" platform="iOS">Optimizado</string>
+  <string name="original_image" platform="Desktop">Original</string>
+  <string name="OTHER" platform="android">OTRO</string>
+  <string name="Other" platform="iOS">Otro</string>
+  <string name="Owner" platform="android, iOS, Desktop">Propietario</string>
+  <string name="parse_dns_result" platform="android">Analizar el resultado de DNS: </string>
+  <string name="Participants" platform="android, iOS">Participantes</string>
+  <string name="participants_count" platform="iOS, Desktop">%\@ PARTICIPANTES</string>
+  <string name="Pause" platform="android">Pausa</string>
+  <string name="pay_paid" platform="android, iOS">Este enlace de pago ya ha sido pagado por alguien, no puedes hacer un pago duplicado.</string>
+  <string name="Pay_with" platform="iOS">Pagar con %\@</string>
+  <string name="Pay_with_Biometrics" platform="android">Pagar con biometría</string>
+  <string name="Pay_with_PIN" platform="android, iOS">Pagar con PIN</string>
+  <string name="Pay_with_PIN_interval" platform="android, iOS">Intervalo de pago con PIN</string>
+  <string name="Pay_withdrawal_memo" platform="iOS">Importe %\@ %\@&#13;\nTarifa %\@ %\@</string>
+  <string name="Peer_closed" platform="iOS">Par cerrado</string>
+  <string name="Peer_not_found" platform="iOS">Par no encontrado</string>
+  <string name="pending_confirmation" platform="android, iOS, Desktop">%1$d/%2$d confirmación</string>
+  <string name="pending_confirmation.count" platform="android, iOS, Desktop">%1$d/%2$d confirmaciones</string>
+  <string name="pending_confirmations" platform="iOS">%d/%d confirmaciones</string>
+  <string name="permission_audio" platform="android">¿Permitir grabar audio?</string>
+  <string name="permission_camera" platform="android">¿Permitir hacer fotos?</string>
+  <string name="permission_denied_camera_hint" platform="iOS">Mixin no tiene permiso para usar tu cámara. Toca Configuración para abrir la configuración del sistema.</string>
+  <string name="permission_denied_microphone_hint" platform="iOS">Mixin no tiene permiso para usar tu micrófono. Toca Configuración para abrir la configuración del sistema.</string>
+  <string name="permission_denied_network_hint" platform="iOS">Mixin no tiene permiso para usar datos inalámbricos. Toca Configuración para abrir la configuración del sistema.</string>
+  <string name="permission_denied_photo_library" platform="iOS">Mixin no tiene permiso para usar tu biblioteca de fotos. Toca Configuración para abrir la configuración del sistema.</string>
+  <string name="permission_video" platform="android">¿Permitir grabar video?</string>
+  <string name="Permissions" platform="android, iOS">Permisos</string>
+  <string name="Phone_call" platform="android, iOS">Llamada telefónica</string>
+  <string name="Phone_Contact" platform="android, iOS">Contactos del teléfono</string>
+  <string name="Phone_Contacts" platform="android, iOS">Contactos del teléfono</string>
+  <string name="Phone_Number" platform="android, iOS, Desktop">Número de teléfono</string>
+  <string name="Phone_number_change" platform="android, iOS">Cambio de número de teléfono</string>
+  <string name="phone_number_privacy" platform="android, iOS">Quién me puede encontrar por mi número</string>
+  <string name="Photo" platform="android, iOS">Foto</string>
+  <string name="Photo_saved" platform="iOS">Foto guardada.</string>
+  <string name="photo.count" platform="iOS">%1$d Fotos</string>
+  <string name="Photos" platform="android, iOS, Desktop">Fotos</string>
+  <string name="pick_a_conversation" platform="Desktop">Selecciona una conversación y comienza a enviar un mensaje</string>
+  <string name="Pick_from_Library" platform="iOS">Elegir de la biblioteca</string>
+  <string name="PIN" platform="android, iOS">PIN</string>
+  <string name="PIN_change" platform="android, iOS">Cambio de PIN</string>
+  <string name="pin_check_tip" platform="android, iOS">Se te pedirá periódicamente para ayudarte a recordarlo.</string>
+  <string name="pin_confirm_again_hint" platform="android, iOS">Confirma tu PIN de 6 dígitos nuevamente</string>
+  <string name="pin_confirm_hint" platform="android, iOS">Por favor, confirma el PIN de 6 dígitos y recuérdalo.</string>
+  <string name="pin_creation" platform="android, iOS">Creación de PIN</string>
+  <string name="PIN_incorrect" platform="android, iOS">PIN incorrecto</string>
+  <string name="pin_lost_hint" platform="android, iOS">Si se pierde, no hay forma de recuperar tu cartera.</string>
+  <string name="PIN_not_same_as_last_time" platform="android,iOS">El PIN no coincide con lo que se ha configurado la última vez que se canceló inesperadamente</string>
+  <string name="pin_title" platform="android, iOS, Desktop">Fijar</string>
+  <string name="pinned_a_audio" platform="iOS">%\@ ha fijado un audio</string>
+  <string name="pinned_a_card" platform="iOS">%\@ ha fijado una tarjeta</string>
+  <string name="pinned_a_contact" platform="iOS">%\@ ha fijado un contacto</string>
+  <string name="pinned_a_file" platform="iOS">%\@ ha fijado un archivo</string>
+  <string name="pinned_a_general" platform="iOS">%\@ ha fijado un mensaje</string>
+  <string name="pinned_a_image" platform="iOS">%\@ ha fijado una foto</string>
+  <string name="pinned_a_live" platform="iOS">%\@ ha fijado una transmisión en vivo</string>
+  <string name="pinned_a_location" platform="iOS">%\@ ha fijado una ubicación</string>
+  <string name="pinned_a_post" platform="iOS">%\@ ha fijado una publicación</string>
+  <string name="pinned_a_sticker" platform="iOS">%\@ ha fijado una pegatina</string>
+  <string name="pinned_a_transcript" platform="iOS">%\@ ha fijado una transcripción</string>
+  <string name="pinned_a_video" platform="iOS">%\@ ha fijado un video</string>
+  <string name="pinned_message_title" platform="android, iOS, Desktop">%1$d Mensaje fijado</string>
+  <string name="pinned_message_title.count" platform="android, iOS, Desktop">%1$d Mensajes fijados</string>
+  <string name="Pinned_Messages" platform="android">Mensajes fijados</string>
+  <string name="Play" platform="android">Reproducir</string>
+  <string name="Playback_failed" platform="android">Reproducción fallida</string>
+  <string name="Playlist" platform="android, iOS">Lista de reproducción</string>
+  <string name="Please_keep_app_in_foreground" platform="android,iOS">Mantén la aplicación en primer plano y no fuerces el cierre durante el proceso de configuración.</string>
+  <string name="Please_use_when_network_is_connected" platform="android,iOS">Completa la operación en un entorno de red estable.</string>
+  <string name="Please_wait_a_bit" platform="android">Por favor espera un poco…</string>
+  <string name="POST" platform="android">PUBLICAR</string>
+  <string name="Post" platform="android, iOS, Desktop">Publicar</string>
+  <string name="post_sharing" platform="iOS">publicar</string>
+  <string name="preferences" platform="Desktop">Preferencias</string>
+  <string name="Preparing" platform="iOS">Preparando...</string>
+  <string name="Preparing_progress" platform="iOS">Preparando...(%\@)</string>
+  <string name="previous_conversation" platform="Desktop">Conversación anterior</string>
+  <string name="Privacy" platform="android, iOS">Privacidad</string>
+  <string name="Privacy_Policy" platform="android, iOS, Desktop">Política de privacidad</string>
+  <string name="Process_can_not_be_stop" platform="android,iOS">El proceso no se puede cancelar cuando comienza. Recuerda el PIN de 6 dígitos y vuelva a introducirlo si el proceso se cancela inesperadamente.</string>
+  <string name="Profile" platform="iOS">Perfil</string>
+  <string name="profile_modify_number" platform="android">¿Quieres cambiar tu número de teléfono?</string>
+  <string name="Profile_photo" platform="android, iOS">Foto de perfil</string>
+  <string name="profile_share_bot_hint" platform="android, iOS">Si deseas compartir un bot, añádelo primero a tus contactosa</string>
+  <string name="Public_profile" platform="android, iOS">Perfil público (requerido)</string>
+  <string name="QR_Code" platform="android, iOS">Código QR</string>
+  <string name="qr_code_camera_code" platform="android">Usa la cámara incorporada para escanear cualquier código QR. Cuando se detecta un código, toca la notificación para ver más información.</string>
+  <string name="QR_Code_not_found" platform="android, iOS">Código QR no encontrado</string>
+  <string name="quick_search" platform="Desktop">Búsqueda rápida</string>
+  <string name="quit_mixin" platform="Desktop">Salir de Mixin</string>
+  <string name="quote" platform="android">citar</string>
+  <string name="Random_keyboard" platform="android">Teclado aleatorio</string>
+  <string name="Raw" platform="android, iOS, Desktop">Sin procesar</string>
+  <string name="Raw_Transfer" platform="android">Transferencia sin procesar</string>
+  <string name="Read_Assets" platform="android, iOS">Leer activos</string>
+  <string name="Read_Bots" platform="android, iOS">Leer Bots</string>
+  <string name="Read_Circles" platform="android, iOS">Leer círculos</string>
+  <string name="Read_Collectibles" platform="android, iOS">Leer coleccionables</string>
+  <string name="Read_Contacts" platform="android, iOS">Leer contactos</string>
+  <string name="Read_Snapshots" platform="android, iOS">Leer instantáneas</string>
+  <string name="Rebate" platform="android, iOS, Desktop">Reembolso</string>
+  <string name="Recaptcha_timeout" platform="android, Desktop">Tiempo de espera de recaptcha</string>
+  <string name="Receive" platform="android">Recibir</string>
+  <string name="RECEIVE" platform="android, iOS">Recibir</string>
+  <string name="Receive_Money" platform="android, iOS">Recibir dinero</string>
+  <string name="Receiver" platform="android, iOS, Desktop">Receptor</string>
+  <string name="Receivers" platform="iOS">Receptores</string>
+  <string name="recent_chats" platform="android, iOS, Desktop">CHATS</string>
+  <string name="Recent_searches" platform="android, iOS">Búsquedas recientes</string>
+  <string name="reedit" platform="Desktop">Reeditar</string>
+  <string name="Refresh" platform="android, iOS, Desktop">Actualizar</string>
+  <string name="Refuse" platform="android">Rechazar</string>
+  <string name="Reload" platform="android, iOS">Recargar</string>
+  <string name="Remove_all" platform="android, iOS">Eliminar todo</string>
+  <string name="Remove_all_floats" platform="android, iOS">¿Eliminar todos los flotadores?</string>
+  <string name="Remove_Bot" platform="android, iOS, Desktop">Eliminar Bot</string>
+  <string name="remove_bot_hint" platform="iOS">¿Eliminar bot? El historial de chat permanecerá en tu dispositivo</string>
+  <string name="remove_chat_from_circle" platform="Desktop">Eliminar chat del círculo</string>
+  <string name="Remove_Contact" platform="android, iOS, Desktop">Eliminar contacto</string>
+  <string name="remove_contact_hint" platform="iOS">¿Eliminar amigo? El historial de chat permanecerá en tu dispositivo</string>
+  <string name="Remove_emergency_contact" platform="android, iOS">Eliminar contacto de emergencia</string>
+  <string name="Remove_emergency_contact_confirmation" platform="android, iOS">¿Eliminar contacto de emergencia?</string>
+  <string name="Remove_emergency_contact_for_sure" platform="iOS">¿Eliminar contacto de emergencia seguro?</string>
+  <string name="Remove_from_Group" platform="iOS">Eliminar del grupo</string>
+  <string name="Remove_Participants" platform="android">Eliminar participantes</string>
+  <string name="Remove_Stickers" platform="android, iOS, Desktop">Eliminar pegatinas</string>
+  <string name="Removing" platform="android">Eliminando…</string>
+  <string name="Reply" platform="android, iOS, Desktop">Responder</string>
+  <string name="Report" platform="android, iOS, Desktop">Informe</string>
+  <string name="Report_and_block" platform="android, iOS, Desktop">¿Denunciar y bloquear?</string>
+  <string name="report_title" platform="iOS">¿Enviar el registro de conversación a los desarrolladores?</string>
+  <string name="Represent_Messages" platform="android, iOS">Representar mensajes</string>
+  <string name="Requests_access_to_your" platform="android">Solicita acceso a tu</string>
+  <string name="Resend_code" platform="android, iOS, Desktop">Reenviar codigo</string>
+  <string name="Resend_code_in" platform="android, Desktop">Reenviar código en %1$d s</string>
+  <string name="resend_code_pending" platform="iOS">Reenviar código en %\@</string>
+  <string name="reset" platform="Desktop">Reiniciar</string>
+  <string name="Reset_Link" platform="android, iOS, Desktop">Restablecer enlace</string>
+  <string name="Reset_notifications" platform="android">Restablecer notificaciones</string>
+  <string name="RESTART" platform="android">REANUDAR</string>
+  <string name="Restore" platform="android, iOS">Restaurar</string>
+  <string name="restore_chat_hint" platform="iOS">Restaura tu&#13;\nhistorial de chat desde iCloud</string>
+  <string name="restore_choose_backup_folder" platform="android">No encontrado, elige la carpeta de copia de seguridad</string>
+  <string name="restore_in_progress" platform="android">Restauración en progreso</string>
+  <string name="restore_info" platform="android">Restaura tus mensajes desde el almacenamiento externo.\nSi no restauras nuevo, no podrás restaurar más tarde.</string>
+  <string name="restore_message" platform="android">Haz una copia de seguridad de tus mensajes y medios en un almacenamiento externo. Puedes restaurarlos cuando reinstales Mixin. Tus mensajes y medios también se respaldarán en el almacenamiento interno de tu teléfono. Los medios y mensajes de tu copia de seguridad no están protegidos por el cifrado de extremo a extremo de Mixin mientras se encuentran en almacenamiento externo.</string>
+  <string name="restore_not_found" platform="android">No se encuentra, copia el archivo de copia de seguridad en %1$s</string>
+  <string name="restore_path" platform="android">Ruta: %1$s</string>
+  <string name="Restoring" platform="android, iOS">Restaurando...</string>
+  <string name="Restoring_progress" platform="iOS">Restaurando %\@</string>
+  <string name="Retry" platform="android,iOS">Reintentar</string>
+  <string name="Retry_upload_failed" platform="android, Desktop">Reintentar carga fallida.</string>
+  <string name="Revoke_access" platform="android, iOS">Revocar el acceso</string>
+  <string name="Revoke_multisig_transaction" platform="android, iOS, Desktop">Revocar transacción multigrado</string>
+  <string name="Room_is_full" platform="iOS">El cuarto está lleno</string>
+  <string name="Saturday" platform="android">Sábado</string>
+  <string name="Save" platform="android, iOS, Desktop">Guardar</string>
+  <string name="save_as" platform="Desktop">Guardar como</string>
+  <string name="Save_by_PIN" platform="iOS">Guardar por PIN</string>
+  <string name="Save_failure" platform="android">Guardar error</string>
+  <string name="Save_image" platform="android, iOS">Guardar imagen</string>
+  <string name="Save_success" platform="android">Guardar éxito</string>
+  <string name="Save_to" platform="android">Guardar en %1$s</string>
+  <string name="Save_to_Camera_Roll" platform="iOS, Desktop">Guarda en el Rollo de la cámara</string>
+  <string name="Save_to_Downloads" platform="android">Guardar en Descargas</string>
+  <string name="Save_to_Gallery" platform="android">Guardar en la Galería</string>
+  <string name="Save_to_Music" platform="android">Guardar en Música</string>
+  <string name="Saved" platform="iOS">Guardado</string>
+  <string name="Saving" platform="android">Guardando...</string>
+  <string name="Say_Hi" platform="android, iOS, Desktop">Di hola</string>
+  <string name="scam_warning" platform="android, iOS, Desktop">Advertencia: Muchos usuarios han reportado esta cuenta como una estafa. Ten cuidado, especialmente si te pide dinero.</string>
+  <string name="Scan" platform="android">Escanear</string>
+  <string name="scan_code_add_me" platform="android, iOS">Escanea el código QR para añadirme en Mixin</string>
+  <string name="Scan_QR" platform="android">Escanear QR</string>
+  <string name="Scan_QR_Code" platform="android, iOS">Escanear código QR</string>
+  <string name="Screen_Lock" platform="android, iOS">Bloqueo de pantalla</string>
+  <string name="screen_lock_enable_biometric_hint" platform="iOS">Necesitarás usar %\@ para desbloquear Mixin. Todavía puedes responder mensajes de notificaciones y responder llamadas si Mixin está bloqueado.</string>
+  <string name="screen_lock_unlock" platform="iOS">Usa %\@ para desbloquear Mixin</string>
+  <string name="Search" platform="android, iOS, Desktop">Buscar</string>
+  <string name="search_contact" platform="Desktop">Buscar contacto</string>
+  <string name="Search_contacts" platform="iOS">Buscar contactos</string>
+  <string name="Search_Conversation" platform="android, iOS, Desktop">Buscar conversación</string>
+  <string name="search_empty" platform="Desktop">No se han encontrado chats, contactos o mensajes.</string>
+  <string name="Search_GIPHY" platform="android, iOS">Buscar GIPHY</string>
+  <string name="search_hint" platform="android">activos, contactos y mensajes</string>
+  <string name="SEARCH_MESSAGES" platform="android">BUSCAR MENSAJES</string>
+  <string name="search_open_link" platform="iOS">Abrir enlace: </string>
+  <string name="search_placeholder_asset" platform="android, iOS">Nombre, Símbolo</string>
+  <string name="search_placeholder_contact" platform="iOS">Mixin ID, nombre, número de teléfono</string>
+  <string name="search_placeholder_number" platform="android, iOS, Desktop">Buscar Mixin ID o número de teléfono: </string>
+  <string name="search_related_message" platform="android, iOS, Desktop">%1$d mensaje relacionado</string>
+  <string name="search_related_message.count" platform="android, iOS, Desktop">%1$d mensajes relacionados</string>
+  <string name="search_result_prefix_phone" platform="iOS">Número de teléfono: </string>
+  <string name="Searching" platform="android">Buscando</string>
+  <string name="Secured_by_TIP" platform="android,iOS">Protegido por TIP</string>
+  <string name="secret_url" platform="android, Desktop">https://mixin.one/pages/1000007</string>
+  <string name="Security" platform="android, iOS">Seguridad</string>
+  <string name="Select" platform="android, iOS, Desktop">Seleccionar</string>
+  <string name="Select_a_country_or_region" platform="iOS">Seleccionar un país o región</string>
+  <string name="Select_Emergency_Contact" platform="android, iOS">Seleccionar contacto de emergencia</string>
+  <string name="Select_More_Photos" platform="iOS">Seleccionar más fotos</string>
+  <string name="selected_count" platform="iOS">%\@ Seleccionado</string>
+  <string name="selected_Item" platform="iOS">1 artículo seleccionado</string>
+  <string name="selected_Item.count" platform="iOS">%1$d elementos seleccionados</string>
+  <string name="selected_photo" platform="iOS">1 foto seleccionada</string>
+  <string name="selected_photo.count" platform="iOS">%1$d fotos seleccionadas</string>
+  <string name="selected_video" platform="iOS">1 vídeo seleccionado</string>
+  <string name="selected_video.count" platform="iOS">%1$d vídeos seleccionados</string>
+  <string name="Send" platform="android, iOS, Desktop">Enviar</string>
+  <string name="send_archived" platform="Desktop">Todos los archivos archivados en un archivo zip</string>
+  <string name="Send_as_file" platform="android">Enviar como archivo</string>
+  <string name="Send_as_File" platform="iOS">Enviar como Archivo</string>
+  <string name="Send_as_Files" platform="iOS">Enviar como archivos</string>
+  <string name="send_file_group" platform="android">¿Enviar %1$s a %2$s?</string>
+  <string name="send_item" platform="iOS">Enviar 1 artículo</string>
+  <string name="send_item.count" platform="iOS">Enviar %1$d elementos</string>
+  <string name="Send_Message" platform="android, iOS">Enviar mensaje</string>
+  <string name="send_photo" platform="iOS">Enviar 1 foto</string>
+  <string name="send_photo.count" platform="iOS">Enviar %1$d fotos</string>
+  <string name="send_quickly" platform="Desktop">Enviar rápidamente</string>
+  <string name="Send_This_Location" platform="android, iOS">Enviar esta ubicación</string>
+  <string name="send_to" platform="android, iOS">Enviar a %1$s</string>
+  <string name="Send_to_contact" platform="android">Enviar a contacto</string>
+  <string name="Send_to_Developer" platform="iOS">Enviar al Desarrollador</string>
+  <string name="Send_To_Title" platform="iOS">Enviar a</string>
+  <string name="Send_transfer" platform="android">Enviar</string>
+  <string name="Send_verification_code_frequent" platform="iOS">Envíe el código de verificación con demasiada frecuencia, vuelve a intentarlo más tarde.</string>
+  <string name="send_video" platform="iOS">Enviar 1 vídeo</string>
+  <string name="send_video.count" platform="iOS">Enviar %1$d vídeos</string>
+  <string name="send_without_compression" platform="android, Desktop">Enviar sin compresión</string>
+  <string name="Send_Without_Sound" platform="android, iOS, Desktop">Enviar sin sonido</string>
+  <string name="Send_your_Current_Location" platform="android, iOS">Envía tu ubicación actual</string>
+  <string name="send.count" platform="iOS">Enviar(%1$d)</string>
+  <string name="Senders" platform="android, iOS">Remitentes</string>
+  <string name="Set" platform="android, iOS, Desktop">Establecer</string>
+  <string name="Set_emergency_create_successfully" platform="android,iOS">Se ha establecido el contacto de emergencia con éxito</string>
+  <string name="set_disappearing_message_time_to" platform="android, iOS, Desktop">%1$s ha establecido el tiempo de desaparición del mensaje a %2$s</string>
+  <string name="Set_new_PIN" platform="android, iOS">Establecer un nuevo PIN</string>
+  <string name="Set_or_update_PIN_failed" platform="android,iOS">Error al establecer o actualizar el PIN</string>
+  <string name="Set_PIN" platform="android">Establecer PIN</string>
+  <string name="Set_PIN_successfully" platform="android, iOS">Se ha establecido el PIN con éxito</string>
+  <string name="setting_appearance_language_alert_description" platform="iOS">Puedes elegir un idioma preferido en la configuración</string>
+  <string name="setting_auth_access" platform="android, iOS">Aprobado: %1$s, último acceso: %2$s</string>
+  <string name="setting_auth_search_hint" platform="android, iOS, Desktop">ID de Mixin, nombre</string>
+  <string name="setting_backup_tips" platform="iOS, Desktop">Haz una copia de seguridad de tu historial de chat en iCloud. si pierdes tu iPhone o cambias a uno nuevo, puedes restaurar tu historial de chat cuando reinstales Mixin Messenger. Los mensajes de los que realizas una copia de seguridad no están protegidos por el cifrado de extremo a extremo de Mixin Messenger mientras estás en iCloud.</string>
+  <string name="setting_battery_optimize_title" platform="android">Esto mejorará la confiabilidad de las notificaciones entrantes y las llamadas de Mixin.</string>
+  <string name="setting_battery_optimize_title_one_ui_above_s" platform="android">Esto mejorará la confiabilidad de las notificaciones entrantes y las llamadas de Mixin. Selecciona **Optimizado** o **Sin restricciones** en Configuración &gt; Batería.</string>
+  <string name="setting_battery_optimize_title_one_ui_below_s" platform="android">Esto mejorará la confiabilidad de las notificaciones entrantes y las llamadas de Mixin. Pulsa Configuración -&gt; Batería y activa **Permitir actividad en segundo plano**.</string>
+  <string name="setting_biometric_error_hardware_unavailable" platform="android">Hardware no disponible, inténtalo de nuevo más tarde</string>
+  <string name="setting_biometric_error_none_enrolled" platform="android">No se registra ninguna credencial biométrica o de dispositivo</string>
+  <string name="setting_biometric_error_not_secure" platform="android">La clave NO reside dentro del hardware seguro (TEE)</string>
+  <string name="setting_biometric_error_pin_not_set" platform="android">El PIN, el patrón o la contraseña NO están configurados o una tarjeta SIM está desbloqueada</string>
+  <string name="setting_biometric_error_rooted" platform="android">El dispositivo ha sido rooteado</string>
+  <string name="setting_conversation_group_tip" platform="android, iOS">Quién me puede añadir a los grupos</string>
+  <string name="setting_conversation_tip" platform="android, iOS">Quién me puede enviar un mensaje</string>
+  <string name="setting_data_mobile" platform="android">Al usar datos móviles</string>
+  <string name="setting_data_title" platform="android">Descarga automática de medios</string>
+  <string name="setting_data_wifi" platform="android">Cuando está conectado en Wi-Fi</string>
+  <string name="setting_delete_account_content_2" platform="android">Los mensajes locales y las copias de seguridad no se eliminarán automáticamente</string>
+  <string name="setting_delete_account_pin_content" platform="android, iOS, Desktop">Si continúas, tu perfil y los detalles de tu cuenta se eliminarán el %1$s. le nuestro documento para **aprender más**.</string>
+  <string name="setting_delete_account_send" platform="android, iOS">Enviaremos un código de 4 dígitos a %1$s</string>
+  <string name="setting_delete_account_tip" platform="android, iOS">Tu cartera Mixin todavía tiene algunos activos que se pueden retirar a otras carteras o intercambios. Una vez que se cancele la cuenta, estos activos serán abandonados junto con la cartera y no podrán recuperarse.</string>
+  <string name="setting_delete_account_url" platform="android, Desktop">https://mixinmessenger.zendesk.com/hc/articles/4414170627988</string>
+  <string name="setting_desktop_confirm" platform="android, iOS">Confirmar inicio de sesión en Mixin Messenger Desktop</string>
+  <string name="setting_desktop_logout_failed" platform="android">El cierre de sesión del escritorio ha fallado.</string>
+  <string name="setting_duplicate_transfer_desc" platform="android, iOS">Muestra un cuadro de diálogo de confirmación cuando transfieres la misma cantidad a la misma persona dentro de las 6 horas.</string>
+  <string name="setting_emergency_change_mobile" platform="android, iOS">¿Quieres cambiar tu número de móvil ahora?</string>
+  <string name="setting_emergency_content" platform="android, iOS">El contacto de emergencia está diseñado para ayudarte a iniciar sesión en tu cuenta si se pierde y no puede recuperar tu número de teléfono móvil.</string>
+  <string name="setting_emergency_create_success" platform="android">Crear contacto de emergencia con éxito</string>
+  <string name="setting_emergency_desc" platform="android, iOS">Cuando haya perdido tu número de teléfono móvil, comunícate con tu contacto de emergencia por teléfono u otros medios para obtener la ID de Mixin y el código de verificación. Lea nuestro contacto de emergencia para **aprender más**.</string>
+  <string name="setting_emergency_pin_tip" platform="android, iOS">Tu contacto de emergencia está protegido por PIN</string>
+  <string name="setting_emergency_send_code" platform="android, iOS">Introduce el código de 4 dígitos enviado a ID de Mixin: %1$s</string>
+  <string name="setting_emergency_set" platform="android">Establecer contacto de emergencia</string>
+  <string name="setting_emergency_set_message" platform="android, iOS">¿Quieres confirmar para configurar el ID de Mixin %1$s como tu contacto de emergencia? Ten en cuenta que la otra parte debe añadirte como contacto para configurarlo correctamente.</string>
+  <string name="setting_emergency_warning" platform="android, iOS">Atención: el contacto de emergencia no puede ayudarte a recuperar el PIN</string>
+  <string name="setting_enable_biometric_pay" platform="android">¿Habilitar pago biométrico?</string>
+  <string name="setting_incognito_prompt" platform="android">Deshabilitar el aprendizaje personalizado del teclado</string>
+  <string name="setting_mobile_contact_warning" platform="android, iOS">Esto eliminará tus contactos de los servidores de Mixin.</string>
+  <string name="setting_notification_transfer_summary" platform="android, iOS">Mostrar notificaciones al recibir una transferencia mayor o igual a %1$s.</string>
+  <string name="setting_privacy_tip" platform="android, iOS">Cambia quién puede añadirte a conversaciones y grupos.</string>
+  <string name="setting_revoke_confirmation" platform="android, iOS">¿Revocar el acceso %1$s?</string>
+  <string name="setting_storage_clear" platform="android, iOS">¿Borrar %1$d mensaje (%2$s)?</string>
+  <string name="setting_storage_clear.count" platform="android, iOS">¿Borrar %1$d mensajes (%2$s)?</string>
+  <string name="setting_stranger_transfer_desc" platform="android">Muestra el diálogo de confirmación cuando te transfieres a un extraño</string>
+  <string name="setting_transfer_large_summary" platform="android, iOS">Mostrar cuadro de diálogo de confirmación cuando la transferencia sea mayor o igual a %1$s.</string>
+  <string name="setting_transfer_large_summary_greater" platform="android, iOS">Mostrar cuadro de diálogo de confirmación cuando la transferencia supere %1$s.</string>
+  <string name="Settings" platform="android, iOS">Ajustes</string>
+  <string name="Share" platform="android, iOS, Desktop">Compartir</string>
+  <string name="share_apps" platform="Desktop">Aplicaciones compartidas</string>
+  <string name="Share_Contact" platform="android, iOS">Compartir contacto</string>
+  <string name="share_contact" platform="Desktop">Compartir contacto</string>
+  <string name="Share_error" platform="android, Desktop">Compartir error.</string>
+  <string name="Share_Link" platform="android, iOS, Desktop">Compartir enlace</string>
+  <string name="Share_Log_File" platform="iOS">Compartir archivo de registro</string>
+  <string name="share_message_description" platform="android, iOS, Desktop">¿Estás seguro de que quieres enviar un %2$s desde %1$s?</string>
+  <string name="share_message_description_empty" platform="android, iOS, Desktop">¿Estás seguro de que quieres enviar el %1$s?</string>
+  <string name="Share_QR_Code" platform="android">Compartir código QR</string>
+  <string name="share_to" platform="android">Comparte %1$s para…</string>
+  <string name="Share_To" platform="iOS">Compartir a</string>
+  <string name="Shared_Media" platform="android, iOS, Desktop">Medios compartidos</string>
+  <string name="Shopping" platform="iOS">Compras</string>
+  <string name="Show" platform="android, iOS, Desktop">Espectáculo</string>
+  <string name="Show_asset" platform="iOS">Mostrar activo</string>
+  <string name="show_avatar" platform="Desktop">Mostrar avatar</string>
+  <string name="Show_in_chat" platform="android, iOS">Mostrar en el chat</string>
+  <string name="show_mixin" platform="Desktop">Mostrar Mixin</string>
+  <string name="Shown" platform="android">Mostrado</string>
+  <string name="Sign_in" platform="android, iOS, Desktop">Iniciar sesión</string>
+  <string name="Sign_in_desktop_app" platform="android">Iniciar sesión en la aplicación de escritorio</string>
+  <string name="sign_out" platform="DesktoP">Cerrar sesión</string>
+  <string name="Sign_with_emergency_contact" platform="android, iOS">Iniciar sesión con contacto de emergencia</string>
+  <string name="Sign_with_phone_number" platform="android, iOS, Desktop">Iniciar sesión con número de teléfono</string>
+  <string name="sign_with_qrcode" platform="Desktop">Iniciar sesión con código QR</string>
+  <string name="Silence_Notification" platform="android">Notificación de silencio</string>
+  <string name="Size" platform="android">Tamaño</string>
+  <string name="Skip" platform="android, iOS">Saltar</string>
+  <string name="Slide_to_cancel" platform="android, iOS">Deslizar para cancelar</string>
+  <string name="smileys_and_people" platform="Desktop">Emoticonos y personas</string>
+  <string name="Snapshot_not_found" platform="iOS">Instantánea no encontrada.</string>
+  <string name="Social" platform="iOS">Social</string>
+  <string name="Sort" platform="android">Clasificar</string>
+  <string name="Sort_by" platform="android, iOS">Ordenar por</string>
+  <string name="Start" platform="android,iOS">Comenzar</string>
+  <string name="Start_Messaging" platform="android, iOS">Empezar a enviar mensajes</string>
+  <string name="started_group_call" platform="iOS">%\@ ha iniciado una llamada de grupo</string>
+  <string name="Status" platform="android, iOS, Desktop">Estado</string>
+  <string name="Sticker" platform="android, iOS, Desktop">Pegatina</string>
+  <string name="sticker_add_invalid_size" platform="android">Requiere un tamaño de archivo de pegatinas de más de 1 KB y menos de 1 MB, ancho y alto entre 128 px y 1024 px.</string>
+  <string name="sticker_add_requirements" platform="iOS">Requiere un tamaño de archivo de pegatinas superior a %\@KB e inferior a %\@KB, ancho y alto entre %\@ y %\@ píxeles.</string>
+  <string name="sticker_album_detail" platform="Desktop">Detalle del álbum de cromos</string>
+  <string name="Sticker_Store" platform="android, iOS, Desktop">Tienda de pegatinas</string>
+  <string name="stickers_count" platform="android, iOS">%d pegatinas</string>
+  <string name="Stop_Playing" platform="android, iOS">Dejar de reproducir</string>
+  <string name="Stop_playing_this_list" platform="android, iOS">¿Dejar de reproducir esta lista?</string>
+  <string name="storage_auto_download_description" platform="Desktop">Cambia la configuración de descarga automática para medios.</string>
+  <string name="storage_low_message" platform="android">Tu teléfono tiene poco espacio de almacenamiento, lo que puede afectar seriamente tu experiencia Mixin e incluso puede resultar en chats dañados o perdidos y otros datos importantes. Por lo tanto, se recomienda desinstalar aplicaciones no utilizadas para liberar suficiente espacio</string>
+  <string name="storage_low_title" platform="android">Tu teléfono tiene poco almacenamiento</string>
+  <string name="Storage_Usage" platform="android, iOS, Desktop">Uso de almacenamiento</string>
+  <string name="stranger_hint" platform="android, iOS, Desktop">Este remitente no está en tus contactos</string>
+  <string name="Stranger_Transfer_Confirmation" platform="android">Confirmación de transferencia de extraños</string>
+  <string name="strangers" platform="Desktop">Extraños</string>
+  <string name="strikethrough" platform="android">tachado</string>
+  <string name="Successful" platform="android, Desktop, iOS">Exitoso</string>
+  <string name="Sunday" platform="android">Domingo</string>
+  <string name="Suspicious_Link" platform="android, iOS">Enlace sospechoso</string>
+  <string name="Switching_currency" platform="android">Cambio de moneda</string>
+  <string name="Symbol" platform="android, iOS">Símbolo</string>
+  <string name="symbol_withdrawal" platform="android, iOS">Retiro de %1$s</string>
+  <string name="symbols" platform="Desktop">Simbolos</string>
+  <string name="Syncing_and_verifying_TIP" platform="android,iOS">Mantén la aplicación en primer plano mientras verificas y sincronizas las claves fragmentadas con la red TIP; no fuerces el cierre de la aplicación durante el proceso de configuración.</string>
+  <string name="Syncing_messages" platform="android">Sincronizando mensajes</string>
+  <string name="Syncing_progress" platform="iOS">Sincronizando %d%%</string>
+  <string name="syncs_contact_hint" platform="android, iOS">Mixin sincroniza tu libreta de direcciones con los servidores de Mixin para ayudarte a conectarse con otros usuarios de Mixin.</string>
+  <string name="System_options" platform="android">Opciones del sistema</string>
+  <string name="System_time_is_unusual" platform="iOS">La hora del sistema es inusual</string>
+  <string name="System_version" platform="android">Versión del sistema</string>
+  <string name="Tag" platform="android, iOS">Etiqueta</string>
+  <string name="Tap_to_join" platform="android, iOS">Toca para unirte</string>
+  <string name="Terms_of_Service" platform="android, iOS, Desktop">Términos de servicio</string>
+  <string name="Text" platform="android, Desktop">Texto</string>
+  <string name="text" platform="iOS">texto</string>
+  <string name="text_confirm_send_code" platform="iOS">Confirma el número de teléfono %\@</string>
+  <string name="TEXT_QR_CODE" platform="android, iOS">CÓDIGO QR DE TEXTO</string>
+  <string name="The_code_is_incorrect" platform="android, iOS">El código es incorrecto.</string>
+  <string name="Theme" platform="android, Desktop">Tema</string>
+  <string name="third_pin_confirm_hint" platform="android, iOS">Es raro ver una tercera confirmación en otro lugar, así que recuerda que el PIN es irrecuperable si se pierde.</string>
+  <string name="This_message_was_deleted" platform="android, iOS, Desktop">Este mensaje ha sido eliminado</string>
+  <string name="Thursday" platform="android">Jueves</string>
+  <string name="Time" platform="android, iOS, Desktop">Tiempo</string>
+  <string name="tip_create_pin_title" platform="android, iOS">Establece un PIN de 6 dígitos para crear tu primera cartera digital</string>
+  <string name="TIP_creation_introduction" platform="android,iOS">Establece un PIN de cartera de 6 dígitos para crear tu primera cartera digital, el PIN se basa en el Protocolo de identidad limitado, que es el protocolo de derivación de clave descentralizado, lee el documento para **obtener más información**.</string>
+  <string name="TIP_introduction" platform="android,iOS">El PIN de 6 dígitos se basa en el Throttled Identity Protocol, que es el protocolo de derivación de claves descentralizado, lee el documento para **obtener más información**.</string>
+  <string name="title_participants" platform="android, iOS">%1$d Participante</string>
+  <string name="title_participants.count" platform="android, iOS">%1$d Participantes</string>
+  <string name="To" platform="android, iOS">A</string>
+  <string name="Today" platform="android, iOS, Desktop">Hoy</string>
+  <string name="toggle_chat_info" platform="Desktop">Alternar información de chat</string>
+  <string name="Tools" platform="iOS">Herramientas</string>
+  <string name="Touch_ID" platform="iOS">identifición de toque</string>
+  <string name="Touch_the_fingerprint_sensor" platform="android">Toca el sensor de huellas dactilares</string>
+  <string name="Trace" platform="android, Desktop">Rastro</string>
+  <string name="Track_not_found" platform="iOS">Pista no encontrada</string>
+  <string name="Trading" platform="iOS">Comercio</string>
+  <string name="Transaction" platform="android, iOS">Transacción</string>
+  <string name="transaction_Hash" platform="android, iOS, Desktop">Hash de transacción</string>
+  <string name="Transaction_Id" platform="android, iOS, Desktop">ID de transacción</string>
+  <string name="Transaction_Type" platform="android, iOS, Desktop">Tipo de transacción</string>
+  <string name="Transactions" platform="android, iOS, Desktop">Transacciones</string>
+  <string name="Transactions_CANNOT_be_deleted" platform="android, iOS, Desktop">Las transacciones NO se pueden eliminar</string>
+  <string name="Transcript" platform="android, iOS, Desktop">Transcripción</string>
+  <string name="Transfer" platform="android, iOS, Desktop">Transferir</string>
+  <string name="Transfer_Amount" platform="android">Importe de la transferencia</string>
+  <string name="Transfer_Amount_count_down" platform="android, iOS">Importe de la transferencia(%1$s)</string>
+  <string name="transfer_error_pin_incorrect_with_times" platform="iOS">ERROR 20119: PIN incorrecto. Todavía tienes %\@ oportunidades.</string>
+  <string name="transfer_memo" platform="android, iOS">Nota (opcional)</string>
+  <string name="Transfer_Notifications" platform="android, iOS">Transferir notificaciones</string>
+  <string name="transfer_qrcode_prompt" platform="android, iOS">Escanea el código QR para transferirme en Mixin</string>
+  <string name="transfer_to" platform="android, iOS">Transferir a %1$s</string>
+  <string name="Transfer_to_Mixin_address" platform="iOS">Transferir a la dirección de Mixin</string>
+  <string name="Transfer_to_user_or_bot" platform="iOS">Transferir a usuario o bot</string>
+  <string name="transfer_without_pin" platform="android">Debes configurar el PIN para la transferencia</string>
+  <string name="travel_and_places" platform="Desktop">Viajes y lugares</string>
+  <string name="Trending" platform="android, iOS">Tendencias</string>
+  <string name="Try_Again" platform="android, iOS">Intentar otra vez</string>
+  <string name="Trying_connect_tip_network" platform="android,iOS">Conexión de la red TIP</string>
+  <string name="Trying_connect_tip_node" platform="android,iOS">Intentando conectar el nodo TIP</string>
+  <string name="Tuesday" platform="android">Martes</string>
+  <string name="Turn_On_Notifications" platform="android, iOS, Desktop">Activar las notificaciones</string>
+  <string name="Type_message" platform="android, Desktop">Escribe el mensaje</string>
+  <string name="unable_to_open_file" platform="Desktop">No se puede abrir el archivo: %1$s</string>
+  <string name="Unable_to_save_photo" platform="iOS">No se puede guardar la foto.</string>
+  <string name="Unable_to_save_video" platform="iOS">No se puede guardar el video.</string>
+  <string name="Unable_to_share_content" platform="iOS">No se puede compartir este contenido</string>
+  <string name="Unauthorized" platform="iOS">No autorizado</string>
+  <string name="Unblock" platform="android, iOS, Desktop">Desbloquear</string>
+  <string name="UNDO" platform="android">DESHACER</string>
+  <string name="unit_day" platform="android, iOS, Desktop">día</string>
+  <string name="unit_day.count" platform="android, iOS, Desktop">días</string>
+  <string name="unit_hour" platform="android, iOS, Desktop">hora</string>
+  <string name="unit_hour.count" platform="android, iOS, Desktop">horas</string>
+  <string name="unit_minute" platform="android, iOS, Desktop">minuto</string>
+  <string name="unit_minute.count" platform="android, iOS, Desktop">minutos</string>
+  <string name="unit_second" platform="android, iOS, Desktop">segundo</string>
+  <string name="unit_second.count" platform="android, iOS, Desktop">segundos</string>
+  <string name="unit_week" platform="android, iOS, Desktop">semana</string>
+  <string name="unit_week.count" platform="android, iOS, Desktop">semanas</string>
+  <string name="Unknown" platform="android">Desconocido</string>
+  <string name="Unknown_artist" platform="iOS">Artista desconocido</string>
+  <string name="Unlock_with_fingerprint" platform="android">Desbloquear con huella digital</string>
+  <string name="unlock_with_fingerprint_desc" platform="android">Cuando esté habilitado, deberás usar la huella digital para abrir Mixin.</string>
+  <string name="Unmute" platform="android, iOS, Desktop">Desactivar silencio</string>
+  <string name="Unmuted" platform="iOS">Silencio desactivado</string>
+  <string name="Unnamed_location" platform="android, iOS">Ubicación sin nombre</string>
+  <string name="Unpin" platform="android, iOS, Desktop">Desanclar</string>
+  <string name="Unpin_All_Messages" platform="android, iOS, Desktop">Desanclar todos los mensajes</string>
+  <string name="unpin_all_messages_confirmation" platform="android, iOS, Desktop">¿Estás seguro de que quieres desanclar todos los mensajes?</string>
+  <string name="Unread_messages" platform="android, iOS, Desktop">Mensajes no leídos</string>
+  <string name="Unrecognized_codes" platform="iOS">Códigos no reconocidos</string>
+  <string name="Update" platform="android, iOS">Actualizar</string>
+  <string name="update_downloaded" platform="android">Se acaba de descargar una actualización.</string>
+  <string name="Update_Mixin" platform="android, iOS">Actualizar Mixin</string>
+  <string name="update_mixin_description" platform="android">¡La versión actual (%1$s) ya no está disponible!\nHaz clic en Actualizar a continuación para actualizar a la última versión de Google Play.</string>
+  <string name="Upgrade" platform="android,iOS">Mejora</string>
+  <string name="Upgrade_Database" platform="android, iOS">Actualizar base de datos</string>
+  <string name="Upgrade_need_verify_your_PIN" platform="android,iOS">La actualización requiere la verificación de tu PIN.</string>
+  <string name="Upgrade_TIP" platform="android,iOS">Actualizar TIP</string>
+  <string name="Upgrade_TIP_successfully" platform="android,iOS">Actualizar TIP con éxito</string>
+  <string name="Upgrading" platform="android, iOS">Actualizando</string>
+  <string name="Upgrading_TIP_terminated_unexpectedly" platform="android,iOS">La actualización de TIP ha finalizado inesperadamente, haz clic en Continuar para completar la actualización</string>
+  <string name="Upload_Mobile_Contacts" platform="android, iOS">Cargar contactos móviles</string>
+  <string name="Upload_timeout" platform="android">Tiempo de espera de carga</string>
+  <string name="Uploading" platform="iOS">Cargando...</string>
+  <string name="Uploading_progress" platform="iOS">Cargando: %\@ de %\@ (%\@)</string>
+  <string name="url_unrecognized_hint" platform="iOS">%\@ no se ha podido reconocer, actualiza Mixin a la última versión o comunícate con el desarrollador para verificar el enlace</string>
+  <string name="Use_Biometric_Multisig" platform="android">Usar multisig biométrico</string>
+  <string name="use_biometry" platform="iOS">Usar %\@</string>
+  <string name="Use_face_multisig" platform="iOS">Usar Face Multisig</string>
+  <string name="Use_face_pay" platform="iOS">Usar Face Pay</string>
+  <string name="Use_face_withdraw" platform="iOS">Usar Face Withdraw</string>
+  <string name="Use_touch_multisig" platform="iOS">Usar Touch Multisig</string>
+  <string name="Use_touch_pay" platform="iOS">Usar Touch Pay</string>
+  <string name="Use_touch_withdraw" platform="iOS">Usar Touch Withdraw</string>
+  <string name="User_is_reported" platform="iOS">El usuario ha sido reportado</string>
+  <string name="User_not_found" platform="android, iOS, Desktop">Usuario no encontrado</string>
+  <string name="Validation_timed_out" platform="iOS">Se ha agotado el tiempo de validación</string>
+  <string name="value_now" platform="android, iOS, Desktop">valor ahora %1$s</string>
+  <string name="value_then" platform="android, iOS, Desktop">valor entonces %1$s</string>
+  <string name="Verify" platform="android, iOS">Verificar</string>
+  <string name="Verify_by_Biometric" platform="android">Verificar por biométrico</string>
+  <string name="Verify_PIN" platform="android, iOS, Desktop">Verificar PIN</string>
+  <string name="Verifying" platform="android">Verificando…</string>
+  <string name="Version_Update" platform="android, iOS">Actualización de versión</string>
+  <string name="Video" platform="android, iOS, Desktop">Video</string>
+  <string name="Videos" platform="android, iOS, Desktop">Vídeos</string>
+  <string name="View" platform="android">Ver</string>
+  <string name="View_Authorization" platform="android, iOS">Ver autorización</string>
+  <string name="View_emergency_contact" platform="android, iOS">Ver contacto de emergencia</string>
+  <string name="View_Wallet" platform="android, iOS">Ver Cartera</string>
+  <string name="Voice_call" platform="android">Llamada de voz</string>
+  <string name="voice_call_cancelled" platform="iOS">llamada de voz cancelada</string>
+  <string name="Voice_call_has_been_declined" platform="iOS">La llamada de voz ha sido rechazada</string>
+  <string name="Waiting" platform="android, iOS">Esperando</string>
+  <string name="Waiting_for_this_message" platform="android, Desktop">Esperando este mensaje.</string>
+  <string name="Wallet" platform="android, iOS">Cartera</string>
+  <string name="wallet_add_asset_already_hidden" platform="android">Has ocultado los activos %1$s. ¿Quieres que se muestren inmediatamente en la página de inicio de la cartera?</string>
+  <string name="wallet_address_add_tip" platform="android">Mixin no admite la retirada a la</string>
+  <string name="wallet_already_hidden" platform="android">%1$s se ha ocultado</string>
+  <string name="wallet_already_shown" platform="android">%1$s se ha mostrado</string>
+  <string name="wallet_biometric_invalid" platform="android">Estado biométrico no válido, reinicie en la configuración de la cartera.</string>
+  <string name="wallet_biometric_screen_lock_desc" platform="android">Usa el patrón de tu dispositivo para continuar</string>
+  <string name="wallet_enable_biometric_pay" platform="iOS">Una vez habilitado, %\@ se puede utilizar para realizar transferencias rápidas.</string>
+  <string name="wallet_enable_biometric_pay_prompt" platform="android">Una vez habilitada, la biometría se puede utilizar para realizar transferencias rápidas</string>
+  <string name="wallet_hide_asset_confirmation" platform="iOS">¿Estás seguro de que deseas ocultar %\@?</string>
+  <string name="wallet_password_change_tip" platform="android">Introduce el PIN de 6 dígitos para verificar.</string>
+  <string name="wallet_password_not_equal" platform="android, iOS">El PIN no es el mismo las dos veces, inténtalo de nuevo.</string>
+  <string name="wallet_password_set_new_pin_desc" platform="android">Establece un nuevo PIN de 6 dígitos.</string>
+  <string name="wallet_password_unsafe" platform="android, iOS">El PIN es demasiado simple e inseguro.</string>
+  <string name="wallet_pin_modify_biometrics" platform="android">Introduce el PIN para modificar el intervalo de pago con PIN</string>
+  <string name="wallet_pin_open_biometrics" platform="android">Introduce el PIN para abrir Biometrics</string>
+  <string name="wallet_pin_pay_interval_tips" platform="android, iOS">Para la seguridad de tus activos, debes verificar tu PIN durante el intervalo especificado.</string>
+  <string name="wallet_pin_tops_desc" platform="android, iOS">Recuerda que el PIN es irrecuperable si se pierde. El PIN se basa en el Throttled Identity Protocol, que es el protocolo de derivación de claves descentralizado, lee el documento para **obtener más información**.</string>
+  <string name="wallet_refresh_address_failed" platform="android, iOS">La tarifa de retiro ha cambiado y la actualización falla, inténtalo de nuevo.</string>
+  <string name="wallet_setting_currency_desc" platform="android">%1$s (%2$s)</string>
+  <string name="wallet_transaction_continue_count_down" platform="android, iOS">Continuar (%1$d)</string>
+  <string name="wallet_transaction_that_time_value_tip" platform="android">valor histórico en el momento de la transacción</string>
+  <string name="wallet_transaction_tip" platform="android, iOS">¿Estás seguro de que quieres transferir %3$s por valor de %2$s a %1$s?</string>
+  <string name="wallet_transactions_asset_key_warning" platform="android, iOS">¡La clave de activo NO es una dirección de depósito!</string>
+  <string name="wallet_transfer_recent_tip" platform="android, iOS">Ya has transferido %3$s a %2$s hace %1$s. ¿Quieres transferirlo de nuevo?</string>
+  <string name="wallet_withdrawal_changed" platform="android, iOS">La tarifa de retiro se ha cambiado de %1$s a %2$s, ¿quieres continuar con la solicitud?</string>
+  <string name="wallet_withdrawal_not_in_addresses" platform="android, iOS">%1$s Esta dirección no está en la lista blanca de direcciones de retiro, verifíquela cuidadosamente.</string>
+  <string name="wallet_withdrawal_recent_tip" platform="android, iOS">Ya has retirado %3$s a %2$s hace %1$s, ¿quieres retirarlo de nuevo?</string>
+  <string name="web_cannot_reached_desc" platform="android, iOS">%1$s ha tardado demasiado en responder. Verifica tu red e intenta cambiar 4G, Wi-Fi o VPN para recargar la página.</string>
+  <string name="web_cannot_reached_title" platform="android, iOS">No se puede acceder a esta página web</string>
+  <string name="web_floating_permission" platform="android">No puedes flotar ya que Mixin no está autorizado para usar ventanas flotantes</string>
+  <string name="web_full" platform="android">Límite flotante alcanzado. Cierra algunos antes de añadir otros nuevos.</string>
+  <string name="web_suspicious_link_tips" platform="android, iOS">El enlace no está en los patrones de recursos correspondientes.</string>
+  <string name="website" platform="android">https://mixin.one/messenger</string>
+  <string name="webview_runtime_unavailable" platform="Desktop">El tiempo de ejecución de WebView no está disponible</string>
+  <string name="webview2_runtime_install_description" platform="Desktop">El dispositivo no ha instalado el componente WebView2 Runtime. Primero descarga e instale WebView2 Runtime.</string>
+  <string name="Wednesday" platform="android">Miércoles</string>
+  <string name="Weekly" platform="iOS">Semanalmente</string>
+  <string name="weeks" platform="iOS">semanas</string>
+  <string name="Welcome_to_Mixin" platform="android">Bienvenido a Mixin</string>
+  <string name="Whats_your_name" platform="android, iOS, Desktop">¿Cómo te llamas?</string>
+  <string name="When_roaming" platform="android">Con roaming</string>
+  <string name="WiFi" platform="iOS">Wi-Fi</string>
+  <string name="WiFi_and_cellular" platform="iOS">Wi-Fi y móvil</string>
+  <string name="window" platform="Desktop">Ventana</string>
+  <string name="withdraw_Address" platform="android, iOS">Dirección</string>
+  <string name="Withdraw_by_PIN" platform="iOS">Retirar por PIN</string>
+  <string name="Withdrawal" platform="android, iOS, Desktop">Retirar</string>
+  <string name="withdrawal_addr_biometric_add" platform="android">Usar datos biométricos para guardar la dirección</string>
+  <string name="withdrawal_addr_biometric_delete" platform="android">Usar datos biométricos para eliminar la dirección</string>
+  <string name="withdrawal_addr_biometric_modify" platform="android">Usar datos biométricos para modificar la dirección</string>
+  <string name="withdrawal_addr_memo" platform="android, iOS">Etiqueta de destino o número de identificación o notas. De lo contrario, puedes configurarlo como Sin Nota.</string>
+  <string name="withdrawal_addr_new" platform="android, iOS">Nueva dirección de %1$s</string>
+  <string name="withdrawal_addr_no_memo" platform="android, iOS">Si debes completar la etiqueta de destino, el número de identificación o las notas, puedes añadir una nota.</string>
+  <string name="withdrawal_addr_no_tag" platform="android, iOS">Si debes completar la etiqueta de destino, el número de identificación o las notas, puedes añadir una etiqueta.</string>
+  <string name="withdrawal_addr_pin_add" platform="android">Introduce el PIN para guardar la dirección</string>
+  <string name="withdrawal_addr_pin_delete" platform="android">Introduce el PIN para eliminar la dirección</string>
+  <string name="withdrawal_addr_pin_modify" platform="android">Introduce el PIN para modificar la dirección</string>
+  <string name="withdrawal_addr_tag" platform="android, iOS">Etiqueta de destino o número de identificación o notas. Si no, puedes configurarlo establécelo como Sin etiqueta.</string>
+  <string name="withdrawal_address_tips" platform="android, iOS">Para el primer retiro a una nueva dirección, ¡prueba con cantidades pequeñas! Si retiras los activos a la dirección incorrecta, ¡no se recuperarán!</string>
+  <string name="withdrawal_label" platform="android, iOS">Etiqueta (por ejemplo, intercambios, carteras, etc.)</string>
+  <string name="withdrawal_memo" platform="android, iOS">Nota</string>
+  <string name="withdrawal_minimum_amount" platform="android, iOS">El importe mínimo de retiro es %1$s %2$s</string>
+  <string name="withdrawal_minimum_reserve" platform="android, iOS">Reserva mínima: </string>
+  <string name="withdrawal_minimum_withdrawal" platform="android, iOS">Retiro mínimo: </string>
+  <string name="withdrawal_network_fee" platform="android, iOS">Tarifa de red: </string>
+  <string name="withdrawal_no_memo" platform="android, iOS">Sin nota</string>
+  <string name="withdrawal_to" platform="android, iOS">Retirar a %1$s</string>
+  <string name="withdrawal_with_biometric" platform="android">Retiro con Biométrico</string>
+  <string name="withdrawal_with_PIN" platform="android">Retiro con PIN</string>
+  <string name="you" platform="android">tú</string>
+  <string name="You" platform="android, iOS, Desktop">Tú</string>
+  <string name="You_deleted_this_message" platform="android, iOS, Desktop">Has borrado este mensaje</string>
+  <string name="You_have_a_new_message" platform="iOS">Tienes un nuevo mensaje</string>
+  <string name="You_have_left_the_group" platform="android, iOS">Te has ido del grupo</string>
+  <string name="Your_emergency_contact_has_been_changed" platform="android,iOS">Tu contacto de emergencia se ha cambiado</string>
+  <string name="Your_phone_number_has_been_changed" platform="iOS">Tu número de teléfono se ha cambiado</string>
+  <string name="Your_PIN_has_been_changed" platform="iOS">Tu PIN se ha cambiado</string>
+  <string name="your_pin_has_been_created" platform="android, iOS">Tu PIN se ha creado</string>
+  <string name="zoom" platform="Desktop">Zoom</string>
+  <string name="search_unread" platform="Desktop">Buscar no leído</string>
+  <string name="clear_filter" platform="Desktop">Limpiar filtro</string>
+  <string name="error_upload_attachment_failed" platform="Desktop">No se ha podido cargar el archivo adjunto del mensaje</string>
+  <string name="login_by_qrcode_tips_1" platform="Desktop">Abre Mixin Messenger en tu teléfono.</string>
+  <string name="login_by_qrcode_tips_2" platform="Desktop">Escanea el código QR en la pantalla y confirma tu inicio de sesión.</string>
+  <string name="chat_text_size" platform="Desktop, iOS">Tamaño del texto del chat</string>
+  <string name="draft" platform="Desktop">Borrador</string>
+  <string name="Use_System_Text_Size" platform="iOS, android">Usar tamaño de texto del sistema</string>
+  <string name="system" platform="iOS">Sistema</string>
+</resources>
