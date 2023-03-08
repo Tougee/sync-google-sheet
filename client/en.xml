@@ -253,7 +253,7 @@
   <string name="chat_audio_discard_warning" platform="android">Are you sure you want to stop recording and discard your voice message ?</string>
   <string name="chat_audio_discard_warning_title" platform="android">Discard Voice message</string>
   <string name="chat_audio_warning" platform="android">You cannot play audio if your're already on play another audio.</string>
-  <string name="Chat_Background" platform="iOS">Chat Background</string>
+  <string name="Chat_Background" platform="android, iOS">Chat Background</string>
   <string name="Chat_Backup" platform="android, iOS, Desktop">Chat Backup</string>
   <string name="chat_bot_reception_title" platform="android, iOS, Desktop">Tap the button to interact with the bot</string>
   <string name="chat_call_duration" platform="android, iOS">Duration %1$s</string>

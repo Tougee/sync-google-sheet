@@ -217,7 +217,7 @@
   <string name="chat_audio_discard_warning" platform="android">録音終了し音声メッセージを破棄してよろしいですか？</string>
   <string name="chat_audio_discard_warning_title" platform="android">音声メッセージを破棄する</string>
   <string name="chat_audio_warning" platform="android">別の音声を再生している場合、音声を再生することはできません。</string>
-  <string name="Chat_Background" platform="iOS">チャットの背景</string>
+  <string name="Chat_Background" platform="android, iOS">チャットの背景</string>
   <string name="Chat_Backup" platform="android, iOS, Desktop">チャットのバックアップ</string>
   <string name="chat_bot_reception_title" platform="android, iOS, Desktop">ミニアプリを使用するためにボタンをタップしてください</string>
   <string name="chat_call_duration" platform="android, iOS">通話時間：%1$s</string>

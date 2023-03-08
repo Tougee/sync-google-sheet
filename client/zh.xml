@@ -251,7 +251,7 @@
   <string name="chat_audio_discard_warning" platform="android">你确定要停止并放弃录制的语音吗？</string>
   <string name="chat_audio_discard_warning_title" platform="android">放弃录制语音</string>
   <string name="chat_audio_warning" platform="android">无法在 Mixin 录音时播放语音</string>
-  <string name="Chat_Background" platform="iOS">聊天背景</string>
+  <string name="Chat_Background" platform="android, iOS">聊天背景</string>
   <string name="Chat_Backup" platform="android, iOS, Desktop">聊天记录备份</string>
   <string name="chat_bot_reception_title" platform="android, iOS, Desktop">点击按钮使用机器人</string>
   <string name="chat_call_duration" platform="android, iOS">通话时长 %1$s</string>

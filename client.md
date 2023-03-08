@@ -254,7 +254,7 @@
 | android | chat_audio_discard_warning | Are you sure you want to stop recording and discard your voice message ? | 你确定要停止并放弃录制的语音吗？ | 録音終了し音声メッセージを破棄してよろしいですか？ | Adakah anda pasti mahu berhenti merakam dan membuang mesej suara anda? | Yakin ingin berhenti merekam dan membuang pesan suara Anda? |
 | android | chat_audio_discard_warning_title | Discard Voice message | 放弃录制语音 | 音声メッセージを破棄する | Buang mesej Suara | Buang pesan Suara |
 | android | chat_audio_warning | You cannot play audio if your're already on play another audio. | 无法在 Mixin 录音时播放语音 | 別の音声を再生している場合、音声を再生することはできません。 | Anda tidak dapat memainkan audio jika sedang memainkan audio lain. | Anda tidak dapat memutar audio jika Anda sedang memutar audio lain. |
-| iOS | Chat_Background | Chat Background | 聊天背景 | チャットの背景 |     |     |
+| android, iOS | Chat_Background | Chat Background | 聊天背景 | チャットの背景 |     |     |
 | android, iOS, Desktop | Chat_Backup | Chat Backup | 聊天记录备份 | チャットのバックアップ |     |     |
 | android, iOS, Desktop | chat_bot_reception_title | Tap the button to interact with the bot | 点击按钮使用机器人 | ミニアプリを使用するためにボタンをタップしてください |     |     |
 | android, iOS | chat_call_duration | Duration %1$s | 通话时长 %1$s | 通話時間：%1$s | Tempoh: %1$s | Durasi: %1$s |
