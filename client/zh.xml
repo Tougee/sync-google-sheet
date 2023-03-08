@@ -163,7 +163,7 @@
   <string name="stay_in_mixin" platform="android, iOS">留在 Mixin</string>
   <string name="Back_To_Chat" platform="android, iOS">返回聊天</string>
   <string name="Back_Up_Now" platform="iOS">立即备份</string>
-  <string name="Background_Preview" platform="iOS">背景预览</string>
+  <string name="Background_Preview" platform="android, iOS">背景预览</string>
   <string name="Backing_Up" platform="android, iOS">正在备份...</string>
   <string name="Backup" platform="android">备份</string>
   <string name="backup" platform="Desktop">备份</string>

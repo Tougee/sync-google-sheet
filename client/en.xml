@@ -165,7 +165,7 @@
   <string name="stay_in_mixin" platform="android, iOS">Stay in Mixin</string>
   <string name="Back_To_Chat" platform="android, iOS">Back To Chat</string>
   <string name="Back_Up_Now" platform="iOS">Back Up Now</string>
-  <string name="Background_Preview" platform="iOS">Background Preview</string>
+  <string name="Background_Preview" platform="android, iOS">Background Preview</string>
   <string name="Backing_Up" platform="android, iOS">Backing Up...</string>
   <string name="Backup" platform="android">Backup</string>
   <string name="backup" platform="Desktop">Backup</string>

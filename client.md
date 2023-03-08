@@ -166,7 +166,7 @@
 | android, iOS | stay_in_mixin | Stay in Mixin | 留在 Mixin |     |     |     |
 | android, iOS | Back_To_Chat | Back To Chat | 返回聊天 | チャットに戻る | Kembali Ke Sembang | Kembali Ke Obrolan |
 | iOS | Back_Up_Now | Back Up Now | 立即备份 | 今すぐバックアップ |     |     |
-| iOS | Background_Preview | Background Preview | 背景预览 | 背景のプレビュー |     |     |
+| android, iOS | Background_Preview | Background Preview | 背景预览 | 背景のプレビュー |     |     |
 | android, iOS | Backing_Up | Backing Up... | 正在备份... | バックアップしています... |     |     |
 | android | Backup | Backup | 备份  | チャット履歴のバックアップ |     |     |
 | Desktop | backup | Backup | 备份  | チャット履歴のバックアップ |     |     |
