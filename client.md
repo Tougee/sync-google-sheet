@@ -1514,39 +1514,39 @@
 | Desktop | draft | Draft | 草稿  |     |     |     |
 | iOS, android | Use_System_Text_Size | Use System Text Size | 跟随系统字体大小 |     |     |     |
 | iOS | system | System | 跟随系统 |     |     |     |
-| iOS, android | request_rejected | Request Rejected |     |     |     |     |
-| iOS, android | request_rejected_reason_another_request_in_process | Another request is in process, please retry after current request is finished |     |     |     |     |
-| iOS, android | connection_failed | Connection Failed |     |     |     |     |
-| iOS, android | chain_not_supported | Chain not supported |     |     |     |     |
-| iOS, android | session_not_found | Session not found |     |     |     |     |
-| iOS, android | unable_to_decode_the_request | Unable to decode the request: %1$s |     |     |     |     |
-| iOS, android | method_not_supported | Method %1$s is not supported |     |     |     |     |
-| iOS, android | switch_network | Switch Network |     |     |     |     |
-| iOS, android | requests_switching_to_network | %1$s requests switching to %2$s |     |     |     |     |
-| iOS, android | switch_to_network | Switch to %1$s |     |     |     |     |
-| iOS, android | keep_network | Keep %1$s |     |     |     |     |
-| iOS, android | network_switched | Network Switched |     |     |     |     |
-| iOS, android | failed_to_switch_network | Failed to switch network: %1$s |     |     |     |     |
-| iOS, android | network | Network |     |     |     |     |
-| iOS, android | connect_wallet | Connect Wallet |     |     |     |     |
-| iOS, android | read_your_public_address | Read your public address |     |     |     |     |
-| iOS, android | allow_dapp_access_public_address | Allow app to access your wallet balance and activity. |     |     |     |     |
-| iOS, android | request_permission | Request permission |     |     |     |     |
-| iOS, android | allow_dapp_request_permission | Allow dapp to ask for your permission to make a transaction. |     |     |     |     |
-| iOS, android | discard | Discard |     |     |     |     |
-| iOS, android | send_signed_message_confirmation | The message has been signed successfully, click the button below to send or discard the signed message |     |     |     |     |
-| iOS, android | signature_request | Signature Request |     |     |     |     |
-| iOS, android | transaction_request | Transaction Request |     |     |     |     |
-| iOS, android | calculating | Calculating… |     |     |     |     |
-| iOS, android | transaction_failed | Transaction Failed |     |     |     |     |
-| iOS, android | network_fee | Network Fee |     |     |     |     |
-| iOS, android | signature_request_warning | We cannot verify this signature request. Make sure you trust this app before signing this request. |     |     |     |     |
-| iOS, android | sign_by_pin | Sign by PIN |     |     |     |     |
-| iOS, android | dapp_description | This dapp has connected to your wallet, it can view your wallet balance, activity and request approval for transactions. |     |     |     |     |
-| iOS, android | disconnected | Disconnected |     |     |     |     |
-| iOS, android | no_dapp | No dapp |     |     |     |     |
-| iOS, android | Dappconnected_dapps | Connected Dapps |     |     |     |     |
-| iOS, android | search_placeholder_dapp | Name, URL |     |     |     |     |
+| iOS, android | request_rejected | Request Rejected | 请求已拒绝 |     |     |     |
+| iOS, android | request_rejected_reason_another_request_in_process | Another request is in process, please retry after current request is finished | 正在处理另一请求，请完成当前请求后重试 |     |     |     |
+| iOS, android | connection_failed | Connection Failed | 连接失败 |     |     |     |
+| iOS, android | chain_not_supported | Chain not supported | 不支持此网络 |     |     |     |
+| iOS, android | session_not_found | Session not found | 没有对应的连接 |     |     |     |
+| iOS, android | unable_to_decode_the_request | Unable to decode the request: %1$s | 无法解析请求: %1$s |     |     |     |
+| iOS, android | method_not_supported | Method %1$s is not supported | 不支持此方法：%1$s |     |     |     |
+| iOS, android | switch_network | Switch Network | 切换网络 |     |     |     |
+| iOS, android | requests_switching_to_network | %1$s requests switching to %2$s | %1$s 请求切换到 %2$s |     |     |     |
+| iOS, android | switch_to_network | Switch to %1$s | 切换到 %1$s |     |     |     |
+| iOS, android | keep_network | Keep %1$s | 留在 %1$s |     |     |     |
+| iOS, android | network_switched | Network Switched | 已切换网络 |     |     |     |
+| iOS, android | failed_to_switch_network | Failed to switch network: %1$s | 切换网络失败: %1$s |     |     |     |
+| iOS, android | network | Network | 网络  |     |     |     |
+| iOS, android | connect_wallet | Connect Wallet | 连接钱包 |     |     |     |
+| iOS, android | read_your_public_address | Read your public address | 读取你的地址 |     |     |     |
+| iOS, android | allow_dapp_access_public_address | Allow app to access your wallet balance and activity. | 允许App访问你的钱包余额及活动。 |     |     |     |
+| iOS, android | request_permission | Request permission | 允许请求 |     |     |     |
+| iOS, android | allow_dapp_request_permission | Allow dapp to ask for your permission to make a transaction. | 允许Dapp向你发送请求，如转账请求等 |     |     |     |
+| iOS, android | discard | Discard | 丢弃  |     |     |     |
+| iOS, android | send_signed_message_confirmation | The message has been signed successfully, click the button below to send or discard the signed message | 此消息已被签名，点击下方按钮以发送或丢弃 |     |     |     |
+| iOS, android | signature_request | Signature Request | 请求签名 |     |     |     |
+| iOS, android | transaction_request | Transaction Request | 请求转账 |     |     |     |
+| iOS, android | calculating | Calculating… | 正在计算… |     |     |     |
+| iOS, android | transaction_failed | Transaction Failed | 转账失败 |     |     |     |
+| iOS, android | network_fee | Network Fee | 网络费用 |     |     |     |
+| iOS, android | signature_request_warning | We cannot verify this signature request. Make sure you trust this app before signing this request. | 我们无法验证此请求。签名前请确认你信任此App。 |     |     |     |
+| iOS, android | sign_by_pin | Sign by PIN | 使用PIN签名 |     |     |     |
+| iOS, android | dapp_description | This dapp has connected to your wallet, it can view your wallet balance, activity and request approval for transactions. | 此Dapp已经与你的钱包连接，并被授权查看你的钱包余额及活动，也可向你发出转账请求。 |     |     |     |
+| iOS, android | disconnected | Disconnected | 已断开 |     |     |     |
+| iOS, android | no_dapp | No dapp | 没有  |     |     |     |
+| iOS, android | Dappconnected_dapps | Connected Dapps | 已连接的Dapp |     |     |     |
+| iOS, android | search_placeholder_dapp | Name, URL | 名称, URL |     |     |     |
 | iOS, android |     |     |     |     |     |     |
 | AppStore |     | All messages, audios, photos and files are end-to-end encrypted |     |     |     |     |
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |

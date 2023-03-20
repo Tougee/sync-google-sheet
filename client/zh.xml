@@ -1490,4 +1490,37 @@
   <string name="draft" platform="Desktop">草稿</string>
   <string name="Use_System_Text_Size" platform="iOS, android">跟随系统字体大小</string>
   <string name="system" platform="iOS">跟随系统</string>
+  <string name="request_rejected" platform="iOS, android">请求已拒绝</string>
+  <string name="request_rejected_reason_another_request_in_process" platform="iOS, android">正在处理另一请求，请完成当前请求后重试</string>
+  <string name="connection_failed" platform="iOS, android">连接失败</string>
+  <string name="chain_not_supported" platform="iOS, android">不支持此网络</string>
+  <string name="session_not_found" platform="iOS, android">没有对应的连接</string>
+  <string name="unable_to_decode_the_request" platform="iOS, android">无法解析请求: %1$s</string>
+  <string name="method_not_supported" platform="iOS, android">不支持此方法：%1$s</string>
+  <string name="switch_network" platform="iOS, android">切换网络</string>
+  <string name="requests_switching_to_network" platform="iOS, android">%1$s 请求切换到 %2$s</string>
+  <string name="switch_to_network" platform="iOS, android">切换到 %1$s</string>
+  <string name="keep_network" platform="iOS, android">留在 %1$s</string>
+  <string name="network_switched" platform="iOS, android">已切换网络</string>
+  <string name="failed_to_switch_network" platform="iOS, android">切换网络失败: %1$s</string>
+  <string name="network" platform="iOS, android">网络</string>
+  <string name="connect_wallet" platform="iOS, android">连接钱包</string>
+  <string name="read_your_public_address" platform="iOS, android">读取你的地址</string>
+  <string name="allow_dapp_access_public_address" platform="iOS, android">允许App访问你的钱包余额及活动。</string>
+  <string name="request_permission" platform="iOS, android">允许请求</string>
+  <string name="allow_dapp_request_permission" platform="iOS, android">允许Dapp向你发送请求，如转账请求等</string>
+  <string name="discard" platform="iOS, android">丢弃</string>
+  <string name="send_signed_message_confirmation" platform="iOS, android">此消息已被签名，点击下方按钮以发送或丢弃</string>
+  <string name="signature_request" platform="iOS, android">请求签名</string>
+  <string name="transaction_request" platform="iOS, android">请求转账</string>
+  <string name="calculating" platform="iOS, android">正在计算…</string>
+  <string name="transaction_failed" platform="iOS, android">转账失败</string>
+  <string name="network_fee" platform="iOS, android">网络费用</string>
+  <string name="signature_request_warning" platform="iOS, android">我们无法验证此请求。签名前请确认你信任此App。</string>
+  <string name="sign_by_pin" platform="iOS, android">使用PIN签名</string>
+  <string name="dapp_description" platform="iOS, android">此Dapp已经与你的钱包连接，并被授权查看你的钱包余额及活动，也可向你发出转账请求。</string>
+  <string name="disconnected" platform="iOS, android">已断开</string>
+  <string name="no_dapp" platform="iOS, android">没有</string>
+  <string name="Dappconnected_dapps" platform="iOS, android">已连接的Dapp</string>
+  <string name="search_placeholder_dapp" platform="iOS, android">名称, URL</string>
 </resources>
