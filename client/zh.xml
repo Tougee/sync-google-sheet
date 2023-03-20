@@ -1496,7 +1496,7 @@
   <string name="chain_not_supported" platform="iOS, android">不支持此网络</string>
   <string name="session_not_found" platform="iOS, android">没有对应的连接</string>
   <string name="unable_to_decode_the_request" platform="iOS, android">无法解析请求: %1$s</string>
-  <string name="method_not_supported" platform="iOS, android">不支持此方法：%1$s</string>
+  <string name="method_not_supported" platform="iOS, android">不支持此方法: %1$s</string>
   <string name="switch_network" platform="iOS, android">切换网络</string>
   <string name="requests_switching_to_network" platform="iOS, android">%1$s 请求切换到 %2$s</string>
   <string name="switch_to_network" platform="iOS, android">切换到 %1$s</string>

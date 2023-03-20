@@ -1520,7 +1520,7 @@
 | iOS, android | chain_not_supported | Chain not supported | 不支持此网络 |     |     |     |
 | iOS, android | session_not_found | Session not found | 没有对应的连接 |     |     |     |
 | iOS, android | unable_to_decode_the_request | Unable to decode the request: %1$s | 无法解析请求: %1$s |     |     |     |
-| iOS, android | method_not_supported | Method %1$s is not supported | 不支持此方法：%1$s |     |     |     |
+| iOS, android | method_not_supported | Method %1$s is not supported | 不支持此方法: %1$s |     |     |     |
 | iOS, android | switch_network | Switch Network | 切换网络 |     |     |     |
 | iOS, android | requests_switching_to_network | %1$s requests switching to %2$s | %1$s 请求切换到 %2$s |     |     |     |
 | iOS, android | switch_to_network | Switch to %1$s | 切换到 %1$s |     |     |     |
