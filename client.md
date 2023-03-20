@@ -1527,26 +1527,26 @@
 | iOS, android | keep_network | Keep %1$s |     |     |     |     |
 | iOS, android | network_switched | Network Switched |     |     |     |     |
 | iOS, android | failed_to_switch_network | Failed to switch network: %1$s |     |     |     |     |
-| iOS, android | connect_wallet | Network |     |     |     |     |
-| iOS, android | read_your_public_address | Connect Wallet |     |     |     |     |
-| iOS, android | allow_dapp_access_public_address | Read your public address |     |     |     |     |
-| iOS, android | request_permission | Allow app to access your wallet balance and activity. |     |     |     |     |
-| iOS, android | allow_dapp_request_permission | Request permission |     |     |     |     |
-| iOS, android | send_signed_message_confirmation | Allow dapp to ask for your permission to make a transaction. |     |     |     |     |
-| iOS, android | signature_request | Discard |     |     |     |     |
-| iOS, android | transaction_request | The message has been signed successfully, click the button below to send or discard the signed message |     |     |     |     |
-| iOS, android | transaction_failed | Signature Request |     |     |     |     |
-| iOS, android | network_fee | Transaction Request |     |     |     |     |
-| iOS, android | signature_request_warning | Calculating… |     |     |     |     |
-| iOS, android | sign_by_pin | Transaction Failed |     |     |     |     |
-| iOS, android | dapp_description | Network Fee |     |     |     |     |
-| iOS, android | no_dapp | We cannot verify this signature request. Make sure you trust this app before signing this request. |     |     |     |     |
-| iOS, android | connected_dapps | Sign by PIN |     |     |     |     |
-| iOS, android | search_placeholder_dapp | This dapp has connected to your wallet, it can view your wallet balance, activity and request approval for transactions. |     |     |     |     |
-| iOS, android |     | Disconnected |     |     |     |     |
-| iOS, android |     | No dapp |     |     |     |     |
-| iOS, android |     | Connected Dapps |     |     |     |     |
-| iOS, android |     | Name, URL |     |     |     |     |
+| iOS, android | network | Network |     |     |     |     |
+| iOS, android | connect_wallet | Connect Wallet |     |     |     |     |
+| iOS, android | read_your_public_address | Read your public address |     |     |     |     |
+| iOS, android | allow_dapp_access_public_address | Allow app to access your wallet balance and activity. |     |     |     |     |
+| iOS, android | request_permission | Request permission |     |     |     |     |
+| iOS, android | allow_dapp_request_permission | Allow dapp to ask for your permission to make a transaction. |     |     |     |     |
+| iOS, android | discard | Discard |     |     |     |     |
+| iOS, android | send_signed_message_confirmation | The message has been signed successfully, click the button below to send or discard the signed message |     |     |     |     |
+| iOS, android | signature_request | Signature Request |     |     |     |     |
+| iOS, android | transaction_request | Transaction Request |     |     |     |     |
+| iOS, android | calculating | Calculating… |     |     |     |     |
+| iOS, android | transaction_failed | Transaction Failed |     |     |     |     |
+| iOS, android | network_fee | Network Fee |     |     |     |     |
+| iOS, android | signature_request_warning | We cannot verify this signature request. Make sure you trust this app before signing this request. |     |     |     |     |
+| iOS, android | sign_by_pin | Sign by PIN |     |     |     |     |
+| iOS, android | dapp_description | This dapp has connected to your wallet, it can view your wallet balance, activity and request approval for transactions. |     |     |     |     |
+| iOS, android | disconnected | Disconnected |     |     |     |     |
+| iOS, android | no_dapp | No dapp |     |     |     |     |
+| iOS, android | Dappconnected_dapps | Connected Dapps |     |     |     |     |
+| iOS, android | search_placeholder_dapp | Name, URL |     |     |     |     |
 | iOS, android |     |     |     |     |     |     |
 | AppStore |     | All messages, audios, photos and files are end-to-end encrypted |     |     |     |     |
 | AppStore |     | End-to-end encrypted group voice call with up to 16 people |     |     |     |     |

@@ -1526,26 +1526,26 @@
   <string name="keep_network" platform="iOS, android">Keep %1$s</string>
   <string name="network_switched" platform="iOS, android">Network Switched</string>
   <string name="failed_to_switch_network" platform="iOS, android">Failed to switch network: %1$s</string>
-  <string name="connect_wallet" platform="iOS, android">Network</string>
-  <string name="read_your_public_address" platform="iOS, android">Connect Wallet</string>
-  <string name="allow_dapp_access_public_address" platform="iOS, android">Read your public address</string>
-  <string name="request_permission" platform="iOS, android">Allow app to access your wallet balance and activity.</string>
-  <string name="allow_dapp_request_permission" platform="iOS, android">Request permission</string>
-  <string name="send_signed_message_confirmation" platform="iOS, android">Allow dapp to ask for your permission to make a transaction.</string>
-  <string name="signature_request" platform="iOS, android">Discard</string>
-  <string name="transaction_request" platform="iOS, android">The message has been signed successfully, click the button below to send or discard the signed message</string>
-  <string name="transaction_failed" platform="iOS, android">Signature Request</string>
-  <string name="network_fee" platform="iOS, android">Transaction Request</string>
-  <string name="signature_request_warning" platform="iOS, android">Calculating…</string>
-  <string name="sign_by_pin" platform="iOS, android">Transaction Failed</string>
-  <string name="dapp_description" platform="iOS, android">Network Fee</string>
-  <string name="no_dapp" platform="iOS, android">We cannot verify this signature request. Make sure you trust this app before signing this request.</string>
-  <string name="connected_dapps" platform="iOS, android">Sign by PIN</string>
-  <string name="search_placeholder_dapp" platform="iOS, android">This dapp has connected to your wallet, it can view your wallet balance, activity and request approval for transactions.</string>
-  <string name="" platform="iOS, android">Disconnected</string>
-  <string name="" platform="iOS, android">No dapp</string>
-  <string name="" platform="iOS, android">Connected Dapps</string>
-  <string name="" platform="iOS, android">Name, URL</string>
+  <string name="network" platform="iOS, android">Network</string>
+  <string name="connect_wallet" platform="iOS, android">Connect Wallet</string>
+  <string name="read_your_public_address" platform="iOS, android">Read your public address</string>
+  <string name="allow_dapp_access_public_address" platform="iOS, android">Allow app to access your wallet balance and activity.</string>
+  <string name="request_permission" platform="iOS, android">Request permission</string>
+  <string name="allow_dapp_request_permission" platform="iOS, android">Allow dapp to ask for your permission to make a transaction.</string>
+  <string name="discard" platform="iOS, android">Discard</string>
+  <string name="send_signed_message_confirmation" platform="iOS, android">The message has been signed successfully, click the button below to send or discard the signed message</string>
+  <string name="signature_request" platform="iOS, android">Signature Request</string>
+  <string name="transaction_request" platform="iOS, android">Transaction Request</string>
+  <string name="calculating" platform="iOS, android">Calculating…</string>
+  <string name="transaction_failed" platform="iOS, android">Transaction Failed</string>
+  <string name="network_fee" platform="iOS, android">Network Fee</string>
+  <string name="signature_request_warning" platform="iOS, android">We cannot verify this signature request. Make sure you trust this app before signing this request.</string>
+  <string name="sign_by_pin" platform="iOS, android">Sign by PIN</string>
+  <string name="dapp_description" platform="iOS, android">This dapp has connected to your wallet, it can view your wallet balance, activity and request approval for transactions.</string>
+  <string name="disconnected" platform="iOS, android">Disconnected</string>
+  <string name="no_dapp" platform="iOS, android">No dapp</string>
+  <string name="Dappconnected_dapps" platform="iOS, android">Connected Dapps</string>
+  <string name="search_placeholder_dapp" platform="iOS, android">Name, URL</string>
   <string name="" platform="AppStore">All messages, audios, photos and files are end-to-end encrypted</string>
   <string name="" platform="AppStore">End-to-end encrypted group voice call with up to 16 people</string>
   <string name="" platform="AppStore">Send Bitcoin and other cryptocurrencies to contacts instantly</string>
