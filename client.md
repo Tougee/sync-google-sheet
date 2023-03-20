@@ -488,7 +488,7 @@
 | android, iOS | disappearing_option_4 | 1 day | 1 天 | 1日  |     |     |
 | android, iOS | disappearing_option_5 | 1 week | 1 周 | 1週間 |     |     |
 | android | DISCARD | DISCARD | 放弃  | 破棄  | BUANG | BUANG |
-| Desktop | discard | Discard | 废弃  |     |     |     |
+| android, iOS, Desktop | discard | Discard | 废弃  |     |     |     |
 | Desktop | discard_recording_warning | Are you sure you want to stop recording and discard your voice message? | 是否要停止并废弃已录制的语音消息？ |     |     |     |
 | iOS | Disconnecting | Disconnecting | 正在断开 | 切断  |     |     |
 | android, iOS, Desktop | Dismiss_as_Admin | Dismiss as Admin | 撤销管理员身份 | 管理者権限を解除 | Ketepikan pentadbir | Singkirkan admin |
@@ -1532,7 +1532,6 @@
 | iOS, android | allow_dapp_access_public_address | Allow app to access your wallet balance and activity. | 允许 App 访问你的钱包余额及活动。 |     |     |     |
 | iOS, android | request_permission | Request permission | 允许请求 |     |     |     |
 | iOS, android | allow_dapp_request_permission | Allow dapp to ask for your permission to make a transaction. | 允许 Dapp 向你发送请求，如转账请求等 |     |     |     |
-| iOS, android | discard | Discard | 丢弃  |     |     |     |
 | iOS, android | send_signed_message_confirmation | The message has been signed successfully, click the button below to send or discard the signed message | 此消息已被签名，点击下方按钮以发送或丢弃 |     |     |     |
 | iOS, android | signature_request | Signature Request | 请求签名 |     |     |     |
 | iOS, android | transaction_request | Transaction Request | 请求转账 |     |     |     |

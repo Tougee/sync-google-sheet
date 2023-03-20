@@ -487,7 +487,7 @@
   <string name="disappearing_option_4" platform="android, iOS">1 day</string>
   <string name="disappearing_option_5" platform="android, iOS">1 week</string>
   <string name="DISCARD" platform="android">DISCARD</string>
-  <string name="discard" platform="Desktop">Discard</string>
+  <string name="discard" platform="android, iOS, Desktop">Discard</string>
   <string name="discard_recording_warning" platform="Desktop">Are you sure you want to stop recording and discard your voice message?</string>
   <string name="Disconnecting" platform="iOS">Disconnecting</string>
   <string name="Dismiss_as_Admin" platform="android, iOS, Desktop">Dismiss as Admin</string>
@@ -1531,7 +1531,6 @@
   <string name="allow_dapp_access_public_address" platform="iOS, android">Allow app to access your wallet balance and activity.</string>
   <string name="request_permission" platform="iOS, android">Request permission</string>
   <string name="allow_dapp_request_permission" platform="iOS, android">Allow dapp to ask for your permission to make a transaction.</string>
-  <string name="discard" platform="iOS, android">Discard</string>
   <string name="send_signed_message_confirmation" platform="iOS, android">The message has been signed successfully, click the button below to send or discard the signed message</string>
   <string name="signature_request" platform="iOS, android">Signature Request</string>
   <string name="transaction_request" platform="iOS, android">Transaction Request</string>

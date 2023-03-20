@@ -478,7 +478,7 @@
   <string name="disappearing_option_4" platform="android, iOS">1 天</string>
   <string name="disappearing_option_5" platform="android, iOS">1 周</string>
   <string name="DISCARD" platform="android">放弃</string>
-  <string name="discard" platform="Desktop">废弃</string>
+  <string name="discard" platform="android, iOS, Desktop">废弃</string>
   <string name="discard_recording_warning" platform="Desktop">是否要停止并废弃已录制的语音消息？</string>
   <string name="Disconnecting" platform="iOS">正在断开</string>
   <string name="Dismiss_as_Admin" platform="android, iOS, Desktop">撤销管理员身份</string>
@@ -1508,7 +1508,6 @@
   <string name="allow_dapp_access_public_address" platform="iOS, android">允许 App 访问你的钱包余额及活动。</string>
   <string name="request_permission" platform="iOS, android">允许请求</string>
   <string name="allow_dapp_request_permission" platform="iOS, android">允许 Dapp 向你发送请求，如转账请求等</string>
-  <string name="discard" platform="iOS, android">丢弃</string>
   <string name="send_signed_message_confirmation" platform="iOS, android">此消息已被签名，点击下方按钮以发送或丢弃</string>
   <string name="signature_request" platform="iOS, android">请求签名</string>
   <string name="transaction_request" platform="iOS, android">请求转账</string>
