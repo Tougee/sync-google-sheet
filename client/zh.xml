@@ -1505,7 +1505,7 @@
   <string name="network" platform="iOS, android">网络</string>
   <string name="connect_wallet" platform="iOS, android">连接钱包</string>
   <string name="read_your_public_address" platform="iOS, android">读取你的地址</string>
-  <string name="allow_dapp_access_public_address" platform="iOS, android">允许 App 访问你的钱包余额及活动。</string>
+  <string name="allow_dapp_access_public_address" platform="iOS, android">允许 Dapp 访问你的钱包余额及活动。</string>
   <string name="request_permission" platform="iOS, android">允许请求</string>
   <string name="allow_dapp_request_permission" platform="iOS, android">允许 Dapp 向你发送请求，如转账请求等</string>
   <string name="send_signed_message_confirmation" platform="iOS, android">此消息已被签名，点击下方按钮以发送或丢弃</string>

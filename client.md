@@ -1529,7 +1529,7 @@
 | iOS, android | network | Network | 网络  |     |     |     |
 | iOS, android | connect_wallet | Connect Wallet | 连接钱包 |     |     |     |
 | iOS, android | read_your_public_address | Read your public address | 读取你的地址 |     |     |     |
-| iOS, android | allow_dapp_access_public_address | Allow app to access your wallet balance and activity. | 允许 App 访问你的钱包余额及活动。 |     |     |     |
+| iOS, android | allow_dapp_access_public_address | Allow dapp to access your wallet balance and activity. | 允许 Dapp 访问你的钱包余额及活动。 |     |     |     |
 | iOS, android | request_permission | Request permission | 允许请求 |     |     |     |
 | iOS, android | allow_dapp_request_permission | Allow dapp to ask for your permission to make a transaction. | 允许 Dapp 向你发送请求，如转账请求等 |     |     |     |
 | iOS, android | send_signed_message_confirmation | The message has been signed successfully, click the button below to send or discard the signed message | 此消息已被签名，点击下方按钮以发送或丢弃 |     |     |     |

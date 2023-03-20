@@ -1528,7 +1528,7 @@
   <string name="network" platform="iOS, android">Network</string>
   <string name="connect_wallet" platform="iOS, android">Connect Wallet</string>
   <string name="read_your_public_address" platform="iOS, android">Read your public address</string>
-  <string name="allow_dapp_access_public_address" platform="iOS, android">Allow app to access your wallet balance and activity.</string>
+  <string name="allow_dapp_access_public_address" platform="iOS, android">Allow dapp to access your wallet balance and activity.</string>
   <string name="request_permission" platform="iOS, android">Request permission</string>
   <string name="allow_dapp_request_permission" platform="iOS, android">Allow dapp to ask for your permission to make a transaction.</string>
   <string name="send_signed_message_confirmation" platform="iOS, android">The message has been signed successfully, click the button below to send or discard the signed message</string>
