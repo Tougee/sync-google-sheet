@@ -1518,7 +1518,7 @@
   <string name="sign_by_pin" platform="iOS, android">使用 PIN 签名</string>
   <string name="dapp_description" platform="iOS, android">此 Dapp 已经与你的钱包连接，并被授权查看你的钱包余额及活动，也可向你发出转账请求。</string>
   <string name="disconnected" platform="iOS, android">已断开</string>
-  <string name="no_dapp" platform="iOS, android">没有 Dapp</string>
+  <string name="NO_DAPP" platform="iOS, android">没有 Dapp</string>
   <string name="connected_dapps" platform="iOS, android">已连接的 Dapp</string>
   <string name="search_placeholder_dapp" platform="iOS, android">名称, URL</string>
 </resources>
