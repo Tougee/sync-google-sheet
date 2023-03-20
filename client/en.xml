@@ -1544,7 +1544,7 @@
   <string name="dapp_description" platform="iOS, android">This dapp has connected to your wallet, it can view your wallet balance, activity and request approval for transactions.</string>
   <string name="disconnected" platform="iOS, android">Disconnected</string>
   <string name="no_dapp" platform="iOS, android">No dapp</string>
-  <string name="Dappconnected_dapps" platform="iOS, android">Connected Dapps</string>
+  <string name="connected_dapps" platform="iOS, android">Connected Dapps</string>
   <string name="search_placeholder_dapp" platform="iOS, android">Name, URL</string>
   <string name="" platform="AppStore">All messages, audios, photos and files are end-to-end encrypted</string>
   <string name="" platform="AppStore">End-to-end encrypted group voice call with up to 16 people</string>

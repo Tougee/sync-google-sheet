@@ -1544,8 +1544,8 @@
 | iOS, android | sign_by_pin | Sign by PIN | 使用PIN签名 |     |     |     |
 | iOS, android | dapp_description | This dapp has connected to your wallet, it can view your wallet balance, activity and request approval for transactions. | 此Dapp已经与你的钱包连接，并被授权查看你的钱包余额及活动，也可向你发出转账请求。 |     |     |     |
 | iOS, android | disconnected | Disconnected | 已断开 |     |     |     |
-| iOS, android | no_dapp | No dapp | 没有  |     |     |     |
-| iOS, android | Dappconnected_dapps | Connected Dapps | 已连接的Dapp |     |     |     |
+| iOS, android | no_dapp | No dapp | 没有Dapp |     |     |     |
+| iOS, android | connected_dapps | Connected Dapps | 已连接的Dapp |     |     |     |
 | iOS, android | search_placeholder_dapp | Name, URL | 名称, URL |     |     |     |
 | iOS, android |     |     |     |     |     |     |
 | AppStore |     | All messages, audios, photos and files are end-to-end encrypted |     |     |     |     |
