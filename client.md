@@ -1514,35 +1514,35 @@
 | Desktop | draft | Draft | 草稿  |     |     |     |
 | iOS, android | Use_System_Text_Size | Use System Text Size | 跟随系统字体大小 |     |     |     |
 | iOS | system | System | 跟随系统 |     |     |     |
-| iOS, android |     |     |     |     |     |     |
-| iOS, android |     |     |     |     |     |     |
-| iOS, android |     |     |     |     |     |     |
-| iOS, android |     |     |     |     |     |     |
-| iOS, android |     |     |     |     |     |     |
-| iOS, android |     |     |     |     |     |     |
-| iOS, android |     |     |     |     |     |     |
-| iOS, android |     |     |     |     |     |     |
-| iOS, android |     |     |     |     |     |     |
-| iOS, android |     |     |     |     |     |     |
-| iOS, android |     |     |     |     |     |     |
-| iOS, android |     |     |     |     |     |     |
-| iOS, android |     |     |     |     |     |     |
-| iOS, android |     |     |     |     |     |     |
-| iOS, android |     |     |     |     |     |     |
-| iOS, android |     |     |     |     |     |     |
-| iOS, android |     |     |     |     |     |     |
-| iOS, android |     |     |     |     |     |     |
-| iOS, android |     |     |     |     |     |     |
-| iOS, android |     |     |     |     |     |     |
-| iOS, android |     |     |     |     |     |     |
-| iOS, android |     |     |     |     |     |     |
-| iOS, android |     |     |     |     |     |     |
-| iOS, android |     |     |     |     |     |     |
-| iOS, android |     |     |     |     |     |     |
-| iOS, android |     |     |     |     |     |     |
-| iOS, android |     |     |     |     |     |     |
-| iOS, android |     |     |     |     |     |     |
-| iOS, android |     |     |     |     |     |     |
+| iOS, android | request_rejected |     |     |     |     |     |
+| iOS, android | request_rejected_reason_another_request_in_process |     |     |     |     |     |
+| iOS, android | connection_failed |     |     |     |     |     |
+| iOS, android | chain_not_supported |     |     |     |     |     |
+| iOS, android | session_not_found |     |     |     |     |     |
+| iOS, android | unable_to_decode_the_request |     |     |     |     |     |
+| iOS, android | method_not_supported |     |     |     |     |     |
+| iOS, android | switch_network |     |     |     |     |     |
+| iOS, android | requests_switching_to_network |     |     |     |     |     |
+| iOS, android | switch_to_network |     |     |     |     |     |
+| iOS, android | keep_network |     |     |     |     |     |
+| iOS, android | network_switched |     |     |     |     |     |
+| iOS, android | failed_to_switch_network |     |     |     |     |     |
+| iOS, android | connect_wallet |     |     |     |     |     |
+| iOS, android | read_your_public_address |     |     |     |     |     |
+| iOS, android | allow_dapp_access_public_address |     |     |     |     |     |
+| iOS, android | request_permission |     |     |     |     |     |
+| iOS, android | allow_dapp_request_permission |     |     |     |     |     |
+| iOS, android | send_signed_message_confirmation |     |     |     |     |     |
+| iOS, android | signature_request |     |     |     |     |     |
+| iOS, android | transaction_request |     |     |     |     |     |
+| iOS, android | transaction_failed |     |     |     |     |     |
+| iOS, android | network_fee |     |     |     |     |     |
+| iOS, android | signature_request_warning |     |     |     |     |     |
+| iOS, android | sign_by_pin |     |     |     |     |     |
+| iOS, android | dapp_description |     |     |     |     |     |
+| iOS, android | no_dapp |     |     |     |     |     |
+| iOS, android | connected_dapps |     |     |     |     |     |
+| iOS, android | search_placeholder_dapp |     |     |     |     |     |
 | iOS, android |     |     |     |     |     |     |
 | iOS, android |     |     |     |     |     |     |
 | iOS, android |     |     |     |     |     |     |
