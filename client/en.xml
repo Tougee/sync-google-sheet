@@ -15,33 +15,33 @@
   <string name="Accept" platform="android">Accept</string>
   <string name="Access_Contacts_Hint" platform="iOS">Mixin syncs your address book to Mixin servers to help you connect with other Mixin users</string>
   <string name="Access_denied" platform="android, iOS, Desktop">Access denied</string>
-  <string name="Access_to_Contacts" platform="iOS">Access to Contacts</string>
-  <string name="Setting_Chats" platform="android, iOS">Chats</string>
-  <string name="Transfer_to_PC" platform="">Transfer to PC</string>
-  <string name="Transfer_to_Another_Phone" platform="">Transfer to Another Phone</string>
-  <string name="Restore_from_PC" platform="">Restore from PC</string>
-  <string name="Transfer_to_Another_Phone_Hint" platform="">Transfer your chat history to another device</string>
-  <string name="Restore_from_PC_Hint" platform="">Restore your chat history from PC</string>
-  <string name="Transfer_Now" platform="">Transfer Now</string>
-  <string name="Transfer_to_PC_Hint" platform="">Synchronize your chat history to the Mixin Messenger desktop version. Please make sure both devices are connected to the same Wi-Fi or hotspot.</string>
-  <string name="Login_desktop_first" platform="">Please log in to the desktop first</string>
-  <string name="Transfer_Hint" platform="">Sync your chat history to a new device, please make sure both devices are connected to the same Wi-Fi or hotspot.</string>
-  <string name="Waiting_for_Other_Device" platform="">Waiting for Other Device...</string>
-  <string name="Waiting_for_Other_Device_Login" platform="">Log in to your current account on the new device and select the option to restore from another phone.</string>
-  <string name="Waiting_for_Other_Device_Scan" platform="">Connect the new device by scanning the QR code on the top</string>
-  <string name="Keep_Running_Foreground" platform="">Please do not close the screen and keep Mixin running in the foreground</string>
-  <string name="Transferring_chat_Progress" platform="">Transferring Chat (%@%%)</string>
-  <string name="Not_turn_off_screen_hint" platform="">Please do not turn off the screen and keep Mixin in the foreground when synchronizing.</string>
-  <string name="Stop_syncing_hint" platform="">Do you want to stop syncing chat history?</string>
-  <string name="Restore_Now" platform="">Restore Now</string>
-  <string name="Open_Desktop_to_Confirm" platform="">Please open your Mixin Messenger desktop to confirm the operation.</string>
-  <string name="Restore_from_PC_Tip" platform="">Synchronize your chat history from the Mixin Messenger desktop client. The synchronization will not overwrite the local records but only incrementally synchronize them. Please make sure that both devices are connected to the same Wi-Fi or hotspot.</string>
-  <string name="Old_Device_is_waiting" platform="">Make sure that the old device is still on the screen that says "Waiting for Other Device..." to ensure synchronization.</string>
-  <string name="Scan to Restore_Hint" platform="">Click the button below to scan the code and establish a connection.</string>
-  <string name="Scan_to_Restore" platform="">Scan to Restore</string>
-  <string name="Transfer_from_phone_hint" platform="">Transfer your chat history from your another phone.</string>
-  <string name="Restore_chat_from_iCloud" platform="">Restore your chat history from iCloud.</string>
-  <string name="Restoring_Chat_Progress" platform="">Restoring Chat (%@%%)</string>
+  <string name="Access_to_Contacts" platform="iOS,android">Access to Contacts</string>
+  <string name="Setting_Chats" platform="iOS,android">Chats</string>
+  <string name="Transfer_to_PC" platform="iOS,android">Transfer to PC</string>
+  <string name="Transfer_to_Another_Phone" platform="iOS,android">Transfer to Another Phone</string>
+  <string name="Restore_from_PC" platform="iOS,android">Restore from PC</string>
+  <string name="Transfer_to_Another_Phone_Hint" platform="iOS,android">Transfer your chat history to another device</string>
+  <string name="Restore_from_PC_Hint" platform="iOS,android">Restore your chat history from PC</string>
+  <string name="Transfer_Now" platform="iOS,android">Transfer Now</string>
+  <string name="Transfer_to_PC_Hint" platform="iOS,android">Synchronize your chat history to the Mixin Messenger desktop version. Please make sure both devices are connected to the same Wi-Fi or hotspot.</string>
+  <string name="Login_desktop_first" platform="iOS,android">Please log in to the desktop first</string>
+  <string name="Transfer_Hint" platform="iOS,android">Sync your chat history to a new device, please make sure both devices are connected to the same Wi-Fi or hotspot.</string>
+  <string name="Waiting_for_Other_Device" platform="iOS,android">Waiting for Other Device...</string>
+  <string name="Waiting_for_Other_Device_Login" platform="iOS,android">Log in to your current account on the new device and select the option to restore from another phone.</string>
+  <string name="Waiting_for_Other_Device_Scan" platform="iOS,android">Connect the new device by scanning the QR code on the top</string>
+  <string name="Keep_Running_Foreground" platform="iOS,android">Please do not close the screen and keep Mixin running in the foreground</string>
+  <string name="Transferring_chat_Progress" platform="iOS,android">Transferring Chat (%@%%)</string>
+  <string name="Not_turn_off_screen_hint" platform="iOS,android">Please do not turn off the screen and keep Mixin in the foreground when synchronizing.</string>
+  <string name="Stop_syncing_hint" platform="iOS,android">Do you want to stop syncing chat history?</string>
+  <string name="Restore_Now" platform="iOS,android">Restore Now</string>
+  <string name="Open_Desktop_to_Confirm" platform="iOS,android">Please open your Mixin Messenger desktop to confirm the operation.</string>
+  <string name="Restore_from_PC_Tip" platform="iOS,android">Synchronize your chat history from the Mixin Messenger desktop client. The synchronization will not overwrite the local records but only incrementally synchronize them. Please make sure that both devices are connected to the same Wi-Fi or hotspot.</string>
+  <string name="Old_Device_is_waiting" platform="iOS,android">Make sure that the old device is still on the screen that says "Waiting for Other Device..." to ensure synchronization.</string>
+  <string name="Scan to Restore_Hint" platform="iOS,android">Click the button below to scan the code and establish a connection.</string>
+  <string name="Scan_to_Restore" platform="iOS,android">Scan to Restore</string>
+  <string name="Transfer_from_phone_hint" platform="iOS,android">Transfer your chat history from your another phone.</string>
+  <string name="Restore_chat_from_iCloud" platform="iOS,android">Restore your chat history from iCloud.</string>
+  <string name="Restoring_Chat_Progress" platform="iOS,android">Restoring Chat (%@%%)</string>
   <string name="not_supported_deposit" platform="android, iOS">Mixin Wallet does not support the deposit for %1$s. Please note that you can continue to transfer or withdraw the deposited %2$s. Read the document to **learn more**.</string>
   <string name="access_your_bots_list" platform="android, iOS">access your bots list</string>
   <string name="access_your_circle_list" platform="android, iOS">access your circle list</string>

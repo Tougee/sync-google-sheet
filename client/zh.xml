@@ -15,33 +15,33 @@
   <string name="Accept" platform="android">接听</string>
   <string name="Access_Contacts_Hint" platform="iOS">同步通讯录到 Mixin 发现更多好友</string>
   <string name="Access_denied" platform="android, iOS, Desktop">禁止访问</string>
-  <string name="Access_to_Contacts" platform="iOS">访问通讯录</string>
-  <string name="Setting_Chats" platform="android, iOS">聊天记录</string>
-  <string name="Transfer_to_PC" platform="">备份到桌面端</string>
-  <string name="Transfer_to_Another_Phone" platform="">备份到另一台手机</string>
-  <string name="Restore_from_PC" platform="">从桌面恢复</string>
-  <string name="Transfer_to_Another_Phone_Hint" platform="">备份你的聊天记录到另一台设备</string>
-  <string name="Restore_from_PC_Hint" platform="">从桌面端恢复你的聊天记录</string>
-  <string name="Transfer_Now" platform="">开始传输</string>
-  <string name="Transfer_to_PC_Hint" platform="">同步你的聊天记录到 Mixin Messenger 桌面端，请确保两台设备接入同一个 Wi-Fi 或热点。</string>
-  <string name="Login_desktop_first" platform="">请先登录桌面端</string>
-  <string name="Transfer_Hint" platform="">同步你的聊天记录到新的设备，请确保两台设备接入同一个 Wi-Fi 或热点。</string>
-  <string name="Waiting_for_Other_Device" platform="">等待其他设备……</string>
-  <string name="Waiting_for_Other_Device_Login" platform="">在新设备上登录当前账户并选择从其他手机恢复</string>
-  <string name="Waiting_for_Other_Device_Scan" platform="">新设备扫上面的二维码建立连接</string>
-  <string name="Keep_Running_Foreground" platform="">不要关闭屏幕并保持 Mixin 在前台运行</string>
-  <string name="Transferring_chat_Progress" platform="">传输聊天记录（%@%%）</string>
-  <string name="Not_turn_off_screen_hint" platform="">同步时请不要关闭屏幕并保持 Mixin 在前台运行。</string>
-  <string name="Stop_syncing_hint" platform="">确定中止聊天记录同步吗？</string>
-  <string name="Restore_Now" platform="">开始恢复</string>
-  <string name="Open_Desktop_to_Confirm" platform="">请打开您的Mixin Messenger 桌面端来确认此操作。</string>
-  <string name="Restore_from_PC_Tip" platform="">从 Mixin Messenger 桌面端同步你的聊天记录，同步不会覆盖本地记录只会增量同步，请确保两台设备接入同一个 Wi-Fi 或热点。</string>
-  <string name="Old_Device_is_waiting" platform="">确保旧的设备已停留在同步等待扫码的界面</string>
-  <string name="Scan to Restore_Hint" platform="">点下面按钮扫码建立连接</string>
-  <string name="Scan_to_Restore" platform="">扫描以恢复</string>
-  <string name="Transfer_from_phone_hint" platform="">将您的另一部手机的聊天记录转移过来。</string>
-  <string name="Restore_chat_from_iCloud" platform="">从iCloud恢复您的聊天记录。</string>
-  <string name="Restoring_Chat_Progress" platform="">恢复聊天记录（%@%%）</string>
+  <string name="Access_to_Contacts" platform="iOS,android">访问通讯录</string>
+  <string name="Setting_Chats" platform="iOS,android">聊天记录</string>
+  <string name="Transfer_to_PC" platform="iOS,android">备份到桌面端</string>
+  <string name="Transfer_to_Another_Phone" platform="iOS,android">备份到另一台手机</string>
+  <string name="Restore_from_PC" platform="iOS,android">从桌面恢复</string>
+  <string name="Transfer_to_Another_Phone_Hint" platform="iOS,android">备份你的聊天记录到另一台设备</string>
+  <string name="Restore_from_PC_Hint" platform="iOS,android">从桌面端恢复你的聊天记录</string>
+  <string name="Transfer_Now" platform="iOS,android">开始传输</string>
+  <string name="Transfer_to_PC_Hint" platform="iOS,android">同步你的聊天记录到 Mixin Messenger 桌面端，请确保两台设备接入同一个 Wi-Fi 或热点。</string>
+  <string name="Login_desktop_first" platform="iOS,android">请先登录桌面端</string>
+  <string name="Transfer_Hint" platform="iOS,android">同步你的聊天记录到新的设备，请确保两台设备接入同一个 Wi-Fi 或热点。</string>
+  <string name="Waiting_for_Other_Device" platform="iOS,android">等待其他设备……</string>
+  <string name="Waiting_for_Other_Device_Login" platform="iOS,android">在新设备上登录当前账户并选择从其他手机恢复</string>
+  <string name="Waiting_for_Other_Device_Scan" platform="iOS,android">新设备扫上面的二维码建立连接</string>
+  <string name="Keep_Running_Foreground" platform="iOS,android">不要关闭屏幕并保持 Mixin 在前台运行</string>
+  <string name="Transferring_chat_Progress" platform="iOS,android">传输聊天记录（%@%%）</string>
+  <string name="Not_turn_off_screen_hint" platform="iOS,android">同步时请不要关闭屏幕并保持 Mixin 在前台运行。</string>
+  <string name="Stop_syncing_hint" platform="iOS,android">确定中止聊天记录同步吗？</string>
+  <string name="Restore_Now" platform="iOS,android">开始恢复</string>
+  <string name="Open_Desktop_to_Confirm" platform="iOS,android">请打开您的Mixin Messenger 桌面端来确认此操作。</string>
+  <string name="Restore_from_PC_Tip" platform="iOS,android">从 Mixin Messenger 桌面端同步你的聊天记录，同步不会覆盖本地记录只会增量同步，请确保两台设备接入同一个 Wi-Fi 或热点。</string>
+  <string name="Old_Device_is_waiting" platform="iOS,android">确保旧的设备已停留在同步等待扫码的界面</string>
+  <string name="Scan to Restore_Hint" platform="iOS,android">点下面按钮扫码建立连接</string>
+  <string name="Scan_to_Restore" platform="iOS,android">扫描以恢复</string>
+  <string name="Transfer_from_phone_hint" platform="iOS,android">将您的另一部手机的聊天记录转移过来。</string>
+  <string name="Restore_chat_from_iCloud" platform="iOS,android">从iCloud恢复您的聊天记录。</string>
+  <string name="Restoring_Chat_Progress" platform="iOS,android">恢复聊天记录（%@%%）</string>
   <string name="not_supported_deposit" platform="android, iOS">Mixin 钱包现已不支持 %1$s 充值，注意已转入的 %2$s 资产可以继续转账或提现，阅读文档**了解更多**。</string>
   <string name="access_your_bots_list" platform="android, iOS">访问你的机器人列表</string>
   <string name="access_your_circle_list" platform="android, iOS">访问你的圈子列表</string>
