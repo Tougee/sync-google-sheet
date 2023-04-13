@@ -46,7 +46,7 @@
   <string name="Unable_synced_between_different_account" platform="iOS, android">Chat history cannot be synced between different accounts</string>
   <string name="Restore_from_Another_Phone" platform="iOS, android">Restore from Another Phone</string>
   <string name="Restore_from_iCloud" platform="iOS, android">Restore from iCloud</string>
-  <string name="" platform="">Restore Chat History</string>
+  <string name="Restore_Chat_History" platform="iOS">Restore Chat History</string>
   <string name="Local_network_unable_accessed" platform="iOS">Local network is unable to be accessed, please grant permission</string>
   <string name="Transfering_Chat_completed" platform="iOS">Transfering Chat completed</string>
   <string name="Restoring_Chat_completed" platform="iOS">Restoring Chat completed</string>
