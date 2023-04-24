@@ -56,7 +56,7 @@
   <string name="Connection_establishment_failed" platform="iOS">Connection establishment failed</string>
   <string name="Backup_to_iCloud" platform="iOS">Backup to iCloud</string>
   <string name="Restore_Your_Chat_History" platform="iOS">Restore Your Chat History</string>
-  <string name="Restroe_From_icloud_Confirmation" platform="iOS">There are already %1$d local chat records, and the last message was created at %1$s. Are you sure you want to overwrite the local data with the chat data on iCloud?</string>
+  <string name="Restore_From_icloud_Confirmation" platform="iOS">There are already %1$d local chat records, and the last message was created at %1$s. Are you sure you want to overwrite the local data with the chat data on iCloud?</string>
   <string name="Overwrite" platform="iOS, android">Overwrite</string>
   <string name="not_supported_deposit" platform="android, iOS">Mixin Wallet does not support the deposit for %1$s. Please note that you can continue to transfer or withdraw the deposited %2$s. Read the document to **learn more**.</string>
   <string name="access_your_bots_list" platform="android, iOS">access your bots list</string>

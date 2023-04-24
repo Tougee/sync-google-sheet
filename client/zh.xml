@@ -56,7 +56,7 @@
   <string name="Connection_establishment_failed" platform="iOS">连接建立失败</string>
   <string name="Backup_to_iCloud" platform="iOS">备份到 iCloud</string>
   <string name="Restore_Your_Chat_History" platform="iOS">恢复你的聊天记录</string>
-  <string name="Restroe_From_icloud_Confirmation" platform="iOS">已经有 %1$d 条本地聊天记录，最后一条消息的时间是 %1$s，确定用 iCloud 上的聊天数据覆盖本地数据吗？</string>
+  <string name="Restore_From_icloud_Confirmation" platform="iOS">已经有 %1$d 条本地聊天记录，最后一条消息的时间是 %1$s，确定用 iCloud 上的聊天数据覆盖本地数据吗？</string>
   <string name="Overwrite" platform="iOS, android">覆盖</string>
   <string name="not_supported_deposit" platform="android, iOS">Mixin 钱包现已不支持 %1$s 充值，注意已转入的 %2$s 资产可以继续转账或提现，阅读文档**了解更多**。</string>
   <string name="access_your_bots_list" platform="android, iOS">访问你的机器人列表</string>
