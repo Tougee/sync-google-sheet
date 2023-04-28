@@ -764,7 +764,7 @@
 | android | italic | italic | 斜体  | 斜体  | Italik |     |
 | android, iOS | Join_group | Join Group | 加入群组 | グループに参加 |     |     |
 | Desktop | join_group_with_plus | + Join group | + 加入群组 | グループに参加 |     |     |
-| android, iOS, Desktop | Joined_in | Joined in %1$s | %1$s 加入 | %1$sからMixinを利用しています | Menyertai %1$s | Bergabung di %1$s |
+| android, iOS, Desktop | Joined_in | Joined on %1$s | %1$s 加入 | %1$sからMixinを利用しています | Menyertai %1$s | Bergabung di %1$s |
 | android, iOS | Label | Label | 标题  | ラベル | Label | Label |
 | android | Landing_back | Landing back |     | ログイン | Landing back | Landing back |
 | android, iOS, Desktop | landing_delete_content | Your account will be deleted on %1$s, if you continue to log in, the request to delete your account will be cancelled. | 您的账户将于 %1$s 被删除，如果您继续登录，删除您账户的请求将被取消。 | あなたのアカウントは(%1$s) 後に消去されます。ログインを継続する場合、あなたのアカウント消去はキャンセルされます。 |     |     |

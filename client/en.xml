@@ -763,7 +763,7 @@
   <string name="italic" platform="android">italic</string>
   <string name="Join_group" platform="android, iOS">Join Group</string>
   <string name="join_group_with_plus" platform="Desktop">+ Join group</string>
-  <string name="Joined_in" platform="android, iOS, Desktop">Joined in %1$s</string>
+  <string name="Joined_in" platform="android, iOS, Desktop">Joined on %1$s</string>
   <string name="Label" platform="android, iOS">Label</string>
   <string name="Landing_back" platform="android">Landing back</string>
   <string name="landing_delete_content" platform="android, iOS, Desktop">Your account will be deleted on %1$s, if you continue to log in, the request to delete your account will be cancelled.</string>
