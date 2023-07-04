@@ -1581,16 +1581,9 @@
 | iOS, android | request_rejected | Request Rejected | 请求已拒绝 |     |     |     |
 | iOS, android | request_rejected_reason_another_request_in_process | Another request is in process, please retry after current request is finished | 正在处理另一请求，请完成当前请求后重试 |     |     |     |
 | iOS, android | connection_failed | Connection Failed | 连接失败 |     |     |     |
-| iOS, android | chain_not_supported | Chain not supported | 不支持此网络 |     |     |     |
 | iOS, android | session_not_found | Session not found | 没有对应的连接 |     |     |     |
 | iOS, android | unable_to_decode_the_request | Unable to decode the request: %1$s | 无法解析请求: %1$s |     |     |     |
 | iOS, android | method_not_supported | Method %1$s is not supported | 不支持此方法: %1$s |     |     |     |
-| iOS, android | switch_network | Switch Network | 切换网络 |     |     |     |
-| iOS, android | requests_switching_to_network | %1$s requests switching to %2$s | %1$s 请求切换到 %2$s |     |     |     |
-| iOS, android | switch_to_network | Switch to %1$s | 切换到 %1$s |     |     |     |
-| iOS, android | keep_network | Keep %1$s | 留在 %1$s |     |     |     |
-| iOS, android | network_switched | Network Switched | 已切换网络 |     |     |     |
-| iOS, android | failed_to_switch_network | Failed to switch network: %1$s | 切换网络失败: %1$s |     |     |     |
 | iOS, android | network | Network | 网络  |     |     |     |
 | iOS, android | connect_wallet | Connect Wallet | 连接钱包 |     |     |     |
 | iOS, android | read_your_public_address | Read your public address | 读取你的地址 |     |     |     |

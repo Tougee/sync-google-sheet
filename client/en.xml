@@ -1580,16 +1580,9 @@
   <string name="request_rejected" platform="iOS, android">Request Rejected</string>
   <string name="request_rejected_reason_another_request_in_process" platform="iOS, android">Another request is in process, please retry after current request is finished</string>
   <string name="connection_failed" platform="iOS, android">Connection Failed</string>
-  <string name="chain_not_supported" platform="iOS, android">Chain not supported</string>
   <string name="session_not_found" platform="iOS, android">Session not found</string>
   <string name="unable_to_decode_the_request" platform="iOS, android">Unable to decode the request: %1$s</string>
   <string name="method_not_supported" platform="iOS, android">Method %1$s is not supported</string>
-  <string name="switch_network" platform="iOS, android">Switch Network</string>
-  <string name="requests_switching_to_network" platform="iOS, android">%1$s requests switching to %2$s</string>
-  <string name="switch_to_network" platform="iOS, android">Switch to %1$s</string>
-  <string name="keep_network" platform="iOS, android">Keep %1$s</string>
-  <string name="network_switched" platform="iOS, android">Network Switched</string>
-  <string name="failed_to_switch_network" platform="iOS, android">Failed to switch network: %1$s</string>
   <string name="network" platform="iOS, android">Network</string>
   <string name="connect_wallet" platform="iOS, android">Connect Wallet</string>
   <string name="read_your_public_address" platform="iOS, android">Read your public address</string>

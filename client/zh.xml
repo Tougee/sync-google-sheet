@@ -1557,16 +1557,9 @@
   <string name="request_rejected" platform="iOS, android">请求已拒绝</string>
   <string name="request_rejected_reason_another_request_in_process" platform="iOS, android">正在处理另一请求，请完成当前请求后重试</string>
   <string name="connection_failed" platform="iOS, android">连接失败</string>
-  <string name="chain_not_supported" platform="iOS, android">不支持此网络</string>
   <string name="session_not_found" platform="iOS, android">没有对应的连接</string>
   <string name="unable_to_decode_the_request" platform="iOS, android">无法解析请求: %1$s</string>
   <string name="method_not_supported" platform="iOS, android">不支持此方法: %1$s</string>
-  <string name="switch_network" platform="iOS, android">切换网络</string>
-  <string name="requests_switching_to_network" platform="iOS, android">%1$s 请求切换到 %2$s</string>
-  <string name="switch_to_network" platform="iOS, android">切换到 %1$s</string>
-  <string name="keep_network" platform="iOS, android">留在 %1$s</string>
-  <string name="network_switched" platform="iOS, android">已切换网络</string>
-  <string name="failed_to_switch_network" platform="iOS, android">切换网络失败: %1$s</string>
   <string name="network" platform="iOS, android">网络</string>
   <string name="connect_wallet" platform="iOS, android">连接钱包</string>
   <string name="read_your_public_address" platform="iOS, android">读取你的地址</string>
