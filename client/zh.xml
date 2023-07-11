@@ -585,7 +585,7 @@
   <string name="Encrypted" platform="android">端到端加密</string>
   <string name="End_to_End_Encryption" platform="android, iOS">端到端加密</string>
   <string name="Enter_new_phone_number" platform="android, iOS">输入你的新手机号码</string>
-  <string name="Enter_new_anonymous_number" platform="android, iOS">输入你的新匿名号码</string>
+  <string name="Enter_new" platform="android">输入你的新</string>
   <string name="Enter_PIN_to_delete_account" platform="android, iOS, Desktop">输入你的 PIN 以注销你的账户</string>
   <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">请输入紧急联系人的 Mixin ID</string>
   <string name="Enter_your_new_PIN" platform="android,iOS">输入你的新 PIN</string>
