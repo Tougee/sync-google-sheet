@@ -600,7 +600,7 @@
 | android, iOS | Enter_your_emergency_contact_Mixin_ID | Enter your emergency contact Mixin ID | 请输入紧急联系人的 Mixin ID | あなたの緊急連絡先のMixin IDを入力してください | Masukkan ID Mixin kenalan kecemasan anda | Masukkan ID Mixin kontak darurat Anda |
 | android,iOS | Enter_your_new_PIN | Enter your new PIN | 输入你的新 PIN |     |     |     |
 | android,iOS | Enter_your_old_PIN | Enter your old PIN | 输入你的旧 PIN |     |     |     |
-| android, iOS, Desktop | Enter_your_phone_number | Enter your phone number | 输入你的手机号码 | 電話番号を入力して下さい | Masukkan nombor telefon bimbit anda | Masukkan nomor ponsel Anda |
+| android, iOS, Desktop | Enter_your_phone_number | Enter your phone number | 输入你的手机号码 | 電話番号を入力してください | Masukkan nombor telefon bimbit anda | Masukkan nomor ponsel Anda |
 | android | Enter_your | Enter your\u0020 | 输入你的 |     |     |     |
 | android, iOS | Enter_your_PIN | Enter your PIN | 输入你的 PIN | PINコードを入力してください | Masukkan PIN anda | Masukkan PIN Anda |
 | android, iOS, Desktop | Enter_your_PIN_to_continue | Enter your PIN to continue | 输入你的 PIN 以继续 | PINコードを入力して、続けてください |     |     |
@@ -610,7 +610,7 @@
 | Desktop | error_asset_exists | Asset does not exist | 没有相关资产 | 資産がありません |     |     |
 | android, Desktop | error_authentication | ERROR 401: Sign in to continue | 错误 401：请重新登录 | エラー 401：サインインをして続ける | RALAT 401: Log masuk untuk meneruskan | KESALAHAN 401: Masuk untuk melanjutkan |
 | android, Desktop | error_bad_data | ERROR 10002: The request data has invalid field | 错误 10002：请求数据不合法 | エラー 10002：リクエストデータが無効です | RALAT 10002: Data permintaan mempunyai medan yang tidak sah | KESALAHAN 10002: Data permintaan memiliki bidang yang tidak valid |
-| android, iOS, Desktop | error_blockchain | ERROR 30100: Blockchain not in sync, please try again later. | 错误 30100：区块链同步异常，请稍后重试 | エラー 30100：ブロックチェーンが同期できていません。後程もう一度お試し下さい。 | RALAT 30100: Rantai blok tidak diselaraskan, sila cuba sebentar lagi. | KESALAHAN 30100: Blockchain tidak sinkron, coba lagi nanti. |
+| android, iOS, Desktop | error_blockchain | ERROR 30100: Blockchain not in sync, please try again later. | 错误 30100：区块链同步异常，请稍后重试 | エラー 30100：ブロックチェーンが同期できていません。後程もう一度お試しください。 | RALAT 30100: Rantai blok tidak diselaraskan, sila cuba sebentar lagi. | KESALAHAN 30100: Blockchain tidak sinkron, coba lagi nanti. |
 | iOS | error_captcha_is_invalid | ERROR 10004: CAPTCHA is invalid | 错误 10004：验证失败 | エラー10004：captchaが無効です |     |     |
 | android, iOS, Desktop | error_connection_timeout | Network connection timeout, please try again | 网络连接超时 | ネットワーク接続がタイムアウトしました | Tamat masa sambungan rangkaian | Batas waktu sambungan jaringan |
 | android, iOS | error_expired_authorization_code | ERROR 20121: Expired authorization code | 错误 20121：授权码已过期 | 認証コードの期限切れ |     |     |
@@ -1407,7 +1407,7 @@
 | iOS | transfer_error_pin_incorrect_with_times | ERROR 20119: PIN incorrect. You still have %@ chances. | 错误 20119：PIN 不正确。你还有 %@ 次机会尝试。 | エラー20119: PINコードが間違っています。あと%@回入力可能です。 |     |     |
 | android, iOS | transfer_memo | Memo (optional) | 备注（可选） | メモ（オプション） |     |     |
 | android, iOS | Transfer_Notifications | Transfer Notifications | 转账通知 | 送金の受取通知 | Pindahkan Pemberitahuan | Notifikasi Transfer |
-| android, iOS | transfer_qrcode_prompt | Scan the QR Code to transfer me on Mixin | 用 Mixin 扫描二维码给我转账 | 私に送金するためにQRコードをスキャンして下さい。 |     |     |
+| android, iOS | transfer_qrcode_prompt | Scan the QR Code to transfer me on Mixin | 用 Mixin 扫描二维码给我转账 | 私に送金するためにQRコードをスキャンしてください。 |     |     |
 | android, iOS | transfer_to | Transfer to %1$s | 转账给 %1$s | %1$sに送金する | Pindahkan ke %1$s | Transfer ke %1$s |
 | iOS | Transfer_to_Mixin_address | Transfer to Mixin address | 给主网地址转账 | Mixinのアドレスへ送金する | Pindahkan ke alamat Mixin | Transfer ke alamat Mixin |
 | iOS | Transfer_to_user_or_bot | Transfer to user or bot | 给用户或机器人转账 | ミニアプリまたはユーザーへ送金する | Pindahkan ke pengguna atau bot | Transfer ke pengguna atau bot |

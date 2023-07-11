@@ -474,7 +474,7 @@
   <string name="Enter_new_phone_number" platform="android, iOS">新しい電話番号を入力してください</string>
   <string name="Enter_PIN_to_delete_account" platform="android, iOS, Desktop">アカウントを削除するためにPINコードを入力してください</string>
   <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">あなたの緊急連絡先のMixin IDを入力してください</string>
-  <string name="Enter_your_phone_number" platform="android, iOS, Desktop">電話番号を入力して下さい</string>
+  <string name="Enter_your_phone_number" platform="android, iOS, Desktop">電話番号を入力してください</string>
   <string name="Enter_your_PIN" platform="android, iOS">PINコードを入力してください</string>
   <string name="Enter_your_PIN_to_continue" platform="android, iOS, Desktop">PINコードを入力して、続けてください</string>
   <string name="EOS_contract_address" platform="android">EOSアドレス</string>
@@ -483,7 +483,7 @@
   <string name="error_asset_exists" platform="Desktop">資産がありません</string>
   <string name="error_authentication" platform="android, Desktop">エラー 401：サインインをして続ける</string>
   <string name="error_bad_data" platform="android, Desktop">エラー 10002：リクエストデータが無効です</string>
-  <string name="error_blockchain" platform="android, iOS, Desktop">エラー 30100：ブロックチェーンが同期できていません。後程もう一度お試し下さい。</string>
+  <string name="error_blockchain" platform="android, iOS, Desktop">エラー 30100：ブロックチェーンが同期できていません。後程もう一度お試しください。</string>
   <string name="error_captcha_is_invalid" platform="iOS">エラー10004：captchaが無効です</string>
   <string name="error_connection_timeout" platform="android, iOS, Desktop">ネットワーク接続がタイムアウトしました</string>
   <string name="error_expired_authorization_code" platform="android, iOS">認証コードの期限切れ</string>
@@ -1246,7 +1246,7 @@
   <string name="transfer_error_pin_incorrect_with_times" platform="iOS">エラー20119: PINコードが間違っています。あと%@回入力可能です。</string>
   <string name="transfer_memo" platform="android, iOS">メモ（オプション）</string>
   <string name="Transfer_Notifications" platform="android, iOS">送金の受取通知</string>
-  <string name="transfer_qrcode_prompt" platform="android, iOS">私に送金するためにQRコードをスキャンして下さい。</string>
+  <string name="transfer_qrcode_prompt" platform="android, iOS">私に送金するためにQRコードをスキャンしてください。</string>
   <string name="transfer_to" platform="android, iOS">%1$sに送金する</string>
   <string name="Transfer_to_Mixin_address" platform="iOS">Mixinのアドレスへ送金する</string>
   <string name="Transfer_to_user_or_bot" platform="iOS">ミニアプリまたはユーザーへ送金する</string>
