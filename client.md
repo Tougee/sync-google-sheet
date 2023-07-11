@@ -601,7 +601,7 @@
 | android,iOS | Enter_your_new_PIN | Enter your new PIN | 输入你的新 PIN |     |     |     |
 | android,iOS | Enter_your_old_PIN | Enter your old PIN | 输入你的旧 PIN |     |     |     |
 | android, iOS, Desktop | Enter_your_phone_number | Enter your phone number | 输入你的手机号码 | 電話番号を入力してください | Masukkan nombor telefon bimbit anda | Masukkan nomor ponsel Anda |
-| android | Enter_your | Enter your\u0020 | 输入你的 |     |     |     |
+| android, iOS | Enter_your_anonymous_number | Enter your anonymous number | 输入你的匿名号码 |     |     |     |
 | android, iOS | Enter_your_PIN | Enter your PIN | 输入你的 PIN | PINコードを入力してください | Masukkan PIN anda | Masukkan PIN Anda |
 | android, iOS, Desktop | Enter_your_PIN_to_continue | Enter your PIN to continue | 输入你的 PIN 以继续 | PINコードを入力して、続けてください |     |     |
 | android | EOS_contract_address | EOS contract address | EOS 合约地址 | EOSアドレス | alamat kontrak EOS |     |
