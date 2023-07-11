@@ -1024,6 +1024,7 @@
   <string name="Phone_Contact" platform="android, iOS">手机联系人</string>
   <string name="Phone_Contacts" platform="android, iOS">手机通讯录</string>
   <string name="Phone_Number" platform="android, iOS, Desktop">手机号码</string>
+  <string name="phone_number" platform="android">手机号码</string>
   <string name="Phone_number_change" platform="android, iOS">修改手机号</string>
   <string name="phone_number_privacy" platform="android, iOS">谁可以通过手机号找到你</string>
   <string name="Photo" platform="android, iOS">照片</string>

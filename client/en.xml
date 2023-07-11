@@ -1040,6 +1040,7 @@
   <string name="Phone_Contact" platform="android, iOS">Phone Contacts</string>
   <string name="Phone_Contacts" platform="android, iOS">Phone Contacts</string>
   <string name="Phone_Number" platform="android, iOS, Desktop">Phone Number</string>
+  <string name="phone_number" platform="android">phone number</string>
   <string name="Phone_number_change" platform="android, iOS">Phone number change</string>
   <string name="phone_number_privacy" platform="android, iOS">Who can find me by my number</string>
   <string name="Photo" platform="android, iOS">Photo</string>
