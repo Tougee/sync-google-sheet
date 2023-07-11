@@ -1382,7 +1382,7 @@
   <string name="withdrawal_addr_pin_add" platform="android">PINコードを入力してアドレスを保存</string>
   <string name="withdrawal_addr_pin_delete" platform="android">PINコードを入力してアドレスを削除</string>
   <string name="withdrawal_addr_pin_modify" platform="android">PINコードを入力してアドレスを修正</string>
-  <string name="withdrawal_addr_tag" platform="android, iOS">宛先タグまたはID番号またはメモを入力して下さい。それ以外の場合「タグなし」に設定できます。</string>
+  <string name="withdrawal_addr_tag" platform="android, iOS">宛先タグまたはID番号またはメモを入力してください。それ以外の場合「タグなし」に設定できます。</string>
   <string name="withdrawal_address_tips" platform="android, iOS">新しいアドレスへの最初の出金は必ず少額で行ってください。アドレスが間違っていると資産は失われます。</string>
   <string name="withdrawal_label" platform="android, iOS">ラベル (例. 取引所, ウォレットなど)</string>
   <string name="withdrawal_memo" platform="android, iOS">メモ</string>
