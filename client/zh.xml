@@ -1614,5 +1614,5 @@
   <string name="set_passcode_desc" platform="Desktop">设置解锁密码</string>
   <string name="confirm_passcode_desc" platform="Desktop">再次确认密码</string>
   <string name="lock" platform="Desktop">锁定</string>
-  <string name="anonymous_number" platform="Desktop, iOS, android">匿名号码</string>
+  <string name="Anonymous_Number" platform="Desktop, iOS, android">匿名号码</string>
 </resources>

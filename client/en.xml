@@ -1641,5 +1641,5 @@
   <string name="set_passcode_desc" platform="Desktop">Set Passcode to unlock Mixin Messenger</string>
   <string name="confirm_passcode_desc" platform="Desktop">Enter again to confirm the passcode</string>
   <string name="lock" platform="Desktop">Lock</string>
-  <string name="anonymous_number" platform="Desktop, iOS, android">Anonymous Number</string>
+  <string name="Anonymous_Number" platform="Desktop, iOS, android">Anonymous Number</string>
 </resources>
