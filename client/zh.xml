@@ -197,7 +197,7 @@
   <string name="Amount" platform="android, iOS">金额</string>
   <string name="an_audio" platform="android">一条语音</string>
   <string name="animals_and_nature" platform="Desktop">动物与自然</string>
-  <string name="Anonymous_Number" platform="android,iOS">匿名号码</string>
+  <string name="anonymous_number" platform="android">匿名号码</string>
   <string name="ANSWER" platform="android">接听</string>
   <string name="app_card_share_disallow" platform="Desktop">该链接已被设置为不允许分享</string>
   <string name="app_card_shareable_false" platform="android, iOS">该卡片已被设置为不允许转发</string>
