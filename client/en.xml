@@ -197,6 +197,7 @@
   <string name="Amount" platform="android, iOS">Amount</string>
   <string name="an_audio" platform="android">an audio</string>
   <string name="animals_and_nature" platform="Desktop">Animals &amp; Nature</string>
+  <string name="Anonymous_Number" platform="android,iOS">Anonymous Number</string>
   <string name="ANSWER" platform="android">ANSWER</string>
   <string name="app_card_share_disallow" platform="Desktop">Disallow sharing of this URL</string>
   <string name="app_card_shareable_false" platform="android, iOS">The card has been set to not allow sharing</string>
@@ -593,11 +594,13 @@
   <string name="Encrypted" platform="android">Encrypted</string>
   <string name="End_to_End_Encryption" platform="android, iOS">End-to-end Encrypted</string>
   <string name="Enter_new_phone_number" platform="android, iOS">Enter your new phone number</string>
+  <string name="Enter_new_anonymous_number" platform="android, iOS">Enter your new anonymous number</string>
   <string name="Enter_PIN_to_delete_account" platform="android, iOS, Desktop">Enter your PIN to delete your account</string>
   <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">Enter your emergency contact Mixin ID</string>
   <string name="Enter_your_new_PIN" platform="android,iOS">Enter your new PIN</string>
   <string name="Enter_your_old_PIN" platform="android,iOS">Enter your old PIN</string>
   <string name="Enter_your_phone_number" platform="android, iOS, Desktop">Enter your phone number</string>
+  <string name="Enter_your_anonymous_number" platform="android, iOS">Enter your anonymous number</string>
   <string name="Enter_your_PIN" platform="android, iOS">Enter your PIN</string>
   <string name="Enter_your_PIN_to_continue" platform="android, iOS, Desktop">Enter your PIN to continue</string>
   <string name="EOS_contract_address" platform="android">EOS contract address</string>

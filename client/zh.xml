@@ -197,6 +197,7 @@
   <string name="Amount" platform="android, iOS">金额</string>
   <string name="an_audio" platform="android">一条语音</string>
   <string name="animals_and_nature" platform="Desktop">动物与自然</string>
+  <string name="Anonymous_Number" platform="android,iOS">匿名号码</string>
   <string name="ANSWER" platform="android">接听</string>
   <string name="app_card_share_disallow" platform="Desktop">该链接已被设置为不允许分享</string>
   <string name="app_card_shareable_false" platform="android, iOS">该卡片已被设置为不允许转发</string>
@@ -584,11 +585,13 @@
   <string name="Encrypted" platform="android">端到端加密</string>
   <string name="End_to_End_Encryption" platform="android, iOS">端到端加密</string>
   <string name="Enter_new_phone_number" platform="android, iOS">输入你的新手机号码</string>
+  <string name="Enter_new_anonymous_number" platform="android, iOS">输入你的新匿名号码</string>
   <string name="Enter_PIN_to_delete_account" platform="android, iOS, Desktop">输入你的 PIN 以注销你的账户</string>
   <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">请输入紧急联系人的 Mixin ID</string>
   <string name="Enter_your_new_PIN" platform="android,iOS">输入你的新 PIN</string>
   <string name="Enter_your_old_PIN" platform="android,iOS">输入你的旧 PIN</string>
   <string name="Enter_your_phone_number" platform="android, iOS, Desktop">输入你的手机号码</string>
+  <string name="Enter_your_anonymous_number" platform="android, iOS">输入你的匿名号码</string>
   <string name="Enter_your_PIN" platform="android, iOS">输入你的 PIN</string>
   <string name="Enter_your_PIN_to_continue" platform="android, iOS, Desktop">输入你的 PIN 以继续</string>
   <string name="EOS_contract_address" platform="android">EOS 合约地址</string>
