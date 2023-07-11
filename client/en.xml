@@ -600,7 +600,7 @@
   <string name="Enter_your_new_PIN" platform="android,iOS">Enter your new PIN</string>
   <string name="Enter_your_old_PIN" platform="android,iOS">Enter your old PIN</string>
   <string name="Enter_your_phone_number" platform="android, iOS, Desktop">Enter your phone number</string>
-  <string name="Enter_your_anonymous_number" platform="android, iOS">Enter your anonymous number</string>
+  <string name="Enter_your" platform="android">Enter your\u0020</string>
   <string name="Enter_your_PIN" platform="android, iOS">Enter your PIN</string>
   <string name="Enter_your_PIN_to_continue" platform="android, iOS, Desktop">Enter your PIN to continue</string>
   <string name="EOS_contract_address" platform="android">EOS contract address</string>
