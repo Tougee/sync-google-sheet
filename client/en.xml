@@ -197,7 +197,6 @@
   <string name="Amount" platform="android, iOS">Amount</string>
   <string name="an_audio" platform="android">an audio</string>
   <string name="animals_and_nature" platform="Desktop">Animals &amp; Nature</string>
-  <string name="anonymous_number" platform="android">anonymous number</string>
   <string name="ANSWER" platform="android">ANSWER</string>
   <string name="app_card_share_disallow" platform="Desktop">Disallow sharing of this URL</string>
   <string name="app_card_shareable_false" platform="android, iOS">The card has been set to not allow sharing</string>
@@ -1040,7 +1039,6 @@
   <string name="Phone_Contact" platform="android, iOS">Phone Contacts</string>
   <string name="Phone_Contacts" platform="android, iOS">Phone Contacts</string>
   <string name="Phone_Number" platform="android, iOS, Desktop">Phone Number</string>
-  <string name="phone_number" platform="android">phone number</string>
   <string name="Phone_number_change" platform="android, iOS">Phone number change</string>
   <string name="phone_number_privacy" platform="android, iOS">Who can find me by my number</string>
   <string name="Photo" platform="android, iOS">Photo</string>

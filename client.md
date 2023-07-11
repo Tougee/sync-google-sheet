@@ -198,7 +198,6 @@
 | android, iOS | Amount | Amount | 金额  | 数量  | Jumlah | Jumlah |
 | android | an_audio | an audio | 一条语音 | 音声ファイル |     |     |
 | Desktop | animals_and_nature | Animals & Nature | 动物与自然 |     |     |     |
-| android | anonymous_number | anonymous number | 匿名号码 |     |     |     |
 | android | ANSWER | ANSWER | 接听  | 電話に出る | JAWAPAN | JAWAB |
 | Desktop | app_card_share_disallow | Disallow sharing of this URL | 该链接已被设置为不允许分享 | このURLの共有を許可しない |     |     |
 | android, iOS | app_card_shareable_false | The card has been set to not allow sharing | 该卡片已被设置为不允许转发 | このカードを共有することはできません |     |     |
@@ -1041,7 +1040,6 @@
 | android, iOS | Phone_Contact | Phone Contacts | 手机联系人 | 連絡帳 | Kenalan Telefon | Kontak Telepon |
 | android, iOS | Phone_Contacts | Phone Contacts | 手机通讯录 | 連絡帳 | Kenalan Telefon | Kontak Telepon |
 | android, iOS, Desktop | Phone_Number | Phone Number | 手机号码 | 電話番号を変更する | Nombor telefon | Nomor Telepon |
-| android | phone_number | phone number | 手机号码 |     |     |     |
 | android, iOS | Phone_number_change | Phone number change | 修改手机号 | 電話番号変更 | Tukar nombor telefon | Perubahan nomor telepon |
 | android, iOS | phone_number_privacy | Who can find me by my number | 谁可以通过手机号找到你 | あなたを電話番号検索で追加できるユーザー | Siapa yang dapat mencari saya dengan nombor saya | Siapa yang dapat menemukan saya menurut nomor saya |
 | android, iOS | Photo | Photo | 照片  | 写真  | Foto | Foto |

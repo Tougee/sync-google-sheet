@@ -197,7 +197,6 @@
   <string name="Amount" platform="android, iOS">金额</string>
   <string name="an_audio" platform="android">一条语音</string>
   <string name="animals_and_nature" platform="Desktop">动物与自然</string>
-  <string name="anonymous_number" platform="android">匿名号码</string>
   <string name="ANSWER" platform="android">接听</string>
   <string name="app_card_share_disallow" platform="Desktop">该链接已被设置为不允许分享</string>
   <string name="app_card_shareable_false" platform="android, iOS">该卡片已被设置为不允许转发</string>
@@ -1024,7 +1023,6 @@
   <string name="Phone_Contact" platform="android, iOS">手机联系人</string>
   <string name="Phone_Contacts" platform="android, iOS">手机通讯录</string>
   <string name="Phone_Number" platform="android, iOS, Desktop">手机号码</string>
-  <string name="phone_number" platform="android">手机号码</string>
   <string name="Phone_number_change" platform="android, iOS">修改手机号</string>
   <string name="phone_number_privacy" platform="android, iOS">谁可以通过手机号找到你</string>
   <string name="Photo" platform="android, iOS">照片</string>
