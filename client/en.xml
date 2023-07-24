@@ -334,6 +334,7 @@
   <string name="chat_delete_url" platform="android">https://mixinmessenger.zendesk.com/hc/articles/360028209571</string>
   <string name="chat_group_add" platform="android, iOS, Desktop">%1$s added %2$s</string>
   <string name="chat_group_call_cancel" platform="android, iOS">%1$s has canceled group call</string>
+  <string name="chat_group_call_cancel_other" platform="android, iOS">%1$s did not answer group call</string>
   <string name="chat_group_call_decline" platform="android, iOS">%1$s has declined group call</string>
   <string name="chat_group_call_end" platform="android">Group call has ended</string>
   <string name="chat_group_call_invite" platform="android, iOS">%1$s has invited you to a group call</string>

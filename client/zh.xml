@@ -330,6 +330,7 @@
   <string name="chat_delete_message.count" platform="android, Desktop">删除 %1$d 条消息吗？</string>
   <string name="chat_group_add" platform="android, iOS, Desktop">%1$s添加了%2$s</string>
   <string name="chat_group_call_cancel" platform="android, iOS">%1$s已取消群组语音</string>
+  <string name="chat_group_call_cancel_other" platform="android, iOS">%1$s未接听群组语音</string>
   <string name="chat_group_call_decline" platform="android, iOS">%1$s已拒绝群组语音</string>
   <string name="chat_group_call_end" platform="android">群组语音已结束</string>
   <string name="chat_group_call_invite" platform="android, iOS">%1$s邀请你加入群组语音</string>
