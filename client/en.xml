@@ -80,7 +80,7 @@
   <string name="Importing_Chat_Progress" platform="iOS">Importing chat  (%1$s%)</string>
   <string name="unable_connect_to_desktop" platform="iOS, android">Unable to connect to the desktop, please try again later</string>
   <string name="Overwrite" platform="iOS, android">Overwrite</string>
-  <string name="not_supported_deposit" platform="android, iOS">Mixin Wallet does not support the deposit for %1$s. Please note that you can continue to transfer or withdraw the deposited %2$s. Read the document to **learn more**.</string>
+  <string name="not_supported_deposit" platform="android, iOS">Mixin ceases support for deposit service on the %1$s. You can continue to withdraw and transfer %1$s in the wallet balance. Read the document to **learn more**.</string>
   <string name="access_your_bots_list" platform="android, iOS">access your bots list</string>
   <string name="access_your_circle_list" platform="android, iOS">access your circle list</string>
   <string name="access_your_collectibles" platform="android, iOS">access your collectibles</string>
