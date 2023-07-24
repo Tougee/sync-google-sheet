@@ -81,7 +81,7 @@
 | iOS | Importing_Chat_Progress | Importing chat  (%1$s%) | 导入聊天记录（%1$s%） |     |     |     |
 | iOS, android | unable_connect_to_desktop | Unable to connect to the desktop, please try again later | 无法连接到桌面，请稍后重试 |     |     |     |
 | iOS, android | Overwrite | Overwrite | 覆盖  |     |     |     |
-| android, iOS | not_supported_deposit | Mixin ceases support for deposit service on the %1$s. You can continue to withdraw and transfer %1$s in the wallet balance. Read the document to **learn more**. | Mixin 已停止支持 %1$s 的充值服务。您可以继续提现和转账钱包余额中的 %1$s。**了解更多**请阅读文档。 |     |     |     |
+| android, iOS | not_supported_deposit | Mixin ceases support for deposit service on the %1$s. You can continue to withdraw and transfer %2$s in the wallet balance. Read the document to **learn more**. | Mixin 已停止支持 %1$s 的充值服务。您可以继续提现和转账钱包余额中的 %2$s。**了解更多**请阅读文档。 |     |     |     |
 | android, iOS | access_your_bots_list | access your bots list | 访问你的机器人列表 | あなたのミニアプリ一覧へのアクセス | akses senarai aplikasi anda | mengakses daftar aplikasi Anda |
 | android, iOS | access_your_circle_list | access your circle list | 访问你的圈子列表 | グループリスト一覧へのアクセス | akses senarai lingkaran anda |     |
 | android, iOS | access_your_collectibles | access your collectibles | 访问你的 NFT 列表 | あなたのNFTコレクションへのアクセス |     |     |
