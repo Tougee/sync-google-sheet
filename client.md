@@ -1700,4 +1700,4 @@
 | android, iOS | error_payment_capture_failed | ERROR 10603: Payment capture failed | ERROR 10603: 支付确认失败 |     |     |     |
 | android, iOS | error_card_not_supported | ERROR 10604: Card not supported | ERROR 10604: 不支持此卡片 |     |     |     |
 | android, iOS | calculating | Calculating… | 正在计算… |     |     |     |
-| android, iOS | processing | Processing | 处理中 |     |     |     |
+| android, iOS | processing | Processing | 处理中 | s   |     |     |
