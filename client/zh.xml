@@ -1671,4 +1671,5 @@
   <string name="error_card_not_supported" platform="android, iOS">ERROR 10604: 不支持此卡片</string>
   <string name="calculating" platform="android, iOS">正在计算…</string>
   <string name="processing" platform="android, iOS">处理中</string>
+  <string name="buy" platform="android, iOS">购买</string>
 </resources>

@@ -1700,4 +1700,5 @@
   <string name="error_card_not_supported" platform="android, iOS">ERROR 10604: Card not supported</string>
   <string name="calculating" platform="android, iOS">Calculating…</string>
   <string name="processing" platform="android, iOS">Processing</string>
+  <string name="buy" platform="android, iOS">Buy</string>
 </resources>
