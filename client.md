@@ -1660,8 +1660,9 @@
 | android, iOS | identity_verification_description | Your identity is being verified. We will send you message on once your verification has completed by Mixin Messenger. | 正在验证您的身份。一旦您的验证完成，我们将通过 Mixin Messenger 向您发送消息。 |     |     |     |
 | android, iOS | additional_verification | Additional Verification | 补充验证材料 |     |     |     |
 | android, iOS | additional_verification_description | We need you to submit additional information to meet regulatory requirements, thank you for your understanding and support. | 根据监管需求，我们需要您补充验证材料。感谢您的理解与支持 |     |     |     |
+| android, iOS | verification_blocked_description | Your verification failed, possibly because there was a problem with some documents, please click the button below to contact with us. | 你的验证失败了，可能是因为提交的文件有问题，请点击下面按钮联系客服。 |     |     |     |
 | android, iOS | verification_failed | Verification Failed | 验证失败 |     |     |     |
-| android, iOS | verification_failed_description | Your verification failed, possibly because all required identification documents were not submitted or there was a problem with some documents. | 你的验证失败了，可能是因为提交的文件有问题，请点击下面按钮联系客服。 |     |     |     |
+| android, iOS | verification_failed_description | Your verification failed, possibly because all required identification documents were not submitted or there was a problem with some documents. | 您的验证失败，可能是因为未提交所有必需的身份证明文件或某些文件存在问题。 |     |     |     |
 | android, iOS | chat_with_us | Chat with us | 联系客服 |     |     |     |
 | android, iOS | sumsub_not_ready | KYC not available | KYC服务不可用 |     |     |     |
 | android, iOS | buy_asset | Buy %1$s | 购买 %1$s |     |     |     |

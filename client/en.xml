@@ -1659,6 +1659,7 @@
   <string name="identity_verification_description" platform="android, iOS">Your identity is being verified. We will send you message on once your verification has completed by Mixin Messenger.</string>
   <string name="additional_verification" platform="android, iOS">Additional Verification</string>
   <string name="additional_verification_description" platform="android, iOS">We need you to submit additional information to meet regulatory requirements, thank you for your understanding and support.</string>
+  <string name="verification_blocked_description" platform="android, iOS">Your verification failed, possibly because there was a problem with some documents, please click the button below to contact with us.</string>
   <string name="verification_failed" platform="android, iOS">Verification Failed</string>
   <string name="verification_failed_description" platform="android, iOS">Your verification failed, possibly because all required identification documents were not submitted or there was a problem with some documents.</string>
   <string name="chat_with_us" platform="android, iOS">Chat with us</string>
