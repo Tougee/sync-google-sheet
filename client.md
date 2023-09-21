@@ -1429,6 +1429,7 @@
 | android | Thursday | Thursday | 星期四 | 木曜日 | Khamis | Kamis |
 | android, iOS, Desktop | Time | Time | 时间  | 日時  | Masa | Waktu |
 | android, iOS | tip_create_pin_title | Set a 6 digit PIN to create your first digital wallet | 设置 6 位数字 PIN 创建你的第一个数字钱包 | 6桁のPINコードを作成してください | Sediakan PIN dompet 6 digit untuk membuat dompet digital pertama anda | Siapkan PIN dompet 6 digit untuk membuat dompet digital pertama Anda |
+| android, iOS | tip_recovery_failed | TIP private key recovery failed. | TIP 私钥恢复失败。 |     |     |     |
 | android,iOS | TIP_creation_introduction | Set a 6 digit Wallet PIN to create your first digital wallet, the PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **learn more**. | 设置 6 位数字 PIN 创建你的第一个加密货币钱包，PIN 基于去中心化密钥派生协议 Throttled Identity Protocol，阅读文档以**了解更多**。 |     |     |     |
 | android,iOS | TIP_introduction | The 6-digit PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **learn more**. | 6 位数字 PIN 基于去中心化密钥派生协议 Throttled Identity Protocol，阅读文档以**了解更多**。 |     |     |     |
 | android, iOS | title_participants | %1$d Participant | %1$d 成员 | %1$d人の参加者 |     |     |
