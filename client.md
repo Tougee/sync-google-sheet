@@ -1718,4 +1718,4 @@
 | android, iOS | asset_migration_content | Mixin Network is upgraded and you still have assets in the legacy network, it\'s recommended to migrate your assets to the new network. | Mixin Network 进行了网络升级，您还有资产在旧的网络，推荐将您的资产迁移到新系统。 |     |     |     |
 | android, iOS | combim_utxo | Combine UTXOs | 归集 UTXO |     |     |     |
 | android,iOS | Asset_Migration | Network Upgrade | 资产迁移 |     |     |     |
-| android,iOS | Start_Migration |     |     |     |     |     |
+| android,iOS | Start_Migration | Start the migration | 开始迁移 |     |     |     |

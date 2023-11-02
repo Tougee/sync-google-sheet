@@ -1688,4 +1688,5 @@
   <string name="asset_migration_content" platform="android, iOS">Mixin Network 进行了网络升级，您还有资产在旧的网络，推荐将您的资产迁移到新系统。</string>
   <string name="combim_utxo" platform="android, iOS">归集 UTXO</string>
   <string name="Asset_Migration" platform="android,iOS">资产迁移</string>
+  <string name="Start_Migration" platform="android,iOS">开始迁移</string>
 </resources>

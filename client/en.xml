@@ -1717,4 +1717,5 @@
   <string name="asset_migration_content" platform="android, iOS">Mixin Network is upgraded and you still have assets in the legacy network, it\'s recommended to migrate your assets to the new network.</string>
   <string name="combim_utxo" platform="android, iOS">Combine UTXOs</string>
   <string name="Asset_Migration" platform="android,iOS">Network Upgrade</string>
+  <string name="Start_Migration" platform="android,iOS">Start the migration</string>
 </resources>
