@@ -1711,8 +1711,8 @@
 | iOS | buying_unavailable_description | Our team is working diligently to expand our reach, with the goal of supporting your region in the near future. Once we're ready to roll, we'll make sure to drop you a note. | 我们的团队正在努力扩大影响，目标是在不久的将来为您所在的地区提供服务。 一旦我们准备好便会给您留言。 |     |     |     |
 | Desktop | show_identity_number | Show Identity Number | 显示 ID |     |     |     |
 | Desktop | chat | Chat | 聊天  |     |     |     |
-| android, iOS | asset_migration_hint | You have unmigrated assets, click to start the migration | 您有未迁移的资产，点击开始迁移 |     |     |     |
+| android, iOS | asset_migration_hint | You have assets in the legacy network, please view here. | 您还有资产在旧的 Mixin 网络，点击查看。 |     |     |     |
 | android, iOS | error_opponent_not_registered_to_safe | ERROR 10404: The opponent is using an earlier version, you can remind them to update | ERROR 10404: 对方客户端版本过低，请提醒对方更新客户端到最新版本 |     |     |     |
 | android, iOS | insufficient_balance | Insufficient balance | 余额不足 | 残高が不足しています | Baki tidak mencukupi | Saldo tidak cukup |
-| android, iOS | utxo_count_exceeded | Too many UTXO are used in this transaction, please try to transfer money in batches | 该交易使用的 UTXO 数量过多，请尝试分批转账 |     |     |     |
+| android, iOS | utxo_count_exceeded | This transaction consumes too many UTXOs, please try to combine UTXOs or split the transaction. | 该交易使用的 UTXO 数量过多，请尝试首先归集 UTXO 或者分批转账。 |     |     |     |
 | android, iOS |     |     |     |     |     |     |
