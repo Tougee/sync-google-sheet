@@ -1720,3 +1720,5 @@
 | android, iOS | Combine_utxo | Combine UTXOs | 归集 UTXO |     |     |     |
 | android,iOS | Asset_Migration | Network Upgrade | 资产迁移 |     |     |     |
 | android,iOS | Start_Migration | Start the migration | 开始迁移 |     |     |     |
+| android,iOS | Enter_your_PIN_to_verify | Enter your PIN to verify |     |     |     |     |
+| android | Registering | Registering… |     |     |     |     |

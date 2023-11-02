@@ -1719,4 +1719,6 @@
   <string name="Combine_utxo" platform="android, iOS">Combine UTXOs</string>
   <string name="Asset_Migration" platform="android,iOS">Network Upgrade</string>
   <string name="Start_Migration" platform="android,iOS">Start the migration</string>
+  <string name="Enter_your_PIN_to_verify" platform="android,iOS">Enter your PIN to verify</string>
+  <string name="Registering" platform="android">Registering…</string>
 </resources>
