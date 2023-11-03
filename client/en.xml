@@ -1721,4 +1721,6 @@
   <string name="Registering" platform="android">Registering…</string>
   <string name="deposit_hash" platform="android,iOS">Deposit Hash</string>
   <string name="withdrawal_hash" platform="android,iOS">Withdrawal Hash</string>
+  <string name="Anonymous" platform="android,iOS">Anonymous</string>
+  <string name="Confirmations" platform="android,iOS">Confirmations</string>
 </resources>
