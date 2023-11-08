@@ -1724,4 +1724,5 @@
   <string name="Anonymous" platform="android,iOS,Desktop">Anonymous</string>
   <string name="Confirmations" platform="android,iOS,Desktop">Confirmations</string>
   <string name="copySelectedText" platform="Desktop">Copy Selected Text</string>
+  <string name="legacy_network_transfer_hint" platform="android,iOS">Current transfer is using legacy network</string>
 </resources>

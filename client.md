@@ -1725,4 +1725,4 @@
 | android,iOS,Desktop | Anonymous | Anonymous | 匿名  |     |     |     |
 | android,iOS,Desktop | Confirmations | Confirmations | 区块确认数 |     |     |     |
 | Desktop | copySelectedText | Copy Selected Text | 复制已选择的文本 |     |     |     |
-| android,iOS | legacy_network_transfer_hint |     |     |     |     |     |
+| android,iOS | legacy_network_transfer_hint | Current transfer is using legacy network | 当前转账使用的是旧网络 |     |     |     |
