@@ -604,6 +604,7 @@
   <string name="error_used_phone" platform="android, iOS, Desktop">ERROR 20122: This phone number is already associated with another account.</string>
   <string name="error_user_invalid_format" platform="android, Desktop">Invalid user id</string>
   <string name="error_withdrawal_memo_format_incorrect" platform="android, iOS, Desktop">ERROR 20131: Withdrawal memo format incorrect.</string>
+  <string name="error_withdrawal_suspend" platform="android, iOS, Desktop">ERROR 20137: Withdrawal suspend.</string>
   <string name="Everybody" platform="android, iOS">Everybody</string>
   <string name="Exchanging_data" platform="android,iOS">Synchronization key shards in progress %1$s%%…</string>
   <string name="Exit" platform="android, Desktop">Exit</string>
