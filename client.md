@@ -1732,3 +1732,4 @@
 | android,iOS | withdrawal_suspended_description | %1$s withdrawals are temporarily suspended, possibly due to node failure, hard bifurcation of blockchain network, or congestion. Please try again later. | %1$s 提现已暂停，可能的原因是因为节点故障、区块链网络硬分叉或者拥堵，请耐心等候并稍后重试 |     |     |     |
 | android,iOS | contact_support | Contact Support | 联系客服 |     |     |     |
 | android,iOS | select_a_token_for_the_fee | Select a token for the fee | 选择支付手续费的币种 |     |     |     |
+| android,iOS | withdrawal_pending | Pending | 充值中 |     |     |     |

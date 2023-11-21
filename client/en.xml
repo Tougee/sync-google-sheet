@@ -1731,4 +1731,5 @@
   <string name="withdrawal_suspended_description" platform="android,iOS">%1$s withdrawals are temporarily suspended, possibly due to node failure, hard bifurcation of blockchain network, or congestion. Please try again later.</string>
   <string name="contact_support" platform="android,iOS">Contact Support</string>
   <string name="select_a_token_for_the_fee" platform="android,iOS">Select a token for the fee</string>
+  <string name="withdrawal_pending" platform="android,iOS">Pending</string>
 </resources>
