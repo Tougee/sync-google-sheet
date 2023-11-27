@@ -455,13 +455,12 @@
   <string name="Deleted" platform="iOS">Deleted</string>
   <string name="Deposit" platform="android, iOS, Desktop">Deposit</string>
   <string name="deposit_account_attention" platform="android, iOS">Attention: Please try a small amount for the first deposit. Both a Memo and an Address are required to successfully deposit your %1$s to Mixin Messenger.</string>
-  <string name="Deposit_at_least" platform="iOS">Deposit at least %@ %@ for the first time.</string>
   <string name="deposit_attention" platform="android, iOS">Please try a small amount for the first deposit.</string>
   <string name="deposit_confirmation" platform="android, iOS">Deposit will arrive %1$d block confirmation</string>
   <string name="deposit_confirmation.count" platform="android, iOS">Deposit will arrive %1$d block confirmations</string>
   <string name="deposit_memo_notice" platform="android">Memo is required, or you will lose your coins.</string>
   <string name="deposit_notice" platform="android">Both Memo and Address are required to deposit your %1$s to you account.</string>
-  <string name="deposit_reserve" platform="android, iOS">Deposit at least %1$s for the first time.</string>
+  <string name="deposit_dust" platform="android, iOS">Minimum deposit: %2$s</string>
   <string name="deposit_tip_btc" platform="android, iOS">This address only supports BTC.</string>
   <string name="deposit_tip_common" platform="android, iOS">This address only supports %1$s.</string>
   <string name="deposit_tip_eos" platform="android, iOS">This address supports all base on EOS tokens.</string>

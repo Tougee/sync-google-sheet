@@ -396,13 +396,12 @@
   <string name="Deleted" platform="iOS">削除しました</string>
   <string name="Deposit" platform="android, iOS, Desktop">入金</string>
   <string name="deposit_account_attention" platform="android, iOS">注意： 最初の入金は少額でお試しください。Mixinに %1$s を入金するためには、メモとアドレスの両方の記入が必要です。</string>
-  <string name="Deposit_at_least" platform="iOS">最初の入金は%@ %@ 以上に指定してください</string>
   <string name="deposit_attention" platform="android, iOS">注意: 最初は必ず少額で入金テストをしてください。</string>
   <string name="deposit_confirmation" platform="android, iOS">入金した仮想通貨は、%1$dブロック確認後に着金します</string>
   <string name="deposit_confirmation.count" platform="android, iOS">入金した仮想通貨は、%1$dブロック確認後に着金します</string>
   <string name="deposit_memo_notice" platform="android">メモが必要です、メモを添付せずに送金した場合に資産を失うおそれがあります</string>
   <string name="deposit_notice" platform="android">%1$sをあなたのアドレスに入金するためには、メモと入金先アドレスの両方の記入が必要です</string>
-  <string name="deposit_reserve" platform="android, iOS">最初は、%1$s以上の金額を入金してください</string>
+  <string name="deposit_dust" platform="android, iOS">最初は、%1$s以上の金額を入金してください</string>
   <string name="deposit_tip_btc" platform="android, iOS">このアドレスはビットコインのみサポートしています</string>
   <string name="deposit_tip_common" platform="android, iOS">このアドレスは%1$sのみサポートしています</string>
   <string name="deposit_tip_eos" platform="android, iOS">このアドレスはEOSベースの全てのトークンをサポートしています</string>
