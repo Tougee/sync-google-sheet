@@ -401,7 +401,6 @@
   <string name="deposit_confirmation.count" platform="android, iOS">入金した仮想通貨は、%1$dブロック確認後に着金します</string>
   <string name="deposit_memo_notice" platform="android">メモが必要です、メモを添付せずに送金した場合に資産を失うおそれがあります</string>
   <string name="deposit_notice" platform="android">%1$sをあなたのアドレスに入金するためには、メモと入金先アドレスの両方の記入が必要です</string>
-  <string name="deposit_dust" platform="android, iOS">最初は、%1$s以上の金額を入金してください</string>
   <string name="deposit_tip_btc" platform="android, iOS">このアドレスはビットコインのみサポートしています</string>
   <string name="deposit_tip_common" platform="android, iOS">このアドレスは%1$sのみサポートしています</string>
   <string name="deposit_tip_eos" platform="android, iOS">このアドレスはEOSベースの全てのトークンをサポートしています</string>

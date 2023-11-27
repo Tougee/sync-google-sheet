@@ -461,7 +461,7 @@
 | android, iOS | deposit_confirmation.count | Deposit will arrive %1$d block confirmations | 充值到账需要 %1$d 个区块确认。 | 入金した仮想通貨は、%1$dブロック確認後に着金します | Deposit akan tiba setelah sekurang-kurangnya %1$d pengesahan sekatan | Deposit akan tiba setelah setidaknya %1$d konfirmasi block |
 | android | deposit_memo_notice | Memo is required, or you will lose your coins. | 充值时务必填写 Memo（备注），否则您会丢失您的数字币 | メモが必要です、メモを添付せずに送金した場合に資産を失うおそれがあります |     |     |
 | android | deposit_notice | Both Memo and Address are required to deposit your %1$s to you account. | 地址 和 Memo（备注）同时使用才能充值 %1$s 到你的账号。 | %1$sをあなたのアドレスに入金するためには、メモと入金先アドレスの両方の記入が必要です |     |     |
-| android, iOS | deposit_dust | Minimum deposit: %2$s | 最小充值数： | 最初は、%1$s以上の金額を入金してください | Deposit sekurang-kurangnya %1$s untuk pertama kalinya. | Deposit minimal %1$s untuk pertama kali. |
+| android, iOS | deposit_dust | Minimum deposit: %1$s %2$s | 最小充值数：%1$s %2$s |     |     |     |
 | android, iOS | deposit_tip_btc | This address only supports BTC. | 该充值地址仅支持 BTC。 | このアドレスはビットコインのみサポートしています | Alamat ini hanya menyokong BTC. | Alamat ini hanya mendukung BTC. |
 | android, iOS | deposit_tip_common | This address only supports %1$s. | 该充值地址仅支持 %1$s。 | このアドレスは%1$sのみサポートしています | Alamat ini hanya menyokong %1$s. | Alamat ini hanya mendukung %1$s. |
 | android, iOS | deposit_tip_eos | This address supports all base on EOS tokens. | 支持所有基于 EOS 发行的代币。 | このアドレスはEOSベースの全てのトークンをサポートしています | Alamat ini menyokong semua asas pada token EOS, seperti EOS, IQ, dll. | Alamat ini mendukung semua token berbasis EOS, seperti EOS, IQ, dll. |

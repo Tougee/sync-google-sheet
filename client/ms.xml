@@ -209,7 +209,6 @@
   <string name="deposit_account_attention" platform="android, iOS">Perhatian: Cuba sebilangan kecil untuk deposit pertama. Kedua-dua Memo dan Alamat diperlukan untuk memasukkan deposit anda dengan jayanya %1$s ke Mixin Messenger.</string>
   <string name="deposit_attention" platform="android, iOS">Cuba sedikit untuk deposit pertama.</string>
   <string name="deposit_confirmation.count" platform="android, iOS">Deposit akan tiba setelah sekurang-kurangnya %1$d pengesahan sekatan</string>
-  <string name="deposit_dust" platform="android, iOS">Deposit sekurang-kurangnya %1$s untuk pertama kalinya.</string>
   <string name="deposit_tip_btc" platform="android, iOS">Alamat ini hanya menyokong BTC.</string>
   <string name="deposit_tip_common" platform="android, iOS">Alamat ini hanya menyokong %1$s.</string>
   <string name="deposit_tip_eos" platform="android, iOS">Alamat ini menyokong semua asas pada token EOS, seperti EOS, IQ, dll.</string>
