@@ -834,7 +834,7 @@
 | android, iOS, Desktop | Media | Media | 媒体  | メディア | Media | Media |
 | android, iOS, Desktop | Memo | Memo | 备注  | メモ  | Memo | Memo |
 | android | message | message | 消息  | メッセージ | mesej | pesan |
-| android, iOS, Desktop | message_e2ee | Messages to this conversation are encrypted end-to-end, tap for more info. | 此对话中的消息使用端对端加密。点击了解更多。 | チャットルームでのメッセージはE2Eで暗号化されています。詳細はタップしてください。 | Mesej ke perbualan ini disulitkan dari hujung ke hujung, ketuk untuk maklumat lebih lanjut. | Pesan ke percakapan ini dienkripsi end-to-end, ketuk untuk info selengkapnya. |
+| android, iOS, Desktop | message_e2ee | Messages to this conversation are end-to-end encrypted, tap for more info. | 此对话中的消息使用端对端加密。点击了解更多。 | チャットルームでのメッセージはE2Eで暗号化されています。詳細はタップしてください。 | Mesej ke perbualan ini disulitkan dari hujung ke hujung, ketuk untuk maklumat lebih lanjut. | Pesan ke percakapan ini dienkripsi end-to-end, ketuk untuk info selengkapnya. |
 | iOS | message_encryption_hint | Messages between users are protected with an end-to-end encryption | 用户之间的消息将受到端对端加密保护 | ユーザー間のメッセージはE2Eの暗号化によって守られています |     |     |
 | android, iOS, Desktop | Message_not_found | Message not found | 找不到该消息 | メッセージが見つかりません | Mesej tidak dijumpai | Pesan tidak ditemukan |
 | android, iOS, Desktop | message_not_support | This type of message is not supported, please upgrade Mixin to the latest version. | 不支持此类型消息。请升级 Mixin 查看。 | このメッセージは未対応であるため、Mixinを最新版にアップデートしてください。 | Mesej jenis ini tidak disokong, sila tingkatkan Mixin ke versi terkini. | Jenis pesan ini tidak didukung, harap tingkatkan Mixin ke versi terbaru. |
