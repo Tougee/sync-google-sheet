@@ -652,9 +652,9 @@
 | Desktop | food_and_drink | Food & Drink | 食物与饮料 |     |     |     |
 | android, Desktop | Format_not_supported | Format not supported | 不支持该格式 | サポートされていないフォーマットです | Format tidak disokong | Format tidak didukung |
 | android, iOS, Desktop | Forward | Forward | 转发  | 転送  | Ke hadapan | Teruskan |
-| android | Forward_message | Forward message | 转发消息 | 転送メッセージ |     |     |
-| android | Forward_success | Forward success | 转发成功 | 転送成功 | kejayaan hadapan | Berhasil meneruskan |
-| android | Forward_to_friend | Forward to friend | 转发给好友 | 友達に転送する | Teruskan kepada rakan | Teruskan ke teman |
+| android | Forward_message | Forward a message | 转发消息 | 転送メッセージ |     |     |
+| android | Forward_success | Forwarded successfully | 转发成功 | 転送成功 | kejayaan hadapan | Berhasil meneruskan |
+| android | Forward_to_friend | Forward to a friend | 转发给好友 | 友達に転送する | Teruskan kepada rakan | Teruskan ke teman |
 | android, iOS | fourth_pin_confirm_hint | Yes, there is a fourth PIN confirmation, and I promise it's the last one to ensure you have remembered your PIN. The PIN is unrecoverable if lost. | 这是最后一次确认 PIN，记住：PIN 丢失将永远无法找回！ | 最終確認：PINコードを確実に記憶してください。ウォレットを失った場合、復元することはできません | Ya, terdapat pengesahan PIN keempat, dan saya berjanji ia adalah yang terakhir untuk memastikan anda mengingati PIN anda. PIN tidak dapat dipulihkan sekiranya hilang. | Ya, ada konfirmasi PIN keempat, dan saya berjanji ini yang terakhir untuk memastikan Anda mengingat PIN Anda. PIN tidak dapat dipulihkan jika hilang. |
 | android | Friday | Friday | 星期五 | 金曜日 | Jumaat | Jumat |
 | android, iOS, Desktop | From | From | 来自  | より  |     |     |
@@ -670,7 +670,7 @@
 | android | Google_Pay_error | Google pay is not available |     |     |     |     |
 | android, iOS | Got_it | Got it | 知道了 | 確認  | Faham | OK  |
 | android | got_it_count_down | Got it (%1$d) | 知道了（%1$d） | 確認 (%1$d) | Faham (%1$d) | OK (%1$d) |
-| android, Desktop | group_already_in | You already in the group | 你已经在该群组里 | すでにこのグループに参加しています。 | Anda sudah berada dalam kumpulan | Anda sudah bergabung dalam grup |
+| android, Desktop | group_already_in | You are already in the group. | 你已经在该群组里 | すでにこのグループに参加しています。 | Anda sudah berada dalam kumpulan | Anda sudah bergabung dalam grup |
 | android, iOS | Group_Call | Group Call | 群组语音 | グループ通話 | Panggilan Berkumpulan | Panggilan Grup |
 | android, iOS | group_call_end_with_duration | Group call ended, duration: %1$s | 群组语音结束，时长 %1$s | グループ通話は終了しました。通話時間：%1$s | Panggilan kumpulan berakhir, tempoh: %1$s | Panggilan grup berakhir, durasi: %1$s |
 | iOS | Group_call_has_been_declined | Group call has been declined | 已拒绝通话 | 権限不足のためグループ会話はできません。 |     |     |
@@ -692,7 +692,7 @@
 | iOS | group_qr_code_prompt | Scan the QR Code to join this group | 扫描二维码加入群组 | QRコードをスキャンしてこのグループに参加 |     |     |
 | android | group_role | You' re now an admin | 你现在成为管理员 | 管理者に任命されました | Anda sekarang adalah pentadbir | Anda sekarang adalah admin |
 | Desktop | groups | Groups | 群组  | グループ |     |     |
-| android, iOS, Desktop | Groups_In_Common | Groups In Common | 共同群组 | 共通のグループ |     |     |
+| android, iOS, Desktop | Groups_In_Common | Groups in Common | 共同群组 | 共通のグループ |     |     |
 | android | Hang_up | Hang up | 挂断  | 電話を切る | Letak gagang | Tutup |
 | iOS, Desktop | Help | Help | 帮助  | ヘルプ |     |     |
 | android, iOS, Desktop | Help_center | Help center | 帮助中心 | ヘルプセンター | Pusat bantuan | Pusat bantuan |

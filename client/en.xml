@@ -651,9 +651,9 @@
   <string name="food_and_drink" platform="Desktop">Food &amp; Drink</string>
   <string name="Format_not_supported" platform="android, Desktop">Format not supported</string>
   <string name="Forward" platform="android, iOS, Desktop">Forward</string>
-  <string name="Forward_message" platform="android">Forward message</string>
-  <string name="Forward_success" platform="android">Forward success</string>
-  <string name="Forward_to_friend" platform="android">Forward to friend</string>
+  <string name="Forward_message" platform="android">Forward a message</string>
+  <string name="Forward_success" platform="android">Forwarded successfully</string>
+  <string name="Forward_to_friend" platform="android">Forward to a friend</string>
   <string name="fourth_pin_confirm_hint" platform="android, iOS">Yes, there is a fourth PIN confirmation, and I promise it's the last one to ensure you have remembered your PIN. The PIN is unrecoverable if lost.</string>
   <string name="Friday" platform="android">Friday</string>
   <string name="From" platform="android, iOS, Desktop">From</string>
@@ -669,7 +669,7 @@
   <string name="Google_Pay_error" platform="android">Google pay is not available</string>
   <string name="Got_it" platform="android, iOS">Got it</string>
   <string name="got_it_count_down" platform="android">Got it (%1$d)</string>
-  <string name="group_already_in" platform="android, Desktop">You already in the group</string>
+  <string name="group_already_in" platform="android, Desktop">You are already in the group.</string>
   <string name="Group_Call" platform="android, iOS">Group Call</string>
   <string name="group_call_end_with_duration" platform="android, iOS">Group call ended, duration: %1$s</string>
   <string name="Group_call_has_been_declined" platform="iOS">Group call has been declined</string>
@@ -691,7 +691,7 @@
   <string name="group_qr_code_prompt" platform="iOS">Scan the QR Code to join this group</string>
   <string name="group_role" platform="android">You' re now an admin</string>
   <string name="groups" platform="Desktop">Groups</string>
-  <string name="Groups_In_Common" platform="android, iOS, Desktop">Groups In Common</string>
+  <string name="Groups_In_Common" platform="android, iOS, Desktop">Groups in Common</string>
   <string name="Hang_up" platform="android">Hang up</string>
   <string name="Help" platform="iOS, Desktop">Help</string>
   <string name="Help_center" platform="android, iOS, Desktop">Help center</string>
