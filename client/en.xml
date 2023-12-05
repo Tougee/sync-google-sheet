@@ -1735,4 +1735,5 @@
   <string name="withdrawal_pending" platform="android,iOS">Pending</string>
   <string name="depost_address_updated" platform="android,iOS">%1$s Deposit Address Updated</string>
   <string name="depost_address_updated_description" platform="android,iOS">Your %1$s deposit address has been updated. The deposit address will automatically update with system or network upgrades. Old addresses are still valid for deposits, but it is not recommended for further use.</string>
+  <string name="message_shareable_false" platform="android">The message has been set to not allow sharing.</string>
 </resources>
