@@ -887,7 +887,7 @@
 | android, iOS, Desktop | Name | Name | 名称  | 名前  | Nama | Nama |
 | iOS | Name_or_Phone_number | Name or Phone number | 姓名或手机号 | 名前か電話番号 |     |     |
 | android | need_background_permission | Requires start in background permission to continue. | 继续使用此功能需要后台弹出界面权限 | 続けるにはバックグラウンド許可が必要です | Memerlukan kebenaran mula di latar untuk meneruskan | Memerlukan izin mulai di latar belakang untuk melanjutkan |
-| android | need_camera_permission | Requires camera permission for continue | 继续使用此功能需要相机权限 | 続けるにはカメラの使用許可が必要です | Memerlukan kebenaran kamera untuk meneruskan | Memerlukan izin kamera untuk melanjutkan |
+| android | need_camera_permission | Requires camera permission to continue. | 继续使用此功能需要相机权限 | 続けるにはカメラの使用許可が必要です | Memerlukan kebenaran kamera untuk meneruskan | Memerlukan izin kamera untuk melanjutkan |
 | android, iOS | Need_help | Need help? | 需要帮助？ | ヘルプが必要ですか？ | Perlukan bantuan? | Butuh bantuan? |
 | android | Net_Diagnosis | Net Diagnosis | 网络诊断 | ネットワーク診断 |     |     |
 | android, iOS | network | Network | 网络  |     |     |     |
