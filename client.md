@@ -886,7 +886,7 @@
 | android, iOS, Desktop | NA  | N/A | 暂无价格 | なし  | N/A | N/A |
 | android, iOS, Desktop | Name | Name | 名称  | 名前  | Nama | Nama |
 | iOS | Name_or_Phone_number | Name or Phone number | 姓名或手机号 | 名前か電話番号 |     |     |
-| android | need_background_permission | Requires start in background permission for continue | 继续使用此功能需要后台弹出界面权限 | 続けるにはバックグラウンド許可が必要です | Memerlukan kebenaran mula di latar untuk meneruskan | Memerlukan izin mulai di latar belakang untuk melanjutkan |
+| android | need_background_permission | Requires start in background permission to continue. | 继续使用此功能需要后台弹出界面权限 | 続けるにはバックグラウンド許可が必要です | Memerlukan kebenaran mula di latar untuk meneruskan | Memerlukan izin mulai di latar belakang untuk melanjutkan |
 | android | need_camera_permission | Requires camera permission for continue | 继续使用此功能需要相机权限 | 続けるにはカメラの使用許可が必要です | Memerlukan kebenaran kamera untuk meneruskan | Memerlukan izin kamera untuk melanjutkan |
 | android, iOS | Need_help | Need help? | 需要帮助？ | ヘルプが必要ですか？ | Perlukan bantuan? | Butuh bantuan? |
 | android | Net_Diagnosis | Net Diagnosis | 网络诊断 | ネットワーク診断 |     |     |
@@ -1736,4 +1736,4 @@
 | android,iOS | withdrawal_pending | Pending | 充值中 |     |     |     |
 | android,iOS | depost_address_updated | %1$s Deposit Address Updated | %1$s 充值地址已更新 |     |     |     |
 | android,iOS | depost_address_updated_description | Your %1$s deposit address has been updated. The deposit address will automatically update with system or network upgrades. Old addresses are still valid for deposits, but it is not recommended for further use. | 您的 %1$s 充值地址已更新，充值地址将随着系统或网络升级而自动更新，旧的地址仍可充值并会自动入账，但是不推荐使用。 |     |     |     |
-| android | message_shareable_false | The message has been set to not allow sharing. |     |     |     |     |
+| android | message_shareable_false | The message has been set to not allow sharing. | 该消息已被设置为不允许转发 |     |     |     |

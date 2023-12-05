@@ -885,7 +885,7 @@
   <string name="NA" platform="android, iOS, Desktop">N/A</string>
   <string name="Name" platform="android, iOS, Desktop">Name</string>
   <string name="Name_or_Phone_number" platform="iOS">Name or Phone number</string>
-  <string name="need_background_permission" platform="android">Requires start in background permission for continue</string>
+  <string name="need_background_permission" platform="android">Requires start in background permission to continue.</string>
   <string name="need_camera_permission" platform="android">Requires camera permission for continue</string>
   <string name="Need_help" platform="android, iOS">Need help?</string>
   <string name="Net_Diagnosis" platform="android">Net Diagnosis</string>

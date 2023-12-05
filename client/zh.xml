@@ -1707,4 +1707,5 @@
   <string name="withdrawal_pending" platform="android,iOS">充值中</string>
   <string name="depost_address_updated" platform="android,iOS">%1$s 充值地址已更新</string>
   <string name="depost_address_updated_description" platform="android,iOS">您的 %1$s 充值地址已更新，充值地址将随着系统或网络升级而自动更新，旧的地址仍可充值并会自动入账，但是不推荐使用。</string>
+  <string name="message_shareable_false" platform="android">该消息已被设置为不允许转发</string>
 </resources>
