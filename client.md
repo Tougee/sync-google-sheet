@@ -701,7 +701,7 @@
 | android, iOS | Hide | Hide | 隐藏  | 非表示 | Sembunyii | Sembunyikan |
 | iOS | Hide_asset | Hide asset | 隐藏资产 | 資産を非表示にする |     |     |
 | Desktop | hide_mixin | Hide Mixin | 隐藏 Mixin | Mixinを非表示にする |     |     |
-| android, iOS | hold_to_record_audio | Hold to record, release to send | 长按说话，松手发送 | 長押しして録音、離して送信 | Tahan untuk merakam, lepaskan untuk hantar | Tahan untuk merekam, lepaskan untuk mengirim |
+| android, iOS | hold_to_record_audio | Hold to record, release to send. | 长按说话，松手发送 | 長押しして録音、離して送信 | Tahan untuk merakam, lepaskan untuk hantar | Tahan untuk merekam, lepaskan untuk mengirim |
 | Desktop | host | Host | 主机名 |     |     |     |
 | android, iOS, Desktop | Hour | %d Hour | %d 小时 | %d時間 |     |     |
 | android, iOS, Desktop | Hour.count | %d Hours | %d 小时 | %d時間 | %d Jam | %d Jam |

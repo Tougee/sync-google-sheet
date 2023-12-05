@@ -700,7 +700,7 @@
   <string name="Hide" platform="android, iOS">Hide</string>
   <string name="Hide_asset" platform="iOS">Hide asset</string>
   <string name="hide_mixin" platform="Desktop">Hide Mixin</string>
-  <string name="hold_to_record_audio" platform="android, iOS">Hold to record, release to send</string>
+  <string name="hold_to_record_audio" platform="android, iOS">Hold to record, release to send.</string>
   <string name="host" platform="Desktop">Host</string>
   <string name="Hour" platform="android, iOS, Desktop">%d Hour</string>
   <string name="Hour.count" platform="android, iOS, Desktop">%d Hours</string>
