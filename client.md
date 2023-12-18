@@ -1740,5 +1740,3 @@
 | android | message_shareable_false | The message has been set to not allow sharing. | 该消息已被设置为不允许转发 |     |     |     |
 | android | user_deleted_hint | The user has deleted the account. | 该用户已经删除了账号。 |     |     |     |
 | Desktop | encrypt_zip_file_with_password | Encrypt zip file with password | 使用密码来加密 zip 文件 |     |     |     |
-| android,iOS | send_to_address |     |     |     |     |     |
-| android,iOS | send_to_contact |     |     |     |     |     |
