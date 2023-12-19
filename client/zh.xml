@@ -1248,7 +1248,7 @@
   <string name="send_signed_message_confirmation" platform="android, iOS">此消息已被签名，点击下方按钮以发送或丢弃</string>
   <string name="Send_This_Location" platform="android, iOS">发送这个位置</string>
   <string name="send_to" platform="android, iOS">发送给 %1$s</string>
-  <string name="Send_to_contact" platform="android">转账给联系人</string>
+  <string name="Send_to_Contact" platform="android, iOS">转账给联系人</string>
   <string name="Send_to_Developer" platform="iOS, Desktop">把日志发给开发者</string>
   <string name="Send_To_Title" platform="iOS">转给</string>
   <string name="Send_transfer" platform="android">转出</string>

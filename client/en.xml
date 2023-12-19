@@ -1268,7 +1268,7 @@
   <string name="send_signed_message_confirmation" platform="android, iOS">The message has been signed successfully, click the button below to send or discard the signed message</string>
   <string name="Send_This_Location" platform="android, iOS">Send This Location</string>
   <string name="send_to" platform="android, iOS">Send to %1$s</string>
-  <string name="Send_to_contact" platform="android">Send to contact</string>
+  <string name="Send_to_Contact" platform="android, iOS">Send to Contact</string>
   <string name="Send_to_Developer" platform="iOS, Desktop">Send to Developer</string>
   <string name="Send_To_Title" platform="iOS">Send To</string>
   <string name="Send_transfer" platform="android">Send</string>
