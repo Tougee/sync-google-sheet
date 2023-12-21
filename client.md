@@ -1737,7 +1737,7 @@
 | android,iOS | withdrawal_suspended_description | %1$s withdrawals are temporarily suspended, possibly due to node failure, hard bifurcation of blockchain network, or congestion. Please try again later. | %1$s 提现已暂停，可能的原因是因为节点故障、区块链网络硬分叉或者拥堵，请耐心等候并稍后重试 |     |     |     |
 | android,iOS | contact_support | Contact Support | 联系客服 |     |     |     |
 | android,iOS | select_a_token_for_the_fee | Select a token for the fee | 选择支付手续费的币种 |     |     |     |
-| android,iOS | withdrawal_pending | Pending | 充值中 |     |     |     |
+| android,iOS | withdrawal_pending | Pending | 提现中 |     |     |     |
 | android,iOS | depost_address_updated | %1$s Deposit Address Updated | %1$s 充值地址已更新 |     |     |     |
 | android,iOS | depost_address_updated_description | Your %1$s deposit address has been updated. The deposit address will automatically update with system or network upgrades. Old addresses are still valid for deposits, but it is not recommended for further use. | 您的 %1$s 充值地址已更新，充值地址将随着系统或网络升级而自动更新，旧的地址仍可充值并会自动入账，但是不推荐使用。 |     |     |     |
 | android | message_shareable_false | The message has been set to not allow sharing. | 该消息已被设置为不允许转发 |     |     |     |
