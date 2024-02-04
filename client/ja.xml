@@ -708,7 +708,7 @@
   <string name="login_by_qrcode_tips_1" platform="Desktop">携帯でMixinを開き</string>
   <string name="login_by_qrcode_tips_2" platform="Desktop">画面に表示されるQRコードを読み取り、ログインします</string>
   <string name="Login_with_PIN" platform="android">PINコードでMixinにログインする</string>
-  <string name="Logined" platform="iOS">ログインしました</string>
+  <string name="Logined" platform="iOS,android">ログインしました</string>
   <string name="Logout" platform="android">ログアウト中…</string>
   <string name="Logs" platform="android, iOS">ログ</string>
   <string name="Lost_your_mobile_number" platform="android, iOS">電話番号をお忘れですか？</string>

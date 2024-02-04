@@ -866,7 +866,7 @@
   <string name="login_by_qrcode_tips_2" platform="Desktop">Scan the QR Code on the screen and confirm your login.</string>
   <string name="Login_desktop_first" platform="iOS,android">Please log in to the desktop first</string>
   <string name="Login_with_PIN" platform="android">Login with PIN</string>
-  <string name="Logined" platform="iOS">Logged in</string>
+  <string name="Logined" platform="iOS,android">Logged in</string>
   <string name="Logout" platform="android">Logout…</string>
   <string name="Logs" platform="android, iOS">Logs</string>
   <string name="Lost_your_mobile_number" platform="android, iOS">Lost your mobile number?</string>
@@ -1786,5 +1786,4 @@
   <string name="address_deleted" platform="android, iOS">Address Deleted</string>
   <string name="add_by_pin" platform="android, iOS">Add by PIN</string>
   <string name="delete_by_pin" platform="android, iOS">Delete by PIN</string>
-  <string name="Withdraw" platform="android, iOS">Withdraw</string>
 </resources>

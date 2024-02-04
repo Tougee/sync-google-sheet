@@ -849,7 +849,7 @@
   <string name="login_by_qrcode_tips_2" platform="Desktop">扫描屏幕上的二维码，确认登录。</string>
   <string name="Login_desktop_first" platform="iOS,android">请先登录桌面端</string>
   <string name="Login_with_PIN" platform="android">用 PIN 来登录</string>
-  <string name="Logined" platform="iOS">已登录</string>
+  <string name="Logined" platform="iOS,android">已登录</string>
   <string name="Logout" platform="android">退出中…</string>
   <string name="Logs" platform="android, iOS">日志</string>
   <string name="Lost_your_mobile_number" platform="android, iOS">手机丢失？</string>
@@ -1758,5 +1758,4 @@
   <string name="address_deleted" platform="android, iOS">地址已删除</string>
   <string name="add_by_pin" platform="android, iOS">通过 PIN 添加</string>
   <string name="delete_by_pin" platform="android, iOS">通过 PIN 删除</string>
-  <string name="Withdraw" platform="android, iOS">提取</string>
 </resources>

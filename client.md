@@ -867,7 +867,7 @@
 | Desktop | login_by_qrcode_tips_2 | Scan the QR Code on the screen and confirm your login. | 扫描屏幕上的二维码，确认登录。 | 画面に表示されるQRコードを読み取り、ログインします |     |     |
 | iOS,android | Login_desktop_first | Please log in to the desktop first | 请先登录桌面端 |     |     |     |
 | android | Login_with_PIN | Login with PIN | 用 PIN 来登录 | PINコードでMixinにログインする |     |     |
-| iOS | Logined | Logged in | 已登录 | ログインしました |     |     |
+| iOS,android | Logined | Logged in | 已登录 | ログインしました |     |     |
 | android | Logout | Logout… | 退出中… | ログアウト中… | Log keluar… | Keluar… |
 | android, iOS | Logs | Logs | 日志  | ログ  | Log | Log |
 | android, iOS | Lost_your_mobile_number | Lost your mobile number? | 手机丢失？ | 電話番号をお忘れですか？ | Kehilangan nombor telefon bimbit anda? | Kehilangan nomor ponsel Anda? |
@@ -1787,4 +1787,3 @@
 | android, iOS | address_deleted | Address Deleted | 地址已删除 |     |     |     |
 | android, iOS | add_by_pin | Add by PIN | 通过 PIN 添加 |     |     |     |
 | android, iOS | delete_by_pin | Delete by PIN | 通过 PIN 删除 |     |     |     |
-| android, iOS | Withdraw | Withdraw | 提取  |     |     |     |
