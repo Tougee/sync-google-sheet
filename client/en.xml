@@ -1787,6 +1787,8 @@
   <string name="receiver_will_receive" platform="android, iOS">Receiver will receive</string>
   <string name="address_added" platform="android, iOS">Address Added</string>
   <string name="address_deleted" platform="android, iOS">Address Deleted</string>
+  <string name="address_edited" platform="android, iOS">Address Edited</string>
   <string name="add_by_pin" platform="android, iOS">Add by PIN</string>
   <string name="delete_by_pin" platform="android, iOS">Delete by PIN</string>
+  <string name="edit_by_pin" platform="android, iOS">Edit by PIN</string>
 </resources>

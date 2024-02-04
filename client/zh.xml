@@ -1759,6 +1759,8 @@
   <string name="receiver_will_receive" platform="android, iOS">对方将收到</string>
   <string name="address_added" platform="android, iOS">地址已添加</string>
   <string name="address_deleted" platform="android, iOS">地址已删除</string>
+  <string name="address_edited" platform="android, iOS">地址已修改</string>
   <string name="add_by_pin" platform="android, iOS">通过 PIN 添加</string>
   <string name="delete_by_pin" platform="android, iOS">通过 PIN 删除</string>
+  <string name="edit_by_pin" platform="android, iOS">通过 PIN 修改</string>
 </resources>
