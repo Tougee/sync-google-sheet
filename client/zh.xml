@@ -1742,9 +1742,9 @@
   <string name="Revoke_Multisig_Signature" platform="android, iOS">撤销多签确认</string>
   <string name="Revoking_Multisig_Signature" platform="android, iOS">正在撤销多签</string>
   <string name="Revoking_Multisig_Failed" platform="android, iOS">撤销多签失败</string>
-  <string name="Confirm_Editing_Address" platform="android, iOS">更新地址确认</string>
-  <string name="Editing_Address" platform="android, iOS">正在更新地址</string>
-  <string name="Editing_Address_Failed" platform="android, iOS">更新地址失败</string>
+  <string name="Confirm_Editing_Address" platform="android, iOS">修改地址确认</string>
+  <string name="Editing_Address" platform="android, iOS">正在修改地址</string>
+  <string name="Editing_Address_Failed" platform="android, iOS">修改地址失败</string>
   <string name="Confirm_Adding_Address" platform="android, iOS">添加地址确认</string>
   <string name="Adding_Address" platform="android, iOS">正在添加地址</string>
   <string name="Adding_Address_Failed" platform="android, iOS">添加地址失败</string>
