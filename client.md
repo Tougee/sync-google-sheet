@@ -1774,6 +1774,9 @@
 | android, iOS | Confirm_Adding_Address | Confirm Adding Address | 添加地址确认 |     |     |     |
 | android, iOS | Adding_Address | Adding Address | 正在添加地址 |     |     |     |
 | android, iOS | Adding_Address_Failed | Adding Address Failed | 添加地址失败 |     |     |     |
+| android, iOS | Confirm_Adding_Address | Confirm Adding Address | 添加地址确认 |     |     |     |
+| android, iOS | Adding_Address | Adding Address | 正在添加地址 |     |     |     |
+| android, iOS | Adding_Address_Failed | Adding Address Failed | 添加地址失败 |     |     |     |
 | android, iOS | address_adding_description | The request to add the address is currently under verification by the Mixin server. Please wait a moment. | 正在将添加地址的请求发送到 Mixin 服务器验证，请稍候。 |     |     |     |
 | android, iOS | address_added_description | The Mixin server has confirmed your address addition request. You can immediately use this address for withdrawals. | 您添加地址的请求已通过 Mixin 服务器确认，您可以立刻使用该地址进行提现。 |     |     |     |
 | android, iOS | Confirm_Deleteing_Address | Confirm Deleteing Address | 删除地址确认 |     |     |     |
