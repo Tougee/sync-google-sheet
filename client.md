@@ -1771,9 +1771,9 @@
 | android, iOS | Revoke_Multisig_Signature | Revoke Multisig Signature | 撤销多签确认 |     |     |     |
 | android, iOS | Revoking_Multisig_Signature | Revoking Multisig Signature | 正在撤销多签 |     |     |     |
 | android, iOS | Revoking_Multisig_Failed | Revoking Multisig Failed | 撤销多签失败 |     |     |     |
-| android, iOS | Confirm_Editing_Address | Confirm Editing Address | 编辑地址确认 |     |     |     |
-| android, iOS | Editing_Address | Editing Address | 正在编辑地址 |     |     |     |
-| android, iOS | Editing_Address_Failed | Editing Address Failed | 编辑地址失败 |     |     |     |
+| android, iOS | Confirm_Editing_Address | Confirm Editing Address | 更新地址确认 |     |     |     |
+| android, iOS | Editing_Address | Editing Address | 正在更新地址 |     |     |     |
+| android, iOS | Editing_Address_Failed | Editing Address Failed | 更新地址失败 |     |     |     |
 | android, iOS | Confirm_Adding_Address | Confirm Adding Address | 添加地址确认 |     |     |     |
 | android, iOS | Adding_Address | Adding Address | 正在添加地址 |     |     |     |
 | android, iOS | Adding_Address_Failed | Adding Address Failed | 添加地址失败 |     |     |     |
