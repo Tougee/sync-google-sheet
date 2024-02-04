@@ -1779,7 +1779,7 @@
   <string name="address_adding_description" platform="android, iOS">The request to add the address is currently under verification by the Mixin server. Please wait a moment.</string>
   <string name="address_added_description" platform="android, iOS">The Mixin server has confirmed your address addition request. You can immediately use this address for withdrawals.</string>
   <string name="address_editing_description" platform="android, iOS">The request to edit the address is currently under verification by the Mixin server. Please wait a moment.</string>
-  <string name="address_edited_description" platform="android, iOS">The Mixin server has confirmed your address addition request. You can immediately use this address for withdrawals.</string>
+  <string name="address_edited_description" platform="android, iOS">The Mixin server has confirmed your address editing request. You can immediately use this address for withdrawals.</string>
   <string name="Confirm_Deleteing_Address" platform="android, iOS">Confirm Deleteing Address</string>
   <string name="Deleting_Address" platform="android, iOS">Deleting Address</string>
   <string name="Deleting_Address_Failed" platform="android, iOS">Deleting Address Failed</string>
