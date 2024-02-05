@@ -1795,4 +1795,4 @@
 | android, iOS | delete_by_pin | Delete by PIN | 通过 PIN 删除 |     |     |     |
 | android, iOS | edit_by_pin | Edit by PIN | 通过 PIN 修改 |     |     |     |
 | android, iOS | Enable | Enable | 启用  |     |     |     |
-| android, iOS | Not_Now | Not now |     |     |     |     |
+| android, iOS | Not_Now | Not Now | 现在不要 |     |     |     |
