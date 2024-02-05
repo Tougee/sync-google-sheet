@@ -1794,3 +1794,4 @@
 | android, iOS | add_by_pin | Add by PIN | 通过 PIN 添加 |     |     |     |
 | android, iOS | delete_by_pin | Delete by PIN | 通过 PIN 删除 |     |     |     |
 | android, iOS | edit_by_pin | Edit by PIN | 通过 PIN 修改 |     |     |     |
+| android, iOS | Enable | Enable | 启用  |     |     |     |
