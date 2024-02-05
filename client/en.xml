@@ -1794,4 +1794,5 @@
   <string name="delete_by_pin" platform="android, iOS">Delete by PIN</string>
   <string name="edit_by_pin" platform="android, iOS">Edit by PIN</string>
   <string name="Enable" platform="android, iOS">Enable</string>
+  <string name="Not_Now" platform="">Not now</string>
 </resources>
