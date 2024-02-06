@@ -602,6 +602,7 @@
   <string name="error_open_location" platform="android, Desktop">无法找到地图应用</string>
   <string name="error_opponent_not_registered_to_safe" platform="android, iOS">ERROR 10404: 对方客户端版本过低，请提醒对方更新客户端到最新版本</string>
   <string name="error_payment_capture_failed" platform="android, iOS">ERROR 10603: 支付确认失败</string>
+  <string name="error_use_card_same_time" platform="android">错误 10605: 同时使用同一张卡片</string>
   <string name="error_permission" platform="android, Desktop">请开启相关权限</string>
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">错误 20110：手机号码不合法</string>
   <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">错误 10003：发送短信失败</string>

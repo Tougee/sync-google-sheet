@@ -612,7 +612,8 @@
 | android, Desktop | error_open_location | Can't find an map app | 无法找到地图应用 | 地図アプリがありません | Tidak dapat mencari aplikasi peta | Tidak dapat menemukan aplikasi peta |
 | android, iOS | error_opponent_not_registered_to_safe | ERROR 10404: The opponent is using an earlier version, you can remind them to update | ERROR 10404: 对方客户端版本过低，请提醒对方更新客户端到最新版本 |     |     |     |
 | android, iOS | error_payment_capture_failed | ERROR 10603: Payment capture failed | ERROR 10603: 支付确认失败 |     |     |     |
-| android | error_use_card_same_time |     |     |     |     |     |
+| android | error_not_support_card |     |     |     |     |     |
+| android | error_use_card_same_time | ERROR 10605: Use card same time | 错误 10605: 同时使用同一张卡片 |     |     |     |
 | android, Desktop | error_permission | Please open the necessary permissions | 请开启相关权限 | 必要な権限を開いてください | Sila buka kebenaran yang diperlukan | Harap buka izin yang diperlukan |
 | android, iOS, Desktop | error_phone_invalid_format | ERROR 20110: Invalid phone number | 错误 20110：手机号码不合法 | エラー 20110：無効な電話番号です | RALAT 20110: Nombor telefon tidak sah | KESALAHAN 20110: Nomor telepon tidak valid |
 | android, iOS, Desktop | error_phone_sms_delivery | ERROR 10003: Failed to deliver SMS | 错误 10003：发送短信失败 | エラー 10003：SMSの送信に失敗しました | RALAT 10003: Gagal menghantar SMS | KESALAHAN 10003: Gagal mengirim SMS |
