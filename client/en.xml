@@ -614,6 +614,8 @@
   <string name="error_not_support_card" platform="android">ERROR 10604: Card does not support</string>
   <string name="error_use_card_same_time" platform="android">ERROR 10605: Use card same time</string>
   <string name="error_not_approved_many_times" platform="android">ERROR 10606: Not approved too many times</string>
+  <string name="error_too_many_card_added" platform="android">ERROR 10607: Too many cards have been added</string>
+  <string name="error_card_holder_name_not_same" platform="android">ERROR 10608: Card holder name not match</string>
   <string name="error_permission" platform="android, Desktop">Please open the necessary permissions</string>
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">ERROR 20110: Invalid phone number</string>
   <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">ERROR 10003: Failed to deliver SMS</string>

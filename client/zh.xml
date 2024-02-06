@@ -605,6 +605,8 @@
   <string name="error_not_support_card" platform="android">错误 10604: 不支持此卡片</string>
   <string name="error_use_card_same_time" platform="android">错误 10605: 同时使用同一张卡片</string>
   <string name="error_not_approved_many_times" platform="android">错误 10606: 未批准多次</string>
+  <string name="error_too_many_card_added" platform="android">错误 10607: 已添加多张卡片</string>
+  <string name="error_card_holder_name_not_same" platform="android">错误 10608: 与卡片持有者名字不一致</string>
   <string name="error_permission" platform="android, Desktop">请开启相关权限</string>
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">错误 20110：手机号码不合法</string>
   <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">错误 10003：发送短信失败</string>

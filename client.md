@@ -615,7 +615,9 @@
 | android | error_not_support_card | ERROR 10604: Card does not support | 错误 10604: 不支持此卡片 |     |     |     |
 | android | error_use_card_same_time | ERROR 10605: Use card same time | 错误 10605: 同时使用同一张卡片 |     |     |     |
 | android | error_not_approved_many_times | ERROR 10606: Not approved too many times | 错误 10606: 未批准多次 |     |     |     |
-| android | error_too_many_card_added |     |     |     |     |     |
+| android | error_too_many_card_added | ERROR 10607: Too many cards have been added | 错误 10607: 已添加多张卡片 |     |     |     |
+| android | error_card_holder_name_not_same | ERROR 10608: Card holder name not match | 错误 10608: 与卡片持有者名字不一致 |     |     |     |
+| android | error_expired_session |     |     |     |     |     |
 | android, Desktop | error_permission | Please open the necessary permissions | 请开启相关权限 | 必要な権限を開いてください | Sila buka kebenaran yang diperlukan | Harap buka izin yang diperlukan |
 | android, iOS, Desktop | error_phone_invalid_format | ERROR 20110: Invalid phone number | 错误 20110：手机号码不合法 | エラー 20110：無効な電話番号です | RALAT 20110: Nombor telefon tidak sah | KESALAHAN 20110: Nomor telepon tidak valid |
 | android, iOS, Desktop | error_phone_sms_delivery | ERROR 10003: Failed to deliver SMS | 错误 10003：发送短信失败 | エラー 10003：SMSの送信に失敗しました | RALAT 10003: Gagal menghantar SMS | KESALAHAN 10003: Gagal mengirim SMS |
