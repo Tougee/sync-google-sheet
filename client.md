@@ -1775,12 +1775,13 @@
 | android, iOS | Confirm_Signing_Multisig | Confirm Signing Multisig | 多签签名确认 |     |     |     |
 | android, iOS | Sending_Multisig_Signature | Sending Multisig Signature | 正在发送多签签名 |     |     |     |
 | android, iOS | Multisig_Signing_Failed | Multisig Signing Failed | 多签签名失败 |     |     |     |
+| android, iOS | multisig_signing_description | The signature is being sent to the Mixin mainnet. Please wait a moment. | 正在将签名发送到 Mixin 主网验证，请稍候。 |     |     |     |
+| android, iOS | multisig_signed_description | Your signature has been confirmed by the Mixin mainnet. | 您的签名已通过 Mixin 主网确认 |     |     |     |
 | android, iOS | Revoke_Multisig_Signature | Revoke Multisig Signature | 撤销多签确认 |     |     |     |
 | android, iOS | Revoking_Multisig_Signature | Revoking Multisig Signature | 正在撤销多签 |     |     |     |
 | android, iOS | Revoking_Multisig_Failed | Revoking Multisig Failed | 撤销多签失败 |     |     |     |
-| android, iOS | Confirm_Editing_Address | Confirm Editing Address | 修改地址确认 |     |     |     |
-| android, iOS | Editing_Address | Editing Address | 正在修改地址 |     |     |     |
-| android, iOS | Editing_Address_Failed | Editing Address Failed | 修改地址失败 |     |     |     |
+|     | multisig_unlocking_description | The request to revoke the multisig is currently under verification by the Mixin server. Please wait a moment. | 正在将撤销多签的请求发送到 Mixin 服务器验证，请稍候。 |     |     |     |
+|     | multisig_unlocked_description |     |     |     |     |     |
 | android, iOS | Confirm_Adding_Address | Confirm Adding Address | 添加地址确认 |     |     |     |
 | android, iOS | Adding_Address | Adding Address | 正在添加地址 |     |     |     |
 | android, iOS | Adding_Address_Failed | Adding Address Failed | 添加地址失败 |     |     |     |
