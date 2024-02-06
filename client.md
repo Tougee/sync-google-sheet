@@ -612,11 +612,11 @@
 | android, Desktop | error_open_location | Can't find an map app | 无法找到地图应用 | 地図アプリがありません | Tidak dapat mencari aplikasi peta | Tidak dapat menemukan aplikasi peta |
 | android, iOS | error_opponent_not_registered_to_safe | ERROR 10404: The opponent is using an earlier version, you can remind them to update | ERROR 10404: 对方客户端版本过低，请提醒对方更新客户端到最新版本 |     |     |     |
 | android, iOS | error_payment_capture_failed | ERROR 10603: Payment capture failed | ERROR 10603: 支付确认失败 |     |     |     |
-| android | error_not_support_card | ERROR 10604: Card does not support | 错误 10604: 不支持此卡片 |     |     |     |
-| android | error_use_card_same_time | ERROR 10605: Use card same time | 错误 10605: 同时使用同一张卡片 |     |     |     |
+| android | error_not_support_card | ERROR 10604: Card anomaly, please try correct card later | 错误 10604: 卡片异常，请稍后尝试正确的卡片 |     |     |     |
+| android | error_use_card_same_time | ERROR 10605: Card anomaly, please try correct card later | 错误 10605: 卡片异常，请稍后尝试正确的卡片 |     |     |     |
 | android | error_not_approved_many_times | ERROR 10606: Not approved too many times | 错误 10606: 未批准多次 |     |     |     |
-| android | error_too_many_card_added | ERROR 10607: Too many cards have been added | 错误 10607: 已添加多张卡片 |     |     |     |
-| android | error_card_holder_name_not_same | ERROR 10608: Card holder name not match | 错误 10608: 与卡片持有者名字不一致 |     |     |     |
+| android | error_too_many_card_added | ERROR 10607: Card anomaly, please try correct card later | 错误 10607: 卡片异常，请稍后尝试正确的卡片 |     |     |     |
+| android | error_card_holder_name_not_same | ERROR 10608: Card anomaly, please try correct card later | 错误 10608: 卡片异常，请稍后尝试正确的卡片 |     |     |     |
 | android | error_expired_session | ERROR 10609: Session expired | 错误 10609: 交易会话过期 |     |     |     |
 | android | error_inconsistent_country | ERROR 10610: Inconsistent country | 错误 10610: 国家不一致 |     |     |     |
 | android, Desktop | error_permission | Please open the necessary permissions | 请开启相关权限 | 必要な権限を開いてください | Sila buka kebenaran yang diperlukan | Harap buka izin yang diperlukan |

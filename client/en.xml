@@ -611,11 +611,11 @@
   <string name="error_open_location" platform="android, Desktop">Can't find an map app</string>
   <string name="error_opponent_not_registered_to_safe" platform="android, iOS">ERROR 10404: The opponent is using an earlier version, you can remind them to update</string>
   <string name="error_payment_capture_failed" platform="android, iOS">ERROR 10603: Payment capture failed</string>
-  <string name="error_not_support_card" platform="android">ERROR 10604: Card does not support</string>
-  <string name="error_use_card_same_time" platform="android">ERROR 10605: Use card same time</string>
+  <string name="error_not_support_card" platform="android">ERROR 10604: Card anomaly, please try correct card later</string>
+  <string name="error_use_card_same_time" platform="android">ERROR 10605: Card anomaly, please try correct card later</string>
   <string name="error_not_approved_many_times" platform="android">ERROR 10606: Not approved too many times</string>
-  <string name="error_too_many_card_added" platform="android">ERROR 10607: Too many cards have been added</string>
-  <string name="error_card_holder_name_not_same" platform="android">ERROR 10608: Card holder name not match</string>
+  <string name="error_too_many_card_added" platform="android">ERROR 10607: Card anomaly, please try correct card later</string>
+  <string name="error_card_holder_name_not_same" platform="android">ERROR 10608: Card anomaly, please try correct card later</string>
   <string name="error_expired_session" platform="android">ERROR 10609: Session expired</string>
   <string name="error_inconsistent_country" platform="android">ERROR 10610: Inconsistent country</string>
   <string name="error_permission" platform="android, Desktop">Please open the necessary permissions</string>

@@ -602,11 +602,11 @@
   <string name="error_open_location" platform="android, Desktop">无法找到地图应用</string>
   <string name="error_opponent_not_registered_to_safe" platform="android, iOS">ERROR 10404: 对方客户端版本过低，请提醒对方更新客户端到最新版本</string>
   <string name="error_payment_capture_failed" platform="android, iOS">ERROR 10603: 支付确认失败</string>
-  <string name="error_not_support_card" platform="android">错误 10604: 不支持此卡片</string>
-  <string name="error_use_card_same_time" platform="android">错误 10605: 同时使用同一张卡片</string>
+  <string name="error_not_support_card" platform="android">错误 10604: 卡片异常，请稍后尝试正确的卡片</string>
+  <string name="error_use_card_same_time" platform="android">错误 10605: 卡片异常，请稍后尝试正确的卡片</string>
   <string name="error_not_approved_many_times" platform="android">错误 10606: 未批准多次</string>
-  <string name="error_too_many_card_added" platform="android">错误 10607: 已添加多张卡片</string>
-  <string name="error_card_holder_name_not_same" platform="android">错误 10608: 与卡片持有者名字不一致</string>
+  <string name="error_too_many_card_added" platform="android">错误 10607: 卡片异常，请稍后尝试正确的卡片</string>
+  <string name="error_card_holder_name_not_same" platform="android">错误 10608: 卡片异常，请稍后尝试正确的卡片</string>
   <string name="error_expired_session" platform="android">错误 10609: 交易会话过期</string>
   <string name="error_inconsistent_country" platform="android">错误 10610: 国家不一致</string>
   <string name="error_permission" platform="android, Desktop">请开启相关权限</string>
