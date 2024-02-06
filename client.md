@@ -1763,7 +1763,7 @@
 | android, iOS | return_to_merchant_description | Merchant payment is complete. You can opt to return to the merchant or stay in Mixin. | 来自商家的支付已完成，您可以选择返回商家或者停留在 Mixin。 |     |     |     |
 | android, iOS | duplication_remainder | Duplication reminder: You transferred %1$s to the recipient %2$s ago. | 重复转账提醒：您已经在%2$s前给该收款人转账了 %1$s。 |     |     |     |
 | android, iOS | large_amount_remainder | Large amount reminder: Confirm the transfer of %1$s worth of %2$s to %3$s (%4$s)? | 大额转账提醒：确定给 %3$s（%4$s）转价值 %1$s 的 %2$s？ |     |     |     |
-| android, iOS | unfamiliar_person_reminder | Unfamiliar person reminder: Confirm the transfer to %1$s (%2$s)? He is not in your contacts. Sending to the wrong person may result in irrecoverable asset loss. | 陌生转账提醒：确定给 %1$s（%2$s）转账？他不是你的联系人，如果您转错人，资产将无法追回。 |     |     |     |
+| android, iOS | unfamiliar_person_remainder | Unfamiliar person remainder: Confirm the transfer to %1$s (%2$s)? He is not in your contacts. Sending to the wrong person may result in irrecoverable asset loss. | 陌生转账提醒：确定给 %1$s（%2$s）转账？他不是你的联系人，如果您转错人，资产将无法追回。 |     |     |     |
 | android, iOS | review_address_hint | Review the address, Memo (tag), and network. Any mistake may result in irretrievable asset loss. | 请仔细检查地址、Memo（标签）和网络，如果您转错了，资产将无法追回。 |     |     |     |
 | android, iOS | Confirm_Signing_Multisig | Confirm Signing Multisig | 多签签名确认 |     |     |     |
 | android, iOS | Sending_Multisig_Signature | Sending Multisig Signature | 正在发送多签签名 |     |     |     |

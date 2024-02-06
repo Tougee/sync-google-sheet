@@ -1762,7 +1762,7 @@
   <string name="return_to_merchant_description" platform="android, iOS">Merchant payment is complete. You can opt to return to the merchant or stay in Mixin.</string>
   <string name="duplication_remainder" platform="android, iOS">Duplication reminder: You transferred %1$s to the recipient %2$s ago.</string>
   <string name="large_amount_remainder" platform="android, iOS">Large amount reminder: Confirm the transfer of %1$s worth of %2$s to %3$s (%4$s)?</string>
-  <string name="unfamiliar_person_reminder" platform="android, iOS">Unfamiliar person reminder: Confirm the transfer to %1$s (%2$s)? He is not in your contacts. Sending to the wrong person may result in irrecoverable asset loss.</string>
+  <string name="unfamiliar_person_remainder" platform="android, iOS">Unfamiliar person remainder: Confirm the transfer to %1$s (%2$s)? He is not in your contacts. Sending to the wrong person may result in irrecoverable asset loss.</string>
   <string name="review_address_hint" platform="android, iOS">Review the address, Memo (tag), and network. Any mistake may result in irretrievable asset loss.</string>
   <string name="Confirm_Signing_Multisig" platform="android, iOS">Confirm Signing Multisig</string>
   <string name="Sending_Multisig_Signature" platform="android, iOS">Sending Multisig Signature</string>
