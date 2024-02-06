@@ -1774,6 +1774,7 @@
   <string name="Confirm_Signing_Multisig" platform="android, iOS">Confirm Signing Multisig</string>
   <string name="Sending_Multisig_Signature" platform="android, iOS">Sending Multisig Signature</string>
   <string name="Multisig_Signing_Failed" platform="android, iOS">Multisig Signing Failed</string>
+  <string name="Signature_Sent" platform="android, iOS">Signature Sent</string>
   <string name="multisig_signing_description" platform="android, iOS">The signature is being sent to the Mixin mainnet. Please wait a moment.</string>
   <string name="multisig_signed_description" platform="android, iOS">Your signature has been confirmed by the Mixin mainnet.</string>
   <string name="Revoke_Multisig_Signature" platform="android, iOS">Revoke Multisig Signature</string>
