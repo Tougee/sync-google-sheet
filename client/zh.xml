@@ -1752,6 +1752,7 @@
   <string name="Revoke_Multisig_Signature" platform="android, iOS">撤销多签确认</string>
   <string name="Revoking_Multisig_Signature" platform="android, iOS">正在撤销多签</string>
   <string name="Revoking_Multisig_Failed" platform="android, iOS">撤销多签失败</string>
+  <string name="Multisig_Revoked" platform="android, iOS">已撤销多签</string>
   <string name="multisig_unlocking_description" platform="android, iOS">正在将撤销多签的请求发送到 Mixin 服务器验证，请稍候。</string>
   <string name="multisig_unlocked_description" platform="android, iOS">您的签名已撤销</string>
   <string name="Confirm_Adding_Address" platform="android, iOS">添加地址确认</string>

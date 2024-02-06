@@ -1780,6 +1780,7 @@
   <string name="Revoke_Multisig_Signature" platform="android, iOS">Revoke Multisig Signature</string>
   <string name="Revoking_Multisig_Signature" platform="android, iOS">Revoking Multisig Signature</string>
   <string name="Revoking_Multisig_Failed" platform="android, iOS">Revoking Multisig Failed</string>
+  <string name="Multisig_Revoked" platform="android, iOS">Multisig Revoked</string>
   <string name="multisig_unlocking_description" platform="android, iOS">The request to revoke the multisig is currently under verification by the Mixin server. Please wait a moment.</string>
   <string name="multisig_unlocked_description" platform="android, iOS">Your signature has been revoked by the Mixin mainnet.</string>
   <string name="Confirm_Adding_Address" platform="android, iOS">Confirm Adding Address</string>
