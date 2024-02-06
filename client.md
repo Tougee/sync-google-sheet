@@ -1775,7 +1775,7 @@
 | android, iOS | Confirm_Signing_Multisig | Confirm Signing Multisig | 多签签名确认 |     |     |     |
 | android, iOS | Sending_Multisig_Signature | Sending Multisig Signature | 正在发送多签签名 |     |     |     |
 | android, iOS | Multisig_Signing_Failed | Multisig Signing Failed | 多签签名失败 |     |     |     |
-| android, iOS | Signature_Sent | Signature Sent |     |     |     |     |
+| android, iOS | Multisig_Signed | Multisig Signed | 多签签名成功 |     |     |     |
 | android, iOS | multisig_signing_description | The signature is being sent to the Mixin mainnet. Please wait a moment. | 正在将签名发送到 Mixin 主网验证，请稍候。 |     |     |     |
 | android, iOS | multisig_signed_description | Your signature has been confirmed by the Mixin mainnet. | 您的签名已通过 Mixin 主网确认 |     |     |     |
 | android, iOS | Revoke_Multisig_Signature | Revoke Multisig Signature | 撤销多签确认 |     |     |     |
