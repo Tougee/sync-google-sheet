@@ -1796,3 +1796,4 @@
 | android, iOS | edit_by_pin | Edit by PIN | 通过 PIN 修改 |     |     |     |
 | android, iOS | Enable | Enable | 启用  |     |     |     |
 | android, iOS | Not_Now | Not Now | 现在不要 |     |     |     |
+| android, iOS | Sender | Sender |     |     |     |     |
