@@ -1392,4 +1392,5 @@
   <string name="Your_phone_number_has_been_changed" platform="iOS">電話番号が変更されました</string>
   <string name="Your_PIN_has_been_changed" platform="iOS">PINコードが変更されました</string>
   <string name="your_pin_has_been_created" platform="android, iOS">PINコードが生成されました</string>
+  <string name="Sender" platform="android, iOS">送信者</string>
 </resources>

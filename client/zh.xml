@@ -1767,4 +1767,5 @@
   <string name="edit_by_pin" platform="android, iOS">通过 PIN 修改</string>
   <string name="Enable" platform="android, iOS">启用</string>
   <string name="Not_Now" platform="android, iOS">现在不要</string>
+  <string name="Sender" platform="android, iOS">交易发起人</string>
 </resources>
