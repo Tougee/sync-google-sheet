@@ -928,9 +928,7 @@
   <string name="Move_and_Scale" platform="iOS">Move and Scale</string>
   <string name="Multisig_by_PIN" platform="android, iOS">Multisig by PIN</string>
   <string name="multisig_receiver" platform="android, iOS">Receiver</string>
-  <string name="multisig_receivers" platform="android, iOS">Receivers</string>
   <string name="multisig_sender" platform="android, iOS">Sender</string>
-  <string name="multisig_senders" platform="android, iOS">Senders</string>
   <string name="multisig_receivers_threshold" platform="android, iOS">Receivers (%1$s)</string>
   <string name="multisig_senders_threshold" platform="android, iOS">Senders (%1$s)</string>
   <string name="multisig_state_signed" platform="android, iOS">This multisig link has already been signed by yourself, you can not make a duplicate operation.</string>

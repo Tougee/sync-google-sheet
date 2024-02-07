@@ -929,9 +929,7 @@
 | iOS | Move_and_Scale | Move and Scale | 移动和缩放 | 移動と拡大縮小 |     |     |
 | android, iOS | Multisig_by_PIN | Multisig by PIN | 通过 PIN 签名 | PINコードでマルチシグウォレットを使用する | Multisig dengan PIN | Multisig dengan PIN |
 | android, iOS | multisig_receiver | Receiver | 交易接收人 | 受取人 | Penerima | Penerima |
-| android, iOS | multisig_receivers | Receivers | 交易接收人 | 受取人 | Penerima | Penerima |
 | android, iOS | multisig_sender | Sender | 交易发起人 |     |     |     |
-| android, iOS | multisig_senders | Senders | 交易发起人 |     |     |     |
 | android, iOS | multisig_receivers_threshold | Receivers (%1$s) | 交易接收人（%1$s） | 受取人(%1$s) | Penerima (%1$s) | Penerima (%1$s) |
 | android, iOS | multisig_senders_threshold | Senders (%1$s) | 交易发起人（%1$s） |     |     |     |
 | android, iOS | multisig_state_signed | This multisig link has already been signed by yourself, you can not make a duplicate operation. | 您已经对这笔交易进行了签名，您无法再次签名。 | このマルチシグリンクはすでにあなたが署名しているため、重複した操作を行うことはできません | Pautan multisig ini sudah ditandatangani oleh anda sendiri, anda tidak boleh membuat operasi pendua. | Tautan multisig ini telah dibuka oleh Anda sendiri, Anda tidak dapat melakukan tindakan ganda. |
