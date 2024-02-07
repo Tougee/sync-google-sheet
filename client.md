@@ -1797,7 +1797,7 @@
 | android, iOS | Confirm_Deleteing_Address | Confirm Deleteing Address | 删除地址确认 |     |     |     |
 | android, iOS | Deleting_Address | Deleting Address | 正在删除地址 |     |     |     |
 | android, iOS | Deleting_Address_Failed | Deleting Address Failed | 删除地址失败 |     |     |     |
-| android, iOS | address_deleting_description | Deleting the address does not compromise security. Are you sure you want to delete this address? | 删除地址不影响资金安全，确认删除该地址吗？ |     |     |     |
+| android, iOS | delete_address_description | Deleting the address does not compromise security. Are you sure you want to delete this address? | 删除地址不影响资金安全，确认删除该地址吗？ |     |     |     |
 | android, iOS | send_by_pin | Send by PIN | 通过 PIN 发送 |     |     |     |
 | android, iOS | address_will_receive | Address will receive | 指定地址将收到 |     |     |     |
 | android, iOS | receiver_will_receive | Receiver will receive | 对方将收到 |     |     |     |

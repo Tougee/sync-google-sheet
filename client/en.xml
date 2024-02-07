@@ -1796,7 +1796,7 @@
   <string name="Confirm_Deleteing_Address" platform="android, iOS">Confirm Deleteing Address</string>
   <string name="Deleting_Address" platform="android, iOS">Deleting Address</string>
   <string name="Deleting_Address_Failed" platform="android, iOS">Deleting Address Failed</string>
-  <string name="address_deleting_description" platform="android, iOS">Deleting the address does not compromise security. Are you sure you want to delete this address?</string>
+  <string name="delete_address_description" platform="android, iOS">Deleting the address does not compromise security. Are you sure you want to delete this address?</string>
   <string name="send_by_pin" platform="android, iOS">Send by PIN</string>
   <string name="address_will_receive" platform="android, iOS">Address will receive</string>
   <string name="receiver_will_receive" platform="android, iOS">Receiver will receive</string>
