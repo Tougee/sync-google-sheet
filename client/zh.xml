@@ -1738,7 +1738,7 @@
   <string name="transfer_sending_description" platform="android, iOS">正在将转账请求发送到 Mixin 主网验证，请稍候。</string>
   <string name="transfer_sent_description" platform="android, iOS">您的转账请求已通过 Mixin 主网确认，收款人将很快就会收到转账。</string>
   <string name="enable_bioauth_description" platform="iOS">想要启用%@支付吗？启用后，转账时可验证%@快速完成付款。</string>
-  <string name="enable_biometric_description" platform="android">想要启用生物识别支付吗？启用后，转账时可验证生物信息快速完成付款。</string>
+  <string name="enable_biometric_description" platform="android">想要启用生物识别支付吗？启用后，转账时可通过生物识别快速完成付款。</string>
   <string name="return_to_merchant_description" platform="android, iOS">来自商家的支付已完成，您可以选择返回商家或者停留在 Mixin。</string>
   <string name="duplication_reminder" platform="android, iOS">重复转账提醒：您已经在%2$s前给该收款人转账了 %1$s。</string>
   <string name="large_amount_reminder" platform="android, iOS">大额转账提醒：确定给 %3$s（%4$s）转价值 %1$s 的 %2$s？</string>
