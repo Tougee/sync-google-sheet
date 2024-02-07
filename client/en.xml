@@ -1766,6 +1766,7 @@
   <string name="transfer_sending_description" platform="android, iOS">The transfer request is being sent to the Mixin mainnet. Please wait a moment.</string>
   <string name="transfer_sent_description" platform="android, iOS">Your transfer request has been confirmed by the Mixin mainnet. The recipient will promptly receive it.</string>
   <string name="enable_bioauth_description" platform="iOS">What about %@? Once enabled, you can expedite authentication with %@.</string>
+  <string name="enable_biometric_description" platform="android">What about bometric? Once enabled, you can expedite authentication with biometric.</string>
   <string name="return_to_merchant_description" platform="android, iOS">Merchant payment is complete. You can opt to return to the merchant or stay in Mixin.</string>
   <string name="duplication_reminder" platform="android, iOS">Duplication reminder: You transferred %1$s to the recipient %2$s ago.</string>
   <string name="large_amount_reminder" platform="android, iOS">Large amount reminder: Confirm the transfer of %1$s worth of %2$s to %3$s (%4$s)?</string>
