@@ -928,7 +928,9 @@
 | android, iOS, Desktop | More | More | 更多  | もっとみる | Lebih banyak lagi | Lebih banyak |
 | iOS | Move_and_Scale | Move and Scale | 移动和缩放 | 移動と拡大縮小 |     |     |
 | android, iOS | Multisig_by_PIN | Multisig by PIN | 通过 PIN 签名 | PINコードでマルチシグウォレットを使用する | Multisig dengan PIN | Multisig dengan PIN |
+| android, iOS | multisig_receiver | Receiver | 交易接收人 | 受取人 | Penerima | Penerima |
 | android, iOS | multisig_receivers | Receivers | 交易接收人 | 受取人 | Penerima | Penerima |
+| android, iOS | multisig_sender | Sender | 交易发起人 |     |     |     |
 | android, iOS | multisig_senders | Senders | 交易发起人 |     |     |     |
 | android, iOS | multisig_receivers_threshold | Receivers (%1$s) | 交易接收人（%1$s） | 受取人(%1$s) | Penerima (%1$s) | Penerima (%1$s) |
 | android, iOS | multisig_senders_threshold | Senders (%1$s) | 交易发起人（%1$s） |     |     |     |
