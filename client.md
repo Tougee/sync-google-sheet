@@ -1767,7 +1767,7 @@
 | android, iOS | transfer_sending_description | The transfer request is being sent to the Mixin mainnet. Please wait a moment. | 正在将转账请求发送到 Mixin 主网验证，请稍候。 |     |     |     |
 | android, iOS | transfer_sent_description | Your transfer request has been confirmed by the Mixin mainnet. The recipient will promptly receive it. | 您的转账请求已通过 Mixin 主网确认，收款人将很快就会收到转账。 |     |     |     |
 | iOS | enable_bioauth_description | What about %@? Once enabled, you can expedite authentication with %@. | 想要启用%@支付吗？启用后，转账时可验证%@快速完成付款。 |     |     |     |
-| android | enable_biometric_description | What about bometric? Once enabled, you can expedite authentication with biometric. |     |     |     |     |
+| android | enable_biometric_description | What about bometric? Once enabled, you can expedite authentication with biometric. | 想要启用生物识别支付吗？启用后，转账时可验证生物信息快速完成付款。 |     |     |     |
 | android, iOS | return_to_merchant_description | Merchant payment is complete. You can opt to return to the merchant or stay in Mixin. | 来自商家的支付已完成，您可以选择返回商家或者停留在 Mixin。 |     |     |     |
 | android, iOS | duplication_reminder | Duplication reminder: You transferred %1$s to the recipient %2$s ago. | 重复转账提醒：您已经在%2$s前给该收款人转账了 %1$s。 |     |     |     |
 | android, iOS | large_amount_reminder | Large amount reminder: Confirm the transfer of %1$s worth of %2$s to %3$s (%4$s)? | 大额转账提醒：确定给 %3$s（%4$s）转价值 %1$s 的 %2$s？ |     |     |     |
