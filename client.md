@@ -260,7 +260,7 @@
 | android, iOS, Desktop | changed_disappearing_message_settings | %1$s changed disappearing message settings. | %1$s修改了限时消息设置 | %1$sが消えるメッセージを設定しました |     |     |
 | android | Changing | Changing... | 正在修改… | 変更中… | Menukar… | Mengubah… |
 | android,iOS | Changing_PIN_terminated_unexpectedly | Changing PIN terminated unexpectedly, click "Continue" to complete the change | 更新 PIN 意外中止，点继续完成 PIN 修改 |     |     |     |
-| Desktop | chat | Chat | 聊天  |     |     |     |
+| android, iOS, Desktop | chat | Chat | 聊天  |     |     |     |
 | android | chat_audio_discard_warning | Are you sure you want to stop recording and discard your voice message ? | 你确定要停止并放弃录制的语音吗？ | 録音終了し音声メッセージを破棄してよろしいですか？ | Adakah anda pasti mahu berhenti merakam dan membuang mesej suara anda? | Yakin ingin berhenti merekam dan membuang pesan suara Anda? |
 | android | chat_audio_discard_warning_title | Discard Voice message | 放弃录制语音 | 音声メッセージを破棄する | Buang mesej Suara | Buang pesan Suara |
 | android | chat_audio_warning | You cannot play audio if your're already on play another audio. | 无法在 Mixin 录音时播放语音 | 別の音声を再生している場合、音声を再生することはできません。 | Anda tidak dapat memainkan audio jika sedang memainkan audio lain. | Anda tidak dapat memutar audio jika Anda sedang memutar audio lain. |

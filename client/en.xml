@@ -259,7 +259,7 @@
   <string name="changed_disappearing_message_settings" platform="android, iOS, Desktop">%1$s changed disappearing message settings.</string>
   <string name="Changing" platform="android">Changing...</string>
   <string name="Changing_PIN_terminated_unexpectedly" platform="android,iOS">Changing PIN terminated unexpectedly, click "Continue" to complete the change</string>
-  <string name="chat" platform="Desktop">Chat</string>
+  <string name="chat" platform="android, iOS, Desktop">Chat</string>
   <string name="chat_audio_discard_warning" platform="android">Are you sure you want to stop recording and discard your voice message ?</string>
   <string name="chat_audio_discard_warning_title" platform="android">Discard Voice message</string>
   <string name="chat_audio_warning" platform="android">You cannot play audio if your're already on play another audio.</string>
