@@ -1787,7 +1787,7 @@
 | android, iOS | Multisig_Revoked | Multisig Revoked | 已撤销多签交易 |     |     |     |
 | android, iOS | multisig_unlocking_description | The request to revoke the multisig is currently under verification by the Mixin server. Please wait a moment. | 正在撤销多签交易，请稍候。 |     |     |     |
 | android, iOS | multisig_unlocked_description | Your signature has been revoked by the Mixin mainnet. | 您的签名已撤销 |     |     |     |
-| android, iOS | Confirm_Adding_Address | Confirm Adding Address | 添加地址确认 |     |     |     |
+| android, iOS | Confirm_Adding_Address | Confirm Address | 添加地址确认 |     |     |     |
 | android, iOS | Adding_Address | Adding Address | 正在添加地址 |     |     |     |
 | android, iOS | Adding_Address_Failed | Adding Address Failed | 添加地址失败 |     |     |     |
 | android, iOS | address_adding_description | The request to add the address is currently under verification by the Mixin server. Please wait a moment. | 正在添加地址，请稍候。 |     |     |     |
