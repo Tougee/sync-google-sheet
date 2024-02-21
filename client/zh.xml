@@ -1771,7 +1771,7 @@
   <string name="Confirm_Deleting_Address" platform="android, iOS">删除地址确认</string>
   <string name="Deleting_Address" platform="android, iOS">正在删除地址</string>
   <string name="Deleting_Address_Failed" platform="android, iOS">删除地址失败</string>
-  <string name="delete_address_description" platform="android, iOS">删除地址不影响资金安全，确认删除该地址吗？</string>
+  <string name="delete_address_description" platform="android, iOS">确认删除该地址吗？</string>
   <string name="send_by_pin" platform="android, iOS">通过 PIN 发送</string>
   <string name="address_will_receive" platform="android, iOS">指定地址将收到</string>
   <string name="receiver_will_receive" platform="android, iOS">对方将收到</string>
