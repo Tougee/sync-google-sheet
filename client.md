@@ -1779,7 +1779,7 @@
 | android, iOS | Sending_Multisig_Signature | Sending Multisig Signature | 正在发送多签交易 |     |     |     |
 | android, iOS | Multisig_Signing_Failed | Multisig Signing Failed | 多签交易失败 |     |     |     |
 | android, iOS | Multisig_Signed | Multisig Signed | 多签交易签名成功 |     |     |     |
-| android, iOS | multisig_signing_description | The signature is being sent to the Mixin mainnet. Please wait a moment. | 正在发送，请稍候。 |     |     |     |
+| android, iOS | multisig_signing_description | Requesting. Please wait a moment. | 正在发送，请稍候。 |     |     |     |
 | android, iOS | multisig_signed_description | Your signature has been confirmed by the Mixin mainnet. | 您的签名已成功 |     |     |     |
 | android, iOS | Revoke_Multisig_Signature | Revoke Multisig Signature | 撤销多签交易确认 |     |     |     |
 | android, iOS | Revoking_Multisig_Signature | Revoking Multisig Signature | 正在撤销多签交易 |     |     |     |
