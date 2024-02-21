@@ -1760,14 +1760,14 @@
 | android, iOS | review_withdrawal_hint | Review the address, network, and amount meticulously. Any mistake may result in irretrievable asset loss. | 请仔细检查收款地址、网络和金额，如果您转错了，资产将无法追回。 |     |     |     |
 | android, iOS | address_validity_reminder | Address validity reminder: Verify the validity of the address %1$s(%2$s); It has not been used for over 30 days. | 地址确认提醒：请确认地址 %1$s（%2$s）仍然有效，您已经超过 30 天没有使用该地址。 |     |     |     |
 | android, iOS | withdrawal_sending_description | The withdrawal request is being sent to the Mixin mainnet. Please wait a moment. | 正在创建提现，请稍候。 |     |     |     |
-| android, iOS | withdrawal_sent_description | Your withdrawal request has been confirmed by the Mixin mainnet and is now queued for processing. Please wait a moment. | 提现成功。 |     |     |     |
+| android, iOS | withdrawal_sent_description | Withdrawal request successful. Please wait a moment. | 提现成功。 |     |     |     |
 | android, iOS | Confirm_Transfer | Confirm Transfer | 转账确认 |     |     |     |
 | android, iOS | Sending_Transfer_Request | Sending Transfer Request | 正在发送转账 |     |     |     |
 | android, iOS | Transfer_Success | Transfer Success | 转账成功 |     |     |     |
 | android, iOS | Transfer_Failed | Transfer Failed | 转账失败 |     |     |     |
 | android, iOS | review_transfer_hint | Review the recipient, network, and amount. Any mistake may result in irretrievable asset loss. | 请仔细检查收款人、网络和金额，如果您转错了，资产将无法追回。 |     |     |     |
 | android, iOS | transfer_sending_description | The transfer request is being sent to the Mixin mainnet. Please wait a moment. | 正在创建交易，请稍候。 |     |     |     |
-| android, iOS | transfer_sent_description | Your transfer request has been confirmed by the Mixin mainnet. The recipient will promptly receive it. | 转账成功，收款人将很快就会收到转账。 |     |     |     |
+| android, iOS | transfer_sent_description | Transfer request successful. The recipient will promptly receive it. | 转账成功，收款人将很快就会收到转账。 |     |     |     |
 | iOS | enable_bioauth_description | What about %@? Once enabled, you can expedite authentication with %@. | 想要启用%@支付吗？启用后，转账时可验证%@快速完成付款。 |     |     |     |
 | android | enable_biometric_description | What about biometric? Once enabled, you can expedite authentication with biometric. | 想要启用生物识别支付吗？启用后，转账时可通过生物识别快速完成付款。 |     |     |     |
 | android, iOS | return_to_merchant_description | Merchant payment is complete. You can opt to return to the merchant or stay in Mixin. | 来自商家的支付已完成，您可以选择返回商家或者停留在 Mixin。 |     |     |     |
@@ -1802,7 +1802,7 @@
 | android, iOS | Confirm_Deleting_Address | Delete Address | 删除地址确认 |     |     |     |
 | android, iOS | Deleting_Address | Delete Address | 正在删除地址 |     |     |     |
 | android, iOS | Deleting_Address_Failed | DeleteAddress Failed | 删除地址失败 |     |     |     |
-| android, iOS | delete_address_description | Deleting the address does not compromise security. Are you sure you want to delete this address? | 确认删除该地址吗？ |     |     |     |
+| android, iOS | delete_address_description | Are you sure to delete this address? | 确认删除该地址吗？ |     |     |     |
 | android, iOS | send_by_pin | Send by PIN | 通过 PIN 发送 |     |     |     |
 | android, iOS | address_will_receive | Address will receive | 指定地址将收到 |     |     |     |
 | android, iOS | receiver_will_receive | Receiver will receive | 对方将收到 |     |     |     |
