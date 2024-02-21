@@ -1762,7 +1762,7 @@
   <string name="Adding_Address" platform="android, iOS">正在添加地址</string>
   <string name="Adding_Address_Failed" platform="android, iOS">添加地址失败</string>
   <string name="address_adding_description" platform="android, iOS">正在将添加地址的请求发送到 Mixin 服务器验证，请稍候。</string>
-  <string name="address_added_description" platform="android, iOS">您添加地址的请求已通过 Mixin 服务器确认，您可以立刻使用该地址进行提现。</string>
+  <string name="address_added_description" platform="android, iOS">地址已添加，您可以立刻使用该地址进行提现。</string>
   <string name="Confirm_Editing_Address" platform="android, iOS">修改地址确认</string>
   <string name="Editing_Address" platform="android, iOS">正在修改地址</string>
   <string name="Editing_Address_Failed" platform="android, iOS">修改地址失败</string>
