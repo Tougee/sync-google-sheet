@@ -1752,7 +1752,7 @@
   <string name="Multisig_Signed" platform="android, iOS">多签签名成功</string>
   <string name="multisig_signing_description" platform="android, iOS">正在将签名发送到 Mixin 主网验证，请稍候。</string>
   <string name="multisig_signed_description" platform="android, iOS">您的签名已通过 Mixin 主网确认</string>
-  <string name="Revoke_Multisig_Signature" platform="android, iOS">撤销多签确认</string>
+  <string name="Revoke_Multisig_Signature" platform="android, iOS">撤销多签交易确认</string>
   <string name="Revoking_Multisig_Signature" platform="android, iOS">正在撤销多签</string>
   <string name="Revoking_Multisig_Failed" platform="android, iOS">撤销多签失败</string>
   <string name="Multisig_Revoked" platform="android, iOS">已撤销多签</string>
