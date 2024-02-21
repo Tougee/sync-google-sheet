@@ -1747,10 +1747,10 @@
   <string name="unfamiliar_person_reminder" platform="android, iOS">陌生转账提醒：确定给 %1$s（%2$s）转账？他不是你的联系人，如果您转错人，资产将无法追回。</string>
   <string name="review_address_hint" platform="android, iOS">请仔细检查地址、Memo（标签）和网络，如果您转错了，资产将无法追回。</string>
   <string name="Confirm_Signing_Multisig" platform="android, iOS">多签交易确认</string>
-  <string name="Sending_Multisig_Signature" platform="android, iOS">正在发送多签转账</string>
+  <string name="Sending_Multisig_Signature" platform="android, iOS">正在发送多签交易</string>
   <string name="Multisig_Signing_Failed" platform="android, iOS">多签交易失败</string>
-  <string name="Multisig_Signed" platform="android, iOS">多签签名成功</string>
-  <string name="multisig_signing_description" platform="android, iOS">正在将签名发送到 Mixin 主网验证，请稍候。</string>
+  <string name="Multisig_Signed" platform="android, iOS">多签交易签名成功</string>
+  <string name="multisig_signing_description" platform="android, iOS">正在发送，请稍候。</string>
   <string name="multisig_signed_description" platform="android, iOS">您的签名已通过 Mixin 主网确认</string>
   <string name="Revoke_Multisig_Signature" platform="android, iOS">撤销多签交易确认</string>
   <string name="Revoking_Multisig_Signature" platform="android, iOS">正在撤销多签交易</string>
