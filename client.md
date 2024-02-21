@@ -1780,17 +1780,17 @@
 | android, iOS | Multisig_Signing_Failed | Multisig Signing Failed | 多签交易失败 |     |     |     |
 | android, iOS | Multisig_Signed | Multisig Signed | 多签交易签名成功 |     |     |     |
 | android, iOS | multisig_signing_description | The signature is being sent to the Mixin mainnet. Please wait a moment. | 正在发送，请稍候。 |     |     |     |
-| android, iOS | multisig_signed_description | Your signature has been confirmed by the Mixin mainnet. | 您的签名已通过 Mixin 主网确认 |     |     |     |
+| android, iOS | multisig_signed_description | Your signature has been confirmed by the Mixin mainnet. | 您的签名已成功 |     |     |     |
 | android, iOS | Revoke_Multisig_Signature | Revoke Multisig Signature | 撤销多签交易确认 |     |     |     |
 | android, iOS | Revoking_Multisig_Signature | Revoking Multisig Signature | 正在撤销多签交易 |     |     |     |
 | android, iOS | Revoking_Multisig_Failed | Revoking Multisig Failed | 撤销多重签名交易失败 |     |     |     |
-| android, iOS | Multisig_Revoked | Multisig Revoked | 已撤销多签 |     |     |     |
-| android, iOS | multisig_unlocking_description | The request to revoke the multisig is currently under verification by the Mixin server. Please wait a moment. | 正在将撤销多签的请求发送到 Mixin 服务器验证，请稍候。 |     |     |     |
+| android, iOS | Multisig_Revoked | Multisig Revoked | 已撤销多签交易 |     |     |     |
+| android, iOS | multisig_unlocking_description | The request to revoke the multisig is currently under verification by the Mixin server. Please wait a moment. | 正在撤销多签交易，请稍候。 |     |     |     |
 | android, iOS | multisig_unlocked_description | Your signature has been revoked by the Mixin mainnet. | 您的签名已撤销 |     |     |     |
 | android, iOS | Confirm_Adding_Address | Confirm Adding Address | 添加地址确认 |     |     |     |
 | android, iOS | Adding_Address | Adding Address | 正在添加地址 |     |     |     |
 | android, iOS | Adding_Address_Failed | Adding Address Failed | 添加地址失败 |     |     |     |
-| android, iOS | address_adding_description | The request to add the address is currently under verification by the Mixin server. Please wait a moment. | 正在将添加地址的请求发送到 Mixin 服务器验证，请稍候。 |     |     |     |
+| android, iOS | address_adding_description | The request to add the address is currently under verification by the Mixin server. Please wait a moment. | 正在添加地址，请稍候。 |     |     |     |
 | android, iOS | address_added_description | The Mixin server has confirmed your address addition request. You can immediately use this address for withdrawals. | 地址已添加，您可以立刻使用该地址进行提现。 |     |     |     |
 | android | address_deleted_description | Address deleted. | 地址已删除。 |     |     |     |
 | android, iOS | Confirm_Editing_Address | Confirm Editing Address | 修改地址确认 |     |     |     |
