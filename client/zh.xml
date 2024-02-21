@@ -1746,7 +1746,7 @@
   <string name="large_amount_reminder" platform="android, iOS">大额转账提醒：确定给 %3$s（%4$s）转价值 %1$s 的 %2$s？</string>
   <string name="unfamiliar_person_reminder" platform="android, iOS">陌生转账提醒：确定给 %1$s（%2$s）转账？他不是你的联系人，如果您转错人，资产将无法追回。</string>
   <string name="review_address_hint" platform="android, iOS">请仔细检查地址、Memo（标签）和网络，如果您转错了，资产将无法追回。</string>
-  <string name="Confirm_Signing_Multisig" platform="android, iOS">多签转账确认</string>
+  <string name="Confirm_Signing_Multisig" platform="android, iOS">多签交易确认</string>
   <string name="Sending_Multisig_Signature" platform="android, iOS">正在发送多签转账</string>
   <string name="Multisig_Signing_Failed" platform="android, iOS">多签交易失败</string>
   <string name="Multisig_Signed" platform="android, iOS">多签签名成功</string>
