@@ -1737,7 +1737,7 @@
   <string name="Transfer_Success" platform="android, iOS">转账成功</string>
   <string name="Transfer_Failed" platform="android, iOS">转账失败</string>
   <string name="review_transfer_hint" platform="android, iOS">请仔细检查收款人、网络和金额，如果您转错了，资产将无法追回。</string>
-  <string name="transfer_sending_description" platform="android, iOS">正在将转账请求发送到 Mixin 主网验证，请稍候。</string>
+  <string name="transfer_sending_description" platform="android, iOS">正在创建交易，请稍候。</string>
   <string name="transfer_sent_description" platform="android, iOS">转账成功，收款人将很快就会收到转账。</string>
   <string name="enable_bioauth_description" platform="iOS">想要启用%@支付吗？启用后，转账时可验证%@快速完成付款。</string>
   <string name="enable_biometric_description" platform="android">想要启用生物识别支付吗？启用后，转账时可通过生物识别快速完成付款。</string>

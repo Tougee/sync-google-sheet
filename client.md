@@ -1766,7 +1766,7 @@
 | android, iOS | Transfer_Success | Transfer Success | 转账成功 |     |     |     |
 | android, iOS | Transfer_Failed | Transfer Failed | 转账失败 |     |     |     |
 | android, iOS | review_transfer_hint | Review the recipient, network, and amount. Any mistake may result in irretrievable asset loss. | 请仔细检查收款人、网络和金额，如果您转错了，资产将无法追回。 |     |     |     |
-| android, iOS | transfer_sending_description | The transfer request is being sent to the Mixin mainnet. Please wait a moment. | 正在将转账请求发送到 Mixin 主网验证，请稍候。 |     |     |     |
+| android, iOS | transfer_sending_description | The transfer request is being sent to the Mixin mainnet. Please wait a moment. | 正在创建交易，请稍候。 |     |     |     |
 | android, iOS | transfer_sent_description | Your transfer request has been confirmed by the Mixin mainnet. The recipient will promptly receive it. | 转账成功，收款人将很快就会收到转账。 |     |     |     |
 | iOS | enable_bioauth_description | What about %@? Once enabled, you can expedite authentication with %@. | 想要启用%@支付吗？启用后，转账时可验证%@快速完成付款。 |     |     |     |
 | android | enable_biometric_description | What about biometric? Once enabled, you can expedite authentication with biometric. | 想要启用生物识别支付吗？启用后，转账时可通过生物识别快速完成付款。 |     |     |     |
