@@ -1782,8 +1782,8 @@
 | android, iOS | multisig_signing_description | The signature is being sent to the Mixin mainnet. Please wait a moment. | 正在将签名发送到 Mixin 主网验证，请稍候。 |     |     |     |
 | android, iOS | multisig_signed_description | Your signature has been confirmed by the Mixin mainnet. | 您的签名已通过 Mixin 主网确认 |     |     |     |
 | android, iOS | Revoke_Multisig_Signature | Revoke Multisig Signature | 撤销多签交易确认 |     |     |     |
-| android, iOS | Revoking_Multisig_Signature | Revoking Multisig Signature | 正在撤销多签 |     |     |     |
-| android, iOS | Revoking_Multisig_Failed | Revoking Multisig Failed | 撤销多签失败 |     |     |     |
+| android, iOS | Revoking_Multisig_Signature | Revoking Multisig Signature | 正在撤销多签交易 |     |     |     |
+| android, iOS | Revoking_Multisig_Failed | Revoking Multisig Failed | 撤销多重签名交易失败 |     |     |     |
 | android, iOS | Multisig_Revoked | Multisig Revoked | 已撤销多签 |     |     |     |
 | android, iOS | multisig_unlocking_description | The request to revoke the multisig is currently under verification by the Mixin server. Please wait a moment. | 正在将撤销多签的请求发送到 Mixin 服务器验证，请稍候。 |     |     |     |
 | android, iOS | multisig_unlocked_description | Your signature has been revoked by the Mixin mainnet. | 您的签名已撤销 |     |     |     |
