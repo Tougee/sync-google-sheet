@@ -1777,7 +1777,7 @@
 | android, iOS | review_address_hint | Review the address, Memo (tag), and network. Any mistake may result in irretrievable asset loss. | 请仔细检查地址、Memo（标签）和网络，如果您转错了，资产将无法追回。 |     |     |     |
 | android, iOS | Confirm_Signing_Multisig | Confirm Signing Multisig | 多签转账确认 |     |     |     |
 | android, iOS | Sending_Multisig_Signature | Sending Multisig Signature | 正在发送多签转账 |     |     |     |
-| android, iOS | Multisig_Signing_Failed | Multisig Signing Failed | 多签签名失败 |     |     |     |
+| android, iOS | Multisig_Signing_Failed | Multisig Signing Failed | 多签交易失败 |     |     |     |
 | android, iOS | Multisig_Signed | Multisig Signed | 多签签名成功 |     |     |     |
 | android, iOS | multisig_signing_description | The signature is being sent to the Mixin mainnet. Please wait a moment. | 正在将签名发送到 Mixin 主网验证，请稍候。 |     |     |     |
 | android, iOS | multisig_signed_description | Your signature has been confirmed by the Mixin mainnet. | 您的签名已通过 Mixin 主网确认 |     |     |     |
