@@ -1800,8 +1800,8 @@
 | android, iOS | address_editing_description | The request to edit the address is currently under verification by the Mixin server. Please wait a moment. | 正在将修改地址的请求发送到 Mixin 服务器验证，请稍候。 |     |     |     |
 | android, iOS | address_edited_description | The Mixin server has confirmed your address editing request. You can immediately use this address for withdrawals. | 您修改地址的请求已通过 Mixin 服务器确认，您可以立刻使用该地址进行提现。 |     |     |     |
 | android, iOS | Confirm_Deleting_Address | Delete Address | 删除地址确认 |     |     |     |
-| android, iOS | Deleting_Address | Deleting Address | 正在删除地址 |     |     |     |
-| android, iOS | Deleting_Address_Failed | Deleting Address Failed | 删除地址失败 |     |     |     |
+| android, iOS | Deleting_Address | Delete Address | 正在删除地址 |     |     |     |
+| android, iOS | Deleting_Address_Failed | DeleteAddress Failed | 删除地址失败 |     |     |     |
 | android, iOS | delete_address_description | Deleting the address does not compromise security. Are you sure you want to delete this address? | 确认删除该地址吗？ |     |     |     |
 | android, iOS | send_by_pin | Send by PIN | 通过 PIN 发送 |     |     |     |
 | android, iOS | address_will_receive | Address will receive | 指定地址将收到 |     |     |     |
