@@ -590,7 +590,7 @@
 | android, iOS, Desktop | error_blockchain | ERROR 30100: Blockchain not in sync, please try again later. | 错误 30100：区块链同步异常，请稍后重试 | エラー 30100：ブロックチェーンが同期できていません。後程もう一度お試しください。 | RALAT 30100: Rantai blok tidak diselaraskan, sila cuba sebentar lagi. | KESALAHAN 30100: Blockchain tidak sinkron, coba lagi nanti. |
 | iOS | error_captcha_is_invalid | ERROR 10004: CAPTCHA is invalid | 错误 10004：验证失败 | エラー10004：captchaが無効です |     |     |
 | android, iOS | error_card_expired | ERROR 10601: Card expired | 错误 10601: 卡片已过期 |     |     |     |
-| android, iOS | error_card_not_supported | ERROR 10604: Card not supported | ERROR 10604: 不支持此卡片 |     |     |     |
+| android, iOS | error_card_not_supported | ERROR 10604: Card not supported | 错误 10604: 不支持此卡片 |     |     |     |
 | android, iOS, Desktop | error_connection_timeout | Network connection timeout, please try again | 网络连接超时 | ネットワーク接続がタイムアウトしました | Tamat masa sambungan rangkaian | Batas waktu sambungan jaringan |
 | android, iOS | error_expired_authorization_code | ERROR 20121: Expired authorization code | 错误 20121：授权码已过期 | 認証コードの期限切れ |     |     |
 | android, iOS, Desktop | error_full_group | ERROR 20116: The group chat is full. | 错误 20116：群组已满 | エラー 20116：グループチャットが満員です | RALAT 20116: Kumpulan sembang penuh. | KESALAHAN 20116: Obrolan grup sudah penuh. |
@@ -610,8 +610,8 @@
 | android, Desktop | error_number_reached_limit | ERROR 20132: The number has reached the limit. | 错误 20132： 已达到上限 | エラー 20132：数が上限に達しています | RALAT 20132: Angka telah mencapai had. | KESALAHAN 20132: Jumlahnya telah mencapai batas. |
 | android, Desktop | error_old_version | ERROR 10006: Please update Mixin(%1$s) to continue use the service. | 错误 10006：请更新 Mixin（%1$s） 至最新版。 | エラー 10006：このサービスを引き続き使用するには、Mixin(%1$s)をアップデートしてください。 | RALAT 10006: Sila kemas kini Mixin(%1$s) untuk terus menggunakan perkhidmatan ini. | KESALAHAN 10006: Harap perbarui Mixin(%1$s) untuk terus menggunakan layanan. |
 | android, Desktop | error_open_location | Can't find an map app | 无法找到地图应用 | 地図アプリがありません | Tidak dapat mencari aplikasi peta | Tidak dapat menemukan aplikasi peta |
-| android, iOS | error_opponent_not_registered_to_safe | ERROR 10404: The opponent is using an earlier version, you can remind them to update | ERROR 10404: 对方客户端版本过低，请提醒对方更新客户端到最新版本 |     |     |     |
-| android, iOS | error_payment_capture_failed | ERROR 10603: Payment capture failed | ERROR 10603: 支付确认失败 |     |     |     |
+| android, iOS | error_opponent_not_registered_to_safe | ERROR 10404: The opponent is using an earlier version, you can remind them to update | 错误 10404: 对方客户端版本过低，请提醒对方更新客户端到最新版本 |     |     |     |
+| android, iOS | error_payment_capture_failed | ERROR 10603: Payment capture failed | 错误 10603: 支付确认失败 |     |     |     |
 | android | error_not_support_card | ERROR 10604: Card anomaly, please try correct card later | 错误 10604: 卡片异常，请稍后尝试正确的卡片 |     |     |     |
 | android | error_use_card_same_time | ERROR 10605: Card anomaly, please try correct card later | 错误 10605: 卡片异常，请稍后尝试正确的卡片 |     |     |     |
 | android | error_not_approved_many_times | ERROR 10606: Not approved too many times | 错误 10606: 未批准多次 |     |     |     |
@@ -628,7 +628,7 @@
 | android, iOS, Desktop | error_pin_incorrect | ERROR 20119: PIN incorrect | 错误 20119：PIN 不正确 | PINコードが違います | RALAT 20119: PIN tidak betul | KESALAHAN 20119: PIN salah |
 | android, iOS, Desktop | error_pin_incorrect_with_times | ERROR 20119: PIN incorrect. You still have %1$d chance. Please wait for 24 hours to retry later. | 错误 20119：PIN 不正确。你还有 %1$d 次机会，使用完需等待 24 小时后再次尝试。 | エラー 20119：PINコードが間違っています。あと%1$d回入力可能です。24時間後に再試行してください。 |     |     |
 | android, iOS, Desktop | error_pin_incorrect_with_times.count | ERROR 20119: PIN incorrect. You still have %1$d chances. Please wait for 24 hours to retry later. | 错误 20119：PIN 不正确。你还有 %1$d 次机会，使用完需等待 24 小时后再次尝试。 | エラー20119：PINコードが間違っています。あと%1$d回入力可能です。24時間後に再試行してください。 | RALAT 20119: PIN tidak betul. Anda masih mempunyai %1$d peluang. Sila tunggu selama 24 jam untuk cuba lagi kemudian. | KESALAHAN 20119: PIN salah. Anda masih memiliki %1$d kesempatan. Harap tunggu 24 jam untuk mencoba lagi nanti. |
-| android, iOS | error_price_expired | ERROR 10602: Price expired | ERROR 10602: 价格已过期 |     |     |     |
+| android, iOS | error_price_expired | ERROR 10602: Price expired | 错误 10602: 价格已过期 |     |     |     |
 | android, Desktop | error_recaptcha_is_invalid | ERROR 10004: Recaptcha is invalid | 错误 10004：验证失败 | エラー 10004：Recaptchaが無効です | RALAT 10004: Recaptcha tidak sah | KESALAHAN 10004: Recaptcha tidak valid |
 | iOS | error_requires_captcha | CAPTCHA is required. | 需要验证码。 | Captcha認証が必要です |     |     |
 | android, Desktop | error_server_5xx_code | Server is under maintenance: %1$d | 服务器出错，请稍后重试：%1$d | サーバーメンテナンス中：%1$d | Pelayan sedang dalam penyelenggaraan: %1$d | Server sedang dalam pemeliharaan: %1$d |

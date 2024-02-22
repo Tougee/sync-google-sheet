@@ -580,7 +580,7 @@
   <string name="error_blockchain" platform="android, iOS, Desktop">错误 30100：区块链同步异常，请稍后重试</string>
   <string name="error_captcha_is_invalid" platform="iOS">错误 10004：验证失败</string>
   <string name="error_card_expired" platform="android, iOS">错误 10601: 卡片已过期</string>
-  <string name="error_card_not_supported" platform="android, iOS">ERROR 10604: 不支持此卡片</string>
+  <string name="error_card_not_supported" platform="android, iOS">错误 10604: 不支持此卡片</string>
   <string name="error_connection_timeout" platform="android, iOS, Desktop">网络连接超时</string>
   <string name="error_expired_authorization_code" platform="android, iOS">错误 20121：授权码已过期</string>
   <string name="error_full_group" platform="android, iOS, Desktop">错误 20116：群组已满</string>
@@ -600,8 +600,8 @@
   <string name="error_number_reached_limit" platform="android, Desktop">错误 20132： 已达到上限</string>
   <string name="error_old_version" platform="android, Desktop">错误 10006：请更新 Mixin（%1$s） 至最新版。</string>
   <string name="error_open_location" platform="android, Desktop">无法找到地图应用</string>
-  <string name="error_opponent_not_registered_to_safe" platform="android, iOS">ERROR 10404: 对方客户端版本过低，请提醒对方更新客户端到最新版本</string>
-  <string name="error_payment_capture_failed" platform="android, iOS">ERROR 10603: 支付确认失败</string>
+  <string name="error_opponent_not_registered_to_safe" platform="android, iOS">错误 10404: 对方客户端版本过低，请提醒对方更新客户端到最新版本</string>
+  <string name="error_payment_capture_failed" platform="android, iOS">错误 10603: 支付确认失败</string>
   <string name="error_not_support_card" platform="android">错误 10604: 卡片异常，请稍后尝试正确的卡片</string>
   <string name="error_use_card_same_time" platform="android">错误 10605: 卡片异常，请稍后尝试正确的卡片</string>
   <string name="error_not_approved_many_times" platform="android">错误 10606: 未批准多次</string>
@@ -618,7 +618,7 @@
   <string name="error_pin_incorrect" platform="android, iOS, Desktop">错误 20119：PIN 不正确</string>
   <string name="error_pin_incorrect_with_times" platform="android, iOS, Desktop">错误 20119：PIN 不正确。你还有 %1$d 次机会，使用完需等待 24 小时后再次尝试。</string>
   <string name="error_pin_incorrect_with_times.count" platform="android, iOS, Desktop">错误 20119：PIN 不正确。你还有 %1$d 次机会，使用完需等待 24 小时后再次尝试。</string>
-  <string name="error_price_expired" platform="android, iOS">ERROR 10602: 价格已过期</string>
+  <string name="error_price_expired" platform="android, iOS">错误 10602: 价格已过期</string>
   <string name="error_recaptcha_is_invalid" platform="android, Desktop">错误 10004：验证失败</string>
   <string name="error_requires_captcha" platform="iOS">需要验证码。</string>
   <string name="error_server_5xx_code" platform="android, Desktop">服务器出错，请稍后重试：%1$d</string>
