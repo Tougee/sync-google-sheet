@@ -589,7 +589,7 @@
   <string name="error_internal_with_msg" platform="iOS">内部错误：%@</string>
   <string name="error_invalid_address" platform="android, Desktop">错误 30102：地址格式错误。请输入正确的 %1$s %2$s 的地址！</string>
   <string name="error_invalid_address_plain" platform="android, iOS, Desktop">错误 30102：地址格式错误。</string>
-  <string name="error_invalid_code_too_frequent" platform="android, Desktop">错误 20129：发送验证码太频繁，请稍后再试</string>
+  <string name="error_invalid_code_too_frequent" platform="android, iOS, Desktop">错误 20129：发送验证码太频繁，请稍后再试</string>
   <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">错误 20130：紧急联系人不正确</string>
   <string name="error_invalid_pin_format" platform="android, Desktop">错误 20118：PIN 格式不正确</string>
   <string name="error_memo_too_long" platform="android">Memo 字符超长，最多为 200</string>

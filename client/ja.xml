@@ -485,7 +485,7 @@
   <string name="error_internal_with_msg" platform="iOS">内部エラー: %@</string>
   <string name="error_invalid_address" platform="android, Desktop">エラー30102：無効なアドレス形式です。正しい%1$s %2$s アドレスを入力してください。</string>
   <string name="error_invalid_address_plain" platform="android, iOS, Desktop">エラー30102：無効なアドレス形式です</string>
-  <string name="error_invalid_code_too_frequent" platform="android, Desktop">エラー 20129：認証コードを送信する頻度が多すぎます。しばらくしてからもう一度お試しください。</string>
+  <string name="error_invalid_code_too_frequent" platform="android, iOS, Desktop">エラー 20129：認証コードを送信する頻度が多すぎます。しばらくしてからもう一度お試しください。</string>
   <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">エラー 20130：無効な緊急連絡先です</string>
   <string name="error_invalid_pin_format" platform="android, Desktop">エラー 20118：無効なPINフォーマットです</string>
   <string name="error_memo_too_long" platform="android">メモの上限文字数は200文字です</string>
