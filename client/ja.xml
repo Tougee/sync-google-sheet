@@ -492,7 +492,7 @@
   <string name="error_network_task_failed" platform="iOS, Desktop">ネットワーク接続に失敗しました。ネットワーク接続状態を確認した後にもう一度試してください。</string>
   <string name="error_not_found" platform="android, iOS, Desktop">エラー 404：結果なし</string>
   <string name="error_not_supported_audio_format" platform="android, Desktop">サポートされていないオーディオ形式です。他のアプリで開いてください。</string>
-  <string name="error_number_reached_limit" platform="android, Desktop">エラー 20132：数が上限に達しています</string>
+  <string name="error_number_reached_limit" platform="android, iOS, Desktop">エラー 20132：数が上限に達しています</string>
   <string name="error_old_version" platform="android, Desktop">エラー 10006：このサービスを引き続き使用するには、Mixin(%1$s)をアップデートしてください。</string>
   <string name="error_open_location" platform="android, Desktop">地図アプリがありません</string>
   <string name="error_permission" platform="android, Desktop">必要な権限を開いてください</string>
@@ -1079,7 +1079,6 @@
   <string name="Send_to_Developer" platform="iOS, Desktop">開発者へ送信</string>
   <string name="Send_To_Title" platform="iOS">振替先</string>
   <string name="Send_transfer" platform="android">送信</string>
-  <string name="Send_verification_code_frequent" platform="iOS">しばらく経ってから再度送信してください</string>
   <string name="send_video" platform="iOS">ビデオを送信</string>
   <string name="send_video.count" platform="iOS">%1$d本のビデオを送信</string>
   <string name="send_without_compression" platform="android, Desktop">圧縮せずに送信</string>

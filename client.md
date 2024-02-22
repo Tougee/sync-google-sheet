@@ -607,7 +607,7 @@
 | Desktop | error_no_pin_token | No token, Please log in again and try this feature again. | 缺少凭据，请重新登录之后再尝试使用此功能。 |     |     |     |
 | android, iOS, Desktop | error_not_found | ERROR 404: Not found | 错误 404：没有找到相应的信息 | エラー 404：結果なし | RALAT 404: Tidak ditemui | KESALAHAN 404: Tidak ditemukan |
 | android, Desktop | error_not_supported_audio_format | Not supported audio format, please open by other app. | 不支持的音频格式，请用其他app打开。 | サポートされていないオーディオ形式です。他のアプリで開いてください。 | Tidak disokong format audio, sila buka oleh aplikasi lain. | Tidak mendukung format audio, harap buka dengan aplikasi lain. |
-| android, Desktop | error_number_reached_limit | ERROR 20132: The number has reached the limit. | 错误 20132： 已达到上限 | エラー 20132：数が上限に達しています | RALAT 20132: Angka telah mencapai had. | KESALAHAN 20132: Jumlahnya telah mencapai batas. |
+| android, iOS, Desktop | error_number_reached_limit | ERROR 20132: The number has reached the limit. | 错误 20132： 已达到上限 | エラー 20132：数が上限に達しています | RALAT 20132: Angka telah mencapai had. | KESALAHAN 20132: Jumlahnya telah mencapai batas. |
 | android, Desktop | error_old_version | ERROR 10006: Please update Mixin(%1$s) to continue use the service. | 错误 10006：请更新 Mixin（%1$s） 至最新版。 | エラー 10006：このサービスを引き続き使用するには、Mixin(%1$s)をアップデートしてください。 | RALAT 10006: Sila kemas kini Mixin(%1$s) untuk terus menggunakan perkhidmatan ini. | KESALAHAN 10006: Harap perbarui Mixin(%1$s) untuk terus menggunakan layanan. |
 | android, Desktop | error_open_location | Can't find an map app | 无法找到地图应用 | 地図アプリがありません | Tidak dapat mencari aplikasi peta | Tidak dapat menemukan aplikasi peta |
 | android, iOS | error_opponent_not_registered_to_safe | ERROR 10404: The opponent is using an earlier version, you can remind them to update | 错误 10404: 对方客户端版本过低，请提醒对方更新客户端到最新版本 |     |     |     |
@@ -1350,7 +1350,6 @@
 | iOS, Desktop | Send_to_Developer | Send to Developer | 把日志发给开发者 | 開発者へ送信 |     |     |
 | iOS | Send_To_Title | Send To | 转给  | 振替先 |     |     |
 | android | Send_transfer | Send | 转出  | 送信  |     |     |
-| iOS | Send_verification_code_frequent | Send verification code too frequent, please try again later. | 发送验证码太频繁，请稍后再试 | しばらく経ってから再度送信してください |     |     |
 | iOS | send_video | Send 1 Video | 发送 1 个视频 | ビデオを送信 |     |     |
 | iOS | send_video.count | Send %1$d Videos | 发送 %1$d 个视频 | %1$d本のビデオを送信 |     |     |
 | android, Desktop | send_without_compression | Send without compression | 发送原始文件 | 圧縮せずに送信 |     |     |

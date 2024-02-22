@@ -606,7 +606,7 @@
   <string name="error_no_pin_token" platform="Desktop">No token, Please log in again and try this feature again.</string>
   <string name="error_not_found" platform="android, iOS, Desktop">ERROR 404: Not found</string>
   <string name="error_not_supported_audio_format" platform="android, Desktop">Not supported audio format, please open by other app.</string>
-  <string name="error_number_reached_limit" platform="android, Desktop">ERROR 20132: The number has reached the limit.</string>
+  <string name="error_number_reached_limit" platform="android, iOS, Desktop">ERROR 20132: The number has reached the limit.</string>
   <string name="error_old_version" platform="android, Desktop">ERROR 10006: Please update Mixin(%1$s) to continue use the service.</string>
   <string name="error_open_location" platform="android, Desktop">Can't find an map app</string>
   <string name="error_opponent_not_registered_to_safe" platform="android, iOS">ERROR 10404: The opponent is using an earlier version, you can remind them to update</string>
@@ -1349,7 +1349,6 @@
   <string name="Send_to_Developer" platform="iOS, Desktop">Send to Developer</string>
   <string name="Send_To_Title" platform="iOS">Send To</string>
   <string name="Send_transfer" platform="android">Send</string>
-  <string name="Send_verification_code_frequent" platform="iOS">Send verification code too frequent, please try again later.</string>
   <string name="send_video" platform="iOS">Send 1 Video</string>
   <string name="send_video.count" platform="iOS">Send %1$d Videos</string>
   <string name="send_without_compression" platform="android, Desktop">Send without compression</string>

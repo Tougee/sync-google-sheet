@@ -597,7 +597,7 @@
   <string name="error_no_pin_token" platform="Desktop">缺少凭据，请重新登录之后再尝试使用此功能。</string>
   <string name="error_not_found" platform="android, iOS, Desktop">错误 404：没有找到相应的信息</string>
   <string name="error_not_supported_audio_format" platform="android, Desktop">不支持的音频格式，请用其他app打开。</string>
-  <string name="error_number_reached_limit" platform="android, Desktop">错误 20132： 已达到上限</string>
+  <string name="error_number_reached_limit" platform="android, iOS, Desktop">错误 20132： 已达到上限</string>
   <string name="error_old_version" platform="android, Desktop">错误 10006：请更新 Mixin（%1$s） 至最新版。</string>
   <string name="error_open_location" platform="android, Desktop">无法找到地图应用</string>
   <string name="error_opponent_not_registered_to_safe" platform="android, iOS">错误 10404: 对方客户端版本过低，请提醒对方更新客户端到最新版本</string>
@@ -1329,7 +1329,6 @@
   <string name="Send_to_Developer" platform="iOS, Desktop">把日志发给开发者</string>
   <string name="Send_To_Title" platform="iOS">转给</string>
   <string name="Send_transfer" platform="android">转出</string>
-  <string name="Send_verification_code_frequent" platform="iOS">发送验证码太频繁，请稍后再试</string>
   <string name="send_video" platform="iOS">发送 1 个视频</string>
   <string name="send_video.count" platform="iOS">发送 %1$d 个视频</string>
   <string name="send_without_compression" platform="android, Desktop">发送原始文件</string>
