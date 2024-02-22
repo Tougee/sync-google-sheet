@@ -474,7 +474,7 @@
   <string name="error_address_not_sync" platform="android, Desktop">アドレスの更新に失敗しました。もう一度やり直してください。</string>
   <string name="error_asset_exists" platform="Desktop">資産がありません</string>
   <string name="error_authentication" platform="android, Desktop">エラー 401：サインインをして続ける</string>
-  <string name="error_bad_data" platform="android, Desktop">エラー 10002：リクエストデータが無効です</string>
+  <string name="error_bad_data" platform="android, iOS, Desktop">エラー 10002：リクエストデータが無効です</string>
   <string name="error_blockchain" platform="android, iOS, Desktop">エラー 30100：ブロックチェーンが同期できていません。後程もう一度お試しください。</string>
   <string name="error_captcha_is_invalid" platform="iOS">エラー10004：captchaが無効です</string>
   <string name="error_connection_timeout" platform="android, iOS, Desktop">ネットワーク接続がタイムアウトしました</string>
@@ -635,7 +635,6 @@
   <string name="Invalid_payment_link" platform="android, iOS">支払いが無効です</string>
   <string name="Invalid_QR_Code" platform="android, iOS">無効なQRコード</string>
   <string name="Invalid_request_body" platform="iOS">無効なリクエストボディ</string>
-  <string name="Invalid_request_data" platform="iOS">無効なリクエストデータ</string>
   <string name="Invalid_sdp" platform="iOS">無効なSDP</string>
   <string name="Invalid_sticker_format" platform="android">スタンプのフォーマットが無効です</string>
   <string name="Invalid_width" platform="iOS">無効な横幅</string>

@@ -586,7 +586,7 @@
 | android, Desktop | error_address_not_sync | Address refresh failed, please try again | 地址刷新失败，请重试 | アドレスの更新に失敗しました。もう一度やり直してください。 |     |     |
 | Desktop | error_asset_exists | Asset does not exist | 没有相关资产 | 資産がありません |     |     |
 | android, Desktop | error_authentication | ERROR 401: Sign in to continue | 错误 401：请重新登录 | エラー 401：サインインをして続ける | RALAT 401: Log masuk untuk meneruskan | KESALAHAN 401: Masuk untuk melanjutkan |
-| android, Desktop | error_bad_data | ERROR 10002: The request data has invalid field | 错误 10002：请求数据不合法 | エラー 10002：リクエストデータが無効です | RALAT 10002: Data permintaan mempunyai medan yang tidak sah | KESALAHAN 10002: Data permintaan memiliki bidang yang tidak valid |
+| android, iOS, Desktop | error_bad_data | ERROR 10002: The request data has invalid field | 错误 10002：请求数据不合法 | エラー 10002：リクエストデータが無効です | RALAT 10002: Data permintaan mempunyai medan yang tidak sah | KESALAHAN 10002: Data permintaan memiliki bidang yang tidak valid |
 | android, iOS, Desktop | error_blockchain | ERROR 30100: Blockchain not in sync, please try again later. | 错误 30100：区块链同步异常，请稍后重试 | エラー 30100：ブロックチェーンが同期できていません。後程もう一度お試しください。 | RALAT 30100: Rantai blok tidak diselaraskan, sila cuba sebentar lagi. | KESALAHAN 30100: Blockchain tidak sinkron, coba lagi nanti. |
 | iOS | error_captcha_is_invalid | ERROR 10004: CAPTCHA is invalid | 错误 10004：验证失败 | エラー10004：captchaが無効です |     |     |
 | android, iOS | error_card_expired | ERROR 10601: Card expired | 错误 10601: 卡片已过期 |     |     |     |
@@ -785,7 +785,6 @@
 | android, iOS | Invalid_payment_link | Invalid payment link | 无效支付信息 | 支払いが無効です | Pembayaran tidak sah | Pembayaran tidak valid |
 | android, iOS | Invalid_QR_Code | Invalid QR-Code | 无效的二维码 | 無効なQRコード |     |     |
 | iOS | Invalid_request_body | Invalid request body | 无效的请求 | 無効なリクエストボディ |     |     |
-| iOS | Invalid_request_data | Invalid request data | 无效的请求数据 | 無効なリクエストデータ |     |     |
 | iOS | Invalid_sdp | Invalid SDP | 无效的 SDP | 無効なSDP |     |     |
 | android | Invalid_sticker_format | Invalid sticker format | 贴纸格式不支持 | スタンプのフォーマットが無効です | Format pelekat tidak sah | Format stiker tidak valid |
 | iOS | Invalid_width | Invalid width | 宽度无效 | 無効な横幅 |     |     |

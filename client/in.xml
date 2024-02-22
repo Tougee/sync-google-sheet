@@ -228,7 +228,7 @@
   <string name="Enter_your_phone_number" platform="android, iOS, Desktop">Masukkan nomor ponsel Anda</string>
   <string name="Enter_your_PIN" platform="android, iOS">Masukkan PIN Anda</string>
   <string name="error_authentication" platform="android, Desktop">KESALAHAN 401: Masuk untuk melanjutkan</string>
-  <string name="error_bad_data" platform="android, Desktop">KESALAHAN 10002: Data permintaan memiliki bidang yang tidak valid</string>
+  <string name="error_bad_data" platform="android, iOS, Desktop">KESALAHAN 10002: Data permintaan memiliki bidang yang tidak valid</string>
   <string name="error_blockchain" platform="android, iOS, Desktop">KESALAHAN 30100: Blockchain tidak sinkron, coba lagi nanti.</string>
   <string name="error_connection_timeout" platform="android, iOS, Desktop">Batas waktu sambungan jaringan</string>
   <string name="error_full_group" platform="android, iOS, Desktop">KESALAHAN 20116: Obrolan grup sudah penuh.</string>
