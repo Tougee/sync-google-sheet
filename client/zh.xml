@@ -1010,7 +1010,7 @@
   <string name="NSLocationWhenInUseUsageDescription" platform="iOSAuthorization">允许获取位置让您可以在对话中发送当前的位置或附近的地点</string>
   <string name="NSMicrophoneUsageDescription" platform="iOSAuthorization">Mixin 使用你的麦克风录制语音消息发给你的联系人</string>
   <string name="NSPhotoLibraryUsageDescription" platform="iOSAuthorization">Mixin 需要访问相册的权限来设置头像或在聊天室里给你的联系人发送照片</string>
-  <string name="number_reached_limit" platform="android, iOS">已达到上限</string>
+  <string name="number_reached_limit" platform="android">已达到上限</string>
   <string name="objects" platform="Desktop">物件</string>
   <string name="Off" platform="android, iOS">关闭</string>
   <string name="OK" platform="android, iOS">好的</string>

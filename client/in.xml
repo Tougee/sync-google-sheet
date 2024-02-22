@@ -432,7 +432,7 @@
   <string name="Notification_and_Confirmation" platform="android, iOS">Notifikasi dan Konfirmasi</string>
   <string name="notification_content" platform="android, iOS, Desktop">Jangan lewatkan pesan dari teman Anda.</string>
   <string name="Notifications" platform="android, Desktop">Notifikasi</string>
-  <string name="number_reached_limit" platform="android, iOS">Jumlahnya sudah mencapai batas</string>
+  <string name="number_reached_limit" platform="android">Jumlahnya sudah mencapai batas</string>
   <string name="OK" platform="android, iOS">OK</string>
   <string name="Old_PIN" platform="android">PIN Lama</string>
   <string name="one_hour" platform="android, iOS, Desktop">1 Jam</string>

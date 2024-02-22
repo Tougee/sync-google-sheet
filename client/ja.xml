@@ -839,7 +839,7 @@
   <string name="NSLocationWhenInUseUsageDescription" platform="iOSAuthorization">位置情報へのアクセスは、位置情報の共有に使用されます</string>
   <string name="NSMicrophoneUsageDescription" platform="iOSAuthorization">マイクは、通話やボイスメッセージに使用されます</string>
   <string name="NSPhotoLibraryUsageDescription" platform="iOSAuthorization">アルバムは、プロフィール画像の設定、画像の共有に使用されます</string>
-  <string name="number_reached_limit" platform="android, iOS">数が上限に達しました</string>
+  <string name="number_reached_limit" platform="android">数が上限に達しました</string>
   <string name="Off" platform="android, iOS">オフ</string>
   <string name="OK" platform="android, iOS">OK</string>
   <string name="Old_PIN" platform="android">変更前のPINコード</string>

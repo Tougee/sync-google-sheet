@@ -1028,7 +1028,7 @@
   <string name="NSLocationWhenInUseUsageDescription" platform="iOSAuthorization">Turn on location services to send your current location or nearby places in conversation</string>
   <string name="NSMicrophoneUsageDescription" platform="iOSAuthorization">Mixin uses your microphone to record voice messages to share with your contacts</string>
   <string name="NSPhotoLibraryUsageDescription" platform="iOSAuthorization">Mixin uses the photo library to set profile photo, and send photo to your contact in chat</string>
-  <string name="number_reached_limit" platform="android, iOS">The number has reached the limit</string>
+  <string name="number_reached_limit" platform="android">The number has reached the limit</string>
   <string name="objects" platform="Desktop">Objects</string>
   <string name="Off" platform="android, iOS">Off</string>
   <string name="OK" platform="android, iOS">OK</string>

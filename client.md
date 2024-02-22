@@ -1029,7 +1029,7 @@
 | iOSAuthorization | NSLocationWhenInUseUsageDescription | Turn on location services to send your current location or nearby places in conversation | 允许获取位置让您可以在对话中发送当前的位置或附近的地点 | 位置情報へのアクセスは、位置情報の共有に使用されます |     |     |
 | iOSAuthorization | NSMicrophoneUsageDescription | Mixin uses your microphone to record voice messages to share with your contacts | Mixin 使用你的麦克风录制语音消息发给你的联系人 | マイクは、通話やボイスメッセージに使用されます |     |     |
 | iOSAuthorization | NSPhotoLibraryUsageDescription | Mixin uses the photo library to set profile photo, and send photo to your contact in chat | Mixin 需要访问相册的权限来设置头像或在聊天室里给你的联系人发送照片 | アルバムは、プロフィール画像の設定、画像の共有に使用されます |     |     |
-| android, iOS | number_reached_limit | The number has reached the limit | 已达到上限 | 数が上限に達しました | Jumlahnya sudah mencapai had | Jumlahnya sudah mencapai batas |
+| android | number_reached_limit | The number has reached the limit | 已达到上限 | 数が上限に達しました | Jumlahnya sudah mencapai had | Jumlahnya sudah mencapai batas |
 | Desktop | objects | Objects | 物件  |     |     |     |
 | android, iOS | Off | Off | 关闭  | オフ  |     |     |
 | android, iOS | OK  | OK  | 好的  | OK  | okey | OK  |

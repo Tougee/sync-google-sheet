@@ -459,7 +459,7 @@
   <string name="notification_content" platform="android, iOS, Desktop">Jangan terlepas mesej daripada rakan anda.</string>
   <string name="Notifications" platform="android, Desktop">Pemberitahuan</string>
   <string name="Now_Playing" platform="android">Main sekarang</string>
-  <string name="number_reached_limit" platform="android, iOS">Jumlahnya sudah mencapai had</string>
+  <string name="number_reached_limit" platform="android">Jumlahnya sudah mencapai had</string>
   <string name="OK" platform="android, iOS">okey</string>
   <string name="Old_PIN" platform="android">PIN lama</string>
   <string name="one_hour" platform="android, iOS, Desktop">1 jam</string>
