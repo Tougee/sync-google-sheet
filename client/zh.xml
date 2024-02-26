@@ -1784,4 +1784,5 @@
   <string name="Enable" platform="android, iOS">启用</string>
   <string name="Not_Now" platform="android, iOS">现在不要</string>
   <string name="Sender" platform="android, iOS">交易发起人</string>
+  <string name="total" platform="android, iOS">共计</string>
 </resources>
