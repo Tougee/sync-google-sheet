@@ -1812,4 +1812,5 @@
   <string name="Enable" platform="android, iOS">Enable</string>
   <string name="Not_Now" platform="android, iOS">Not Now</string>
   <string name="Sender" platform="android, iOS">Sender</string>
+  <string name="total" platform="android, iOS">Total</string>
 </resources>

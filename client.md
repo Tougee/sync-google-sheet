@@ -1813,3 +1813,4 @@
 | android, iOS | Enable | Enable | 启用  |     |     |     |
 | android, iOS | Not_Now | Not Now | 现在不要 |     |     |     |
 | android, iOS | Sender | Sender | 交易发起人 | 送信者 |     |     |
+| android, iOS | total | Total |     |     |     |     |
