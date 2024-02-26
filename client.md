@@ -1756,7 +1756,7 @@
 | android, iOS | Withdrawal_Request_Sent | Withdrawal Request Sent | 提现请求已提交 |     |     |     |
 | android, iOS | Withdrawal_Failed | Withdrawal Failed | 提现失败 |     |     |     |
 | android, iOS | review_withdrawal_hint | Review the address, network, and amount meticulously. Any mistake may result in irretrievable asset loss. | 请仔细检查收款地址、网络和金额，如果您转错了，资产将无法追回。 |     |     |     |
-| android, iOS | address_validity_reminder | Address validity reminder: Verify the validity of the address %1$s(%2$s); It has not been used for over 30 days. | 地址确认提醒：请确认地址 %1$s（%2$s）仍然有效，您已经超过 30 天没有使用该地址。 |     |     |     |
+| android, iOS | address_validity_reminder | Address validity reminder: Verify the validity of the address %1$s(%2$s); It has not been used for over 30 days. | 请确认地址 %1$s（%2$s）仍然有效，您已经超过 30 天没有使用该地址。 |     |     |     |
 | android, iOS | withdrawal_sending_description | The withdrawal request is being sent to the Mixin mainnet. Please wait a moment. | 正在创建提现，请稍候。 |     |     |     |
 | android, iOS | withdrawal_sent_description | Withdrawal request successful. Please wait a moment. | 提现成功。 |     |     |     |
 | android, iOS | Confirm_Transfer | Confirm Transfer | 转账确认 |     |     |     |
@@ -1769,9 +1769,9 @@
 | iOS | enable_bioauth_description | What about %@? Once enabled, you can expedite authentication with %@. | 想要启用%@支付吗？启用后，转账时可验证%@快速完成付款。 |     |     |     |
 | android | enable_biometric_description | What about biometric? Once enabled, you can expedite authentication with biometric. | 想要启用生物识别支付吗？启用后，转账时可通过生物识别快速完成付款。 |     |     |     |
 | android, iOS | return_to_merchant_description | Merchant payment is complete. You can opt to return to the merchant or stay in Mixin. | 来自商家的支付已完成，您可以选择返回商家或者停留在 Mixin。 |     |     |     |
-| android, iOS | duplication_reminder | Duplication reminder: You transferred %1$s to the recipient %2$s ago. | 重复转账提醒：您已经在%2$s前给该收款人转账了 %1$s。 |     |     |     |
-| android, iOS | large_amount_reminder | Large amount reminder: Confirm the transfer of %1$s worth of %2$s to %3$s (%4$s)? | 大额转账提醒：确定给 %3$s（%4$s）转价值 %1$s 的 %2$s？ |     |     |     |
-| android, iOS | unfamiliar_person_reminder | Unfamiliar person reminder: Confirm the transfer to %1$s (%2$s)? He is not in your contacts. Sending to the wrong person may result in irrecoverable asset loss. | 陌生转账提醒：确定给 %1$s（%2$s）转账？他不是你的联系人，如果您转错人，资产将无法追回。 |     |     |     |
+| android, iOS | duplication_reminder | Duplication reminder: You transferred %1$s to the recipient %2$s ago. | 您已经在%2$s前给该收款人转账了 %1$s。 |     |     |     |
+| android, iOS | large_amount_reminder | Large amount reminder: Confirm the transfer of %1$s worth of %2$s to %3$s (%4$s)? | 确定给 %3$s（%4$s）转价值 %1$s 的 %2$s？ |     |     |     |
+| android, iOS | unfamiliar_person_reminder | Unfamiliar person reminder: Confirm the transfer to %1$s (%2$s)? He is not in your contacts. Sending to the wrong person may result in irrecoverable asset loss. | 确定给 %1$s（%2$s）转账？他不是你的联系人，如果您转错人，资产将无法追回。 |     |     |     |
 | android, iOS | review_address_hint | Review the address, Memo (tag), and network. Any mistake may result in irretrievable asset loss. | 请仔细检查地址、Memo（标签）和网络，如果您转错了，资产将无法追回。 |     |     |     |
 | android, iOS | Confirm_Signing_Multisig | Confirm Signing Multisig | 多签交易确认 |     |     |     |
 | android, iOS | Sending_Multisig_Signature | Sending Multisig Signature | 正在发送多签交易 |     |     |     |
@@ -1802,8 +1802,6 @@
 | android, iOS | Deleting_Address_Failed | DeleteAddress Failed | 删除地址失败 |     |     |     |
 | android, iOS | delete_address_description | Are you sure to delete this address? | 确认删除该地址吗？ |     |     |     |
 | android, iOS | send_by_pin | Send by PIN | 通过 PIN 发送 |     |     |     |
-| android, iOS | address_will_receive | Address will receive | 指定地址将收到 |     |     |     |
-| android, iOS | receiver_will_receive | Receiver will receive | 对方将收到 |     |     |     |
 | android, iOS | address_added | Address Added | 地址已添加 |     |     |     |
 | android, iOS | address_deleted | Address Deleted | 地址已删除 |     |     |     |
 | android, iOS | address_edited | Address Edited | 地址已修改 |     |     |     |

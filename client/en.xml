@@ -1801,8 +1801,6 @@
   <string name="Deleting_Address_Failed" platform="android, iOS">DeleteAddress Failed</string>
   <string name="delete_address_description" platform="android, iOS">Are you sure to delete this address?</string>
   <string name="send_by_pin" platform="android, iOS">Send by PIN</string>
-  <string name="address_will_receive" platform="android, iOS">Address will receive</string>
-  <string name="receiver_will_receive" platform="android, iOS">Receiver will receive</string>
   <string name="address_added" platform="android, iOS">Address Added</string>
   <string name="address_deleted" platform="android, iOS">Address Deleted</string>
   <string name="address_edited" platform="android, iOS">Address Edited</string>
