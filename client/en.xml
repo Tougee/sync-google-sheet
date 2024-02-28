@@ -1755,7 +1755,7 @@
   <string name="Withdrawal_Request_Sent" platform="android, iOS">Withdrawal Request Sent</string>
   <string name="Withdrawal_Failed" platform="android, iOS">Withdrawal Failed</string>
   <string name="review_withdrawal_hint" platform="android, iOS">Review the address, network, and amount meticulously. Any mistake may result in irretrievable asset loss.</string>
-  <string name="address_validity_reminder" platform="android, iOS">Verify the validity of the address %1$s(%2$s); It has not been used for over 30 days.</string>
+  <string name="address_validity_reminder" platform="android, iOS">The address %1$s(%2$s) has not been used for over %3$s days. Please check if the address is still valid.</string>
   <string name="withdrawal_sending_description" platform="android, iOS">The withdrawal request is being sent to the Mixin mainnet. Please wait a moment.</string>
   <string name="withdrawal_sent_description" platform="android, iOS">Withdrawal request successful. Please wait a moment.</string>
   <string name="Confirm_Transfer" platform="android, iOS">Confirm Transfer</string>
@@ -1769,8 +1769,8 @@
   <string name="enable_biometric_description" platform="android">What about biometric? Once enabled, you can expedite authentication with biometric.</string>
   <string name="return_to_merchant_description" platform="android, iOS">Merchant payment is complete. You can opt to return to the merchant or stay in Mixin.</string>
   <string name="duplication_reminder" platform="android, iOS">You transferred %1$s to the recipient %2$s ago.</string>
-  <string name="large_amount_reminder" platform="android, iOS">Confirm the transfer of %1$s worth of %2$s to %3$s (%4$s)?</string>
-  <string name="unfamiliar_person_reminder" platform="android, iOS">Confirm the transfer to %1$s (%2$s)? They are not in your contacts. Sending to the wrong person may result in irrecoverable asset loss.</string>
+  <string name="large_amount_reminder" platform="android, iOS">The value of this transfer of %1$s is up to %2$s. Please ensure the amount is correct.</string>
+  <string name="unfamiliar_person_reminder" platform="android, iOS">%1$s (%2$s) is not in your contacts. Please verify if the recipient is correct.</string>
   <string name="review_address_hint" platform="android, iOS">Review the address, Memo (tag), and network. Any mistake may result in irretrievable asset loss.</string>
   <string name="Confirm_Signing_Multisig" platform="android, iOS">Confirm Signing Multisig</string>
   <string name="Sending_Multisig_Signature" platform="android, iOS">Sending Multisig Signature</string>

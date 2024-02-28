@@ -1756,7 +1756,7 @@
 | android, iOS | Withdrawal_Request_Sent | Withdrawal Request Sent | 提现请求已提交 |     |     |     |
 | android, iOS | Withdrawal_Failed | Withdrawal Failed | 提现失败 |     |     |     |
 | android, iOS | review_withdrawal_hint | Review the address, network, and amount meticulously. Any mistake may result in irretrievable asset loss. | 请仔细检查收款地址、网络和金额，如果您转错了，资产将无法追回。 |     |     |     |
-| android, iOS | address_validity_reminder | Verify the validity of the address %1$s(%2$s); It has not been used for over 30 days. | 请确认地址 %1$s（%2$s）仍然有效，您已经超过 30 天没有使用该地址。 |     |     |     |
+| android, iOS | address_validity_reminder | The address %1$s(%2$s) has not been used for over %3$s days. Please check if the address is still valid. | 您已经超过 %3$s 天没有使用地址 %1$s（%2$s），请注意检查地址是否仍然有效。 |     |     |     |
 | android, iOS | withdrawal_sending_description | The withdrawal request is being sent to the Mixin mainnet. Please wait a moment. | 正在创建提现，请稍候。 |     |     |     |
 | android, iOS | withdrawal_sent_description | Withdrawal request successful. Please wait a moment. | 提现成功。 |     |     |     |
 | android, iOS | Confirm_Transfer | Confirm Transfer | 转账确认 |     |     |     |
@@ -1770,8 +1770,8 @@
 | android | enable_biometric_description | What about biometric? Once enabled, you can expedite authentication with biometric. | 想要启用生物识别支付吗？启用后，转账时可通过生物识别快速完成付款。 |     |     |     |
 | android, iOS | return_to_merchant_description | Merchant payment is complete. You can opt to return to the merchant or stay in Mixin. | 来自商家的支付已完成，您可以选择返回商家或者停留在 Mixin。 |     |     |     |
 | android, iOS | duplication_reminder | You transferred %1$s to the recipient %2$s ago. | 您已经在%2$s前给该收款人转账了 %1$s。 |     |     |     |
-| android, iOS | large_amount_reminder | Confirm the transfer of %1$s worth of %2$s to %3$s (%4$s)? | 本次转账 %1$s 的价值高达 %2$s，请注意金额是否正确。 |     |     |     |
-| android, iOS | unfamiliar_person_reminder | Confirm the transfer to %1$s (%2$s)? They are not in your contacts. Sending to the wrong person may result in irrecoverable asset loss. | 确定给 %1$s（%2$s）转账？他不是你的联系人，如果您转错人，资产将无法追回。 |     |     |     |
+| android, iOS | large_amount_reminder | The value of this transfer of %1$s is up to %2$s. Please ensure the amount is correct. | 本次转账 %1$s 的价值高达 %2$s，请注意金额是否正确。 |     |     |     |
+| android, iOS | unfamiliar_person_reminder | %1$s (%2$s) is not in your contacts. Please verify if the recipient is correct. | %1$s（%2$s）不是你的联系人，请注意收款人是否正确。 |     |     |     |
 | android, iOS | review_address_hint | Review the address, Memo (tag), and network. Any mistake may result in irretrievable asset loss. | 请仔细检查地址、Memo（标签）和网络，如果您转错了，资产将无法追回。 |     |     |     |
 | android, iOS | Confirm_Signing_Multisig | Confirm Signing Multisig | 多签交易确认 |     |     |     |
 | android, iOS | Sending_Multisig_Signature | Sending Multisig Signature | 正在发送多签交易 |     |     |     |

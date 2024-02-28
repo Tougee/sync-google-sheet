@@ -1727,7 +1727,7 @@
   <string name="Withdrawal_Request_Sent" platform="android, iOS">提现请求已提交</string>
   <string name="Withdrawal_Failed" platform="android, iOS">提现失败</string>
   <string name="review_withdrawal_hint" platform="android, iOS">请仔细检查收款地址、网络和金额，如果您转错了，资产将无法追回。</string>
-  <string name="address_validity_reminder" platform="android, iOS">请确认地址 %1$s（%2$s）仍然有效，您已经超过 30 天没有使用该地址。</string>
+  <string name="address_validity_reminder" platform="android, iOS">您已经超过 %3$s 天没有使用地址 %1$s（%2$s），请注意检查地址是否仍然有效。</string>
   <string name="withdrawal_sending_description" platform="android, iOS">正在创建提现，请稍候。</string>
   <string name="withdrawal_sent_description" platform="android, iOS">提现成功。</string>
   <string name="Confirm_Transfer" platform="android, iOS">转账确认</string>
@@ -1742,7 +1742,7 @@
   <string name="return_to_merchant_description" platform="android, iOS">来自商家的支付已完成，您可以选择返回商家或者停留在 Mixin。</string>
   <string name="duplication_reminder" platform="android, iOS">您已经在%2$s前给该收款人转账了 %1$s。</string>
   <string name="large_amount_reminder" platform="android, iOS">本次转账 %1$s 的价值高达 %2$s，请注意金额是否正确。</string>
-  <string name="unfamiliar_person_reminder" platform="android, iOS">确定给 %1$s（%2$s）转账？他不是你的联系人，如果您转错人，资产将无法追回。</string>
+  <string name="unfamiliar_person_reminder" platform="android, iOS">%1$s（%2$s）不是你的联系人，请注意收款人是否正确。</string>
   <string name="review_address_hint" platform="android, iOS">请仔细检查地址、Memo（标签）和网络，如果您转错了，资产将无法追回。</string>
   <string name="Confirm_Signing_Multisig" platform="android, iOS">多签交易确认</string>
   <string name="Sending_Multisig_Signature" platform="android, iOS">正在发送多签交易</string>
