@@ -1770,7 +1770,7 @@
 | android | enable_biometric_description | What about biometric? Once enabled, you can expedite authentication with biometric. | 想要启用生物识别支付吗？启用后，转账时可通过生物识别快速完成付款。 |     |     |     |
 | android, iOS | return_to_merchant_description | Merchant payment is complete. You can opt to return to the merchant or stay in Mixin. | 来自商家的支付已完成，您可以选择返回商家或者停留在 Mixin。 |     |     |     |
 | android, iOS | duplication_reminder | You transferred %1$s to the recipient %2$s ago. | 您已经在%2$s前给该收款人转账了 %1$s。 |     |     |     |
-| android, iOS | large_amount_reminder | Confirm the transfer of %1$s worth of %2$s to %3$s (%4$s)? | 确定给 %3$s（%4$s）转价值 %1$s 的 %2$s？ |     |     |     |
+| android, iOS | large_amount_reminder | Confirm the transfer of %1$s worth of %2$s to %3$s (%4$s)? | 本次转账 %1$s 的价值高达 %2$s，请注意金额是否正确。 |     |     |     |
 | android, iOS | unfamiliar_person_reminder | Confirm the transfer to %1$s (%2$s)? They are not in your contacts. Sending to the wrong person may result in irrecoverable asset loss. | 确定给 %1$s（%2$s）转账？他不是你的联系人，如果您转错人，资产将无法追回。 |     |     |     |
 | android, iOS | review_address_hint | Review the address, Memo (tag), and network. Any mistake may result in irretrievable asset loss. | 请仔细检查地址、Memo（标签）和网络，如果您转错了，资产将无法追回。 |     |     |     |
 | android, iOS | Confirm_Signing_Multisig | Confirm Signing Multisig | 多签交易确认 |     |     |     |
