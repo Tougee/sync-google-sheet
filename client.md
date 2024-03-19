@@ -1825,3 +1825,25 @@
 | android, iOS | export_private_key_discouragement_2 | Mixin Messenger does not facilitate private key import. Use mainnet tools for operations if needed. | Mixin Messenger 不支持私钥导入，需要使用请通过主网工具来操作。 |     |     |     |
 | android, iOS | export_private_key_discouragement_3 | It is strongly discouraged to use the private key while the Mixin Messenger account is accessible, as the related assets may become unusable within Mixin Messenger. | 强烈不推荐在 Mixin Messenger 账号可用情况下使用该私钥，否则相关资产在 Mixin Messenger 可能无法继续使用。 |     |     |     |
 | android, iOS | continue_with_pin | Continue with PIN | 输入 PIN 继续 |     |     |     |
+| android, iOS | web3_account_network | %1$s Account | %1$s 账户 |     |     |     |
+| android, iOS | web3_account | Account | 账户  |     |     |     |
+| android, iOS | access_dapps_defi_projects | Access dapps and DeFi projects. | 访问 dapps 或 DeFi 项目 |     |     |     |
+| android, iOS | unlock_web3_account | Unlock %1$s Account | 解锁 %1$s 账户 |     |     |     |
+| android, iOS | Unlock | Unlock | 解锁  |     |     |     |
+| android, iOS | unlock_web3_account_description | Your %1$s account is based on your Mixin Messenger MPC wallet and derived according to the BIP44 protocol. | 您的 %1$s 账户基于 Mixin Messenger 的 MPC 钱包并根据 BIP44 协议派生而来。 |     |     |     |
+| android, iOS | unlock_web3_account_agreement | It is recommended to transfer assets back to more secured Mixin wallet as soon as interactions with dapps are completed. | 建议与去中心化应用程序交互完后尽快将资产转回更安全的 Mixin 钱包。 |     |     |     |
+| android, iOS | unlock_web3_account_agreement_1 | Your assets in %1$s account and Mixin wallet are isolated but managed using the same PIN. | %1$s 账户与 Mixin 钱包资产隔离但使用同一个 PIN 进行资产管理。 |     |     |     |
+| android, iOS | unlock_web3_account_agreement_2 | Asset transfers between your %1$s account and Mixin wallet incur network fees. | 在 %1$s 账户与 Mixin 钱包之间划转资产需要支付网络矿工费。 |     |     |     |
+| android, iOS | unlock_web3_account_agreement_3 | Unlocking your %1$s account will also automatically unlock EVM accounts such as %2$s, %3$s and others. | 当您解锁 %1$s 账户时，也将自动解锁 %2$s、%3$s 等 EVM 账户。 |     |     |     |
+| android, iOS | unlock_web3_account_success | Account Unlocked | 解锁成功 |     |     |     |
+| android, iOS | connect_your_account | Connect Your Account | 连接账户 |     |     |     |
+| android, iOS | connect_web3_account_description | Allow the app to view your account address and ask for your approval to make a transaction. | 授权应用查看你的账户地址，或者向你发送交易请求。 |     |     |     |
+| android, iOS | web3_account_connected | Account Connected | 连接成功 |     |     |     |
+| android, iOS | web3_signing_confirmation | Confirm Signing | 签名确认 |     |     |     |
+| android, iOS |     |     |     |     |     |     |
+| android, iOS |     |     |     |     |     |     |
+| android, iOS |     |     |     |     |     |     |
+| android, iOS |     |     |     |     |     |     |
+| android, iOS |     |     |     |     |     |     |
+| android, iOS |     |     |     |     |     |     |
+| android, iOS |     |     |     |     |     |     |

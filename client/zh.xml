@@ -1796,4 +1796,19 @@
   <string name="export_private_key_discouragement_2" platform="android, iOS">Mixin Messenger 不支持私钥导入，需要使用请通过主网工具来操作。</string>
   <string name="export_private_key_discouragement_3" platform="android, iOS">强烈不推荐在 Mixin Messenger 账号可用情况下使用该私钥，否则相关资产在 Mixin Messenger 可能无法继续使用。</string>
   <string name="continue_with_pin" platform="android, iOS">输入 PIN 继续</string>
+  <string name="web3_account_network" platform="android, iOS">%1$s 账户</string>
+  <string name="web3_account" platform="android, iOS">账户</string>
+  <string name="access_dapps_defi_projects" platform="android, iOS">访问 dapps 或 DeFi 项目</string>
+  <string name="unlock_web3_account" platform="android, iOS">解锁 %1$s 账户</string>
+  <string name="Unlock" platform="android, iOS">解锁</string>
+  <string name="unlock_web3_account_description" platform="android, iOS">您的 %1$s 账户基于 Mixin Messenger 的 MPC 钱包并根据 BIP44 协议派生而来。</string>
+  <string name="unlock_web3_account_agreement" platform="android, iOS">建议与去中心化应用程序交互完后尽快将资产转回更安全的 Mixin 钱包。</string>
+  <string name="unlock_web3_account_agreement_1" platform="android, iOS">%1$s 账户与 Mixin 钱包资产隔离但使用同一个 PIN 进行资产管理。</string>
+  <string name="unlock_web3_account_agreement_2" platform="android, iOS">在 %1$s 账户与 Mixin 钱包之间划转资产需要支付网络矿工费。</string>
+  <string name="unlock_web3_account_agreement_3" platform="android, iOS">当您解锁 %1$s 账户时，也将自动解锁 %2$s、%3$s 等 EVM 账户。</string>
+  <string name="unlock_web3_account_success" platform="android, iOS">解锁成功</string>
+  <string name="connect_your_account" platform="android, iOS">连接账户</string>
+  <string name="connect_web3_account_description" platform="android, iOS">授权应用查看你的账户地址，或者向你发送交易请求。</string>
+  <string name="web3_account_connected" platform="android, iOS">连接成功</string>
+  <string name="web3_signing_confirmation" platform="android, iOS">签名确认</string>
 </resources>
