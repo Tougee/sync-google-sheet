@@ -1441,7 +1441,7 @@
   <string name="Sign_with_phone_number" platform="android, iOS, Desktop">Sign in with phone number</string>
   <string name="sign_with_qrcode" platform="Desktop">Sign in with QR code</string>
   <string name="signature_request" platform="android, iOS">Signature Request</string>
-  <string name="signature_request_warning" platform="android, iOS">We cannot verify this signature request. Make sure you trust this app before signing this request.</string>
+  <string name="signature_request_warning" platform="android">We cannot verify this signature request. Make sure you trust this app before signing this request.</string>
   <string name="Silence_Notification" platform="android">Silence Notification</string>
   <string name="Size" platform="android">Size</string>
   <string name="Skip" platform="android, iOS">Skip</string>
