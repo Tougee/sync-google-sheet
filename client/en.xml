@@ -114,8 +114,8 @@
   <string name="Allow_bot_manage_bots" platform="android, iOS">Allow bot to add or modify your bots.</string>
   <string name="Allow_bot_manage_circles" platform="android, iOS">Allow bot to add, modify and delete your circles.</string>
   <string name="Allow_bot_send_messages" platform="android, iOS">Allow bot to send messages represent of you.</string>
-  <string name="allow_dapp_access_public_address" platform="android, iOS">Allow dapp to access your wallet balance and activity.</string>
-  <string name="allow_dapp_request_approval" platform="android, iOS">Allow dapp to ask for your approval to make a transaction.</string>
+  <string name="allow_dapp_access_public_address" platform="android">Allow dapp to access your wallet balance and activity.</string>
+  <string name="allow_dapp_request_approval" platform="android">Allow dapp to ask for your approval to make a transaction.</string>
   <string name="Allow_Manual_Report_Message" platform="iOS">Allow Manual Report Message</string>
   <string name="Amount" platform="android, iOS">Amount</string>
   <string name="an_audio" platform="android">an audio</string>
@@ -354,7 +354,7 @@
   <string name="Connect_to_TIP_network_failed" platform="android,iOS">Unable to connect to TIP network. Check your connection and try again.</string>
   <string name="connect_wallet" platform="android, iOS">Connect Wallet</string>
   <string name="Connected" platform="iOS">Connected</string>
-  <string name="connected_dapps" platform="android, iOS">Connected Dapps</string>
+  <string name="connected_dapps" platform="android">Connected Dapps</string>
   <string name="Connecting" platform="android, iOS">Connecting</string>
   <string name="Connection_establishment_failed" platform="iOS">Connection establishment failed</string>
   <string name="connection_failed" platform="android, iOS">Connection Failed</string>
@@ -400,7 +400,7 @@
   <string name="content_voice" platform="android, iOS, Desktop">[Voice call]</string>
   <string name="content_withdrawal" platform="iOS">[Withdrawal]</string>
   <string name="Continue" platform="android, iOS, Desktop">Continue</string>
-  <string name="Continue_need_verify_your_PIN" platform="android,iOS">Continue need to verify your old PIN and new PIN</string>
+  <string name="Continue_need_verify_your_PIN" platform="android">Continue need to verify your old PIN and new PIN</string>
   <string name="Continue_Open_URL" platform="android, iOS">Continue Open URL</string>
   <string name="Conversation" platform="android, iOS, Desktop">Conversation</string>
   <string name="conversation_delete_tip" platform="android">Once deleted, all this chat messages will be cleared</string>
@@ -978,7 +978,7 @@
   <string name="NO_BOTS" platform="android, iOS">NO BOTS</string>
   <string name="No_camera" platform="android, Desktop">No camera</string>
   <string name="No_CONTACTS" platform="iOS">NO CONTACTS</string>
-  <string name="NO_DAPP" platform="android, iOS">NO DAPP</string>
+  <string name="NO_DAPP" platform="android">NO DAPP</string>
   <string name="no_data" platform="Desktop">No Data</string>
   <string name="No_deposits" platform="android">No deposits</string>
   <string name="No_fees" platform="android">No fees</string>
@@ -1300,7 +1300,7 @@
   <string name="search_open_link" platform="iOS">Open Link: </string>
   <string name="search_placeholder_asset" platform="android, iOS">Name, Symbol</string>
   <string name="search_placeholder_contact" platform="iOS">Mixin ID, Name, Phone number</string>
-  <string name="search_placeholder_dapp" platform="android, iOS">Name, URL</string>
+  <string name="search_placeholder_dapp" platform="android">Name, URL</string>
   <string name="search_placeholder_number" platform="android, iOS, Desktop">Search Mixin ID or phone number: </string>
   <string name="search_related_message" platform="android, iOS, Desktop">%1$d related message</string>
   <string name="search_related_message.count" platform="android, iOS, Desktop">%1$d related messages</string>
@@ -1433,7 +1433,7 @@
   <string name="Show_in_chat" platform="android, iOS">Show in chat</string>
   <string name="show_mixin" platform="Desktop">Show Mixin</string>
   <string name="Shown" platform="android">Shown</string>
-  <string name="sign_by_pin" platform="android, iOS">Sign by PIN</string>
+  <string name="sign_by_pin" platform="android">Sign by PIN</string>
   <string name="Sign_in" platform="android, iOS, Desktop">Sign in</string>
   <string name="Sign_in_desktop_app" platform="android">Sign in desktop app</string>
   <string name="sign_out" platform="DesktoP">Sign Out</string>
@@ -1607,7 +1607,7 @@
   <string name="update_mixin_description" platform="android">The current version (%1$s) is no longer available!\nPlease click "Update" below to update to the latest version from the Google Play.</string>
   <string name="Upgrade" platform="android,iOS">Upgrade</string>
   <string name="Upgrade_Database" platform="android, iOS">Upgrade Database</string>
-  <string name="Upgrade_need_verify_your_PIN" platform="android,iOS">The upgrade requires verifying your PIN.</string>
+  <string name="Upgrade_need_verify_your_PIN" platform="android">The upgrade requires verifying your PIN.</string>
   <string name="Upgrade_TIP" platform="android,iOS">Upgrade TIP</string>
   <string name="Upgrade_TIP_successfully" platform="android,iOS">Upgrade TIP successfully</string>
   <string name="Upgrading" platform="android, iOS, Desktop">Upgrading</string>

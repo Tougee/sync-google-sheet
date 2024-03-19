@@ -115,8 +115,8 @@
 | android, iOS | Allow_bot_manage_bots | Allow bot to add or modify your bots. | 允许机器人添加或修改你的机器人列表。 |     |     |     |
 | android, iOS | Allow_bot_manage_circles | Allow bot to add, modify and delete your circles. | 允许机器人添加、修改和删除你所有的圈子。 |     |     |     |
 | android, iOS | Allow_bot_send_messages | Allow bot to send messages represent of you. | 允许机器人代表你发消息。 |     |     |     |
-| android, iOS | allow_dapp_access_public_address | Allow dapp to access your wallet balance and activity. | 允许 Dapp 访问你的钱包余额及活动。 |     |     |     |
-| android, iOS | allow_dapp_request_approval | Allow dapp to ask for your approval to make a transaction. | 允许 Dapp 向你发送请求，如转账请求等 |     |     |     |
+| android | allow_dapp_access_public_address | Allow dapp to access your wallet balance and activity. | 允许 Dapp 访问你的钱包余额及活动。 |     |     |     |
+| android | allow_dapp_request_approval | Allow dapp to ask for your approval to make a transaction. | 允许 Dapp 向你发送请求，如转账请求等 |     |     |     |
 | iOS | Allow_Manual_Report_Message | Allow Manual Report Message | 允许手动上报消息 | メッセージ単位の報告を許可 |     |     |
 | android, iOS | Amount | Amount | 金额  | 数量  | Jumlah | Jumlah |
 | android | an_audio | an audio | 一条语音 | 音声ファイル |     |     |
@@ -355,7 +355,7 @@
 | android,iOS | Connect_to_TIP_network_failed | Unable to connect to TIP network. Check your connection and try again. | 连接 TIP 网络失败，请尝试切换网络后重试 |     |     |     |
 | android, iOS | connect_wallet | Connect Wallet | 连接钱包 |     |     |     |
 | iOS | Connected | Connected | 已连接 | 接続済 |     |     |
-| android, iOS | connected_dapps | Connected Dapps | 已连接的 Dapp |     |     |     |
+| android | connected_dapps | Connected Dapps | 已连接的 Dapp |     |     |     |
 | android, iOS | Connecting | Connecting | 正在连接 | 接続中 | Menyambung | Menyambungkan |
 | iOS | Connection_establishment_failed | Connection establishment failed | 连接建立失败 |     |     |     |
 | android, iOS | connection_failed | Connection Failed | 连接失败 |     |     |     |
@@ -401,7 +401,7 @@
 | android, iOS, Desktop | content_voice | [Voice call] | [语音电话] | [音声通話] | [Panggilan suara] | [Panggilan suara] |
 | iOS | content_withdrawal | [Withdrawal] | [提现] | [出金] |     |     |
 | android, iOS, Desktop | Continue | Continue | 继续  | 続ける | Teruskan | Lanjutkan |
-| android,iOS | Continue_need_verify_your_PIN | Continue need to verify your old PIN and new PIN | 继续需要验证你的旧 PIN 以及新 PIN |     |     |     |
+| android | Continue_need_verify_your_PIN | Continue need to verify your old PIN and new PIN | 继续需要验证你的旧 PIN 以及新 PIN |     |     |     |
 | android, iOS | Continue_Open_URL | Continue Open URL | 继续访问 | URLを開く | Terus Buka URL | Lanjutkan Buka URL |
 | android, iOS, Desktop | Conversation | Conversation | 会话  | チャットルーム | Perbualan | Percakapan |
 | android | conversation_delete_tip | Once deleted, all this chat messages will be cleared | 删除后，将同时清空该聊天的消息记录 | チャットルームを削除すると、今までのやりとりがすべて消去されます | Setelah dipadamkan, semua mesej sembang ini akan dihapus | Setelah dihapus, semua pesan obrolan ini akan dibersihkan |
@@ -979,7 +979,7 @@
 | android, iOS | NO_BOTS | NO BOTS | 没有机器人 | ミニアプリがありません | TIADA APLIKASI | TIDAK ADA APLIKASI |
 | android, Desktop | No_camera | No camera | 没有相机 | カメラを認識できません | Tiada kamera | Tidak ada kamera |
 | iOS | No_CONTACTS | NO CONTACTS | 没有联系人 | 友達未追加 |     |     |
-| android, iOS | NO_DAPP | NO DAPP | 没有 Dapp |     |     |     |
+| android | NO_DAPP | NO DAPP | 没有 Dapp |     |     |     |
 | Desktop | no_data | No Data | 没有数据 | データがありません |     |     |
 | android | No_deposits | No deposits | 暂无充值记录 | 入金はありません | Tiada deposit | Tidak ada deposit |
 | android | No_fees | No fees | 暂无手续费记录 | 手数料はありません | Tanpa bayaran | Tidak ada biaya |
@@ -1301,7 +1301,7 @@
 | iOS | search_open_link | Open Link:  | 打开链接： | リンクを開く: |     |     |
 | android, iOS | search_placeholder_asset | Name, Symbol | 名称, 符号 | 名前、シンボル |     |     |
 | iOS | search_placeholder_contact | Mixin ID, Name, Phone number | Mixin ID, 名称, 手机号码 | Mixin ID, 名前, 電話番号 |     |     |
-| android, iOS | search_placeholder_dapp | Name, URL | 名称, URL |     |     |     |
+| android | search_placeholder_dapp | Name, URL | 名称, URL |     |     |     |
 | android, iOS, Desktop | search_placeholder_number | Search Mixin ID or phone number:  | 搜索 Mixin ID 或手机号码： | Mixin ID または電話番号を検索 |     |     |
 | android, iOS, Desktop | search_related_message | %1$d related message | %1$d 条相关的消息 | %1$d個の関連するメッセージ |     |     |
 | android, iOS, Desktop | search_related_message.count | %1$d related messages | %1$d 条相关的消息 | %1$d個の関連するメッセージ | %1$d mesej berkaitan | %1$d pesan terkait |
@@ -1434,7 +1434,7 @@
 | android, iOS | Show_in_chat | Show in chat | 在聊天中展示 | チャット内で表示 |     |     |
 | Desktop | show_mixin | Show Mixin | 显示 Mixin | Mixinを表示 |     |     |
 | android | Shown | Shown | 显示  | 表示ずみ | Tunjukkan | Ditampilkan |
-| android, iOS | sign_by_pin | Sign by PIN | 使用 PIN 签名 |     |     |     |
+| android | sign_by_pin | Sign by PIN | 使用 PIN 签名 |     |     |     |
 | android, iOS, Desktop | Sign_in | Sign in | 登录  | ログイン | Log masuk | Masuk |
 | android | Sign_in_desktop_app | Sign in desktop app | 登录桌面端 | デスクトップにログイン | Log masuk aplikasi desktop | Masuk aplikasi desktop |
 | DesktoP | sign_out | Sign Out | 登出  | サインアウト |     |     |
@@ -1608,7 +1608,7 @@
 | android | update_mixin_description | The current version (%1$s) is no longer available!\nPlease click "Update" below to update to the latest version from the Google Play. | 当前版本（%1$s）不再可用!\n请点击下面的“更新”按钮从应用商店更新到最新版本。 | 現在のバージョン(%1$s)は使用できなくなりました。\n「アップデート」をクリックして、Google Playから最新バージョンにアップデートしてください。 | Versi semasa (%1$s) tidak lagi tersedia!\nSila klik Kemas kini di bawah untuk mengemas kini ke versi terbaharu dari Google Play. | Versi saat ini (%1$s) tidak lagi tersedia!\nHarap klik Perbarui berikut untuk memperbarui ke versi terbaru dari App Store. |
 | android,iOS | Upgrade | Upgrade | 升级  |     |     |     |
 | android, iOS | Upgrade_Database | Upgrade Database | 数据库升级 | データベースをアップグレード | Naik taraf Pangkalan Data | Tingkatkan Database |
-| android,iOS | Upgrade_need_verify_your_PIN | The upgrade requires verifying your PIN. | 升级需要验证你的 PIN |     |     |     |
+| android | Upgrade_need_verify_your_PIN | The upgrade requires verifying your PIN. | 升级需要验证你的 PIN |     |     |     |
 | android,iOS | Upgrade_TIP | Upgrade TIP | 升级 TIP |     |     |     |
 | android,iOS | Upgrade_TIP_successfully | Upgrade TIP successfully | TIP 升级成功 |     |     |     |
 | android, iOS, Desktop | Upgrading | Upgrading | 升级中... | アップデート中 | Menaik taraf | Meningkatkan |
