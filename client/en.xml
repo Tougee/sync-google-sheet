@@ -1836,6 +1836,7 @@
   <string name="unlock_web3_account_agreement_1" platform="android, iOS">Your assets in %1$s account and Mixin wallet are isolated but managed using the same PIN.</string>
   <string name="unlock_web3_account_agreement_2" platform="android, iOS">Asset transfers between your %1$s account and Mixin wallet incur network fees.</string>
   <string name="unlock_web3_account_agreement_3" platform="android, iOS">Unlocking your %1$s account will also automatically unlock EVM accounts such as %2$s, %3$s and others.</string>
+  <string name="unlocking_web3_account" platform="android, iOS">Unlocking</string>
   <string name="unlock_web3_account_success" platform="android, iOS">Account Unlocked</string>
   <string name="unlock_web3_account_failed" platform="android, iOS">Account Unlock Failed</string>
   <string name="connect_your_account" platform="android, iOS">Connect Your Account</string>
