@@ -1809,6 +1809,7 @@
   <string name="unlock_web3_account_agreement_2" platform="android, iOS">在 %1$s 账户与 Mixin 钱包之间划转资产需要支付网络矿工费。</string>
   <string name="unlock_web3_account_agreement_3" platform="android, iOS">当您解锁 %1$s 账户时，也将自动解锁 %2$s、%3$s 等 EVM 账户。</string>
   <string name="unlock_web3_account_success" platform="android, iOS">解锁成功</string>
+  <string name="unlock_web3_account_failed" platform="android, iOS">解锁失败</string>
   <string name="connect_your_account" platform="android, iOS">连接账户</string>
   <string name="connect_web3_account_description" platform="android, iOS">授权应用查看你的账户地址，或者向你发送交易请求。</string>
   <string name="web3_account_connected" platform="android, iOS">连接成功</string>
