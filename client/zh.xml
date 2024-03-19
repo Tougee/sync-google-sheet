@@ -347,9 +347,7 @@
   <string name="confirm_sync_chats_to_phone" platform="Desktop">确认同步聊天记录到手机端吗？</string>
   <string name="Confirmations" platform="android,iOS,Desktop">区块确认数</string>
   <string name="Connect_to_TIP_network_failed" platform="android,iOS">连接 TIP 网络失败，请尝试切换网络后重试</string>
-  <string name="connect_wallet" platform="android, iOS">连接钱包</string>
-  <string name="connect_wallet_success" platform="android, iOS">连接成功</string>
-  <string name="connect_walletconnect_wallet_failed" platform="android, iOS">连接失败</string>
+  <string name="connect_wallet" platform="android">连接钱包</string>
   <string name="Connected" platform="iOS">已连接</string>
   <string name="connected_dapps" platform="android">已连接的 Dapp</string>
   <string name="Connecting" platform="android, iOS">正在连接</string>
