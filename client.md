@@ -1847,6 +1847,7 @@
 | android, iOS | signed_message | SIGNED MESSAGE | 签名  |     |     |     |
 | android, iOS | unsigned_message | UNSIGNED MESSAGE | 待签名消息 |     |     |     |
 | android, iOS | web3_signing_success | Signing Success | 签名成功 |     |     |     |
+| android, iOS | web3_signing_failed | Signing Failed | 签名失败 |     |     |     |
 | android, iOS | web3_send_signature_description | Tap the send button to immediately broadcast the message or tap the discard button to discard the signed message. | 点发送按钮立刻广播消息或点丢弃按钮丢弃已签名的消息。 |     |     |     |
 | android, iOS | estimated_balance_change | Balance Change (estimate) | 余额变动（预估） |     |     |     |
 | android, iOS | fee_selection | Fee (%1$s) | 手续费（%1$s） |     |     |     |

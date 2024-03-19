@@ -1818,6 +1818,7 @@
   <string name="signed_message" platform="android, iOS">签名</string>
   <string name="unsigned_message" platform="android, iOS">待签名消息</string>
   <string name="web3_signing_success" platform="android, iOS">签名成功</string>
+  <string name="web3_signing_failed" platform="android, iOS">签名失败</string>
   <string name="web3_send_signature_description" platform="android, iOS">点发送按钮立刻广播消息或点丢弃按钮丢弃已签名的消息。</string>
   <string name="estimated_balance_change" platform="android, iOS">余额变动（预估）</string>
   <string name="fee_selection" platform="android, iOS">手续费（%1$s）</string>
