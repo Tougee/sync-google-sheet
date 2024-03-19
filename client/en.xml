@@ -1139,8 +1139,8 @@
   <string name="preferences" platform="Desktop">Preferences</string>
   <string name="Preparing" platform="iOS">Preparing...</string>
   <string name="Preparing_progress" platform="iOS">Preparing...(%@)</string>
-  <string name="preview_unavailable" platform="android, iOS">Preview unavailable</string>
-  <string name="preview_unavailable_description" platform="android, iOS">Unable to estimate asset changes. Please make sure you trust this dapp.</string>
+  <string name="preview_unavailable" platform="android">Preview unavailable</string>
+  <string name="preview_unavailable_description" platform="android">Unable to estimate asset changes. Please make sure you trust this dapp.</string>
   <string name="previous_conversation" platform="Desktop">Previous conversation</string>
   <string name="price_expired" platform="android, iOS">Price Expired</string>
   <string name="Privacy" platform="android, iOS">Privacy</string>
@@ -1222,7 +1222,7 @@
   <string name="report_title" platform="iOS, Desktop">Send the conversation log to developers?</string>
   <string name="Represent_Messages" platform="android, iOS">Represent Messages</string>
   <string name="Represent_send_messages" platform="android, iOS">Represent send messages</string>
-  <string name="request_approval" platform="android, iOS">Request approval</string>
+  <string name="request_approval" platform="android">Request approval</string>
   <string name="Request_Authorization" platform="android, iOS">Request Authorization</string>
   <string name="request_rejected" platform="android, iOS">Request Rejected</string>
   <string name="request_rejected_reason_another_request_in_process" platform="android, iOS">Another request is in process, please retry after current request is finished</string>

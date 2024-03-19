@@ -1121,8 +1121,8 @@
   <string name="preferences" platform="Desktop">偏好设置</string>
   <string name="Preparing" platform="iOS">准备...</string>
   <string name="Preparing_progress" platform="iOS">备份中...（%@）</string>
-  <string name="preview_unavailable" platform="android, iOS">预览不可用</string>
-  <string name="preview_unavailable_description" platform="android, iOS">无法预览资产变化。请确保你信任此 dapp。</string>
+  <string name="preview_unavailable" platform="android">预览不可用</string>
+  <string name="preview_unavailable_description" platform="android">无法预览资产变化。请确保你信任此 dapp。</string>
   <string name="previous_conversation" platform="Desktop">上一个会话</string>
   <string name="price_expired" platform="android, iOS">报价已过期</string>
   <string name="Privacy" platform="android, iOS">隐私</string>
@@ -1203,7 +1203,7 @@
   <string name="report_title" platform="iOS, Desktop">给开发人员发送聊天日志？</string>
   <string name="Represent_Messages" platform="android, iOS">代发消息</string>
   <string name="Represent_send_messages" platform="android, iOS">代表你发消息</string>
-  <string name="request_approval" platform="android, iOS">允许请求</string>
+  <string name="request_approval" platform="android">允许请求</string>
   <string name="Request_Authorization" platform="android, iOS">请求授权</string>
   <string name="request_rejected" platform="android, iOS">请求已拒绝</string>
   <string name="request_rejected_reason_another_request_in_process" platform="android, iOS">正在处理另一请求，请完成当前请求后重试</string>

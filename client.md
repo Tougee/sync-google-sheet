@@ -1140,8 +1140,8 @@
 | Desktop | preferences | Preferences | 偏好设置 | 環境設定 |     |     |
 | iOS | Preparing | Preparing... | 准备... | 準備中... |     |     |
 | iOS | Preparing_progress | Preparing...(%@) | 备份中...（%@） | 準備中...(%@) |     |     |
-| android, iOS | preview_unavailable | Preview unavailable | 预览不可用 |     |     |     |
-| android, iOS | preview_unavailable_description | Unable to estimate asset changes. Please make sure you trust this dapp. | 无法预览资产变化。请确保你信任此 dapp。 |     |     |     |
+| android | preview_unavailable | Preview unavailable | 预览不可用 |     |     |     |
+| android | preview_unavailable_description | Unable to estimate asset changes. Please make sure you trust this dapp. | 无法预览资产变化。请确保你信任此 dapp。 |     |     |     |
 | Desktop | previous_conversation | Previous conversation | 上一个会话 | 過去のチャットルーム |     |     |
 | android, iOS | price_expired | Price Expired | 报价已过期 |     |     |     |
 | android, iOS | Privacy | Privacy | 隐私  | プライバシー | Privasi | Privasi |
@@ -1223,7 +1223,7 @@
 | iOS, Desktop | report_title | Send the conversation log to developers? | 给开发人员发送聊天日志？ | Mixinの開発者へ会話記録を送信しますか? |     |     |
 | android, iOS | Represent_Messages | Represent Messages | 代发消息 | ミニアプリからの通知 | Wakilkan Mesej | Mewakili Pesan |
 | android, iOS | Represent_send_messages | Represent send messages | 代表你发消息 |     |     |     |
-| android, iOS | request_approval | Request approval | 允许请求 |     |     |     |
+| android | request_approval | Request approval | 允许请求 |     |     |     |
 | android, iOS | Request_Authorization | Request Authorization | 请求授权 |     |     |     |
 | android, iOS | request_rejected | Request Rejected | 请求已拒绝 |     |     |     |
 | android, iOS | request_rejected_reason_another_request_in_process | Another request is in process, please retry after current request is finished | 正在处理另一请求，请完成当前请求后重试 |     |     |     |
