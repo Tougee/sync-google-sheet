@@ -1835,7 +1835,7 @@
 | android, iOS | unlock_web3_account_agreement_1 | Your assets in %1$s account and Mixin wallet are isolated but managed using the same PIN. | %1$s 账户与 Mixin 钱包资产隔离但使用同一个 PIN 进行资产管理。 |     |     |     |
 | android, iOS | unlock_web3_account_agreement_2 | Asset transfers between your %1$s account and Mixin wallet incur network fees. | 在 %1$s 账户与 Mixin 钱包之间划转资产需要支付网络矿工费。 |     |     |     |
 | android, iOS | unlock_web3_account_agreement_3 | Unlocking your %1$s account will also automatically unlock EVM accounts such as %2$s, %3$s and others. | 当您解锁 %1$s 账户时，也将自动解锁 %2$s、%3$s 等 EVM 账户。 |     |     |     |
-| android, iOS | unlocking_web3_account |     |     |     |     |     |
+| android, iOS | Unlocking | Unlocking | 正在解锁 |     |     |     |
 | android, iOS | unlock_web3_account_success | Account Unlocked | 解锁成功 |     |     |     |
 | android, iOS | unlock_web3_account_failed | Account Unlock Failed | 解锁失败 |     |     |     |
 | android, iOS | connect_your_account | Connect Your Account | 连接账户 |     |     |     |
@@ -1853,4 +1853,5 @@
 | android, iOS | preauthorize_amount | Pre-authorize Amount | 预授权额度 |     |     |     |
 | android, iOS | unlimited_authorization_warning | This application can access all %3$s in your %1$s account (%2$s). | 这个应用可以提取你 %1$s 账号（%2$s）里所有的 %3$s 资产。 |     |     |     |
 | android, iOS | withdraw_all_of_token_warning | This dapp can withdraw all your %1$s. | 这个应用可以提取你所有的 %1$s。 |     |     |     |
-| android, iOS |     |     |     |     |     |     |
+| android, iOS | copy_address | Copy Address | 复制地址 |     |     |     |
+| android, iOS | Connect | Connect | 连接  |     |     |     |
