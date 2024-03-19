@@ -353,6 +353,7 @@
   <string name="Confirmations" platform="android,iOS,Desktop">Confirmations</string>
   <string name="Connect_to_TIP_network_failed" platform="android,iOS">Unable to connect to TIP network. Check your connection and try again.</string>
   <string name="connect_wallet" platform="android, iOS">Connect Wallet</string>
+  <string name="connect_wallet" platform="android, iOS">Connect Wallet</string>
   <string name="Connected" platform="iOS">Connected</string>
   <string name="connected_dapps" platform="android">Connected Dapps</string>
   <string name="Connecting" platform="android, iOS">Connecting</string>

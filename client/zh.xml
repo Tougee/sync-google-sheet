@@ -348,6 +348,7 @@
   <string name="Confirmations" platform="android,iOS,Desktop">区块确认数</string>
   <string name="Connect_to_TIP_network_failed" platform="android,iOS">连接 TIP 网络失败，请尝试切换网络后重试</string>
   <string name="connect_wallet" platform="android, iOS">连接钱包</string>
+  <string name="connect_wallet" platform="android, iOS">连接钱包</string>
   <string name="Connected" platform="iOS">已连接</string>
   <string name="connected_dapps" platform="android">已连接的 Dapp</string>
   <string name="Connecting" platform="android, iOS">正在连接</string>
