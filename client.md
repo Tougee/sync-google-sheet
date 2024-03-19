@@ -434,7 +434,7 @@
 | iOS | Current_Selected | Current Selected | 当前选择 | 選択  |     |     |
 | android, iOS, Desktop | Custom_Time | Custom Time | 自定义时间 | 日時  |     |     |
 | iOS | Daily | Daily | 每天  | 日   |     |     |
-| android, iOS | dapp_description | This dapp has connected to your wallet, it can view your wallet balance, activity and request approval for transactions. | 此 Dapp 已经与你的钱包连接，并被授权查看你的钱包余额及活动，也可向你发出转账请求。 |     |     |     |
+| android | dapp_description | This dapp has connected to your wallet, it can view your wallet balance, activity and request approval for transactions. | 此 Dapp 已经与你的钱包连接，并被授权查看你的钱包余额及活动，也可向你发出转账请求。 |     |     |     |
 | iOS, Desktop | Dark | Dark | 深色  | ライト |     |     |
 | android, iOS, Desktop | Data_and_Storage_Usage | Data and Storage Usage | 数据与存储空间 | ストレージ使用率 | Penggunaan Data dan Storan | Penggunaan Data dan Penyimpanan |
 | android, Desktop | Data_error | Data error | 数据错误 | データエラー | Kesalahan data | Kesalahan data |
@@ -1340,7 +1340,7 @@
 | iOS | send_photo | Send 1 Photo | 发送 1 张图片 | 写真を送信 |     |     |
 | iOS | send_photo.count | Send %1$d Photos | 发送 %1$d 张图片 | %1$d枚の写真を送信 |     |     |
 | Desktop | send_quickly | Send quickly | 快速发送 | クイック送信 |     |     |
-| android, iOS | send_signed_message_confirmation | The message has been signed successfully, click the button below to send or discard the signed message | 此消息已被签名，点击下方按钮以发送或丢弃 |     |     |     |
+| android | send_signed_message_confirmation | The message has been signed successfully, click the button below to send or discard the signed message | 此消息已被签名，点击下方按钮以发送或丢弃 |     |     |     |
 | android, iOS | Send_This_Location | Send This Location | 发送这个位置 | 位置情報を送信 | Hantar Lokasi Ini | Kirim Lokasi Ini |
 | android, iOS | send_to | Send to %1$s | 发送给 %1$s | %1$sへ送信 | Hantar ke %1$s | Kirim ke %1$s |
 | android, iOS | send_to_address | Send to Address | 转出到地址 |     |     |     |
@@ -1468,7 +1468,7 @@
 | android, iOS | Stop | Stop | 暂停  |     |     |     |
 | android, iOS | Stop_Playing | Stop Playing | 停止播放 | 再生を止める | Berhenti bermain |     |
 | android, iOS | Stop_playing_this_list | Stop playing this list? | 确定要停止并关闭播放列表？ | 再生を止めて、プレイリストを閉じますか？ |     |     |
-| iOS,android | Stop_syncing_hint | Do you want to stop syncing chat history? | 确定中止聊天记录同步吗？ |     |     |     |
+| android | Stop_syncing_hint | Do you want to stop syncing chat history? | 确定中止聊天记录同步吗？ |     |     |     |
 | iOS | Storage_almost_full | Storage almost full | 存储空间几乎已满 |     |     |     |
 | iOS | Storage_almost_full_tip | You can free up storage by deleting items that are large or have been forwarded many times. | 您可以通过删除大的或已被多次转发的项目来释放存储空间。 |     |     |     |
 | Desktop | storage_auto_download_description | Change auto-download settings for medias. | 更改媒体的自动下载设置。 | メディアの自動ダウンロード設定を変更する |     |     |
@@ -1526,7 +1526,7 @@
 | android, Desktop | Trace | Trace |     | 記録情報 | Jejak |     |
 | iOS | Track_not_found | Track not found | Track 无效 | トラックが見つかりません |     |     |
 | android, iOS | Transaction | Transaction | 交易详情 | トランザクション | Urus Niaga | Transaksi |
-| android, iOS | transaction_failed | Transaction Failed | 转账失败 |     |     |     |
+| android | transaction_failed | Transaction Failed | 转账失败 |     |     |     |
 | android, iOS, Desktop | transaction_Hash | Transaction Hash | 交易哈希 | トランザクションハッシュ | Urus niaga Cincangan | Hash Transaksi |
 | android, iOS, Desktop | Transaction_Id | Transaction Id | 交易编号 | トランザクションID | Id Urus Niaga | ID Transaksi |
 | android, iOS | transaction_request | Transaction Request | 请求转账 |     |     |     |
@@ -1801,13 +1801,13 @@
 | android, iOS | Deleting_Address | Delete Address | 正在删除地址 |     |     |     |
 | android, iOS | Deleting_Address_Failed | DeleteAddress Failed | 删除地址失败 |     |     |     |
 | android, iOS | delete_address_description | Are you sure to delete this address? | 确认删除该地址吗？ |     |     |     |
-| android, iOS | send_by_pin | Send by PIN | 通过 PIN 发送 |     |     |     |
+| android | send_by_pin | Send by PIN | 通过 PIN 发送 |     |     |     |
 | android, iOS | address_added | Address Added | 地址已添加 |     |     |     |
 | android, iOS | address_deleted | Address Deleted | 地址已删除 |     |     |     |
 | android, iOS | address_edited | Address Edited | 地址已修改 |     |     |     |
-| android, iOS | add_by_pin | Add by PIN | 通过 PIN 添加 |     |     |     |
-| android, iOS | delete_by_pin | Delete by PIN | 通过 PIN 删除 |     |     |     |
-| android, iOS | edit_by_pin | Edit by PIN | 通过 PIN 修改 |     |     |     |
+| android | add_by_pin | Add by PIN | 通过 PIN 添加 |     |     |     |
+| android | delete_by_pin | Delete by PIN | 通过 PIN 删除 |     |     |     |
+| android | edit_by_pin | Edit by PIN | 通过 PIN 修改 |     |     |     |
 | android, iOS | Enable | Enable | 启用  |     |     |     |
 | android, iOS | Not_Now | Not Now | 现在不要 |     |     |     |
 | android, iOS | Sender | Sender | 交易发起人 | 送信者 |     |     |

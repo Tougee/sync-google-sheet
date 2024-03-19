@@ -428,7 +428,7 @@
   <string name="Current_Selected" platform="iOS">当前选择</string>
   <string name="Custom_Time" platform="android, iOS, Desktop">自定义时间</string>
   <string name="Daily" platform="iOS">每天</string>
-  <string name="dapp_description" platform="android, iOS">此 Dapp 已经与你的钱包连接，并被授权查看你的钱包余额及活动，也可向你发出转账请求。</string>
+  <string name="dapp_description" platform="android">此 Dapp 已经与你的钱包连接，并被授权查看你的钱包余额及活动，也可向你发出转账请求。</string>
   <string name="Dark" platform="iOS, Desktop">深色</string>
   <string name="Data_and_Storage_Usage" platform="android, iOS, Desktop">数据与存储空间</string>
   <string name="Data_error" platform="android, Desktop">数据错误</string>
@@ -1319,7 +1319,7 @@
   <string name="send_photo" platform="iOS">发送 1 张图片</string>
   <string name="send_photo.count" platform="iOS">发送 %1$d 张图片</string>
   <string name="send_quickly" platform="Desktop">快速发送</string>
-  <string name="send_signed_message_confirmation" platform="android, iOS">此消息已被签名，点击下方按钮以发送或丢弃</string>
+  <string name="send_signed_message_confirmation" platform="android">此消息已被签名，点击下方按钮以发送或丢弃</string>
   <string name="Send_This_Location" platform="android, iOS">发送这个位置</string>
   <string name="send_to" platform="android, iOS">发送给 %1$s</string>
   <string name="send_to_address" platform="android, iOS">转出到地址</string>
@@ -1446,7 +1446,7 @@
   <string name="Stop" platform="android, iOS">暂停</string>
   <string name="Stop_Playing" platform="android, iOS">停止播放</string>
   <string name="Stop_playing_this_list" platform="android, iOS">确定要停止并关闭播放列表？</string>
-  <string name="Stop_syncing_hint" platform="iOS,android">确定中止聊天记录同步吗？</string>
+  <string name="Stop_syncing_hint" platform="android">确定中止聊天记录同步吗？</string>
   <string name="Storage_almost_full" platform="iOS">存储空间几乎已满</string>
   <string name="Storage_almost_full_tip" platform="iOS">您可以通过删除大的或已被多次转发的项目来释放存储空间。</string>
   <string name="storage_auto_download_description" platform="Desktop">更改媒体的自动下载设置。</string>
@@ -1503,7 +1503,7 @@
   <string name="Touch_the_fingerprint_sensor" platform="android">触摸指纹传感器</string>
   <string name="Track_not_found" platform="iOS">Track 无效</string>
   <string name="Transaction" platform="android, iOS">交易详情</string>
-  <string name="transaction_failed" platform="android, iOS">转账失败</string>
+  <string name="transaction_failed" platform="android">转账失败</string>
   <string name="transaction_Hash" platform="android, iOS, Desktop">交易哈希</string>
   <string name="Transaction_Id" platform="android, iOS, Desktop">交易编号</string>
   <string name="transaction_request" platform="android, iOS">请求转账</string>
@@ -1772,13 +1772,13 @@
   <string name="Deleting_Address" platform="android, iOS">正在删除地址</string>
   <string name="Deleting_Address_Failed" platform="android, iOS">删除地址失败</string>
   <string name="delete_address_description" platform="android, iOS">确认删除该地址吗？</string>
-  <string name="send_by_pin" platform="android, iOS">通过 PIN 发送</string>
+  <string name="send_by_pin" platform="android">通过 PIN 发送</string>
   <string name="address_added" platform="android, iOS">地址已添加</string>
   <string name="address_deleted" platform="android, iOS">地址已删除</string>
   <string name="address_edited" platform="android, iOS">地址已修改</string>
-  <string name="add_by_pin" platform="android, iOS">通过 PIN 添加</string>
-  <string name="delete_by_pin" platform="android, iOS">通过 PIN 删除</string>
-  <string name="edit_by_pin" platform="android, iOS">通过 PIN 修改</string>
+  <string name="add_by_pin" platform="android">通过 PIN 添加</string>
+  <string name="delete_by_pin" platform="android">通过 PIN 删除</string>
+  <string name="edit_by_pin" platform="android">通过 PIN 修改</string>
   <string name="Enable" platform="android, iOS">启用</string>
   <string name="Not_Now" platform="android, iOS">现在不要</string>
   <string name="Sender" platform="android, iOS">交易发起人</string>

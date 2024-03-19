@@ -433,7 +433,7 @@
   <string name="Current_Selected" platform="iOS">Current Selected</string>
   <string name="Custom_Time" platform="android, iOS, Desktop">Custom Time</string>
   <string name="Daily" platform="iOS">Daily</string>
-  <string name="dapp_description" platform="android, iOS">This dapp has connected to your wallet, it can view your wallet balance, activity and request approval for transactions.</string>
+  <string name="dapp_description" platform="android">This dapp has connected to your wallet, it can view your wallet balance, activity and request approval for transactions.</string>
   <string name="Dark" platform="iOS, Desktop">Dark</string>
   <string name="Data_and_Storage_Usage" platform="android, iOS, Desktop">Data and Storage Usage</string>
   <string name="Data_error" platform="android, Desktop">Data error</string>
@@ -1339,7 +1339,7 @@
   <string name="send_photo" platform="iOS">Send 1 Photo</string>
   <string name="send_photo.count" platform="iOS">Send %1$d Photos</string>
   <string name="send_quickly" platform="Desktop">Send quickly</string>
-  <string name="send_signed_message_confirmation" platform="android, iOS">The message has been signed successfully, click the button below to send or discard the signed message</string>
+  <string name="send_signed_message_confirmation" platform="android">The message has been signed successfully, click the button below to send or discard the signed message</string>
   <string name="Send_This_Location" platform="android, iOS">Send This Location</string>
   <string name="send_to" platform="android, iOS">Send to %1$s</string>
   <string name="send_to_address" platform="android, iOS">Send to Address</string>
@@ -1467,7 +1467,7 @@
   <string name="Stop" platform="android, iOS">Stop</string>
   <string name="Stop_Playing" platform="android, iOS">Stop Playing</string>
   <string name="Stop_playing_this_list" platform="android, iOS">Stop playing this list?</string>
-  <string name="Stop_syncing_hint" platform="iOS,android">Do you want to stop syncing chat history?</string>
+  <string name="Stop_syncing_hint" platform="android">Do you want to stop syncing chat history?</string>
   <string name="Storage_almost_full" platform="iOS">Storage almost full</string>
   <string name="Storage_almost_full_tip" platform="iOS">You can free up storage by deleting items that are large or have been forwarded many times.</string>
   <string name="storage_auto_download_description" platform="Desktop">Change auto-download settings for medias.</string>
@@ -1525,7 +1525,7 @@
   <string name="Trace" platform="android, Desktop">Trace</string>
   <string name="Track_not_found" platform="iOS">Track not found</string>
   <string name="Transaction" platform="android, iOS">Transaction</string>
-  <string name="transaction_failed" platform="android, iOS">Transaction Failed</string>
+  <string name="transaction_failed" platform="android">Transaction Failed</string>
   <string name="transaction_Hash" platform="android, iOS, Desktop">Transaction Hash</string>
   <string name="Transaction_Id" platform="android, iOS, Desktop">Transaction Id</string>
   <string name="transaction_request" platform="android, iOS">Transaction Request</string>
@@ -1800,13 +1800,13 @@
   <string name="Deleting_Address" platform="android, iOS">Delete Address</string>
   <string name="Deleting_Address_Failed" platform="android, iOS">DeleteAddress Failed</string>
   <string name="delete_address_description" platform="android, iOS">Are you sure to delete this address?</string>
-  <string name="send_by_pin" platform="android, iOS">Send by PIN</string>
+  <string name="send_by_pin" platform="android">Send by PIN</string>
   <string name="address_added" platform="android, iOS">Address Added</string>
   <string name="address_deleted" platform="android, iOS">Address Deleted</string>
   <string name="address_edited" platform="android, iOS">Address Edited</string>
-  <string name="add_by_pin" platform="android, iOS">Add by PIN</string>
-  <string name="delete_by_pin" platform="android, iOS">Delete by PIN</string>
-  <string name="edit_by_pin" platform="android, iOS">Edit by PIN</string>
+  <string name="add_by_pin" platform="android">Add by PIN</string>
+  <string name="delete_by_pin" platform="android">Delete by PIN</string>
+  <string name="edit_by_pin" platform="android">Edit by PIN</string>
   <string name="Enable" platform="android, iOS">Enable</string>
   <string name="Not_Now" platform="android, iOS">Not Now</string>
   <string name="Sender" platform="android, iOS">Sender</string>
