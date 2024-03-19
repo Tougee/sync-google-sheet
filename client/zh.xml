@@ -1811,4 +1811,15 @@
   <string name="connect_web3_account_description" platform="android, iOS">授权应用查看你的账户地址，或者向你发送交易请求。</string>
   <string name="web3_account_connected" platform="android, iOS">连接成功</string>
   <string name="web3_signing_confirmation" platform="android, iOS">签名确认</string>
+  <string name="web3_signing_warning" platform="android, iOS">我们无法验证此请求，在发送此请求之前，请确保您信任此应用程序。</string>
+  <string name="web3_signing" platform="android, iOS">正在签名</string>
+  <string name="signed_message" platform="android, iOS">签名</string>
+  <string name="unsigned_message" platform="android, iOS">待签名消息</string>
+  <string name="web3_signing_success" platform="android, iOS">签名成功</string>
+  <string name="web3_send_signature_description" platform="android, iOS">点发送按钮立刻广播消息或点丢弃按钮丢弃已签名的消息。</string>
+  <string name="estimated_balance_change" platform="android, iOS">余额变动（预估）</string>
+  <string name="fee_selection" platform="android, iOS">手续费（%1$s）</string>
+  <string name="preauthorize_amount" platform="android, iOS">预授权额度</string>
+  <string name="unlimited_authorization_warning" platform="android, iOS">这个应用可以提取你 %1$s 账号（%2$s）里所有的 %3$s 资产。</string>
+  <string name="withdraw_all_of_token_warning" platform="android, iOS">这个应用可以提取你所有的 %1$s。</string>
 </resources>

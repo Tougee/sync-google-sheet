@@ -1839,4 +1839,15 @@
   <string name="connect_web3_account_description" platform="android, iOS">Allow the app to view your account address and ask for your approval to make a transaction.</string>
   <string name="web3_account_connected" platform="android, iOS">Account Connected</string>
   <string name="web3_signing_confirmation" platform="android, iOS">Confirm Signing</string>
+  <string name="web3_signing_warning" platform="android, iOS">We cannot verify this request; please ensure you trust this dapp before proceeding with the request.</string>
+  <string name="web3_signing" platform="android, iOS">Signing</string>
+  <string name="signed_message" platform="android, iOS">SIGNED MESSAGE</string>
+  <string name="unsigned_message" platform="android, iOS">UNSIGNED MESSAGE</string>
+  <string name="web3_signing_success" platform="android, iOS">Signing Success</string>
+  <string name="web3_send_signature_description" platform="android, iOS">Tap the send button to immediately broadcast the message or tap the discard button to discard the signed message.</string>
+  <string name="estimated_balance_change" platform="android, iOS">Balance Change (estimate)</string>
+  <string name="fee_selection" platform="android, iOS">Fee (%1$s)</string>
+  <string name="preauthorize_amount" platform="android, iOS">Pre-authorize Amount</string>
+  <string name="unlimited_authorization_warning" platform="android, iOS">This application can access all %3$s in your %1$s account (%2$s).</string>
+  <string name="withdraw_all_of_token_warning" platform="android, iOS">This dapp can withdraw all your %1$s.</string>
 </resources>

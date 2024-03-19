@@ -1840,10 +1840,14 @@
 | android, iOS | connect_web3_account_description | Allow the app to view your account address and ask for your approval to make a transaction. | 授权应用查看你的账户地址，或者向你发送交易请求。 |     |     |     |
 | android, iOS | web3_account_connected | Account Connected | 连接成功 |     |     |     |
 | android, iOS | web3_signing_confirmation | Confirm Signing | 签名确认 |     |     |     |
-| android, iOS |     |     |     |     |     |     |
-| android, iOS |     |     |     |     |     |     |
-| android, iOS |     |     |     |     |     |     |
-| android, iOS |     |     |     |     |     |     |
-| android, iOS |     |     |     |     |     |     |
-| android, iOS |     |     |     |     |     |     |
-| android, iOS |     |     |     |     |     |     |
+| android, iOS | web3_signing_warning | We cannot verify this request; please ensure you trust this dapp before proceeding with the request. | 我们无法验证此请求，在发送此请求之前，请确保您信任此应用程序。 |     |     |     |
+| android, iOS | web3_signing | Signing | 正在签名 |     |     |     |
+| android, iOS | signed_message | SIGNED MESSAGE | 签名  |     |     |     |
+| android, iOS | unsigned_message | UNSIGNED MESSAGE | 待签名消息 |     |     |     |
+| android, iOS | web3_signing_success | Signing Success | 签名成功 |     |     |     |
+| android, iOS | web3_send_signature_description | Tap the send button to immediately broadcast the message or tap the discard button to discard the signed message. | 点发送按钮立刻广播消息或点丢弃按钮丢弃已签名的消息。 |     |     |     |
+| android, iOS | estimated_balance_change | Balance Change (estimate) | 余额变动（预估） |     |     |     |
+| android, iOS | fee_selection | Fee (%1$s) | 手续费（%1$s） |     |     |     |
+| android, iOS | preauthorize_amount | Pre-authorize Amount | 预授权额度 |     |     |     |
+| android, iOS | unlimited_authorization_warning | This application can access all %3$s in your %1$s account (%2$s). | 这个应用可以提取你 %1$s 账号（%2$s）里所有的 %3$s 资产。 |     |     |     |
+| android, iOS | withdraw_all_of_token_warning | This dapp can withdraw all your %1$s. | 这个应用可以提取你所有的 %1$s。 |     |     |     |
