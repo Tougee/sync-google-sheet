@@ -354,7 +354,8 @@
 | android,iOS,Desktop | Confirmations | Confirmations | 区块确认数 |     |     |     |
 | android,iOS | Connect_to_TIP_network_failed | Unable to connect to TIP network. Check your connection and try again. | 连接 TIP 网络失败，请尝试切换网络后重试 |     |     |     |
 | android, iOS | connect_wallet | Connect Wallet | 连接钱包 |     |     |     |
-| android, iOS | connect_wallet | Connect Wallet | 连接钱包 |     |     |     |
+| android, iOS | connect_wallet_success | Connected Wallet | 连接成功 |     |     |     |
+| android, iOS | connect_walletconnect_wallet_failed | Connection Failed | 连接失败 |     |     |     |
 | iOS | Connected | Connected | 已连接 | 接続済 |     |     |
 | android | connected_dapps | Connected Dapps | 已连接的 Dapp |     |     |     |
 | android, iOS | Connecting | Connecting | 正在连接 | 接続中 | Menyambung | Menyambungkan |
