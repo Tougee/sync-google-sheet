@@ -1854,3 +1854,4 @@
 | android, iOS | preauthorize_amount | Pre-authorize Amount | 预授权额度 |     |     |     |
 | android, iOS | unlimited_authorization_warning | This application can access all %3$s in your %1$s account (%2$s). | 这个应用可以提取你 %1$s 账号（%2$s）里所有的 %3$s 资产。 |     |     |     |
 | android, iOS | withdraw_all_of_token_warning | This dapp can withdraw all your %1$s. | 这个应用可以提取你所有的 %1$s。 |     |     |     |
+| android, iOS |     |     |     |     |     |     |
