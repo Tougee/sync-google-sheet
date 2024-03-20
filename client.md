@@ -1856,3 +1856,4 @@
 | android, iOS | withdraw_all_of_token_warning | This dapp can withdraw all your %1$s. | 这个应用可以提取你所有的 %1$s。 |     |     |     |
 | android, iOS | copy_address | Copy Address | 复制地址 |     |     |     |
 | android, iOS | Connect | Connect | 连接  |     |     |     |
+| android, iOS | decode_transaction_failed |     |     |     |     |     |
