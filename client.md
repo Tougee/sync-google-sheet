@@ -1856,4 +1856,4 @@
 | android, iOS | withdraw_all_of_token_warning | This dapp can withdraw all your %1$s. | 这个应用可以提取你所有的 %1$s。 |     |     |     |
 | android, iOS | copy_address | Copy Address | 复制地址 |     |     |     |
 | android, iOS | Connect | Connect | 连接  |     |     |     |
-| android, iOS | decode_transaction_failed |     |     |     |     |     |
+| android, iOS | decode_transaction_failed | Transaction decoding failed, making it impossible to estimate asset changes. Be cautious and only sign transactions for dapps you trust. | 交易解析失败，无法估计资产变化，注意只给您信任的应用程序签名。 |     |     |     |
