@@ -370,7 +370,7 @@
   <string name="contact_new_group_chat_desc" platform="android">创建一个最多支持 256 人的群</string>
   <string name="contact_phone_contact_hint" platform="iOS">上传你的手机通讯录，如果你的通讯录中有朋友已经注册了 Mixin，系统会帮你自动添加为好友</string>
   <string name="contact_support" platform="android,iOS">联系客服</string>
-  <string name="contact_title" platform="iOS, Desktop">联系人</string>
+  <string name="contact_title" platform="iOS, Desktop">联系方式</string>
   <string name="CONTACTS" platform="android, iOS">联系人</string>
   <string name="content_audio" platform="android, iOS">[语音]</string>
   <string name="content_contact" platform="android, iOS">[联系人]</string>
@@ -593,7 +593,7 @@
   <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">错误 20130：紧急联系人不正确</string>
   <string name="error_invalid_pin_format" platform="android, Desktop">错误 20118：PIN 格式不正确</string>
   <string name="error_memo_too_long" platform="android">Memo 字符超长，最多为 200</string>
-  <string name="error_network_task_failed" platform="iOS, Desktop">网络连接失败。检查或切换网络，然后重试</string>
+  <string name="error_network_task_failed" platform="iOS, Desktop">网络连接失败。检查或切换网络并重试</string>
   <string name="error_no_pin_token" platform="Desktop">缺少凭据，请重新登录之后再尝试使用此功能。</string>
   <string name="error_not_found" platform="android, iOS, Desktop">错误 404：没有找到相应的信息</string>
   <string name="error_not_supported_audio_format" platform="android, Desktop">不支持的音频格式，请用其他app打开。</string>
@@ -754,7 +754,7 @@
   <string name="Import" platform="android">导入聊天记录</string>
   <string name="Importing_Chat_Progress" platform="iOS">导入聊天记录（%1$s%）</string>
   <string name="in_connecting" platform="android, iOS">正在连接…</string>
-  <string name="Include_files" platform="iOS, Desktop">包括文件</string>
+  <string name="Include_files" platform="iOS, Desktop">包含文件</string>
   <string name="Include_videos" platform="iOS, Desktop">包括视频</string>
   <string name="Incognito_Keyboard" platform="android">隐身键盘</string>
   <string name="Incoming_voice_call" platform="android, iOS">语音通话来电</string>
@@ -833,7 +833,7 @@
   <string name="Local_IP" platform="android">本地 IP</string>
   <string name="Local_network_unable_accessed" platform="iOS">本地网络无法访问，请开启权限</string>
   <string name="locate_to_chat" platform="Desktop">定位到聊天</string>
-  <string name="Locating" platform="iOS">定位...</string>
+  <string name="Locating" platform="iOS">正在定位...</string>
   <string name="Location" platform="android, iOS, Desktop">位置</string>
   <string name="location_accuracy_to" platform="iOS">精确到 %@</string>
   <string name="location_accurate.count" platform="android">精确到 %1$d 米</string>
@@ -1119,7 +1119,7 @@
   <string name="powered_by_mixin_route_prefix" platform="android, iOS">由</string>
   <string name="powered_by_mixin_route_suffix" platform="android, iOS">Mixin Route 提供服务</string>
   <string name="preferences" platform="Desktop">偏好设置</string>
-  <string name="Preparing" platform="iOS">准备...</string>
+  <string name="Preparing" platform="iOS">正在准备...</string>
   <string name="Preparing_progress" platform="iOS">备份中...（%@）</string>
   <string name="preview_unavailable" platform="android">预览不可用</string>
   <string name="preview_unavailable_description" platform="android">无法预览资产变化。请确保你信任此 dapp。</string>
@@ -1825,7 +1825,5 @@
   <string name="preauthorize_amount" platform="android, iOS">预授权额度</string>
   <string name="unlimited_authorization_warning" platform="android, iOS">这个应用可以提取你 %1$s 账号（%2$s）里所有的 %3$s 资产。</string>
   <string name="withdraw_all_of_token_warning" platform="android, iOS">这个应用可以提取你所有的 %1$s。</string>
-  <string name="copy_address" platform="android, iOS">复制地址</string>
   <string name="Connect" platform="android, iOS">连接</string>
-  <string name="decode_transaction_failed" platform="android, iOS">交易解析失败，无法估计资产变化，注意只给您信任的应用程序签名。</string>
 </resources>

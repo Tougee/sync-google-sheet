@@ -1853,7 +1853,5 @@
   <string name="preauthorize_amount" platform="android, iOS">Pre-authorize Amount</string>
   <string name="unlimited_authorization_warning" platform="android, iOS">This application can access all %3$s in your %1$s account (%2$s).</string>
   <string name="withdraw_all_of_token_warning" platform="android, iOS">This dapp can withdraw all your %1$s.</string>
-  <string name="copy_address" platform="android, iOS">Copy Address</string>
   <string name="Connect" platform="android, iOS">Connect</string>
-  <string name="decode_transaction_failed" platform="android, iOS">Transaction decoding failed, making it impossible to estimate asset changes. Be cautious and only sign transactions for dapps you trust.</string>
 </resources>

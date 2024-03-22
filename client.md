@@ -376,7 +376,7 @@
 | android | contact_new_group_chat_desc | Create a group chat with up to  friends | 创建一个最多支持 256 人的群 | 友達と新しいグループチャットを作成 | Buat kumpulan sembang dengan sehingga rakan | Buat obrolan grup dengan maksimal teman |
 | iOS | contact_phone_contact_hint | Upload mobile contacts to find other Mixin friends. | 上传你的手机通讯录，如果你的通讯录中有朋友已经注册了 Mixin，系统会帮你自动添加为好友 | スマホの連絡帳と同期して友だちを自動追加 |     |     |
 | android,iOS | contact_support | Contact Support | 联系客服 |     |     |     |
-| iOS, Desktop | contact_title | Contacts | 联系人 | 連絡先 |     |     |
+| iOS, Desktop | contact_title | Contacts | 联系方式 | 連絡先 |     |     |
 | android, iOS | CONTACTS | CONTACTS | 联系人 | 連絡先 | KENALAN | KONTAK |
 | android, iOS | content_audio | [Audio] | [语音] | [音声メッセージ] | [Audio] | [Audio] |
 | android, iOS | content_contact | [Contact] | [联系人] | [連絡先] | [Hubungi] | [Kontak] |
@@ -603,7 +603,7 @@
 | android, iOS, Desktop | error_invalid_emergency_contact | ERROR 20130: Invalid emergency contact | 错误 20130：紧急联系人不正确 | エラー 20130：無効な緊急連絡先です | RALAT 20130: Kenalan kecemasan tidak sah | KESALAHAN 20130: Kontak darurat tidak valid |
 | android, Desktop | error_invalid_pin_format | ERROR 20118: Invalid PIN format.  | 错误 20118：PIN 格式不正确 | エラー 20118：無効なPINフォーマットです | RALAT 20118: Format PIN tidak sah | KESALAHAN 20118: Format PIN tidak valid |
 | android | error_memo_too_long | Memo has too many characters, maximum is 200 | Memo 字符超长，最多为 200 | メモの上限文字数は200文字です |     |     |
-| iOS, Desktop | error_network_task_failed | Network connection failed. Check or switch your network and try again | 网络连接失败。检查或切换网络，然后重试 | ネットワーク接続に失敗しました。ネットワーク接続状態を確認した後にもう一度試してください。 |     |     |
+| iOS, Desktop | error_network_task_failed | Network connection failed. Check or switch your network and try again | 网络连接失败。检查或切换网络并重试 | ネットワーク接続に失敗しました。ネットワーク接続状態を確認した後にもう一度試してください。 |     |     |
 | Desktop | error_no_pin_token | No token, Please log in again and try this feature again. | 缺少凭据，请重新登录之后再尝试使用此功能。 |     |     |     |
 | android, iOS, Desktop | error_not_found | ERROR 404: Not found | 错误 404：没有找到相应的信息 | エラー 404：結果なし | RALAT 404: Tidak ditemui | KESALAHAN 404: Tidak ditemukan |
 | android, Desktop | error_not_supported_audio_format | Not supported audio format, please open by other app. | 不支持的音频格式，请用其他app打开。 | サポートされていないオーディオ形式です。他のアプリで開いてください。 | Tidak disokong format audio, sila buka oleh aplikasi lain. | Tidak mendukung format audio, harap buka dengan aplikasi lain. |
@@ -767,7 +767,7 @@
 | android | Import | Import | 导入聊天记录 | インポート |     |     |
 | iOS | Importing_Chat_Progress | Importing chat  (%1$s%) | 导入聊天记录（%1$s%） |     |     |     |
 | android, iOS | in_connecting | Connecting… | 正在连接… | 接続中… | Menyambung… | Menyambungkan… |
-| iOS, Desktop | Include_files | Include Files | 包括文件 | ファイルが含まれています |     |     |
+| iOS, Desktop | Include_files | Include Files | 包含文件 | ファイルが含まれています |     |     |
 | iOS, Desktop | Include_videos | Include Videos | 包括视频 | 動画が含まれています |     |     |
 | android | Incognito_Keyboard | Incognito Keyboard | 隐身键盘 | シークレットキーボード | Papan Kekunci Inkognito |     |
 | android, iOS | Incoming_voice_call | Incoming voice call | 语音通话来电 | 着信  | Panggilan suara masuk | Panggilan suara masuk |
@@ -850,7 +850,7 @@
 | android | Local_IP | Local IP | 本地 IP | Local IP |     |     |
 | iOS | Local_network_unable_accessed | Local network is unable to be accessed, please grant permission | 本地网络无法访问，请开启权限 |     |     |     |
 | Desktop | locate_to_chat | locate to chat | 定位到聊天 | チャットを探す |     |     |
-| iOS | Locating | Locating... | 定位... | 位置情報を検索中... |     |     |
+| iOS | Locating | Locating... | 正在定位... | 位置情報を検索中... |     |     |
 | android, iOS, Desktop | Location | Location | 位置  | 位置情報 | Lokasi | Lokasi |
 | iOS | location_accuracy_to | Accurate to %@ | 精确到 %@ | 精度：%@ |     |     |
 | android | location_accurate | Accurate to %1$d meter |     | 精度：%1$dメートル |     |     |
@@ -1138,7 +1138,7 @@
 | android, iOS | powered_by_mixin_route_prefix | Powered by | 由   |     |     |     |
 | android, iOS | powered_by_mixin_route_suffix | Mixin Route | Mixin Route 提供服务 |     |     |     |
 | Desktop | preferences | Preferences | 偏好设置 | 環境設定 |     |     |
-| iOS | Preparing | Preparing... | 准备... | 準備中... |     |     |
+| iOS | Preparing | Preparing... | 正在准备... | 準備中... |     |     |
 | iOS | Preparing_progress | Preparing...(%@) | 备份中...（%@） | 準備中...(%@) |     |     |
 | android | preview_unavailable | Preview unavailable | 预览不可用 |     |     |     |
 | android | preview_unavailable_description | Unable to estimate asset changes. Please make sure you trust this dapp. | 无法预览资产变化。请确保你信任此 dapp。 |     |     |     |
@@ -1854,6 +1854,4 @@
 | android, iOS | preauthorize_amount | Pre-authorize Amount | 预授权额度 |     |     |     |
 | android, iOS | unlimited_authorization_warning | This application can access all %3$s in your %1$s account (%2$s). | 这个应用可以提取你 %1$s 账号（%2$s）里所有的 %3$s 资产。 |     |     |     |
 | android, iOS | withdraw_all_of_token_warning | This dapp can withdraw all your %1$s. | 这个应用可以提取你所有的 %1$s。 |     |     |     |
-| android, iOS | copy_address | Copy Address | 复制地址 |     |     |     |
 | android, iOS | Connect | Connect | 连接  |     |     |     |
-| android, iOS | decode_transaction_failed | Transaction decoding failed, making it impossible to estimate asset changes. Be cautious and only sign transactions for dapps you trust. | 交易解析失败，无法估计资产变化，注意只给您信任的应用程序签名。 |     |     |     |
