@@ -1841,12 +1841,12 @@
 | android, iOS | connect_your_account | Connect Your Account | 连接账户 |     |     |     |
 | android, iOS | connect_web3_account_description | Allow the app to view your account address and ask for your approval to make a transaction. | 授权应用查看你的账户地址，或者向你发送交易请求。 |     |     |     |
 | android, iOS | web3_account_connected | Account Connected | 连接成功 |     |     |     |
-| android, iOS | web3_signing_confirmation | Confirm Signing | 签名确认 |     |     |     |
+| android | web3_signing_confirmation | Confirm Signing | 签名确认 |     |     |     |
 | android, iOS | web3_signing_warning | We cannot verify this request; please ensure you trust this dApp before proceeding with the request. | 我们无法验证此请求，在发送此请求之前，请确保您信任此应用程序。 |     |     |     |
 | android, iOS | web3_signing | Signing | 正在签名 |     |     |     |
 | android, iOS | signed_message | SIGNED MESSAGE | 签名  |     |     |     |
 | android, iOS | unsigned_message | UNSIGNED MESSAGE | 待签名消息 |     |     |     |
-| android, iOS | web3_signing_success | Signing Success | 签名成功 |     |     |     |
+| android | web3_signing_success | Signing Success | 签名成功 |     |     |     |
 | android, iOS | web3_signing_failed | Signing Failed | 签名失败 |     |     |     |
 | android | web3_send_signature_description | Tap the send button to immediately broadcast the message or tap the discard button to discard the signed message. | 点发送按钮立刻广播消息或点丢弃按钮丢弃已签名的消息。 |     |     |     |
 | android, iOS | estimated_balance_change | Balance Change (estimate) | 余额变动（预估） |     |     |     |

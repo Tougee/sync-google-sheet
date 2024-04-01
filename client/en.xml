@@ -1840,12 +1840,12 @@
   <string name="connect_your_account" platform="android, iOS">Connect Your Account</string>
   <string name="connect_web3_account_description" platform="android, iOS">Allow the app to view your account address and ask for your approval to make a transaction.</string>
   <string name="web3_account_connected" platform="android, iOS">Account Connected</string>
-  <string name="web3_signing_confirmation" platform="android, iOS">Confirm Signing</string>
+  <string name="web3_signing_confirmation" platform="android">Confirm Signing</string>
   <string name="web3_signing_warning" platform="android, iOS">We cannot verify this request; please ensure you trust this dApp before proceeding with the request.</string>
   <string name="web3_signing" platform="android, iOS">Signing</string>
   <string name="signed_message" platform="android, iOS">SIGNED MESSAGE</string>
   <string name="unsigned_message" platform="android, iOS">UNSIGNED MESSAGE</string>
-  <string name="web3_signing_success" platform="android, iOS">Signing Success</string>
+  <string name="web3_signing_success" platform="android">Signing Success</string>
   <string name="web3_signing_failed" platform="android, iOS">Signing Failed</string>
   <string name="web3_send_signature_description" platform="android">Tap the send button to immediately broadcast the message or tap the discard button to discard the signed message.</string>
   <string name="estimated_balance_change" platform="android, iOS">Balance Change (estimate)</string>
