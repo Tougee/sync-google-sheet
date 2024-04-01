@@ -114,8 +114,8 @@
   <string name="Allow_bot_manage_bots" platform="android, iOS">允许机器人添加或修改你的机器人列表。</string>
   <string name="Allow_bot_manage_circles" platform="android, iOS">允许机器人添加、修改和删除你所有的圈子。</string>
   <string name="Allow_bot_send_messages" platform="android, iOS">允许机器人代表你发消息。</string>
-  <string name="allow_dapp_access_public_address" platform="android">允许 Dapp 访问你的钱包余额及活动。</string>
-  <string name="allow_dapp_request_approval" platform="android">允许 Dapp 向你发送请求，如转账请求等</string>
+  <string name="allow_dapp_access_public_address" platform="android">允许 dApp 访问你的钱包余额及活动。</string>
+  <string name="allow_dapp_request_approval" platform="android">允许 dApp 向你发送请求，如转账请求等</string>
   <string name="Allow_Manual_Report_Message" platform="iOS">允许手动上报消息</string>
   <string name="Amount" platform="android, iOS">金额</string>
   <string name="an_audio" platform="android">一条语音</string>
@@ -349,7 +349,7 @@
   <string name="Connect_to_TIP_network_failed" platform="android,iOS">连接 TIP 网络失败，请尝试切换网络后重试</string>
   <string name="connect_wallet" platform="android">连接钱包</string>
   <string name="Connected" platform="iOS">已连接</string>
-  <string name="connected_dapps" platform="android">已连接的 Dapp</string>
+  <string name="connected_dapps" platform="android">已连接的 dApp</string>
   <string name="Connecting" platform="android, iOS">正在连接</string>
   <string name="Connection_establishment_failed" platform="iOS">连接建立失败</string>
   <string name="connection_failed" platform="android, iOS">连接失败</string>
@@ -428,7 +428,7 @@
   <string name="Current_Selected" platform="iOS">当前选择</string>
   <string name="Custom_Time" platform="android, iOS, Desktop">自定义时间</string>
   <string name="Daily" platform="iOS">每天</string>
-  <string name="dapp_description" platform="android">此 Dapp 已经与你的钱包连接，并被授权查看你的钱包余额及活动，也可向你发出转账请求。</string>
+  <string name="dapp_description" platform="android">此 dApp 已经与你的钱包连接，并被授权查看你的钱包余额及活动，也可向你发出转账请求。</string>
   <string name="Dark" platform="iOS, Desktop">深色</string>
   <string name="Data_and_Storage_Usage" platform="android, iOS, Desktop">数据与存储空间</string>
   <string name="Data_error" platform="android, Desktop">数据错误</string>
@@ -960,7 +960,7 @@
   <string name="NO_BOTS" platform="android, iOS">没有机器人</string>
   <string name="No_camera" platform="android, Desktop">没有相机</string>
   <string name="No_CONTACTS" platform="iOS">没有联系人</string>
-  <string name="NO_DAPP" platform="android">没有 Dapp</string>
+  <string name="NO_DAPP" platform="android">没有 dApp</string>
   <string name="no_data" platform="Desktop">没有数据</string>
   <string name="No_deposits" platform="android">暂无充值记录</string>
   <string name="No_fees" platform="android">暂无手续费记录</string>
@@ -1122,7 +1122,7 @@
   <string name="Preparing" platform="iOS">正在准备...</string>
   <string name="Preparing_progress" platform="iOS">备份中...（%@）</string>
   <string name="preview_unavailable" platform="android">预览不可用</string>
-  <string name="preview_unavailable_description" platform="android">无法预览资产变化。请确保你信任此 dapp。</string>
+  <string name="preview_unavailable_description" platform="android">无法预览资产变化。请确保你信任此 dApp。</string>
   <string name="previous_conversation" platform="Desktop">上一个会话</string>
   <string name="price_expired" platform="android, iOS">报价已过期</string>
   <string name="Privacy" platform="android, iOS">隐私</string>
@@ -1798,7 +1798,7 @@
   <string name="continue_with_pin" platform="android, iOS">输入 PIN 继续</string>
   <string name="web3_account_network" platform="android, iOS">%1$s 账户</string>
   <string name="web3_account" platform="android, iOS">账户</string>
-  <string name="access_dapps_defi_projects" platform="android, iOS">访问 dapps 或 DeFi 项目</string>
+  <string name="access_dapps_defi_projects" platform="android, iOS">访问 dApps 或 DeFi 项目</string>
   <string name="unlock_web3_account" platform="android, iOS">解锁 %1$s 账户</string>
   <string name="Unlock" platform="android, iOS">解锁</string>
   <string name="unlock_web3_account_description" platform="android, iOS">您的 %1$s 账户基于 Mixin Messenger 的 MPC 钱包并根据 BIP44 协议派生而来。</string>

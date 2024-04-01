@@ -115,8 +115,8 @@
 | android, iOS | Allow_bot_manage_bots | Allow bot to add or modify your bots. | 允许机器人添加或修改你的机器人列表。 |     |     |     |
 | android, iOS | Allow_bot_manage_circles | Allow bot to add, modify and delete your circles. | 允许机器人添加、修改和删除你所有的圈子。 |     |     |     |
 | android, iOS | Allow_bot_send_messages | Allow bot to send messages represent of you. | 允许机器人代表你发消息。 |     |     |     |
-| android | allow_dapp_access_public_address | Allow dapp to access your wallet balance and activity. | 允许 Dapp 访问你的钱包余额及活动。 |     |     |     |
-| android | allow_dapp_request_approval | Allow dapp to ask for your approval to make a transaction. | 允许 Dapp 向你发送请求，如转账请求等 |     |     |     |
+| android | allow_dapp_access_public_address | Allow dApp to access your wallet balance and activity. | 允许 dApp 访问你的钱包余额及活动。 |     |     |     |
+| android | allow_dapp_request_approval | Allow dApp to ask for your approval to make a transaction. | 允许 dApp 向你发送请求，如转账请求等 |     |     |     |
 | iOS | Allow_Manual_Report_Message | Allow Manual Report Message | 允许手动上报消息 | メッセージ単位の報告を許可 |     |     |
 | android, iOS | Amount | Amount | 金额  | 数量  | Jumlah | Jumlah |
 | android | an_audio | an audio | 一条语音 | 音声ファイル |     |     |
@@ -355,7 +355,7 @@
 | android,iOS | Connect_to_TIP_network_failed | Unable to connect to TIP network. Check your connection and try again. | 连接 TIP 网络失败，请尝试切换网络后重试 |     |     |     |
 | android | connect_wallet | Connect Wallet | 连接钱包 |     |     |     |
 | iOS | Connected | Connected | 已连接 | 接続済 |     |     |
-| android | connected_dapps | Connected Dapps | 已连接的 Dapp |     |     |     |
+| android | connected_dapps | Connected dApps | 已连接的 dApp |     |     |     |
 | android, iOS | Connecting | Connecting | 正在连接 | 接続中 | Menyambung | Menyambungkan |
 | iOS | Connection_establishment_failed | Connection establishment failed | 连接建立失败 |     |     |     |
 | android, iOS | connection_failed | Connection Failed | 连接失败 |     |     |     |
@@ -434,7 +434,7 @@
 | iOS | Current_Selected | Current Selected | 当前选择 | 選択  |     |     |
 | android, iOS, Desktop | Custom_Time | Custom Time | 自定义时间 | 日時  |     |     |
 | iOS | Daily | Daily | 每天  | 日   |     |     |
-| android | dapp_description | This dapp has connected to your wallet, it can view your wallet balance, activity and request approval for transactions. | 此 Dapp 已经与你的钱包连接，并被授权查看你的钱包余额及活动，也可向你发出转账请求。 |     |     |     |
+| android | dapp_description | This dApp has connected to your wallet, it can view your wallet balance, activity and request approval for transactions. | 此 dApp 已经与你的钱包连接，并被授权查看你的钱包余额及活动，也可向你发出转账请求。 |     |     |     |
 | iOS, Desktop | Dark | Dark | 深色  | ライト |     |     |
 | android, iOS, Desktop | Data_and_Storage_Usage | Data and Storage Usage | 数据与存储空间 | ストレージ使用率 | Penggunaan Data dan Storan | Penggunaan Data dan Penyimpanan |
 | android, Desktop | Data_error | Data error | 数据错误 | データエラー | Kesalahan data | Kesalahan data |
@@ -979,7 +979,7 @@
 | android, iOS | NO_BOTS | NO BOTS | 没有机器人 | ミニアプリがありません | TIADA APLIKASI | TIDAK ADA APLIKASI |
 | android, Desktop | No_camera | No camera | 没有相机 | カメラを認識できません | Tiada kamera | Tidak ada kamera |
 | iOS | No_CONTACTS | NO CONTACTS | 没有联系人 | 友達未追加 |     |     |
-| android | NO_DAPP | NO DAPP | 没有 Dapp |     |     |     |
+| android | NO_DAPP | NO DAPP | 没有 dApp |     |     |     |
 | Desktop | no_data | No Data | 没有数据 | データがありません |     |     |
 | android | No_deposits | No deposits | 暂无充值记录 | 入金はありません | Tiada deposit | Tidak ada deposit |
 | android | No_fees | No fees | 暂无手续费记录 | 手数料はありません | Tanpa bayaran | Tidak ada biaya |
@@ -1141,7 +1141,7 @@
 | iOS | Preparing | Preparing... | 正在准备... | 準備中... |     |     |
 | iOS | Preparing_progress | Preparing...(%@) | 备份中...（%@） | 準備中...(%@) |     |     |
 | android | preview_unavailable | Preview unavailable | 预览不可用 |     |     |     |
-| android | preview_unavailable_description | Unable to estimate asset changes. Please make sure you trust this dapp. | 无法预览资产变化。请确保你信任此 dapp。 |     |     |     |
+| android | preview_unavailable_description | Unable to estimate asset changes. Please make sure you trust this dapp. | 无法预览资产变化。请确保你信任此 dApp。 |     |     |     |
 | Desktop | previous_conversation | Previous conversation | 上一个会话 | 過去のチャットルーム |     |     |
 | android, iOS | price_expired | Price Expired | 报价已过期 |     |     |     |
 | android, iOS | Privacy | Privacy | 隐私  | プライバシー | Privasi | Privasi |
@@ -1827,11 +1827,11 @@
 | android, iOS | continue_with_pin | Continue with PIN | 输入 PIN 继续 |     |     |     |
 | android, iOS | web3_account_network | %1$s Account | %1$s 账户 |     |     |     |
 | android, iOS | web3_account | Account | 账户  |     |     |     |
-| android, iOS | access_dapps_defi_projects | Access dapps and DeFi projects. | 访问 dapps 或 DeFi 项目 |     |     |     |
+| android, iOS | access_dapps_defi_projects | Access dApps and DeFi projects. | 访问 dApps 或 DeFi 项目 |     |     |     |
 | android, iOS | unlock_web3_account | Unlock %1$s Account | 解锁 %1$s 账户 |     |     |     |
 | android, iOS | Unlock | Unlock | 解锁  |     |     |     |
 | android, iOS | unlock_web3_account_description | Your %1$s account is based on your Mixin Messenger MPC wallet and derived according to the BIP44 protocol. | 您的 %1$s 账户基于 Mixin Messenger 的 MPC 钱包并根据 BIP44 协议派生而来。 |     |     |     |
-| android, iOS | unlock_web3_account_agreement | It is recommended to transfer assets back to more secured Mixin wallet as soon as interactions with dapps are completed. | 建议与去中心化应用程序交互完后尽快将资产转回更安全的 Mixin 钱包。 |     |     |     |
+| android, iOS | unlock_web3_account_agreement | It is recommended to transfer assets back to more secured Mixin wallet as soon as interactions with dApps are completed. | 建议与去中心化应用程序交互完后尽快将资产转回更安全的 Mixin 钱包。 |     |     |     |
 | android, iOS | unlock_web3_account_agreement_1 | Your assets in %1$s account and Mixin wallet are isolated but managed using the same PIN. | %1$s 账户与 Mixin 钱包资产隔离但使用同一个 PIN 进行资产管理。 |     |     |     |
 | android, iOS | unlock_web3_account_agreement_2 | Asset transfers between your %1$s account and Mixin wallet incur network fees. | 在 %1$s 账户与 Mixin 钱包之间划转资产需要支付网络矿工费。 |     |     |     |
 | android, iOS | unlock_web3_account_agreement_3 | Unlocking your %1$s account will also automatically unlock EVM accounts such as %2$s, %3$s and others. | 当您解锁 %1$s 账户时，也将自动解锁 %2$s、%3$s 等 EVM 账户。 |     |     |     |
@@ -1842,7 +1842,7 @@
 | android, iOS | connect_web3_account_description | Allow the app to view your account address and ask for your approval to make a transaction. | 授权应用查看你的账户地址，或者向你发送交易请求。 |     |     |     |
 | android, iOS | web3_account_connected | Account Connected | 连接成功 |     |     |     |
 | android, iOS | web3_signing_confirmation | Confirm Signing | 签名确认 |     |     |     |
-| android, iOS | web3_signing_warning | We cannot verify this request; please ensure you trust this dapp before proceeding with the request. | 我们无法验证此请求，在发送此请求之前，请确保您信任此应用程序。 |     |     |     |
+| android, iOS | web3_signing_warning | We cannot verify this request; please ensure you trust this dApp before proceeding with the request. | 我们无法验证此请求，在发送此请求之前，请确保您信任此应用程序。 |     |     |     |
 | android, iOS | web3_signing | Signing | 正在签名 |     |     |     |
 | android, iOS | signed_message | SIGNED MESSAGE | 签名  |     |     |     |
 | android, iOS | unsigned_message | UNSIGNED MESSAGE | 待签名消息 |     |     |     |
@@ -1853,6 +1853,6 @@
 | android, iOS | fee_selection | Fee (%1$s) | 手续费（%1$s） |     |     |     |
 | android, iOS | preauthorize_amount | Pre-authorize Amount | 预授权额度 |     |     |     |
 | android, iOS | unlimited_authorization_warning | This application can access all %3$s in your %1$s account (%2$s). | 这个应用可以提取你 %1$s 账号（%2$s）里所有的 %3$s 资产。 |     |     |     |
-| android, iOS | withdraw_all_of_token_warning | This dapp can withdraw all your %1$s. | 这个应用可以提取你所有的 %1$s。 |     |     |     |
+| android, iOS | withdraw_all_of_token_warning | This dApp can withdraw all your %1$s. | 这个应用可以提取你所有的 %1$s。 |     |     |     |
 | android, iOS | Connect | Connect | 连接  |     |     |     |
-| android, iOS | decode_transaction_failed | Transaction decoding failed, making it impossible to estimate asset changes. Be cautious and only sign transactions for dapps you trust. | 交易解析失败，无法估计资产变化，注意只给您信任的应用程序签名。 |     |     |     |
+| android, iOS | decode_transaction_failed | Transaction decoding failed, making it impossible to estimate asset changes. Be cautious and only sign transactions for dApps you trust. | 交易解析失败，无法估计资产变化，注意只给您信任的应用程序签名。 |     |     |     |
