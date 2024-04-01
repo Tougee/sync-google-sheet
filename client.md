@@ -1141,7 +1141,7 @@
 | iOS | Preparing | Preparing... | 正在准备... | 準備中... |     |     |
 | iOS | Preparing_progress | Preparing...(%@) | 备份中...（%@） | 準備中...(%@) |     |     |
 | android | preview_unavailable | Preview unavailable | 预览不可用 |     |     |     |
-| android | preview_unavailable_description | Unable to estimate asset changes. Please make sure you trust this dapp. | 无法预览资产变化。请确保你信任此 dApp。 |     |     |     |
+| android | preview_unavailable_description | Unable to estimate asset changes. Please make sure you trust this dApp. | 无法预览资产变化。请确保你信任此 dApp。 |     |     |     |
 | Desktop | previous_conversation | Previous conversation | 上一个会话 | 過去のチャットルーム |     |     |
 | android, iOS | price_expired | Price Expired | 报价已过期 |     |     |     |
 | android, iOS | Privacy | Privacy | 隐私  | プライバシー | Privasi | Privasi |
@@ -1856,3 +1856,10 @@
 | android, iOS | withdraw_all_of_token_warning | This dApp can withdraw all your %1$s. | 这个应用可以提取你所有的 %1$s。 |     |     |     |
 | android, iOS | Connect | Connect | 连接  |     |     |     |
 | android, iOS | decode_transaction_failed | Transaction decoding failed, making it impossible to estimate asset changes. Be cautious and only sign transactions for dApps you trust. | 交易解析失败，无法估计资产变化，注意只给您信任的应用程序签名。 |     |     |     |
+| android, iOS | web3_ensure_trust | Please ensure you trust this dapp before proceeding with the request. | 请确保您信任此应用程序。 |     |     |     |
+| android, iOS | web3_transaction_request | Transaction Request | 交易签名 |     |     |     |
+| android, iOS | web3_message_request | Message Request | 消息签名 |     |     |     |
+| android, iOS | web3_signing_message_success | The message has been signed and sent successfully, please return to dApp to continue. | 消息已签名并发送成功，请返回 dApp 继续操作。 |     |     |     |
+| android, iOS | web3_signing_transaction_success | The transaction has been signed and sent successfully, please return to dApp to continue. | 交易已签名并发送成功，请返回 dApp 继续操作。 |     |     |     |
+| android, iOS | web3_signing_data_success | The data has been signed and sent successfully, please return to dApp to continue. | 数据已签名并发送成功，请返回 dApp 继续操作。 |     |     |     |
+| android, iOS | web3_sending_success | Sending Success | 发送成功 |     |     |     |

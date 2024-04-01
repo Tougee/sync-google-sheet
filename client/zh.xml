@@ -1827,4 +1827,11 @@
   <string name="withdraw_all_of_token_warning" platform="android, iOS">这个应用可以提取你所有的 %1$s。</string>
   <string name="Connect" platform="android, iOS">连接</string>
   <string name="decode_transaction_failed" platform="android, iOS">交易解析失败，无法估计资产变化，注意只给您信任的应用程序签名。</string>
+  <string name="web3_ensure_trust" platform="android, iOS">请确保您信任此应用程序。</string>
+  <string name="web3_transaction_request" platform="android, iOS">交易签名</string>
+  <string name="web3_message_request" platform="android, iOS">消息签名</string>
+  <string name="web3_signing_message_success" platform="android, iOS">消息已签名并发送成功，请返回 dApp 继续操作。</string>
+  <string name="web3_signing_transaction_success" platform="android, iOS">交易已签名并发送成功，请返回 dApp 继续操作。</string>
+  <string name="web3_signing_data_success" platform="android, iOS">数据已签名并发送成功，请返回 dApp 继续操作。</string>
+  <string name="web3_sending_success" platform="android, iOS">发送成功</string>
 </resources>
