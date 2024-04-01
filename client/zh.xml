@@ -1834,4 +1834,5 @@
   <string name="web3_signing_transaction_success" platform="android, iOS">交易已签名并发送成功，请返回 dApp 继续操作。</string>
   <string name="web3_signing_data_success" platform="android, iOS">数据已签名并发送成功，请返回 dApp 继续操作。</string>
   <string name="web3_sending_success" platform="android, iOS">发送成功</string>
+  <string name="Sending" platform="android, iOS">正在发送</string>
 </resources>

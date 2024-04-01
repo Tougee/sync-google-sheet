@@ -1863,3 +1863,4 @@
 | android, iOS | web3_signing_transaction_success | The transaction has been signed and sent successfully, please return to dApp to continue. | 交易已签名并发送成功，请返回 dApp 继续操作。 |     |     |     |
 | android, iOS | web3_signing_data_success | The data has been signed and sent successfully, please return to dApp to continue. | 数据已签名并发送成功，请返回 dApp 继续操作。 |     |     |     |
 | android, iOS | web3_sending_success | Sending Success | 发送成功 |     |     |     |
+| android, iOS | Sending | Sending | 正在发送 |     |     |     |
