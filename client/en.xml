@@ -1847,7 +1847,7 @@
   <string name="unsigned_message" platform="android, iOS">UNSIGNED MESSAGE</string>
   <string name="web3_signing_success" platform="android, iOS">Signing Success</string>
   <string name="web3_signing_failed" platform="android, iOS">Signing Failed</string>
-  <string name="web3_send_signature_description" platform="android, iOS">Tap the send button to immediately broadcast the message or tap the discard button to discard the signed message.</string>
+  <string name="web3_send_signature_description" platform="android">Tap the send button to immediately broadcast the message or tap the discard button to discard the signed message.</string>
   <string name="estimated_balance_change" platform="android, iOS">Balance Change (estimate)</string>
   <string name="fee_selection" platform="android, iOS">Fee (%1$s)</string>
   <string name="preauthorize_amount" platform="android, iOS">Pre-authorize Amount</string>
