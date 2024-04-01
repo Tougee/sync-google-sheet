@@ -1441,7 +1441,7 @@
 | android, iOS | Sign_with_emergency_contact | Sign in with emergency contact | 通过紧急联系人登录 | 緊急連絡先でログイン | Log masuk dengan kenalan kecemasan | Masuk dengan kontak darurat |
 | android, iOS, Desktop | Sign_with_phone_number | Sign in with phone number | 通过手机号登录 | 電話番号でログイン | Log masuk dengan nombor telefon | Masuk dengan nomor telepon |
 | Desktop | sign_with_qrcode | Sign in with QR code | 通过二维码登录 | QRコードでログイン |     |     |
-| android, iOS | signature_request | Signature Request | 请求签名 |     |     |     |
+| android, iOS | signature_request | Signature Request | 签名确认 |     |     |     |
 | android | signature_request_warning | We cannot verify this signature request. Make sure you trust this app before signing this request. | 我们无法验证此请求。签名前请确认你信任此 App。 |     |     |     |
 | android | Silence_Notification | Silence Notification | 静音通知 | サイレント通知 |     |     |
 | android | Size | Size | 大小  | サイズ |     |     |
