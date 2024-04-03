@@ -1280,6 +1280,7 @@
   <string name="SEARCH_MESSAGES" platform="android">搜索消息</string>
   <string name="search_open_link" platform="iOS">打开链接：</string>
   <string name="search_placeholder_asset" platform="android, iOS">名称, 符号</string>
+  <string name="search_placeholder_address" platform="android, iOS">地址, 标签</string>
   <string name="search_placeholder_contact" platform="iOS">Mixin ID, 名称, 手机号码</string>
   <string name="search_placeholder_dapp" platform="android">名称, URL</string>
   <string name="search_placeholder_number" platform="android, iOS, Desktop">搜索 Mixin ID 或手机号码：</string>
