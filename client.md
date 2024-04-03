@@ -1300,7 +1300,7 @@
 | android | SEARCH_MESSAGES | SEARCH MESSAGES | 搜索消息 | メッセージを検索 | CARI MESEJ | PESAN |
 | iOS | search_open_link | Open Link:  | 打开链接： | リンクを開く: |     |     |
 | android, iOS | search_placeholder_asset | Name, Symbol | 名称, 符号 | 名前、シンボル |     |     |
-| android, iOS | search_placeholder_address | Label, Address | 地址, 标签 | ラベル、アドレス |     |     |
+| android, iOS | search_placeholder_address | Label, Address | 名称, 地址 | ラベル、アドレス |     |     |
 | iOS | search_placeholder_contact | Mixin ID, Name, Phone number | Mixin ID, 名称, 手机号码 | Mixin ID, 名前, 電話番号 |     |     |
 | android | search_placeholder_dapp | Name, URL | 名称, URL |     |     |     |
 | android, iOS, Desktop | search_placeholder_number | Search Mixin ID or phone number:  | 搜索 Mixin ID 或手机号码： | Mixin ID または電話番号を検索 |     |     |
