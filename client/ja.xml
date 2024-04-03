@@ -1042,7 +1042,7 @@
   <string name="search_hint" platform="android">資産, 連絡先とメッセージ</string>
   <string name="SEARCH_MESSAGES" platform="android">メッセージを検索</string>
   <string name="search_open_link" platform="iOS">リンクを開く:</string>
-  <string name="search_placeholder_asset" platform="android, iOS">名前、シンボル</string>
+  <string name="search_placeholder_asset" platform="android, iOS">アドレス</string>
   <string name="search_placeholder_address" platform="android, iOS">名前、シンボル</string>
   <string name="search_placeholder_contact" platform="iOS">Mixin ID, 名前, 電話番号</string>
   <string name="search_placeholder_number" platform="android, iOS, Desktop">Mixin ID または電話番号を検索</string>
