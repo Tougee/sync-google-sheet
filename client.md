@@ -1866,3 +1866,4 @@
 | android, iOS | sending_success | Sending Success | 发送成功 |     |     |     |
 | android, iOS | Sending | Sending | 正在发送 |     |     |     |
 | android, iOS | Sending_Failed | Sending Failed | 发送失败 |     |     |     |
+| android, iOS | copy_address | Copy Address | 复制地址 |     |     |     |

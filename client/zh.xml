@@ -1837,4 +1837,5 @@
   <string name="sending_success" platform="android, iOS">发送成功</string>
   <string name="Sending" platform="android, iOS">正在发送</string>
   <string name="Sending_Failed" platform="android, iOS">发送失败</string>
+  <string name="copy_address" platform="android, iOS">复制地址</string>
 </resources>
