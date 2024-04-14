@@ -1867,4 +1867,5 @@
   <string name="Sending_Failed" platform="android, iOS">Sending Failed</string>
   <string name="copy_address" platform="android, iOS">Copy Address</string>
   <string name="Browser" platform="android, iOS">Browser</string>
+  <string name="web3_deposit_description" platform="android, iOS">Use this address for receiving tokens on Ethereum, Polygon, BSC networks</string>
 </resources>

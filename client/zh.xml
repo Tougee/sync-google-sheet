@@ -1839,4 +1839,5 @@
   <string name="Sending_Failed" platform="android, iOS">发送失败</string>
   <string name="copy_address" platform="android, iOS">复制地址</string>
   <string name="Browser" platform="android, iOS">浏览器</string>
+  <string name="web3_deposit_description" platform="android, iOS">使用此地址在Ethereum、Polygon、BSC网络上接收代币</string>
 </resources>
