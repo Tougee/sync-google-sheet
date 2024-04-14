@@ -1866,4 +1866,5 @@
   <string name="Sending" platform="android, iOS">Sending</string>
   <string name="Sending_Failed" platform="android, iOS">Sending Failed</string>
   <string name="copy_address" platform="android, iOS">Copy Address</string>
+  <string name="Browser" platform="android, iOS">Browser</string>
 </resources>
