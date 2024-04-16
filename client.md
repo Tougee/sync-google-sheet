@@ -1871,3 +1871,4 @@
 | android, iOS | web3_deposit_description | Use this address for receiving tokens on Ethereum, Polygon, BSC networks | 使用此地址在 Ethereum、Polygon、BSC 网络上接收代币 |     |     |     |
 | android, iOS | web3_no_asset | Don’t Have Assets | 没有资产 |     |     |     |
 | android, iOS | Collectibles | Collectibles | 藏品  |     |     |     |
+| android, iOS | no_collectibles | NO Collectibles | 没有藏品 |     |     |     |
