@@ -1871,4 +1871,5 @@
   <string name="web3_no_asset" platform="android, iOS">Don’t Have Assets</string>
   <string name="Collectibles" platform="android, iOS">Collectibles</string>
   <string name="no_collectibles" platform="android, iOS">NO COLLECTIBLES</string>
+  <string name="From_Mixin_Wallet" platform="android, iOS">From Mixin Wallet</string>
 </resources>
