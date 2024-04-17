@@ -1301,7 +1301,7 @@
   <string name="search_placeholder_asset" platform="android, iOS">Name, Symbol</string>
   <string name="search_placeholder_address" platform="android, iOS">Label, Address</string>
   <string name="search_placeholder_contact" platform="iOS">Mixin ID, Name, Phone number</string>
-  <string name="search_placeholder_dapp" platform="android">Name, URL</string>
+  <string name="search_placeholder_dapp" platform="android, iOS">Name, URL</string>
   <string name="search_placeholder_number" platform="android, iOS, Desktop">Search Mixin ID or phone number: </string>
   <string name="search_related_message" platform="android, iOS, Desktop">%1$d related message</string>
   <string name="search_related_message.count" platform="android, iOS, Desktop">%1$d related messages</string>

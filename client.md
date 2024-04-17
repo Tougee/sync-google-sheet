@@ -1302,7 +1302,7 @@
 | android, iOS | search_placeholder_asset | Name, Symbol | 名称, 符号 | 名前、シンボル |     |     |
 | android, iOS | search_placeholder_address | Label, Address | 名称, 地址 | ラベル、アドレス |     |     |
 | iOS | search_placeholder_contact | Mixin ID, Name, Phone number | Mixin ID, 名称, 手机号码 | Mixin ID, 名前, 電話番号 |     |     |
-| android | search_placeholder_dapp | Name, URL | 名称, URL |     |     |     |
+| android, iOS | search_placeholder_dapp | Name, URL | 名称, URL |     |     |     |
 | android, iOS, Desktop | search_placeholder_number | Search Mixin ID or phone number:  | 搜索 Mixin ID 或手机号码： | Mixin ID または電話番号を検索 |     |     |
 | android, iOS, Desktop | search_related_message | %1$d related message | %1$d 条相关的消息 | %1$d個の関連するメッセージ |     |     |
 | android, iOS, Desktop | search_related_message.count | %1$d related messages | %1$d 条相关的消息 | %1$d個の関連するメッセージ | %1$d mesej berkaitan | %1$d pesan terkait |

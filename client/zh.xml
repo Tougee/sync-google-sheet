@@ -1282,7 +1282,7 @@
   <string name="search_placeholder_asset" platform="android, iOS">名称, 符号</string>
   <string name="search_placeholder_address" platform="android, iOS">名称, 地址</string>
   <string name="search_placeholder_contact" platform="iOS">Mixin ID, 名称, 手机号码</string>
-  <string name="search_placeholder_dapp" platform="android">名称, URL</string>
+  <string name="search_placeholder_dapp" platform="android, iOS">名称, URL</string>
   <string name="search_placeholder_number" platform="android, iOS, Desktop">搜索 Mixin ID 或手机号码：</string>
   <string name="search_related_message" platform="android, iOS, Desktop">%1$d 条相关的消息</string>
   <string name="search_related_message.count" platform="android, iOS, Desktop">%1$d 条相关的消息</string>
