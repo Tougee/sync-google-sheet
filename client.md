@@ -1873,5 +1873,5 @@
 | android, iOS | Collectibles | Collectibles | 藏品  |     |     |     |
 | android, iOS | no_collectibles | NO COLLECTIBLES | 没有藏品 |     |     |     |
 | android, iOS | From_Mixin_Wallet | From Mixin Wallet | 从 Mixin 钱包划转 |     |     |     |
-|     | From_Address | From Address | 从外部转入 |     |     |     |
-|     |     | From another wallet or exchange | 从其他钱包或交易所转入 |     |     |     |
+| android, iOS | From_Address | From Address | 从外部转入 |     |     |     |
+| android, iOS | receive_from_address_description | From another wallet or exchange | 从其他钱包或交易所转入 |     |     |     |
