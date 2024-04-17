@@ -1872,4 +1872,6 @@
   <string name="Collectibles" platform="android, iOS">Collectibles</string>
   <string name="no_collectibles" platform="android, iOS">NO COLLECTIBLES</string>
   <string name="From_Mixin_Wallet" platform="android, iOS">From Mixin Wallet</string>
+  <string name="From_Address" platform="">From Address</string>
+  <string name="" platform="">From another wallet or exchange</string>
 </resources>

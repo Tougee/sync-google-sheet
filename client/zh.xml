@@ -1843,4 +1843,7 @@
   <string name="web3_no_asset" platform="android, iOS">没有资产</string>
   <string name="Collectibles" platform="android, iOS">藏品</string>
   <string name="no_collectibles" platform="android, iOS">没有藏品</string>
+  <string name="From_Mixin_Wallet" platform="android, iOS">从 Mixin 钱包划转</string>
+  <string name="From_Address" platform="">从外部转入</string>
+  <string name="" platform="">从其他钱包或交易所转入</string>
 </resources>

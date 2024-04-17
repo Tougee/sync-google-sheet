@@ -1872,4 +1872,6 @@
 | android, iOS | web3_no_asset | Don’t Have Assets | 没有资产 |     |     |     |
 | android, iOS | Collectibles | Collectibles | 藏品  |     |     |     |
 | android, iOS | no_collectibles | NO COLLECTIBLES | 没有藏品 |     |     |     |
-| android, iOS | From_Mixin_Wallet | From Mixin Wallet |     |     |     |     |
+| android, iOS | From_Mixin_Wallet | From Mixin Wallet | 从 Mixin 钱包划转 |     |     |     |
+|     | From_Address | From Address | 从外部转入 |     |     |     |
+|     |     | From another wallet or exchange | 从其他钱包或交易所转入 |     |     |     |
