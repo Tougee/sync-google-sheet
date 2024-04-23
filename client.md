@@ -1876,3 +1876,8 @@
 | android, iOS | From_Address | From Address | 从外部转入 |     |     |     |
 | android, iOS | receive_from_address_description | From another wallet or exchange | 从其他钱包或交易所转入 |     |     |     |
 | android, iOS | insufficient_gas | You do not have enough %1$s in your account to pay for network fees | 您的账户中没有足够的 %1$s 来支付网络费用 |     |     |     |
+|     | Review |     | 预览  |     |     |     |
+|     | Max |     | 最大值 |     |     |     |
+|     | hint_address |     | 输入钱包地址 |     |     |     |
+|     | Accounts | Accounts | 账户  |     |     |     |
+|     | to_mixin_wallet |     | 划转到 Mixin 钱包 |     |     |     |

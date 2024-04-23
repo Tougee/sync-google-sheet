@@ -1847,4 +1847,9 @@
   <string name="From_Address" platform="android, iOS">从外部转入</string>
   <string name="receive_from_address_description" platform="android, iOS">从其他钱包或交易所转入</string>
   <string name="insufficient_gas" platform="android, iOS">您的账户中没有足够的 %1$s 来支付网络费用</string>
+  <string name="Review" platform="">预览</string>
+  <string name="Max" platform="">最大值</string>
+  <string name="hint_address" platform="">输入钱包地址</string>
+  <string name="Accounts" platform="">账户</string>
+  <string name="to_mixin_wallet" platform="">划转到 Mixin 钱包</string>
 </resources>

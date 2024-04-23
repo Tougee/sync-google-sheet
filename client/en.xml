@@ -1875,4 +1875,5 @@
   <string name="From_Address" platform="android, iOS">From Address</string>
   <string name="receive_from_address_description" platform="android, iOS">From another wallet or exchange</string>
   <string name="insufficient_gas" platform="android, iOS">You do not have enough %1$s in your account to pay for network fees</string>
+  <string name="Accounts" platform="">Accounts</string>
 </resources>
