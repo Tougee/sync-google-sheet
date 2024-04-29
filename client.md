@@ -1872,7 +1872,7 @@
 | android, iOS | web3_no_asset | Don’t Have Assets | 没有资产 |     |     |     |
 | android, iOS | Collectibles | Collectibles | 藏品  |     |     |     |
 | android, iOS | no_collectibles | NO COLLECTIBLES | 没有藏品 |     |     |     |
-| android, iOS | From_Mixin_Wallet | From Mixin Wallet | 从 Mixin 钱包划转 |     |     |     |
+| android, iOS | From_Mixin_Wallet | From Mixin Wallet | 从 Mixin 钱包转入 |     |     |     |
 | android, iOS | From_Address | From Address | 从外部转入 |     |     |     |
 | android, iOS | receive_from_address_description | From another wallet or exchange | 从其他钱包或交易所转入 |     |     |     |
 | android, iOS | insufficient_gas | You do not have enough %1$s in your account to pay for network fees | 您的账户中没有足够的 %1$s 来支付网络费用 |     |     |     |
