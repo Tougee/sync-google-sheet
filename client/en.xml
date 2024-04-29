@@ -1880,7 +1880,6 @@
   <string name="hint_address" platform="android, iOS">Enter a wallet addres</string>
   <string name="Accounts" platform="android, iOS">Accounts</string>
   <string name="to_mixin_wallet" platform="android, iOS">To my Mixin Wallet</string>
-  <string name="insufficient_gas" platform="android, iOS">You do not have enough %1$s in your account to pay for network fees</string>
   <string name="From_mixin_wallet" platform="android, iOS">From Mixin Wallet</string>
   <string name="From_address" platform="android, iOS">From address</string>
   <string name="From_address_desc" platform="android, iOS">From another wallet or exchange</string>
