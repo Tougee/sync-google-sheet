@@ -1873,7 +1873,7 @@
 | android, iOS | Collectibles | Collectibles | 藏品  |     |     |     |
 | android, iOS | no_collectibles | NO COLLECTIBLES | 没有藏品 |     |     |     |
 | android, iOS | From_Mixin_Wallet | From Mixin Wallet | 从 Mixin 钱包转入 |     |     |     |
-| android, iOS | From_Address | From Address | 从外部转入 |     |     |     |
+| android, iOS | From_Address | From address | 从外部转入 |     |     |     |
 | android, iOS | receive_from_address_description | From another wallet or exchange | 从其他钱包或交易所转入 |     |     |     |
 | android, iOS | insufficient_gas | You do not have enough %1$s in your account to pay for network fees | 您的账户中没有足够的 %1$s 来支付网络费用 |     |     |     |
 | android, iOS | Review | Review | 预览  |     |     |     |
@@ -1881,6 +1881,3 @@
 | android, iOS | hint_address | Enter a wallet addres | 输入钱包地址 |     |     |     |
 | android, iOS | Accounts | Accounts | 账户  |     |     |     |
 | android, iOS | to_mixin_wallet | To my Mixin Wallet | 划转到 Mixin 钱包 |     |     |     |
-| android, iOS | From_mixin_wallet | From Mixin Wallet | 从 Mixin 钱包转入 |     |     |     |
-| android, iOS | From_address | From address | 从地址转入 |     |     |     |
-| android, iOS | From_address_desc | From another wallet or exchange | 从其他钱包或交易所转入 |     |     |     |
