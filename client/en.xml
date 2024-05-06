@@ -1877,7 +1877,7 @@
   <string name="insufficient_gas" platform="android, iOS">You do not have enough %1$s in your account to pay for network fees</string>
   <string name="Review" platform="android, iOS">Review</string>
   <string name="Max" platform="android, iOS">Max</string>
-  <string name="hint_address" platform="android, iOS">Enter a wallet addres</string>
+  <string name="hint_address" platform="android, iOS">Enter a wallet address</string>
   <string name="Accounts" platform="android, iOS">Accounts</string>
   <string name="to_mixin_wallet" platform="android, iOS">To my Mixin Wallet</string>
   <string name="Invalid_Address" platform="android, iOS">Invalid Address</string>

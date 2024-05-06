@@ -1878,7 +1878,7 @@
 | android, iOS | insufficient_gas | You do not have enough %1$s in your account to pay for network fees | 您的账户中没有足够的 %1$s 来支付网络费用 |     |     |     |
 | android, iOS | Review | Review | 预览  |     |     |     |
 | android, iOS | Max | Max | 最大值 |     |     |     |
-| android, iOS | hint_address | Enter a wallet addres | 输入钱包地址 |     |     |     |
+| android, iOS | hint_address | Enter a wallet address | 输入钱包地址 |     |     |     |
 | android, iOS | Accounts | Accounts | 账户  |     |     |     |
 | android, iOS | to_mixin_wallet | To my Mixin Wallet | 划转到 Mixin 钱包 |     |     |     |
 | android, iOS | Invalid_Address | Invalid Address | 无效的地址 |     |     |     |
