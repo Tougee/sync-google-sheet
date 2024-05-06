@@ -1853,4 +1853,5 @@
   <string name="Accounts" platform="android, iOS">账户</string>
   <string name="to_mixin_wallet" platform="android, iOS">划转到 Mixin 钱包</string>
   <string name="Invalid_Address" platform="android, iOS">无效的地址</string>
+  <string name="" platform="android, iOS">该签名请求来自 Mixin Messenger。</string>
 </resources>
