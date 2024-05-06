@@ -1882,4 +1882,4 @@
 | android, iOS | Accounts | Accounts | 账户  |     |     |     |
 | android, iOS | to_mixin_wallet | To my Mixin Wallet | 划转到 Mixin 钱包 |     |     |     |
 | android, iOS | Invalid_Address | Invalid Address | 无效的地址 |     |     |     |
-| android, iOS |     |     | 该签名请求来自 Mixin Messenger。 |     |     |     |
+| android, iOS | web3_request_from_mixin |     | 该签名请求来自 Mixin Messenger。 |     |     |     |
