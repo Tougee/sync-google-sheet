@@ -1881,4 +1881,5 @@
   <string name="Accounts" platform="android, iOS">Accounts</string>
   <string name="to_mixin_wallet" platform="android, iOS">To my Mixin Wallet</string>
   <string name="Invalid_Address" platform="android, iOS">Invalid Address</string>
+  <string name="web3_request_from_mixin" platform="android, iOS">This signature request is issued by Mixin Messenger.</string>
 </resources>
