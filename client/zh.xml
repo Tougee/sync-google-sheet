@@ -1854,9 +1854,9 @@
   <string name="to_mixin_wallet" platform="android, iOS">划转到 Mixin 钱包</string>
   <string name="Invalid_Address" platform="android, iOS">无效的地址</string>
   <string name="web3_request_from_mixin" platform="android, iOS">该签名请求来自 Mixin Messenger。</string>
-  <string name="Collectibles" platform="android, iOS">收藏</string>
   <string name="content_collection" platform="android, iOS">[藏品]</string>
-  <string name="NO_COLLECTIBLES" platform="android, iOS">没有藏品</string>
+  <string name="HASH" platform="android, iOS, Desktop">HASH</string>
+  <string name="ID" platform="android, iOS, Desktop">ID</string>
   <string name="Collection" platform="android, iOS, Desktop">合集</string>
   <string name="NFT_TOKEN" platform="android, iOS, Desktop">NFT 代币</string>
   <string name="Collectible" platform="android, iOS, Desktop">藏品</string>
