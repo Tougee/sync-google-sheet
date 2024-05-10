@@ -1891,6 +1891,6 @@
   <string name="NFT_TOKEN" platform="android, iOS, Desktop">NFT TOKEN</string>
   <string name="Collectible" platform="android, iOS, Desktop">Collectible</string>
   <string name="search_placeholder_inscription" platform="android, iOS">Search name</string>
-  <string name="alert_key_contact_inscription_message" platform="android, iOS">sent you a inscription</string>
+  <string name="alert_key_contact_collectible_message" platform="android, iOS">sent you a inscription</string>
   <string name="inscription_Hash" platform="android, iOS">Inscription Hash</string>
 </resources>
