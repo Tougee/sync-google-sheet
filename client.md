@@ -1883,8 +1883,8 @@
 | android, iOS | to_mixin_wallet | To my Mixin Wallet | 划转到 Mixin 钱包 |     |     |     |
 | android, iOS | Invalid_Address | Invalid Address | 无效的地址 |     |     |     |
 | android, iOS | web3_request_from_mixin | This signature request is issued by Mixin Messenger. | 该签名请求来自 Mixin Messenger。 |     |     |     |
-| android, iOS | content_collection | [Collectible] | [藏品] |     |     |     |
-| android, iOS, Desktop | HASH | HASH | HASH |     |     |     |
+| android, iOS | content_collectible | [Collectible] | [藏品] |     |     |     |
+| android, iOS, Desktop | HASH | HASH | 哈希  |     |     |     |
 | android, iOS, Desktop | ID  | ID  | ID  |     |     |     |
 | android, iOS, Desktop | Collection | Collection | 合集  |     |     |     |
 | android, iOS, Desktop | NFT_TOKEN | NFT TOKEN | NFT 代币 |     |     |     |
@@ -1892,3 +1892,4 @@
 | android, iOS | search_placeholder_inscription | Search name | 搜索名称 |     |     |     |
 | android, iOS | alert_key_contact_collectible_message | sent you an inscription | 发送一个藏品 |     |     |     |
 | android, iOS | inscription_Hash | Inscription Hash | 藏品 Hash |     |     |     |
+|     | x   |     |     |     |     |     |
