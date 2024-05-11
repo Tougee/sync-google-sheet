@@ -1862,5 +1862,5 @@
   <string name="Collectible" platform="android, iOS, Desktop">藏品</string>
   <string name="search_placeholder_inscription" platform="android, iOS">搜索名称</string>
   <string name="alert_key_contact_collectible_message" platform="android, iOS">发送一个藏品</string>
-  <string name="inscription_Hash" platform="android, iOS">藏品 Hash</string>
+  <string name="inscription_Hash" platform="android, iOS">藏品哈希</string>
 </resources>

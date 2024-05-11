@@ -1891,5 +1891,4 @@
 | android, iOS, Desktop | Collectible | Collectible | 藏品  |     |     |     |
 | android, iOS | search_placeholder_inscription | Search name | 搜索名称 |     |     |     |
 | android, iOS | alert_key_contact_collectible_message | sent you an inscription | 发送一个藏品 |     |     |     |
-| android, iOS | inscription_Hash | Inscription Hash | 藏品 Hash |     |     |     |
-|     | x   |     |     |     |     |     |
+| android, iOS | inscription_Hash | Inscription Hash | 藏品哈希 |     |     |     |
