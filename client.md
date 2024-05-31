@@ -1909,7 +1909,12 @@
 | android,iOS | slippage_custom | Custom | 自定义 |     |     |     |
 | android,iOS | slippage_custom_desc | Trades will be executed according to the slippage you set | 将按照您设置的滑点执行交易 |     |     |     |
 | android,iOS | slippage_high_warning | Your transaction may be frontrun and result in an unfavourable trade | 您的交易可能会抢先交易并导致不利的交易 |     |     |     |
-| android,iOS |     |     |     |     |     |     |
-| android,iOS |     |     |     |     |     |     |
-| android,iOS |     |     |     |     |     |     |
-| android,iOS |     |     |     |     |     |     |
+| android,iOS | slippage_invalid | Slippage cannot be greater than 50% and cannot be less than 0.1% | 滑点不可大于 50% 且不可小于 0.1% |     |     |     |
+| android,iOS | select_token | Select Token | 选择代币 |     |     |     |
+| android,iOS | Contract | Contract | 合约  |     |     |     |
+| android,iOS | swap_desc | %1$s will be deposited into your wallet once the transaction is complete | %1$s 将会在交易完成后存入您的钱包 |     |     |     |
+| android,iOS | view_on_explorer | View on Explorer | 在浏览器查看 |     |     |     |
+| android,iOS | search_swap_token | Search by token or address | 按代币或合约地址搜索 |     |     |     |
+| android,iOS | Slippage_tolerance_exceeded | Slippage tolerance exceeded | 超出滑点范围 |     |     |     |
+| android,iOS | balance_max | MAX | 最大  |     |     |     |
+| android,iOS | balance_half | HALF | 取半  |     |     |     |

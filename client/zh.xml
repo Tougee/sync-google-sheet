@@ -1880,4 +1880,13 @@
   <string name="slippage_custom" platform="android,iOS">自定义</string>
   <string name="slippage_custom_desc" platform="android,iOS">将按照您设置的滑点执行交易</string>
   <string name="slippage_high_warning" platform="android,iOS">您的交易可能会抢先交易并导致不利的交易</string>
+  <string name="slippage_invalid" platform="android,iOS">滑点不可大于 50% 且不可小于 0.1%</string>
+  <string name="select_token" platform="android,iOS">选择代币</string>
+  <string name="Contract" platform="android,iOS">合约</string>
+  <string name="swap_desc" platform="android,iOS">%1$s 将会在交易完成后存入您的钱包</string>
+  <string name="view_on_explorer" platform="android,iOS">在浏览器查看</string>
+  <string name="search_swap_token" platform="android,iOS">按代币或合约地址搜索</string>
+  <string name="Slippage_tolerance_exceeded" platform="android,iOS">超出滑点范围</string>
+  <string name="balance_max" platform="android,iOS">最大</string>
+  <string name="balance_half" platform="android,iOS">取半</string>
 </resources>
