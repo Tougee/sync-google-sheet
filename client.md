@@ -1893,3 +1893,23 @@
 | android, iOS | search_placeholder_inscription | Name | 名称  |     |     |     |
 | android, iOS | alert_key_contact_collectible_message | sent you an inscription | 发送一个藏品 |     |     |     |
 | android, iOS | inscription_Hash | Inscription Hash | 藏品哈希 |     |     |     |
+| android,iOS | Swap | Swap | 闪兑  |     |     |     |
+| android,iOS | Swapping | Swapping | 兑换中 |     |     |     |
+| android,iOS | Pay | Pay | 支付  |     |     |     |
+| android,iOS | Received | received | 收到  |     |     |     |
+| android,iOS | Review_Order | Review Order | 预览订单 |     |     |     |
+| android,iOS | View_Transaction | View Transaction | 查看区块链浏览器 |     |     |     |
+| android,iOS | Confirming_Transaction | Confirming Transaction | 正在确认交易 |     |     |     |
+| android,iOS | Transaction_Success | Transaction Success | 交易成功 |     |     |     |
+| android,iOS | Transaction_Failed | Transaction Failed | 交易失败 |     |     |     |
+| android,iOS | Best_price | Best price | 最优价格 |     |     |     |
+| android,iOS | Slippage | Slippage | 滑点  |     |     |     |
+| android,iOS | slippage_auto | Auto | 自动  |     |     |     |
+| android,iOS | slippage_auto_desc | Recommends the right slippage for different currencies to help you trade successfully | 根据不同币种推荐合适的滑点，帮助你交易成功 |     |     |     |
+| android,iOS | slippage_custom | Custom | 自定义 |     |     |     |
+| android,iOS | slippage_custom_desc | Trades will be executed according to the slippage you set | 将按照您设置的滑点执行交易 |     |     |     |
+| android,iOS | slippage_high_warning | Your transaction may be frontrun and result in an unfavourable trade | 您的交易可能会抢先交易并导致不利的交易 |     |     |     |
+| android,iOS |     |     |     |     |     |     |
+| android,iOS |     |     |     |     |     |     |
+| android,iOS |     |     |     |     |     |     |
+| android,iOS |     |     |     |     |     |     |

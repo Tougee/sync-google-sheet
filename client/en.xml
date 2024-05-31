@@ -1892,4 +1892,20 @@
   <string name="search_placeholder_inscription" platform="android, iOS">Name</string>
   <string name="alert_key_contact_collectible_message" platform="android, iOS">sent you an inscription</string>
   <string name="inscription_Hash" platform="android, iOS">Inscription Hash</string>
+  <string name="Swap" platform="android,iOS">Swap</string>
+  <string name="Swapping" platform="android,iOS">Swapping</string>
+  <string name="Pay" platform="android,iOS">Pay</string>
+  <string name="Received" platform="android,iOS">received</string>
+  <string name="Review_Order" platform="android,iOS">Review Order</string>
+  <string name="View_Transaction" platform="android,iOS">View Transaction</string>
+  <string name="Confirming_Transaction" platform="android,iOS">Confirming Transaction</string>
+  <string name="Transaction_Success" platform="android,iOS">Transaction Success</string>
+  <string name="Transaction_Failed" platform="android,iOS">Transaction Failed</string>
+  <string name="Best_price" platform="android,iOS">Best price</string>
+  <string name="Slippage" platform="android,iOS">Slippage</string>
+  <string name="slippage_auto" platform="android,iOS">Auto</string>
+  <string name="slippage_auto_desc" platform="android,iOS">Recommends the right slippage for different currencies to help you trade successfully</string>
+  <string name="slippage_custom" platform="android,iOS">Custom</string>
+  <string name="slippage_custom_desc" platform="android,iOS">Trades will be executed according to the slippage you set</string>
+  <string name="slippage_high_warning" platform="android,iOS">Your transaction may be frontrun and result in an unfavourable trade</string>
 </resources>
