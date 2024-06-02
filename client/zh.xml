@@ -525,7 +525,7 @@
   <string name="divide" platform="android">、</string>
   <string name="Documents" platform="android">文档</string>
   <string name="Done" platform="android, iOS, Desktop">完成</string>
-  <string name="Dont_have_assets" platform="android,iOS">没有资产？</string>
+  <string name="Dont_have_assets" platform="android,iOS">没有资产</string>
   <string name="download" platform="Desktop">下载</string>
   <string name="download_link" platform="Desktop">下载链接：</string>
   <string name="draft" platform="Desktop">草稿</string>
