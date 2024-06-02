@@ -535,7 +535,7 @@
 | android | divide | ,   | 、   | ,   | ,   | ,   |
 | android | Documents | Documents | 文档  | ドキュメント | Dokumen | Dokumen |
 | android, iOS, Desktop | Done | Done | 完成  | 完了  | Selesai | Selesai |
-| android,iOS | Dont_have_assets | Don't have assets? | 没有资产？ |     |     |     |
+| android,iOS | Dont_have_assets | No assets | 没有资产？ |     |     |     |
 | Desktop | download | Download | 下载  | ダウンロード |     |     |
 | Desktop | download_link | Download Link:  | 下载链接： | ダウンロードリンク: |     |     |
 | Desktop | draft | Draft | 草稿  |     |     |     |

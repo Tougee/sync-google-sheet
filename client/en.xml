@@ -534,7 +534,7 @@
   <string name="divide" platform="android">, </string>
   <string name="Documents" platform="android">Documents</string>
   <string name="Done" platform="android, iOS, Desktop">Done</string>
-  <string name="Dont_have_assets" platform="android,iOS">Don't have assets?</string>
+  <string name="Dont_have_assets" platform="android,iOS">No assets</string>
   <string name="download" platform="Desktop">Download</string>
   <string name="download_link" platform="Desktop">Download Link: </string>
   <string name="draft" platform="Desktop">Draft</string>
