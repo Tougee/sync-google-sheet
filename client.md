@@ -1869,7 +1869,7 @@
 | android, iOS | copy_address | Copy Address | 复制地址 |     |     |     |
 | android, iOS | Browser | Browser | 浏览器 |     |     |     |
 | android, iOS | web3_deposit_description_evm | Use this address for receiving tokens on Ethereum, Polygon, BSC networks | 使用此地址在 Ethereum、Polygon、BSC 网络上接收代币 |     |     |     |
-| android, iOS | web3_deposit_description_solana | Use this address for receiving tokens on Ethereum, Polygon, BSC networks |     |     |     |     |
+| android, iOS | web3_deposit_description_solana | Use this address for receiving tokens on Solana network | 使用此地址在 Solana 网络上接收代币 |     |     |     |
 | android, iOS | web3_no_asset | Don’t Have Assets | 没有资产 |     |     |     |
 | android, iOS, Desktop | Collectibles | Collectibles | 藏品  |     |     |     |
 | android, iOS | no_collectibles | NO COLLECTIBLES | 没有藏品 |     |     |     |
