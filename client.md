@@ -1935,9 +1935,9 @@
 | android,iOS | web3_trade | Trade | 交易  |     |     |     |
 | android,iOS | web3_unstake | Unstake | 解押  |     |     |     |
 | android,iOS | web3_withdraw | Withdraw | 提现  |     |     |     |
-| android,iOS | web3_nft_mint | Nft_mint | NFT铸造 |     |     |     |
-| android,iOS | web3_nft_transfer | Nft_transfer | NFT转移 |     |     |     |
-| android,iOS | web3_nft_burn | Nft_burn | NFT燃烧 |     |     |     |
+| android,iOS | web3_nft_mint | NFT mint | NFT铸造 |     |     |     |
+| android,iOS | web3_nft_transfer | NFT transfer | NFT转移 |     |     |     |
+| android,iOS | web3_nft_burn | NFT burn | NFT燃烧 |     |     |     |
 | android,iOS | web3_unknown | Unknown | 未知  |     |     |     |
 | android,iOS | Release | Release | 分解  |     |     |     |
 | android,iOS | inscription_releasing | Releasing | 分解中 |     |     |     |

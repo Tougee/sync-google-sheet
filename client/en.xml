@@ -1934,9 +1934,9 @@
   <string name="web3_trade" platform="android,iOS">Trade</string>
   <string name="web3_unstake" platform="android,iOS">Unstake</string>
   <string name="web3_withdraw" platform="android,iOS">Withdraw</string>
-  <string name="web3_nft_mint" platform="android,iOS">Nft_mint</string>
-  <string name="web3_nft_transfer" platform="android,iOS">Nft_transfer</string>
-  <string name="web3_nft_burn" platform="android,iOS">Nft_burn</string>
+  <string name="web3_nft_mint" platform="android,iOS">NFT mint</string>
+  <string name="web3_nft_transfer" platform="android,iOS">NFT transfer</string>
+  <string name="web3_nft_burn" platform="android,iOS">NFT burn</string>
   <string name="web3_unknown" platform="android,iOS">Unknown</string>
   <string name="Release" platform="android,iOS">Release</string>
   <string name="inscription_releasing" platform="android,iOS">Releasing</string>
