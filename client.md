@@ -1919,3 +1919,33 @@
 | android,iOS | Slippage_tolerance_exceeded | Slippage tolerance exceeded | 超出滑点范围 |     |     |     |
 | android,iOS | balance_max | MAX | 最大  |     |     |     |
 | android,iOS | balance_half | HALF | 取半  |     |     |     |
+| android,iOS | web3_approve: 批准 |     |     |     |     |     |
+| android,iOS | web3_borrow: 借款 |     |     |     |     |     |
+| android,iOS | web3_burn: 燃烧 |     |     |     |     |     |
+| android,iOS | web3_cancel: 取消 |     |     |     |     |     |
+| android,iOS | web3_claim: 认领 |     |     |     |     |     |
+| android,iOS | web3_deploy: 部署 |     |     |     |     |     |
+| android,iOS | web3_deposit: 存款 |     |     |     |     |     |
+| android,iOS | web3_execute: 执行 |     |     |     |     |     |
+| android,iOS | web3_mint: 铸造 |     |     |     |     |     |
+| android,iOS | web3_receive: 接收 |     |     |     |     |     |
+| android,iOS | web3_repay: 还款 |     |     |     |     |     |
+| android,iOS | web3_send: 发送 |     |     |     |     |     |
+| android,iOS | web3_stake: 质押 |     |     |     |     |     |
+| android,iOS | web3_trade: 交易 |     |     |     |     |     |
+| android,iOS | web3_unstake: 解押 |     |     |     |     |     |
+| android,iOS | web3_withdraw: 提现 |     |     |     |     |     |
+| android,iOS | web3_nft_mint: NFT铸造 |     |     |     |     |     |
+| android,iOS | web3_nft_transfer: NFT转移 |     |     |     |     |     |
+| android,iOS | web3_nft_burn: NFT燃烧 |     |     |     |     |     |
+| android,iOS | web3_unknown: 未知 |     |     |     |     |     |
+| android,iOS | Release: 分解 |     |     |     |     |     |
+| android,iOS | inscription_releasing: 分解中 |     |     |     |     |     |
+| android,iOS | inscription_releasing_description: 铭文正在分解中，请稍候！ |     |     |     |     |     |
+| android,iOS | inscription_release_success: 分解成功 |     |     |     |     |     |
+| android,iOS | inscription_release_failed: 分解失败 |     |     |     |     |     |
+| android,iOS | inscription_released_description: 收藏品分解成功，点击查看代币。 |     |     |     |     |     |
+| android,iOS | inscription_release_confirmation: 分解收藏品 |     |     |     |     |     |
+| android,iOS | inscription_release_hint: 分解收藏品可以立刻获得相应的代币，代币可转账、交易或重新铸造收藏品。 |     |     |     |     |     |
+| android,iOS | inscription_not_found: 藏品不存在 |     |     |     |     |     |
+| android,iOS | Token: Token |     |     |     |     |     |
