@@ -1890,4 +1890,34 @@
   <string name="Slippage_tolerance_exceeded" platform="android,iOS">超出滑点范围</string>
   <string name="balance_max" platform="android,iOS">最大</string>
   <string name="balance_half" platform="android,iOS">取半</string>
+  <string name="web3_approve" platform="android,iOS">批准</string>
+  <string name="web3_borrow" platform="android,iOS">借款</string>
+  <string name="web3_burn" platform="android,iOS">燃烧</string>
+  <string name="web3_cancel" platform="android,iOS">取消</string>
+  <string name="web3_claim" platform="android,iOS">认领</string>
+  <string name="web3_deploy" platform="android,iOS">部署</string>
+  <string name="web3_deposit" platform="android,iOS">存款</string>
+  <string name="web3_execute" platform="android,iOS">执行</string>
+  <string name="web3_mint" platform="android,iOS">铸造</string>
+  <string name="web3_receive" platform="android,iOS">接收</string>
+  <string name="web3_repay" platform="android,iOS">还款</string>
+  <string name="web3_send" platform="android,iOS">发送</string>
+  <string name="web3_stake" platform="android,iOS">质押</string>
+  <string name="web3_trade" platform="android,iOS">交易</string>
+  <string name="web3_unstake" platform="android,iOS">解押</string>
+  <string name="web3_withdraw" platform="android,iOS">提现</string>
+  <string name="web3_nft_mint" platform="android,iOS">NFT铸造</string>
+  <string name="web3_nft_transfer" platform="android,iOS">NFT转移</string>
+  <string name="web3_nft_burn" platform="android,iOS">NFT燃烧</string>
+  <string name="web3_unknown" platform="android,iOS">未知</string>
+  <string name="Release" platform="android,iOS">分解</string>
+  <string name="inscription_releasing" platform="android,iOS">分解中</string>
+  <string name="inscription_releasing_description" platform="android,iOS">铭文正在分解中，请稍候！</string>
+  <string name="inscription_release_success" platform="android,iOS">分解成功</string>
+  <string name="inscription_release_failed" platform="android,iOS">分解失败</string>
+  <string name="inscription_released_description" platform="android,iOS">收藏品分解成功，点击查看代币。</string>
+  <string name="inscription_release_confirmation" platform="android,iOS">分解收藏品</string>
+  <string name="inscription_release_hint" platform="android,iOS">分解收藏品可以立刻获得相应的代币，代币可转账、交易或重新铸造收藏品。</string>
+  <string name="inscription_not_found" platform="android,iOS">藏品不存在</string>
+  <string name="Token" platform="android,iOS">代币</string>
 </resources>
