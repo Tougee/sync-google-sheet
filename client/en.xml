@@ -1918,4 +1918,34 @@
   <string name="Slippage_tolerance_exceeded" platform="android,iOS">Slippage tolerance exceeded</string>
   <string name="balance_max" platform="android,iOS">MAX</string>
   <string name="balance_half" platform="android,iOS">HALF</string>
+  <string name="web3_approve" platform="android,iOS">Approve</string>
+  <string name="web3_borrow" platform="android,iOS">Borrow</string>
+  <string name="web3_burn" platform="android,iOS">Burn</string>
+  <string name="web3_cancel" platform="android,iOS">Cancel</string>
+  <string name="web3_claim" platform="android,iOS">Claim</string>
+  <string name="web3_deploy" platform="android,iOS">Deploy</string>
+  <string name="web3_deposit" platform="android,iOS">Deposit</string>
+  <string name="web3_execute" platform="android,iOS">Execute</string>
+  <string name="web3_mint" platform="android,iOS">Mint</string>
+  <string name="web3_receive" platform="android,iOS">Receive</string>
+  <string name="web3_repay" platform="android,iOS">Repay</string>
+  <string name="web3_send" platform="android,iOS">Send</string>
+  <string name="web3_stake" platform="android,iOS">Stake</string>
+  <string name="web3_trade" platform="android,iOS">Trade</string>
+  <string name="web3_unstake" platform="android,iOS">Unstake</string>
+  <string name="web3_withdraw" platform="android,iOS">Withdraw</string>
+  <string name="web3_nft_mint" platform="android,iOS">Nft_mint</string>
+  <string name="web3_nft_transfer" platform="android,iOS">Nft_transfer</string>
+  <string name="web3_nft_burn" platform="android,iOS">Nft_burn</string>
+  <string name="web3_unknown" platform="android,iOS">Unknown</string>
+  <string name="Release" platform="android,iOS">Release</string>
+  <string name="inscription_releasing" platform="android,iOS">Releasing</string>
+  <string name="inscription_releasing_description" platform="android,iOS">The inscription is being released, please wait!</string>
+  <string name="inscription_release_success" platform="android,iOS">Release Successful</string>
+  <string name="inscription_release_failed" platform="android,iOS">Release Failed</string>
+  <string name="inscription_released_description" platform="android,iOS">The inscription was released successfully. Click to view the tokens.</string>
+  <string name="inscription_release_confirmation" platform="android,iOS">Release Inscription</string>
+  <string name="inscription_release_hint" platform="android,iOS">Releasing the inscription will immediately provide the corresponding tokens, which can be transferred, traded, or used to mint new inscriptions.</string>
+  <string name="inscription_not_found" platform="android,iOS">Inscription does not exist</string>
+  <string name="Token" platform="android,iOS">Token</string>
 </resources>
