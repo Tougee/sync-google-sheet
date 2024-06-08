@@ -1839,7 +1839,7 @@
   <string name="Sending_Failed" platform="android, iOS">发送失败</string>
   <string name="copy_address" platform="android, iOS">复制地址</string>
   <string name="Browser" platform="android, iOS">浏览器</string>
-  <string name="web3_deposit_description_evm" platform="android, iOS">使用此地址在 Ethereum、Polygon、BSC 网络上接收代币</string>
+  <string name="web3_deposit_description_evm" platform="android, iOS">使用此地址在 Ethereum、Polygon、BSC、Base、Arbitrum、Optimism 网络上接收代币</string>
   <string name="web3_deposit_description_solana" platform="android, iOS">使用此地址在 Solana 网络上接收代币</string>
   <string name="web3_no_asset" platform="android, iOS">没有资产</string>
   <string name="Collectibles" platform="android, iOS, Desktop">藏品</string>
