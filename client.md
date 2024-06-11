@@ -355,7 +355,7 @@
 | android,iOS | Connect_to_TIP_network_failed | Unable to connect to TIP network. Check your connection and try again. | 连接 TIP 网络失败，请尝试切换网络后重试 |     |     |     |
 | android | connect_wallet | Connect Wallet | 连接钱包 |     |     |     |
 | iOS | Connected | Connected | 已连接 | 接続済 |     |     |
-| android | connected_dapps | Connected dApps | 已连接的 dApp |     |     |     |
+| android, iOS | connected_dapps | Connected dApps | 已连接的 dApp |     |     |     |
 | android, iOS | Connecting | Connecting | 正在连接 | 接続中 | Menyambung | Menyambungkan |
 | iOS | Connection_establishment_failed | Connection establishment failed | 连接建立失败 |     |     |     |
 | android, iOS | connection_failed | Connection Failed | 连接失败 |     |     |     |

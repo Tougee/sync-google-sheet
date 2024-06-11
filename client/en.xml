@@ -354,7 +354,7 @@
   <string name="Connect_to_TIP_network_failed" platform="android,iOS">Unable to connect to TIP network. Check your connection and try again.</string>
   <string name="connect_wallet" platform="android">Connect Wallet</string>
   <string name="Connected" platform="iOS">Connected</string>
-  <string name="connected_dapps" platform="android">Connected dApps</string>
+  <string name="connected_dapps" platform="android, iOS">Connected dApps</string>
   <string name="Connecting" platform="android, iOS">Connecting</string>
   <string name="Connection_establishment_failed" platform="iOS">Connection establishment failed</string>
   <string name="connection_failed" platform="android, iOS">Connection Failed</string>
