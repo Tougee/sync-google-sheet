@@ -1946,6 +1946,6 @@
   <string name="inscription_released_description" platform="android,iOS">The inscription was released successfully. Click to view the tokens.</string>
   <string name="inscription_release_confirmation" platform="android,iOS">Release Inscription</string>
   <string name="inscription_release_hint" platform="android,iOS">Releasing the inscription will immediately provide the corresponding tokens, which can be transferred, traded, or used to mint new inscriptions.</string>
-  <string name="inscription_not_found" platform="android,iOS">Inscription does not exist</string>
+  <string name="inscription_not_found" platform="android">Inscription does not exist</string>
   <string name="Token" platform="android,iOS">Token</string>
 </resources>
