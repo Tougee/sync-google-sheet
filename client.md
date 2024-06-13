@@ -1949,3 +1949,4 @@
 | android,iOS | inscription_release_hint | Releasing the inscription will immediately provide the corresponding tokens, which can be transferred, traded, or used to mint new inscriptions. | 分解收藏品可以立刻获得相应的代币，代币可转账、交易或重新铸造收藏品。 |     |     |     |
 | android | inscription_not_found | Inscription does not exist | 藏品不存在 |     |     |     |
 | android,iOS | Token | Token | 代币  |     |     |     |
+| android,iOS | Link | Link | 链接  |     |     |     |

@@ -1920,4 +1920,5 @@
   <string name="inscription_release_hint" platform="android,iOS">分解收藏品可以立刻获得相应的代币，代币可转账、交易或重新铸造收藏品。</string>
   <string name="inscription_not_found" platform="android">藏品不存在</string>
   <string name="Token" platform="android,iOS">代币</string>
+  <string name="Link" platform="android,iOS">链接</string>
 </resources>

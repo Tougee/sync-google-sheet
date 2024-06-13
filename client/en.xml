@@ -1948,4 +1948,5 @@
   <string name="inscription_release_hint" platform="android,iOS">Releasing the inscription will immediately provide the corresponding tokens, which can be transferred, traded, or used to mint new inscriptions.</string>
   <string name="inscription_not_found" platform="android">Inscription does not exist</string>
   <string name="Token" platform="android,iOS">Token</string>
+  <string name="Link" platform="android,iOS">Link</string>
 </resources>
