@@ -1856,7 +1856,7 @@
 | android, iOS | unlimited_authorization_warning | This application can access all %3$s in your %1$s account (%2$s). | 这个应用可以提取你 %1$s 账号（%2$s）里所有的 %3$s 资产。 |     |     |     |
 | android, iOS | withdraw_all_of_token_warning | This dApp can withdraw all your %1$s. | 这个应用可以提取你所有的 %1$s。 |     |     |     |
 | android, iOS | Connect | Connect | 连接  |     |     |     |
-| android, iOS | decode_transaction_failed | Transaction decoding failed, making it impossible to estimate asset changes. Be cautious and only sign transactions for dApps you trust. | 无法估计资产变化，注意只给您信任的应用程序签名。 |     |     |     |
+| android, iOS | decode_transaction_failed | Unable to estimate asset changes. Be cautious and only sign transactions for dApps you trust. | 无法估计资产变化，注意只给您信任的应用程序签名。 |     |     |     |
 | android, iOS | web3_ensure_trust | Please ensure you trust this dapp before proceeding with the request. | 请确保您信任此应用程序。 |     |     |     |
 | android, iOS | web3_transaction_request | Transaction Request | 交易签名 |     |     |     |
 | android, iOS | web3_message_request | Message Request | 消息签名 |     |     |     |

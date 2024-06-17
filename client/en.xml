@@ -1855,7 +1855,7 @@
   <string name="unlimited_authorization_warning" platform="android, iOS">This application can access all %3$s in your %1$s account (%2$s).</string>
   <string name="withdraw_all_of_token_warning" platform="android, iOS">This dApp can withdraw all your %1$s.</string>
   <string name="Connect" platform="android, iOS">Connect</string>
-  <string name="decode_transaction_failed" platform="android, iOS">Transaction decoding failed, making it impossible to estimate asset changes. Be cautious and only sign transactions for dApps you trust.</string>
+  <string name="decode_transaction_failed" platform="android, iOS">Unable to estimate asset changes. Be cautious and only sign transactions for dApps you trust.</string>
   <string name="web3_ensure_trust" platform="android, iOS">Please ensure you trust this dapp before proceeding with the request.</string>
   <string name="web3_transaction_request" platform="android, iOS">Transaction Request</string>
   <string name="web3_message_request" platform="android, iOS">Message Request</string>
