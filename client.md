@@ -1950,4 +1950,4 @@
 | android | inscription_not_found | Inscription does not exist | 藏品不存在 |     |     |     |
 | android,iOS | Token | Token | 代币  |     |     |     |
 | android,iOS | Link | Link | 链接  |     |     |     |
-|     | Set_as_avatar |     |     |     |     |     |
+| android,iOS | Set_as_avatar | Set as Avatar | 设置为头像 |     |     |     |

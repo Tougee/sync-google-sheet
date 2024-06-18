@@ -1949,4 +1949,5 @@
   <string name="inscription_not_found" platform="android">Inscription does not exist</string>
   <string name="Token" platform="android,iOS">Token</string>
   <string name="Link" platform="android,iOS">Link</string>
+  <string name="Set_as_avatar" platform="android,iOS">Set as Avatar</string>
 </resources>
