@@ -1951,3 +1951,6 @@
 | android,iOS | Token | Token | 代币  |     |     |     |
 | android,iOS | Link | Link | 链接  |     |     |     |
 | android,iOS | Set_as_avatar | Set as Avatar | 设置为头像 |     |     |     |
+| android,iOS | Recent | Recent | 最近  |     |     |     |
+| android,iOS | Alphabetical | Alphabetical | 按字母顺序 |     |     |     |
+| android,iOS | Floor_Price | Floor Price | 最低价格 |     |     |     |

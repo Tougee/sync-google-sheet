@@ -1922,4 +1922,7 @@
   <string name="Token" platform="android,iOS">代币</string>
   <string name="Link" platform="android,iOS">链接</string>
   <string name="Set_as_avatar" platform="android,iOS">设置为头像</string>
+  <string name="Recent" platform="android,iOS">最近</string>
+  <string name="Alphabetical" platform="android,iOS">按字母顺序</string>
+  <string name="Floor_Price" platform="android,iOS">最低价格</string>
 </resources>

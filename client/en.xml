@@ -1950,4 +1950,7 @@
   <string name="Token" platform="android,iOS">Token</string>
   <string name="Link" platform="android,iOS">Link</string>
   <string name="Set_as_avatar" platform="android,iOS">Set as Avatar</string>
+  <string name="Recent" platform="android,iOS">Recent</string>
+  <string name="Alphabetical" platform="android,iOS">Alphabetical</string>
+  <string name="Floor_Price" platform="android,iOS">Floor Price</string>
 </resources>
