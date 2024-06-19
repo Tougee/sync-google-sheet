@@ -350,7 +350,7 @@
 | android | Confirm_PIN | Confirm PIN | 确认 PIN | PINコードを確認 | Sahkan PIN | Konfirmasikan PIN |
 | Desktop | confirm_sync_chats_from_phone | Are you sure to sync the chat history from the phone? | 确认从手机端同步聊天记录吗？ |     |     |     |
 | Desktop | confirm_sync_chats_to_phone | Are you sure to sync the chat history to the phone? | 确认同步聊天记录到手机端吗？ |     |     |     |
-| android,iOS,Desktop | Confirmations | Confirmations | 区块确认数 |     |     |     |
+| android,Desktop | Confirmations | Confirmations | 区块确认数 |     |     |     |
 | android,iOS | Connect_to_TIP_network_failed | Unable to connect to TIP network. Check your connection and try again. | 连接 TIP 网络失败，请尝试切换网络后重试 |     |     |     |
 | android | connect_wallet | Connect Wallet | 连接钱包 |     |     |     |
 | iOS | Connected | Connected | 已连接 | 接続済 |     |     |

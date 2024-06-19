@@ -349,7 +349,7 @@
   <string name="Confirm_PIN" platform="android">Confirm PIN</string>
   <string name="confirm_sync_chats_from_phone" platform="Desktop">Are you sure to sync the chat history from the phone?</string>
   <string name="confirm_sync_chats_to_phone" platform="Desktop">Are you sure to sync the chat history to the phone?</string>
-  <string name="Confirmations" platform="android,iOS,Desktop">Confirmations</string>
+  <string name="Confirmations" platform="android,Desktop">Confirmations</string>
   <string name="Connect_to_TIP_network_failed" platform="android,iOS">Unable to connect to TIP network. Check your connection and try again.</string>
   <string name="connect_wallet" platform="android">Connect Wallet</string>
   <string name="Connected" platform="iOS">Connected</string>
