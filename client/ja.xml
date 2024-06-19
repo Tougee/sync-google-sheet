@@ -114,8 +114,8 @@
   <string name="assets_title" platform="iOS">資産</string>
   <string name="Audio" platform="android, iOS, Desktop">音声メッセージ</string>
   <string name="Audios" platform="android, iOS, Desktop">音声メッセージ</string>
-  <string name="auth_assets_more" platform="android, iOS">%1$sとさらに</string>
-  <string name="auth_messages_represent_description" platform="android, iOS">あなたの代わりにミニアプリがメッセージを送ることを許可</string>
+  <string name="auth_assets_more" platform="android">%1$sとさらに</string>
+  <string name="auth_messages_represent_description" platform="android">あなたの代わりにミニアプリがメッセージを送ることを許可</string>
   <string name="auth_profile_content" platform="android, iOS">%1$s, %2$s, プロフィール画像</string>
   <string name="authorization" platform="android, iOS">認証</string>
   <string name="Authorizations" platform="android, iOS">許可</string>

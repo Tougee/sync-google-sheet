@@ -133,7 +133,7 @@
   <string name="Apply" platform="android, iOS">Apply</string>
   <string name="archived_folder" platform="Desktop">archived folder</string>
   <string name="Asset_Key" platform="android, iOS">Asset Key</string>
-  <string name="Asset_Migration" platform="android,iOS">Network Upgrade</string>
+  <string name="Asset_Migration" platform="android">Network Upgrade</string>
   <string name="asset_migration_hint" platform="android, iOS">You have assets in the legacy network, please view here.</string>
   <string name="Asset_not_found" platform="android, iOS">Asset not found.</string>
   <string name="Asset_Type" platform="iOS, Desktop">Asset Type</string>
@@ -142,8 +142,8 @@
   <string name="Audio" platform="android, iOS, Desktop">Audio</string>
   <string name="audio_shareable_false" platform="android, iOS">The audio has been set to not allow sharing</string>
   <string name="Audios" platform="android, iOS, Desktop">Audios</string>
-  <string name="auth_assets_more" platform="android, iOS">%1$s and more</string>
-  <string name="auth_messages_represent_description" platform="android, iOS">allow bot to send messages represent of you</string>
+  <string name="auth_assets_more" platform="android">%1$s and more</string>
+  <string name="auth_messages_represent_description" platform="android">allow bot to send messages represent of you</string>
   <string name="auth_profile_content" platform="android, iOS">%1$s, %2$s, profile photo</string>
   <string name="authorization" platform="android, iOS">authorization</string>
   <string name="Authorizations" platform="android, iOS">Authorizations</string>

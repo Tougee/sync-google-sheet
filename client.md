@@ -134,7 +134,7 @@
 | android, iOS | Apply | Apply | 应用  | 適用  | Guna | Terapkan |
 | Desktop | archived_folder | archived folder | 存档文件夹 | アーカイブされたフォルダ |     |     |
 | android, iOS | Asset_Key | Asset Key | 资产标识 | 資産のキー | Kunci Aset | Kode Aset |
-| android,iOS | Asset_Migration | Network Upgrade | 资产迁移 |     |     |     |
+| android | Asset_Migration | Network Upgrade | 资产迁移 |     |     |     |
 | android, iOS | asset_migration_hint | You have assets in the legacy network, please view here. | 您还有资产在旧的 Mixin 网络，点击查看。 |     |     |     |
 | android, iOS | Asset_not_found | Asset not found. | 找不到该资产 | 資産が存在しません |     |     |
 | iOS, Desktop | Asset_Type | Asset Type | 资产类型 | 資産タイプ |     |     |
@@ -143,8 +143,8 @@
 | android, iOS, Desktop | Audio | Audio | 语音  | 音声メッセージ | Audio | Audio |
 | android, iOS | audio_shareable_false | The audio has been set to not allow sharing | 该语音已被设置为不允许转发 |     |     |     |
 | android, iOS, Desktop | Audios | Audios | 音频  | 音声メッセージ |     |     |
-| android, iOS | auth_assets_more | %1$s and more | %1$s等 | %1$sとさらに | %1$s dan banyak lagi | %1$s dan lainnya |
-| android, iOS | auth_messages_represent_description | allow bot to send messages represent of you | 允许机器人代表你发消息 | あなたの代わりにミニアプリがメッセージを送ることを許可 | benarkan bot menghantar mesej mewakili anda | Izinkan bot untuk mengirim pesan yang mewakili Anda |
+| android | auth_assets_more | %1$s and more | %1$s等 | %1$sとさらに | %1$s dan banyak lagi | %1$s dan lainnya |
+| android | auth_messages_represent_description | allow bot to send messages represent of you | 允许机器人代表你发消息 | あなたの代わりにミニアプリがメッセージを送ることを許可 | benarkan bot menghantar mesej mewakili anda | Izinkan bot untuk mengirim pesan yang mewakili Anda |
 | android, iOS | auth_profile_content | %1$s, %2$s, profile photo | %1$s, %2$s, 头像 | %1$s, %2$s, プロフィール画像 | %1$s, %2$s, foto profil | %1$s, %2$s, foto profil |
 | android, iOS | authorization | authorization | 授权  | 認証  | keizinan | otorisasi |
 | android, iOS | Authorizations | Authorizations | 授权  | 許可  | Kebenaran | Otorisasi |

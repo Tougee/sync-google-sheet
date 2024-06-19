@@ -132,7 +132,7 @@
   <string name="Apply" platform="android, iOS">应用</string>
   <string name="archived_folder" platform="Desktop">存档文件夹</string>
   <string name="Asset_Key" platform="android, iOS">资产标识</string>
-  <string name="Asset_Migration" platform="android,iOS">资产迁移</string>
+  <string name="Asset_Migration" platform="android">资产迁移</string>
   <string name="asset_migration_hint" platform="android, iOS">您还有资产在旧的 Mixin 网络，点击查看。</string>
   <string name="Asset_not_found" platform="android, iOS">找不到该资产</string>
   <string name="Asset_Type" platform="iOS, Desktop">资产类型</string>
@@ -141,8 +141,8 @@
   <string name="Audio" platform="android, iOS, Desktop">语音</string>
   <string name="audio_shareable_false" platform="android, iOS">该语音已被设置为不允许转发</string>
   <string name="Audios" platform="android, iOS, Desktop">音频</string>
-  <string name="auth_assets_more" platform="android, iOS">%1$s等</string>
-  <string name="auth_messages_represent_description" platform="android, iOS">允许机器人代表你发消息</string>
+  <string name="auth_assets_more" platform="android">%1$s等</string>
+  <string name="auth_messages_represent_description" platform="android">允许机器人代表你发消息</string>
   <string name="auth_profile_content" platform="android, iOS">%1$s, %2$s, 头像</string>
   <string name="authorization" platform="android, iOS">授权</string>
   <string name="Authorizations" platform="android, iOS">授权</string>
