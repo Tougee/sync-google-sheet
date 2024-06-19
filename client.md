@@ -464,7 +464,6 @@
 | iOS, Desktop | delete_account_detail_hint | Local messages and iCloud Backups will not be deleted automatically | 本地消息和 iCloud 备份不会被自动删除 | ローカルメッセージとiCloudにバックアップされた内容は削除されません |     |     |
 | android, iOS, Desktop | delete_account_hint | Delete your account info and profile photo | 删除你的账户和个人照片 | アカウント情報とプロフィール画像を削除します |     |     |
 | android, iOS | Delete_address | Delete address | 删除地址 | アドレスを削除 | Padamkan alamat | Hapus alamat |
-| iOS | delete_card | Delete Card | 删除卡片 |     |     |     |
 | iOS, Desktop | Delete_Chat | Delete Chat | 删除聊天 | チャットを削除 |     |     |
 | Desktop | delete_chat_description | Deleting chat will remove messages form this devices only. They will not be removed from other devices. | 删除会话只会删除此设备的聊天记录，不会影响其他设备。 | チャットを削除すると、この端末のみからメッセージが削除されます。他の端末からは削除されません。 |     |     |
 | iOS, Desktop | Delete_Circle | Delete Circle | 删除圈子 | グループリストを削除 |     |     |
@@ -579,7 +578,7 @@
 | android, iOS, Desktop | Enter_your_phone_number | Enter your phone number | 输入你的手机号码 | 電話番号を入力してください | Masukkan nombor telefon bimbit anda | Masukkan nomor ponsel Anda |
 | android, iOS | Enter_your_PIN | Enter your PIN | 输入你的 PIN | PINコードを入力してください | Masukkan PIN anda | Masukkan PIN Anda |
 | android, iOS, Desktop | Enter_your_PIN_to_continue | Enter your PIN to continue | 输入你的 PIN 以继续 | PINコードを入力して、続けてください |     |     |
-| android,iOS | Enter_your_PIN_to_verify | Enter your PIN to verify | 输入你的 PIN 来验证 |     |     |     |
+| android | Enter_your_PIN_to_verify | Enter your PIN to verify | 输入你的 PIN 来验证 |     |     |     |
 | android | EOS_contract_address | EOS contract address | EOS 合约地址 | EOSアドレス | alamat kontrak EOS |     |
 | android, Desktop | error_address_exists | The address does not exist, please make sure that the address is added successfully | 地址不存在，请确保地址是否添加成功 | アドレスが存在しません。アドレスが正常に追加されていることを確認してください。 |     |     |
 | android, Desktop | error_address_not_sync | Address refresh failed, please try again | 地址刷新失败，请重试 | アドレスの更新に失敗しました。もう一度やり直してください。 |     |     |

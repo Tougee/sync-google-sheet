@@ -463,7 +463,6 @@
   <string name="delete_account_detail_hint" platform="iOS, Desktop">Local messages and iCloud Backups will not be deleted automatically</string>
   <string name="delete_account_hint" platform="android, iOS, Desktop">Delete your account info and profile photo</string>
   <string name="Delete_address" platform="android, iOS">Delete address</string>
-  <string name="delete_card" platform="iOS">Delete Card</string>
   <string name="Delete_Chat" platform="iOS, Desktop">Delete Chat</string>
   <string name="delete_chat_description" platform="Desktop">Deleting chat will remove messages form this devices only. They will not be removed from other devices.</string>
   <string name="Delete_Circle" platform="iOS, Desktop">Delete Circle</string>
@@ -578,7 +577,7 @@
   <string name="Enter_your_phone_number" platform="android, iOS, Desktop">Enter your phone number</string>
   <string name="Enter_your_PIN" platform="android, iOS">Enter your PIN</string>
   <string name="Enter_your_PIN_to_continue" platform="android, iOS, Desktop">Enter your PIN to continue</string>
-  <string name="Enter_your_PIN_to_verify" platform="android,iOS">Enter your PIN to verify</string>
+  <string name="Enter_your_PIN_to_verify" platform="android">Enter your PIN to verify</string>
   <string name="EOS_contract_address" platform="android">EOS contract address</string>
   <string name="error_address_exists" platform="android, Desktop">The address does not exist, please make sure that the address is added successfully</string>
   <string name="error_address_not_sync" platform="android, Desktop">Address refresh failed, please try again</string>
