@@ -19,7 +19,7 @@
   <string name="Access_to_Contacts" platform="iOS,android">访问通讯录</string>
   <string name="access_your_bots_list" platform="android">访问你的机器人列表</string>
   <string name="access_your_circle_list" platform="android">访问你的圈子列表</string>
-  <string name="access_your_collectibles" platform="android">访问你的 NFT 列表</string>
+  <string name="access_your_collectibles" platform="android">访问你的藏品列表</string>
   <string name="access_your_contacts_list" platform="android">访问你的联系人列表</string>
   <string name="access_your_snapshots" platform="android">访问你的转账记录</string>
   <string name="Account" platform="android, iOS, Desktop">账号</string>
@@ -1843,7 +1843,6 @@
   <string name="HASH" platform="android, iOS, Desktop">哈希</string>
   <string name="ID" platform="android, iOS, Desktop">ID</string>
   <string name="Collection" platform="android, iOS, Desktop">合集</string>
-  <string name="NFT_TOKEN" platform="android, iOS, Desktop">NFT 代币</string>
   <string name="Collectible" platform="android, iOS, Desktop">藏品</string>
   <string name="Collectibles" platform="android, iOS, Desktop">藏品</string>
   <string name="search_placeholder_collectible" platform="android, iOS">名称</string>

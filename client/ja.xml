@@ -18,7 +18,7 @@
   <string name="Access_to_Contacts" platform="iOS,android">連絡先へのアクセス</string>
   <string name="access_your_bots_list" platform="android">あなたのミニアプリ一覧へのアクセス</string>
   <string name="access_your_circle_list" platform="android">グループリスト一覧へのアクセス</string>
-  <string name="access_your_collectibles" platform="android">あなたのNFTコレクションへのアクセス</string>
+  <string name="access_your_collectibles" platform="android">あなたのコレクションへのアクセス</string>
   <string name="access_your_contacts_list" platform="android">友達一覧へのアクセス</string>
   <string name="access_your_snapshots" platform="android">スナップショットへのアクセス</string>
   <string name="Account" platform="android, iOS, Desktop">アカウント</string>
