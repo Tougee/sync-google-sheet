@@ -227,7 +227,7 @@
   <string name="can_not_recognize_qr_code" platform="android, Desktop">Can not recognize the QR code</string>
   <string name="Cancel" platform="android, iOS, Desktop">Cancel</string>
   <string name="Cancel_Floating" platform="android, iOS">Cancel Floating</string>
-  <string name="cancel_order" platform="android, iOS">Cancel Order</string>
+  <string name="cancel_order" platform="android">Cancel Order</string>
   <string name="Canceled" platform="android, iOS">Cancelled</string>
   <string name="Canceled_by_caller" platform="android, iOS">Cancelled by caller</string>
   <string name="Cant_receive_the_code" platform="android, iOS">Can't receive the code?</string>

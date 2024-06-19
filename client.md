@@ -228,7 +228,7 @@
 | android, Desktop | can_not_recognize_qr_code | Can not recognize the QR code | 无法识别二维码 | QRコードが見つかりません | Tidak dapat mengenali kod QR | Tidak dapat mengenal kode QR |
 | android, iOS, Desktop | Cancel | Cancel | 取消  | キャンセル | Batal | Batal |
 | android, iOS | Cancel_Floating | Cancel Floating | 取消浮窗 | フローティングのキャンセル | Batal Terapung |     |
-| android, iOS | cancel_order | Cancel Order | 取消订单 |     |     |     |
+| android | cancel_order | Cancel Order | 取消订单 |     |     |     |
 | android, iOS | Canceled | Cancelled | 已取消 | キャンセルしました | Dibatalkan | Dibatalkan |
 | android, iOS | Canceled_by_caller | Cancelled by caller | 对方已取消 | 発信者がキャンセルしました | Panggilan Dibatalkan oleh pemanggil | Panggilan Dibatalkan oleh penelepon |
 | android, iOS | Cant_receive_the_code | Can't receive the code? | 接收不到验证码？ | コードを受け取れませんか？ | Tidak dapat menerima kod? | Tidak dapat menerima kode? |
