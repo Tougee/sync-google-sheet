@@ -504,7 +504,7 @@
   <string name="Profile" platform="iOS"> </string>
   <string name="profile_modify_number" platform="android">Adakah anda mahu menukar nombor telefon anda?</string>
   <string name="Profile_photo" platform="android, iOS">Gambar profil</string>
-  <string name="Public_profile" platform="android, iOS">Profil awam (diperlukan)</string>
+  <string name="Public_profile" platform="android">Profil awam (diperlukan)</string>
   <string name="QR_Code" platform="android, iOS">kod QR</string>
   <string name="qr_code_camera_code" platform="android">Gunakan Kamera bina dalam untuk mengimbas sebarang kod QR. Apabila kod dikesan, ketuk pemberitahuan untuk melihat lebih banyak maklumat.</string>
   <string name="QR_Code_not_found" platform="android, iOS">Kod Qr tidak dijumpai</string>

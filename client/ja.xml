@@ -941,7 +941,7 @@
   <string name="profile_modify_number" platform="android">電話番号を変更しますか?</string>
   <string name="Profile_photo" platform="android, iOS">プロフィール画像</string>
   <string name="profile_share_bot_hint" platform="android, iOS">ミニアプリをシェアしたい場合は、まずミニアプリを連絡先に追加してください。</string>
-  <string name="Public_profile" platform="android, iOS">プロフィール(必須)</string>
+  <string name="Public_profile" platform="android">プロフィール(必須)</string>
   <string name="QR_Code" platform="android, iOS">QRコード</string>
   <string name="qr_code_camera_code" platform="android">内蔵カメラでQRコードを読み取ります。コードが検出されたら、通知をタップしてください</string>
   <string name="QR_Code_not_found" platform="android, iOS">QRコードが見つかりません</string>

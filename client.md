@@ -1154,8 +1154,8 @@
 | Desktop | proxy_auth | Authentication (Optional) | 验证（可选） |     |     |     |
 | Desktop | proxy_connection | Connection | 连接  |     |     |     |
 | Desktop | proxy_type | Proxy Type | 代理类型 |     |     |     |
-| android, iOS | Public_profile | Public profile (required) | 个人资料（必须） | プロフィール(必須) | Profil awam (diperlukan) | Profil publik (wajib diisi) |
-| android, iOS | purchase_total_amount | Purchase Total Amount | 购买总金额 |     |     |     |
+| android | Public_profile | Public profile (required) | 个人资料（必须） | プロフィール(必須) | Profil awam (diperlukan) | Profil publik (wajib diisi) |
+| android | purchase_total_amount | Purchase Total Amount | 购买总金额 |     |     |     |
 | android, iOS | QR_Code | QR Code | 二维码 | QRコード | kod QR |     |
 | android | qr_code_camera_code | Use the built-in Camera to scan any QR Code. When a code is detected, tap the notification to view more information. | 打开相机会默认开启二维码识别，当二维码被检测到时会显示一个通知，点击通知识别二维码。 | 内蔵カメラでQRコードを読み取ります。コードが検出されたら、通知をタップしてください | Gunakan Kamera bina dalam untuk mengimbas sebarang kod QR. Apabila kod dikesan, ketuk pemberitahuan untuk melihat lebih banyak maklumat. | Gunakan Kamera internal untuk memindai Kode QR apa pun. Saat kode terdeteksi, ketuk notifikasi untuk melihat informasi selengkapnya. |
 | Desktop | qr_code_expired_desc | QR Code expired, please retry | 二维码过期，请重试 |     |     |     |

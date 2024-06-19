@@ -1153,8 +1153,8 @@
   <string name="proxy_auth" platform="Desktop">Authentication (Optional)</string>
   <string name="proxy_connection" platform="Desktop">Connection</string>
   <string name="proxy_type" platform="Desktop">Proxy Type</string>
-  <string name="Public_profile" platform="android, iOS">Public profile (required)</string>
-  <string name="purchase_total_amount" platform="android, iOS">Purchase Total Amount</string>
+  <string name="Public_profile" platform="android">Public profile (required)</string>
+  <string name="purchase_total_amount" platform="android">Purchase Total Amount</string>
   <string name="QR_Code" platform="android, iOS">QR Code</string>
   <string name="qr_code_camera_code" platform="android">Use the built-in Camera to scan any QR Code. When a code is detected, tap the notification to view more information.</string>
   <string name="qr_code_expired_desc" platform="Desktop">QR Code expired, please retry</string>

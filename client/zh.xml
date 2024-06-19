@@ -1135,8 +1135,8 @@
   <string name="proxy_auth" platform="Desktop">验证（可选）</string>
   <string name="proxy_connection" platform="Desktop">连接</string>
   <string name="proxy_type" platform="Desktop">代理类型</string>
-  <string name="Public_profile" platform="android, iOS">个人资料（必须）</string>
-  <string name="purchase_total_amount" platform="android, iOS">购买总金额</string>
+  <string name="Public_profile" platform="android">个人资料（必须）</string>
+  <string name="purchase_total_amount" platform="android">购买总金额</string>
   <string name="QR_Code" platform="android, iOS">二维码</string>
   <string name="qr_code_camera_code" platform="android">打开相机会默认开启二维码识别，当二维码被检测到时会显示一个通知，点击通知识别二维码。</string>
   <string name="qr_code_expired_desc" platform="Desktop">二维码过期，请重试</string>
