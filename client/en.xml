@@ -983,7 +983,7 @@
   <string name="NO_FILES" platform="android, iOS, Desktop">NO FILES</string>
   <string name="No_hidden_assets" platform="android, iOS">No hidden assets</string>
   <string name="No_Items_Selected" platform="iOS">No Items Selected</string>
-  <string name="NO_LINKS" platform="android, iOS, Desktop">NO LINKS</string>
+  <string name="NO_LINKS" platform="android, Desktop">NO LINKS</string>
   <string name="No_logs" platform="android, iOS">No logs</string>
   <string name="NO_MEDIA" platform="android, iOS, Desktop">NO MEDIA</string>
   <string name="No_media_yet" platform="android">No media yet</string>
@@ -1053,7 +1053,7 @@
   <string name="Operator" platform="android">Operator</string>
   <string name="Optimize_Database" platform="iOS">Optimize Database</string>
   <string name="Optimized" platform="iOS">Optimized</string>
-  <string name="order_confirm" platform="android, iOS">Order Confirm</string>
+  <string name="order_confirm" platform="android">Order Confirm</string>
   <string name="original_image" platform="Desktop">Original</string>
   <string name="OTHER" platform="android">OTHER</string>
   <string name="Other" platform="iOS">Other</string>

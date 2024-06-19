@@ -411,7 +411,7 @@
   <string name="No_fees" platform="android">Tidak ada biaya</string>
   <string name="NO_FILES" platform="android, iOS, Desktop">TIDAK ADA FILE</string>
   <string name="No_hidden_assets" platform="android, iOS">Tidak ada aset tersembunyi</string>
-  <string name="NO_LINKS" platform="android, iOS, Desktop">TIDAK ADA TAUTAN</string>
+  <string name="NO_LINKS" platform="android, Desktop">TIDAK ADA TAUTAN</string>
   <string name="No_logs" platform="android, iOS">Tidak ada log</string>
   <string name="NO_MEDIA" platform="android, iOS, Desktop">TIDAK ADA MEDIA</string>
   <string name="No_media_yet" platform="android">Belum ada media</string>

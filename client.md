@@ -984,7 +984,7 @@
 | android, iOS, Desktop | NO_FILES | NO FILES | 没有文件 | ファイルがありません | TIADA FAIL | TIDAK ADA FILE |
 | android, iOS | No_hidden_assets | No hidden assets | 没有隐藏的资产 | 非表示資産はありません | Tiada aset tersembunyi | Tidak ada aset tersembunyi |
 | iOS | No_Items_Selected | No Items Selected | 未选定项目 | 選択してください |     |     |
-| android, iOS, Desktop | NO_LINKS | NO LINKS | 没有链接 | リンクがありません | TIADA Pautan | TIDAK ADA TAUTAN |
+| android, Desktop | NO_LINKS | NO LINKS | 没有链接 | リンクがありません | TIADA Pautan | TIDAK ADA TAUTAN |
 | android, iOS | No_logs | No logs | 没有日志 | ログがありません | Tiada log | Tidak ada log |
 | android, iOS, Desktop | NO_MEDIA | NO MEDIA | 没有媒体 | メディアがありません | TIADA MEDIA | TIDAK ADA MEDIA |
 | android | No_media_yet | No media yet | 还没有图片或视频 | メディアがありません | Belum ada lagi media | Belum ada media |
@@ -1054,7 +1054,7 @@
 | android | Operator | Operator | 运营商 | Operator |     |     |
 | iOS | Optimize_Database | Optimize Database | 优化查询索引 | データベースの最適化 |     |     |
 | iOS | Optimized | Optimized | 已优化 | 最適化済みです |     |     |
-| android, iOS | order_confirm | Order Confirm | 订单确认 |     |     |     |
+| android | order_confirm | Order Confirm | 订单确认 |     |     |     |
 | Desktop | original_image | Original | 原图  | オリジナル |     |     |
 | android | OTHER | OTHER | 其他  | その他 | LAIN | LAINNYA |
 | iOS | Other | Other | 其他  | その他 |     |     |

@@ -436,7 +436,7 @@
   <string name="No_fees" platform="android">Tanpa bayaran</string>
   <string name="NO_FILES" platform="android, iOS, Desktop">TIADA FAIL</string>
   <string name="No_hidden_assets" platform="android, iOS">Tiada aset tersembunyi</string>
-  <string name="NO_LINKS" platform="android, iOS, Desktop">TIADA Pautan</string>
+  <string name="NO_LINKS" platform="android, Desktop">TIADA Pautan</string>
   <string name="No_logs" platform="android, iOS">Tiada log</string>
   <string name="NO_MEDIA" platform="android, iOS, Desktop">TIADA MEDIA</string>
   <string name="No_media_yet" platform="android">Belum ada lagi media</string>

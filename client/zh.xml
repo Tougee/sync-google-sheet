@@ -965,7 +965,7 @@
   <string name="NO_FILES" platform="android, iOS, Desktop">没有文件</string>
   <string name="No_hidden_assets" platform="android, iOS">没有隐藏的资产</string>
   <string name="No_Items_Selected" platform="iOS">未选定项目</string>
-  <string name="NO_LINKS" platform="android, iOS, Desktop">没有链接</string>
+  <string name="NO_LINKS" platform="android, Desktop">没有链接</string>
   <string name="No_logs" platform="android, iOS">没有日志</string>
   <string name="NO_MEDIA" platform="android, iOS, Desktop">没有媒体</string>
   <string name="No_media_yet" platform="android">还没有图片或视频</string>
@@ -1035,7 +1035,7 @@
   <string name="Operator" platform="android">运营商</string>
   <string name="Optimize_Database" platform="iOS">优化查询索引</string>
   <string name="Optimized" platform="iOS">已优化</string>
-  <string name="order_confirm" platform="android, iOS">订单确认</string>
+  <string name="order_confirm" platform="android">订单确认</string>
   <string name="original_image" platform="Desktop">原图</string>
   <string name="OTHER" platform="android">其他</string>
   <string name="Other" platform="iOS">其他</string>

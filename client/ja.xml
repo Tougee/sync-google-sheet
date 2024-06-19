@@ -801,7 +801,7 @@
   <string name="NO_FILES" platform="android, iOS, Desktop">ファイルがありません</string>
   <string name="No_hidden_assets" platform="android, iOS">非表示資産はありません</string>
   <string name="No_Items_Selected" platform="iOS">選択してください</string>
-  <string name="NO_LINKS" platform="android, iOS, Desktop">リンクがありません</string>
+  <string name="NO_LINKS" platform="android, Desktop">リンクがありません</string>
   <string name="No_logs" platform="android, iOS">ログがありません</string>
   <string name="NO_MEDIA" platform="android, iOS, Desktop">メディアがありません</string>
   <string name="No_media_yet" platform="android">メディアがありません</string>
