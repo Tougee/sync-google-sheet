@@ -1234,11 +1234,11 @@
 | android | Reset_notifications | Reset notifications | 重置通知设置 | 通知設定をリセット | Tetapkan semula pemberitahuan | Reset notifikasi |
 | android | RESTART | RESTART | 重启应用 | リスタート | MULA SEMULA | MULAI ULANG |
 | android, iOS | Restore | Restore | 恢复  | 復元  |     |     |
-| iOS,android | Restore_chat_from_iCloud | Restore your chat history from iCloud. | 从iCloud恢复您的聊天记录。 |     |     |     |
+| iOS,android | Restore_chat_from_iCloud | Restore your chat history from iCloud. | 从 iCloud 恢复您的聊天记录。 |     |     |     |
 | iOS | restore_chat_hint | Restore your\nchat history from iCloud | 从 iCloud 恢复\n您的聊天记录 | iCloudから\nチャット履歴を復元する |     |     |
 | iOS | Restore_Chat_History | Restore Chat History | 恢复聊天记录 |     |     |     |
 | iOS | Restore_Chat_History_Failed | Restore from iCloud failed | 从 iCloud 恢复失败 |     |     |     |
-| iOS | Restore_Chat_History_Hint | Restoring chat history from iCloud will not overwrite the local records. It will only perform incremental synchronization. Please do not close the screen and keep Mixin running in the foreground while restoring. | 从 iCloud 恢复聊天记录不会覆盖本地记录，只会增量同步，恢复时请不要关闭屏幕并保持Mixin 在前台运行。 |     |     |     |
+| iOS | Restore_Chat_History_Hint | Restoring chat history from iCloud will not overwrite the local records. It will only perform incremental synchronization. Please do not close the screen and keep Mixin running in the foreground while restoring. | 从 iCloud 恢复聊天记录不会覆盖本地记录，只会增量同步，恢复时请不要关闭屏幕并保持 Mixin 在前台运行。 |     |     |     |
 | android | restore_choose_backup_folder | Not found, choose backup folder | 未找到备份文件，选择备份文件夹 | 見つかりません、バックアップ先のフォルダを選択する |     |     |
 | iOS | Restore_completed | Restore completed | 恢复已完成 |     |     |     |
 | android, iOS | Restore_from_Another_Phone | Restore from Another Phone | 从其他手机恢复 |     |     |     |

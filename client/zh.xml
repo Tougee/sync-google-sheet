@@ -1214,11 +1214,11 @@
   <string name="Reset_notifications" platform="android">重置通知设置</string>
   <string name="RESTART" platform="android">重启应用</string>
   <string name="Restore" platform="android, iOS">恢复</string>
-  <string name="Restore_chat_from_iCloud" platform="iOS,android">从iCloud恢复您的聊天记录。</string>
+  <string name="Restore_chat_from_iCloud" platform="iOS,android">从 iCloud 恢复您的聊天记录。</string>
   <string name="restore_chat_hint" platform="iOS">从 iCloud 恢复\n您的聊天记录</string>
   <string name="Restore_Chat_History" platform="iOS">恢复聊天记录</string>
   <string name="Restore_Chat_History_Failed" platform="iOS">从 iCloud 恢复失败</string>
-  <string name="Restore_Chat_History_Hint" platform="iOS">从 iCloud 恢复聊天记录不会覆盖本地记录，只会增量同步，恢复时请不要关闭屏幕并保持Mixin 在前台运行。</string>
+  <string name="Restore_Chat_History_Hint" platform="iOS">从 iCloud 恢复聊天记录不会覆盖本地记录，只会增量同步，恢复时请不要关闭屏幕并保持 Mixin 在前台运行。</string>
   <string name="restore_choose_backup_folder" platform="android">未找到备份文件，选择备份文件夹</string>
   <string name="Restore_completed" platform="iOS">恢复已完成</string>
   <string name="Restore_from_Another_Phone" platform="android, iOS">从其他手机恢复</string>
