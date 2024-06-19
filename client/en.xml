@@ -1165,21 +1165,21 @@
   <string name="Random_keyboard" platform="android">Random keyboard</string>
   <string name="Raw" platform="android, iOS, Desktop">Raw</string>
   <string name="Raw_Transfer" platform="android">Raw Transfer</string>
-  <string name="Read_Assets" platform="android">Read Assets</string>
-  <string name="Read_Bots" platform="android">Read Bots</string>
-  <string name="Read_Circles" platform="android">Read Circles</string>
-  <string name="Read_Collectibles" platform="android">Read Collectibles</string>
-  <string name="Read_Contacts" platform="android">Read Contacts</string>
-  <string name="Read_Snapshots" platform="android">Read Snapshots</string>
-  <string name="Read_your_apps" platform="android">Read your bots</string>
-  <string name="Read_your_assets" platform="android">Read your assets</string>
-  <string name="Read_your_circles" platform="android">Read your circles</string>
-  <string name="Read_your_contacts" platform="android">Read your contacts</string>
-  <string name="Read_your_NFTs" platform="android">Read your NFTs</string>
-  <string name="Read_your_phone_number" platform="android">Read your phone number</string>
-  <string name="read_your_public_address" platform="android">Read your public address</string>
-  <string name="Read_your_public_profile" platform="android">Read your public profile</string>
-  <string name="Read_your_snapshots" platform="android">Read your snapshots</string>
+  <string name="Read_Assets" platform="android, iOS">Read Assets</string>
+  <string name="Read_Bots" platform="android, iOS">Read Bots</string>
+  <string name="Read_Circles" platform="android, iOS">Read Circles</string>
+  <string name="Read_Collectibles" platform="android, iOS">Read Collectibles</string>
+  <string name="Read_Contacts" platform="android, iOS">Read Contacts</string>
+  <string name="Read_Snapshots" platform="android, iOS">Read Snapshots</string>
+  <string name="Read_your_apps" platform="android, iOS">Read your bots</string>
+  <string name="Read_your_assets" platform="android, iOS">Read your assets</string>
+  <string name="Read_your_circles" platform="android, iOS">Read your circles</string>
+  <string name="Read_your_contacts" platform="android, iOS">Read your contacts</string>
+  <string name="Read_your_NFTs" platform="android, iOS">Read your NFTs</string>
+  <string name="Read_your_phone_number" platform="android, iOS">Read your phone number</string>
+  <string name="read_your_public_address" platform="android, iOS">Read your public address</string>
+  <string name="Read_your_public_profile" platform="android, iOS">Read your public profile</string>
+  <string name="Read_your_snapshots" platform="android, iOS">Read your snapshots</string>
   <string name="Rebate" platform="android, iOS, Desktop">Rebate</string>
   <string name="Recaptcha_timeout" platform="android, Desktop">Recaptcha timeout</string>
   <string name="Receive" platform="android">Receive</string>

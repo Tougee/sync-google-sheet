@@ -1166,21 +1166,21 @@
 | android | Random_keyboard | Random keyboard | 随机键盘 |     |     |     |
 | android, iOS, Desktop | Raw | Raw | 其他  | その他 | Mentah | Raw |
 | android | Raw_Transfer | Raw Transfer |     |     |     |     |
-| android | Read_Assets | Read Assets | 查看资产 | ウォレット資産識別 | Baca Aset | Membaca Aset |
-| android | Read_Bots | Read Bots | 查看应用 | ミニアプリの識別 | Aplikasi baca | Membaca Aplikasi |
-| android | Read_Circles | Read Circles | 查看圈子 | グループリストの識別 | Lingkaran Baca |     |
-| android | Read_Collectibles | Read Collectibles | 查看 NFT | NFTコレクションの識別 |     |     |
-| android | Read_Contacts | Read Contacts | 查看联系人 | 連絡先の識別 | Baca Kenalan | Membaca Kontak |
-| android | Read_Snapshots | Read Snapshots | 查看转账记录 | スナップショットの識別 | Baca Syot kilat | Membaca Snapshot |
-| android | Read_your_apps | Read your bots | 读取你的机器人列表 |     |     |     |
-| android | Read_your_assets | Read your assets | 读取你的所有资产 |     |     |     |
-| android | Read_your_circles | Read your circles | 读取你的圈子列表 |     |     |     |
-| android | Read_your_contacts | Read your contacts | 读取你的联系人列表 |     |     |     |
-| android | Read_your_NFTs | Read your NFTs | 读取你的 NFT 列表 |     |     |     |
-| android | Read_your_phone_number | Read your phone number | 读取你的手机号 |     |     |     |
-| android | read_your_public_address | Read your public address | 读取你的地址 |     |     |     |
-| android | Read_your_public_profile | Read your public profile | 读取你的个人资料 |     |     |     |
-| android | Read_your_snapshots | Read your snapshots | 读取你的转账记录 |     |     |     |
+| android, iOS | Read_Assets | Read Assets | 查看资产 | ウォレット資産識別 | Baca Aset | Membaca Aset |
+| android, iOS | Read_Bots | Read Bots | 查看应用 | ミニアプリの識別 | Aplikasi baca | Membaca Aplikasi |
+| android, iOS | Read_Circles | Read Circles | 查看圈子 | グループリストの識別 | Lingkaran Baca |     |
+| android, iOS | Read_Collectibles | Read Collectibles | 查看 NFT | NFTコレクションの識別 |     |     |
+| android, iOS | Read_Contacts | Read Contacts | 查看联系人 | 連絡先の識別 | Baca Kenalan | Membaca Kontak |
+| android, iOS | Read_Snapshots | Read Snapshots | 查看转账记录 | スナップショットの識別 | Baca Syot kilat | Membaca Snapshot |
+| android, iOS | Read_your_apps | Read your bots | 读取你的机器人列表 |     |     |     |
+| android, iOS | Read_your_assets | Read your assets | 读取你的所有资产 |     |     |     |
+| android, iOS | Read_your_circles | Read your circles | 读取你的圈子列表 |     |     |     |
+| android, iOS | Read_your_contacts | Read your contacts | 读取你的联系人列表 |     |     |     |
+| android, iOS | Read_your_NFTs | Read your NFTs | 读取你的 NFT 列表 |     |     |     |
+| android, iOS | Read_your_phone_number | Read your phone number | 读取你的手机号 |     |     |     |
+| android, iOS | read_your_public_address | Read your public address | 读取你的地址 |     |     |     |
+| android, iOS | Read_your_public_profile | Read your public profile | 读取你的个人资料 |     |     |     |
+| android, iOS | Read_your_snapshots | Read your snapshots | 读取你的转账记录 |     |     |     |
 | android, iOS, Desktop | Rebate | Rebate | 退款  | 払い戻し | Rebat | Potongan harga |
 | android, Desktop | Recaptcha_timeout | Recaptcha timeout | 验证超时 | Recaptchaがタイムアウトしました | Tamat masa Recaptcha | Batas waktu recaptcha |
 | android | Receive | Receive | 转入  | 入金  |     |     |

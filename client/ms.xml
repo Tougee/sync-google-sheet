@@ -510,11 +510,11 @@
   <string name="QR_Code_not_found" platform="android, iOS">Kod Qr tidak dijumpai</string>
   <string name="quote" platform="android">petikan</string>
   <string name="Raw" platform="android, iOS, Desktop">Mentah</string>
-  <string name="Read_Assets" platform="android">Baca Aset</string>
-  <string name="Read_Bots" platform="android">Aplikasi baca</string>
-  <string name="Read_Circles" platform="android">Lingkaran Baca</string>
-  <string name="Read_Contacts" platform="android">Baca Kenalan</string>
-  <string name="Read_Snapshots" platform="android">Baca Syot kilat</string>
+  <string name="Read_Assets" platform="android, iOS">Baca Aset</string>
+  <string name="Read_Bots" platform="android, iOS">Aplikasi baca</string>
+  <string name="Read_Circles" platform="android, iOS">Lingkaran Baca</string>
+  <string name="Read_Contacts" platform="android, iOS">Baca Kenalan</string>
+  <string name="Read_Snapshots" platform="android, iOS">Baca Syot kilat</string>
   <string name="Rebate" platform="android, iOS, Desktop">Rebat</string>
   <string name="Recaptcha_timeout" platform="android, Desktop">Tamat masa Recaptcha</string>
   <string name="RECEIVE" platform="android, iOS">Terima</string>

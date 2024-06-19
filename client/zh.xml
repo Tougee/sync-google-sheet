@@ -1146,21 +1146,21 @@
   <string name="quote" platform="android">引用</string>
   <string name="Random_keyboard" platform="android">随机键盘</string>
   <string name="Raw" platform="android, iOS, Desktop">其他</string>
-  <string name="Read_Assets" platform="android">查看资产</string>
-  <string name="Read_Bots" platform="android">查看应用</string>
-  <string name="Read_Circles" platform="android">查看圈子</string>
-  <string name="Read_Collectibles" platform="android">查看 NFT</string>
-  <string name="Read_Contacts" platform="android">查看联系人</string>
-  <string name="Read_Snapshots" platform="android">查看转账记录</string>
-  <string name="Read_your_apps" platform="android">读取你的机器人列表</string>
-  <string name="Read_your_assets" platform="android">读取你的所有资产</string>
-  <string name="Read_your_circles" platform="android">读取你的圈子列表</string>
-  <string name="Read_your_contacts" platform="android">读取你的联系人列表</string>
-  <string name="Read_your_NFTs" platform="android">读取你的 NFT 列表</string>
-  <string name="Read_your_phone_number" platform="android">读取你的手机号</string>
-  <string name="read_your_public_address" platform="android">读取你的地址</string>
-  <string name="Read_your_public_profile" platform="android">读取你的个人资料</string>
-  <string name="Read_your_snapshots" platform="android">读取你的转账记录</string>
+  <string name="Read_Assets" platform="android, iOS">查看资产</string>
+  <string name="Read_Bots" platform="android, iOS">查看应用</string>
+  <string name="Read_Circles" platform="android, iOS">查看圈子</string>
+  <string name="Read_Collectibles" platform="android, iOS">查看 NFT</string>
+  <string name="Read_Contacts" platform="android, iOS">查看联系人</string>
+  <string name="Read_Snapshots" platform="android, iOS">查看转账记录</string>
+  <string name="Read_your_apps" platform="android, iOS">读取你的机器人列表</string>
+  <string name="Read_your_assets" platform="android, iOS">读取你的所有资产</string>
+  <string name="Read_your_circles" platform="android, iOS">读取你的圈子列表</string>
+  <string name="Read_your_contacts" platform="android, iOS">读取你的联系人列表</string>
+  <string name="Read_your_NFTs" platform="android, iOS">读取你的 NFT 列表</string>
+  <string name="Read_your_phone_number" platform="android, iOS">读取你的手机号</string>
+  <string name="read_your_public_address" platform="android, iOS">读取你的地址</string>
+  <string name="Read_your_public_profile" platform="android, iOS">读取你的个人资料</string>
+  <string name="Read_your_snapshots" platform="android, iOS">读取你的转账记录</string>
   <string name="Rebate" platform="android, iOS, Desktop">退款</string>
   <string name="Recaptcha_timeout" platform="android, Desktop">验证超时</string>
   <string name="Receive" platform="android">转入</string>
