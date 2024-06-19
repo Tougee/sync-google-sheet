@@ -1895,8 +1895,8 @@
   <string name="web3_nft_burn" platform="android,iOS">NFT燃烧</string>
   <string name="web3_unknown" platform="android,iOS">未知</string>
   <string name="Release" platform="android,iOS">分解</string>
-  <string name="inscription_releasing" platform="android,iOS">分解中</string>
-  <string name="inscription_releasing_description" platform="android,iOS">铭文正在分解中，请稍候！</string>
+  <string name="collectible_releasing" platform="android,iOS">分解中</string>
+  <string name="collectible_releasing_description" platform="android,iOS">铭文正在分解中，请稍候！</string>
   <string name="inscription_release_success" platform="android,iOS">分解成功</string>
   <string name="inscription_release_failed" platform="android,iOS">分解失败</string>
   <string name="inscription_released_description" platform="android,iOS">收藏品分解成功，点击查看代币。</string>

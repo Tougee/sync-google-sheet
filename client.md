@@ -1876,7 +1876,7 @@
 | android, iOS, Desktop | Collectible | Collectible | 藏品  |     |     |     |
 | android, iOS, Desktop | Collectibles | Collectibles | 藏品  |     |     |     |
 | android, iOS | search_placeholder_inscription | Name | 名称  |     |     |     |
-| android, iOS | alert_key_contact_collectible_message | sent you an inscription | 发送一个藏品 |     |     |     |
+| android, iOS | alert_key_contact_collectible_message | sent you a collectible | 发送一个藏品 |     |     |     |
 | android, iOS | inscription_Hash | Inscription Hash | 藏品哈希 |     |     |     |
 | android,iOS | Swap | Swap | 闪兑  |     |     |     |
 | android,iOS | Swapping | Swapping | 兑换中 |     |     |     |
@@ -1924,8 +1924,8 @@
 | android,iOS | web3_nft_burn | NFT burn | NFT燃烧 |     |     |     |
 | android,iOS | web3_unknown | Unknown | 未知  |     |     |     |
 | android,iOS | Release | Release | 分解  |     |     |     |
-| android,iOS | inscription_releasing | Releasing | 分解中 |     |     |     |
-| android,iOS | inscription_releasing_description | The inscription is being released, please wait! | 铭文正在分解中，请稍候！ |     |     |     |
+| android,iOS | collectible_releasing | Releasing | 分解中 |     |     |     |
+| android,iOS | collectible_releasing_description | The collectible is being released, please wait. | 铭文正在分解中，请稍候！ |     |     |     |
 | android,iOS | inscription_release_success | Release Successful | 分解成功 |     |     |     |
 | android,iOS | inscription_release_failed | Release Failed | 分解失败 |     |     |     |
 | android,iOS | inscription_released_description | The inscription was released successfully. Click to view the tokens. | 收藏品分解成功，点击查看代币。 |     |     |     |

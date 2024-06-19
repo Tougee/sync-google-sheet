@@ -1875,7 +1875,7 @@
   <string name="Collectible" platform="android, iOS, Desktop">Collectible</string>
   <string name="Collectibles" platform="android, iOS, Desktop">Collectibles</string>
   <string name="search_placeholder_inscription" platform="android, iOS">Name</string>
-  <string name="alert_key_contact_collectible_message" platform="android, iOS">sent you an inscription</string>
+  <string name="alert_key_contact_collectible_message" platform="android, iOS">sent you a collectible</string>
   <string name="inscription_Hash" platform="android, iOS">Inscription Hash</string>
   <string name="Swap" platform="android,iOS">Swap</string>
   <string name="Swapping" platform="android,iOS">Swapping</string>
@@ -1923,8 +1923,8 @@
   <string name="web3_nft_burn" platform="android,iOS">NFT burn</string>
   <string name="web3_unknown" platform="android,iOS">Unknown</string>
   <string name="Release" platform="android,iOS">Release</string>
-  <string name="inscription_releasing" platform="android,iOS">Releasing</string>
-  <string name="inscription_releasing_description" platform="android,iOS">The inscription is being released, please wait!</string>
+  <string name="collectible_releasing" platform="android,iOS">Releasing</string>
+  <string name="collectible_releasing_description" platform="android,iOS">The collectible is being released, please wait.</string>
   <string name="inscription_release_success" platform="android,iOS">Release Successful</string>
   <string name="inscription_release_failed" platform="android,iOS">Release Failed</string>
   <string name="inscription_released_description" platform="android,iOS">The inscription was released successfully. Click to view the tokens.</string>
