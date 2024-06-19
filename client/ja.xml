@@ -986,7 +986,7 @@
   <string name="Report" platform="android, iOS, Desktop">報告</string>
   <string name="Report_and_block" platform="android, iOS, Desktop">報告してブロックしますか?</string>
   <string name="report_title" platform="iOS, Desktop">Mixinの開発者へ会話記録を送信しますか?</string>
-  <string name="Represent_Messages" platform="android, iOS">ミニアプリからの通知</string>
+  <string name="Represent_Messages" platform="android">ミニアプリからの通知</string>
   <string name="Requests_access_to_your" platform="android">権限リクエスト</string>
   <string name="Resend_code" platform="android, iOS, Desktop">コードを再送する</string>
   <string name="Resend_code_in" platform="android, Desktop">%1$d秒後にコードを再送</string>

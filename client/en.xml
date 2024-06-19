@@ -1209,16 +1209,11 @@
   <string name="Remove_Participants" platform="android">Remove Participants</string>
   <string name="Remove_Stickers" platform="android, iOS, Desktop">Remove Stickers</string>
   <string name="Removing" platform="android">Removing…</string>
-  <string name="Repair" platform="iOS">Repair</string>
-  <string name="Repair_Chat_History" platform="iOS">Repair Chat History</string>
-  <string name="Repair_Chat_History_Hint" platform="iOS">The database file is found to be damaged, some messages may be lost, please try to repair it.</string>
-  <string name="Repair_Chat_History_Success" platform="iOS">The chat history has been repaired successfully! Chat records before  %1$s have been restored.</string>
-  <string name="Repairing" platform="iOS">Repairing</string>
   <string name="Reply" platform="android, iOS, Desktop">Reply</string>
   <string name="Report" platform="android, iOS, Desktop">Report</string>
   <string name="Report_and_block" platform="android, iOS, Desktop">Report and block?</string>
   <string name="report_title" platform="iOS, Desktop">Send the conversation log to developers?</string>
-  <string name="Represent_Messages" platform="android, iOS">Represent Messages</string>
+  <string name="Represent_Messages" platform="android">Represent Messages</string>
   <string name="Represent_send_messages" platform="android, iOS">Represent send messages</string>
   <string name="request_approval" platform="android">Request approval</string>
   <string name="Request_Authorization" platform="android, iOS">Request Authorization</string>

@@ -1210,16 +1210,11 @@
 | android | Remove_Participants | Remove Participants | 移除成员 | グループから退会させる | Keluarkan Peserta | Hapus Peserta |
 | android, iOS, Desktop | Remove_Stickers | Remove Stickers | 移除所有表情 | スタンプの削除 |     |     |
 | android | Removing | Removing… | 正在移除… | 削除中… | Mengalih keluar ... | Menghapus… |
-| iOS | Repair | Repair | 修复  |     |     |     |
-| iOS | Repair_Chat_History | Repair Chat History | 修复聊天记录 |     |     |     |
-| iOS | Repair_Chat_History_Hint | The database file is found to be damaged, some messages may be lost, please try to repair it. | 数据库文件被发现损坏，可能会丢失一些信息，请尝试修复它。 |     |     |     |
-| iOS | Repair_Chat_History_Success | The chat history has been repaired successfully! Chat records before  %1$s have been restored. | 聊天记录修复成功！%1$s之前的聊天记录已经恢复。 |     |     |     |
-| iOS | Repairing | Repairing | 修复中 |     |     |     |
 | android, iOS, Desktop | Reply | Reply | 回复  | 返信  |     |     |
 | android, iOS, Desktop | Report | Report | 举报  | 報告  | Lapor | Laporkan |
 | android, iOS, Desktop | Report_and_block | Report and block? | 举报并屏蔽？ | 報告してブロックしますか? |     |     |
 | iOS, Desktop | report_title | Send the conversation log to developers? | 给开发人员发送聊天日志？ | Mixinの開発者へ会話記録を送信しますか? |     |     |
-| android, iOS | Represent_Messages | Represent Messages | 代发消息 | ミニアプリからの通知 | Wakilkan Mesej | Mewakili Pesan |
+| android | Represent_Messages | Represent Messages | 代发消息 | ミニアプリからの通知 | Wakilkan Mesej | Mewakili Pesan |
 | android, iOS | Represent_send_messages | Represent send messages | 代表你发消息 |     |     |     |
 | android | request_approval | Request approval | 允许请求 |     |     |     |
 | android, iOS | Request_Authorization | Request Authorization | 请求授权 |     |     |     |

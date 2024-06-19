@@ -534,7 +534,7 @@
   <string name="Remove_Participants" platform="android">Keluarkan Peserta</string>
   <string name="Removing" platform="android">Mengalih keluar ...</string>
   <string name="Report" platform="android, iOS, Desktop">Lapor</string>
-  <string name="Represent_Messages" platform="android, iOS">Wakilkan Mesej</string>
+  <string name="Represent_Messages" platform="android">Wakilkan Mesej</string>
   <string name="Requests_access_to_your" platform="android">Meminta akses ke anda</string>
   <string name="Resend_code" platform="android, iOS, Desktop">Hantar semula kod</string>
   <string name="Resend_code_in" platform="android, Desktop">Hantar semula kod dalam %1$d s</string>

@@ -1190,16 +1190,11 @@
   <string name="Remove_Participants" platform="android">移除成员</string>
   <string name="Remove_Stickers" platform="android, iOS, Desktop">移除所有表情</string>
   <string name="Removing" platform="android">正在移除…</string>
-  <string name="Repair" platform="iOS">修复</string>
-  <string name="Repair_Chat_History" platform="iOS">修复聊天记录</string>
-  <string name="Repair_Chat_History_Hint" platform="iOS">数据库文件被发现损坏，可能会丢失一些信息，请尝试修复它。</string>
-  <string name="Repair_Chat_History_Success" platform="iOS">聊天记录修复成功！%1$s之前的聊天记录已经恢复。</string>
-  <string name="Repairing" platform="iOS">修复中</string>
   <string name="Reply" platform="android, iOS, Desktop">回复</string>
   <string name="Report" platform="android, iOS, Desktop">举报</string>
   <string name="Report_and_block" platform="android, iOS, Desktop">举报并屏蔽？</string>
   <string name="report_title" platform="iOS, Desktop">给开发人员发送聊天日志？</string>
-  <string name="Represent_Messages" platform="android, iOS">代发消息</string>
+  <string name="Represent_Messages" platform="android">代发消息</string>
   <string name="Represent_send_messages" platform="android, iOS">代表你发消息</string>
   <string name="request_approval" platform="android">允许请求</string>
   <string name="Request_Authorization" platform="android, iOS">请求授权</string>
