@@ -143,7 +143,7 @@
   <string name="Audios" platform="android, iOS, Desktop">音频</string>
   <string name="auth_assets_more" platform="android">%1$s等</string>
   <string name="auth_messages_represent_description" platform="android">允许机器人代表你发消息</string>
-  <string name="auth_profile_content" platform="android, iOS">%1$s, %2$s, 头像</string>
+  <string name="auth_profile_content" platform="android">%1$s, %2$s, 头像</string>
   <string name="authorization" platform="android, iOS">授权</string>
   <string name="Authorizations" platform="android, iOS">授权</string>
   <string name="Authorize" platform="iOS">授权</string>

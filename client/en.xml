@@ -144,7 +144,7 @@
   <string name="Audios" platform="android, iOS, Desktop">Audios</string>
   <string name="auth_assets_more" platform="android">%1$s and more</string>
   <string name="auth_messages_represent_description" platform="android">allow bot to send messages represent of you</string>
-  <string name="auth_profile_content" platform="android, iOS">%1$s, %2$s, profile photo</string>
+  <string name="auth_profile_content" platform="android">%1$s, %2$s, profile photo</string>
   <string name="authorization" platform="android, iOS">authorization</string>
   <string name="Authorizations" platform="android, iOS">Authorizations</string>
   <string name="Authorize" platform="iOS">Authorize</string>

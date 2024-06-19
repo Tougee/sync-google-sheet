@@ -60,7 +60,7 @@
   <string name="Audio" platform="android, iOS, Desktop">Audio</string>
   <string name="auth_assets_more" platform="android">%1$s dan lainnya</string>
   <string name="auth_messages_represent_description" platform="android">Izinkan bot untuk mengirim pesan yang mewakili Anda</string>
-  <string name="auth_profile_content" platform="android, iOS">%1$s, %2$s, foto profil</string>
+  <string name="auth_profile_content" platform="android">%1$s, %2$s, foto profil</string>
   <string name="authorization" platform="android, iOS">otorisasi</string>
   <string name="Authorizations" platform="android, iOS">Otorisasi</string>
   <string name="avatar_transition_name" platform="android">avatar_transition_name</string>
