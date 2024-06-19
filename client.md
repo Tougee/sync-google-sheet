@@ -1612,14 +1612,8 @@
 | Desktop | use_biometric | Use Biometric | 使用生物识别 |     |     |     |
 | android | Use_Biometric_Multisig | Use Biometric Multisig | 使用生物识别签名 | 生体認証マルチシグを使用する | Gunakan Biometric Multisig | Gunakan Multisig Biometrik |
 | iOS | use_biometry | Use %@ | 采用%@ | %@を使用する |     |     |
-| iOS | Use_face_multisig | Use Face Multisig | 使用面容签名 | 顔認証マルチシグを使用 |     |     |
-| iOS | Use_face_pay | Use Face Pay | 使用面容支付 | 顔認証で支払う |     |     |
-| iOS | Use_face_withdraw | Use Face Withdraw | 使用面容提现 | 顔認証で出金する |     |     |
 | android | use_new_price | Use New Price | 使用最新报价 |     |     |     |
 | android, iOS | Use_System_Text_Size | Use System Text Size | 跟随系统字体大小 |     |     |     |
-| iOS | Use_touch_multisig | Use Touch Multisig | 使用指纹签名 | 指紋認証マルチシグを使用 |     |     |
-| iOS | Use_touch_pay | Use Touch Pay | 使用指纹支付 | 指紋認証で支払う |     |     |
-| iOS | Use_touch_withdraw | Use Touch Withdraw | 使用指纹提现 | 指紋認証で出金する |     |     |
 | android, iOS, Desktop | user_delete_hint | The user has deleted his own account. | 该用户已经删除了账号。 |     |     |     |
 | android | user_deleted_hint | The user has deleted the account. | 该用户已经删除了账号。 |     |     |     |
 | iOS | User_is_reported | User has been reported | 已举报 | 報告しました。 |     |     |
@@ -1701,7 +1695,6 @@
 | iOS | WiFi_and_cellular | Wi-Fi and Cellular | WLAN 与蜂窝移动网 | Wi-Fiとデータ通信 |     |     |
 | Desktop | window | Window | 窗口  | Window |     |     |
 | android, iOS | withdraw_Address | Address | 提现地址 | アドレス | Alamat | Alamat |
-| iOS | Withdraw_by_PIN | Withdraw by PIN | 通过 PIN 提现 | PINコードを使って出金する |     |     |
 | android, iOS, Desktop | Withdrawal | Withdraw | 提现  | 出金  | Pengeluaran | Penarikan |
 | android | withdrawal_addr_biometric_add | Use Biometric to save address | 使用生物识别来完成添加 | 生体認証を使用してアドレスを保存 | Gunakan Biometrik untuk menyimpan alamat | Gunakan Biometrik untuk menyimpan alamat |
 | android | withdrawal_addr_biometric_delete | Use Biometric to delete address | 使用生物识别来完成删除 | 生体認証を使用してアドレスを削除 | Gunakan Biometrik untuk memadam alamat | Gunakan Biometrik untuk menghapus alamat |
@@ -1727,7 +1720,7 @@
 | android, iOS | withdrawal_to | Withdraw to %1$s | 提现到 %1$s | %1$sへ出金 | Pengeluaran ke %1$s | Penarikan ke %1$s |
 | android | withdrawal_with_biometric | Withdrawal with Biometric | 用生物识别提现 | 生体認証を使用して出金 | Pengeluaran dengan Biometrik | Penarikan dengan Biometrik |
 | android | withdrawal_with_PIN | Withdrawal with PIN | 用 PIN 提现 | PINコードを使用して出金 | Pengeluaran dengan PIN | Penarikan dengan PIN |
-| iOS,android | Year | Year | 年   |     |     |     |
+| android | Year | Year | 年   |     |     |     |
 | android | you | you | 你   | 自分  |     |     |
 | android, iOS, Desktop | You | You | 你   | 自分  | Anda | Anda |
 | android, iOS, Desktop | You_deleted_this_message | You deleted this message | 你撤回了一条消息 | このメッセージを削除しました。 | Anda memadamkan mesej ini | Anda menghapus pesan ini |

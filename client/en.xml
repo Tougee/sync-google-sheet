@@ -1611,14 +1611,8 @@
   <string name="use_biometric" platform="Desktop">Use Biometric</string>
   <string name="Use_Biometric_Multisig" platform="android">Use Biometric Multisig</string>
   <string name="use_biometry" platform="iOS">Use %@</string>
-  <string name="Use_face_multisig" platform="iOS">Use Face Multisig</string>
-  <string name="Use_face_pay" platform="iOS">Use Face Pay</string>
-  <string name="Use_face_withdraw" platform="iOS">Use Face Withdraw</string>
   <string name="use_new_price" platform="android">Use New Price</string>
   <string name="Use_System_Text_Size" platform="android, iOS">Use System Text Size</string>
-  <string name="Use_touch_multisig" platform="iOS">Use Touch Multisig</string>
-  <string name="Use_touch_pay" platform="iOS">Use Touch Pay</string>
-  <string name="Use_touch_withdraw" platform="iOS">Use Touch Withdraw</string>
   <string name="user_delete_hint" platform="android, iOS, Desktop">The user has deleted his own account.</string>
   <string name="user_deleted_hint" platform="android">The user has deleted the account.</string>
   <string name="User_is_reported" platform="iOS">User has been reported</string>
@@ -1700,7 +1694,6 @@
   <string name="WiFi_and_cellular" platform="iOS">Wi-Fi and Cellular</string>
   <string name="window" platform="Desktop">Window</string>
   <string name="withdraw_Address" platform="android, iOS">Address</string>
-  <string name="Withdraw_by_PIN" platform="iOS">Withdraw by PIN</string>
   <string name="Withdrawal" platform="android, iOS, Desktop">Withdraw</string>
   <string name="withdrawal_addr_biometric_add" platform="android">Use Biometric to save address</string>
   <string name="withdrawal_addr_biometric_delete" platform="android">Use Biometric to delete address</string>
@@ -1726,7 +1719,7 @@
   <string name="withdrawal_to" platform="android, iOS">Withdraw to %1$s</string>
   <string name="withdrawal_with_biometric" platform="android">Withdrawal with Biometric</string>
   <string name="withdrawal_with_PIN" platform="android">Withdrawal with PIN</string>
-  <string name="Year" platform="iOS,android">Year</string>
+  <string name="Year" platform="android">Year</string>
   <string name="you" platform="android">you</string>
   <string name="You" platform="android, iOS, Desktop">You</string>
   <string name="You_deleted_this_message" platform="android, iOS, Desktop">You deleted this message</string>

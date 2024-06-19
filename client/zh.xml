@@ -1589,14 +1589,8 @@
   <string name="use_biometric" platform="Desktop">使用生物识别</string>
   <string name="Use_Biometric_Multisig" platform="android">使用生物识别签名</string>
   <string name="use_biometry" platform="iOS">采用%@</string>
-  <string name="Use_face_multisig" platform="iOS">使用面容签名</string>
-  <string name="Use_face_pay" platform="iOS">使用面容支付</string>
-  <string name="Use_face_withdraw" platform="iOS">使用面容提现</string>
   <string name="use_new_price" platform="android">使用最新报价</string>
   <string name="Use_System_Text_Size" platform="android, iOS">跟随系统字体大小</string>
-  <string name="Use_touch_multisig" platform="iOS">使用指纹签名</string>
-  <string name="Use_touch_pay" platform="iOS">使用指纹支付</string>
-  <string name="Use_touch_withdraw" platform="iOS">使用指纹提现</string>
   <string name="user_delete_hint" platform="android, iOS, Desktop">该用户已经删除了账号。</string>
   <string name="user_deleted_hint" platform="android">该用户已经删除了账号。</string>
   <string name="User_is_reported" platform="iOS">已举报</string>
@@ -1676,7 +1670,6 @@
   <string name="WiFi_and_cellular" platform="iOS">WLAN 与蜂窝移动网</string>
   <string name="window" platform="Desktop">窗口</string>
   <string name="withdraw_Address" platform="android, iOS">提现地址</string>
-  <string name="Withdraw_by_PIN" platform="iOS">通过 PIN 提现</string>
   <string name="Withdrawal" platform="android, iOS, Desktop">提现</string>
   <string name="withdrawal_addr_biometric_add" platform="android">使用生物识别来完成添加</string>
   <string name="withdrawal_addr_biometric_delete" platform="android">使用生物识别来完成删除</string>
@@ -1702,7 +1695,7 @@
   <string name="withdrawal_to" platform="android, iOS">提现到 %1$s</string>
   <string name="withdrawal_with_biometric" platform="android">用生物识别提现</string>
   <string name="withdrawal_with_PIN" platform="android">用 PIN 提现</string>
-  <string name="Year" platform="iOS,android">年</string>
+  <string name="Year" platform="android">年</string>
   <string name="you" platform="android">你</string>
   <string name="You" platform="android, iOS, Desktop">你</string>
   <string name="You_deleted_this_message" platform="android, iOS, Desktop">你撤回了一条消息</string>

@@ -1288,12 +1288,6 @@
   <string name="url_unrecognized_hint" platform="iOS">%@を認識できません、Mixinを最新版にアップデートするか、もしくは開発陣に連絡してリンクを確認してください。</string>
   <string name="Use_Biometric_Multisig" platform="android">生体認証マルチシグを使用する</string>
   <string name="use_biometry" platform="iOS">%@を使用する</string>
-  <string name="Use_face_multisig" platform="iOS">顔認証マルチシグを使用</string>
-  <string name="Use_face_pay" platform="iOS">顔認証で支払う</string>
-  <string name="Use_face_withdraw" platform="iOS">顔認証で出金する</string>
-  <string name="Use_touch_multisig" platform="iOS">指紋認証マルチシグを使用</string>
-  <string name="Use_touch_pay" platform="iOS">指紋認証で支払う</string>
-  <string name="Use_touch_withdraw" platform="iOS">指紋認証で出金する</string>
   <string name="User_is_reported" platform="iOS">報告しました。</string>
   <string name="User_not_found" platform="android, iOS, Desktop">ユーザーが見つかりませんでした</string>
   <string name="Validation_timed_out" platform="iOS">認証時間切れ</string>
@@ -1360,7 +1354,6 @@
   <string name="WiFi_and_cellular" platform="iOS">Wi-Fiとデータ通信</string>
   <string name="window" platform="Desktop">Window</string>
   <string name="withdraw_Address" platform="android, iOS">アドレス</string>
-  <string name="Withdraw_by_PIN" platform="iOS">PINコードを使って出金する</string>
   <string name="Withdrawal" platform="android, iOS, Desktop">出金</string>
   <string name="withdrawal_addr_biometric_add" platform="android">生体認証を使用してアドレスを保存</string>
   <string name="withdrawal_addr_biometric_delete" platform="android">生体認証を使用してアドレスを削除</string>
