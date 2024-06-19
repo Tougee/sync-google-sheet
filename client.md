@@ -648,7 +648,7 @@
 | android, iOS, Desktop | error_withdrawal_memo_format_incorrect | ERROR 20131: Withdrawal memo format incorrect. | 错误 20131：提现备注格式不正确 | エラー20131：出金メモのフォーマットが不正確です | RALAT 20131: Penarikan format memo tidak betul. | KESALAHAN 20131: Format memo penarikan salah. |
 | android, iOS, Desktop | error_withdrawal_suspend | ERROR 20137: Withdrawal suspend. | 错误 20137：提现暂停 |     |     |     |
 | android, iOS | Everybody | Everybody | 任何人 | 全員  | Semua orang | Semua orang |
-| android, iOS | exchange_rate | Exchange Rate | 价格  |     |     |     |
+| android | exchange_rate | Exchange Rate | 价格  |     |     |     |
 | android,iOS | Exchanging_data | Synchronization key shards in progress %1$s%%… | 正在同步密钥分片，进度 %1$s%%… |     |     |     |
 | android, Desktop | Exit | Exit | 退出  | 退出  | Keluar | Keluar |
 | iOS | Exit_confirmation | Exit "%@"? | 退出"%@"？ | "%@"を退出しますか? |     |     |
@@ -656,8 +656,8 @@
 | iOS | Exit_group_and_report_inviter | Exit group and report inviter | 退出群组并举报邀请人 | グループを退会し招待者を報告する |     |     |
 | android | exit_without_save | Exit without save? | 不保存就退出？ | 保存せずに退会しますか？ |     |     |
 | android, iOS | Expired | Expired | 已过期 | 期限切れ | Tamat tempoh | Tidak berlaku |
-| android, iOS | expiry_date | Expiry Date | 有效期 |     |     |     |
-| android, iOS | expiry_date_error | Please enter a valid expiry date | 请输入正确的有效期 |     |     |     |
+| android | expiry_date | Expiry Date | 有效期 |     |     |     |
+| android | expiry_date_error | Please enter a valid expiry date | 请输入正确的有效期 |     |     |     |
 | android,iOS | Explore | Explore | 探索  |     |     |     |
 | iOS | Export | Export | 导出  | エクスポート |     |     |
 | android | Export_Chat | Export Chat | 导出聊天记录 | チャットのエクスポート |     |     |
@@ -678,9 +678,9 @@
 | android,iOS | favorite | Favorite | 收藏  |     |     |     |
 | android, iOS, Desktop | Fee | Fee | 手续费 | 手数料 | Bayaran | Biaya |
 | android, iOS | Feedback | Feedback | 反馈  | フィードバック | Maklum balas |     |
-| android, iOS | fees_by_gateway | Fees by Processor | 支付网关费用 |     |     |     |
-| android, iOS | fees_by_mixin | Fees by Mixin | Mixin 手续费 |     |     |     |
-| android, iOS | fees_explaination | You may be charged fees outside of your order by your bank, please contact your bank for more details. | 您有可能被您的银行收取订单之外的费用，请联系您的银行了解更多详情。 |     |     |     |
+| android | fees_by_gateway | Fees by Processor | 支付网关费用 |     |     |     |
+| android | fees_by_mixin | Fees by Mixin | Mixin 手续费 |     |     |     |
+| android | fees_explaination | You may be charged fees outside of your order by your bank, please contact your bank for more details. | 您有可能被您的银行收取订单之外的费用，请联系您的银行了解更多详情。 |     |     |     |
 | android, iOS, Desktop | File | File | 文件  | ファイル | Fail | File |
 | android, Desktop | File_chooser_error | File chooser error | 文件选择错误 | ファイル選択エラー | Ralat pemilih fail | Kesalahan pemilih file |
 | android, Desktop | File_does_not_exist | File does not exist | 文件不存在 | ファイルが存在しません | Fail tidak wujud | File tidak ada |

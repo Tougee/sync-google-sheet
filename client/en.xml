@@ -647,7 +647,7 @@
   <string name="error_withdrawal_memo_format_incorrect" platform="android, iOS, Desktop">ERROR 20131: Withdrawal memo format incorrect.</string>
   <string name="error_withdrawal_suspend" platform="android, iOS, Desktop">ERROR 20137: Withdrawal suspend.</string>
   <string name="Everybody" platform="android, iOS">Everybody</string>
-  <string name="exchange_rate" platform="android, iOS">Exchange Rate</string>
+  <string name="exchange_rate" platform="android">Exchange Rate</string>
   <string name="Exchanging_data" platform="android,iOS">Synchronization key shards in progress %1$s%%…</string>
   <string name="Exit" platform="android, Desktop">Exit</string>
   <string name="Exit_confirmation" platform="iOS">Exit "%@"?</string>
@@ -655,8 +655,8 @@
   <string name="Exit_group_and_report_inviter" platform="iOS">Exit group and report inviter</string>
   <string name="exit_without_save" platform="android">Exit without save?</string>
   <string name="Expired" platform="android, iOS">Expired</string>
-  <string name="expiry_date" platform="android, iOS">Expiry Date</string>
-  <string name="expiry_date_error" platform="android, iOS">Please enter a valid expiry date</string>
+  <string name="expiry_date" platform="android">Expiry Date</string>
+  <string name="expiry_date_error" platform="android">Please enter a valid expiry date</string>
   <string name="Explore" platform="android,iOS">Explore</string>
   <string name="Export" platform="iOS">Export</string>
   <string name="Export_Chat" platform="android">Export Chat</string>
@@ -677,9 +677,9 @@
   <string name="favorite" platform="android,iOS">Favorite</string>
   <string name="Fee" platform="android, iOS, Desktop">Fee</string>
   <string name="Feedback" platform="android, iOS">Feedback</string>
-  <string name="fees_by_gateway" platform="android, iOS">Fees by Processor</string>
-  <string name="fees_by_mixin" platform="android, iOS">Fees by Mixin</string>
-  <string name="fees_explaination" platform="android, iOS">You may be charged fees outside of your order by your bank, please contact your bank for more details.</string>
+  <string name="fees_by_gateway" platform="android">Fees by Processor</string>
+  <string name="fees_by_mixin" platform="android">Fees by Mixin</string>
+  <string name="fees_explaination" platform="android">You may be charged fees outside of your order by your bank, please contact your bank for more details.</string>
   <string name="File" platform="android, iOS, Desktop">File</string>
   <string name="File_chooser_error" platform="android, Desktop">File chooser error</string>
   <string name="File_does_not_exist" platform="android, Desktop">File does not exist</string>
