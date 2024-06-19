@@ -923,7 +923,7 @@
   <string name="Monthly" platform="iOS">Monthly</string>
   <string name="More" platform="android, iOS, Desktop">More</string>
   <string name="Move_and_Scale" platform="iOS">Move and Scale</string>
-  <string name="Multisig_by_PIN" platform="android, iOS">Multisig by PIN</string>
+  <string name="Multisig_by_PIN" platform="android">Multisig by PIN</string>
   <string name="multisig_receiver" platform="android, iOS">Receiver</string>
   <string name="multisig_sender" platform="android, iOS">Sender</string>
   <string name="multisig_receivers_threshold" platform="android, iOS">Receivers (%1$s)</string>

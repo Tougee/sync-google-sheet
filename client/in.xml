@@ -380,7 +380,7 @@
   <string name="Mixin_Messenger_Desktop" platform="android, iOS, Desktop">Mixin Messenger Desktop</string>
   <string name="Monday" platform="android">Senin</string>
   <string name="More" platform="android, iOS, Desktop">Lebih banyak</string>
-  <string name="Multisig_by_PIN" platform="android, iOS">Multisig dengan PIN</string>
+  <string name="Multisig_by_PIN" platform="android">Multisig dengan PIN</string>
   <string name="multisig_receiver" platform="android, iOS">Penerima</string>
   <string name="multisig_receivers_threshold" platform="android, iOS">Penerima (%1$s)</string>
   <string name="multisig_state_signed" platform="android, iOS">Tautan multisig ini telah dibuka oleh Anda sendiri, Anda tidak dapat melakukan tindakan ganda.</string>

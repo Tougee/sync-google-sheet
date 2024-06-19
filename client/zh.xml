@@ -905,7 +905,7 @@
   <string name="Monthly" platform="iOS">每月</string>
   <string name="More" platform="android, iOS, Desktop">更多</string>
   <string name="Move_and_Scale" platform="iOS">移动和缩放</string>
-  <string name="Multisig_by_PIN" platform="android, iOS">通过 PIN 签名</string>
+  <string name="Multisig_by_PIN" platform="android">通过 PIN 签名</string>
   <string name="multisig_receiver" platform="android, iOS">交易接收人</string>
   <string name="multisig_sender" platform="android, iOS">交易发起人</string>
   <string name="multisig_receivers_threshold" platform="android, iOS">交易接收人（%1$s）</string>

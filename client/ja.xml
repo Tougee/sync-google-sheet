@@ -750,7 +750,7 @@
   <string name="Monthly" platform="iOS">月</string>
   <string name="More" platform="android, iOS, Desktop">もっとみる</string>
   <string name="Move_and_Scale" platform="iOS">移動と拡大縮小</string>
-  <string name="Multisig_by_PIN" platform="android, iOS">PINコードでマルチシグウォレットを使用する</string>
+  <string name="Multisig_by_PIN" platform="android">PINコードでマルチシグウォレットを使用する</string>
   <string name="multisig_receiver" platform="android, iOS">受取人</string>
   <string name="multisig_receivers_threshold" platform="android, iOS">受取人(%1$s)</string>
   <string name="multisig_state_signed" platform="android, iOS">このマルチシグリンクはすでにあなたが署名しているため、重複した操作を行うことはできません</string>
