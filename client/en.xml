@@ -300,10 +300,10 @@
   <string name="chat_text_size" platform="android, Desktop, iOS">Chat Text Size</string>
   <string name="Chat_unpinned" platform="android">Chat unpinned</string>
   <string name="chat_waiting" platform="android, iOS">Waiting for %1$s to get online and establish an encrypted session. %2$s.</string>
-  <string name="chat_with_us" platform="android, iOS">Chat with us</string>
+  <string name="chat_with_us" platform="android">Chat with us</string>
   <string name="CHATS" platform="android, iOS">CHATS</string>
-  <string name="Chats_Count" platform="iOS,android">1 chat</string>
-  <string name="Chats_Counts" platform="iOS,android">%1$s chats</string>
+  <string name="Chats_Count" platform="android">1 chat</string>
+  <string name="Chats_Counts" platform="android">%1$s chats</string>
   <string name="check_new_version" platform="Desktop">Check new version</string>
   <string name="check_trace_failed" platform="android">Check trace info failed, please try again</string>
   <string name="Checking_link" platform="android">Checking link</string>
@@ -340,7 +340,7 @@
   <string name="collapse" platform="Desktop">Collapse</string>
   <string name="collectible_token_id" platform="iOS">#%@</string>
   <string name="Combine_and_forward" platform="android, iOS, Desktop">Combine and forward</string>
-  <string name="Combine_utxo" platform="android, iOS">Combine UTXOs</string>
+  <string name="Combine_utxo" platform="android">Combine UTXOs</string>
   <string name="Compress_Database" platform="iOS">Compress Database</string>
   <string name="Compressed" platform="iOS">Compressed</string>
   <string name="Confirm" platform="android, iOS, Desktop">Confirm</string>

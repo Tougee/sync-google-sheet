@@ -295,10 +295,10 @@
   <string name="chat_text_size" platform="android, Desktop, iOS">聊天字体大小</string>
   <string name="Chat_unpinned" platform="android">置顶会话已取消</string>
   <string name="chat_waiting" platform="android, iOS">等待%1$s上线后建立加密会话。%2$s。</string>
-  <string name="chat_with_us" platform="android, iOS">联系客服</string>
+  <string name="chat_with_us" platform="android">联系客服</string>
   <string name="CHATS" platform="android, iOS">会话</string>
-  <string name="Chats_Count" platform="iOS,android">1 个聊天</string>
-  <string name="Chats_Counts" platform="iOS,android">%1$s 个聊天</string>
+  <string name="Chats_Count" platform="android">1 个聊天</string>
+  <string name="Chats_Counts" platform="android">%1$s 个聊天</string>
   <string name="check_new_version" platform="Desktop">检查新版本</string>
   <string name="check_trace_failed" platform="android">检查支付信息失败，请重试</string>
   <string name="Checking_link" platform="android">正在检查链接</string>
@@ -335,7 +335,7 @@
   <string name="collapse" platform="Desktop">折叠</string>
   <string name="collectible_token_id" platform="iOS">#%@</string>
   <string name="Combine_and_forward" platform="android, iOS, Desktop">合并转发</string>
-  <string name="Combine_utxo" platform="android, iOS">归集 UTXO</string>
+  <string name="Combine_utxo" platform="android">归集 UTXO</string>
   <string name="Compress_Database" platform="iOS">压缩数据库</string>
   <string name="Compressed" platform="iOS">已压缩</string>
   <string name="Confirm" platform="android, iOS, Desktop">确认</string>

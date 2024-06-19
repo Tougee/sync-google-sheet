@@ -301,10 +301,10 @@
 | android, Desktop, iOS | chat_text_size | Chat Text Size | 聊天字体大小 |     |     |     |
 | android | Chat_unpinned | Chat unpinned | 置顶会话已取消 | ピン留めを解除 |     |     |
 | android, iOS | chat_waiting | Waiting for %1$s to get online and establish an encrypted session. %2$s. | 等待%1$s上线后建立加密会话。%2$s。 | オンラインで暗号化されたやりとりを開始するまであと%1$s。%2$s | Menunggu %1$s untuk berada dalam talian dan tubuhkan sesi yang disulitkan. %2$s. | Menunggu %1$s untuk online dan membuat sesi terenkripsi. %2$s. |
-| android, iOS | chat_with_us | Chat with us | 联系客服 |     |     |     |
+| android | chat_with_us | Chat with us | 联系客服 |     |     |     |
 | android, iOS | CHATS | CHATS | 会话  | チャット | SEMBANG | OBROLAN |
-| iOS,android | Chats_Count | 1 chat | 1 个聊天 |     |     |     |
-| iOS,android | Chats_Counts | %1$s chats | %1$s 个聊天 |     |     |     |
+| android | Chats_Count | 1 chat | 1 个聊天 |     |     |     |
+| android | Chats_Counts | %1$s chats | %1$s 个聊天 |     |     |     |
 | Desktop | check_new_version | Check new version | 检查新版本 | 最新版をチェック |     |     |
 | android | check_trace_failed | Check trace info failed, please try again | 检查支付信息失败，请重试 | 記録情報の確認失敗、もう一度お試しください | Periksa maklumat jejak gagal, sila cuba lagi | Gagal memeiksa info jejak, coba lagi |
 | android | Checking_link | Checking link | 正在检查链接 | リンク確認中 | Memeriksa pautan | Memeriksa tautan |
@@ -341,7 +341,7 @@
 | Desktop | collapse | Collapse | 折叠  | サイドバー |     |     |
 | iOS | collectible_token_id | #%@ | #%@ | #%@ |     |     |
 | android, iOS, Desktop | Combine_and_forward | Combine and forward | 合并转发 | まとめて転送 |     |     |
-| android, iOS | Combine_utxo | Combine UTXOs | 归集 UTXO |     |     |     |
+| android | Combine_utxo | Combine UTXOs | 归集 UTXO |     |     |     |
 | iOS | Compress_Database | Compress Database | 压缩数据库 | データの圧縮 |     |     |
 | iOS | Compressed | Compressed | 已压缩 | 圧縮しました |     |     |
 | android, iOS, Desktop | Confirm | Confirm | 确认  | 確認する | Sahkan | Konfirmasi |
