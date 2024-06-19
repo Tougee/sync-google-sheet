@@ -1040,7 +1040,7 @@
 | android, iOS, Desktop | one_year | 1 Year | 1 年 | 1年間 | 1 tahun | 1 Tahun |
 | android | Ongoing_voice_call | Ongoing voice call | 正在进行语音通话 | 進行中の音声通話 | Panggilan suara sedang berlangsung | Panggilan suara sedang berlangsung |
 | android, iOS | Open | Open | 打开  | 開く  | Buka | Buka |
-| iOS,android | Open_Desktop_to_Confirm | Please open your Mixin Messenger desktop to confirm the operation. | 请打开您的Mixin Messenger 桌面端来确认此操作。 |     |     |     |
+| iOS,android | Open_Desktop_to_Confirm | Please open your Mixin Messenger desktop to confirm the operation. | 请打开您的 Mixin Messenger 桌面端来确认此操作。 |     |     |     |
 | android, iOS, Desktop | Open_Home_page | Open Home page | 打开主页 | ホームページを開く | Buka laman Utama | Buka Beranda |
 | android, iOS | Open_in_browser | Open in browser | 在浏览器中打开 | ブラウザで開く | Buka dalam pelayar | Buka di browser |
 | iOS | Open_in_gaode_maps | Open in 高德地图 | 在高德地图中打开 | Gaodeマップで開く |     |     |

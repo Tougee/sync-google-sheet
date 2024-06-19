@@ -1021,7 +1021,7 @@
   <string name="one_year" platform="android, iOS, Desktop">1 年</string>
   <string name="Ongoing_voice_call" platform="android">正在进行语音通话</string>
   <string name="Open" platform="android, iOS">打开</string>
-  <string name="Open_Desktop_to_Confirm" platform="iOS,android">请打开您的Mixin Messenger 桌面端来确认此操作。</string>
+  <string name="Open_Desktop_to_Confirm" platform="iOS,android">请打开您的 Mixin Messenger 桌面端来确认此操作。</string>
   <string name="Open_Home_page" platform="android, iOS, Desktop">打开主页</string>
   <string name="Open_in_browser" platform="android, iOS">在浏览器中打开</string>
   <string name="Open_in_gaode_maps" platform="iOS">在高德地图中打开</string>
