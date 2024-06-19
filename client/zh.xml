@@ -1524,7 +1524,7 @@
   <string name="Transfer_to_PC_Hint" platform="iOS,android">同步你的聊天记录到 Mixin Messenger 桌面端，请确保两台设备接入同一个 Wi-Fi 或热点。</string>
   <string name="Transfer_to_user_or_bot" platform="iOS">给用户或机器人转账</string>
   <string name="transfer_without_pin" platform="android">转账前请先设置 PIN</string>
-  <string name="Transferring_chat_Progress" platform="iOS,android">传输聊天记录（%1$s%）</string>
+  <string name="Transferring_chat_Progress" platform="iOS,android">传输聊天记录（%1$s%%）</string>
   <string name="transferring_chats" platform="Desktop">同步聊天记录中</string>
   <string name="transferring_chats_tips" platform="Desktop">同步时请不要关闭屏幕并保持 Mixin 在前台运行。</string>
   <string name="travel_and_places" platform="Desktop">旅行与地点</string>

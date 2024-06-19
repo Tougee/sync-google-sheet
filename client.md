@@ -1547,7 +1547,7 @@
 | iOS,android | Transfer_to_PC_Hint | Synchronize your chat history to the Mixin Messenger desktop version. Please make sure both devices are connected to the same Wi-Fi or hotspot. | 同步你的聊天记录到 Mixin Messenger 桌面端，请确保两台设备接入同一个 Wi-Fi 或热点。 |     |     |     |
 | iOS | Transfer_to_user_or_bot | Transfer to user or bot | 给用户或机器人转账 | ミニアプリまたはユーザーへ送金する | Pindahkan ke pengguna atau bot | Transfer ke pengguna atau bot |
 | android | transfer_without_pin | You must setup PIN for transfer | 转账前请先设置 PIN | 送金するにはPINコードの設定が必要です | Anda mesti sediakan PIN untuk pemindahan | Anda harus membuat PIN untuk transfer |
-| iOS,android | Transferring_chat_Progress | Transferring Chat (%1$s%) | 传输聊天记录（%1$s%） |     |     |     |
+| iOS,android | Transferring_chat_Progress | Transferring Chat (%1$s%%) | 传输聊天记录（%1$s%%） |     |     |     |
 | Desktop | transferring_chats | Transferring Chat  | 同步聊天记录中 |     |     |     |
 | Desktop | transferring_chats_tips | Please do not turn off the screen and keep the Mixin running in the foreground while syncing. | 同步时请不要关闭屏幕并保持 Mixin 在前台运行。 |     |     |     |
 | Desktop | travel_and_places | Travel & Places | 旅行与地点 |     |     |     |

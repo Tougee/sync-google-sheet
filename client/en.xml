@@ -1546,7 +1546,7 @@
   <string name="Transfer_to_PC_Hint" platform="iOS,android">Synchronize your chat history to the Mixin Messenger desktop version. Please make sure both devices are connected to the same Wi-Fi or hotspot.</string>
   <string name="Transfer_to_user_or_bot" platform="iOS">Transfer to user or bot</string>
   <string name="transfer_without_pin" platform="android">You must setup PIN for transfer</string>
-  <string name="Transferring_chat_Progress" platform="iOS,android">Transferring Chat (%1$s%)</string>
+  <string name="Transferring_chat_Progress" platform="iOS,android">Transferring Chat (%1$s%%)</string>
   <string name="transferring_chats" platform="Desktop">Transferring Chat </string>
   <string name="transferring_chats_tips" platform="Desktop">Please do not turn off the screen and keep the Mixin running in the foreground while syncing.</string>
   <string name="travel_and_places" platform="Desktop">Travel &amp; Places</string>
