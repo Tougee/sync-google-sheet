@@ -1069,7 +1069,7 @@
 | android, iOS | pay_paid | This payment link has already been paid by someone, you can not make a duplicate payment. | 此付款链接已由某人支付，您无法进行重复付款。 | この支払いリンクはすでに使用済みです。重複して支払いを行うことはできません。 | Pautan pembayaran ini telah dibayar oleh seseorang, anda tidak boleh membuat pembayaran pendua. | Tautan pembayaran ini telah dibayar oleh seseorang, Anda tidak dapat melakukan pembayaran ganda. |
 | android | Pay_with_Biometrics | Pay with Biometrics | 用生物识别支付 | 生体認証で支払う | Bayar dengan Biometrik | Bayar dengan Biometrik |
 | iOS | Pay_with_biometry_type | Pay with %@ | %@支付 | %@で支払う |     |     |
-| android, iOS | Pay_with_PIN | Pay with PIN | 用 PIN 支付 | PINコードで支払う | Bayar dengan PIN | Bayar dengan PIN |
+| android | Pay_with_PIN | Pay with PIN | 用 PIN 支付 | PINコードで支払う | Bayar dengan PIN | Bayar dengan PIN |
 | android, iOS | Pay_with_PIN_interval | Pay with PIN interval | PIN 使用间隔 | PINコードの再確認間隔 | Bayar dengan selang PIN | Bayar dengan interval PIN |
 | iOS | Pay_withdrawal_memo | Amount %@ %@\nFee %@ %@ | 数量 %@ %@\n手续费 %@ %@ | 額 %@ %@\n手数料 %@ %@ |     |     |
 | android, iOS | payment_method | Payment Method | 支付方式 |     |     |     |

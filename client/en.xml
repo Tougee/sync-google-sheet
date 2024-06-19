@@ -1068,7 +1068,7 @@
   <string name="pay_paid" platform="android, iOS">This payment link has already been paid by someone, you can not make a duplicate payment.</string>
   <string name="Pay_with_Biometrics" platform="android">Pay with Biometrics</string>
   <string name="Pay_with_biometry_type" platform="iOS">Pay with %@</string>
-  <string name="Pay_with_PIN" platform="android, iOS">Pay with PIN</string>
+  <string name="Pay_with_PIN" platform="android">Pay with PIN</string>
   <string name="Pay_with_PIN_interval" platform="android, iOS">Pay with PIN interval</string>
   <string name="Pay_withdrawal_memo" platform="iOS">Amount %@ %@\nFee %@ %@</string>
   <string name="payment_method" platform="android, iOS">Payment Method</string>

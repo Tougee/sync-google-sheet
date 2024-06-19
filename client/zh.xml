@@ -1050,7 +1050,7 @@
   <string name="pay_paid" platform="android, iOS">此付款链接已由某人支付，您无法进行重复付款。</string>
   <string name="Pay_with_Biometrics" platform="android">用生物识别支付</string>
   <string name="Pay_with_biometry_type" platform="iOS">%@支付</string>
-  <string name="Pay_with_PIN" platform="android, iOS">用 PIN 支付</string>
+  <string name="Pay_with_PIN" platform="android">用 PIN 支付</string>
   <string name="Pay_with_PIN_interval" platform="android, iOS">PIN 使用间隔</string>
   <string name="Pay_withdrawal_memo" platform="iOS">数量 %@ %@\n手续费 %@ %@</string>
   <string name="payment_method" platform="android, iOS">支付方式</string>

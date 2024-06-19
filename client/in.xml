@@ -447,7 +447,7 @@
   <string name="Participants" platform="android, iOS">Peserta</string>
   <string name="pay_paid" platform="android, iOS">Tautan pembayaran ini telah dibayar oleh seseorang, Anda tidak dapat melakukan pembayaran ganda.</string>
   <string name="Pay_with_Biometrics" platform="android">Bayar dengan Biometrik</string>
-  <string name="Pay_with_PIN" platform="android, iOS">Bayar dengan PIN</string>
+  <string name="Pay_with_PIN" platform="android">Bayar dengan PIN</string>
   <string name="Pay_with_PIN_interval" platform="android, iOS">Bayar dengan interval PIN</string>
   <string name="pending_confirmation.count" platform="android, iOS, Desktop">%1$d/%2$d konfirmasi</string>
   <string name="permission_camera" platform="android">Izinkan mengambil gambar?</string>

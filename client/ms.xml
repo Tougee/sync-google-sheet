@@ -475,7 +475,7 @@
   <string name="Pause" platform="android">Jeda sebentar</string>
   <string name="pay_paid" platform="android, iOS">Pautan pembayaran ini telah dibayar oleh seseorang, anda tidak boleh membuat pembayaran pendua.</string>
   <string name="Pay_with_Biometrics" platform="android">Bayar dengan Biometrik</string>
-  <string name="Pay_with_PIN" platform="android, iOS">Bayar dengan PIN</string>
+  <string name="Pay_with_PIN" platform="android">Bayar dengan PIN</string>
   <string name="Pay_with_PIN_interval" platform="android, iOS">Bayar dengan selang PIN</string>
   <string name="pending_confirmation.count" platform="android, iOS, Desktop">%1$d/%2$d pengesahan</string>
   <string name="permission_camera" platform="android">Benarkan untuk mengambil gambar?</string>
