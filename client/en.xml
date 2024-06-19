@@ -1237,7 +1237,7 @@
   <string name="Restore_completed" platform="iOS">Restore completed</string>
   <string name="Restore_from_Another_Phone" platform="android, iOS">Restore from Another Phone</string>
   <string name="Restore_from_iCloud" platform="android, iOS">Restore from iCloud</string>
-  <string name="Restore_From_icloud_Confirmation" platform="iOS">There are already %1$d local chat records, and the last message was created at %1$s. Are you sure you want to overwrite the local data with the chat data on iCloud?</string>
+  <string name="Restore_From_icloud_Confirmation" platform="iOS">There are already %1$d local chat records, and the last message was created at %2$s. Are you sure you want to overwrite the local data with the chat data on iCloud?</string>
   <string name="Restore_from_PC" platform="iOS,android">Restore from PC</string>
   <string name="Restore_from_PC_Hint" platform="iOS,android">Restore your chat history from PC</string>
   <string name="Restore_from_PC_Tip" platform="iOS,android">Synchronize your chat history from the Mixin Messenger desktop client. The synchronization will not overwrite the local records but only incrementally synchronize them. Please make sure that both devices are connected to the same Wi-Fi or hotspot.</string>

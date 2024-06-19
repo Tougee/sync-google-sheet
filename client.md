@@ -1238,7 +1238,7 @@
 | iOS | Restore_completed | Restore completed | 恢复已完成 |     |     |     |
 | android, iOS | Restore_from_Another_Phone | Restore from Another Phone | 从其他手机恢复 |     |     |     |
 | android, iOS | Restore_from_iCloud | Restore from iCloud | 从 iCloud 恢复 |     |     |     |
-| iOS | Restore_From_icloud_Confirmation | There are already %1$d local chat records, and the last message was created at %1$s. Are you sure you want to overwrite the local data with the chat data on iCloud? | 已经有 %1$d 条本地聊天记录，最后一条消息的时间是 %1$s，确定用 iCloud 上的聊天数据覆盖本地数据吗？ |     |     |     |
+| iOS | Restore_From_icloud_Confirmation | There are already %1$d local chat records, and the last message was created at %2$s. Are you sure you want to overwrite the local data with the chat data on iCloud? | 已经有 %1$d 条本地聊天记录，最后一条消息的时间是 %2$s，确定用 iCloud 上的聊天数据覆盖本地数据吗？ |     |     |     |
 | iOS,android | Restore_from_PC | Restore from PC | 从桌面恢复 |     |     |     |
 | iOS,android | Restore_from_PC_Hint | Restore your chat history from PC | 从桌面端恢复你的聊天记录 |     |     |     |
 | iOS,android | Restore_from_PC_Tip | Synchronize your chat history from the Mixin Messenger desktop client. The synchronization will not overwrite the local records but only incrementally synchronize them. Please make sure that both devices are connected to the same Wi-Fi or hotspot. | 从 Mixin Messenger 桌面端同步你的聊天记录，同步不会覆盖本地记录只会增量同步，请确保两台设备接入同一个 Wi-Fi 或热点。 |     |     |     |

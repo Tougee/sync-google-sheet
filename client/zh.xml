@@ -1218,7 +1218,7 @@
   <string name="Restore_completed" platform="iOS">恢复已完成</string>
   <string name="Restore_from_Another_Phone" platform="android, iOS">从其他手机恢复</string>
   <string name="Restore_from_iCloud" platform="android, iOS">从 iCloud 恢复</string>
-  <string name="Restore_From_icloud_Confirmation" platform="iOS">已经有 %1$d 条本地聊天记录，最后一条消息的时间是 %1$s，确定用 iCloud 上的聊天数据覆盖本地数据吗？</string>
+  <string name="Restore_From_icloud_Confirmation" platform="iOS">已经有 %1$d 条本地聊天记录，最后一条消息的时间是 %2$s，确定用 iCloud 上的聊天数据覆盖本地数据吗？</string>
   <string name="Restore_from_PC" platform="iOS,android">从桌面恢复</string>
   <string name="Restore_from_PC_Hint" platform="iOS,android">从桌面端恢复你的聊天记录</string>
   <string name="Restore_from_PC_Tip" platform="iOS,android">从 Mixin Messenger 桌面端同步你的聊天记录，同步不会覆盖本地记录只会增量同步，请确保两台设备接入同一个 Wi-Fi 或热点。</string>
