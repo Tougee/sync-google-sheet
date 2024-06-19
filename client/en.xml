@@ -13,7 +13,7 @@
   <string name="About" platform="android, iOS, Desktop">About</string>
   <string name="about_version" platform="android">Version %1$s</string>
   <string name="Accept" platform="android">Accept</string>
-  <string name="accepted_cards" platform="android, iOS">Accepted cards: %1$s</string>
+  <string name="accepted_cards" platform="android">Accepted cards: %1$s</string>
   <string name="Access_Contacts_Hint" platform="iOS">Mixin syncs your address book to Mixin servers to help you connect with other Mixin users</string>
   <string name="Access_denied" platform="android, iOS, Desktop">Access denied</string>
   <string name="Access_to_Contacts" platform="iOS,android">Access to Contacts</string>
@@ -32,12 +32,12 @@
   <string name="Add_by_ID_or_Phone_number" platform="iOS">Add by Mixin ID or Phone number</string>
   <string name="Add_by_Phone_Contacts" platform="iOS">Add by Phone Contacts</string>
   <string name="Add_by_QR_Code" platform="iOS">Add by QR Code</string>
-  <string name="add_card" platform="android, iOS">Add Card</string>
+  <string name="add_card" platform="android">Add Card</string>
   <string name="Add_circle" platform="android, iOS">Add Circle</string>
   <string name="Add_Contact" platform="android, iOS, Desktop">Add Contact</string>
   <string name="add_contact_with_plus" platform="Desktop">+ Add Contact</string>
   <string name="Add_conversations" platform="android, iOS">Add Conversations</string>
-  <string name="add_credit_or_debit_card" platform="android, iOS">Add credit or debit card</string>
+  <string name="add_credit_or_debit_card" platform="android">Add credit or debit card</string>
   <string name="Add_emergency_contact" platform="android, iOS">Add emergency contact</string>
   <string name="add_file" platform="Desktop">Add File</string>
   <string name="Add_group_description" platform="android, Desktop">Add group description</string>

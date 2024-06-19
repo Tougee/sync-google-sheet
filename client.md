@@ -14,7 +14,7 @@
 | android, iOS, Desktop | About | About | 关于  | Mixinについて | Mengenai | Tentang |
 | android | about_version | Version %1$s | 版本 %1$s | バージョン%1$s | Versi %1$s | Versi %1$s |
 | android | Accept | Accept | 接听  | 確認  | Terima | Terima |
-| android, iOS | accepted_cards | Accepted cards: %1$s | 接受以下卡片: %1$s |     |     |     |
+| android | accepted_cards | Accepted cards: %1$s | 接受以下卡片: %1$s |     |     |     |
 | iOS | Access_Contacts_Hint | Mixin syncs your address book to Mixin servers to help you connect with other Mixin users | 同步通讯录到 Mixin 发现更多好友 | MixinはあなたのアドレスをMixinサーバーに同期させ、Mixinユーザーを自動追加します |     |     |
 | android, iOS, Desktop | Access_denied | Access denied | 禁止访问 | アクセスが拒否されました | Akses dinafikan | Akses ditolak |
 | iOS,android | Access_to_Contacts | Access to Contacts | 访问通讯录 | 連絡先へのアクセス |     |     |
@@ -33,12 +33,12 @@
 | iOS | Add_by_ID_or_Phone_number | Add by Mixin ID or Phone number | 通过 Mixin ID 或手机号码添加 | Mixin IDか電話番号で追加 |     |     |
 | iOS | Add_by_Phone_Contacts | Add by Phone Contacts | 通过手机通讯录添加 | スマホの連絡先から追加 |     |     |
 | iOS | Add_by_QR_Code | Add by QR Code | 通过二维码添加 | QRコードから追加 |     |     |
-| android, iOS | add_card | Add Card | 添加卡片 |     |     |     |
+| android | add_card | Add Card | 添加卡片 |     |     |     |
 | android, iOS | Add_circle | Add Circle | 添加圈子 | グループリストを追加 | Tambah Lingkaran | Tambahkan Lingkaran |
 | android, iOS, Desktop | Add_Contact | Add Contact | 添加联系人 | 友だちを追加 | Tambah Kenalan | Tambahkan Kontak |
 | Desktop | add_contact_with_plus | + Add Contact | + 添加联系人 | 友だちを追加 |     |     |
 | android, iOS | Add_conversations | Add Conversations | 添加会话 | チャットルームを追加 | Tambah Perbualan | Tambahkan Percakapan |
-| android, iOS | add_credit_or_debit_card | Add credit or debit card | 添加信用卡或借记卡 |     |     |     |
+| android | add_credit_or_debit_card | Add credit or debit card | 添加信用卡或借记卡 |     |     |     |
 | android, iOS | Add_emergency_contact | Add emergency contact | 添加紧急联系人 | 緊急連絡先を追加 | Tambahkan kenalan kecemasan | Tambahkan kontak darurat |
 | Desktop | add_file | Add File | 添加文件 | ファイルを追加 |     |     |
 | android, Desktop | Add_group_description | Add group description | 添加群公告 | グループアナウンス | Tambahkan keterangan kumpulan | Tambahkan deskripsi grup |

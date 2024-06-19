@@ -13,7 +13,7 @@
   <string name="About" platform="android, iOS, Desktop">关于</string>
   <string name="about_version" platform="android">版本 %1$s</string>
   <string name="Accept" platform="android">接听</string>
-  <string name="accepted_cards" platform="android, iOS">接受以下卡片: %1$s</string>
+  <string name="accepted_cards" platform="android">接受以下卡片: %1$s</string>
   <string name="Access_Contacts_Hint" platform="iOS">同步通讯录到 Mixin 发现更多好友</string>
   <string name="Access_denied" platform="android, iOS, Desktop">禁止访问</string>
   <string name="Access_to_Contacts" platform="iOS,android">访问通讯录</string>
@@ -32,12 +32,12 @@
   <string name="Add_by_ID_or_Phone_number" platform="iOS">通过 Mixin ID 或手机号码添加</string>
   <string name="Add_by_Phone_Contacts" platform="iOS">通过手机通讯录添加</string>
   <string name="Add_by_QR_Code" platform="iOS">通过二维码添加</string>
-  <string name="add_card" platform="android, iOS">添加卡片</string>
+  <string name="add_card" platform="android">添加卡片</string>
   <string name="Add_circle" platform="android, iOS">添加圈子</string>
   <string name="Add_Contact" platform="android, iOS, Desktop">添加联系人</string>
   <string name="add_contact_with_plus" platform="Desktop">+ 添加联系人</string>
   <string name="Add_conversations" platform="android, iOS">添加会话</string>
-  <string name="add_credit_or_debit_card" platform="android, iOS">添加信用卡或借记卡</string>
+  <string name="add_credit_or_debit_card" platform="android">添加信用卡或借记卡</string>
   <string name="Add_emergency_contact" platform="android, iOS">添加紧急联系人</string>
   <string name="add_file" platform="Desktop">添加文件</string>
   <string name="Add_group_description" platform="android, Desktop">添加群公告</string>
