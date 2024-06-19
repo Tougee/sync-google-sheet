@@ -1132,15 +1132,15 @@
   <string name="POST" platform="android">POST</string>
   <string name="Post" platform="android, iOS, Desktop">Post</string>
   <string name="post_sharing" platform="iOS">post</string>
-  <string name="powered_by_mixin_route_prefix" platform="android, iOS">Powered by</string>
-  <string name="powered_by_mixin_route_suffix" platform="android, iOS">Mixin Route</string>
+  <string name="powered_by_mixin_route_prefix" platform="android">Powered by</string>
+  <string name="powered_by_mixin_route_suffix" platform="android">Mixin Route</string>
   <string name="preferences" platform="Desktop">Preferences</string>
   <string name="Preparing" platform="iOS">Preparing...</string>
   <string name="Preparing_progress" platform="iOS">Preparing...(%@)</string>
   <string name="preview_unavailable" platform="android">Preview unavailable</string>
   <string name="preview_unavailable_description" platform="android">Unable to estimate asset changes. Please make sure you trust this dApp.</string>
   <string name="previous_conversation" platform="Desktop">Previous conversation</string>
-  <string name="price_expired" platform="android, iOS">Price Expired</string>
+  <string name="price_expired" platform="android">Price Expired</string>
   <string name="Privacy" platform="android, iOS">Privacy</string>
   <string name="Privacy_Policy" platform="android, iOS, Desktop">Privacy Policy</string>
   <string name="Process_can_not_be_stop" platform="android,iOS">The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.</string>

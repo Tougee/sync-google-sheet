@@ -1133,15 +1133,15 @@
 | android | POST | POST | 文章  | 投稿  | KIRIMAN | POSTINGAN |
 | android, iOS, Desktop | Post | Post | 文章  | 投稿  | Kirim | Postingan |
 | iOS | post_sharing | post | 文章  | 投稿  |     |     |
-| android, iOS | powered_by_mixin_route_prefix | Powered by | 由   |     |     |     |
-| android, iOS | powered_by_mixin_route_suffix | Mixin Route | Mixin Route 提供服务 |     |     |     |
+| android | powered_by_mixin_route_prefix | Powered by | 由   |     |     |     |
+| android | powered_by_mixin_route_suffix | Mixin Route | Mixin Route 提供服务 |     |     |     |
 | Desktop | preferences | Preferences | 偏好设置 | 環境設定 |     |     |
 | iOS | Preparing | Preparing... | 正在准备... | 準備中... |     |     |
 | iOS | Preparing_progress | Preparing...(%@) | 备份中...（%@） | 準備中...(%@) |     |     |
 | android | preview_unavailable | Preview unavailable | 预览不可用 |     |     |     |
 | android | preview_unavailable_description | Unable to estimate asset changes. Please make sure you trust this dApp. | 无法预览资产变化。请确保你信任此 dApp。 |     |     |     |
 | Desktop | previous_conversation | Previous conversation | 上一个会话 | 過去のチャットルーム |     |     |
-| android, iOS | price_expired | Price Expired | 报价已过期 |     |     |     |
+| android | price_expired | Price Expired | 报价已过期 |     |     |     |
 | android, iOS | Privacy | Privacy | 隐私  | プライバシー | Privasi | Privasi |
 | android, iOS, Desktop | Privacy_Policy | Privacy Policy | 隐私政策 | プライバシーポリシー | Dasar Privasi | Kebijakan Privasi |
 | android,iOS | Process_can_not_be_stop | The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly. | 流程一旦开始无法取消，请牢记 6 位数字 PIN，意外中止流程需要再次输入 |     |     |     |
