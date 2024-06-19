@@ -198,13 +198,13 @@
   <string name="bots_title" platform="android, iOS, Desktop">机器人</string>
   <string name="bottom_transfer_stranger_tip" platform="android">Mixin ID %1$s 不是您的联系人，请确认收款人是否正确。如果您转错了人资产将无法追回！</string>
   <string name="bring_all_to_front" platform="Desktop">前置所有窗口</string>
-  <string name="buy" platform="android, iOS">购买</string>
-  <string name="buy_asset" platform="android, iOS">购买 %1$s</string>
-  <string name="buy_failed" platform="android, iOS">交易失败</string>
-  <string name="buy_failed_description" platform="android, iOS">该交易在处理中出现了问题，请稍后重试。</string>
-  <string name="buy_success" platform="android, iOS">交易成功</string>
-  <string name="buy_success_description" platform="android, iOS">成功支付 %1$s。%2$s 将直接转入 Mixin 钱包。</string>
-  <string name="buying_limitation" platform="android, iOS">最少 %1$s, 最多 %2$s</string>
+  <string name="buy" platform="android">购买</string>
+  <string name="buy_asset" platform="android">购买 %1$s</string>
+  <string name="buy_failed" platform="android">交易失败</string>
+  <string name="buy_failed_description" platform="android">该交易在处理中出现了问题，请稍后重试。</string>
+  <string name="buy_success" platform="android">交易成功</string>
+  <string name="buy_success_description" platform="android">成功支付 %1$s。%2$s 将直接转入 Mixin 钱包。</string>
+  <string name="buying_limitation" platform="android">最少 %1$s, 最多 %2$s</string>
   <string name="buying_unavailable_description" platform="iOS">我们的团队正在努力扩大影响，目标是在不久的将来为您所在的地区提供服务。 一旦我们准备好便会给您留言。</string>
   <string name="calculating" platform="android, iOS">正在计算…</string>
   <string name="Call" platform="android, iOS">语音</string>

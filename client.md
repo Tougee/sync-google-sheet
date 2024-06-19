@@ -201,13 +201,13 @@
 | android, iOS, Desktop | bots_title | Bots | 机器人 | Myミニアプリ一覧 | Bot | Bot |
 | android | bottom_transfer_stranger_tip | Mixin ID %1$s is not on your contact list. Make sure the recipient you chosen is correct. If you transfer to the wrong person, your assets will be lost! | Mixin ID %1$s 不是您的联系人，请确认收款人是否正确。如果您转错了人资产将无法追回！ | Mixin ID %1$sはあなたの友達ではありません。選択した受取人が正しいかどうか確認してください。 | ID Mixin %1$s tidak ada dalam senarai kenalan anda. Pastikan penerima yang anda pilih betul. Sekiranya anda pindah ke orang yang salah, aset anda akan hilang! |     |
 | Desktop | bring_all_to_front | Bring All To Front | 前置所有窗口 |     |     |     |
-| android, iOS | buy | Buy | 购买  |     |     |     |
-| android, iOS | buy_asset | Buy %1$s | 购买 %1$s |     |     |     |
-| android, iOS | buy_failed | Failed | 交易失败 |     |     |     |
-| android, iOS | buy_failed_description | There was a problem processing the transaction, please try again later. | 该交易在处理中出现了问题，请稍后重试。 |     |     |     |
-| android, iOS | buy_success | Success | 交易成功 |     |     |     |
-| android, iOS | buy_success_description | Successful purchase of %1$s. %2$s will be transferred directly to Mixin wallet. | 成功支付 %1$s。%2$s 将直接转入 Mixin 钱包。 |     |     |     |
-| android, iOS | buying_limitation | Minimum %1$s, Maximum %2$s | 最少 %1$s, 最多 %2$s |     |     |     |
+| android | buy | Buy | 购买  |     |     |     |
+| android | buy_asset | Buy %1$s | 购买 %1$s |     |     |     |
+| android | buy_failed | Failed | 交易失败 |     |     |     |
+| android | buy_failed_description | There was a problem processing the transaction, please try again later. | 该交易在处理中出现了问题，请稍后重试。 |     |     |     |
+| android | buy_success | Success | 交易成功 |     |     |     |
+| android | buy_success_description | Successful purchase of %1$s. %2$s will be transferred directly to Mixin wallet. | 成功支付 %1$s。%2$s 将直接转入 Mixin 钱包。 |     |     |     |
+| android | buying_limitation | Minimum %1$s, Maximum %2$s | 最少 %1$s, 最多 %2$s |     |     |     |
 | iOS | buying_unavailable_description | Our team is working diligently to expand our reach, with the goal of supporting your region in the near future. Once we're ready to roll, we'll make sure to drop you a note. | 我们的团队正在努力扩大影响，目标是在不久的将来为您所在的地区提供服务。 一旦我们准备好便会给您留言。 |     |     |     |
 | android, iOS | calculating | Calculating… | 正在计算… |     |     |     |
 | android, iOS | Call | Call | 语音  | 電話  |     |     |
