@@ -17,11 +17,11 @@
   <string name="Access_Contacts_Hint" platform="iOS">Mixin syncs your address book to Mixin servers to help you connect with other Mixin users</string>
   <string name="Access_denied" platform="android, iOS, Desktop">Access denied</string>
   <string name="Access_to_Contacts" platform="iOS,android">Access to Contacts</string>
-  <string name="access_your_bots_list" platform="android, iOS">access your bots list</string>
-  <string name="access_your_circle_list" platform="android, iOS">access your circle list</string>
-  <string name="access_your_collectibles" platform="android, iOS">access your collectibles</string>
-  <string name="access_your_contacts_list" platform="android, iOS">access your contacts list</string>
-  <string name="access_your_snapshots" platform="android, iOS">access your snapshots</string>
+  <string name="access_your_bots_list" platform="android">access your bots list</string>
+  <string name="access_your_circle_list" platform="android">access your circle list</string>
+  <string name="access_your_collectibles" platform="android">access your collectibles</string>
+  <string name="access_your_contacts_list" platform="android">access your contacts list</string>
+  <string name="access_your_snapshots" platform="android">access your snapshots</string>
   <string name="Account" platform="android, iOS, Desktop">Account</string>
   <string name="Acknowledgements" platform="iOS">Acknowledgements</string>
   <string name="activity" platform="Desktop">Activity</string>
@@ -94,10 +94,10 @@
   <string name="alert_key_group_transcript_message" platform="android, iOS">%1$s sent a transcript</string>
   <string name="alert_key_group_video_message" platform="android, iOS">%1$s sent a video</string>
   <string name="All" platform="android, iOS">All</string>
-  <string name="All_chats" platform="iOS,android">All chats</string>
+  <string name="All_chats" platform="android">All chats</string>
   <string name="all_chats" platform="Desktop">Chats</string>
   <string name="All_Conversations" platform="android, iOS">All Conversations</string>
-  <string name="All_dates" platform="iOS,android">All dates</string>
+  <string name="All_dates" platform="android">All dates</string>
   <string name="All_Media" platform="android">All Media</string>
   <string name="All_Photos" platform="iOS">All Photos</string>
   <string name="All_signer_failure" platform="android,iOS">All node failure</string>

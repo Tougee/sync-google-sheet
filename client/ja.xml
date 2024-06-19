@@ -16,11 +16,11 @@
   <string name="Access_Contacts_Hint" platform="iOS">MixinはあなたのアドレスをMixinサーバーに同期させ、Mixinユーザーを自動追加します</string>
   <string name="Access_denied" platform="android, iOS, Desktop">アクセスが拒否されました</string>
   <string name="Access_to_Contacts" platform="iOS,android">連絡先へのアクセス</string>
-  <string name="access_your_bots_list" platform="android, iOS">あなたのミニアプリ一覧へのアクセス</string>
-  <string name="access_your_circle_list" platform="android, iOS">グループリスト一覧へのアクセス</string>
-  <string name="access_your_collectibles" platform="android, iOS">あなたのNFTコレクションへのアクセス</string>
-  <string name="access_your_contacts_list" platform="android, iOS">友達一覧へのアクセス</string>
-  <string name="access_your_snapshots" platform="android, iOS">スナップショットへのアクセス</string>
+  <string name="access_your_bots_list" platform="android">あなたのミニアプリ一覧へのアクセス</string>
+  <string name="access_your_circle_list" platform="android">グループリスト一覧へのアクセス</string>
+  <string name="access_your_collectibles" platform="android">あなたのNFTコレクションへのアクセス</string>
+  <string name="access_your_contacts_list" platform="android">友達一覧へのアクセス</string>
+  <string name="access_your_snapshots" platform="android">スナップショットへのアクセス</string>
   <string name="Account" platform="android, iOS, Desktop">アカウント</string>
   <string name="Acknowledgements" platform="iOS">謝辞</string>
   <string name="Add" platform="android, iOS, Desktop">追加</string>

@@ -4,10 +4,10 @@
   <string name="Accept" platform="android">Terima</string>
   <string name="Access_denied" platform="android, iOS, Desktop">Akses dinafikan</string>
   <string name="Access_to_Contacts" platform="iOS,android"> </string>
-  <string name="access_your_bots_list" platform="android, iOS">akses senarai aplikasi anda</string>
-  <string name="access_your_circle_list" platform="android, iOS">akses senarai lingkaran anda</string>
-  <string name="access_your_contacts_list" platform="android, iOS">akses senarai kenalan anda</string>
-  <string name="access_your_snapshots" platform="android, iOS">akses gambar anda</string>
+  <string name="access_your_bots_list" platform="android">akses senarai aplikasi anda</string>
+  <string name="access_your_circle_list" platform="android">akses senarai lingkaran anda</string>
+  <string name="access_your_contacts_list" platform="android">akses senarai kenalan anda</string>
+  <string name="access_your_snapshots" platform="android">akses gambar anda</string>
   <string name="Account" platform="android, iOS, Desktop">Akaun</string>
   <string name="Add_address" platform="android, iOS">Tambah alamat</string>
   <string name="Add_bot" platform="android, iOS">Tambah Bot</string>

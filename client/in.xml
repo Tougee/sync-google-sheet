@@ -3,9 +3,9 @@
   <string name="about_version" platform="android">Versi %1$s</string>
   <string name="Accept" platform="android">Terima</string>
   <string name="Access_denied" platform="android, iOS, Desktop">Akses ditolak</string>
-  <string name="access_your_bots_list" platform="android, iOS">mengakses daftar aplikasi Anda</string>
-  <string name="access_your_contacts_list" platform="android, iOS">mengakses daftar kontak Anda</string>
-  <string name="access_your_snapshots" platform="android, iOS">mengakses snapshot Anda</string>
+  <string name="access_your_bots_list" platform="android">mengakses daftar aplikasi Anda</string>
+  <string name="access_your_contacts_list" platform="android">mengakses daftar kontak Anda</string>
+  <string name="access_your_snapshots" platform="android">mengakses snapshot Anda</string>
   <string name="Account" platform="android, iOS, Desktop">Akun</string>
   <string name="Add_address" platform="android, iOS">Tambahkan alamat</string>
   <string name="Add_bot" platform="android, iOS">Tambahkan Bot</string>

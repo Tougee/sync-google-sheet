@@ -18,11 +18,11 @@
 | iOS | Access_Contacts_Hint | Mixin syncs your address book to Mixin servers to help you connect with other Mixin users | 同步通讯录到 Mixin 发现更多好友 | MixinはあなたのアドレスをMixinサーバーに同期させ、Mixinユーザーを自動追加します |     |     |
 | android, iOS, Desktop | Access_denied | Access denied | 禁止访问 | アクセスが拒否されました | Akses dinafikan | Akses ditolak |
 | iOS,android | Access_to_Contacts | Access to Contacts | 访问通讯录 | 連絡先へのアクセス |     |     |
-| android, iOS | access_your_bots_list | access your bots list | 访问你的机器人列表 | あなたのミニアプリ一覧へのアクセス | akses senarai aplikasi anda | mengakses daftar aplikasi Anda |
-| android, iOS | access_your_circle_list | access your circle list | 访问你的圈子列表 | グループリスト一覧へのアクセス | akses senarai lingkaran anda |     |
-| android, iOS | access_your_collectibles | access your collectibles | 访问你的 NFT 列表 | あなたのNFTコレクションへのアクセス |     |     |
-| android, iOS | access_your_contacts_list | access your contacts list | 访问你的联系人列表 | 友達一覧へのアクセス | akses senarai kenalan anda | mengakses daftar kontak Anda |
-| android, iOS | access_your_snapshots | access your snapshots | 访问你的转账记录 | スナップショットへのアクセス | akses gambar anda | mengakses snapshot Anda |
+| android | access_your_bots_list | access your bots list | 访问你的机器人列表 | あなたのミニアプリ一覧へのアクセス | akses senarai aplikasi anda | mengakses daftar aplikasi Anda |
+| android | access_your_circle_list | access your circle list | 访问你的圈子列表 | グループリスト一覧へのアクセス | akses senarai lingkaran anda |     |
+| android | access_your_collectibles | access your collectibles | 访问你的 NFT 列表 | あなたのNFTコレクションへのアクセス |     |     |
+| android | access_your_contacts_list | access your contacts list | 访问你的联系人列表 | 友達一覧へのアクセス | akses senarai kenalan anda | mengakses daftar kontak Anda |
+| android | access_your_snapshots | access your snapshots | 访问你的转账记录 | スナップショットへのアクセス | akses gambar anda | mengakses snapshot Anda |
 | android, iOS, Desktop | Account | Account | 账号  | アカウント | Akaun | Akun |
 | iOS | Acknowledgements | Acknowledgements | 许可证 | 謝辞  |     |     |
 | Desktop | activity | Activity | 活动  |     |     |     |
@@ -95,10 +95,10 @@
 | android, iOS | alert_key_group_transcript_message | %1$s sent a transcript | %1$s分享一个聊天记录 | %1$sがメッセージ履歴を共有しました |     |     |
 | android, iOS | alert_key_group_video_message | %1$s sent a video | %1$s发送一个视频 | %1$sが動画を送信しました | %1$s hantar video | %1$s mengirim video |
 | android, iOS | All | All | 全部  | すべて | Semua | Semua |
-| iOS,android | All_chats | All chats | 所有聊天 |     |     |     |
+| android | All_chats | All chats | 所有聊天 |     |     |     |
 | Desktop | all_chats | Chats | 全部聊天 | チャット |     |     |
 | android, iOS | All_Conversations | All Conversations | 所有会话 | すべてのチャットルーム | Semua Perbualan | Semua Percakapan |
-| iOS,android | All_dates | All dates | 所有日期 |     |     |     |
+| android | All_dates | All dates | 所有日期 |     |     |     |
 | android | All_Media | All Media | 全部  | 全てのメディア | Semua Media | Semua Media |
 | iOS | All_Photos | All Photos | 所有照片 | 全ての画像 |     |     |
 | android,iOS | All_signer_failure | All node failure | 所有节点失败 |     |     |     |
