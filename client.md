@@ -1875,9 +1875,9 @@
 | android, iOS, Desktop | NFT_TOKEN | NFT TOKEN | NFT 代币 |     |     |     |
 | android, iOS, Desktop | Collectible | Collectible | 藏品  |     |     |     |
 | android, iOS, Desktop | Collectibles | Collectibles | 藏品  |     |     |     |
-| android, iOS | search_placeholder_inscription | Name | 名称  |     |     |     |
+| android, iOS | search_placeholder_collectible | Name | 名称  |     |     |     |
 | android, iOS | alert_key_contact_collectible_message | sent you a collectible | 发送一个藏品 |     |     |     |
-| android, iOS | inscription_Hash | Inscription Hash | 藏品哈希 |     |     |     |
+| android, iOS | Collectible_Hash | Collectible Hash | 藏品哈希 |     |     |     |
 | android,iOS | Swap | Swap | 闪兑  |     |     |     |
 | android,iOS | Swapping | Swapping | 兑换中 |     |     |     |
 | android,iOS | Pay | Pay | 支付  |     |     |     |
@@ -1925,13 +1925,13 @@
 | android,iOS | web3_unknown | Unknown | 未知  |     |     |     |
 | android,iOS | Release | Release | 分解  |     |     |     |
 | android,iOS | collectible_releasing | Releasing | 分解中 |     |     |     |
-| android,iOS | collectible_releasing_description | The collectible is being released, please wait. | 铭文正在分解中，请稍候！ |     |     |     |
-| android,iOS | inscription_release_success | Release Successful | 分解成功 |     |     |     |
-| android,iOS | inscription_release_failed | Release Failed | 分解失败 |     |     |     |
-| android,iOS | inscription_released_description | The inscription was released successfully. Click to view the tokens. | 收藏品分解成功，点击查看代币。 |     |     |     |
-| android,iOS | inscription_release_confirmation | Release Inscription | 分解收藏品 |     |     |     |
-| android,iOS | inscription_release_hint | Releasing the inscription will immediately provide the corresponding tokens, which can be transferred, traded, or used to mint new inscriptions. | 分解收藏品可以立刻获得相应的代币，代币可转账、交易或重新铸造收藏品。 |     |     |     |
-| android | inscription_not_found | Inscription does not exist | 藏品不存在 |     |     |     |
+| android,iOS | collectible_releasing_description | The collectible is being released, please wait. | 正在分解藏品，请稍候。 |     |     |     |
+| android,iOS | collectible_release_success | Release Successful | 分解成功 |     |     |     |
+| android,iOS | collectible_release_failed | Release Failed | 分解失败 |     |     |     |
+| android,iOS | collectible_released_description | The collectible was released successfully. Click to view the tokens. | 藏品分解成功，点击查看代币。 |     |     |     |
+| android,iOS | collectible_release_confirmation | Release Collectible | 分解藏品 |     |     |     |
+| android,iOS | collectible_release_hint | Releasing the collectible will immediately provide the corresponding tokens, which can be transferred, traded, or used to mint new collectibles. | 分解藏品可以立刻获得相应的代币，代币可转账、交易或重新铸造藏品。 |     |     |     |
+| android | collectible_not_found | Collectible does not exist | 藏品不存在 |     |     |     |
 | android,iOS | Token | Token | 代币  |     |     |     |
 | android,iOS | Link | Link | 链接  |     |     |     |
 | android,iOS | Set_as_avatar | Set as Avatar | 设置为头像 |     |     |     |
