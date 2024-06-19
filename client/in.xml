@@ -360,8 +360,8 @@
   <string name="Logs" platform="android, iOS">Log</string>
   <string name="Lost_your_mobile_number" platform="android, iOS">Kehilangan nomor ponsel Anda?</string>
   <string name="Make_group_admin" platform="android, iOS, Desktop">Jadikan admin grup</string>
-  <string name="manage_all_your_bots" platform="android, iOS">mengelola semua aplikasi Anda</string>
-  <string name="Manage_Bots" platform="android, iOS">Mengelola Aplikasi</string>
+  <string name="manage_all_your_bots" platform="android">mengelola semua aplikasi Anda</string>
+  <string name="Manage_Bots" platform="android">Mengelola Aplikasi</string>
   <string name="Manager_Sticker" platform="android">Stiker Manajer</string>
   <string name="Mark_as_read" platform="android">Tandai sudah dibaca</string>
   <string name="Media" platform="android, iOS, Desktop">Media</string>

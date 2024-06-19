@@ -783,8 +783,8 @@
   <string name="invites_you_to_a_voice_call" platform="iOS">发起了语音通话</string>
   <string name="is_network_available" platform="android">网络已连接</string>
   <string name="italic" platform="android">斜体</string>
-  <string name="Items_Selected_Count" platform="iOS,android">已选择 1 个</string>
-  <string name="Items_Selected_Counts" platform="iOS,android">已选择 %1$s 个</string>
+  <string name="Items_Selected_Count" platform="android">已选择 1 个</string>
+  <string name="Items_Selected_Counts" platform="android">已选择 %1$s 个</string>
   <string name="Join_group" platform="android, iOS">加入群组</string>
   <string name="join_group_with_plus" platform="Desktop">+ 加入群组</string>
   <string name="Joined_in" platform="android, iOS, Desktop">%1$s 加入</string>
@@ -802,10 +802,10 @@
   <string name="Last_active_time" platform="iOS">最后登入于 %@</string>
   <string name="Last_Backup" platform="android">上次备份</string>
   <string name="last_backup_hint" platform="iOS">上次备份是 %@，占用空间 %@。</string>
-  <string name="Last_month" platform="iOS,android">最近一个月</string>
-  <string name="Last_months" platform="iOS,android">最近 %1$s 个月</string>
-  <string name="Last_year" platform="iOS,android">最近一年</string>
-  <string name="Last_years" platform="iOS,android">最近 %1$s 年</string>
+  <string name="Last_month" platform="android">最近一个月</string>
+  <string name="Last_months" platform="android">最近 %1$s 个月</string>
+  <string name="Last_year" platform="android">最近一年</string>
+  <string name="Last_years" platform="android">最近 %1$s 年</string>
   <string name="Later" platform="android, iOS">稍后</string>
   <string name="Learn_More" platform="android, iOS, Desktop">了解更多</string>
   <string name="leave_message_to_team_mixin" platform="android,iOS">给 Mixin 客服留言</string>
@@ -859,9 +859,9 @@
   <string name="Lost_your_mobile_number" platform="android, iOS">手机丢失？</string>
   <string name="Make_group_admin" platform="android, iOS, Desktop">设定为群组管理员</string>
   <string name="Manage" platform="iOS">管理</string>
-  <string name="manage_all_your_bots" platform="android, iOS">管理你所有的机器人</string>
-  <string name="manage_all_your_circles" platform="android, iOS">管理你所有的圈子</string>
-  <string name="Manage_Bots" platform="android, iOS">管理机器人</string>
+  <string name="manage_all_your_bots" platform="android">管理你所有的机器人</string>
+  <string name="manage_all_your_circles" platform="android">管理你所有的圈子</string>
+  <string name="Manage_Bots" platform="android">管理机器人</string>
   <string name="Manage_your_apps" platform="android, iOS">管理你所有的机器人</string>
   <string name="Manage_your_circles" platform="android, iOS">管理你所有的圈子</string>
   <string name="Manager_Sticker" platform="android">管理贴纸</string>
@@ -901,7 +901,7 @@
   <string name="Mobile_Contacts" platform="iOS">通讯录</string>
   <string name="Model" platform="android">手机型号</string>
   <string name="Monday" platform="android">星期一</string>
-  <string name="Month" platform="iOS,android">月</string>
+  <string name="Month" platform="android">月</string>
   <string name="Monthly" platform="iOS">每月</string>
   <string name="More" platform="android, iOS, Desktop">更多</string>
   <string name="Move_and_Scale" platform="iOS">移动和缩放</string>

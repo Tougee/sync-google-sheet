@@ -796,8 +796,8 @@
 | iOS | invites_you_to_a_voice_call | invites you to a voice call | 发起了语音通话 | グループ通話に招待されました | tanya anda panggilan audio | meminta panggilan audio dengan Anda |
 | android | is_network_available | isNetworkAvailable | 网络已连接 | isNetworkAvailable |     |     |
 | android | italic | italic | 斜体  | 斜体  | Italik |     |
-| iOS,android | Items_Selected_Count | 1 Item Selected | 已选择 1 个 |     |     |     |
-| iOS,android | Items_Selected_Counts | %1$s Items Selected | 已选择 %1$s 个 |     |     |     |
+| android | Items_Selected_Count | 1 Item Selected | 已选择 1 个 |     |     |     |
+| android | Items_Selected_Counts | %1$s Items Selected | 已选择 %1$s 个 |     |     |     |
 | android, iOS | Join_group | Join Group | 加入群组 | グループに参加 |     |     |
 | Desktop | join_group_with_plus | + Join group | + 加入群组 | グループに参加 |     |     |
 | android, iOS, Desktop | Joined_in | Joined on %1$s | %1$s 加入 | %1$sからMixinを利用しています | Menyertai %1$s | Bergabung di %1$s |
@@ -819,10 +819,10 @@
 | iOS | Last_active_time | Last active %@ | 最后登入于 %@ | 直近のアクティビティ%@ |     |     |
 | android | Last_Backup | Last Backup | 上次备份 | 最後のバックアップ | Sandaran Terakhir | Pencadangan Terakhir |
 | iOS | last_backup_hint | Last backup on %@, total size %@. | 上次备份是 %@，占用空间 %@。 | 最後に行ったバックアップ %@, 合計サイズ %@. |     |     |
-| iOS,android | Last_month | Last month | 最近一个月 |     |     |     |
-| iOS,android | Last_months | Last %1$s months | 最近 %1$s 个月 |     |     |     |
-| iOS,android | Last_year | Last year | 最近一年 |     |     |     |
-| iOS,android | Last_years | Last %1$s  years | 最近 %1$s 年 |     |     |     |
+| android | Last_month | Last month | 最近一个月 |     |     |     |
+| android | Last_months | Last %1$s months | 最近 %1$s 个月 |     |     |     |
+| android | Last_year | Last year | 最近一年 |     |     |     |
+| android | Last_years | Last %1$s  years | 最近 %1$s 年 |     |     |     |
 | android, iOS | Later | Later | 稍后  | 後で  | Kemudian | Nanti |
 | android, iOS, Desktop | Learn_More | Learn More | 了解更多 | こちら | Ketahui Lebih Lanjut | Pelajari Selengkapnya |
 | android,iOS | leave_message_to_team_mixin | Leave a message to Team Mixin | 给 Mixin 客服留言 |     |     |     |
@@ -877,9 +877,9 @@
 | android, iOS | Lost_your_mobile_number | Lost your mobile number? | 手机丢失？ | 電話番号をお忘れですか？ | Kehilangan nombor telefon bimbit anda? | Kehilangan nomor ponsel Anda? |
 | android, iOS, Desktop | Make_group_admin | Make group admin | 设定为群组管理员 | 管理者権限を付与 | Buat pentadbir kumpulan | Jadikan admin grup |
 | iOS | Manage | Manage | 管理  | 管理  |     |     |
-| android, iOS | manage_all_your_bots | mange all your bots | 管理你所有的机器人 | 全ミニアプリの管理 | urus semua aplikasi anda | mengelola semua aplikasi Anda |
-| android, iOS | manage_all_your_circles | manage all your circles | 管理你所有的圈子 | グループリストの編集 | urus semua lingkaran anda |     |
-| android, iOS | Manage_Bots | Manage Bots | 管理机器人 | ミニアプリの管理 | Urus Aplikasi | Mengelola Aplikasi |
+| android | manage_all_your_bots | mange all your bots | 管理你所有的机器人 | 全ミニアプリの管理 | urus semua aplikasi anda | mengelola semua aplikasi Anda |
+| android | manage_all_your_circles | manage all your circles | 管理你所有的圈子 | グループリストの編集 | urus semua lingkaran anda |     |
+| android | Manage_Bots | Manage Bots | 管理机器人 | ミニアプリの管理 | Urus Aplikasi | Mengelola Aplikasi |
 | android, iOS | Manage_your_apps | Manage your bots | 管理你所有的机器人 |     |     |     |
 | android, iOS | Manage_your_circles | Manage your circles | 管理你所有的圈子 |     |     |     |
 | android | Manager_Sticker | Manager Sticker | 管理贴纸 | スタンプ管理 | Pengurus Pelekat | Stiker Manajer |
@@ -920,7 +920,7 @@
 | iOS | Mobile_Contacts | Mobile Contacts | 通讯录 | 連絡先 |     |     |
 | android | Model | Model | 手机型号 | モデル |     |     |
 | android | Monday | Monday | 星期一 | 月曜日 | Isnin | Senin |
-| iOS,android | Month | Month | 月   |     |     |     |
+| android | Month | Month | 月   |     |     |     |
 | iOS | Monthly | Monthly | 每月  | 月   |     |     |
 | android, iOS, Desktop | More | More | 更多  | もっとみる | Lebih banyak lagi | Lebih banyak |
 | iOS | Move_and_Scale | Move and Scale | 移动和缩放 | 移動と拡大縮小 |     |     |

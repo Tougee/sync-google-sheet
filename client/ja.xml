@@ -713,9 +713,9 @@
   <string name="Lost_your_mobile_number" platform="android, iOS">電話番号をお忘れですか？</string>
   <string name="Make_group_admin" platform="android, iOS, Desktop">管理者権限を付与</string>
   <string name="Manage" platform="iOS">管理</string>
-  <string name="manage_all_your_bots" platform="android, iOS">全ミニアプリの管理</string>
-  <string name="manage_all_your_circles" platform="android, iOS">グループリストの編集</string>
-  <string name="Manage_Bots" platform="android, iOS">ミニアプリの管理</string>
+  <string name="manage_all_your_bots" platform="android">全ミニアプリの管理</string>
+  <string name="manage_all_your_circles" platform="android">グループリストの編集</string>
+  <string name="Manage_Bots" platform="android">ミニアプリの管理</string>
   <string name="Manager_Sticker" platform="android">スタンプ管理</string>
   <string name="Manufacturer" platform="android">Manufacturer</string>
   <string name="Mark_as_read" platform="android">既読</string>

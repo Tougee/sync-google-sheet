@@ -383,9 +383,9 @@
   <string name="Logs" platform="android, iOS">Log</string>
   <string name="Lost_your_mobile_number" platform="android, iOS">Kehilangan nombor telefon bimbit anda?</string>
   <string name="Make_group_admin" platform="android, iOS, Desktop">Buat pentadbir kumpulan</string>
-  <string name="manage_all_your_bots" platform="android, iOS">urus semua aplikasi anda</string>
-  <string name="manage_all_your_circles" platform="android, iOS">urus semua lingkaran anda</string>
-  <string name="Manage_Bots" platform="android, iOS">Urus Aplikasi</string>
+  <string name="manage_all_your_bots" platform="android">urus semua aplikasi anda</string>
+  <string name="manage_all_your_circles" platform="android">urus semua lingkaran anda</string>
+  <string name="Manage_Bots" platform="android">Urus Aplikasi</string>
   <string name="Manager_Sticker" platform="android">Pengurus Pelekat</string>
   <string name="Mark_as_read" platform="android">tanda sebagai telah dibaca</string>
   <string name="Media" platform="android, iOS, Desktop">Media</string>
