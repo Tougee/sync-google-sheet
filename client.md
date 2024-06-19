@@ -1265,7 +1265,6 @@
 | android | Saturday | Saturday | 星期六 | 土曜日 | Sabtu | Sabtu |
 | android, iOS, Desktop | Save | Save | 保存  | 保存  | Jimat | Simpan |
 | Desktop | save_as | Save as | 另存为 | 名前をつけて保存 |     |     |
-| iOS | Save_by_PIN | Save by PIN | 通过 PIN 保存 | ピンで保存 |     |     |
 | android | Save_failure | Save failure | 保存失败 | 保存失敗 | Simpan kegagalan | Gagal menyimpan |
 | android, iOS | Save_image | Save Image | 保存图片 | 画像を保存する | Menyimpan imej | Simpan Gambar |
 | android | Save_success | Save success | 保存成功 | 保存成功 | Simpan kejayaan | Berhasil menyimpan |
@@ -1468,8 +1467,6 @@
 | android, iOS | Stop_Playing | Stop Playing | 停止播放 | 再生を止める | Berhenti bermain |     |
 | android, iOS | Stop_playing_this_list | Stop playing this list? | 确定要停止并关闭播放列表？ | 再生を止めて、プレイリストを閉じますか？ |     |     |
 | android | Stop_syncing_hint | Do you want to stop syncing chat history? | 确定中止聊天记录同步吗？ |     |     |     |
-| iOS | Storage_almost_full | Storage almost full | 存储空间几乎已满 |     |     |     |
-| iOS | Storage_almost_full_tip | You can free up storage by deleting items that are large or have been forwarded many times. | 您可以通过删除大的或已被多次转发的项目来释放存储空间。 |     |     |     |
 | Desktop | storage_auto_download_description | Change auto-download settings for medias. | 更改媒体的自动下载设置。 | メディアの自動ダウンロード設定を変更する |     |     |
 | android | storage_low_message | Your phone is low on storage, which can seriously affect your Mixin experience and may even result in corrupted or lost chats and other important data. So it's recommended to uninstall unused apps to clear up enough space | 手机存储空间严重不足，建议清理不重要的视频和文件、卸载不常用的软件，以免影响 Mixin 的使用体验，甚至可能造成聊天丢失或数据损坏 | ストレージ容量の空きが少ないためデータや履歴が破損する恐れがあります、容量を空けてください。 | Storan telefon anda hampir penuh, yang boleh menjejaskan pengalaman Mixin anda secara serius dan boleh mengakibatkan sembang yang rosak atau hilang dan data penting lain. Oleh itu, disarankan untuk nyahpasang aplikasi yang tidak digunakan untuk memberi lebih ruang | Ruang penyimpanan ponsel Anda hampir habis, sehingga dapat memengaruhi penggunaan Mixin oleh Anda dan bahkan dapat mengakibatkan rusak atau hilangnya obrolan serta data penting lainnya. Anda disarankan untuk menghapus aplikasi yang tidak digunakan untuk memberi ruang yang cukup |
 | android | storage_low_title | Your phone is low on storage | 手机储存空间即将用尽 | ストレージ容量の空きが少ないです | Storan telefon anda hampir penuh | Ruang penyimpanan ponsel Anda hampir habis |
@@ -1479,7 +1476,7 @@
 | Desktop | strangers | Strangers | 陌生人 | 連絡先にない相手 |     |     |
 | android | strikethrough | strikethrough | 删除线 | 取り消し線 | mencoret |     |
 | android, Desktop, iOS | Successful | Successful | 成功  | 成功  | Berjaya | Berhasil |
-| android, iOS | sumsub_not_ready | KYC not available | KYC服务不可用 |     |     |     |
+| android | sumsub_not_ready | KYC not available | KYC服务不可用 |     |     |     |
 | android | Sunday | Sunday | 星期日 | 日曜日 | Ahad | Minggu |
 | android, iOS | suspended_deposit | The deposit for %1$s has been temporarily suspended. This action has been taken due to potential factors such as low utilization, node failure, blockchain network hard fork, or congestion. We kindly request your attention to the fact that the %2$s assets already stored in the wallet remain transferable. | %1$s 充值已暂停，可能的原因是因为使用率太低、节点故障、区块链网络硬分叉或者拥堵，注意已转入的 %2$s 资产可以继续转账。 |     |     |     |
 | android, iOS | Suspicious_Link | Suspicious Link | 可疑链接 | 不審なリンクです | Pautan yang mencurigakan | Tautan yang Mencurigakan |
@@ -1637,9 +1634,9 @@
 | iOS | Validation_timed_out | Validation timed out | 验证超时 | 認証時間切れ |     |     |
 | android, iOS, Desktop | value_now | value now %1$s | 价值 %1$s | 現在価格 %1$s | nilai sekarang %1$s |     |
 | android, iOS, Desktop | value_then | value then %1$s | 当时价值 %1$s | 当時の価格 %1$s | nilai maka %1$s |     |
-| android, iOS | verification_blocked_description | Your verification failed, possibly because there was a problem with some documents, please click the button below to contact with us. | 你的验证失败了，可能是因为提交的文件有问题，请点击下面按钮联系客服。 |     |     |     |
-| android, iOS | verification_failed | Verification Failed | 验证失败 |     |     |     |
-| android, iOS | verification_failed_description | Your verification failed, possibly because some required identification documents were not submitted or there was a problem with some documents. | 您的验证失败，可能是因为未提交所有必需的身份证明文件或某些文件存在问题。 |     |     |     |
+| android | verification_blocked_description | Your verification failed, possibly because there was a problem with some documents, please click the button below to contact with us. | 你的验证失败了，可能是因为提交的文件有问题，请点击下面按钮联系客服。 |     |     |     |
+| android | verification_failed | Verification Failed | 验证失败 |     |     |     |
+| android | verification_failed_description | Your verification failed, possibly because some required identification documents were not submitted or there was a problem with some documents. | 您的验证失败，可能是因为未提交所有必需的身份证明文件或某些文件存在问题。 |     |     |     |
 | android, iOS | Verify | Verify | 验证  | 認証  | Sahkan | Verifikasikan |
 | android | Verify_by_Biometric | Verify by Biometric | 用生物识别来验证 | 生体認証で認証 | Sahkan dengan Biometrik | Verifikasi dengan Biometrik |
 | android, iOS, Desktop | Verify_PIN | Verify PIN | 验证 PIN | PINコードを認証 | Sahkan PIN | Verifikasikan PIN |

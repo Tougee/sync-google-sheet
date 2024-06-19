@@ -1264,7 +1264,6 @@
   <string name="Saturday" platform="android">Saturday</string>
   <string name="Save" platform="android, iOS, Desktop">Save</string>
   <string name="save_as" platform="Desktop">Save as</string>
-  <string name="Save_by_PIN" platform="iOS">Save by PIN</string>
   <string name="Save_failure" platform="android">Save failure</string>
   <string name="Save_image" platform="android, iOS">Save Image</string>
   <string name="Save_success" platform="android">Save success</string>
@@ -1467,8 +1466,6 @@
   <string name="Stop_Playing" platform="android, iOS">Stop Playing</string>
   <string name="Stop_playing_this_list" platform="android, iOS">Stop playing this list?</string>
   <string name="Stop_syncing_hint" platform="android">Do you want to stop syncing chat history?</string>
-  <string name="Storage_almost_full" platform="iOS">Storage almost full</string>
-  <string name="Storage_almost_full_tip" platform="iOS">You can free up storage by deleting items that are large or have been forwarded many times.</string>
   <string name="storage_auto_download_description" platform="Desktop">Change auto-download settings for medias.</string>
   <string name="storage_low_message" platform="android">Your phone is low on storage, which can seriously affect your Mixin experience and may even result in corrupted or lost chats and other important data. So it's recommended to uninstall unused apps to clear up enough space</string>
   <string name="storage_low_title" platform="android">Your phone is low on storage</string>
@@ -1478,7 +1475,7 @@
   <string name="strangers" platform="Desktop">Strangers</string>
   <string name="strikethrough" platform="android">strikethrough</string>
   <string name="Successful" platform="android, Desktop, iOS">Successful</string>
-  <string name="sumsub_not_ready" platform="android, iOS">KYC not available</string>
+  <string name="sumsub_not_ready" platform="android">KYC not available</string>
   <string name="Sunday" platform="android">Sunday</string>
   <string name="suspended_deposit" platform="android, iOS">The deposit for %1$s has been temporarily suspended. This action has been taken due to potential factors such as low utilization, node failure, blockchain network hard fork, or congestion. We kindly request your attention to the fact that the %2$s assets already stored in the wallet remain transferable.</string>
   <string name="Suspicious_Link" platform="android, iOS">Suspicious Link</string>
@@ -1636,9 +1633,9 @@
   <string name="Validation_timed_out" platform="iOS">Validation timed out</string>
   <string name="value_now" platform="android, iOS, Desktop">value now %1$s</string>
   <string name="value_then" platform="android, iOS, Desktop">value then %1$s</string>
-  <string name="verification_blocked_description" platform="android, iOS">Your verification failed, possibly because there was a problem with some documents, please click the button below to contact with us.</string>
-  <string name="verification_failed" platform="android, iOS">Verification Failed</string>
-  <string name="verification_failed_description" platform="android, iOS">Your verification failed, possibly because some required identification documents were not submitted or there was a problem with some documents.</string>
+  <string name="verification_blocked_description" platform="android">Your verification failed, possibly because there was a problem with some documents, please click the button below to contact with us.</string>
+  <string name="verification_failed" platform="android">Verification Failed</string>
+  <string name="verification_failed_description" platform="android">Your verification failed, possibly because some required identification documents were not submitted or there was a problem with some documents.</string>
   <string name="Verify" platform="android, iOS">Verify</string>
   <string name="Verify_by_Biometric" platform="android">Verify by Biometric</string>
   <string name="Verify_PIN" platform="android, iOS, Desktop">Verify PIN</string>

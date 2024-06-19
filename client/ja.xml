@@ -1013,7 +1013,6 @@
   <string name="Saturday" platform="android">土曜日</string>
   <string name="Save" platform="android, iOS, Desktop">保存</string>
   <string name="save_as" platform="Desktop">名前をつけて保存</string>
-  <string name="Save_by_PIN" platform="iOS">ピンで保存</string>
   <string name="Save_failure" platform="android">保存失敗</string>
   <string name="Save_image" platform="android, iOS">画像を保存する</string>
   <string name="Save_success" platform="android">保存成功</string>

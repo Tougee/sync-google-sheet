@@ -1245,7 +1245,6 @@
   <string name="Saturday" platform="android">星期六</string>
   <string name="Save" platform="android, iOS, Desktop">保存</string>
   <string name="save_as" platform="Desktop">另存为</string>
-  <string name="Save_by_PIN" platform="iOS">通过 PIN 保存</string>
   <string name="Save_failure" platform="android">保存失败</string>
   <string name="Save_image" platform="android, iOS">保存图片</string>
   <string name="Save_success" platform="android">保存成功</string>
@@ -1446,8 +1445,6 @@
   <string name="Stop_Playing" platform="android, iOS">停止播放</string>
   <string name="Stop_playing_this_list" platform="android, iOS">确定要停止并关闭播放列表？</string>
   <string name="Stop_syncing_hint" platform="android">确定中止聊天记录同步吗？</string>
-  <string name="Storage_almost_full" platform="iOS">存储空间几乎已满</string>
-  <string name="Storage_almost_full_tip" platform="iOS">您可以通过删除大的或已被多次转发的项目来释放存储空间。</string>
   <string name="storage_auto_download_description" platform="Desktop">更改媒体的自动下载设置。</string>
   <string name="storage_low_message" platform="android">手机存储空间严重不足，建议清理不重要的视频和文件、卸载不常用的软件，以免影响 Mixin 的使用体验，甚至可能造成聊天丢失或数据损坏</string>
   <string name="storage_low_title" platform="android">手机储存空间即将用尽</string>
@@ -1457,7 +1454,7 @@
   <string name="strangers" platform="Desktop">陌生人</string>
   <string name="strikethrough" platform="android">删除线</string>
   <string name="Successful" platform="android, Desktop, iOS">成功</string>
-  <string name="sumsub_not_ready" platform="android, iOS">KYC服务不可用</string>
+  <string name="sumsub_not_ready" platform="android">KYC服务不可用</string>
   <string name="Sunday" platform="android">星期日</string>
   <string name="suspended_deposit" platform="android, iOS">%1$s 充值已暂停，可能的原因是因为使用率太低、节点故障、区块链网络硬分叉或者拥堵，注意已转入的 %2$s 资产可以继续转账。</string>
   <string name="Suspicious_Link" platform="android, iOS">可疑链接</string>
@@ -1614,9 +1611,9 @@
   <string name="Validation_timed_out" platform="iOS">验证超时</string>
   <string name="value_now" platform="android, iOS, Desktop">价值 %1$s</string>
   <string name="value_then" platform="android, iOS, Desktop">当时价值 %1$s</string>
-  <string name="verification_blocked_description" platform="android, iOS">你的验证失败了，可能是因为提交的文件有问题，请点击下面按钮联系客服。</string>
-  <string name="verification_failed" platform="android, iOS">验证失败</string>
-  <string name="verification_failed_description" platform="android, iOS">您的验证失败，可能是因为未提交所有必需的身份证明文件或某些文件存在问题。</string>
+  <string name="verification_blocked_description" platform="android">你的验证失败了，可能是因为提交的文件有问题，请点击下面按钮联系客服。</string>
+  <string name="verification_failed" platform="android">验证失败</string>
+  <string name="verification_failed_description" platform="android">您的验证失败，可能是因为未提交所有必需的身份证明文件或某些文件存在问题。</string>
   <string name="Verify" platform="android, iOS">验证</string>
   <string name="Verify_by_Biometric" platform="android">用生物识别来验证</string>
   <string name="Verify_PIN" platform="android, iOS, Desktop">验证 PIN</string>
