@@ -573,7 +573,7 @@
   <string name="error_transcript_forward" platform="android, Desktop">Reenvía todos los archivos adjuntos después de que se hayan descargado.</string>
   <string name="error_transfer_is_already_paid" platform="android, iOS">ERROR 20125: La transferencia ya está pagada.</string>
   <string name="error_two_parts" platform="iOS">ERROR %@: %@</string>
-  <string name="error_unable_to_open_link" platform="android">No puedo encontrar una aplicación capaz de abrir este enlace.&#13;\n%1$s</string>
+  <string name="error_unable_to_open_link" platform="android">No puedo encontrar una aplicación capaz de abrir este enlace.\n%1$s</string>
   <string name="error_unable_to_open_media" platform="android, Desktop">No puedo encontrar una aplicación capaz de abrir este medio.</string>
   <string name="error_unknown_with_code" platform="android, Desktop">ERROR: %1$d</string>
   <string name="error_unknown_with_message" platform="android, Desktop">ERROR: %1$s</string>
@@ -759,7 +759,7 @@
   <string name="location_accurate.count" platform="android">Precisión de %1$d metros</string>
   <string name="location_distance" platform="iOS">Distancia: %@</string>
   <string name="location_distance_away" platform="android">%1$s %2$s de distancia</string>
-  <string name="location_empty" platform="android, iOS">No ha habido resultados para %1$s&#13;\nPrueba una nueva búsqueda</string>
+  <string name="location_empty" platform="android, iOS">No ha habido resultados para %1$s\nPrueba una nueva búsqueda</string>
   <string name="location_enable_title" platform="android">Habilita tu GPS para acceder a la ubicación</string>
   <string name="location_google_error" platform="android">El servicio de Google no está instalado.</string>
   <string name="location_kilometre" platform="android">km</string>
@@ -945,7 +945,7 @@
   <string name="Pay_with_Biometrics" platform="android">Pagar con biometría</string>
   <string name="Pay_with_PIN" platform="android, iOS">Pagar con PIN</string>
   <string name="Pay_with_PIN_interval" platform="android, iOS">Intervalo de pago con PIN</string>
-  <string name="Pay_withdrawal_memo" platform="iOS">Importe %@ %@&#13;\nTarifa %@ %@</string>
+  <string name="Pay_withdrawal_memo" platform="iOS">Importe %@ %@\nTarifa %@ %@</string>
   <string name="Peer_closed" platform="iOS">Par cerrado</string>
   <string name="Peer_not_found" platform="iOS">Par no encontrado</string>
   <string name="pending_confirmation" platform="android, iOS, Desktop">%1$d/%2$d confirmación</string>
@@ -1073,7 +1073,7 @@
   <string name="Reset_notifications" platform="android">Restablecer notificaciones</string>
   <string name="RESTART" platform="android">REANUDAR</string>
   <string name="Restore" platform="android, iOS">Restaurar</string>
-  <string name="restore_chat_hint" platform="iOS">Restaura tu&#13;\nhistorial de chat desde iCloud</string>
+  <string name="restore_chat_hint" platform="iOS">Restaura tu\nhistorial de chat desde iCloud</string>
   <string name="restore_choose_backup_folder" platform="android">No encontrado, elige la carpeta de copia de seguridad</string>
   <string name="restore_in_progress" platform="android">Restauración en progreso</string>
   <string name="restore_info" platform="android">Restaura tus mensajes desde el almacenamiento externo.\nSi no restauras nuevo, no podrás restaurar más tarde.</string>
