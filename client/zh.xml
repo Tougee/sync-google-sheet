@@ -1230,7 +1230,7 @@
   <string name="restore_path" platform="android">备份路径：%1$s</string>
   <string name="Restore_Your_Chat_History" platform="iOS">恢复你的聊天记录</string>
   <string name="Restoring" platform="android, iOS">正在恢复...</string>
-  <string name="Restoring_Chat_Progress" platform="iOS,android">恢复聊天记录（%1$s%）</string>
+  <string name="Restoring_Chat_Progress" platform="iOS,android">恢复聊天记录（%1$s%%）</string>
   <string name="Restoring_progress" platform="iOS">正在恢复 %@</string>
   <string name="Retry" platform="android, iOS, Desktop">重试</string>
   <string name="Retry_upload_failed" platform="android, Desktop">重新上传失败。</string>
@@ -1286,7 +1286,7 @@
   <string name="security_code" platform="android, iOS">安全码</string>
   <string name="security_code_error" platform="android, iOS">请输入有效的安全码</string>
   <string name="Select" platform="android, iOS, Desktop">选择</string>
-  <string name="select_a_card" platform="android, iOS">选择卡片</string>
+  <string name="select_a_card" platform="android">选择卡片</string>
   <string name="Select_a_country_or_region" platform="iOS">选择一个国家或地区</string>
   <string name="select_a_token_for_the_fee" platform="android,iOS">选择支付手续费的币种</string>
   <string name="Select_All" platform="iOS,android">选择所有</string>
@@ -1426,7 +1426,7 @@
   <string name="Sort_by" platform="android, iOS">顺序</string>
   <string name="Start" platform="android,iOS">开始</string>
   <string name="Start_Messaging" platform="android, iOS">开始聊天</string>
-  <string name="Start_Migration" platform="android,iOS">开始迁移</string>
+  <string name="Start_Migration" platform="android">开始迁移</string>
   <string name="started_group_call" platform="iOS">%@ 开始了群通话</string>
   <string name="Status" platform="android, iOS, Desktop">交易状态</string>
   <string name="stay_in_mixin" platform="android, iOS">留在 Mixin</string>
@@ -1859,7 +1859,7 @@
   <string name="Swapping" platform="android,iOS">兑换中</string>
   <string name="Pay" platform="android,iOS">支付</string>
   <string name="Received" platform="android,iOS">收到</string>
-  <string name="Review_Order" platform="android,iOS">预览订单</string>
+  <string name="Review_Order" platform="android">预览订单</string>
   <string name="View_Transaction" platform="android,iOS">查看区块链浏览器</string>
   <string name="Confirming_Transaction" platform="android">正在确认交易</string>
   <string name="Transaction_Success" platform="android,iOS">交易成功</string>

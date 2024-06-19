@@ -1249,7 +1249,7 @@
   <string name="restore_path" platform="android">Path: %1$s</string>
   <string name="Restore_Your_Chat_History" platform="iOS">Restore Your Chat History</string>
   <string name="Restoring" platform="android, iOS">Restoring...</string>
-  <string name="Restoring_Chat_Progress" platform="iOS,android">Restoring Chat (%1$s%)</string>
+  <string name="Restoring_Chat_Progress" platform="iOS,android">Restoring Chat (%1$s%%)</string>
   <string name="Restoring_progress" platform="iOS">Restoring %@</string>
   <string name="Retry" platform="android, iOS, Desktop">Retry</string>
   <string name="Retry_upload_failed" platform="android, Desktop">Retry upload failed.</string>
@@ -1306,7 +1306,7 @@
   <string name="security_code" platform="android, iOS">Security code</string>
   <string name="security_code_error" platform="android, iOS">Please enter a valid security code</string>
   <string name="Select" platform="android, iOS, Desktop">Select</string>
-  <string name="select_a_card" platform="android, iOS">Select a Card</string>
+  <string name="select_a_card" platform="android">Select a Card</string>
   <string name="Select_a_country_or_region" platform="iOS">Select a Country or Region</string>
   <string name="select_a_token_for_the_fee" platform="android,iOS">Select a token for the fee</string>
   <string name="Select_All" platform="iOS,android">Select All</string>
@@ -1447,7 +1447,7 @@
   <string name="Sort_by" platform="android, iOS">Sort by</string>
   <string name="Start" platform="android,iOS">Start</string>
   <string name="Start_Messaging" platform="android, iOS">Start Messaging</string>
-  <string name="Start_Migration" platform="android,iOS">Start the migration</string>
+  <string name="Start_Migration" platform="android">Start the migration</string>
   <string name="started_group_call" platform="iOS">%@ has started a group call</string>
   <string name="Status" platform="android, iOS, Desktop">Status</string>
   <string name="stay_in_mixin" platform="android, iOS">Stay in Mixin</string>
@@ -1887,7 +1887,7 @@
   <string name="Swapping" platform="android,iOS">Swapping</string>
   <string name="Pay" platform="android,iOS">Pay</string>
   <string name="Received" platform="android,iOS">received</string>
-  <string name="Review_Order" platform="android,iOS">Review Order</string>
+  <string name="Review_Order" platform="android">Review Order</string>
   <string name="View_Transaction" platform="android,iOS">View Transaction</string>
   <string name="Confirming_Transaction" platform="android">Confirming Transaction</string>
   <string name="Transaction_Success" platform="android,iOS">Transaction Success</string>

@@ -1250,7 +1250,7 @@
 | android | restore_path | Path: %1$s | 备份路径：%1$s | パス：%1$s | Laluan: %1$s |     |
 | iOS | Restore_Your_Chat_History | Restore Your Chat History | 恢复你的聊天记录 |     |     |     |
 | android, iOS | Restoring | Restoring... | 正在恢复... | …の復元を準備中 |     |     |
-| iOS,android | Restoring_Chat_Progress | Restoring Chat (%1$s%) | 恢复聊天记录（%1$s%） |     |     |     |
+| iOS,android | Restoring_Chat_Progress | Restoring Chat (%1$s%%) | 恢复聊天记录（%1$s%%） |     |     |     |
 | iOS | Restoring_progress | Restoring %@ | 正在恢复 %@ | %@を復元しています |     |     |
 | android, iOS, Desktop | Retry | Retry | 重试  | リトライ | CUBA SEMULA | COBA LAGI |
 | android, Desktop | Retry_upload_failed | Retry upload failed. | 重新上传失败。 | アップロードの再試行に失敗しました。 | Gagal memuat naik semula. | Unggahan ulang gagal. |
@@ -1307,7 +1307,7 @@
 | android, iOS | security_code | Security code | 安全码 |     |     |     |
 | android, iOS | security_code_error | Please enter a valid security code | 请输入有效的安全码 |     |     |     |
 | android, iOS, Desktop | Select | Select | 选择  | 選択  | Pilih | Pilih |
-| android, iOS | select_a_card | Select a Card | 选择卡片 |     |     |     |
+| android | select_a_card | Select a Card | 选择卡片 |     |     |     |
 | iOS | Select_a_country_or_region | Select a Country or Region | 选择一个国家或地区 | 国と地域を選択 |     |     |
 | android,iOS | select_a_token_for_the_fee | Select a token for the fee | 选择支付手续费的币种 |     |     |     |
 | iOS,android | Select_All | Select All | 选择所有 |     |     |     |
@@ -1448,7 +1448,7 @@
 | android, iOS | Sort_by | Sort by | 顺序  | 並びかえ項目 |     |     |
 | android,iOS | Start | Start | 开始  |     |     |     |
 | android, iOS | Start_Messaging | Start Messaging | 开始聊天 | メッセージを開始 | Mulakan Pemesejan | Mulai Mengirim Pesan |
-| android,iOS | Start_Migration | Start the migration | 开始迁移 |     |     |     |
+| android | Start_Migration | Start the migration | 开始迁移 |     |     |     |
 | iOS | started_group_call | %@ has started a group call | %@ 开始了群通话 | %@がグループ通話を開始しました |     |     |
 | android, iOS, Desktop | Status | Status | 交易状态 | ステータス | Status | Status |
 | android, iOS | stay_in_mixin | Stay in Mixin | 留在 Mixin |     |     |     |
@@ -1888,7 +1888,7 @@
 | android,iOS | Swapping | Swapping | 兑换中 |     |     |     |
 | android,iOS | Pay | Pay | 支付  |     |     |     |
 | android,iOS | Received | received | 收到  |     |     |     |
-| android,iOS | Review_Order | Review Order | 预览订单 |     |     |     |
+| android | Review_Order | Review Order | 预览订单 |     |     |     |
 | android,iOS | View_Transaction | View Transaction | 查看区块链浏览器 |     |     |     |
 | android | Confirming_Transaction | Confirming Transaction | 正在确认交易 |     |     |     |
 | android,iOS | Transaction_Success | Transaction Success | 交易成功 |     |     |     |
