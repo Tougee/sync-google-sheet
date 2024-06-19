@@ -1014,7 +1014,7 @@
   <string name="OK" platform="android, iOS">好的</string>
   <string name="Old_Device_is_waiting" platform="iOS,android">确保旧的设备已停留在同步等待扫码的界面</string>
   <string name="Old_PIN" platform="android">验证旧的 PIN</string>
-  <string name="old_price" platform="android, iOS">过期价格</string>
+  <string name="old_price" platform="android">过期价格</string>
   <string name="One_by_One_Forward" platform="iOS, Desktop">逐条转发</string>
   <string name="one_hour" platform="android, iOS, Desktop">1 小时</string>
   <string name="one_week" platform="android, iOS, Desktop">1 星期</string>
@@ -1053,7 +1053,7 @@
   <string name="Pay_with_PIN" platform="android">用 PIN 支付</string>
   <string name="Pay_with_PIN_interval" platform="android, iOS">PIN 使用间隔</string>
   <string name="Pay_withdrawal_memo" platform="iOS">数量 %@ %@\n手续费 %@ %@</string>
-  <string name="payment_method" platform="android, iOS">支付方式</string>
+  <string name="payment_method" platform="android">支付方式</string>
   <string name="Peer_closed" platform="iOS">Peer 已关闭</string>
   <string name="Peer_not_found" platform="iOS">Peer 无效</string>
   <string name="pending_confirmation" platform="android, iOS, Desktop">%1$d/%2$d 区块确认数</string>
@@ -1146,21 +1146,21 @@
   <string name="quote" platform="android">引用</string>
   <string name="Random_keyboard" platform="android">随机键盘</string>
   <string name="Raw" platform="android, iOS, Desktop">其他</string>
-  <string name="Read_Assets" platform="android, iOS">查看资产</string>
-  <string name="Read_Bots" platform="android, iOS">查看应用</string>
-  <string name="Read_Circles" platform="android, iOS">查看圈子</string>
-  <string name="Read_Collectibles" platform="android, iOS">查看 NFT</string>
-  <string name="Read_Contacts" platform="android, iOS">查看联系人</string>
-  <string name="Read_Snapshots" platform="android, iOS">查看转账记录</string>
-  <string name="Read_your_apps" platform="android, iOS">读取你的机器人列表</string>
-  <string name="Read_your_assets" platform="android, iOS">读取你的所有资产</string>
-  <string name="Read_your_circles" platform="android, iOS">读取你的圈子列表</string>
-  <string name="Read_your_contacts" platform="android, iOS">读取你的联系人列表</string>
-  <string name="Read_your_NFTs" platform="android, iOS">读取你的 NFT 列表</string>
-  <string name="Read_your_phone_number" platform="android, iOS">读取你的手机号</string>
-  <string name="read_your_public_address" platform="android, iOS">读取你的地址</string>
-  <string name="Read_your_public_profile" platform="android, iOS">读取你的个人资料</string>
-  <string name="Read_your_snapshots" platform="android, iOS">读取你的转账记录</string>
+  <string name="Read_Assets" platform="android">查看资产</string>
+  <string name="Read_Bots" platform="android">查看应用</string>
+  <string name="Read_Circles" platform="android">查看圈子</string>
+  <string name="Read_Collectibles" platform="android">查看 NFT</string>
+  <string name="Read_Contacts" platform="android">查看联系人</string>
+  <string name="Read_Snapshots" platform="android">查看转账记录</string>
+  <string name="Read_your_apps" platform="android">读取你的机器人列表</string>
+  <string name="Read_your_assets" platform="android">读取你的所有资产</string>
+  <string name="Read_your_circles" platform="android">读取你的圈子列表</string>
+  <string name="Read_your_contacts" platform="android">读取你的联系人列表</string>
+  <string name="Read_your_NFTs" platform="android">读取你的 NFT 列表</string>
+  <string name="Read_your_phone_number" platform="android">读取你的手机号</string>
+  <string name="read_your_public_address" platform="android">读取你的地址</string>
+  <string name="Read_your_public_profile" platform="android">读取你的个人资料</string>
+  <string name="Read_your_snapshots" platform="android">读取你的转账记录</string>
   <string name="Rebate" platform="android, iOS, Desktop">退款</string>
   <string name="Recaptcha_timeout" platform="android, Desktop">验证超时</string>
   <string name="Receive" platform="android">转入</string>
@@ -1597,7 +1597,7 @@
   <string name="Use_face_multisig" platform="iOS">使用面容签名</string>
   <string name="Use_face_pay" platform="iOS">使用面容支付</string>
   <string name="Use_face_withdraw" platform="iOS">使用面容提现</string>
-  <string name="use_new_price" platform="android, iOS">使用最新报价</string>
+  <string name="use_new_price" platform="android">使用最新报价</string>
   <string name="Use_System_Text_Size" platform="android, iOS">跟随系统字体大小</string>
   <string name="Use_touch_multisig" platform="iOS">使用指纹签名</string>
   <string name="Use_touch_pay" platform="iOS">使用指纹支付</string>
@@ -1866,7 +1866,7 @@
   <string name="Received" platform="android,iOS">收到</string>
   <string name="Review_Order" platform="android,iOS">预览订单</string>
   <string name="View_Transaction" platform="android,iOS">查看区块链浏览器</string>
-  <string name="Confirming_Transaction" platform="android,iOS">正在确认交易</string>
+  <string name="Confirming_Transaction" platform="android">正在确认交易</string>
   <string name="Transaction_Success" platform="android,iOS">交易成功</string>
   <string name="Transaction_Failed" platform="android,iOS">交易失败</string>
   <string name="Best_price" platform="android,iOS">最优价格</string>

@@ -1032,7 +1032,7 @@
   <string name="OK" platform="android, iOS">OK</string>
   <string name="Old_Device_is_waiting" platform="iOS,android">Make sure that the old device is still on the screen that says "Waiting for Other Device..." to ensure synchronization.</string>
   <string name="Old_PIN" platform="android">Old PIN</string>
-  <string name="old_price" platform="android, iOS">Old Price</string>
+  <string name="old_price" platform="android">Old Price</string>
   <string name="One_by_One_Forward" platform="iOS, Desktop">One-by-One Forward</string>
   <string name="one_hour" platform="android, iOS, Desktop">1 Hour</string>
   <string name="one_week" platform="android, iOS, Desktop">1 Week</string>
@@ -1071,7 +1071,7 @@
   <string name="Pay_with_PIN" platform="android">Pay with PIN</string>
   <string name="Pay_with_PIN_interval" platform="android, iOS">Pay with PIN interval</string>
   <string name="Pay_withdrawal_memo" platform="iOS">Amount %@ %@\nFee %@ %@</string>
-  <string name="payment_method" platform="android, iOS">Payment Method</string>
+  <string name="payment_method" platform="android">Payment Method</string>
   <string name="Peer_closed" platform="iOS">Peer closed</string>
   <string name="Peer_not_found" platform="iOS">Peer not found</string>
   <string name="pending_confirmation" platform="android, iOS, Desktop">%1$d/%2$d confirmation</string>
@@ -1165,21 +1165,21 @@
   <string name="Random_keyboard" platform="android">Random keyboard</string>
   <string name="Raw" platform="android, iOS, Desktop">Raw</string>
   <string name="Raw_Transfer" platform="android">Raw Transfer</string>
-  <string name="Read_Assets" platform="android, iOS">Read Assets</string>
-  <string name="Read_Bots" platform="android, iOS">Read Bots</string>
-  <string name="Read_Circles" platform="android, iOS">Read Circles</string>
-  <string name="Read_Collectibles" platform="android, iOS">Read Collectibles</string>
-  <string name="Read_Contacts" platform="android, iOS">Read Contacts</string>
-  <string name="Read_Snapshots" platform="android, iOS">Read Snapshots</string>
-  <string name="Read_your_apps" platform="android, iOS">Read your bots</string>
-  <string name="Read_your_assets" platform="android, iOS">Read your assets</string>
-  <string name="Read_your_circles" platform="android, iOS">Read your circles</string>
-  <string name="Read_your_contacts" platform="android, iOS">Read your contacts</string>
-  <string name="Read_your_NFTs" platform="android, iOS">Read your NFTs</string>
-  <string name="Read_your_phone_number" platform="android, iOS">Read your phone number</string>
-  <string name="read_your_public_address" platform="android, iOS">Read your public address</string>
-  <string name="Read_your_public_profile" platform="android, iOS">Read your public profile</string>
-  <string name="Read_your_snapshots" platform="android, iOS">Read your snapshots</string>
+  <string name="Read_Assets" platform="android">Read Assets</string>
+  <string name="Read_Bots" platform="android">Read Bots</string>
+  <string name="Read_Circles" platform="android">Read Circles</string>
+  <string name="Read_Collectibles" platform="android">Read Collectibles</string>
+  <string name="Read_Contacts" platform="android">Read Contacts</string>
+  <string name="Read_Snapshots" platform="android">Read Snapshots</string>
+  <string name="Read_your_apps" platform="android">Read your bots</string>
+  <string name="Read_your_assets" platform="android">Read your assets</string>
+  <string name="Read_your_circles" platform="android">Read your circles</string>
+  <string name="Read_your_contacts" platform="android">Read your contacts</string>
+  <string name="Read_your_NFTs" platform="android">Read your NFTs</string>
+  <string name="Read_your_phone_number" platform="android">Read your phone number</string>
+  <string name="read_your_public_address" platform="android">Read your public address</string>
+  <string name="Read_your_public_profile" platform="android">Read your public profile</string>
+  <string name="Read_your_snapshots" platform="android">Read your snapshots</string>
   <string name="Rebate" platform="android, iOS, Desktop">Rebate</string>
   <string name="Recaptcha_timeout" platform="android, Desktop">Recaptcha timeout</string>
   <string name="Receive" platform="android">Receive</string>
@@ -1619,7 +1619,7 @@
   <string name="Use_face_multisig" platform="iOS">Use Face Multisig</string>
   <string name="Use_face_pay" platform="iOS">Use Face Pay</string>
   <string name="Use_face_withdraw" platform="iOS">Use Face Withdraw</string>
-  <string name="use_new_price" platform="android, iOS">Use New Price</string>
+  <string name="use_new_price" platform="android">Use New Price</string>
   <string name="Use_System_Text_Size" platform="android, iOS">Use System Text Size</string>
   <string name="Use_touch_multisig" platform="iOS">Use Touch Multisig</string>
   <string name="Use_touch_pay" platform="iOS">Use Touch Pay</string>
@@ -1894,7 +1894,7 @@
   <string name="Received" platform="android,iOS">received</string>
   <string name="Review_Order" platform="android,iOS">Review Order</string>
   <string name="View_Transaction" platform="android,iOS">View Transaction</string>
-  <string name="Confirming_Transaction" platform="android,iOS">Confirming Transaction</string>
+  <string name="Confirming_Transaction" platform="android">Confirming Transaction</string>
   <string name="Transaction_Success" platform="android,iOS">Transaction Success</string>
   <string name="Transaction_Failed" platform="android,iOS">Transaction Failed</string>
   <string name="Best_price" platform="android,iOS">Best price</string>

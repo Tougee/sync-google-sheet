@@ -476,10 +476,10 @@
   <string name="qr_code_camera_code" platform="android">Gunakan Kamera internal untuk memindai Kode QR apa pun. Saat kode terdeteksi, ketuk notifikasi untuk melihat informasi selengkapnya.</string>
   <string name="QR_Code_not_found" platform="android, iOS">Kode Qr tidak ditemukan</string>
   <string name="Raw" platform="android, iOS, Desktop">Raw</string>
-  <string name="Read_Assets" platform="android, iOS">Membaca Aset</string>
-  <string name="Read_Bots" platform="android, iOS">Membaca Aplikasi</string>
-  <string name="Read_Contacts" platform="android, iOS">Membaca Kontak</string>
-  <string name="Read_Snapshots" platform="android, iOS">Membaca Snapshot</string>
+  <string name="Read_Assets" platform="android">Membaca Aset</string>
+  <string name="Read_Bots" platform="android">Membaca Aplikasi</string>
+  <string name="Read_Contacts" platform="android">Membaca Kontak</string>
+  <string name="Read_Snapshots" platform="android">Membaca Snapshot</string>
   <string name="Rebate" platform="android, iOS, Desktop">Potongan harga</string>
   <string name="Recaptcha_timeout" platform="android, Desktop">Batas waktu recaptcha</string>
   <string name="RECEIVE" platform="android, iOS">Terima</string>

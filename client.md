@@ -1033,7 +1033,7 @@
 | android, iOS | OK  | OK  | 好的  | OK  | okey | OK  |
 | iOS,android | Old_Device_is_waiting | Make sure that the old device is still on the screen that says "Waiting for Other Device..." to ensure synchronization. | 确保旧的设备已停留在同步等待扫码的界面 |     |     |     |
 | android | Old_PIN | Old PIN | 验证旧的 PIN | 変更前のPINコード | PIN lama | PIN Lama |
-| android, iOS | old_price | Old Price | 过期价格 |     |     |     |
+| android | old_price | Old Price | 过期价格 |     |     |     |
 | iOS, Desktop | One_by_One_Forward | One-by-One Forward | 逐条转发 | それぞれ転送する |     |     |
 | android, iOS, Desktop | one_hour | 1 Hour | 1 小时 | 1時間 | 1 jam | 1 Jam |
 | android, iOS, Desktop | one_week | 1 Week | 1 星期 | 1週間 | 1 minggu | 1 Minggu |
@@ -1072,7 +1072,7 @@
 | android | Pay_with_PIN | Pay with PIN | 用 PIN 支付 | PINコードで支払う | Bayar dengan PIN | Bayar dengan PIN |
 | android, iOS | Pay_with_PIN_interval | Pay with PIN interval | PIN 使用间隔 | PINコードの再確認間隔 | Bayar dengan selang PIN | Bayar dengan interval PIN |
 | iOS | Pay_withdrawal_memo | Amount %@ %@\nFee %@ %@ | 数量 %@ %@\n手续费 %@ %@ | 額 %@ %@\n手数料 %@ %@ |     |     |
-| android, iOS | payment_method | Payment Method | 支付方式 |     |     |     |
+| android | payment_method | Payment Method | 支付方式 |     |     |     |
 | iOS | Peer_closed | Peer closed | Peer 已关闭 | ピアが閉じています |     |     |
 | iOS | Peer_not_found | Peer not found | Peer 无效 | ピアが見つかりません |     |     |
 | android, iOS, Desktop | pending_confirmation | %1$d/%2$d confirmation | %1$d/%2$d 区块确认数 | %1$d/%2$d 承認 |     |     |
@@ -1166,21 +1166,21 @@
 | android | Random_keyboard | Random keyboard | 随机键盘 |     |     |     |
 | android, iOS, Desktop | Raw | Raw | 其他  | その他 | Mentah | Raw |
 | android | Raw_Transfer | Raw Transfer |     |     |     |     |
-| android, iOS | Read_Assets | Read Assets | 查看资产 | ウォレット資産識別 | Baca Aset | Membaca Aset |
-| android, iOS | Read_Bots | Read Bots | 查看应用 | ミニアプリの識別 | Aplikasi baca | Membaca Aplikasi |
-| android, iOS | Read_Circles | Read Circles | 查看圈子 | グループリストの識別 | Lingkaran Baca |     |
-| android, iOS | Read_Collectibles | Read Collectibles | 查看 NFT | NFTコレクションの識別 |     |     |
-| android, iOS | Read_Contacts | Read Contacts | 查看联系人 | 連絡先の識別 | Baca Kenalan | Membaca Kontak |
-| android, iOS | Read_Snapshots | Read Snapshots | 查看转账记录 | スナップショットの識別 | Baca Syot kilat | Membaca Snapshot |
-| android, iOS | Read_your_apps | Read your bots | 读取你的机器人列表 |     |     |     |
-| android, iOS | Read_your_assets | Read your assets | 读取你的所有资产 |     |     |     |
-| android, iOS | Read_your_circles | Read your circles | 读取你的圈子列表 |     |     |     |
-| android, iOS | Read_your_contacts | Read your contacts | 读取你的联系人列表 |     |     |     |
-| android, iOS | Read_your_NFTs | Read your NFTs | 读取你的 NFT 列表 |     |     |     |
-| android, iOS | Read_your_phone_number | Read your phone number | 读取你的手机号 |     |     |     |
-| android, iOS | read_your_public_address | Read your public address | 读取你的地址 |     |     |     |
-| android, iOS | Read_your_public_profile | Read your public profile | 读取你的个人资料 |     |     |     |
-| android, iOS | Read_your_snapshots | Read your snapshots | 读取你的转账记录 |     |     |     |
+| android | Read_Assets | Read Assets | 查看资产 | ウォレット資産識別 | Baca Aset | Membaca Aset |
+| android | Read_Bots | Read Bots | 查看应用 | ミニアプリの識別 | Aplikasi baca | Membaca Aplikasi |
+| android | Read_Circles | Read Circles | 查看圈子 | グループリストの識別 | Lingkaran Baca |     |
+| android | Read_Collectibles | Read Collectibles | 查看 NFT | NFTコレクションの識別 |     |     |
+| android | Read_Contacts | Read Contacts | 查看联系人 | 連絡先の識別 | Baca Kenalan | Membaca Kontak |
+| android | Read_Snapshots | Read Snapshots | 查看转账记录 | スナップショットの識別 | Baca Syot kilat | Membaca Snapshot |
+| android | Read_your_apps | Read your bots | 读取你的机器人列表 |     |     |     |
+| android | Read_your_assets | Read your assets | 读取你的所有资产 |     |     |     |
+| android | Read_your_circles | Read your circles | 读取你的圈子列表 |     |     |     |
+| android | Read_your_contacts | Read your contacts | 读取你的联系人列表 |     |     |     |
+| android | Read_your_NFTs | Read your NFTs | 读取你的 NFT 列表 |     |     |     |
+| android | Read_your_phone_number | Read your phone number | 读取你的手机号 |     |     |     |
+| android | read_your_public_address | Read your public address | 读取你的地址 |     |     |     |
+| android | Read_your_public_profile | Read your public profile | 读取你的个人资料 |     |     |     |
+| android | Read_your_snapshots | Read your snapshots | 读取你的转账记录 |     |     |     |
 | android, iOS, Desktop | Rebate | Rebate | 退款  | 払い戻し | Rebat | Potongan harga |
 | android, Desktop | Recaptcha_timeout | Recaptcha timeout | 验证超时 | Recaptchaがタイムアウトしました | Tamat masa Recaptcha | Batas waktu recaptcha |
 | android | Receive | Receive | 转入  | 入金  |     |     |
@@ -1620,7 +1620,7 @@
 | iOS | Use_face_multisig | Use Face Multisig | 使用面容签名 | 顔認証マルチシグを使用 |     |     |
 | iOS | Use_face_pay | Use Face Pay | 使用面容支付 | 顔認証で支払う |     |     |
 | iOS | Use_face_withdraw | Use Face Withdraw | 使用面容提现 | 顔認証で出金する |     |     |
-| android, iOS | use_new_price | Use New Price | 使用最新报价 |     |     |     |
+| android | use_new_price | Use New Price | 使用最新报价 |     |     |     |
 | android, iOS | Use_System_Text_Size | Use System Text Size | 跟随系统字体大小 |     |     |     |
 | iOS | Use_touch_multisig | Use Touch Multisig | 使用指纹签名 | 指紋認証マルチシグを使用 |     |     |
 | iOS | Use_touch_pay | Use Touch Pay | 使用指纹支付 | 指紋認証で支払う |     |     |
@@ -1895,7 +1895,7 @@
 | android,iOS | Received | received | 收到  |     |     |     |
 | android,iOS | Review_Order | Review Order | 预览订单 |     |     |     |
 | android,iOS | View_Transaction | View Transaction | 查看区块链浏览器 |     |     |     |
-| android,iOS | Confirming_Transaction | Confirming Transaction | 正在确认交易 |     |     |     |
+| android | Confirming_Transaction | Confirming Transaction | 正在确认交易 |     |     |     |
 | android,iOS | Transaction_Success | Transaction Success | 交易成功 |     |     |     |
 | android,iOS | Transaction_Failed | Transaction Failed | 交易失败 |     |     |     |
 | android,iOS | Best_price | Best price | 最优价格 |     |     |     |

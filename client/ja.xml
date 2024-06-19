@@ -949,12 +949,12 @@
   <string name="quit_mixin" platform="Desktop">終了</string>
   <string name="quote" platform="android">引用</string>
   <string name="Raw" platform="android, iOS, Desktop">その他</string>
-  <string name="Read_Assets" platform="android, iOS">ウォレット資産識別</string>
-  <string name="Read_Bots" platform="android, iOS">ミニアプリの識別</string>
-  <string name="Read_Circles" platform="android, iOS">グループリストの識別</string>
-  <string name="Read_Collectibles" platform="android, iOS">NFTコレクションの識別</string>
-  <string name="Read_Contacts" platform="android, iOS">連絡先の識別</string>
-  <string name="Read_Snapshots" platform="android, iOS">スナップショットの識別</string>
+  <string name="Read_Assets" platform="android">ウォレット資産識別</string>
+  <string name="Read_Bots" platform="android">ミニアプリの識別</string>
+  <string name="Read_Circles" platform="android">グループリストの識別</string>
+  <string name="Read_Collectibles" platform="android">NFTコレクションの識別</string>
+  <string name="Read_Contacts" platform="android">連絡先の識別</string>
+  <string name="Read_Snapshots" platform="android">スナップショットの識別</string>
   <string name="Rebate" platform="android, iOS, Desktop">払い戻し</string>
   <string name="Recaptcha_timeout" platform="android, Desktop">Recaptchaがタイムアウトしました</string>
   <string name="Receive" platform="android">入金</string>
