@@ -756,8 +756,8 @@
 | iOS, Desktop | how_are_you | Hi, how are you? | 嗨，你好吗？ | こんにちは、調子はどうですか |     |     |
 | iOS, Desktop | i_am_good | I’m good. | 我很好。 | いい気分 |     |     |
 | android | I_know | I know | 我知道了 | わかりました | saya tahu | Saya tahu |
-| android, iOS | identity_verification_description | Your identity is being verified. We will send you a message once your verification has completed. | 正在验证您的身份。一旦您的验证完成，我们将通过 Mixin Messenger 向您发送消息。 |     |     |     |
-| android, iOS | identity_verifying | Identity Verifying | 正在审核 |     |     |     |
+| android | identity_verification_description | Your identity is being verified. We will send you a message once your verification has completed. | 正在验证您的身份。一旦您的验证完成，我们将通过 Mixin Messenger 向您发送消息。 |     |     |     |
+| android | identity_verifying | Identity Verifying | 正在审核 |     |     |     |
 | Desktop | ignore_this_version | Ignore the new version | 忽略这次版本更新 | 最新版を無視 |     |     |
 | iOS, Desktop | image | image | 图像  | 画像  |     |     |
 | android, iOS | image_shareable_false | The image has been set to not allow sharing | 该图片已被设置为不允许转发 |     |     |     |

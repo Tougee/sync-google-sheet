@@ -743,8 +743,8 @@
   <string name="how_are_you" platform="iOS, Desktop">嗨，你好吗？</string>
   <string name="i_am_good" platform="iOS, Desktop">我很好。</string>
   <string name="I_know" platform="android">我知道了</string>
-  <string name="identity_verification_description" platform="android, iOS">正在验证您的身份。一旦您的验证完成，我们将通过 Mixin Messenger 向您发送消息。</string>
-  <string name="identity_verifying" platform="android, iOS">正在审核</string>
+  <string name="identity_verification_description" platform="android">正在验证您的身份。一旦您的验证完成，我们将通过 Mixin Messenger 向您发送消息。</string>
+  <string name="identity_verifying" platform="android">正在审核</string>
   <string name="ignore_this_version" platform="Desktop">忽略这次版本更新</string>
   <string name="image" platform="iOS, Desktop">图像</string>
   <string name="image_shareable_false" platform="android, iOS">该图片已被设置为不允许转发</string>

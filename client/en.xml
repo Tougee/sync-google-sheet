@@ -755,8 +755,8 @@
   <string name="how_are_you" platform="iOS, Desktop">Hi, how are you?</string>
   <string name="i_am_good" platform="iOS, Desktop">I’m good.</string>
   <string name="I_know" platform="android">I know</string>
-  <string name="identity_verification_description" platform="android, iOS">Your identity is being verified. We will send you a message once your verification has completed.</string>
-  <string name="identity_verifying" platform="android, iOS">Identity Verifying</string>
+  <string name="identity_verification_description" platform="android">Your identity is being verified. We will send you a message once your verification has completed.</string>
+  <string name="identity_verifying" platform="android">Identity Verifying</string>
   <string name="ignore_this_version" platform="Desktop">Ignore the new version</string>
   <string name="image" platform="iOS, Desktop">image</string>
   <string name="image_shareable_false" platform="android, iOS">The image has been set to not allow sharing</string>
