@@ -1935,5 +1935,6 @@
   <string name="Set_as_avatar" platform="android,iOS">Set as Avatar</string>
   <string name="Recent" platform="android,iOS">Recent</string>
   <string name="Alphabetical" platform="android,iOS">Alphabetical</string>
-  <string name="Floor_Price" platform="android,iOS">Floor Price</string>
+  <string name="Floor_Price" platform="">Floor Price</string>
+  <string name="Collection_collected" platform="android,iOS">%1$d collected</string>
 </resources>
