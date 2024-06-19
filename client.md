@@ -1643,7 +1643,7 @@
 | iOS | voice_call_cancelled | voice call cancelled | 对方已取消语音通话 | グループ通話がキャンセルされました |     |     |
 | iOS | Voice_call_has_been_declined | Voice call has been declined | 已拒绝通话 | 権限不足です |     |     |
 | android, iOS | Waiting | Waiting | 等待中 | 待機中 | Menunggu | Menunggu |
-| iOS,android | Waiting_for_Other_Device | Waiting for Other Device... | 等待其他设备…… |     |     |     |
+| iOS,android | Waiting_for_Other_Device | Waiting for Other Device... | 等待其他设备… |     |     |     |
 | iOS,android | Waiting_for_Other_Device_Login | Log in to your current account on the new device and select the option to restore from another phone. | 在新设备上登录当前账户并选择从其他手机恢复 |     |     |     |
 | iOS,android | Waiting_for_Other_Device_Scan | Connect the new device by scanning the QR code on the top | 新设备扫上面的二维码建立连接 |     |     |     |
 | android, Desktop | Waiting_for_this_message | Waiting for this message. | 正在等待这条消息。 | このメッセージを待っています。 |     |     |
