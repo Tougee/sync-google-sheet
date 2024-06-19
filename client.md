@@ -237,9 +237,9 @@
 | iOS | caption_send | Send | 转出  | 出金  |     |     |
 | android, Desktop | Card | Card | 卡片  | カード | Kad | Kartu |
 | iOS | card | card | 卡片  | ロボ  |     |     |
-| android, iOS | card_number | Card number | 卡号  |     |     |     |
-| android, iOS | card_number_error | Please enter a valid card number | 请输入有效的卡号 |     |     |     |
-| android, iOS | cardholder_name | Cardholder name | 持卡人姓名 |     |     |     |
+| android | card_number | Card number | 卡号  |     |     |     |
+| android | card_number_error | Please enter a valid card number | 请输入有效的卡号 |     |     |     |
+| android | cardholder_name | Cardholder name | 持卡人姓名 |     |     |     |
 | iOS | category_chats | Chats | 最近聊天 | チャット |     |     |
 | android, iOS | Chain | Chain | 所属公链 | チェーン | Rantai | Chain |
 | android, iOS, Desktop | Change | Change | 更改  | 変更  | Ubah | Ubah |

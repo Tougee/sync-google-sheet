@@ -236,9 +236,9 @@
   <string name="caption_send" platform="iOS">Send</string>
   <string name="Card" platform="android, Desktop">Card</string>
   <string name="card" platform="iOS">card</string>
-  <string name="card_number" platform="android, iOS">Card number</string>
-  <string name="card_number_error" platform="android, iOS">Please enter a valid card number</string>
-  <string name="cardholder_name" platform="android, iOS">Cardholder name</string>
+  <string name="card_number" platform="android">Card number</string>
+  <string name="card_number_error" platform="android">Please enter a valid card number</string>
+  <string name="cardholder_name" platform="android">Cardholder name</string>
   <string name="category_chats" platform="iOS">Chats</string>
   <string name="Chain" platform="android, iOS">Chain</string>
   <string name="Change" platform="android, iOS, Desktop">Change</string>

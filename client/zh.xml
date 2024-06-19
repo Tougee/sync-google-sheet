@@ -234,9 +234,9 @@
   <string name="caption_send" platform="iOS">转出</string>
   <string name="Card" platform="android, Desktop">卡片</string>
   <string name="card" platform="iOS">卡片</string>
-  <string name="card_number" platform="android, iOS">卡号</string>
-  <string name="card_number_error" platform="android, iOS">请输入有效的卡号</string>
-  <string name="cardholder_name" platform="android, iOS">持卡人姓名</string>
+  <string name="card_number" platform="android">卡号</string>
+  <string name="card_number_error" platform="android">请输入有效的卡号</string>
+  <string name="cardholder_name" platform="android">持卡人姓名</string>
   <string name="category_chats" platform="iOS">最近聊天</string>
   <string name="Chain" platform="android, iOS">所属公链</string>
   <string name="Change" platform="android, iOS, Desktop">更改</string>
