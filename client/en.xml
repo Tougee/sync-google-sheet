@@ -341,7 +341,6 @@
   <string name="collectible_token_id" platform="iOS">#%@</string>
   <string name="Combine_and_forward" platform="android, iOS, Desktop">Combine and forward</string>
   <string name="Combine_utxo" platform="android, iOS">Combine UTXOs</string>
-  <string name="coming_soon_to_your_region" platform="iOS">Coming soon to your region!</string>
   <string name="Compress_Database" platform="iOS">Compress Database</string>
   <string name="Compressed" platform="iOS">Compressed</string>
   <string name="Confirm" platform="android, iOS, Desktop">Confirm</string>
@@ -451,7 +450,7 @@
   <string name="date_format_month" platform="iOS">E, d MMM</string>
   <string name="date_format_week_date" platform="iOS">E, d MMM yyyy</string>
   <string name="db_debug_warning" platform="android">Attention: If a harmful SQL statement is executed, the result is irreversible!</string>
-  <string name="debit_or_credit_card" platform="android, iOS">Debit / Credit Card</string>
+  <string name="debit_or_credit_card" platform="android">Debit / Credit Card</string>
   <string name="Debug_database" platform="android">Debug database</string>
   <string name="Debug_Tools" platform="android">Debug Tools</string>
   <string name="Decline" platform="android">Decline</string>

@@ -336,7 +336,6 @@
   <string name="collectible_token_id" platform="iOS">#%@</string>
   <string name="Combine_and_forward" platform="android, iOS, Desktop">合并转发</string>
   <string name="Combine_utxo" platform="android, iOS">归集 UTXO</string>
-  <string name="coming_soon_to_your_region" platform="iOS">即将来到您的地区！</string>
   <string name="Compress_Database" platform="iOS">压缩数据库</string>
   <string name="Compressed" platform="iOS">已压缩</string>
   <string name="Confirm" platform="android, iOS, Desktop">确认</string>
@@ -446,7 +445,7 @@
   <string name="date_format_month" platform="iOS">MM 月 d 日 E</string>
   <string name="date_format_week_date" platform="iOS">yyyy 年 MM 月 d 日 E</string>
   <string name="db_debug_warning" platform="android">注意：如果执行了有侵害性的 SQL，结果不可逆！</string>
-  <string name="debit_or_credit_card" platform="android, iOS">借记卡/信用卡</string>
+  <string name="debit_or_credit_card" platform="android">借记卡/信用卡</string>
   <string name="Decline" platform="android">挂断</string>
   <string name="Declined" platform="android, iOS">已拒绝</string>
   <string name="deep_clean" platform="android">深度清理</string>

@@ -342,7 +342,6 @@
 | iOS | collectible_token_id | #%@ | #%@ | #%@ |     |     |
 | android, iOS, Desktop | Combine_and_forward | Combine and forward | 合并转发 | まとめて転送 |     |     |
 | android, iOS | Combine_utxo | Combine UTXOs | 归集 UTXO |     |     |     |
-| iOS | coming_soon_to_your_region | Coming soon to your region! | 即将来到您的地区！ |     |     |     |
 | iOS | Compress_Database | Compress Database | 压缩数据库 | データの圧縮 |     |     |
 | iOS | Compressed | Compressed | 已压缩 | 圧縮しました |     |     |
 | android, iOS, Desktop | Confirm | Confirm | 确认  | 確認する | Sahkan | Konfirmasi |
@@ -452,7 +451,7 @@
 | iOS | date_format_month | E, d MMM | MM 月 d 日 E | M月d日（E） |     |     |
 | iOS | date_format_week_date | E, d MMM yyyy | yyyy 年 MM 月 d 日 E | yyyy年MM月d日（E） |     |     |
 | android | db_debug_warning | Attention: If a harmful SQL statement is executed, the result is irreversible! | 注意：如果执行了有侵害性的 SQL，结果不可逆！ | 注意：有害なSQL文書が実行された場合、結果を元に戻せません | Perhatian: Sekiranya pernyataan SQL berbahaya dijalankan, hasilnya tidak dapat dipulihkan! |     |
-| android, iOS | debit_or_credit_card | Debit / Credit Card | 借记卡/信用卡 |     |     |     |
+| android | debit_or_credit_card | Debit / Credit Card | 借记卡/信用卡 |     |     |     |
 | android | Debug_database | Debug database |     | データベースdebag | Pangkalan data nyahpepijat |     |
 | android | Debug_Tools | Debug Tools |     |     |     |     |
 | android | Decline | Decline | 挂断  | 拒否  | Tolak | Tolak |
