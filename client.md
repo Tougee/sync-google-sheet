@@ -1927,7 +1927,7 @@
 | android,iOS | collectible_releasing_description | The collectible is being released, please wait. | 正在分解藏品，请稍候。 |     |     |     |
 | android,iOS | collectible_release_success | Release Successful | 分解成功 |     |     |     |
 | android,iOS | collectible_release_failed | Release Failed | 分解失败 |     |     |     |
-| android,iOS | collectible_released_description | The collectible was released successfully. Click to view the tokens. | 藏品分解成功，点击查看代币。 |     |     |     |
+| android,iOS | collectible_released_description | The collectible was released successfully. | 藏品分解成功。 |     |     |     |
 | android,iOS | collectible_release_confirmation | Release Collectible | 分解藏品 |     |     |     |
 | android,iOS | collectible_release_hint | Releasing the collectible will immediately provide the corresponding tokens, which can be transferred, traded, or used to mint new collectibles. | 分解藏品可以立刻获得相应的代币，代币可转账、交易或重新铸造藏品。 |     |     |     |
 | android | collectible_not_found | Collectible does not exist | 藏品不存在 |     |     |     |

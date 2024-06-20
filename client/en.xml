@@ -1926,7 +1926,7 @@
   <string name="collectible_releasing_description" platform="android,iOS">The collectible is being released, please wait.</string>
   <string name="collectible_release_success" platform="android,iOS">Release Successful</string>
   <string name="collectible_release_failed" platform="android,iOS">Release Failed</string>
-  <string name="collectible_released_description" platform="android,iOS">The collectible was released successfully. Click to view the tokens.</string>
+  <string name="collectible_released_description" platform="android,iOS">The collectible was released successfully.</string>
   <string name="collectible_release_confirmation" platform="android,iOS">Release Collectible</string>
   <string name="collectible_release_hint" platform="android,iOS">Releasing the collectible will immediately provide the corresponding tokens, which can be transferred, traded, or used to mint new collectibles.</string>
   <string name="collectible_not_found" platform="android">Collectible does not exist</string>
