@@ -1909,4 +1909,5 @@
   <string name="Alphabetical" platform="android,iOS">按字母顺序</string>
   <string name="Floor_Price" platform="">最低价格</string>
   <string name="Collection_collected" platform="android,iOS">已收藏 %1$d 件</string>
+  <string name="view_on_explorer" platform="android,iOS">在浏览器查看</string>
 </resources>
