@@ -1937,5 +1937,5 @@
   <string name="Alphabetical" platform="android,iOS">Alphabetical</string>
   <string name="Floor_Price" platform="">Floor Price</string>
   <string name="Collection_collected" platform="android,iOS">%1$d collected</string>
-  <string name="view_on_explorer" platform="android,iOS">View on Explorer</string>
+  <string name="view_on_marketplace" platform="android,iOS">View on Marketplace</string>
 </resources>

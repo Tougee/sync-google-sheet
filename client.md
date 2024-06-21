@@ -1938,4 +1938,4 @@
 | android,iOS | Alphabetical | Alphabetical | 按字母顺序 |     |     |     |
 |     | Floor_Price | Floor Price | 最低价格 |     |     |     |
 | android,iOS | Collection_collected | %1$d collected | 已收藏 %1$d 件 |     |     |     |
-| android,iOS | view_on_explorer | View on Explorer | 在浏览器查看 |     |     |     |
+| android,iOS | view_on_marketplace | View on Marketplace | 在市场查看 |     |     |     |
