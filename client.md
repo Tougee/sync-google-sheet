@@ -1939,3 +1939,7 @@
 |     | Floor_Price | Floor Price | 最低价格 |     |     |     |
 | android,iOS | Collection_collected | %1$d collected | 已收藏 %1$d 件 |     |     |     |
 | android,iOS | view_on_marketplace | View on Marketplace | 在市场查看 |     |     |     |
+| ios | Set_to_Photos | Set_to_Photos | 保存到相册 |     |     |     |
+| android | Set_to_Downloads | Set_to_Photos | 保存到下载 |     |     |     |
+| android,iOS | View_on_Marketplace | View_on_Marketplace | 在市场上查看 |     |     |     |
+| android,iOS | View_on_Explorer | View_on_Marketplace | 在浏览器中查看 |     |     |     |
