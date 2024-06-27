@@ -1940,4 +1940,5 @@
   <string name="View_on_Marketplace" platform="android,iOS">View on Marketplace</string>
   <string name="View_on_Explorer" platform="android,iOS">View on Explorer</string>
   <string name="Set_to_Photos" platform="ios">Set to Photos</string>
+  <string name="content_type" platform="android,iOS">Content Type</string>
 </resources>

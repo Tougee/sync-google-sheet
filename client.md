@@ -1941,3 +1941,4 @@
 | android,iOS | View_on_Marketplace | View on Marketplace | 在市场查看 |     |     |     |
 | android,iOS | View_on_Explorer | View on Explorer | 在浏览器中查看 |     |     |     |
 | ios | Set_to_Photos | Set to Photos | 保存到相册 |     |     |     |
+| android,iOS | content_type | Content Type | 内容类型 |     |     |     |
