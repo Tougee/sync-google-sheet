@@ -1941,4 +1941,5 @@
   <string name="View_on_Explorer" platform="android,iOS">View on Explorer</string>
   <string name="content_type" platform="android,iOS">Content Type</string>
   <string name="collectible_owner" platform="android,iOS">Owner</string>
+  <string name="collectible_traits" platform="android,iOS">Traits</string>
 </resources>
