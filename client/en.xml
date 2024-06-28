@@ -326,7 +326,7 @@
   <string name="clear_contact_chat_confirmation" platform="iOS">Clear chat with "%@"?</string>
   <string name="clear_filter" platform="Desktop">Clear filter</string>
   <string name="clear_group_chat_confirmation" platform="iOS">Clear "%@" group chat?</string>
-  <string name="Clear_cache" platform="iOS">Clear cache</string>
+  <string name="Clear_Cache" platform="iOS">Clear Cache</string>
   <string name="Cleared" platform="iOS">Cleared</string>
   <string name="Clearing" platform="android">Clearing…</string>
   <string name="Click_to_lock" platform="android">Click to lock</string>

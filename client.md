@@ -327,7 +327,7 @@
 | iOS | clear_contact_chat_confirmation | Clear chat with "%@"? | 清空与"%@"的聊天记录？ | "%@"とチャットを削除しますか? |     |     |
 | Desktop | clear_filter | Clear filter | 清除筛选条件 |     |     |     |
 | iOS | clear_group_chat_confirmation | Clear "%@" group chat? | 清空"%@"的聊天记录？ | "%@"のグループチャットを削除しますか? |     |     |
-| iOS | Clear_cache | Clear cache | 清理缓存 | キャッシュをクリア |     |     |
+| iOS | Clear_Cache | Clear Cache | 清理缓存 | キャッシュをクリア |     |     |
 | iOS | Cleared | Cleared | 已清空 | クリアずみ |     |     |
 | android | Clearing | Clearing… | 正在清理… | クリア中… | Kosongkan… | Membersihkan… |
 | android | Click_to_lock | Click to lock | 点击锁定 | クリックしてロック | Klik untuk mengunci | Klik untuk mengunci |

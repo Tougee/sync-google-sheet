@@ -321,7 +321,7 @@
   <string name="clear_contact_chat_confirmation" platform="iOS">清空与"%@"的聊天记录？</string>
   <string name="clear_filter" platform="Desktop">清除筛选条件</string>
   <string name="clear_group_chat_confirmation" platform="iOS">清空"%@"的聊天记录？</string>
-  <string name="Clear_cache" platform="iOS">清理缓存</string>
+  <string name="Clear_Cache" platform="iOS">清理缓存</string>
   <string name="Cleared" platform="iOS">已清空</string>
   <string name="Clearing" platform="android">正在清理…</string>
   <string name="Click_to_lock" platform="android">点击锁定</string>
