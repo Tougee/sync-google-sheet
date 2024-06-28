@@ -268,7 +268,7 @@
   <string name="Clear_chat" platform="android, iOS, Desktop">チャットを削除する</string>
   <string name="clear_contact_chat_confirmation" platform="iOS">"%@"とチャットを削除しますか?</string>
   <string name="clear_group_chat_confirmation" platform="iOS">"%@"のグループチャットを削除しますか?</string>
-  <string name="Clear_cache" platform="iOS">データ使用量(キャッシュ)を軽減</string>
+  <string name="Clear_cache" platform="iOS">キャッシュをクリア</string>
   <string name="Cleared" platform="iOS">クリアずみ</string>
   <string name="Clearing" platform="android">クリア中…</string>
   <string name="Click_to_lock" platform="android">クリックしてロック</string>
