@@ -1897,7 +1897,7 @@
 | android,iOS | select_token | Select Token | 选择代币 |     |     |     |
 | android,iOS | Contract | Contract | 合约  |     |     |     |
 | android,iOS | swap_desc | %1$s will be deposited into your wallet once the transaction is complete | %1$s 将会在交易完成后存入您的钱包 |     |     |     |
-| android,iOS | view_on_explorer | View on Explorer | 在浏览器查看 |     |     |     |
+| android,iOS | view_on_explorer | View on Explorer | 在浏览器中查看 |     |     |     |
 | android,iOS | search_swap_token | Search by token or address | 按代币或合约地址搜索 |     |     |     |
 | android,iOS | Slippage_tolerance_exceeded | Slippage tolerance exceeded | 超出滑点范围 |     |     |     |
 | android,iOS | balance_max | MAX | 最大  |     |     |     |
