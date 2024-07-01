@@ -1913,5 +1913,5 @@
   <string name="View_on_Explorer" platform="android,iOS">在浏览器中查看</string>
   <string name="content_type" platform="android,iOS">内容类型</string>
   <string name="collectible_owner" platform="android,iOS">拥有者</string>
-  <string name="collectible_traits" platform="android,iOS">属性</string>
+  <string name="collectible_traits" platform="android,iOS">特征</string>
 </resources>
