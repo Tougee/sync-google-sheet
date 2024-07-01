@@ -1,4 +1,4 @@
-| owner | keys | en  | zh  | ja  | ms  | in  |
+| platform | keys | en  | zh  | ja  | ms  | in  |
 |---|---|---|---|---|---|---|
 | android | a_card | a card | 一个卡片 | カード |     |     |
 | android | a_contact | a contact | 一个联系人 | 連絡先 |     |     |
