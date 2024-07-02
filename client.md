@@ -12,7 +12,7 @@
 | android | a_transcript | a transcript | 一个聊天记录 | メッセージ履歴 |     |     |
 | android | a_video | a video | 一个视频 | 動画  |     |     |
 | android, iOS, Desktop | About | About | 关于  | Mixinについて | Mengenai | Tentang |
-| android | about_version | Version %1$s | 版本 %1$s | バージョン%1$s | Versi %1$s | Versi %1$s |
+| android | about_version | Version %1$s | 版本 %1$s | バージョン%1$s | Versi %1$s | web3_deposit_description |
 | android | Accept | Accept | 接听  | 確認  | Terima | Terima |
 | android | accepted_cards | Accepted cards: %1$s | 接受以下卡片: %1$s |     |     |     |
 | iOS | Access_Contacts_Hint | Mixin syncs your address book to Mixin servers to help you connect with other Mixin users | 同步通讯录到 Mixin 发现更多好友 | MixinはあなたのアドレスをMixinサーバーに同期させ、Mixinユーザーを自動追加します |     |     |
