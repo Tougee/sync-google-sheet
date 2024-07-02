@@ -1,6 +1,6 @@
 <resources>
   <string name="About" platform="android, iOS, Desktop">Tentang</string>
-  <string name="about_version" platform="android">web3_deposit_description</string>
+  <string name="about_version" platform="android">Versi %1$s</string>
   <string name="Accept" platform="android">Terima</string>
   <string name="Access_denied" platform="android, iOS, Desktop">Akses ditolak</string>
   <string name="access_your_bots_list" platform="android">mengakses daftar aplikasi Anda</string>
