@@ -1942,5 +1942,5 @@
   <string name="collectible_owner" platform="android,iOS">Owner</string>
   <string name="collectible_traits" platform="android,iOS">Traits</string>
   <string name="pictures_and_videos" platform="desktop"> Pictures &amp; Videos</string>
-  <string name="add_caption" platform="desktop">Add a caption</string>
+  <string name="add_a_caption" platform="desktop">Add a caption</string>
 </resources>
