@@ -1943,4 +1943,4 @@
 | android,iOS | collectible_owner | Owner | 拥有者 |     |     |     |
 | android,iOS | collectible_traits | Traits | 特征  |     |     |     |
 | desktop | pictures_and_videos |  Pictures & Videos | 图像 & 视频 |     |     |     |
-| desktop | add_a_caption | Add a caption | 添加说明文字 |     |     |     |
+| desktop | add_caption | Add a caption | 添加说明 |     |     |     |

@@ -1914,5 +1914,5 @@
   <string name="collectible_owner" platform="android,iOS">拥有者</string>
   <string name="collectible_traits" platform="android,iOS">特征</string>
   <string name="pictures_and_videos" platform="desktop">图像 &amp; 视频</string>
-  <string name="add_a_caption" platform="desktop">添加说明文字</string>
+  <string name="add_caption" platform="desktop">添加说明</string>
 </resources>
