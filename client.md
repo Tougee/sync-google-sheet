@@ -1946,20 +1946,16 @@
 | desktop | add_a_caption | Add a caption | 添加说明 |     |     |     |
 | desktop | copy_image | Copy Image | 复制图片 |     |     |     |
 | desktop | copy_text | Copy Text | 复制文字 |     |     |     |
-| android,iOS | android,iOS | android,iOS | android,iOS |     |     |     |
-|     | android,iOS | android,iOS | android,iOS |     |     |     |
-|     | android,iOS | android,iOS | android,iOS |     |     |     |
-|     | android,iOS | android,iOS | android,iOS |     |     |     |
-|     | android,iOS | android,iOS | android,iOS |     |     |     |
-|     | android,iOS | android,iOS | android,iOS |     |     |     |
-|     | android,iOS | android,iOS | android,iOS |     |     |     |
-|     | android,iOS | android,iOS | android,iOS |     |     |     |
-|     | android,iOS | android,iOS | android,iOS |     |     |     |
-|     | android,iOS | android,iOS | android,iOS |     |     |     |
-|     | android,iOS | android,iOS | android,iOS |     |     |     |
-|     | android,iOS | android,iOS | android,iOS |     |     |     |
-|     | android,iOS | android,iOS | android,iOS |     |     |     |
-|     | android,iOS | android,iOS | android,iOS |     |     |     |
-|     | android,iOS | android,iOS | android,iOS |     |     |     |
-|     | android,iOS | android,iOS | android,iOS |     |     |     |
-|     | android,iOS | android,iOS | android,iOS |     |     |     |
+| android,iOS | Oldest | Oldest | 最早   |     |     |     |
+| android,iOS | amount_descending | Amount Descending | 价值降序 |     |     |     |
+| android,iOS | value_descending | Value Descending | 金额降序 |     |     |     |
+| android,iOS | sort_by_recent | Sort by Recent | 按最近排序 |     |     |     |
+| android,iOS | sort_by_oldest | Sort by Oldest | 按最早排序 |     |     |     |
+| android,iOS | sort_by_value | Sort by Value | 按价值排序 |     |     |     |
+| android,iOS | sort_by_amount | Sort by Amount | 按金额排序 |     |     |     |
+| android,iOS | All_Assets | All Assets |     |     |     |     |
+| android,iOS | All_Recipients | All Recipients |     |     |     |     |
+| android,iOS | All_Dates | All Dates |     |     |     |     |
+| android,iOS | number_of_assets | %1$d Assets |     |     |     |     |
+| android,iOS | number_of_recipients | %1$d Recipients |     |     |     |     |
+| android,iOS | Select_LIMIT | Select up to %1$d |     |     |     |     |

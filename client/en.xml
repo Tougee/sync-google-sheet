@@ -1945,21 +1945,17 @@
   <string name="add_a_caption" platform="desktop">Add a caption</string>
   <string name="copy_image" platform="desktop">Copy Image</string>
   <string name="copy_text" platform="desktop">Copy Text</string>
-  <string name="android,iOS" platform="android,iOS">android,iOS</string>
-  <string name="android,iOS" platform="">android,iOS</string>
-  <string name="android,iOS" platform="">android,iOS</string>
-  <string name="android,iOS" platform="">android,iOS</string>
-  <string name="android,iOS" platform="">android,iOS</string>
-  <string name="android,iOS" platform="">android,iOS</string>
-  <string name="android,iOS" platform="">android,iOS</string>
-  <string name="android,iOS" platform="">android,iOS</string>
-  <string name="android,iOS" platform="">android,iOS</string>
-  <string name="android,iOS" platform="">android,iOS</string>
-  <string name="android,iOS" platform="">android,iOS</string>
-  <string name="android,iOS" platform="">android,iOS</string>
-  <string name="android,iOS" platform="">android,iOS</string>
-  <string name="android,iOS" platform="">android,iOS</string>
-  <string name="android,iOS" platform="">android,iOS</string>
-  <string name="android,iOS" platform="">android,iOS</string>
-  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="Oldest" platform="android,iOS">Oldest</string>
+  <string name="amount_descending" platform="android,iOS">Amount Descending</string>
+  <string name="value_descending" platform="android,iOS">Value Descending</string>
+  <string name="sort_by_recent" platform="android,iOS">Sort by Recent</string>
+  <string name="sort_by_oldest" platform="android,iOS">Sort by Oldest</string>
+  <string name="sort_by_value" platform="android,iOS">Sort by Value</string>
+  <string name="sort_by_amount" platform="android,iOS">Sort by Amount</string>
+  <string name="All_Assets" platform="android,iOS">All Assets</string>
+  <string name="All_Recipients" platform="android,iOS">All Recipients</string>
+  <string name="All_Dates" platform="android,iOS">All Dates</string>
+  <string name="number_of_assets" platform="android,iOS">%1$d Assets</string>
+  <string name="number_of_recipients" platform="android,iOS">%1$d Recipients</string>
+  <string name="Select_LIMIT" platform="android,iOS">Select up to %1$d</string>
 </resources>
