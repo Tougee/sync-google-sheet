@@ -1917,4 +1917,21 @@
   <string name="add_a_caption" platform="desktop">添加说明</string>
   <string name="copy_image" platform="desktop">复制图片</string>
   <string name="copy_text" platform="desktop">复制文字</string>
+  <string name="android,iOS" platform="android,iOS">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
 </resources>

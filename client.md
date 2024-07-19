@@ -1946,3 +1946,20 @@
 | desktop | add_a_caption | Add a caption | 添加说明 |     |     |     |
 | desktop | copy_image | Copy Image | 复制图片 |     |     |     |
 | desktop | copy_text | Copy Text | 复制文字 |     |     |     |
+| android,iOS | android,iOS | android,iOS | android,iOS |     |     |     |
+|     | android,iOS | android,iOS | android,iOS |     |     |     |
+|     | android,iOS | android,iOS | android,iOS |     |     |     |
+|     | android,iOS | android,iOS | android,iOS |     |     |     |
+|     | android,iOS | android,iOS | android,iOS |     |     |     |
+|     | android,iOS | android,iOS | android,iOS |     |     |     |
+|     | android,iOS | android,iOS | android,iOS |     |     |     |
+|     | android,iOS | android,iOS | android,iOS |     |     |     |
+|     | android,iOS | android,iOS | android,iOS |     |     |     |
+|     | android,iOS | android,iOS | android,iOS |     |     |     |
+|     | android,iOS | android,iOS | android,iOS |     |     |     |
+|     | android,iOS | android,iOS | android,iOS |     |     |     |
+|     | android,iOS | android,iOS | android,iOS |     |     |     |
+|     | android,iOS | android,iOS | android,iOS |     |     |     |
+|     | android,iOS | android,iOS | android,iOS |     |     |     |
+|     | android,iOS | android,iOS | android,iOS |     |     |     |
+|     | android,iOS | android,iOS | android,iOS |     |     |     |

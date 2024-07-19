@@ -1945,4 +1945,21 @@
   <string name="add_a_caption" platform="desktop">Add a caption</string>
   <string name="copy_image" platform="desktop">Copy Image</string>
   <string name="copy_text" platform="desktop">Copy Text</string>
+  <string name="android,iOS" platform="android,iOS">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
+  <string name="android,iOS" platform="">android,iOS</string>
 </resources>
