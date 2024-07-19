@@ -1955,7 +1955,7 @@
 | android,iOS | sort_by_amount | Sort by Amount | 按金额排序 |     |     |     |
 | android,iOS | All_Assets | All Assets | 所有资产 |     |     |     |
 | android,iOS | All_Recipients | All Recipients | 所有收款人 |     |     |     |
-| android,iOS | All_Dates | All Dates |     |     |     |     |
-| android,iOS | number_of_assets | %1$d Assets |     |     |     |     |
-| android,iOS | number_of_recipients | %1$d Recipients |     |     |     |     |
+| android,iOS | All_Dates | All Dates | 所有日期 |     |     |     |
+| android,iOS | number_of_assets | %1$d Assets | %1$d 资产 |     |     |     |
+| android,iOS | number_of_recipients | %1$d Recipients | %1$d 收款人 |     |     |     |
 | android,iOS | Select_LIMIT | Select up to %1$d |     |     |     |     |
