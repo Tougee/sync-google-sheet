@@ -1925,4 +1925,5 @@
   <string name="sort_by_value" platform="android,iOS">按价值排序</string>
   <string name="sort_by_amount" platform="android,iOS">按金额排序</string>
   <string name="All_Assets" platform="android,iOS">所有资产</string>
+  <string name="All_Recipients" platform="android,iOS">所有收款人</string>
 </resources>
