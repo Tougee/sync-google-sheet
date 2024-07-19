@@ -1953,7 +1953,7 @@
 | android,iOS | sort_by_oldest | Sort by Oldest | 按最早排序 |     |     |     |
 | android,iOS | sort_by_value | Sort by Value | 按价值排序 |     |     |     |
 | android,iOS | sort_by_amount | Sort by Amount | 按金额排序 |     |     |     |
-| android,iOS | All_Assets | All Assets |     |     |     |     |
+| android,iOS | All_Assets | All Assets | 所有资产 |     |     |     |
 | android,iOS | All_Recipients | All Recipients |     |     |     |     |
 | android,iOS | All_Dates | All Dates |     |     |     |     |
 | android,iOS | number_of_assets | %1$d Assets |     |     |     |     |
