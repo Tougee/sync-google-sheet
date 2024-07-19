@@ -1924,9 +1924,8 @@
   <string name="sort_by_oldest" platform="android,iOS">按最早排序</string>
   <string name="sort_by_value" platform="android,iOS">按价值排序</string>
   <string name="sort_by_amount" platform="android,iOS">按金额排序</string>
-  <string name="All_Assets" platform="android,iOS">所有资产</string>
-  <string name="All_Recipients" platform="android,iOS">所有收款人</string>
-  <string name="All_Dates" platform="android,iOS">所有日期</string>
+  <string name="Assets" platform="android,iOS">资产</string>
+  <string name="Recipients" platform="android,iOS">收款人</string>
   <string name="number_of_assets" platform="android,iOS">%1$d 资产</string>
   <string name="number_of_recipients" platform="android,iOS">%1$d 收款人</string>
   <string name="Select_LIMIT" platform="android,iOS">最多选择 %1$d 个</string>

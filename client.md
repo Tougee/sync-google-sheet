@@ -1953,9 +1953,8 @@
 | android,iOS | sort_by_oldest | Sort by Oldest | 按最早排序 |     |     |     |
 | android,iOS | sort_by_value | Sort by Value | 按价值排序 |     |     |     |
 | android,iOS | sort_by_amount | Sort by Amount | 按金额排序 |     |     |     |
-| android,iOS | All_Assets | All Assets | 所有资产 |     |     |     |
-| android,iOS | All_Recipients | All Recipients | 所有收款人 |     |     |     |
-| android,iOS | All_Dates | All Dates | 所有日期 |     |     |     |
+| android,iOS | Assets | Assets | 资产  |     |     |     |
+| android,iOS | Recipients | Recipients | 收款人 |     |     |     |
 | android,iOS | number_of_assets | %1$d Assets | %1$d 资产 |     |     |     |
 | android,iOS | number_of_recipients | %1$d Recipients | %1$d 收款人 |     |     |     |
 | android,iOS | Select_LIMIT | Select up to %1$d | 最多选择 %1$d 个 |     |     |     |
