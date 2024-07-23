@@ -1958,4 +1958,4 @@
 | android,iOS | number_of_assets | %1$d Assets | %1$d 资产 |     |     |     |
 | android,iOS | number_of_recipients | %1$d Recipients | %1$d 收款人 |     |     |     |
 | android,iOS | Select_LIMIT | Select up to %1$d | 最多选择 %1$d 个 |     |     |     |
-|     | balance_abbreviation |     |     |     |     |     |
+| android,iOS | balance_abbreviation | Bal %1$s | 余额 %1$s |     |     |     |
