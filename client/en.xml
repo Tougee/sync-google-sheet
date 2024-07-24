@@ -1959,4 +1959,8 @@
   <string name="number_of_recipients" platform="android,iOS">%1$d Recipients</string>
   <string name="Select_LIMIT" platform="android,iOS">Select up to %1$d</string>
   <string name="balance_abbreviation" platform="android,iOS">Bal %1$s</string>
+  <string name="swap_confirmation" platform="android,iOS">Swap Confirm</string>
+  <string name="swap_failed" platform="android,iOS">Swap Failed</string>
+  <string name="swap_inner_desc" platform="android,iOS">The signature request from Mixin Messenger。</string>
+  <string name="swap_message_success" platform="android,iOS">Your transaction has been sent to network and will be processed within a few minutes.</string>
 </resources>
