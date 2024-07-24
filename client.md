@@ -618,6 +618,7 @@
 | android | error_expired_session | ERROR 10609: Session expired | 错误 10609: 交易会话过期 |     |     |     |
 | android | error_inconsistent_country | ERROR 10610: Inconsistent country | 错误 10610: 国家不一致 |     |     |     |
 | android, iOS | error_invalid_swap | ERROR 10611: Invalid swap | 错误 10611: 无效的闪兑 |     |     |     |
+| android, iOS |     |     |     |     |     |     |
 | android, iOS | error_no_available_quote | ERROR 10615: No available quote | 错误 10615: 没有报价 |     |     |     |
 | android, Desktop | error_permission | Please open the necessary permissions | 请开启相关权限 | 必要な権限を開いてください | Sila buka kebenaran yang diperlukan | Harap buka izin yang diperlukan |
 | android, iOS, Desktop | error_phone_invalid_format | ERROR 20110: Invalid phone number | 错误 20110：手机号码不合法 | エラー 20110：無効な電話番号です | RALAT 20110: Nombor telefon tidak sah | KESALAHAN 20110: Nomor telepon tidak valid |
