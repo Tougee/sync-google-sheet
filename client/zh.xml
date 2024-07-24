@@ -1931,4 +1931,8 @@
   <string name="number_of_recipients" platform="android,iOS">%1$d 收款人</string>
   <string name="Select_LIMIT" platform="android,iOS">最多选择 %1$d 个</string>
   <string name="balance_abbreviation" platform="android,iOS">余额 %1$s</string>
+  <string name="swap_confirmation" platform="android,iOS">确认闪兑</string>
+  <string name="swap_failed" platform="android,iOS">闪兑失败</string>
+  <string name="swap_inner_desc" platform="android,iOS">该签名请求来自 Mixin Messenger。</string>
+  <string name="swap_message_success" platform="android,iOS">您的闪兑交易已发送至网络，将很快交易被处理。</string>
 </resources>

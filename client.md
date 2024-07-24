@@ -1960,7 +1960,7 @@
 | android,iOS | number_of_recipients | %1$d Recipients | %1$d 收款人 |     |     |     |
 | android,iOS | Select_LIMIT | Select up to %1$d | 最多选择 %1$d 个 |     |     |     |
 | android,iOS | balance_abbreviation | Bal %1$s | 余额 %1$s |     |     |     |
-| android,iOS | swap_confirmation | Swap Confirm |     |     |     |     |
-| android,iOS | swap_failed | Swap Failed |     |     |     |     |
-| android,iOS | swap_inner_desc | The signature request from Mixin Messenger。 |     |     |     |     |
-| android,iOS | swap_message_success | Your transaction has been sent to network and will be processed within a few minutes. |     |     |     |     |
+| android,iOS | swap_confirmation | Swap Confirm | 确认闪兑 |     |     |     |
+| android,iOS | swap_failed | Swap Failed | 闪兑失败 |     |     |     |
+| android,iOS | swap_inner_desc | The signature request from Mixin Messenger。 | 该签名请求来自 Mixin Messenger。 |     |     |     |
+| android,iOS | swap_message_success | Your transaction has been sent to network and will be processed within a few minutes. | 您的闪兑交易已发送至网络，将很快交易被处理。 |     |     |     |
