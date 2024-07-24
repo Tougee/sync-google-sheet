@@ -1839,7 +1839,7 @@
   <string name="Accounts" platform="android, iOS">账户</string>
   <string name="to_mixin_wallet" platform="android, iOS">划转到 Mixin 钱包</string>
   <string name="Invalid_Address" platform="android, iOS">无效的地址</string>
-  <string name="web3_request_from_mixin" platform="android, iOS">该签名请求来自 Mixin Messenger。</string>
+  <string name="signature_request_from_mixin" platform="android, iOS">该签名请求来自 Mixin Messenger。</string>
   <string name="content_collectible" platform="android, iOS">[藏品]</string>
   <string name="HASH" platform="android, iOS, Desktop">哈希</string>
   <string name="ID" platform="android, iOS, Desktop">ID</string>
@@ -1933,6 +1933,5 @@
   <string name="balance_abbreviation" platform="android,iOS">余额 %1$s</string>
   <string name="swap_confirmation" platform="android,iOS">确认闪兑</string>
   <string name="swap_failed" platform="android,iOS">闪兑失败</string>
-  <string name="swap_inner_desc" platform="android,iOS">该签名请求来自 Mixin Messenger。</string>
-  <string name="swap_message_success" platform="android,iOS">您的闪兑交易已发送至网络，将很快交易被处理。</string>
+  <string name="swap_message_success" platform="android,iOS">您的闪兑交易已发送至网络，交易将很快被处理。</string>
 </resources>

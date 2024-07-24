@@ -1868,7 +1868,7 @@
 | android, iOS | Accounts | Accounts | 账户  |     |     |     |
 | android, iOS | to_mixin_wallet | To my Mixin Wallet | 划转到 Mixin 钱包 |     |     |     |
 | android, iOS | Invalid_Address | Invalid Address | 无效的地址 |     |     |     |
-| android, iOS | web3_request_from_mixin | This signature request is issued by Mixin Messenger. | 该签名请求来自 Mixin Messenger。 |     |     |     |
+| android, iOS | signature_request_from_mixin | This signature request is issued by Mixin Messenger. | 该签名请求来自 Mixin Messenger。 |     |     |     |
 | android, iOS | content_collectible | [Collectible] | [藏品] |     |     |     |
 | android, iOS, Desktop | HASH | HASH | 哈希  |     |     |     |
 | android, iOS, Desktop | ID  | ID  | ID  |     |     |     |
@@ -1962,5 +1962,4 @@
 | android,iOS | balance_abbreviation | Bal %1$s | 余额 %1$s |     |     |     |
 | android,iOS | swap_confirmation | Swap Confirm | 确认闪兑 |     |     |     |
 | android,iOS | swap_failed | Swap Failed | 闪兑失败 |     |     |     |
-| android,iOS | swap_inner_desc | The signature request from Mixin Messenger。 | 该签名请求来自 Mixin Messenger。 |     |     |     |
-| android,iOS | swap_message_success | Your transaction has been sent to network and will be processed within a few minutes. | 您的闪兑交易已发送至网络，将很快交易被处理。 |     |     |     |
+| android,iOS | swap_message_success | Your transaction has been sent to network and will be processed within a few minutes. | 您的闪兑交易已发送至网络，交易将很快被处理。 |     |     |     |
