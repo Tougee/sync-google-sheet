@@ -617,6 +617,7 @@
   <string name="error_expired_session" platform="android">ERROR 10609: Session expired</string>
   <string name="error_inconsistent_country" platform="android">ERROR 10610: Inconsistent country</string>
   <string name="error_invalid_swap" platform="android, iOS">ERROR 10611: Invalid swap</string>
+  <string name="error_invalid_quote_amount" platform="android, iOS">ERROR 10614: Invalid quote amount</string>
   <string name="error_no_available_quote" platform="android, iOS">ERROR 10615: No available quote</string>
   <string name="error_permission" platform="android, Desktop">Please open the necessary permissions</string>
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">ERROR 20110: Invalid phone number</string>

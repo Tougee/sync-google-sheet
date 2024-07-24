@@ -608,6 +608,7 @@
   <string name="error_expired_session" platform="android">错误 10609: 交易会话过期</string>
   <string name="error_inconsistent_country" platform="android">错误 10610: 国家不一致</string>
   <string name="error_invalid_swap" platform="android, iOS">错误 10611: 无效的闪兑</string>
+  <string name="error_invalid_quote_amount" platform="android, iOS">错误 10615: 没有报价</string>
   <string name="error_no_available_quote" platform="android, iOS">错误 10615: 没有报价</string>
   <string name="error_permission" platform="android, Desktop">请开启相关权限</string>
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">错误 20110：手机号码不合法</string>
