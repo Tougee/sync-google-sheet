@@ -1964,4 +1964,4 @@
 | android,iOS | swap_message_success | Your transaction has been sent to network and will be processed within a few minutes. | 您的闪兑交易已发送至网络，交易将很快被处理。 |     |     |     |
 | android,iOS | Price | Price | 价格  |     |     |     |
 | android,iOS | swap_asset_change | Asset changes (estimate) | 资产变动（预估） |     |     |     |
-| android,iOS | no_quote | No available quotes found. Please try a different token or amount. |     |     |     |     |
+| android,iOS | no_quote | No available quotes found. Please try a different token or amount. | 没有报价。请尝试切换币种或者修改金额。 |     |     |     |
