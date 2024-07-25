@@ -1965,3 +1965,4 @@
 | android,iOS | Price | Price | 价格  |     |     |     |
 | android,iOS | swap_asset_change | Asset changes (estimate) | 资产变动（预估） |     |     |     |
 | android,iOS | no_quote | No available quotes found. Please try a different token or amount. | 没有报价。请尝试切换币种或者修改金额。 |     |     |     |
+| android,iOS | test_test | test_test | test_test |     |     |     |

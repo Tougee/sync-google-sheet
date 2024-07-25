@@ -1964,4 +1964,5 @@
   <string name="Price" platform="android,iOS">Price</string>
   <string name="swap_asset_change" platform="android,iOS">Asset changes (estimate)</string>
   <string name="no_quote" platform="android,iOS">No available quotes found. Please try a different token or amount.</string>
+  <string name="test_test" platform="android,iOS">test_test</string>
 </resources>
