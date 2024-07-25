@@ -1857,7 +1857,6 @@
 | android, iOS | web3_deposit_description_evm | Use this address for receiving tokens on Ethereum, Polygon, BSC, Base, Arbitrum, Optimism, Blast networks | 使用此地址在 Ethereum、Polygon、BSC、Base、Arbitrum、Optimism、Blast 网络上接收代币 |     |     |     |
 | android, iOS | web3_deposit_description_solana | Use this address for receiving tokens on Solana network | 使用此地址在 Solana 网络上接收代币 |     |     |     |
 | android, iOS | web3_no_asset | Don’t Have Assets | 没有资产 |     |     |     |
-| android, iOS, Desktop | Collectibles | Collectibles | 藏品  |     |     |     |
 | android, iOS | no_collectibles | NO COLLECTIBLES | 没有藏品 |     |     |     |
 | android, iOS | From_Mixin_Wallet | From Mixin Wallet | 从 Mixin 钱包转入 |     |     |     |
 | android, iOS | From_Address | From address | 从外部转入 |     |     |     |
@@ -1936,7 +1935,6 @@
 | android,iOS | Token | Token | 代币  |     |     |     |
 | android,iOS | Link | Link | 链接  |     |     |     |
 | android,iOS | Set_as_avatar | Set as Avatar | 设置为头像 |     |     |     |
-| android,iOS | Recent | Recent | 最近  |     |     |     |
 | android,iOS | Alphabetical | Alphabetical | 按字母顺序 |     |     |     |
 | android,iOS | Floor_Price | Floor Price | 最低价格 |     |     |     |
 | android,iOS | Collection_collected | %1$d collected | 已收藏 %1$d 件 |     |     |     |
@@ -1964,3 +1962,4 @@
 | android,iOS | swap_confirmation | Swap Confirmation | 确认闪兑 |     |     |     |
 | android,iOS | swap_failed | Swap Failed | 闪兑失败 |     |     |     |
 | android,iOS | swap_message_success | Your transaction has been sent to network and will be processed within a few minutes. | 您的闪兑交易已发送至网络，交易将很快被处理。 |     |     |     |
+| android,iOS | Price | Price | 价格  |     |     |     |

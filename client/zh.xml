@@ -1828,7 +1828,6 @@
   <string name="web3_deposit_description_evm" platform="android, iOS">使用此地址在 Ethereum、Polygon、BSC、Base、Arbitrum、Optimism、Blast 网络上接收代币</string>
   <string name="web3_deposit_description_solana" platform="android, iOS">使用此地址在 Solana 网络上接收代币</string>
   <string name="web3_no_asset" platform="android, iOS">没有资产</string>
-  <string name="Collectibles" platform="android, iOS, Desktop">藏品</string>
   <string name="no_collectibles" platform="android, iOS">没有藏品</string>
   <string name="From_Mixin_Wallet" platform="android, iOS">从 Mixin 钱包转入</string>
   <string name="From_Address" platform="android, iOS">从外部转入</string>
@@ -1907,7 +1906,6 @@
   <string name="Token" platform="android,iOS">代币</string>
   <string name="Link" platform="android,iOS">链接</string>
   <string name="Set_as_avatar" platform="android,iOS">设置为头像</string>
-  <string name="Recent" platform="android,iOS">最近</string>
   <string name="Alphabetical" platform="android,iOS">按字母顺序</string>
   <string name="Floor_Price" platform="android,iOS">最低价格</string>
   <string name="Collection_collected" platform="android,iOS">已收藏 %1$d 件</string>
@@ -1935,4 +1933,5 @@
   <string name="swap_confirmation" platform="android,iOS">确认闪兑</string>
   <string name="swap_failed" platform="android,iOS">闪兑失败</string>
   <string name="swap_message_success" platform="android,iOS">您的闪兑交易已发送至网络，交易将很快被处理。</string>
+  <string name="Price" platform="android,iOS">价格</string>
 </resources>
