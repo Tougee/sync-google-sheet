@@ -1897,7 +1897,7 @@
   <string name="slippage_invalid" platform="android,iOS">Slippage cannot be greater than 50% and cannot be less than 0.1%</string>
   <string name="select_token" platform="android,iOS">Select Token</string>
   <string name="Contract" platform="android,iOS">Contract</string>
-  <string name="swap_desc" platform="android,iOS">%1$s will be deposited into your wallet once the transaction is complete</string>
+  <string name="swap_desc" platform="android">%1$s will be deposited into your wallet once the transaction is complete</string>
   <string name="view_on_explorer" platform="android,iOS">View on Explorer</string>
   <string name="search_swap_token" platform="android,iOS">Search by token or address</string>
   <string name="Slippage_tolerance_exceeded" platform="android,iOS">Slippage tolerance exceeded</string>
@@ -1960,7 +1960,7 @@
   <string name="number_of_recipients" platform="android,iOS">%1$d Recipients</string>
   <string name="Select_LIMIT" platform="android,iOS">Select up to %1$d</string>
   <string name="balance_abbreviation" platform="android,iOS">Bal %1$s</string>
-  <string name="swap_confirmation" platform="android,iOS">Swap Confirm</string>
+  <string name="swap_confirmation" platform="android,iOS">Swap Confirmation</string>
   <string name="swap_failed" platform="android,iOS">Swap Failed</string>
   <string name="swap_message_success" platform="android,iOS">Your transaction has been sent to network and will be processed within a few minutes.</string>
 </resources>

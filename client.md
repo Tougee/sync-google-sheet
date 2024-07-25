@@ -1898,7 +1898,7 @@
 | android,iOS | slippage_invalid | Slippage cannot be greater than 50% and cannot be less than 0.1% | 滑点不可大于 50% 且不可小于 0.1% |     |     |     |
 | android,iOS | select_token | Select Token | 选择代币 |     |     |     |
 | android,iOS | Contract | Contract | 合约  |     |     |     |
-| android,iOS | swap_desc | %1$s will be deposited into your wallet once the transaction is complete | %1$s 将会在交易完成后存入您的钱包 |     |     |     |
+| android | swap_desc | %1$s will be deposited into your wallet once the transaction is complete | %1$s 将会在交易完成后存入您的钱包 |     |     |     |
 | android,iOS | view_on_explorer | View on Explorer | 在浏览器中查看 |     |     |     |
 | android,iOS | search_swap_token | Search by token or address | 按代币或合约地址搜索 |     |     |     |
 | android,iOS | Slippage_tolerance_exceeded | Slippage tolerance exceeded | 超出滑点范围 |     |     |     |
@@ -1961,6 +1961,6 @@
 | android,iOS | number_of_recipients | %1$d Recipients | %1$d 收款人 |     |     |     |
 | android,iOS | Select_LIMIT | Select up to %1$d | 最多选择 %1$d 个 |     |     |     |
 | android,iOS | balance_abbreviation | Bal %1$s | 余额 %1$s |     |     |     |
-| android,iOS | swap_confirmation | Swap Confirm | 确认闪兑 |     |     |     |
+| android,iOS | swap_confirmation | Swap Confirmation | 确认闪兑 |     |     |     |
 | android,iOS | swap_failed | Swap Failed | 闪兑失败 |     |     |     |
 | android,iOS | swap_message_success | Your transaction has been sent to network and will be processed within a few minutes. | 您的闪兑交易已发送至网络，交易将很快被处理。 |     |     |     |
