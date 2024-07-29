@@ -1963,7 +1963,8 @@
   <string name="swap_message_success" platform="android,iOS">Your transaction has been sent to network and will be processed within a few minutes.</string>
   <string name="Price" platform="android,iOS">Price</string>
   <string name="swap_asset_change" platform="android,iOS">Asset changes (estimate)</string>
-  <string name="swap_no_quote" platform="android,iOS">No available quotes found. Please try a different token or amount.</string>
+  <string name="swap_no_available_quote" platform="android,iOS">No available quotes found. Please try a different token or amount.</string>
+  <string name="swap_invalid_amount" platform="android,iOS">No available quotes found. Please try a different token or amount.</string>
   <string name="swap_send" platform="android,iOS">Send</string>
   <string name="swap_receive" platform="android,iOS">Receive</string>
 </resources>
