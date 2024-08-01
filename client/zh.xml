@@ -1939,4 +1939,5 @@
   <string name="swap_invalid_amount" platform="android,iOS">没有报价。请尝试修改金额。</string>
   <string name="swap_send" platform="android,iOS">支付</string>
   <string name="swap_receive" platform="android,iOS">获得</string>
+  <string name="swap_not_supported" platform="android,iOS">不支持 %1$s 闪兑，已切换</string>
 </resources>

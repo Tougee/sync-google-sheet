@@ -1967,4 +1967,5 @@
   <string name="swap_invalid_amount" platform="android,iOS">No available quote found. Please try a different amount.</string>
   <string name="swap_send" platform="android,iOS">Send</string>
   <string name="swap_receive" platform="android,iOS">Receive</string>
+  <string name="swap_not_supported" platform="android,iOS">%1$s swap is not supported, it has been replaced</string>
 </resources>
