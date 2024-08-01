@@ -1969,3 +1969,4 @@
 | android,iOS | swap_send | Send | 支付  |     |     |     |
 | android,iOS | swap_receive | Receive | 获得  |     |     |     |
 | android,iOS | swap_not_supported | %1$s swap is not supported, it has been replaced | 不支持 %1$s 闪兑，已切换 |     |     |     |
+|   。 |     |     |     |     |     |     |
