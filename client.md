@@ -1969,16 +1969,16 @@
 | android,iOS | swap_send | Send | 支付  |     |     |     |
 | android,iOS | swap_receive | Receive | 获得  |     |     |     |
 | android,iOS | swap_not_supported | %1$s swap is not supported, it has been replaced | 不支持 %1$s 闪兑，已切换 |     |     |     |
-| android,iOS | <string name="swap_not_supported">%1$s swap is not supported, it has been replaced</string> |     |     |     |     |     |
-| android,iOS | <string name="Price_data_unavailable">Price data unavailable</string> |     |     |     |     |     |
-| android,iOS | <string name="Balance">Balance</string> |     |     |     |     |     |
-| android,iOS | <string name="Market">Market</string> |     |     |     |     |     |
-| android,iOS | <string name="view_all">View All</string> |     |     |     |     |     |
-| android,iOS | <string name="My_Balance">My Balance</string> |     |     |     |     |     |
-| android,iOS | <string name="All_Networks">All networks</string> |     |     |     |     |     |
-| android,iOS | <string name="Introduction">Introduction</string> |     |     |     |     |     |
-| android,iOS | <string name="Contract_Address">Contract Address</string> |     |     |     |     |     |
-| android,iOS | <string name="All_Time_Low">All Time Low</string> |     |     |     |     |     |
-| android,iOS | <string name="All_Time_High">All Time High</string> |     |     |     |     |     |
-| android,iOS | <string name="Circulation_Supply">Circulation Supply</string> |     |     |     |     |     |
-| android,iOS | <string name="Total_Supply">Total Supply</string> |     |     |     |     |     |
+| android,iOS | swap_not_supported">%1$s swap is not supported, it has been replaced</string> | 1$s swap is not supported, it has been replaced |     |     |     |     |
+| android,iOS | Price_data_unavailable">Price data unavailable</string> | Price data unavailable |     |     |     |     |
+| android,iOS | Balance">Balance</string> | Vla |     |     |     |     |
+| android,iOS | Market">Market</string> |     |     |     |     |     |
+| android,iOS | view_all">View All</string> |     |     |     |     |     |
+| android,iOS | My_Balance">My Balance</string> |     |     |     |     |     |
+| android,iOS | All_Networks">All networks</string> |     |     |     |     |     |
+| android,iOS | Introduction">Introduction</string> |     |     |     |     |     |
+| android,iOS | Contract_Address">Contract Address</string> |     |     |     |     |     |
+| android,iOS | All_Time_Low">All Time Low</string> |     |     |     |     |     |
+| android,iOS | All_Time_High">All Time High</string> |     |     |     |     |     |
+| android,iOS | Circulation_Supply">Circulation Supply</string> |     |     |     |     |     |
+| android,iOS | Total_Supply">Total Supply</string> |     |     |     |     |     |
