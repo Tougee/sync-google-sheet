@@ -1952,4 +1952,5 @@
   <string name="All_Time_High" platform="android,iOS">历史最高</string>
   <string name="Circulation_Supply" platform="android,iOS">流通量</string>
   <string name="Total_Supply" platform="android,iOS">总量</string>
+  <string name="address_warning" platform="android,iOS">合同地址不是充值地址！</string>
 </resources>
