@@ -1,4 +1,4 @@
-| platform | keys | en  | zh  | ja  | ms  | in  |
+| Balance | keys | en  | zh  | ja  | ms  | in  |
 |---|---|---|---|---|---|---|
 | android | a_card | a card | 一个卡片 | カード |     |     |
 | android | a_contact | a contact | 一个联系人 | 連絡先 |     |     |
@@ -1969,16 +1969,15 @@
 | android,iOS | swap_send | Send | 支付  |     |     |     |
 | android,iOS | swap_receive | Receive | 获得  |     |     |     |
 | android,iOS | swap_not_supported | %1$s swap is not supported, it has been replaced | 不支持 %1$s 闪兑，已切换 |     |     |     |
-| android,iOS | swap_not_supported">%1$s swap is not supported, it has been replaced | 1$s swap is not supported, it has been replaced |     |     |     |     |
-| android,iOS | Price_data_unavailable">Price data unavailable | Price data unavailable |     |     |     |     |
-| android,iOS | Balance">Balance | Vla |     |     |     |     |
-| android,iOS | Market">Market |     |     |     |     |     |
-| android,iOS | view_all">View All |     |     |     |     |     |
-| android,iOS | My_Balance">My Balance |     |     |     |     |     |
-| android,iOS | All_Networks">All networks |     |     |     |     |     |
-| android,iOS | Introduction">Introduction |     |     |     |     |     |
-| android,iOS | Contract_Address">Contract Address |     |     |     |     |     |
-| android,iOS | All_Time_Low">All Time Low |     |     |     |     |     |
-| android,iOS | All_Time_High">All Time High |     |     |     |     |     |
-| android,iOS | Circulation_Supply">Circulation Supply |     |     |     |     |     |
-| android,iOS | Total_Supply">Total Supply |     |     |     |     |     |
+| android,iOS | Price_data_unavailable | Price data unavailable |     |     |     |     |
+| android,iOS | Balance">Balance | Balance |     |     |     |     |
+| android,iOS | Market">Market | Market |     |     |     |     |
+| android,iOS | view_all">View All | View All |     |     |     |     |
+| android,iOS | My_Balance">My Balance | My Balance |     |     |     |     |
+| android,iOS | All_Networks">All networks | All networks |     |     |     |     |
+| android,iOS | Introduction">Introduction | ">Introduction |     |     |     |     |
+| android,iOS | Contract_Address">Contract Address | ">Contract Address |     |     |     |     |
+| android,iOS | All_Time_Low">All Time Low | ">All Time Low |     |     |     |     |
+| android,iOS | All_Time_High">All Time High | ">All Time High |     |     |     |     |
+| android,iOS | Circulation_Supply">Circulation Supply | ">Circulation Supply |     |     |     |     |
+| android,iOS | Total_Supply">Total Supply | Total Supply |     |     |     |     |
