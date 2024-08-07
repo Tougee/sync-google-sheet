@@ -1969,15 +1969,15 @@
 | android,iOS | swap_send | Send | 支付  |     |     |     |
 | android,iOS | swap_receive | Receive | 获得  |     |     |     |
 | android,iOS | swap_not_supported | %1$s swap is not supported, it has been replaced | 不支持 %1$s 闪兑，已切换 |     |     |     |
-| android,iOS | Price_data_unavailable | Price data unavailable |     |     |     |     |
-| android,iOS | Balance | Balance |     |     |     |     |
-| android,iOS | MarketMarket | Market |     |     |     |     |
-| android,iOS | view_all | View All |     |     |     |     |
-| android,iOS | My_Balance | My Balance |     |     |     |     |
-| android,iOS | All_Networks | All networks |     |     |     |     |
-| android,iOS | Introduction | ">Introduction |     |     |     |     |
-| android,iOS | Contract_Address | Contract Address |     |     |     |     |
-| android,iOS | All_Time_Low | All Time Low |     |     |     |     |
-| android,iOS | All_Time_High | All Time High |     |     |     |     |
-| android,iOS | Circulation_Supply | Circulation Supply |     |     |     |     |
-| android,iOS | Total_Supply | Total Supply |     |     |     |     |
+| android,iOS | Price_data_unavailable | Price data unavailable | 价格数据不可用 |     |     |     |
+| android,iOS | Balance | Balance | 余额  |     |     |     |
+| android,iOS | Market | Market | 行情  |     |     |     |
+| android,iOS | view_all | View All | 查看全部 |     |     |     |
+| android,iOS | My_Balance | My Balance | 我的余额 |     |     |     |
+| android,iOS | All_Networks | All networks | 所有网络 |     |     |     |
+| android,iOS | Introduction | Introduction | 介绍  |     |     |     |
+| android,iOS | Contract_Address | Contract Address | 合约地址 |     |     |     |
+| android,iOS | All_Time_Low | All Time Low | 历史最低 |     |     |     |
+| android,iOS | All_Time_High | All Time High | 历史最高 |     |     |     |
+| android,iOS | Circulation_Supply | Circulation Supply | 流通量 |     |     |     |
+| android,iOS | Total_Supply | Total Supply | 总量  |     |     |     |
