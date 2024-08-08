@@ -1986,3 +1986,4 @@
 | android,iOS | until_date | Until %1$s | 至%1$s |     |     |     |
 | android,iOS | Select_Date | Select Date | 选择日期 |     |     |     |
 | android,iOS | number_of_days | %1$d Days | %1$d天 |     |     |     |
+|     | Recipient | Recipient |     |     |     |     |
