@@ -1952,4 +1952,5 @@
   <string name="Circulation_Supply" platform="android,iOS">流通量</string>
   <string name="Total_Supply" platform="android,iOS">总量</string>
   <string name="address_warning" platform="android,iOS">合同地址不是充值地址！</string>
+  <string name="Transaction_History" platform="android,iOS">转账记录</string>
 </resources>

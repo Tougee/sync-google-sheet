@@ -1980,4 +1980,5 @@
   <string name="Circulation_Supply" platform="android,iOS">Circulation Supply</string>
   <string name="Total_Supply" platform="android,iOS">Total Supply</string>
   <string name="address_warning" platform="android,iOS">Contract address is NOT a deposit address!</string>
+  <string name="Transaction_History" platform="android,iOS">Transaction History</string>
 </resources>

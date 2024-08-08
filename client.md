@@ -1981,3 +1981,4 @@
 | android,iOS | Circulation_Supply | Circulation Supply | 流通量 |     |     |     |
 | android,iOS | Total_Supply | Total Supply | 总量  |     |     |     |
 | android,iOS | address_warning | Contract address is NOT a deposit address! | 合同地址不是充值地址！ |     |     |     |
+| android,iOS | Transaction_History | Transaction History | 转账记录 |     |     |     |
