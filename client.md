@@ -1984,3 +1984,4 @@
 | android,iOS | Transaction_History | Transaction History | 转账记录 |     |     |     |
 | android,iOS | from_date | From %1$s | 自%1$s |     |     |     |
 | android,iOS | until_date | Until %1$s | 至%1$s |     |     |     |
+| android,iOS | Select_Date | Select Date | 选择日期 |     |     |     |

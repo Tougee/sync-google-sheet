@@ -1983,4 +1983,5 @@
   <string name="Transaction_History" platform="android,iOS">Transaction History</string>
   <string name="from_date" platform="android,iOS">From %1$s</string>
   <string name="until_date" platform="android,iOS">Until %1$s</string>
+  <string name="Select_Date" platform="android,iOS">Select Date</string>
 </resources>

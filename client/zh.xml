@@ -1955,4 +1955,5 @@
   <string name="Transaction_History" platform="android,iOS">转账记录</string>
   <string name="from_date" platform="android,iOS">自%1$s</string>
   <string name="until_date" platform="android,iOS">至%1$s</string>
+  <string name="Select_Date" platform="android,iOS">选择日期</string>
 </resources>
