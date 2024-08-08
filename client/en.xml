@@ -1985,5 +1985,4 @@
   <string name="until_date" platform="android,iOS">Until %1$s</string>
   <string name="Select_Date" platform="android,iOS">Select Date</string>
   <string name="number_of_days" platform="android,iOS">%1$d Days</string>
-  <string name="Recipient" platform="">Recipient</string>
 </resources>
