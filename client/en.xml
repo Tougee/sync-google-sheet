@@ -97,7 +97,7 @@
   <string name="All_chats" platform="android">All chats</string>
   <string name="all_chats" platform="Desktop">Chats</string>
   <string name="All_Conversations" platform="android, iOS">All Conversations</string>
-  <string name="All_dates" platform="android">All dates</string>
+  <string name="All_dates" platform="android, iOS">All Dates</string>
   <string name="All_Media" platform="android">All Media</string>
   <string name="All_Photos" platform="iOS">All Photos</string>
   <string name="All_signer_failure" platform="android,iOS">All node failure</string>

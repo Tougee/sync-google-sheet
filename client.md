@@ -98,7 +98,7 @@
 | android | All_chats | All chats | 所有聊天 |     |     |     |
 | Desktop | all_chats | Chats | 全部聊天 | チャット |     |     |
 | android, iOS | All_Conversations | All Conversations | 所有会话 | すべてのチャットルーム | Semua Perbualan | Semua Percakapan |
-| android | All_dates | All dates | 所有日期 |     |     |     |
+| android, iOS | All_dates | All Dates | 所有日期 |     |     |     |
 | android | All_Media | All Media | 全部  | 全てのメディア | Semua Media | Semua Media |
 | iOS | All_Photos | All Photos | 所有照片 | 全ての画像 |     |     |
 | android,iOS | All_signer_failure | All node failure | 所有节点失败 |     |     |     |
