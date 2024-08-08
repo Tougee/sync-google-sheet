@@ -1917,7 +1917,7 @@
   <string name="add_a_caption" platform="desktop">添加说明</string>
   <string name="copy_image" platform="desktop">复制图片</string>
   <string name="copy_text" platform="desktop">复制文字</string>
-  <string name="Oldest" platform="android,iOS">最早  </string>
+  <string name="Oldest" platform="android,iOS">最早</string>
   <string name="amount_descending" platform="android,iOS">价值降序</string>
   <string name="value_descending" platform="android,iOS">金额降序</string>
   <string name="sort_by_recent" platform="android,iOS">按最近排序</string>

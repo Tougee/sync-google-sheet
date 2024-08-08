@@ -1946,7 +1946,7 @@
 | desktop | add_a_caption | Add a caption | 添加说明 |     |     |     |
 | desktop | copy_image | Copy Image | 复制图片 |     |     |     |
 | desktop | copy_text | Copy Text | 复制文字 |     |     |     |
-| android,iOS | Oldest | Oldest | 最早   |     |     |     |
+| android,iOS | Oldest | Oldest | 最早  |     |     |     |
 | android,iOS | amount_descending | Amount Descending | 价值降序 |     |     |     |
 | android,iOS | value_descending | Value Descending | 金额降序 |     |     |     |
 | android,iOS | sort_by_recent | Sort by Recent | 按最近排序 |     |     |     |
