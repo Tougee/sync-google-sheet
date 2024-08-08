@@ -150,7 +150,7 @@
   <string name="backup_notification_content" platform="android">バックアップの準備中…</string>
   <string name="backup_notification_title" platform="android">バックアップが進行中</string>
   <string name="Backup_success" platform="android">バックアップ成功</string>
-  <string name="Balance" platform="iOS">残高</string>
+  <string name="Balance" platform="android,iOS">残高</string>
   <string name="biography" platform="Desktop">自己紹介文</string>
   <string name="Biometric_Payment" platform="android">生体認証で支払う</string>
   <string name="Block" platform="android, iOS, Desktop">ブロック</string>

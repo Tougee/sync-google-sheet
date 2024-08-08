@@ -183,7 +183,7 @@
 | android | backup_notification_title | Backup in progress | 备份正在进行中 | バックアップが進行中 | Sandaran sedang dijalankan | Pencadangan sedang berlangsung |
 | android | Backup_success | Backup success | 备份成功 | バックアップ成功 | Kejayaan sandaran | Pencadangan berhasil |
 | iOS | Backup_to_iCloud | Backup to iCloud | 备份到 iCloud |     |     |     |
-| iOS | Balance | Balance | 余额  | 残高  |     |     |
+| android,iOS | Balance | Balance | 余额  | 残高  |     |     |
 | Desktop | biography | Biography | 简介  | 自己紹介文 |     |     |
 | Desktop | biometric | Biometric | 生物识别 |     |     |     |
 | android | Biometric_Payment | Biometric Payment | 生物识别支付 | 生体認証で支払う | Pembayaran Biometrik | Pembayaran Biometrik |
@@ -1970,7 +1970,6 @@
 | android,iOS | swap_receive | Receive | 获得  |     |     |     |
 | android,iOS | swap_not_supported | %1$s swap is not supported, it has been replaced | 不支持 %1$s 闪兑，已切换 |     |     |     |
 | android,iOS | Price_data_unavailable | Price data unavailable | 价格数据不可用 |     |     |     |
-| android,iOS | Balance | Balance | 余额  |     |     |     |
 | android,iOS | Market | Market | 行情  |     |     |     |
 | android,iOS | view_all | View All | 查看全部 |     |     |     |
 | android,iOS | My_Balance | My Balance | 我的余额 |     |     |     |
