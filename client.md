@@ -1227,7 +1227,7 @@
 | android, iOS, Desktop | Resend_code | Resend code | 重发验证码 | コードを再送する | Hantar semula kod | Kirim ulang kode |
 | android, Desktop | Resend_code_in | Resend code in %1$d s | %1$d 秒后重新发送验证码 | %1$d秒後にコードを再送 | Hantar semula kod dalam %1$d s | Kirim ulang kode dalam %1$d d |
 | iOS | resend_code_pending | Resend code in %@ | %@ 后重新发送验证码 | %@ 後にコードを再送 | Hantar semula kod dalam %1$d s | Kirim ulang kode dalam %1$d d |
-| android, Desktop | reset | Reset | 重置  | リセット |     |     |
+| android, iOS, Desktop | reset | Reset | 重置  | リセット |     |     |
 | android, iOS, Desktop | Reset_Link | Reset Link | 重置邀请链接 | リンクを取り消す |     |     |
 | android | Reset_notifications | Reset notifications | 重置通知设置 | 通知設定をリセット | Tetapkan semula pemberitahuan | Reset notifikasi |
 | android | RESTART | RESTART | 重启应用 | リスタート | MULA SEMULA | MULAI ULANG |
@@ -1982,3 +1982,5 @@
 | android,iOS | Total_Supply | Total Supply | 总量  |     |     |     |
 | android,iOS | address_warning | Contract address is NOT a deposit address! | 合同地址不是充值地址！ |     |     |     |
 | android,iOS | Transaction_History | Transaction History | 转账记录 |     |     |     |
+| android,iOS | from_date | From %1$s | 自%1$s |     |     |     |
+| android,iOS | until_date | Until %1$s | 至%1$s |     |     |     |

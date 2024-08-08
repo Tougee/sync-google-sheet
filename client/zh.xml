@@ -1207,7 +1207,7 @@
   <string name="Resend_code" platform="android, iOS, Desktop">重发验证码</string>
   <string name="Resend_code_in" platform="android, Desktop">%1$d 秒后重新发送验证码</string>
   <string name="resend_code_pending" platform="iOS">%@ 后重新发送验证码</string>
-  <string name="reset" platform="android, Desktop">重置</string>
+  <string name="reset" platform="android, iOS, Desktop">重置</string>
   <string name="Reset_Link" platform="android, iOS, Desktop">重置邀请链接</string>
   <string name="Reset_notifications" platform="android">重置通知设置</string>
   <string name="RESTART" platform="android">重启应用</string>
@@ -1953,4 +1953,6 @@
   <string name="Total_Supply" platform="android,iOS">总量</string>
   <string name="address_warning" platform="android,iOS">合同地址不是充值地址！</string>
   <string name="Transaction_History" platform="android,iOS">转账记录</string>
+  <string name="from_date" platform="android,iOS">自%1$s</string>
+  <string name="until_date" platform="android,iOS">至%1$s</string>
 </resources>

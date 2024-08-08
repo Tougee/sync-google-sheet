@@ -1226,7 +1226,7 @@
   <string name="Resend_code" platform="android, iOS, Desktop">Resend code</string>
   <string name="Resend_code_in" platform="android, Desktop">Resend code in %1$d s</string>
   <string name="resend_code_pending" platform="iOS">Resend code in %@</string>
-  <string name="reset" platform="android, Desktop">Reset</string>
+  <string name="reset" platform="android, iOS, Desktop">Reset</string>
   <string name="Reset_Link" platform="android, iOS, Desktop">Reset Link</string>
   <string name="Reset_notifications" platform="android">Reset notifications</string>
   <string name="RESTART" platform="android">RESTART</string>
@@ -1981,4 +1981,6 @@
   <string name="Total_Supply" platform="android,iOS">Total Supply</string>
   <string name="address_warning" platform="android,iOS">Contract address is NOT a deposit address!</string>
   <string name="Transaction_History" platform="android,iOS">Transaction History</string>
+  <string name="from_date" platform="android,iOS">From %1$s</string>
+  <string name="until_date" platform="android,iOS">Until %1$s</string>
 </resources>

@@ -991,7 +991,7 @@
   <string name="Resend_code" platform="android, iOS, Desktop">コードを再送する</string>
   <string name="Resend_code_in" platform="android, Desktop">%1$d秒後にコードを再送</string>
   <string name="resend_code_pending" platform="iOS">%@ 後にコードを再送</string>
-  <string name="reset" platform="android, Desktop">リセット</string>
+  <string name="reset" platform="android, iOS, Desktop">リセット</string>
   <string name="Reset_Link" platform="android, iOS, Desktop">リンクを取り消す</string>
   <string name="Reset_notifications" platform="android">通知設定をリセット</string>
   <string name="RESTART" platform="android">リスタート</string>
