@@ -1959,16 +1959,16 @@
 | android,iOS | number_of_recipients | %1$d Recipients | %1$d 收款人 |     |     |     |
 | android,iOS | Select_LIMIT | Select up to %1$d | 最多选择 %1$d 个 |     |     |     |
 | android,iOS | balance_abbreviation | Bal %1$s | 余额 %1$s |     |     |     |
-| android,iOS | swap_confirmation | Swap Confirmation | 确认闪兑 |     |     |     |
+| android,iOS | swap_confirmation | Swap Confirmation | 确认交易 |     |     |     |
 | android,iOS | swap_failed | Swap Failed | 交易失败 |     |     |     |
-| android,iOS | swap_message_success | Your transaction has been sent to network and will be processed within a few minutes. | 您的闪兑交易已发送至网络，交易将很快被处理。 |     |     |     |
+| android,iOS | swap_message_success | Your transaction has been sent to network and will be processed within a few minutes. | 您的闪兑交易已发送至网络，将很快被处理。 |     |     |     |
 | android,iOS | Price | Price | 价格  |     |     |     |
 | android,iOS | swap_asset_change | Asset changes (estimate) | 资产变动（预估） |     |     |     |
 | android,iOS | swap_no_available_quote | No available quote found. Please try a different token. | 没有报价。请尝试切换币种。 |     |     |     |
 | android,iOS | swap_invalid_amount | No available quote found. Please try a different amount. | 没有报价。请尝试修改金额。 |     |     |     |
 | android,iOS | swap_send | Send | 支付  |     |     |     |
 | android,iOS | swap_receive | Receive | 获得  |     |     |     |
-| android,iOS | swap_not_supported | %1$s swap is not supported, it has been replaced | 不支持 %1$s 闪兑，已切换 |     |     |     |
+| android,iOS | swap_not_supported | %1$s swap is not supported, it has been replaced | 不支持 %1$s 交易，已切换 |     |     |     |
 | android,iOS | Price_data_unavailable | Price data unavailable | 价格数据不可用 |     |     |     |
 | android,iOS | Market | Market | 行情  |     |     |     |
 | android,iOS | view_all | View All | 查看全部 |     |     |     |
