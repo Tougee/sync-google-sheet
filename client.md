@@ -617,7 +617,7 @@
 | android | error_card_holder_name_not_same | ERROR 10608: Card anomaly, please try correct card later | 错误 10608: 卡片异常，请稍后尝试正确的卡片 |     |     |     |
 | android | error_expired_session | ERROR 10609: Session expired | 错误 10609: 交易会话过期 |     |     |     |
 | android | error_inconsistent_country | ERROR 10610: Inconsistent country | 错误 10610: 国家不一致 |     |     |     |
-| android, iOS | error_invalid_swap | ERROR 10611: Invalid swap | 错误 10611: 闪兑无效 |     |     |     |
+| android, iOS | error_invalid_swap | ERROR 10611: Invalid swap | 错误 10611: 交易无效 |     |     |     |
 | android, iOS | error_invalid_quote_amount | ERROR 10614: Invalid quote amount | 错误 10614: 数量无效 |     |     |     |
 | android, iOS | error_no_available_quote | ERROR 10615: No available quote | 错误 10615: 没有报价 |     |     |     |
 | android, Desktop | error_permission | Please open the necessary permissions | 请开启相关权限 | 必要な権限を開いてください | Sila buka kebenaran yang diperlukan | Harap buka izin yang diperlukan |
@@ -1420,7 +1420,7 @@
 | android, iOS, Desktop | share_message_description_empty | Are you sure you want to send the %1$s? | 你确定要发送该%1$s？ | %1$sを送信しますか？ | Adakah anda pasti mahu menghantar %1$s? | Yakin ingin mengirim %1$s? |
 | android | Share_QR_Code | Share QR Code | 分享二维码 | QRコードを共有 |     |     |
 | android | share_to | Share %1$s to… | 分享%1$s到… | 共有する | Kongsi %1$s ke… | Bagikan %1$s ke… |
-| iOS | Share_To | Share To | 分享给 | 共有する |     |     |
+| iOS | Share_To | Share To | 分享到 | 共有する |     |     |
 | android, iOS, Desktop | Shared_Media | Shared Media | 媒体内容 | 共有されたメディア | Media Berkongsi | Media Bersama |
 | android, iOS, Desktop | Show | Show | 显示  | 表示  | Tunjuk | Tampilkan |
 | iOS,android | Show Selected | Show Selected(%1$s) | 显示选择（%1$s） |     |     |     |
@@ -1878,7 +1878,7 @@
 | android, iOS | search_placeholder_collectible | Name | 名称  |     |     |     |
 | android, iOS | alert_key_contact_collectible_message | sent you a collectible | 发送一个藏品 |     |     |     |
 | android, iOS | Collectible_Hash | Collectible Hash | 藏品哈希 |     |     |     |
-| android,iOS | Swap | Swap | 闪兑  |     |     |     |
+| android,iOS | Swap | Swap | 交易  |     |     |     |
 | android,iOS | Swapping | Swapping | 兑换中 |     |     |     |
 | android,iOS | Pay | Pay | 支付  |     |     |     |
 | android,iOS | Received | received | 收到  |     |     |     |
@@ -1960,7 +1960,7 @@
 | android,iOS | Select_LIMIT | Select up to %1$d | 最多选择 %1$d 个 |     |     |     |
 | android,iOS | balance_abbreviation | Bal %1$s | 余额 %1$s |     |     |     |
 | android,iOS | swap_confirmation | Swap Confirmation | 确认闪兑 |     |     |     |
-| android,iOS | swap_failed | Swap Failed | 闪兑失败 |     |     |     |
+| android,iOS | swap_failed | Swap Failed | 交易失败 |     |     |     |
 | android,iOS | swap_message_success | Your transaction has been sent to network and will be processed within a few minutes. | 您的闪兑交易已发送至网络，交易将很快被处理。 |     |     |     |
 | android,iOS | Price | Price | 价格  |     |     |     |
 | android,iOS | swap_asset_change | Asset changes (estimate) | 资产变动（预估） |     |     |     |

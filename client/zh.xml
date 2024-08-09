@@ -607,7 +607,7 @@
   <string name="error_card_holder_name_not_same" platform="android">错误 10608: 卡片异常，请稍后尝试正确的卡片</string>
   <string name="error_expired_session" platform="android">错误 10609: 交易会话过期</string>
   <string name="error_inconsistent_country" platform="android">错误 10610: 国家不一致</string>
-  <string name="error_invalid_swap" platform="android, iOS">错误 10611: 闪兑无效</string>
+  <string name="error_invalid_swap" platform="android, iOS">错误 10611: 交易无效</string>
   <string name="error_invalid_quote_amount" platform="android, iOS">错误 10614: 数量无效</string>
   <string name="error_no_available_quote" platform="android, iOS">错误 10615: 没有报价</string>
   <string name="error_permission" platform="android, Desktop">请开启相关权限</string>
@@ -1398,7 +1398,7 @@
   <string name="share_message_description_empty" platform="android, iOS, Desktop">你确定要发送该%1$s？</string>
   <string name="Share_QR_Code" platform="android">分享二维码</string>
   <string name="share_to" platform="android">分享%1$s到…</string>
-  <string name="Share_To" platform="iOS">分享给</string>
+  <string name="Share_To" platform="iOS">分享到</string>
   <string name="Shared_Media" platform="android, iOS, Desktop">媒体内容</string>
   <string name="Show" platform="android, iOS, Desktop">显示</string>
   <string name="Show Selected" platform="iOS,android">显示选择（%1$s）</string>
@@ -1849,7 +1849,7 @@
   <string name="search_placeholder_collectible" platform="android, iOS">名称</string>
   <string name="alert_key_contact_collectible_message" platform="android, iOS">发送一个藏品</string>
   <string name="Collectible_Hash" platform="android, iOS">藏品哈希</string>
-  <string name="Swap" platform="android,iOS">闪兑</string>
+  <string name="Swap" platform="android,iOS">交易</string>
   <string name="Swapping" platform="android,iOS">兑换中</string>
   <string name="Pay" platform="android,iOS">支付</string>
   <string name="Received" platform="android,iOS">收到</string>
@@ -1931,7 +1931,7 @@
   <string name="Select_LIMIT" platform="android,iOS">最多选择 %1$d 个</string>
   <string name="balance_abbreviation" platform="android,iOS">余额 %1$s</string>
   <string name="swap_confirmation" platform="android,iOS">确认闪兑</string>
-  <string name="swap_failed" platform="android,iOS">闪兑失败</string>
+  <string name="swap_failed" platform="android,iOS">交易失败</string>
   <string name="swap_message_success" platform="android,iOS">您的闪兑交易已发送至网络，交易将很快被处理。</string>
   <string name="Price" platform="android,iOS">价格</string>
   <string name="swap_asset_change" platform="android,iOS">资产变动（预估）</string>
