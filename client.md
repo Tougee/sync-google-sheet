@@ -1968,7 +1968,7 @@
 | android,iOS | swap_invalid_amount | No available quote found. Please try a different amount. | 没有报价。请尝试修改金额。 |     |     |     |
 | android,iOS | swap_send | Send | 支付  |     |     |     |
 | android,iOS | swap_receive | Receive | 获得  |     |     |     |
-| android,iOS | swap_not_supported | %1$s swap is not supported, it has been replaced | 不支持 %1$s 交易，已切换 |     |     |     |
+| android,iOS | swap_not_supported | %1$s swapping is not supported | 不支持 %1$s 交易 |     |     |     |
 | android,iOS | Price_data_unavailable | Price data unavailable | 价格数据不可用 |     |     |     |
 | android,iOS | Market | Market | 行情  |     |     |     |
 | android,iOS | view_all | View All | 查看全部 |     |     |     |
