@@ -1988,4 +1988,4 @@
 | android,iOS | number_of_days | %1$d Days | %1$d天 |     |     |     |
 | android,iOS | End | End | 结束  |     |     |     |
 | android,iOS | Value | Value | 价值  |     |     |     |
-| android,iOS | Market States | Market States |     |     |     |     |
+| android,iOS | Market_States | Market States | 行情数据 |     |     |     |
