@@ -1988,4 +1988,5 @@
   <string name="End" platform="android,iOS">End</string>
   <string name="Value" platform="android,iOS">Value</string>
   <string name="Market_States" platform="android,iOS">Market States</string>
+  <string name="high_24h" platform="android,iOS">24H HIGH</string>
 </resources>

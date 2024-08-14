@@ -1989,3 +1989,4 @@
 | android,iOS | End | End | 结束  |     |     |     |
 | android,iOS | Value | Value | 价值  |     |     |     |
 | android,iOS | Market_States | Market States | 行情数据 |     |     |     |
+| android,iOS | high_24h | 24H HIGH |     |     |     |     |
