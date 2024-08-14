@@ -1997,4 +1997,3 @@
 | android,iOS | months_count_short | %1$dM | %1$d月 |     |     |     |
 | android,iOS | ytd | YTD | 年初至今 |     |     |     |
 | android,iOS | Market_Cap | Market Cap | 市值  |     |     |     |
-| android,iOS | Issue_Date | Issue Date | 发行日 |     |     |     |

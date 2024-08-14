@@ -1996,5 +1996,4 @@
   <string name="months_count_short" platform="android,iOS">%1$dM</string>
   <string name="ytd" platform="android,iOS">YTD</string>
   <string name="Market_Cap" platform="android,iOS">Market Cap</string>
-  <string name="Issue_Date" platform="android,iOS">Issue Date</string>
 </resources>

@@ -1968,5 +1968,4 @@
   <string name="months_count_short" platform="android,iOS">%1$d月</string>
   <string name="ytd" platform="android,iOS">年初至今</string>
   <string name="Market_Cap" platform="android,iOS">市值</string>
-  <string name="Issue_Date" platform="android,iOS">发行日</string>
 </resources>
