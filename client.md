@@ -1989,4 +1989,6 @@
 | android,iOS | End | End | 结束  |     |     |     |
 | android,iOS | Value | Value | 价值  |     |     |     |
 | android,iOS | Market_States | Market States | 行情数据 |     |     |     |
-| android,iOS | high_24h | 24H HIGH |     |     |     |     |
+| android,iOS | high_24h | 24H HIGH | 24小时最高 |     |     |     |
+| android,iOS | low_24h | 24H LOW | 24小时最低 |     |     |     |
+| android,iOS | vol_24h | 24H VOL(%1$s) | 24小时交易量（%1$s） |     |     |     |
