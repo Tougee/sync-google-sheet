@@ -138,7 +138,6 @@
   <string name="Asset_not_found" platform="android, iOS">Asset not found.</string>
   <string name="Asset_Type" platform="iOS, Desktop">Asset Type</string>
   <string name="ASSETS" platform="android">ASSETS</string>
-  <string name="assets_title" platform="iOS">Assets</string>
   <string name="Audio" platform="android, iOS, Desktop">Audio</string>
   <string name="audio_shareable_false" platform="android, iOS">The audio has been set to not allow sharing</string>
   <string name="Audios" platform="android, iOS, Desktop">Audios</string>

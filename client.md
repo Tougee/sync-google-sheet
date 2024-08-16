@@ -139,7 +139,6 @@
 | android, iOS | Asset_not_found | Asset not found. | 找不到该资产 | 資産が存在しません |     |     |
 | iOS, Desktop | Asset_Type | Asset Type | 资产类型 | 資産タイプ |     |     |
 | android | ASSETS | ASSETS | 资产  | 資産  | ASET | ASET |
-| iOS | assets_title | Assets | 资产  | 資産  |     |     |
 | android, iOS, Desktop | Audio | Audio | 语音  | 音声メッセージ | Audio | Audio |
 | android, iOS | audio_shareable_false | The audio has been set to not allow sharing | 该语音已被设置为不允许转发 |     |     |     |
 | android, iOS, Desktop | Audios | Audios | 音频  | 音声メッセージ |     |     |
