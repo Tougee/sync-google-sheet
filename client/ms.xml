@@ -58,7 +58,7 @@
   <string name="Appearance" platform="android, iOS, Desktop">Penampilan</string>
   <string name="Apply" platform="android, iOS">Guna</string>
   <string name="Asset_Key" platform="android, iOS">Kunci Aset</string>
-  <string name="ASSETS" platform="android, iOS">ASET</string>
+  <string name="ASSETS" platform="android">ASET</string>
   <string name="Audio" platform="android, iOS, Desktop">Audio</string>
   <string name="auth_assets_more" platform="android">%1$s dan banyak lagi</string>
   <string name="auth_messages_represent_description" platform="android">benarkan bot menghantar mesej mewakili anda</string>

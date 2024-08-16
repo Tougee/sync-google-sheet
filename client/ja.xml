@@ -110,7 +110,7 @@
   <string name="Asset_Key" platform="android, iOS">資産のキー</string>
   <string name="Asset_not_found" platform="android, iOS">資産が存在しません</string>
   <string name="Asset_Type" platform="iOS, Desktop">資産タイプ</string>
-  <string name="ASSETS" platform="android, iOS">資産</string>
+  <string name="ASSETS" platform="android">資産</string>
   <string name="assets_title" platform="iOS">資産</string>
   <string name="Audio" platform="android, iOS, Desktop">音声メッセージ</string>
   <string name="Audios" platform="android, iOS, Desktop">音声メッセージ</string>

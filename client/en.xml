@@ -137,7 +137,7 @@
   <string name="asset_migration_hint" platform="android, iOS">You have assets in the legacy network, please view here.</string>
   <string name="Asset_not_found" platform="android, iOS">Asset not found.</string>
   <string name="Asset_Type" platform="iOS, Desktop">Asset Type</string>
-  <string name="ASSETS" platform="android, iOS">ASSETS</string>
+  <string name="ASSETS" platform="android">ASSETS</string>
   <string name="assets_title" platform="iOS">Assets</string>
   <string name="Audio" platform="android, iOS, Desktop">Audio</string>
   <string name="audio_shareable_false" platform="android, iOS">The audio has been set to not allow sharing</string>

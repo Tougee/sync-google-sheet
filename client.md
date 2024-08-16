@@ -138,7 +138,7 @@
 | android, iOS | asset_migration_hint | You have assets in the legacy network, please view here. | 您还有资产在旧的 Mixin 网络，点击查看。 |     |     |     |
 | android, iOS | Asset_not_found | Asset not found. | 找不到该资产 | 資産が存在しません |     |     |
 | iOS, Desktop | Asset_Type | Asset Type | 资产类型 | 資産タイプ |     |     |
-| android, iOS | ASSETS | ASSETS | 资产  | 資産  | ASET | ASET |
+| android | ASSETS | ASSETS | 资产  | 資産  | ASET | ASET |
 | iOS | assets_title | Assets | 资产  | 資産  |     |     |
 | android, iOS, Desktop | Audio | Audio | 语音  | 音声メッセージ | Audio | Audio |
 | android, iOS | audio_shareable_false | The audio has been set to not allow sharing | 该语音已被设置为不允许转发 |     |     |     |
