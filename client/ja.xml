@@ -298,7 +298,6 @@
   <string name="contact_mixin_id" platform="android, iOS, Desktop">Mixin ID: %1$s</string>
   <string name="contact_mobile" platform="android, iOS">モバイル: %1$s</string>
   <string name="contact_mute_title" platform="android, Desktop">通知をミュート</string>
-  <string name="contact_new_group_chat_desc" platform="android">友達と新しいグループチャットを作成</string>
   <string name="contact_phone_contact_hint" platform="iOS">スマホの連絡帳と同期して友だちを自動追加</string>
   <string name="contact_title" platform="iOS, Desktop">連絡先</string>
   <string name="CONTACTS" platform="android, iOS">連絡先</string>

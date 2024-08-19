@@ -370,7 +370,7 @@
   <string name="contact_mixin_id" platform="android, iOS, Desktop">Mixin ID: %1$s</string>
   <string name="contact_mobile" platform="android, iOS">Mobile: %1$s</string>
   <string name="contact_mute_title" platform="android, Desktop">Mute notifications for…</string>
-  <string name="contact_new_group_chat_desc" platform="android">Create a group chat with up to  friends</string>
+  <string name="contact_new_group_chat_desc" platform="android">Create a group chat</string>
   <string name="contact_phone_contact_hint" platform="iOS">Upload mobile contacts to find other Mixin friends.</string>
   <string name="contact_support" platform="android,iOS">Contact Support</string>
   <string name="contact_title" platform="iOS, Desktop">Contacts</string>

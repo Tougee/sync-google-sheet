@@ -371,7 +371,7 @@
 | android, iOS, Desktop | contact_mixin_id | Mixin ID: %1$s | Mixin ID：%1$s | Mixin ID: %1$s | Mixin ID: %1$s | Mixin ID: %1$s |
 | android, iOS | contact_mobile | Mobile: %1$s | 手机：%1$s | モバイル: %1$s | Mudah alih: %1$s | Seluler: %1$s |
 | android, Desktop | contact_mute_title | Mute notifications for… | 静音通知 | 通知をミュート | Senyapkan pemberitahuan untuk… | Matikan notifikasi selama… |
-| android | contact_new_group_chat_desc | Create a group chat with up to  friends | 创建一个群聊 | 友達と新しいグループチャットを作成 | Buat kumpulan sembang dengan sehingga rakan | Buat obrolan grup dengan maksimal teman |
+| android | contact_new_group_chat_desc | Create a group chat | 创建一个群聊 |     |     |     |
 | iOS | contact_phone_contact_hint | Upload mobile contacts to find other Mixin friends. | 上传你的手机通讯录，如果你的通讯录中有朋友已经注册了 Mixin，系统会帮你自动添加为好友 | スマホの連絡帳と同期して友だちを自動追加 |     |     |
 | android,iOS | contact_support | Contact Support | 联系客服 |     |     |     |
 | iOS, Desktop | contact_title | Contacts | 联系人 | 連絡先 |     |     |

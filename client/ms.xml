@@ -161,7 +161,6 @@
   <string name="contact_mixin_id" platform="android, iOS, Desktop">Mixin ID: %1$s</string>
   <string name="contact_mobile" platform="android, iOS">Mudah alih: %1$s</string>
   <string name="contact_mute_title" platform="android, Desktop">Senyapkan pemberitahuan untuk…</string>
-  <string name="contact_new_group_chat_desc" platform="android">Buat kumpulan sembang dengan sehingga rakan</string>
   <string name="CONTACTS" platform="android, iOS">KENALAN</string>
   <string name="content_audio" platform="android, iOS">[Audio]</string>
   <string name="content_contact" platform="android, iOS">[Hubungi]</string>
