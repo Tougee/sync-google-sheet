@@ -2000,5 +2000,8 @@
   <string name="Approving_Transaction" platform="android,iOS">Approving Transaction</string>
   <string name="Transaction_Approved" platform="android,iOS">Transaction Approved</string>
   <string name="Approve" platform="android,iOS">Approve</string>
-  <string name="Reject_Transaction" platform="">Reject Transaction</string>
+  <string name="Reject_Transaction" platform="android,iOS">Reject Transaction</string>
+  <string name="Rejecting_Transaction" platform="android,iOS">Rejecting Transaction</string>
+  <string name="Transaction_Rejected" platform="android,iOS">Transaction Rejected</string>
+  <string name="SAFE" platform="android,iOS">SAFE</string>
 </resources>

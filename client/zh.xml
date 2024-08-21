@@ -1972,7 +1972,8 @@
   <string name="Approving_Transaction" platform="android,iOS">正在批准</string>
   <string name="Transaction_Approved" platform="android,iOS">批准成功</string>
   <string name="Approve" platform="android,iOS">批准</string>
-  <string name="Reject_Transaction" platform="">拒绝交易</string>
-  <string name="Rejecting_Transaction" platform="">正在拒绝</string>
-  <string name="" platform="">拒绝成功</string>
+  <string name="Reject_Transaction" platform="android,iOS">拒绝交易</string>
+  <string name="Rejecting_Transaction" platform="android,iOS">正在拒绝</string>
+  <string name="Transaction_Rejected" platform="android,iOS">拒绝成功</string>
+  <string name="SAFE" platform="android,iOS">金库</string>
 </resources>
