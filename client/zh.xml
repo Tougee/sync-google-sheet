@@ -1950,7 +1950,7 @@
   <string name="All_Time_High" platform="android,iOS">历史最高</string>
   <string name="Circulation_Supply" platform="android,iOS">流通量</string>
   <string name="Total_Supply" platform="android,iOS">总量</string>
-  <string name="address_warning" platform="android,iOS">合同地址不是充值地址！</string>
+  <string name="address_warning" platform="android,iOS">合约地址不是充值地址</string>
   <string name="Transaction_History" platform="android,iOS">转账记录</string>
   <string name="from_date" platform="android,iOS">自%1$s</string>
   <string name="until_date" platform="android,iOS">至%1$s</string>

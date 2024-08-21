@@ -1979,7 +1979,7 @@
 | android,iOS | All_Time_High | All Time High | 历史最高 |     |     |     |
 | android,iOS | Circulation_Supply | Circulation Supply | 流通量 |     |     |     |
 | android,iOS | Total_Supply | Total Supply | 总量  |     |     |     |
-| android,iOS | address_warning | Contract address is NOT a deposit address! | 合同地址不是充值地址！ |     |     |     |
+| android,iOS | address_warning | Contract address is NOT a deposit address | 合约地址不是充值地址 |     |     |     |
 | android,iOS | Transaction_History | Transaction History | 转账记录 |     |     |     |
 | android,iOS | from_date | From %1$s | 自%1$s |     |     |     |
 | android,iOS | until_date | Until %1$s | 至%1$s |     |     |     |
