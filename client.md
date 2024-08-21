@@ -1997,5 +1997,7 @@
 | android,iOS | months_count_short | %1$dM | %1$d月 |     |     |     |
 | android,iOS | ytd | YTD | 年初至今 |     |     |     |
 | android,iOS | Market_Cap | Market Cap | 市值  |     |     |     |
-| android,iOS | Approve_Transaction | Approve_Transaction | 批准交易 |     |     |     |
-| android,iOS | Approving | Approving | 正在批准 |     |     |     |
+| android,iOS | Approve_Transaction | Approve Transaction | 批准交易 |     |     |     |
+| android,iOS | Approving_Transaction | Approving Transaction | 正在批准 |     |     |     |
+| android,iOS | Transaction_Approved | Transaction Approved | 批准成功 |     |     |     |
+| android,iOS | Approve | Approve | 批准  |     |     |     |

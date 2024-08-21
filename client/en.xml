@@ -1996,6 +1996,8 @@
   <string name="months_count_short" platform="android,iOS">%1$dM</string>
   <string name="ytd" platform="android,iOS">YTD</string>
   <string name="Market_Cap" platform="android,iOS">Market Cap</string>
-  <string name="Approve_Transaction" platform="android,iOS">Approve_Transaction</string>
-  <string name="Approving" platform="android,iOS">Approving</string>
+  <string name="Approve_Transaction" platform="android,iOS">Approve Transaction</string>
+  <string name="Approving_Transaction" platform="android,iOS">Approving Transaction</string>
+  <string name="Transaction_Approved" platform="android,iOS">Transaction Approved</string>
+  <string name="Approve" platform="android,iOS">Approve</string>
 </resources>
