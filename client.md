@@ -1867,7 +1867,7 @@
 | android, iOS | Accounts | Accounts | 账户  |     |     |     |
 | android, iOS | to_mixin_wallet | To my Mixin Wallet | 划转到 Mixin 钱包 |     |     |     |
 | android, iOS | Invalid_Address | Invalid Address | 无效的地址 |     |     |     |
-| android, iOS | signature_request_from_mixin | This signature request is issued by Mixin Messenger. | 该签名请求来自 Mixin Messenger。 |     |     |     |
+| android, iOS | signature_request_from | This signature request is issued by %1$s. | 该签名请求来自 %1$s。 |     |     |     |
 | android, iOS | content_collectible | [Collectible] | [藏品] |     |     |     |
 | android, iOS, Desktop | HASH | HASH | 哈希  |     |     |     |
 | android, iOS, Desktop | ID  | ID  | ID  |     |     |     |
@@ -1997,3 +1997,5 @@
 | android,iOS | months_count_short | %1$dM | %1$d月 |     |     |     |
 | android,iOS | ytd | YTD | 年初至今 |     |     |     |
 | android,iOS | Market_Cap | Market Cap | 市值  |     |     |     |
+| android,iOS | Approve_Transaction | Approve_Transaction | 批准交易 |     |     |     |
+| android,iOS | Approving | Approving | 正在批准 |     |     |     |
