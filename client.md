@@ -2001,3 +2001,6 @@
 | android,iOS | Approving_Transaction | Approving Transaction | 正在批准 |     |     |     |
 | android,iOS | Transaction_Approved | Transaction Approved | 批准成功 |     |     |     |
 | android,iOS | Approve | Approve | 批准  |     |     |     |
+|     | Reject_Transaction | Reject Transaction | 拒绝交易 |     |     |     |
+|     | Rejecting_Transaction |     | 正在拒绝 |     |     |     |
+|     |     |     | 拒绝成功 |     |     |     |
