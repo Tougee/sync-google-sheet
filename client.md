@@ -2010,4 +2010,4 @@
 | android,iOS | SAFE | SAFE | 金库  |     |     |     |
 | android,iOS | Approving_Transaction_Failed | Approving Transaction Failed | 批准失败 |     |     |     |
 | android,iOS | Rejecting_Transaction_Failed | Rejecting Transaction Failed | 拒绝失败 |     |     |     |
-| android,iOS | Total_Amount | Total Amount |     |     |     |     |
+| android,iOS | Total_Amount | Total Amount | 总金额 |     |     |     |
