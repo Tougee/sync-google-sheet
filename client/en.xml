@@ -933,6 +933,8 @@
   <string name="multisig_state_paid" platform="android, iOS">This transaction has already collected enough signatures; the current signature has been automatically ignored.</string>
   <string name="multisig_state_signed" platform="android, iOS">This multisig link has already been signed by yourself, you can not make a duplicate operation.</string>
   <string name="multisig_state_unlocked" platform="android, iOS">This multisig link has already been unlocked by someone, you can not make a duplicate operation.</string>
+  <string name="multisig_safe_state_signed" platform="android, iOS">This multisig link has already been signed by yourself, you can not make a duplicate operation.</string>
+  <string name="multisig_safe_state_unlocked" platform="android, iOS">This multisig link has already been unlocked by someone, you can not make a duplicate operation.</string>
   <string name="Multisig_Transaction" platform="android, iOS, Desktop">Multisig Transaction</string>
   <string name="Mute" platform="android, iOS">Mute</string>
   <string name="mute" platform="Desktop">Mute</string>
