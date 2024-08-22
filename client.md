@@ -931,6 +931,7 @@
 | android, iOS | multisig_sender | Sender | 交易发起人 |     |     |     |
 | android, iOS | multisig_receivers_threshold | Receivers (%1$s) | 交易接收人（%1$s） | 受取人(%1$s) | Penerima (%1$s) | Penerima (%1$s) |
 | android, iOS | multisig_senders_threshold | Senders (%1$s) | 交易发起人（%1$s） |     |     |     |
+| android, iOS | multisig_state_paid |     |     |     |     |     |
 | android, iOS | multisig_state_signed | This multisig link has already been signed by yourself, you can not make a duplicate operation. | 您已经对这笔交易进行了签名，您无法再次签名。 | このマルチシグリンクはすでにあなたが署名しているため、重複した操作を行うことはできません | Pautan multisig ini sudah ditandatangani oleh anda sendiri, anda tidak boleh membuat operasi pendua. | Tautan multisig ini telah dibuka oleh Anda sendiri, Anda tidak dapat melakukan tindakan ganda. |
 | android, iOS | multisig_state_unlocked | This multisig link has already been unlocked by someone, you can not make a duplicate operation. | 这笔交易已经被其他人撤销了，您无法再次撤销。 | このマルチシグリンクは既に他のユーザーによってロック解除されています。重複した操作を行うことはできません。 | Pautan multisig ini telah dibuka kuncinya oleh seseorang, anda tidak boleh membuat operasi pendua. | Tautan multisig ini telah dibuka oleh seseorang, Anda tidak dapat melakukan tindakan ganda. |
 | android, iOS, Desktop | Multisig_Transaction | Multisig Transaction | 多重签名交易 | マルチシグトランザクション | Transaksi Multisig | Transaksi Multisig |
