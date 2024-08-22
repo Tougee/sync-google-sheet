@@ -2007,4 +2007,7 @@
   <string name="Rejecting_Transaction" platform="android,iOS">Rejecting Transaction</string>
   <string name="Transaction_Rejected" platform="android,iOS">Transaction Rejected</string>
   <string name="SAFE" platform="android,iOS">SAFE</string>
+  <string name="Approving_Transaction_Failed" platform="android,iOS">Approving Transaction Failed</string>
+  <string name="Rejecting_Transaction_Failed" platform="android,iOS">Rejecting Transaction Failed</string>
+  <string name="Total_Amount" platform="android,iOS">Total Amount</string>
 </resources>
