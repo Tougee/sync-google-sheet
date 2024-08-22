@@ -930,6 +930,7 @@
   <string name="multisig_sender" platform="android, iOS">Sender</string>
   <string name="multisig_receivers_threshold" platform="android, iOS">Receivers (%1$s)</string>
   <string name="multisig_senders_threshold" platform="android, iOS">Senders (%1$s)</string>
+  <string name="multisig_state_paid" platform="android, iOS">This transaction has already collected enough signatures; the current signature has been automatically ignored.</string>
   <string name="multisig_state_signed" platform="android, iOS">This multisig link has already been signed by yourself, you can not make a duplicate operation.</string>
   <string name="multisig_state_unlocked" platform="android, iOS">This multisig link has already been unlocked by someone, you can not make a duplicate operation.</string>
   <string name="Multisig_Transaction" platform="android, iOS, Desktop">Multisig Transaction</string>
