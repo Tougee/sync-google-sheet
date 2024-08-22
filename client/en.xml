@@ -2010,4 +2010,5 @@
   <string name="Approving_Transaction_Failed" platform="android,iOS">Approving Transaction Failed</string>
   <string name="Rejecting_Transaction_Failed" platform="android,iOS">Rejecting Transaction Failed</string>
   <string name="Total_Amount" platform="android,iOS">Total Amount</string>
+  <string name="Reject" platform="android,iOS">Reject</string>
 </resources>

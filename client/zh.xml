@@ -1982,4 +1982,5 @@
   <string name="Approving_Transaction_Failed" platform="android,iOS">批准失败</string>
   <string name="Rejecting_Transaction_Failed" platform="android,iOS">拒绝失败</string>
   <string name="Total_Amount" platform="android,iOS">总金额</string>
+  <string name="Reject" platform="android,iOS">拒绝</string>
 </resources>
