@@ -934,8 +934,6 @@
 | android, iOS | multisig_state_paid | This transaction has already collected enough signatures; the current signature has been automatically ignored. | 这笔交易已成功收集到足够的签名，当前签名已被自动忽略。 |     |     |     |
 | android, iOS | multisig_state_signed | This multisig link has already been signed by yourself, you can not make a duplicate operation. | 您已经对这笔交易进行了签名，您无法再次签名。 | このマルチシグリンクはすでにあなたが署名しているため、重複した操作を行うことはできません | Pautan multisig ini sudah ditandatangani oleh anda sendiri, anda tidak boleh membuat operasi pendua. | Tautan multisig ini telah dibuka oleh Anda sendiri, Anda tidak dapat melakukan tindakan ganda. |
 | android, iOS | multisig_state_unlocked | This multisig link has already been unlocked by someone, you can not make a duplicate operation. | 这笔交易已经被其他人撤销了，您无法再次撤销。 | このマルチシグリンクは既に他のユーザーによってロック解除されています。重複した操作を行うことはできません。 | Pautan multisig ini telah dibuka kuncinya oleh seseorang, anda tidak boleh membuat operasi pendua. | Tautan multisig ini telah dibuka oleh seseorang, Anda tidak dapat melakukan tindakan ganda. |
-| android, iOS | multisig_safe_state_signed | You have already approved this transaction; you cannot approve it again. | 您已经批准了这笔交易，您无法再次批准。 |     |     |     |
-| android, iOS | multisig_safe_state_unlocked | This transaction has already been rejected by someone else; you cannot reject it again. | 这笔交易已经被其他人拒绝，您无法再次拒绝。 |     |     |     |
 | android, iOS, Desktop | Multisig_Transaction | Multisig Transaction | 多重签名交易 | マルチシグトランザクション | Transaksi Multisig | Transaksi Multisig |
 | android, iOS | Mute | Mute | 静音  | ミュート | Senyap | Bisukan |
 | Desktop | mute | Mute | 静音  |     |     |     |

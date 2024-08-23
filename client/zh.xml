@@ -915,8 +915,6 @@
   <string name="multisig_state_paid" platform="android, iOS">这笔交易已成功收集到足够的签名，当前签名已被自动忽略。</string>
   <string name="multisig_state_signed" platform="android, iOS">您已经对这笔交易进行了签名，您无法再次签名。</string>
   <string name="multisig_state_unlocked" platform="android, iOS">这笔交易已经被其他人撤销了，您无法再次撤销。</string>
-  <string name="multisig_safe_state_signed" platform="android, iOS">您已经批准了这笔交易，您无法再次批准。</string>
-  <string name="multisig_safe_state_unlocked" platform="android, iOS">这笔交易已经被其他人拒绝，您无法再次拒绝。</string>
   <string name="Multisig_Transaction" platform="android, iOS, Desktop">多重签名交易</string>
   <string name="Mute" platform="android, iOS">静音</string>
   <string name="mute" platform="Desktop">静音</string>
