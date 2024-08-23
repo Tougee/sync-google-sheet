@@ -2010,3 +2010,5 @@
 | android,iOS | Rejecting_Transaction_Failed | Rejecting Transaction Failed | 拒绝失败 |     |     |     |
 | android,iOS | Total_Amount | Total Amount | 总金额 |     |     |     |
 | android,iOS | Reject | Reject | 拒绝  |     |     |     |
+| android,iOS |     |     |     |     |     |     |
+| android,iOS |     |     |     |     |     |     |
