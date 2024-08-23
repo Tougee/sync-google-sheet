@@ -2010,5 +2010,6 @@
 | android,iOS | Rejecting_Transaction_Failed | Rejecting Transaction Failed | 拒绝失败 |     |     |     |
 | android,iOS | Total_Amount | Total Amount | 总金额 |     |     |     |
 | android,iOS | Reject | Reject | 拒绝  |     |     |     |
-| android,iOS |     |     |     |     |     |     |
-| android,iOS |     |     |     |     |     |     |
+| android,iOS | New_Update_Available | New Update Available | 发现新版本 |     |     |     |
+| android,iOS | New_Update_Available_desc | We update the app regularly so we can make it better for you | 我们定期更新应用程序，以便为您提供更好的服务 |     |     |     |
+| android,iOS | Update_Now | Update Now |     |     |     |     |
