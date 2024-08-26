@@ -2013,3 +2013,4 @@
 | android,iOS | New_Update_Available | New Update Available | 发现新版本 |     |     |     |
 | android,iOS | New_Update_Available_desc | We update the app regularly so we can make it better for you | 我们定期更新应用程序，以便为您提供更好的服务 |     |     |     |
 | android,iOS | Update_Now | Update Now | 立即更新 |     |     |     |
+| android,iOS | Note | Note | 备注  |     |     |     |

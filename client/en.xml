@@ -2012,4 +2012,5 @@
   <string name="New_Update_Available" platform="android,iOS">New Update Available</string>
   <string name="New_Update_Available_desc" platform="android,iOS">We update the app regularly so we can make it better for you</string>
   <string name="Update_Now" platform="android,iOS">Update Now</string>
+  <string name="Note" platform="android,iOS">Note</string>
 </resources>
