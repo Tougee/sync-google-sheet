@@ -2013,4 +2013,12 @@
   <string name="New_Update_Available_desc" platform="android,iOS">We update the app regularly so we can make it better for you</string>
   <string name="Update_Now" platform="android,iOS">Update Now</string>
   <string name="Note" platform="android,iOS">Note</string>
+  <string name="malicious_instruction_set_authority" platform="android,iOS">This transaction change the owner of your SPL tokens. This allow the new owner to transfer the tokens without your permission.</string>
+  <string name="volume_24h" platform="android,iOS">24h Volume</string>
+  <string name="Dominance" platform="android,iOS">Dominance</string>
+  <string name="top_count" platform="android,iOS">Top %1$d</string>
+  <string name="change_percent_period_hour" platform="android,iOS">%1$dh %%</string>
+  <string name="change_percent_period_day" platform="android,iOS">%1$dD %%</string>
+  <string name="" platform="android,iOS">Your watchlist is empty</string>
+  <string name="Watchlist" platform="android,iOS">Watchlist</string>
 </resources>

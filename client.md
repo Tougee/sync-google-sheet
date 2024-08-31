@@ -2014,3 +2014,11 @@
 | android,iOS | New_Update_Available_desc | We update the app regularly so we can make it better for you | 我们定期更新应用程序，以便为您提供更好的服务 |     |     |     |
 | android,iOS | Update_Now | Update Now | 立即更新 |     |     |     |
 | android,iOS | Note | Note | 备注  |     |     |     |
+| android,iOS | malicious_instruction_set_authority | This transaction change the owner of your SPL tokens. This allow the new owner to transfer the tokens without your permission. | 此交易将更改 SPL 代币的所有者。这将允许新的所有者在未经您允许的情况下转让代币。 |     |     |     |
+| android,iOS | volume_24h | 24h Volume | 24 小时交易量 |     |     |     |
+| android,iOS | Dominance | Dominance | 市占率 |     |     |     |
+| android,iOS | top_count | Top %1$d | 前 %1$d |     |     |     |
+| android,iOS | change_percent_period_hour | %1$dh %% | %1$d小时 %% |     |     |     |
+| android,iOS | change_percent_period_day | %1$dD %% | %1$d天 %% |     |     |     |
+| android,iOS |     | Your watchlist is empty | 您的自选列表为空 |     |     |     |
+| android,iOS | Watchlist | Watchlist | 自选列表 |     |     |     |

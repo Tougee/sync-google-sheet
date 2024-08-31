@@ -1985,4 +1985,12 @@
   <string name="New_Update_Available_desc" platform="android,iOS">我们定期更新应用程序，以便为您提供更好的服务</string>
   <string name="Update_Now" platform="android,iOS">立即更新</string>
   <string name="Note" platform="android,iOS">备注</string>
+  <string name="malicious_instruction_set_authority" platform="android,iOS">此交易将更改 SPL 代币的所有者。这将允许新的所有者在未经您允许的情况下转让代币。</string>
+  <string name="volume_24h" platform="android,iOS">24 小时交易量</string>
+  <string name="Dominance" platform="android,iOS">市占率</string>
+  <string name="top_count" platform="android,iOS">前 %1$d</string>
+  <string name="change_percent_period_hour" platform="android,iOS">%1$d小时 %%</string>
+  <string name="change_percent_period_day" platform="android,iOS">%1$d天 %%</string>
+  <string name="" platform="android,iOS">您的自选列表为空</string>
+  <string name="Watchlist" platform="android,iOS">自选列表</string>
 </resources>
