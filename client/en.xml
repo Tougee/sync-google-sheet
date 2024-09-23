@@ -1067,7 +1067,7 @@
   <string name="participants_count" platform="iOS, Desktop">%@ PARTICIPANTS</string>
   <string name="passcode_incorrect" platform="Desktop">Passcode incorrect</string>
   <string name="password" platform="Desktop">Password</string>
-  <string name="Pause" platform="android">Pause</string>
+  <string name="Pause" platform="android, iOS">Pause</string>
   <string name="pay_paid" platform="android, iOS">This payment link has already been paid by someone, you can not make a duplicate payment.</string>
   <string name="Pay_with_Biometrics" platform="android">Pay with Biometrics</string>
   <string name="Pay_with_biometry_type" platform="iOS">Pay with %@</string>

@@ -1049,7 +1049,7 @@
   <string name="participants_count" platform="iOS, Desktop">%@ 位群组成员</string>
   <string name="passcode_incorrect" platform="Desktop">密码不正确</string>
   <string name="password" platform="Desktop">密码</string>
-  <string name="Pause" platform="android">暂停</string>
+  <string name="Pause" platform="android, iOS">暂停</string>
   <string name="pay_paid" platform="android, iOS">此付款链接已由某人支付，您无法进行重复付款。</string>
   <string name="Pay_with_Biometrics" platform="android">用生物识别支付</string>
   <string name="Pay_with_biometry_type" platform="iOS">%@支付</string>
