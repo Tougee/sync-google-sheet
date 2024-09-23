@@ -2030,4 +2030,24 @@
   <string name="quote_color" platform="android,iOS">Quote Color</string>
   <string name="green_up_red_down" platform="android,iOS">Green Up / Red Down</string>
   <string name="red_up_green_down" platform="android,iOS">Red Up / Green Down</string>
+  <string name="Alert" platform="android,iOS">Alert</string>
+  <string name="Edit_Alert" platform="android,iOS">Edit Alert</string>
+  <string name="NO_ALERTS" platform="android,iOS">NO ALERTS</string>
+  <string name="Add_Alert" platform="android,iOS">Add Alert</string>
+  <string name="Current_price" platform="android,iOS">Current price: %1$s</string>
+  <string name="Alert_Type" platform="android,iOS">Alert Type</string>
+  <string name="Alert_Frequency" platform="android,iOS">Frequency</string>
+  <string name="alert_type_price_reached" platform="android,iOS">Price Reached</string>
+  <string name="alert_type_price_increased" platform="android,iOS">Price Increased</string>
+  <string name="alert_type_price_decreased" platform="android,iOS">Price Decreased</string>
+  <string name="alert_type_percentage_increased" platform="android,iOS">Percentage Increased</string>
+  <string name="alert_type_percentage_decreased" platform="android,iOS">Percentage Decreased</string>
+  <string name="alert_frequency_every" platform="android,iOS">Every</string>
+  <string name="alert_frequency_daily" platform="android,iOS">Daily</string>
+  <string name="alert_frequency_once" platform="android,iOS">Once</string>
+  <string name="Enter_price" platform="android,iOS">Enter price</string>
+  <string name="Value" platform="android,iOS">Value</string>
+  <string name="Resume" platform="android,iOS">Resume</string>
+  <string name="Edit" platform="android,iOS">Edit</string>
+  <string name="price_alert_notification_permission" platform="android,iOS">Price alerts require notification permission to be enabled.</string>
 </resources>
