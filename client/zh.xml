@@ -2002,4 +2002,23 @@
   <string name="quote_color" platform="android,iOS">涨跌颜色</string>
   <string name="green_up_red_down" platform="android,iOS">绿涨红跌</string>
   <string name="red_up_green_down" platform="android,iOS">红涨绿跌</string>
+  <string name="Alert" platform="android,iOS">价格预警</string>
+  <string name="Edit_Alert" platform="android,iOS">编辑价格预警</string>
+  <string name="NO_ALERTS" platform="android,iOS">没有价格预警</string>
+  <string name="Add_Alert" platform="android,iOS">添加价格预警</string>
+  <string name="Current_price" platform="android,iOS">当前价格：%1$s</string>
+  <string name="Alert_Type" platform="android,iOS">预警类型</string>
+  <string name="Alert_Frequency" platform="android,iOS">预警频率</string>
+  <string name="alert_type_price_reached" platform="android,iOS">价格达到</string>
+  <string name="alert_type_price_increased" platform="android,iOS">价格涨到</string>
+  <string name="alert_type_price_decreased" platform="android,iOS">价格跌倒</string>
+  <string name="alert_type_percentage_increased" platform="android,iOS">24小时涨幅</string>
+  <string name="alert_type_percentage_decreased" platform="android,iOS">24小时跌幅</string>
+  <string name="alert_frequency_every" platform="android,iOS">每次</string>
+  <string name="alert_frequency_daily" platform="android,iOS">每日</string>
+  <string name="alert_frequency_once" platform="android,iOS">一次</string>
+  <string name="Value" platform="android,iOS">数值</string>
+  <string name="Resume" platform="android,iOS">恢复</string>
+  <string name="Edit" platform="android,iOS">编辑</string>
+  <string name="price_alert_notification_permission" platform="android,iOS">价格预警需要开启通知权限</string>
 </resources>
