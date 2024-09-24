@@ -2023,4 +2023,6 @@
   <string name="price_alert_notification_permission" platform="android,iOS">价格预警需要开启通知权限</string>
   <string name="price_in_currency" platform="android,iOS">价格（%1$s）</string>
   <string name="Paused" platform="android,iOS">已暂停</string>
+  <string name="alert_limit_exceeded" platform="android,iOS">所有币种的价格提醒总数不得超过%1$d。</string>
+  <string name="alert_per_asset_limit_exceeded" platform="android,iOS">每个交易对最多可创建%1$d个价格提醒。</string>
 </resources>
