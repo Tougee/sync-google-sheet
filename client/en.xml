@@ -2051,4 +2051,5 @@
   <string name="Edit" platform="android,iOS">Edit</string>
   <string name="price_alert_notification_permission" platform="android,iOS">Price alerts require notification permission to be enabled.</string>
   <string name="price_in_currency" platform="android,iOS">Price (%1$s)</string>
+  <string name="Paused" platform="android,iOS">Paused</string>
 </resources>
