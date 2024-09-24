@@ -2022,5 +2022,5 @@
   <string name="Edit" platform="android,iOS">编辑</string>
   <string name="price_alert_notification_permission" platform="android,iOS">价格预警需要开启通知权限</string>
   <string name="price_in_currency" platform="android,iOS">价格（%1$s）</string>
-  <string name="Paused" platform="android,iOS">Paused</string>
+  <string name="Paused" platform="android,iOS">已暂停</string>
 </resources>
