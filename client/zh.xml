@@ -2025,7 +2025,7 @@
   <string name="price_in_currency" platform="android,iOS">价格（%1$s）</string>
   <string name="Paused" platform="android,iOS">已暂停</string>
   <string name="Resumed" platform="android,iOS">已恢复</string>
-  <string name="alert_limit_exceeded" platform="android,iOS">所有币种的价格提醒总数不得超过%1$d。</string>
+  <string name="alert_limit_exceeded" platform="android,iOS">所有币种的价格提醒总数不得超过 %1$d 个。</string>
   <string name="alert_per_asset_limit_exceeded" platform="android,iOS">每个交易对最多可创建 %1$d 个价格提醒。</string>
   <string name="price_cannot_be_current" platform="android,iOS">设定价格不能是现价</string>
   <string name="price_must_less_than_current" platform="android,iOS">设定价格需小于现价</string>
