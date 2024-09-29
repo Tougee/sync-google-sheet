@@ -1954,8 +1954,10 @@
   <string name="sort_by_amount" platform="android,iOS">Sort by Amount</string>
   <string name="Assets" platform="android,iOS">Assets</string>
   <string name="Recipients" platform="android,iOS">Recipients</string>
+  <string name="Opponents">Opponents</string>
   <string name="number_of_assets" platform="android,iOS">%1$d Assets</string>
   <string name="number_of_recipients" platform="android,iOS">%1$d Recipients</string>
+  <string name="number_of_opponents">%1$d Opponents</string>
   <string name="Select_LIMIT" platform="android,iOS">Select up to %1$d</string>
   <string name="balance_abbreviation" platform="android,iOS">Bal %1$s</string>
   <string name="swap_confirmation" platform="android,iOS">Swap Confirmation</string>
