@@ -532,7 +532,6 @@
 	<string name="Enter_new_anonymous_number">Enter your new anonymous number</string>
 	<string name="Enter_new_phone_number">Enter your new phone number</string>
 	<string name="Enter_PIN_to_delete_account">Enter your PIN to delete your account</string>
-	<string name="Enter_price">Enter price</string>
 	<string name="Enter_your_anonymous_number">Enter your anonymous number</string>
 	<string name="Enter_your_emergency_contact_Mixin_ID">Enter your emergency contact Mixin ID</string>
 	<string name="Enter_your_new_PIN">Enter your new PIN</string>
@@ -1016,7 +1015,6 @@
 	<string name="preview_unavailable_description">Unable to estimate asset changes. Please make sure you trust this dApp.</string>
 	<string name="Price">Price</string>
 	<string name="price_alert_notification_permission">Price alerts require notification permission to be enabled.</string>
-	<string name="price_cannot_be_current">The set price cannot be the current price</string>
 	<string name="Price_data_unavailable">Price data unavailable</string>
 	<string name="price_decrease_invalid">The price decrease must be greater than %1$s and less than %2$s</string>
 	<string name="price_expired">Price Expired</string>
