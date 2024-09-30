@@ -2062,4 +2062,5 @@
   <string name="price_too_large" platform="android,iOS">The set price must be less than %1$s times the current price</string>
   <string name="price_increase_invalid" platform="android,iOS">The price increase must be greater than %1$s and less than %2$s</string>
   <string name="price_decrease_invalid" platform="android,iOS">The price decrease must be greater than %1$s and less than %2$s</string>
+  <string name="All_Alert">All Alert</string>
 </resources>
