@@ -38,7 +38,7 @@
   <string name="add_contact_with_plus" platform="Desktop">+ Add Contact</string>
   <string name="Add_conversations" platform="android, iOS">Add Conversations</string>
   <string name="add_credit_or_debit_card" platform="android">Add credit or debit card</string>
-  <string name="Add_emergency_contact" platform="android, iOS">Add emergency contact</string>
+  <string name="Add_emergency_contact" platform="android, iOS">Add recovery contact</string>
   <string name="add_file" platform="Desktop">Add File</string>
   <string name="Add_group_description" platform="android, Desktop">Add group description</string>
   <string name="Add_memo" platform="android, iOS">Add Memo</string>
@@ -242,7 +242,7 @@
   <string name="Chain" platform="android, iOS">Chain</string>
   <string name="Change" platform="android, iOS, Desktop">Change</string>
   <string name="Change_Amount" platform="android, iOS">Change Amount</string>
-  <string name="Change_emergency_contact" platform="android, iOS">Change emergency contact</string>
+  <string name="Change_emergency_contact" platform="android, iOS">Change recovery contact</string>
   <string name="Change_name" platform="iOS">Change name</string>
   <string name="Change_Number" platform="iOS, Desktop">Change Number</string>
   <string name="Change_Number_Instead" platform="android, iOS, Desktop">Change Number Instead</string>
@@ -466,7 +466,7 @@
   <string name="delete_chat_description" platform="Desktop">Deleting chat will remove messages form this devices only. They will not be removed from other devices.</string>
   <string name="Delete_Circle" platform="iOS, Desktop">Delete Circle</string>
   <string name="delete_contact_chat_confirmation" platform="iOS">Delete chat with "%@"?</string>
-  <string name="Delete_emergency_contact" platform="android, iOS">Delete emergency contact</string>
+  <string name="Delete_emergency_contact" platform="android">Delete recovery contact</string>
   <string name="Delete_for_everyone" platform="android, iOS, Desktop">Delete for Everyone</string>
   <string name="Delete_for_me" platform="android, iOS, Desktop">Delete for me</string>
   <string name="Delete_Group" platform="android, Desktop">Delete Group</string>
@@ -550,12 +550,12 @@
   <string name="edit_image_clear_warning" platform="Desktop">All changes will be lost. Are you sure you want to exit?</string>
   <string name="Edit_Name" platform="android, iOS, Desktop">Edit Name</string>
   <string name="edit_profile" platform="Desktop">Edit Profile</string>
-  <string name="Emergency_Contact" platform="android, iOS">Emergency Contact</string>
+  <string name="Emergency_Contact" platform="android, iOS">Recovery Contact</string>
   <string name="Empty_address_book" platform="android">Empty address book</string>
   <string name="Enable_after_1_minute" platform="android">Enabled after 1 minute</string>
   <string name="Enable_after_30_minutes" platform="android">Enabled after 30 minutes</string>
   <string name="Enable_db_debug" platform="android">Enable db debug</string>
-  <string name="Enable_Emergency_Contact" platform="android, iOS">Enable Emergency Contact</string>
+  <string name="Enable_Emergency_Contact" platform="android, iOS">Enable Recovery Contact</string>
   <string name="enable_face_pay_hint" platform="iOS">Confirm PIN to enable Face Pay</string>
   <string name="Enable_immediately" platform="android">Enabled immediately</string>
   <string name="enable_pay" platform="iOS">Enable %@ Pay</string>
@@ -570,7 +570,7 @@
   <string name="Enter_PIN_to_delete_account" platform="android, iOS, Desktop">Enter your PIN to delete your account</string>
   <string name="enter_to_send" platform="Desktop">Return/Enter ⏎ to Send</string>
   <string name="Enter_your_anonymous_number" platform="android, iOS">Enter your anonymous number</string>
-  <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">Enter your emergency contact Mixin ID</string>
+  <string name="Enter_your_emergency_contact_Mixin_ID" platform="android">Enter your recovery contact Mixin ID</string>
   <string name="Enter_your_new_PIN" platform="android,iOS">Enter your new PIN</string>
   <string name="Enter_your_old_PIN" platform="android,iOS">Enter your old PIN</string>
   <string name="Enter_your_phone_number" platform="android, iOS, Desktop">Enter your phone number</string>
@@ -596,7 +596,7 @@
   <string name="error_invalid_address" platform="android, Desktop">ERROR 30102: Invalid address format. Please enter the correct %1$s %2$s address!</string>
   <string name="error_invalid_address_plain" platform="android, iOS, Desktop">ERROR 30102: Invalid address format.</string>
   <string name="error_invalid_code_too_frequent" platform="android, iOS, Desktop">ERROR 20129: Send verification code too frequent, please try again later.</string>
-  <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">ERROR 20130: Invalid emergency contact</string>
+  <string name="error_invalid_emergency_contact" platform="android, iOS">ERROR 20130: Invalid recovery contact</string>
   <string name="error_invalid_pin_format" platform="android, Desktop">ERROR 20118: Invalid PIN format. </string>
   <string name="error_memo_too_long" platform="android">Memo has too many characters, maximum is 200</string>
   <string name="error_network_task_failed" platform="iOS, Desktop">Network connection failed. Check or switch your network and try again</string>
@@ -808,7 +808,8 @@
   <string name="Landing_back" platform="android">Landing back</string>
   <string name="landing_delete_content" platform="android, iOS, Desktop">Your account will be deleted on %1$s, if you continue to log in, the request to delete your account will be cancelled.</string>
   <string name="landing_enter_mobile_tip" platform="android">We will never display your mobile number publicly.</string>
-  <string name="landing_introduction" platform="android">Tap "Agree &amp; Continue" to accept  the %1$s and %2$s</string>
+  <string name="landing_introduction" platform="android">By proceeding, you agree to the %1$s and %2$s.</string>
+  <string name="landing_desc">An open source crypto wallet with Signal messaging.</string>
   <string name="landing_invitation_dialog_content" platform="android, Desktop">We will send a 4-digit code to your phone number %1$s, please enter the code in next screen.</string>
   <string name="landing_privacy_policy_url" platform="android">https://mixin.one/pages/privacy</string>
   <string name="landing_terms_url" platform="android">https://mixin.one/pages/terms</string>
@@ -1205,7 +1206,7 @@
   <string name="remove_chat_from_circle" platform="Desktop">Remove Chat from circle</string>
   <string name="Remove_Contact" platform="android, iOS, Desktop">Remove Contact</string>
   <string name="remove_contact_hint" platform="iOS">Remove friend? Chat history will remain on your device</string>
-  <string name="Remove_emergency_contact" platform="android, iOS">Remove emergency contact</string>
+  <string name="Remove_emergency_contact" platform="android, iOS</string>
   <string name="Remove_emergency_contact_confirmation" platform="android, iOS">Remove emergency contact?</string>
   <string name="Remove_emergency_contact_for_sure" platform="iOS">Remove emergency contact for sure?</string>
   <string name="Remove_from_Group" platform="iOS">Remove from Group</string>
@@ -1355,7 +1356,7 @@
   <string name="session_not_found" platform="android, iOS">Session not found</string>
   <string name="Set" platform="android, iOS, Desktop">Set</string>
   <string name="set_disappearing_message_time_to" platform="android, iOS, Desktop">%1$s set disappearing message time to %2$s</string>
-  <string name="Set_emergency_create_successfully" platform="android,iOS">Set emergency contact successfully</string>
+  <string name="Set_emergency_create_successfully" platform="android,iOS">Set recovery contact successfully</string>
   <string name="Set_new_PIN" platform="android, iOS">Set a new PIN</string>
   <string name="Set_or_update_PIN_failed" platform="android,iOS">Set or update PIN failed</string>
   <string name="set_passcode_desc" platform="Desktop">Set Passcode to unlock Mixin Messenger</string>
@@ -1388,14 +1389,14 @@
   <string name="setting_desktop_logout_failed" platform="android">Logout of desktop failed.</string>
   <string name="setting_duplicate_transfer_desc" platform="android, iOS">Display confirmation dialog when you transfer the same amount to the same person within 6 hours.</string>
   <string name="setting_emergency_change_mobile" platform="android, iOS">Do you want to change your mobile number now?</string>
-  <string name="setting_emergency_content" platform="android, iOS">The emergency contact is designed to help you log in to your account if you are lost and can not retrieve your mobile number.</string>
-  <string name="setting_emergency_create_success" platform="android">Create emergency contact successfully</string>
-  <string name="setting_emergency_desc" platform="android, iOS">When your lost your mobile number, please contact your emergency contact by phone or other means to get the Mixin ID and verification code. Read our Emergency Contact to **learn more**.</string>
-  <string name="setting_emergency_pin_tip" platform="android, iOS">Your emergency contact is protected by PIN</string>
+  <string name="setting_emergency_content" platform="android, iOS">The recovery contact is designed to help you log in to your account if you are lost and cannot retrieve your mobile number or mnemonic phrase.</string>
+  <string name="setting_emergency_create_success" platform="android, iOS">Create recovery contact successfully</string>
+  <string name="setting_emergency_desc" platform="android, iOS">When you lose your mobile number, please contact your recovery contact by phone or other means to get the Mixin ID and verification code. Visit the support center to **learn more**.</string>
+  <string name="setting_emergency_pin_tip" platform="android, iOS">Your recovery contact is protected by PIN</string>
   <string name="setting_emergency_send_code" platform="android, iOS">Enter the 4-digit code sent to Mixin ID: %1$s</string>
-  <string name="setting_emergency_set" platform="android">Set emergency contact</string>
-  <string name="setting_emergency_set_message" platform="android, iOS">Confirm to set Mixin ID %1$s as your emergency contact? Please note that the other party must add you as a contact to set up successfully.</string>
-  <string name="setting_emergency_warning" platform="android, iOS">Attention: the Emergency Contact cannot help you to recover PIN</string>
+  <string name="setting_emergency_set" platform="android, iOS">Set recovery contact</string>
+  <string name="setting_emergency_set_message" platform="android, iOS">Confirm to set Mixin ID %1$s as your recovery contact? Please note that the other party must add you as a contact to set up successfully.</string>
+  <string name="setting_emergency_warning" platform="android, iOS">The recovery contact cannot help you to recover your PIN.</string>
   <string name="setting_enable_biometric_pay" platform="android">Enable Biometric Pay?</string>
   <string name="setting_incognito_prompt" platform="android">Disable keyboard personalized learning</string>
   <string name="setting_mobile_contact_warning" platform="android, iOS">This will remove your contacts from the Mixin servers.</string>
@@ -1433,7 +1434,7 @@
   <string name="Sign_in" platform="android, iOS, Desktop">Sign in</string>
   <string name="Sign_in_desktop_app" platform="android">Sign in desktop app</string>
   <string name="sign_out" platform="DesktoP">Sign Out</string>
-  <string name="Sign_with_emergency_contact" platform="android, iOS">Sign in with emergency contact</string>
+  <string name="Sign_with_emergency_contact" platform="android, iOS">Sign in with recovery contact</string>
   <string name="Sign_with_phone_number" platform="android, iOS, Desktop">Sign in with phone number</string>
   <string name="sign_with_qrcode" platform="Desktop">Sign in with QR code</string>
   <string name="signature_request" platform="android, iOS">Signature Request</string>
@@ -1638,7 +1639,7 @@
   <string name="Videos" platform="android, iOS, Desktop">Videos</string>
   <string name="View" platform="android">View</string>
   <string name="View_Authorization" platform="android, iOS">View Authorization</string>
-  <string name="View_emergency_contact" platform="android, iOS">View emergency contact</string>
+  <string name="View_emergency_contact" platform="android, iOS">View recovery contact</string>
   <string name="View_Storage" platform="iOS">View Storage</string>
   <string name="View_Wallet" platform="android, iOS">View Wallet</string>
   <string name="Voice_call" platform="android">Voice call</string>
@@ -1728,7 +1729,7 @@
   <string name="You_deleted_this_message" platform="android, iOS, Desktop">You deleted this message</string>
   <string name="You_have_a_new_message" platform="iOS">You have a new message</string>
   <string name="You_have_left_the_group" platform="android, iOS">You have left the group</string>
-  <string name="Your_emergency_contact_has_been_changed" platform="android,iOS">Your emergency contact has been changed</string>
+  <string name="Your_emergency_contact_has_been_changed" platform="android, iOS">Your recovery contact has been changed</string>
   <string name="Your_phone_number_has_been_changed" platform="iOS">Your phone number has been changed</string>
   <string name="Your_PIN_has_been_changed" platform="iOS">Your PIN has been changed</string>
   <string name="your_pin_has_been_created" platform="android, iOS">Your PIN has been created</string>
@@ -2076,4 +2077,48 @@
   <string name="price_increase_invalid" platform="android,iOS">The price increase must be greater than %1$s and less than %2$s</string>
   <string name="price_decrease_invalid" platform="android,iOS">The price decrease must be greater than %1$s and less than %2$s</string>
   <string name="All_Alert" platform="android,iOS">All Alert</string>
+  <string name="Paste" platform="android,iOS">Paste</string>
+  <string name="or" platform="android,iOS">or</string>
+  <string name="Sign_in_with_Mnemonic_Phrase" platform="android,iOS">Sign in with Mnemonic Phrase</string>
+  <string name="landing_have_account" platform="android,iOS">I already have an account</string>
+  <string name="landing_create" platform="android,iOS">Create account</string>
+  <string name="Create_Account" platform="android,iOS">Create Acount</string>
+  <string name="Mobile_Phone" platform="android,iOS">Mobile Phone</string>
+  <string name="Mnemonic_Phrase" platform="android,iOS">Mnemonic Phrase</string>
+  <string name="create_introduction" platform="android,iOS">MPC Wallet, %1$s, Self-custody, Social Recovery</string>
+  <string name="Convenience" platform="android,iOS">Convenience</string>
+  <string name="Create_Mnemonic_Phrase" platform="android,iOS">Create Mnemonic Phrase</string>
+  <string name="mnemonic_phrase_instruction_1" platform="android,iOS">The 13 Mnemonic Phrase generated for the account are only for Mixin Network related products.</string>
+  <string name="mnemonic_phrase_instruction_2" platform="android,iOS">The Mnemonic Phrase will be associated with a key shard of the MPC wallet that you manage.</string>
+  <string name="Creating_your_account" platform="android,iOS">Creating your account…</string>
+  <string name="Set_up_Pin" platform="android,iOS">Set up PIN</string>
+  <string name="Set_up_Pin_desc" platform="android,iOS">The MPC wallet of Mixin Messenger is built on the decentralized key protocol TIP, where the PIN is one of the key shards. The complete key of the wallet only exists in the TEE secure environment of the current device. Read the documentation to learn more about %1$s.</string>
+  <string name="Set_up_Pin_more" platform="android,iOS">More information</string>
+  <string name="set_up_pin_instruction_1" platform="android,iOS">Please complete the operation under a stable network environment.</string>
+  <string name="set_up_pin_instruction_2" platform="android,iOS">Please keep the app in the foreground and do not force quit it during the setup process.</string>
+  <string name="set_up_pin_instruction_3" platform="android,iOS">The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.</string>
+  <string name="Set_up_pin_desc_1" platform="android,iOS">Set a 6-digit PIN for your wallet</string>
+  <string name="Set_up_pin_desc_2" platform="android,iOS">Please confirm \nyour 6 digit PIN again</string>
+  <string name="Set_up_pin_tip_1" platform="android,iOS">If lost, there is no way to recover your wallet.</string>
+  <string name="Set_up_pin_tip_2" platform="android,iOS">It’s rare to see a third confirmation somewhere else, \nso please remember the PIN is unrecoverable if lost.</string>
+  <string name="Set_up_pin_warning" platform="android,iOS">Please keep the app in the foreground while verifying and synchronizing shard keys to the TIP network; do not force quit the app during the setup process.</string>
+  <string name="Set_up_Pin_question" platform="android,iOS">What happens if I lose my PIN?</string>
+  <string name="Set_up_Pin_answer_1" platform="android,iOS">I can recover my account later.</string>
+  <string name="Set_up_Pin_answer_2" platform="android,iOS">I’ll lose access to my account and funds.</string>
+  <string name="What_is_Pin" platform="android,iOS">What is PIN?</string>
+  <string name="Recovery_Kit" platform="android,iOS">Recovery Kit</string>
+  <string name="Recovery_Kit_instruction" platform="android,iOS">Mixin Messenger's MPC wallet is built based on the decentralized key protocol TIP. You can restore your account through your mobile phone number, mnemonic or trusted contact login. The complete key of the wallet only exists in the TEE security environment of the current device. Read the documentation to understand %1$s.</string>
+  <string name="Recovery_Kit_Attention" platform="android,iOS">Attention: The recovery kit cannot help you to recover PIN</string>
+  <string name="Mobile_Number" platform="android,iOS">Mobile Number</string>
+  <string name="Recovery_Contact" platform="android,iOS">Recovery Contact</string>
+  <string name="Set_up" platform="android,iOS">Set Up</string>
+  <string name="Mnemonic_Phrase_instruction" platform="android,iOS">You can log in to your account through mnemonic words. The current mnemonic words have been associated with the key fragment of the MPC wallet. The complete key only exists in the TEE security environment of the current device. Read the documentation to learn about %1$s.</string>
+  <string name="Backup_Mnemonic_Phrase" platform="android,iOS">Backup Mnemonic Phrase</string>
+  <string name="Before_you_proceed" platform="android,iOS">Before you proceed</string>
+  <string name="Before_you_proceed_desc" platform="android,iOS">Read the following, then save the phrase securely.</string>
+  <string name="Before_you_proceed_instruction_1" platform="android,iOS">The 13 mnemonic phrase generated by creating an account are only used for Mixin Network related products.</string>
+  <string name="Before_you_proceed_instruction_2" platform="android,iOS">Mnemonic Phrase cannot help you recover your PIN !</string>
+  <string name="Before_you_proceed_instruction_3" platform="android,iOS">Make sure no one or surveillance cameras is looking at your screen!</string>
+  <string name="Show_Mnemonic_Phrase" platform="android,iOS">Show Mnemonic Phrase</string>
+  <string name="Add_Recovery_Contact_desc" platform="android,iOS>The recovery contact is designed to help you log in to your account if you are lost and cannot retrieve your mobile number or mnemonic phrase.</string>
 </resources>
