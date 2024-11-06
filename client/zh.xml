@@ -2048,4 +2048,29 @@
   <string name="price_increase_invalid" platform="android,iOS">涨幅需大于 %1$s 且小于 %2$s</string>
   <string name="price_decrease_invalid" platform="android,iOS">跌幅需大于 %1$s 且小于 %2$s</string>
   <string name="All_Alert" platform="android,iOS">所有价格预警</string>
+  <string name="Paste" platform="android,iOS">粘贴</string>
+  <string name="or" platform="android,iOS">或</string>
+  <string name="Sign_in_with_Mnemonic_Phrase" platform="android,iOS">使用助记词登录</string>
+  <string name="landing_have_account" platform="android,iOS">已有帐户</string>
+  <string name="landing_create" platform="android,iOS">创建帐户</string>
+  <string name="Create_Account" platform="android,iOS">创建帐户</string>
+  <string name="Mobile_Phone" platform="android,iOS">手机</string>
+  <string name="Mnemonic_Phrase" platform="android,iOS">助记词</string>
+  <string name="create_introduction" platform="android,iOS">MPC 钱包，%1$s，自我保管，社交恢复</string>
+  <string name="Convenience" platform="android,iOS">便利性</string>
+  <string name="Creating_your_account" platform="android,iOS">创建账户…</string>
+  <string name="Set_up_Pin" platform="android,iOS">设置 PIN</string>
+  <string name="Set_up_Pin_desc" platform="android,iOS">Mixin Messenger 的 MPC 钱包基于去中心化密钥协议 TIP 构建，PIN 是密钥分片之一。钱包完整的密钥只存在当前设备的 TEE 安全环境中。阅读文档以了解更多关于 %1$s 的信息。</string>
+  <string name="Set_up_Pin_more" platform="android,iOS">更多信息</string>
+  <string name="set_up_pin_instruction_1" platform="android,iOS">请在稳定的网络环境下完成操作。</string>
+  <string name="set_up_pin_instruction_2" platform="android,iOS">请保持应用在前台运行，设置过程中请勿强制退出。</string>
+  <string name="set_up_pin_instruction_3" platform="android,iOS">该过程开始后无法取消。请记住 6 位数字 PIN，如果过程意外中止，请重新输入。</string>
+  <string name="Create_Mnemonic_Phrase" platform="android,iOS">创建助记词</string>
+  <string name="mnemonic_phrase_instruction_1" platform="android,iOS">创建账号生成的 13 个助记词仅用于 Mixin Network 相关产品。</string>
+  <string name="mnemonic_phrase_instruction_2" platform="android,iOS">助记词将关联到由您管理的 MPC 钱包的一个密钥分片。</string>
+  <string name="Set_up_pin_desc_1" platform="android,iOS">为您的钱包设置6位数的PIN</string>
+  <string name="Set_up_pin_desc_2" platform="android,iOS">请再次确认\n您的6位密码</string>
+  <string name="Set_up_pin_tip_1" platform="android,iOS">如果丢失 PIN 则无法恢复您的钱包。</string>
+  <string name="Set_up_pin_tip_2" platform="android,iOS">很少在其他地方看到三次确认，\n因此请记住，如果丢失PIN 将无法恢复钱包。</string>
+  <string name="Mnemonic_Phrase_instruction" platform="android,iOS">你可以通过助记词登录你的账号，当前助记词已关联到 MPC 钱包的密钥分片，完整的密钥只存在当前设备的 TEE 安全环境中，阅读文档以了解%1$s。</string>  
 </resources>

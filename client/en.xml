@@ -808,7 +808,8 @@
   <string name="Landing_back" platform="android">Landing back</string>
   <string name="landing_delete_content" platform="android, iOS, Desktop">Your account will be deleted on %1$s, if you continue to log in, the request to delete your account will be cancelled.</string>
   <string name="landing_enter_mobile_tip" platform="android">We will never display your mobile number publicly.</string>
-  <string name="landing_introduction" platform="android">Tap "Agree &amp; Continue" to accept  the %1$s and %2$s</string>
+  <string name="landing_introduction" platform="android">By proceeding, you agree to the %1$s and %2$s.</string>
+  <string name="landing_desc">An open source crypto wallet with Signal messaging.</string>
   <string name="landing_invitation_dialog_content" platform="android, Desktop">We will send a 4-digit code to your phone number %1$s, please enter the code in next screen.</string>
   <string name="landing_privacy_policy_url" platform="android">https://mixin.one/pages/privacy</string>
   <string name="landing_terms_url" platform="android">https://mixin.one/pages/terms</string>
@@ -2076,4 +2077,47 @@
   <string name="price_increase_invalid" platform="android,iOS">The price increase must be greater than %1$s and less than %2$s</string>
   <string name="price_decrease_invalid" platform="android,iOS">The price decrease must be greater than %1$s and less than %2$s</string>
   <string name="All_Alert" platform="android,iOS">All Alert</string>
+  <string name="Paste" platform="android,iOS">Paste</string>
+  <string name="or" platform="android,iOS">or</string>
+  <string name="Sign_in_with_Mnemonic_Phrase" platform="android,iOS">Sign in with Mnemonic Phrase</string>
+  <string name="landing_have_account" platform="android,iOS">I already have an account</string>
+  <string name="landing_create" platform="android,iOS">Create account</string>
+  <string name="Create_Account" platform="android,iOS">Create Acount</string>
+  <string name="Mobile_Phone" platform="android,iOS">Mobile Phone</string>
+  <string name="Mnemonic_Phrase" platform="android,iOS">Mnemonic Phrase</string>
+  <string name="create_introduction" platform="android,iOS">MPC Wallet, %1$s, Self-custody, Social Recovery</string>
+  <string name="Convenience" platform="android,iOS">Convenience</string>
+  <string name="Create_Mnemonic_Phrase" platform="android,iOS">Create Mnemonic Phrase</string>
+  <string name="mnemonic_phrase_instruction_1" platform="android,iOS">The 13 Mnemonic Phrase generated for the account are only for Mixin Network related products.</string>
+  <string name="mnemonic_phrase_instruction_2" platform="android,iOS">The Mnemonic Phrase will be associated with a key shard of the MPC wallet that you manage.</string>
+  <string name="Creating_your_account" platform="android,iOS">Creating your account…</string>
+  <string name="Set_up_Pin" platform="android,iOS">Set up PIN</string>
+  <string name="Set_up_Pin_desc" platform="android,iOS">The MPC wallet of Mixin Messenger is built on the decentralized key protocol TIP, where the PIN is one of the key shards. The complete key of the wallet only exists in the TEE secure environment of the current device. Read the documentation to learn more about %1$s.</string>
+  <string name="Set_up_Pin_more" platform="android,iOS">More information</string>
+  <string name="set_up_pin_instruction_1" platform="android,iOS">Please complete the operation under a stable network environment.</string>
+  <string name="set_up_pin_instruction_2" platform="android,iOS">Please keep the app in the foreground and do not force quit it during the setup process.</string>
+  <string name="set_up_pin_instruction_3" platform="android,iOS">The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.</string>
+  <string name="Set_up_pin_desc_1" platform="android,iOS">Set a 6-digit PIN for your wallet</string>
+  <string name="Set_up_pin_desc_2" platform="android,iOS">Please confirm \nyour 6 digit PIN again</string>
+  <string name="Set_up_pin_tip_1" platform="android,iOS">If lost, there is no way to recover your wallet.</string>
+  <string name="Set_up_pin_tip_2" platform="android,iOS">It’s rare to see a third confirmation somewhere else, \nso please remember the PIN is unrecoverable if lost.</string>
+  <string name="Set_up_pin_warning" platform="android,iOS">Please keep the app in the foreground while verifying and synchronizing shard keys to the TIP network; do not force quit the app during the setup process.</string>
+  <string name="Set_up_Pin_question" platform="android,iOS">What happens if I lose my PIN?</string>
+  <string name="Set_up_Pin_answer_1" platform="android,iOS">I can recover my account later.</string>
+  <string name="Set_up_Pin_answer_2" platform="android,iOS">I’ll lose access to my account and funds.</string>
+  <string name="What_is_Pin" platform="android,iOS">What is PIN?</string>
+  <string name="Recovery_Kit" platform="android,iOS">Recovery Kit</string>
+  <string name="Recovery_Kit_instruction" platform="android,iOS">Mixin Messenger's MPC wallet is built based on the decentralized key protocol TIP. You can restore your account through your mobile phone number, mnemonic or trusted contact login. The complete key of the wallet only exists in the TEE security environment of the current device. Read the documentation to understand %1$s.</string>
+  <string name="Recovery_Kit_Attention" platform="android,iOS">Attention: The recovery kit cannot help you to recover PIN</string>
+  <string name="Mobile_Number" platform="android,iOS">Mobile Number</string>
+  <string name="Recovery_Contact" platform="android,iOS">Recovery Contact</string>
+  <string name="Set_up" platform="android,iOS">Set Up</string>
+  <string name="Mnemonic_Phrase_instruction" platform="android,iOS">You can log in to your account through mnemonic words. The current mnemonic words have been associated with the key fragment of the MPC wallet. The complete key only exists in the TEE security environment of the current device. Read the documentation to learn about %1$s.</string>
+  <string name="Backup_Mnemonic_Phrase" platform="android,iOS">Backup Mnemonic Phrase</string>
+  <string name="Before_you_proceed" platform="android,iOS">Before you proceed</string>
+  <string name="Before_you_proceed_desc" platform="android,iOS">Read the following, then save the phrase securely.</string>
+  <string name="Before_you_proceed_instruction_1" platform="android,iOS">The 13 mnemonic phrase generated by creating an account are only used for Mixin Network related products.</string>
+  <string name="Before_you_proceed_instruction_2" platform="android,iOS">Mnemonic Phrase cannot help you recover your PIN !</string>
+  <string name="Before_you_proceed_instruction_3" platform="android,iOS">Make sure no one or surveillance cameras is looking at your screen!</string>
+  <string name="Show_Mnemonic_Phrase" platform="android,iOS">Show Mnemonic Phrase</string>
 </resources>
