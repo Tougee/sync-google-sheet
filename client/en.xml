@@ -465,7 +465,7 @@
   <string name="delete_chat_description" platform="Desktop">Deleting chat will remove messages form this devices only. They will not be removed from other devices.</string>
   <string name="Delete_Circle" platform="iOS, Desktop">Delete Circle</string>
   <string name="delete_contact_chat_confirmation" platform="iOS">Delete chat with "%@"?</string>
-  <string name="Delete_emergency_contact" platform="android">Delete recovery contact</string>
+  <string name="Delete_emergency_contact" platform="android, iOS">Delete recovery contact</string>
   <string name="Delete_for_everyone" platform="android, iOS, Desktop">Delete for Everyone</string>
   <string name="Delete_for_me" platform="android, iOS, Desktop">Delete for me</string>
   <string name="Delete_Group" platform="android, Desktop">Delete Group</string>
@@ -569,7 +569,7 @@
   <string name="Enter_PIN_to_delete_account" platform="android, iOS, Desktop">Enter your PIN to delete your account</string>
   <string name="enter_to_send" platform="Desktop">Return/Enter ⏎ to Send</string>
   <string name="Enter_your_anonymous_number" platform="android, iOS">Enter your anonymous number</string>
-  <string name="Enter_your_emergency_contact_Mixin_ID" platform="android">Enter your recovery contact Mixin ID</string>
+  <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">Enter your recovery contact Mixin ID</string>
   <string name="Enter_your_new_PIN" platform="android,iOS">Enter your new PIN</string>
   <string name="Enter_your_old_PIN" platform="android,iOS">Enter your old PIN</string>
   <string name="Enter_your_phone_number" platform="android, iOS, Desktop">Enter your phone number</string>
@@ -595,7 +595,7 @@
   <string name="error_invalid_address" platform="android, Desktop">ERROR 30102: Invalid address format. Please enter the correct %1$s %2$s address!</string>
   <string name="error_invalid_address_plain" platform="android, iOS, Desktop">ERROR 30102: Invalid address format.</string>
   <string name="error_invalid_code_too_frequent" platform="android, iOS, Desktop">ERROR 20129: Send verification code too frequent, please try again later.</string>
-  <string name="error_invalid_emergency_contact" platform="android, iOS">ERROR 20130: Invalid recovery contact</string>
+  <string name="error_invalid_emergency_contact" platform="android, iOS, Desktop">ERROR 20130: Invalid recovery contact</string>
   <string name="error_invalid_pin_format" platform="android, Desktop">ERROR 20118: Invalid PIN format. </string>
   <string name="error_memo_too_long" platform="android">Memo has too many characters, maximum is 200</string>
   <string name="error_network_task_failed" platform="iOS, Desktop">Network connection failed. Check or switch your network and try again</string>
