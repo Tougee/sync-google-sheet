@@ -1206,7 +1206,7 @@
   <string name="remove_chat_from_circle" platform="Desktop">Remove Chat from circle</string>
   <string name="Remove_Contact" platform="android, iOS, Desktop">Remove Contact</string>
   <string name="remove_contact_hint" platform="iOS">Remove friend? Chat history will remain on your device</string>
-  <string name="Remove_emergency_contact" platform="android, iOS</string>
+  <string name="Remove_emergency_contact" platform="android, iOS"></string>
   <string name="Remove_emergency_contact_confirmation" platform="android, iOS">Remove emergency contact?</string>
   <string name="Remove_emergency_contact_for_sure" platform="iOS">Remove emergency contact for sure?</string>
   <string name="Remove_from_Group" platform="iOS">Remove from Group</string>

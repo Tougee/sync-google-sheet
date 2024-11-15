@@ -322,7 +322,7 @@
   <string name="clear_group_chat_confirmation" platform="iOS">清空"%@"的聊天记录？</string>
   <string name="Clear_Cache" platform="iOS">清理缓存</string>
   <string name="Cleared" platform="iOS">已清空</string>
-  <string name="Clearing" platform="android">正��清理…</string>
+  <string name="Clearing" platform="android">正在清理…</string>
   <string name="Click_to_lock" platform="android">点击锁定</string>
   <string name="click_to_reload_qrcode" platform="Desktop">点击重新加载二维码</string>
   <string name="Click_to_retry" platform="android">点击重试</string>
@@ -2050,75 +2050,75 @@
   <string name="price_decrease_invalid" platform="android,iOS">跌幅需大于 %1$s 且小于 %2$s</string>
   <string name="All_Alert" platform="android,iOS">所有价格预警</string>
   <string name="Paste platform="android,iOS">粘贴</string>
-  <string name="or platform="android,iOS">或</string>
-  <string name="Sign_in_with_Mnemonic_Phrase platform="android,iOS">使用助记词登录</string>
-  <string name="landing_have_account platform="android,iOS">已有帐户</string>
-  <string name="landing_create platform="android,iOS">创建帐户</string>
-  <string name="Create_Account platform="android,iOS">创建帐户</string>
-  <string name="Mobile_Phone platform="android,iOS">手机</string>
-  <string name="Mnemonic_Phrase platform="android,iOS">助记词</string>
-  <string name="create_introduction platform="android,iOS">MPC 钱包，%1$s，自我保管，社交恢复</string>
-  <string name="Convenience platform="android,iOS">便利性</string>
-  <string name="Creating_your_account platform="android,iOS">创建账户…</string>
-  <string name="Set_up_Pin platform="android,iOS">设置 PIN</string>
-  <string name="Set_up_Pin_desc platform="android,iOS">Mixin Messenger 的 MPC 钱包基于去中心化密钥协议 TIP 构建，PIN 是密钥分片之一。钱包完整的密钥只存在当前设备的 TEE 安全环境中。阅读文档以了解更多关于 %1$s 的信息。</string>
-  <string name="Set_up_Pin_more platform="android,iOS">更多信息</string>
-  <string name="set_up_pin_instruction_1 platform="android,iOS">请在稳定的网络环境下完成操作。</string>
-  <string name="set_up_pin_instruction_2 platform="android,iOS">请保持应用在前台运行，设置过程中请勿强制退出。</string>
-  <string name="set_up_pin_instruction_3 platform="android,iOS">该过程开始后无法取消。请记住 6 位数字 PIN，如果过程意外中止，请重新输入。</string>
-  <string name="Create_Mnemonic_Phrase platform="android,iOS">创建助记词</string>
-  <string name="mnemonic_phrase_instruction_1 platform="android,iOS">创建账号生成的 13 个助记词仅用于 Mixin Network 相关产品。</string>
-  <string name="mnemonic_phrase_instruction_2 platform="android,iOS">助记词将关联到由您管理的 MPC 钱包的一个密钥分片。</string>
-  <string name="Set_up_pin_desc_1 platform="android,iOS">为您的钱包设置6位数的PIN</string>
-  <string name="Set_up_pin_desc_2 platform="android,iOS">请再次确认\n您的6位密码</string>
-  <string name="Set_up_pin_tip_1 platform="android,iOS">如果丢失 PIN 则无法恢复您的钱包。</string>
-  <string name="Set_up_pin_tip_2 platform="android,iOS">很少在其他地方看到三次确认，\n因此请记住，如果丢失PIN 将无法恢复钱包。</string>
-  <string name="Set_up platform="android,iOS">设置</string>
-  <string name="Mnemonic_Phrase_instruction platform="android,iOS">你可以通过助记词登录你的账号，当前助记词已关联到 MPC 钱包的密钥分片，完整的密钥只存在当前设备的 TEE 安全环境中，阅读文档以了解%1$s。</string>
-  <string name="Backup_Mnemonic_Phrase_desc platform="android,iOS">立即通过备份您的助记词来保护您的资产。</string>
-  <string name="Backup_Mnemonic_Phrase_Warning platform="android,iOS">请立即备份您的助记词！该助记词为 MPC 钱包密钥分片之一，一旦设备遗失或应用被卸载，若您没有备份，将无法重新登录当前 Mixin 账号 (%1$s)。</string>
-  <string name="add_recovery_contact_before_instruction_3 platform="android,iOS">您要添加的恢复联系人已将当前账号（%1$s）添加为联系人，否则对方可能无法收到验证码。</string>
-  <string name="Invalid_mnemonic platform="android,iOS">无效助记词</string>
-  <string name="Set_up_pin_warning platform="android,iOS">在验证碎片密钥并同步到TIP网络时，请将应用程序保留在前台;在设置过程中不要强制退出应用程序。</string>
-  <string name="Set_up_Pin_question platform="android,iOS">如果我丢失了 PIN 会发生什么？</string>
-  <string name="Set_up_Pin_answer_1 platform="android,iOS">我可以稍后恢复我的帐户。</string>
-  <string name="Set_up_Pin_answer_2 platform="android,iOS">我将无法访问我的帐户和资金。</string>
-  <string name="What_is_Pin platform="android,iOS">什么是 PIN ?</string>
-  <string name="Recovery_Kit_instruction platform="android,iOS">Mixin Messenger的MPC钱包基于去中心化密钥协议TIP构建。您可以通过手机号码、助记符或受信任的联系人登录来恢复您的帐户。钱包的完整密钥仅存在于当前设备的TEK安全环境中。阅读文档以了解%1$s。</string>
-  <string name="Recovery_Kit_Attention platform="android,iOS">注意：Recovery Kit 无法帮助您恢复密码</string>
-  <string name="Mobile_Number platform="android,iOS">手机号码</string>
-  <string name="Recovery_Contact platform="android,iOS">恢复联系人</string>
-  <string name="Backup_Mnemonic_Phrase platform="android,iOS">备份助记词</string>
-  <string name="Before_you_proceed platform="android,iOS">请在继续之前</string>
-  <string name="Before_you_proceed_desc platform="android,iOS">阅读以下内容，然后安全保存助记词。</string>
-  <string name="Before_you_proceed_instruction_1 platform="android,iOS">创建帐户生成的13个或25个助记词仅用于Mixin Network相关产品。</string>
-  <string name="Before_you_proceed_instruction_2 platform="android,iOS">助记词无法帮助您恢复您的 PIN！</string>
-  <string name="Before_you_proceed_instruction_3 platform="android,iOS">确保没有人或监控摄像头正在看您的屏幕！</string>
-  <string name="Show_Mnemonic_Phrase platform="android,iOS">显示助记词</string>
-  <string name="enter_mnemonic_phrase platform="android,iOS">输入或粘贴您的 %1$d 个助记词。</string>
-  <string name="log_in_whit_mnemonic_phrase platform="android,iOS">助记词登录</string>
-  <string name="write_down_mnemonic_phrase platform="android,iOS">写下您的助记词</string>
-  <string name="check_mnemonic_phrase platform="android,iOS">检查您的助记词</string>
-  <string name="check_mnemonic_phrase_desc platform="android,iOS">按照呈现给您的顺序选择每个单词。</string>
-  <string name="write_down_mnemonic_phrase_desc platform="android,iOS">把它写在一张纸上并放在安全的地方。</string>
-  <string name="mnemonic_phrase_tip_1 platform="android,iOS">·存放在金库或安全地方。</string>
-  <string name="mnemonic_phrase_tip_2 platform="android,iOS">·不要与网络共享。</string>
-  <string name="mnemonic_phrase_take_long platform="android,iOS">这应该不会花太长时间。</string>
-  <string name="Backup_Now platform="android,iOS">开始备份</string>
-  <string name="Add_Phone_desc platform="android,iOS">您可以通过手机号码登录您的帐户。手机号码将与您MPC钱包的密钥片段关联。完整的密钥仅存在于当前设备的TEK安全环境中。阅读文档以了解%1$s。</string>
-  <string name="Change_Phone_desc platform="android,iOS">您可以通过手机号码登录您的帐户。当前手机号码（%1$s）已与MPC钱包的密钥片段关联。完整的密钥仅存在于当前设备的TEK安全环境中。阅读文档以了解%2$s。</string>
-  <string name="Add_Mobile_Number platform="android,iOS">添加手机号码</string>
-  <string name="add_phone_instruction_1 platform="android,iOS">手机号码和助记词将链接到同一个密钥片段。</string>
-  <string name="add_phone_instruction_2 platform="android,iOS">手机号码和助记词登录到同一帐户。</string>
-  <string name="add_phone_instruction_3 platform="android,iOS">您无法添加注册为Mixin Messenger帐户的手机号码。</string>
-  <string name="add_phone_instruction_4 platform="android,iOS">绑定后无法删除手机号码。</string>
-  <string name="Change_Mobile_Number platform="android,iOS">更改手机号码</string>
-  <string name="Add_Recovery_Contact_desc platform="android,iOS">恢复联系人旨在帮助您在迷路并且无法检索您的手机号码或助记短语时登录您的帐户。</string>
-  <string name="add_recovery_contact_instruction_1 platform="android,iOS">添加您信任的人员作为恢复联系人，例如您的家人、朋友或同事。</string>
-  <string name="add_recovery_contact_instruction_2 platform="android,iOS">如果您无法通过手机号码或助记器登录您的帐户，请亲自或通过电话寻求帮助。</string>
-  <string name="add_recovery_contact_instruction_3 platform="android,iOS">恢复联系人无法从Mixin钱包中转移资产，但可以帮助您重新获得帐户的访问权限。</string>
-  <string name="add_recovery_contact_instruction_4 platform="android,iOS">恢复联系人无法帮助您恢复您的 PIN！</string>
-  <string name="Im_Ready platform="android,iOS">准备好了</string>
-  <string name="add_recovery_contact_before_instruction_1 platform="android,iOS">您要添加的恢复联系人已下载并登录在Mixin Messenger中。</string>
-  <string name="add_recovery_contact_before_instruction_2 platform="android,iOS">您要添加的恢复联系人将使Mixin Messenger保持在线状态或与您面对面。</string>
+  <string name="or" platform="android,iOS">或</string>
+  <string name="Sign_in_with_Mnemonic_Phrase" platform="android,iOS">使用助记词登录</string>
+  <string name="landing_have_account" platform="android,iOS">已有帐户</string>
+  <string name="landing_create" platform="android,iOS">创建帐户</string>
+  <string name="Create_Account" platform="android,iOS">创建帐户</string>
+  <string name="Mobile_Phone" platform="android,iOS">手机</string>
+  <string name="Mnemonic_Phrase" platform="android,iOS">助记词</string>
+  <string name="create_introduction" platform="android,iOS">MPC 钱包，%1$s，自我保管，社交恢复</string>
+  <string name="Convenience" platform="android,iOS">便利性</string>
+  <string name="Creating_your_account" platform="android,iOS">创建账户…</string>
+  <string name="Set_up_Pin" platform="android,iOS">设置 PIN</string>
+  <string name="Set_up_Pin_desc" platform="android,iOS">Mixin Messenger 的 MPC 钱包基于去中心化密钥协议 TIP 构建，PIN 是密钥分片之一。钱包完整的密钥只存在当前设备的 TEE 安全环境中。阅读文档以了解更多关于 %1$s 的信息。</string>
+  <string name="Set_up_Pin_more" platform="android,iOS">更多信息</string>
+  <string name="set_up_pin_instruction_1" platform="android,iOS">请在稳定的网络环境下完成操作。</string>
+  <string name="set_up_pin_instruction_2" platform="android,iOS">请保持应用在前台运行，设置过程中请勿强制退出。</string>
+  <string name="set_up_pin_instruction_3" platform="android,iOS">该过程开始后无法取消。请记住 6 位数字 PIN，如果过程意外中止，请重新输入。</string>
+  <string name="Create_Mnemonic_Phrase" platform="android,iOS">创建助记词</string>
+  <string name="mnemonic_phrase_instruction_1" platform="android,iOS">创建账号生成的 13 个助记词仅用于 Mixin Network 相关产品。</string>
+  <string name="mnemonic_phrase_instruction_2" platform="android,iOS">助记词将关联到由您管理的 MPC 钱包的一个密钥分片。</string>
+  <string name="Set_up_pin_desc_1" platform="android,iOS">为您的钱包设置6位数的PIN</string>
+  <string name="Set_up_pin_desc_2" platform="android,iOS">请再次确认\n您的6位密码</string>
+  <string name="Set_up_pin_tip_1" platform="android,iOS">如果丢失 PIN 则无法恢复您的钱包。</string>
+  <string name="Set_up_pin_tip_2" platform="android,iOS">很少在其他地方看到三次确认，\n因此请记住，如果丢失PIN 将无法恢复钱包。</string>
+  <string name="Set_up" platform="android,iOS">设置</string>
+  <string name="Mnemonic_Phrase_instruction" platform="android,iOS">你可以通过助记词登录你的账号，当前助记词已关联到 MPC 钱包的密钥分片，完整的密钥只存在当前设备的 TEE 安全环境中，阅读文档以了解%1$s。</string>
+  <string name="Backup_Mnemonic_Phrase_desc" platform="android,iOS">立即通过备份您的助记词来保护您的资产。</string>
+  <string name="Backup_Mnemonic_Phrase_Warning" platform="android,iOS">请立即备份您的助记词！该助记词为 MPC 钱包密钥分片之一，一旦设备遗失或应用被卸载，若您没有备份，将无法重新登录当前 Mixin 账号 (%1$s)。</string>
+  <string name="add_recovery_contact_before_instruction_3" platform="android,iOS">您要添加的恢复联系人已将当前账号（%1$s）添加为联系人，否则对方可能无法收到验证码。</string>
+  <string name="Invalid_mnemonic" platform="android,iOS">无效助记词</string>
+  <string name="Set_up_pin_warning" platform="android,iOS">在验证碎片密钥并同步到TIP网络时，请将应用程序保留在前台;在设置过程中不要强制退出应用程序。</string>
+  <string name="Set_up_Pin_question" platform="android,iOS">如果我丢失了 PIN 会发生什么？</string>
+  <string name="Set_up_Pin_answer_1" platform="android,iOS">我可以稍后恢复我的帐户。</string>
+  <string name="Set_up_Pin_answer_2" platform="android,iOS">我将无法访问我的帐户和资金。</string>
+  <string name="What_is_Pin" platform="android,iOS">什么是 PIN ?</string>
+  <string name="Recovery_Kit_instruction" platform="android,iOS">Mixin Messenger的MPC钱包基于去中心化密钥协议TIP构建。您可以通过手机号码、助记符或受信任的联系人登录来恢复您的帐户。钱包的完整密钥仅存在于当前设备的TEK安全环境中。阅读文档以了解%1$s。</string>
+  <string name="Recovery_Kit_Attention" platform="android,iOS">注意：Recovery Kit 无法帮助您恢复密码</string>
+  <string name="Mobile_Number" platform="android,iOS">手机号码</string>
+  <string name="Recovery_Contact" platform="android,iOS">恢复联系人</string>
+  <string name="Backup_Mnemonic_Phrase" platform="android,iOS">备份助记词</string>
+  <string name="Before_you_proceed" platform="android,iOS">请在继续之前</string>
+  <string name="Before_you_proceed_desc" platform="android,iOS">阅读以下内容，然后安全保存助记词。</string>
+  <string name="Before_you_proceed_instruction_1" platform="android,iOS">创建帐户生成的13个或25个助记词仅用于Mixin Network相关产品。</string>
+  <string name="Before_you_proceed_instruction_2" platform="android,iOS">助记词无法帮助您恢复您的 PIN！</string>
+  <string name="Before_you_proceed_instruction_3" platform="android,iOS">确保没有人或监控摄像头正在看您的屏幕！</string>
+  <string name="Show_Mnemonic_Phrase" platform="android,iOS">显示助记词</string>
+  <string name="enter_mnemonic_phrase" platform="android,iOS">输入或粘贴您的 %1$d 个助记词。</string>
+  <string name="log_in_whit_mnemonic_phrase" platform="android,iOS">助记词登录</string>
+  <string name="write_down_mnemonic_phrase" platform="android,iOS">写下您的助记词</string>
+  <string name="check_mnemonic_phrase" platform="android,iOS">检查您的助记词</string>
+  <string name="check_mnemonic_phrase_desc" platform="android,iOS">按照呈现给您的顺序选择每个单词。</string>
+  <string name="write_down_mnemonic_phrase_desc" platform="android,iOS">把它写在一张纸上并放在安全的地方。</string>
+  <string name="mnemonic_phrase_tip_1" platform="android,iOS">·存放在金库或安全地方。</string>
+  <string name="mnemonic_phrase_tip_2" platform="android,iOS">·不要与网络共享。</string>
+  <string name="mnemonic_phrase_take_long" platform="android,iOS">这应该不会花太长时间。</string>
+  <string name="Backup_Now" platform="android,iOS">开始备份</string>
+  <string name="Add_Phone_desc" platform="android,iOS">您可以通过手机号码登录您的帐户。手机号码将与您MPC钱包的密钥片段关联。完整的密钥仅存在于当前设备的TEK安全环境中。阅读文档以了解%1$s。</string>
+  <string name="Change_Phone_desc" platform="android,iOS">您可以通过手机号码登录您的帐户。当前手机号码（%1$s）已与MPC钱包的密钥片段关联。完整的密钥仅存在于当前设备的TEK安全环境中。阅读文档以了解%2$s。</string>
+  <string name="Add_Mobile_Number" platform="android,iOS">添加手机号码</string>
+  <string name="add_phone_instruction_1" platform="android,iOS">手机号码和助记词将链接到同一个密钥片段。</string>
+  <string name="add_phone_instruction_2" platform="android,iOS">手机号码和助记词登录到同一帐户。</string>
+  <string name="add_phone_instruction_3" platform="android,iOS">您无法添加注册为Mixin Messenger帐户的手机号码。</string>
+  <string name="add_phone_instruction_4" platform="android,iOS">绑定后无法删除手机号码。</string>
+  <string name="Change_Mobile_Number" platform="android,iOS">更改手机号码</string>
+  <string name="Add_Recovery_Contact_desc" platform="android,iOS">恢复联系人旨在帮助您在迷路并且无法检索您的手机号码或助记短语时登录您的帐户。</string>
+  <string name="add_recovery_contact_instruction_1" platform="android,iOS">添加您信任的人员作为恢复联系人，例如您的家人、朋友或同事。</string>
+  <string name="add_recovery_contact_instruction_2" platform="android,iOS">如果您无法通过手机号码或助记器登录您的帐户，请亲自或通过电话寻求帮助。</string>
+  <string name="add_recovery_contact_instruction_3" platform="android,iOS">恢复联系人无法从Mixin钱包中转移资产，但可以帮助您重新获得帐户的访问权限。</string>
+  <string name="add_recovery_contact_instruction_4" platform="android,iOS">恢复联系人无法帮助您恢复您的 PIN！</string>
+  <string name="Im_Ready" platform="android,iOS">准备好了</string>
+  <string name="add_recovery_contact_before_instruction_1" platform="android,iOS">您要添加的恢复联系人已下载并登录在Mixin Messenger中。</string>
+  <string name="add_recovery_contact_before_instruction_2" platform="android,iOS">您要添加的恢复联系人将使Mixin Messenger保持在线状态或与您面对面。</string>
 </resources>
