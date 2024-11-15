@@ -138,9 +138,9 @@
   <string name="check_trace_failed" platform="android">Periksa maklumat jejak gagal, sila cuba lagi</string>
   <string name="Checking_link" platform="android">Memeriksa pautan</string>
   <string name="Checking_payment_info" platform="android">Memeriksa maklumat pembayaran</string>
-  <string name="circle_bottom" platform="android">Buat lingkaran untuk kumpulan sembang yang berbeza \ndan beralih antara mereka dengan segera</string>
+  <string name="circle_bottom" platform="android">Buat lingkaran untuk kumpulan sembang yang berbeza dan beralih antara mereka dengan segera</string>
   <string name="circle_delete_tip" platform="android">Padamkan "%1$s"?</string>
-  <string name="circle_info" platform="android, iOS">Sekiranya anda ingin menapis perbualan, sila\ntetapkan lingkaran untuk perbualan terlebih dahulu.</string>
+  <string name="circle_info" platform="android, iOS">Sekiranya anda ingin menapis perbualan, sila tetapkan lingkaran untuk perbualan terlebih dahulu.</string>
   <string name="circle_subtitle.count" platform="android, iOS, Desktop">%1$d Perbualan</string>
   <string name="circle_title" platform="android, iOS, Desktop">Lingkaran %1$s</string>
   <string name="Circles" platform="android, iOS, Desktop">Lingkaran</string>

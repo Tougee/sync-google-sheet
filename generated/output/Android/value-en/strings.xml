@@ -161,7 +161,6 @@
 	<string name="Approving_Transaction_Failed">Approving Transaction Failed</string>
 	<string name="Asset_Key">Asset Key</string>
 	<string name="Asset_Migration">Network Upgrade</string>
-	<string name="asset_migration_hint">You have assets in the legacy network, please view here.</string>
 	<string name="Asset_not_found">Asset not found.</string>
 	<string name="Assets">Assets</string>
 	<string name="ASSETS">ASSETS</string>
@@ -777,6 +776,7 @@
 	<string name="Later">Later</string>
 	<string name="Learn_More">Learn More</string>
 	<string name="leave_message_to_team_mixin">Leave a message to Team Mixin</string>
+	<string name="Legacy_Network">Legacy Network</string>
 	<string name="legacy_network_transfer_hint">Current transfer is using legacy network</string>
 	<string name="Line_busy">Line busy</string>
 	<string name="Line_busy_remote">Line busy</string>
@@ -1206,6 +1206,7 @@
 	<string name="Send">Send</string>
 	<string name="Send_as_file">Send as file</string>
 	<string name="send_by_pin">Send by PIN</string>
+	<string name="Send_Collectible">Send Collectible</string>
 	<string name="send_file_group">Send \"%1$s\" to \"%2$s\"?</string>
 	<string name="Send_Message">Send Message</string>
 	<string name="send_signed_message_confirmation">The message has been signed successfully, click the button below to send or discard the signed message</string>

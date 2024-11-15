@@ -133,7 +133,6 @@
   <string name="archived_folder" platform="Desktop">存档文件夹</string>
   <string name="Asset_Key" platform="android, iOS">资产标识</string>
   <string name="Asset_Migration" platform="android">资产迁移</string>
-  <string name="asset_migration_hint" platform="android, iOS">您还有资产在旧的 Mixin 网络，点击查看。</string>
   <string name="Asset_not_found" platform="android, iOS">找不到该资产</string>
   <string name="Asset_Type" platform="iOS, Desktop">资产类型</string>
   <string name="ASSETS" platform="android">资产</string>
@@ -2049,6 +2048,8 @@
   <string name="price_increase_invalid" platform="android,iOS">涨幅需大于 %1$s 且小于 %2$s</string>
   <string name="price_decrease_invalid" platform="android,iOS">跌幅需大于 %1$s 且小于 %2$s</string>
   <string name="All_Alert" platform="android,iOS">所有价格预警</string>
+  <string name="Send_Collectible" platform="android,iOS">发送藏品</string>
+  <string name="Legacy_Network" platform="android,iOS">旧网络</string>
   <string name="Paste platform="android,iOS">粘贴</string>
   <string name="or" platform="android,iOS">或</string>
   <string name="Sign_in_with_Mnemonic_Phrase" platform="android,iOS">使用助记词登录</string>

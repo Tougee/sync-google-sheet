@@ -134,7 +134,6 @@
   <string name="archived_folder" platform="Desktop">archived folder</string>
   <string name="Asset_Key" platform="android, iOS">Asset Key</string>
   <string name="Asset_Migration" platform="android">Network Upgrade</string>
-  <string name="asset_migration_hint" platform="android, iOS">You have assets in the legacy network, please view here.</string>
   <string name="Asset_not_found" platform="android, iOS">Asset not found.</string>
   <string name="Asset_Type" platform="iOS, Desktop">Asset Type</string>
   <string name="ASSETS" platform="android">ASSETS</string>
@@ -2077,6 +2076,8 @@
   <string name="price_increase_invalid" platform="android,iOS">The price increase must be greater than %1$s and less than %2$s</string>
   <string name="price_decrease_invalid" platform="android,iOS">The price decrease must be greater than %1$s and less than %2$s</string>
   <string name="All_Alert" platform="android,iOS">All Alert</string>
+  <string name="Send_Collectible" platform="android,iOS">Send Collectible</string>
+  <string name="Legacy_Network" platform="android,iOS">Legacy Network</string>
   <string name="Paste" platform="android,iOS">Paste</string>
   <string name="or" platform="android,iOS">or</string>
   <string name="Sign_in_with_Mnemonic_Phrase" platform="android,iOS">Sign in with Mnemonic Phrase</string>

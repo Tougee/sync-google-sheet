@@ -134,7 +134,6 @@
 "approving_transaction" = "正在批准";
 "approving_transaction_failed" = "批准失败";
 "asset_key" = "资产标识";
-"asset_migration_hint" = "您还有资产在旧的 Mixin 网络，点击查看。";
 "asset_not_found" = "找不到该资产";
 "asset_type" = "资产类型";
 "assets" = "资产";
@@ -635,6 +634,7 @@
 "later" = "稍后";
 "learn_more" = "了解更多";
 "leave_message_to_team_mixin" = "给 Mixin 客服留言";
+"legacy_network" = "旧网络";
 "legacy_network_transfer_hint" = "当前转账使用的是旧网络";
 "light" = "浅色";
 "line_busy" = "忙线未接听";
@@ -1031,6 +1031,7 @@
 "send" = "发送";
 "send_as_file" = "发送为文件";
 "send_as_files" = "发送为文件";
+"send_collectible" = "发送藏品";
 "send_item" = "发送 1 项";
 "send_item_count" = "发送 %d 项";
 "send_message" = "发消息";

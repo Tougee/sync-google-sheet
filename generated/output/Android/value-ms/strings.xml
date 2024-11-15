@@ -139,11 +139,9 @@
 	<string name="check_trace_failed">Periksa maklumat jejak gagal, sila cuba lagi</string>
 	<string name="Checking_link">Memeriksa pautan</string>
 	<string name="Checking_payment_info">Memeriksa maklumat pembayaran</string>
-	<string name="circle_bottom">Buat lingkaran untuk kumpulan sembang yang berbeza 
-\ndan beralih antara mereka dengan segera</string>
+	<string name="circle_bottom">Buat lingkaran untuk kumpulan sembang yang berbeza dan beralih antara mereka dengan segera</string>
 	<string name="circle_delete_tip">Padamkan \"%1$s\"?</string>
-	<string name="circle_info">Sekiranya anda ingin menapis perbualan, sila
-\ntetapkan lingkaran untuk perbualan terlebih dahulu.</string>
+	<string name="circle_info">Sekiranya anda ingin menapis perbualan, sila tetapkan lingkaran untuk perbualan terlebih dahulu.</string>
 	<plurals name="circle_subtitle" tools:ignore="UnusedQuantity">
 		<item quantity="other">%1$d Perbualan</item>
 	</plurals>

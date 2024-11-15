@@ -160,7 +160,6 @@
 	<string name="Approving_Transaction_Failed">批准失敗</string>
 	<string name="Asset_Key">資產標識</string>
 	<string name="Asset_Migration">資產遷移</string>
-	<string name="asset_migration_hint">您還有資產在舊的 Mixin 網絡，點擊查看。</string>
 	<string name="Asset_not_found">找不到該資產</string>
 	<string name="Assets">資產</string>
 	<string name="ASSETS">資產</string>
@@ -761,6 +760,7 @@
 	<string name="Later">稍後</string>
 	<string name="Learn_More">瞭解更多</string>
 	<string name="leave_message_to_team_mixin">給 Mixin 客服留言</string>
+	<string name="Legacy_Network">舊網絡</string>
 	<string name="legacy_network_transfer_hint">當前轉賬使用的是舊網絡</string>
 	<string name="Line_busy">忙線未接聽</string>
 	<string name="Line_busy_remote">對方忙</string>
@@ -1186,6 +1186,7 @@
 	<string name="Send">發送</string>
 	<string name="Send_as_file">按檔案發送</string>
 	<string name="send_by_pin">通過 PIN 發送</string>
+	<string name="Send_Collectible">發送藏品</string>
 	<string name="send_file_group">將 \"%1$s\" 發送給 \"%2$s\"？</string>
 	<string name="Send_Message">發消息</string>
 	<string name="send_signed_message_confirmation">此消息已被簽名，點擊下方按鈕以發送或丟棄</string>
