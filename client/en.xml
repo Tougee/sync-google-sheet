@@ -1740,6 +1740,7 @@
   <string name="withdrawal_sending_description" platform="android, iOS">The withdrawal request is being sent to the Mixin mainnet. Please wait a moment.</string>
   <string name="withdrawal_sent_description" platform="android, iOS">Withdrawal request successful. Please wait a moment.</string>
   <string name="Confirm_Transfer" platform="android, iOS">Confirm Transfer</string>
+  <string name="Confirm_Transfer_in_Batches" platform="android, iOS">Confirm Transfer in Batches</string>
   <string name="Sending_Transfer_Request" platform="android, iOS">Sending Transfer Request</string>
   <string name="Transfer_Success" platform="android, iOS">Transfer Success</string>
   <string name="Transfer_Failed" platform="android, iOS">Transfer Failed</string>
