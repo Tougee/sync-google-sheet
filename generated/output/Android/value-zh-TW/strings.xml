@@ -385,6 +385,7 @@
 	<string name="Confirm_PIN">確認 PIN</string>
 	<string name="Confirm_Signing_Multisig">多簽交易確認</string>
 	<string name="Confirm_Transfer">轉賬確認</string>
+	<string name="Confirm_Transfer_in_Batches">批次轉賬確認</string>
 	<string name="Confirm_Withdrawal">提現確認</string>
 	<string name="Confirmations">區塊確認數</string>
 	<string name="Confirming_Transaction">正在確認交易</string>

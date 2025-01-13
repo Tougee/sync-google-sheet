@@ -390,6 +390,7 @@
 	<string name="Confirm_PIN">Confirm PIN</string>
 	<string name="Confirm_Signing_Multisig">Confirm Signing Multisig</string>
 	<string name="Confirm_Transfer">Confirm Transfer</string>
+	<string name="Confirm_Transfer_in_Batches">Confirm Transfer in Batches</string>
 	<string name="Confirm_Withdrawal">Confirm Withdrawal</string>
 	<string name="Confirmations">Confirmations</string>
 	<string name="Confirming_Transaction">Confirming Transaction</string>

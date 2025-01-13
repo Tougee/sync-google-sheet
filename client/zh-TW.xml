@@ -1713,6 +1713,7 @@
   <string name="withdrawal_sending_description" platform="android, iOS">正在建立提現，請稍候。</string>
   <string name="withdrawal_sent_description" platform="android, iOS">提現成功。</string>
   <string name="Confirm_Transfer" platform="android, iOS">轉賬確認</string>
+  <string name="Confirm_Transfer_in_Batches" platform="android, iOS">批次轉賬確認</string>
   <string name="Sending_Transfer_Request" platform="android, iOS">正在傳送轉賬</string>
   <string name="Transfer_Success" platform="android, iOS">轉賬成功</string>
   <string name="Transfer_Failed" platform="android, iOS">轉賬失敗</string>
