@@ -220,6 +220,7 @@
 	<string name="balance_abbreviation">余额 %1$s</string>
 	<string name="balance_half">取半</string>
 	<string name="balance_max">最大</string>
+	<string name="Batch_Transfer_Confirmation">批量转账确认</string>
 	<string name="Before_you_proceed">请在继续之前</string>
 	<string name="Before_you_proceed_desc">阅读以下内容，然后安全保存助记词。</string>
 	<string name="Before_you_proceed_instruction_1">创建帐户生成的 13 个或 25 个助记词仅用于 Mixin Network 相关产品。</string>
@@ -385,7 +386,6 @@
 	<string name="Confirm_PIN">确认 PIN</string>
 	<string name="Confirm_Signing_Multisig">多签交易确认</string>
 	<string name="Confirm_Transfer">转账确认</string>
-	<string name="Confirm_Transfer_in_Batches">批量转账确认</string>
 	<string name="Confirm_Withdrawal">提现确认</string>
 	<string name="Confirmations">区块确认数</string>
 	<string name="Confirming_Transaction">正在确认交易</string>

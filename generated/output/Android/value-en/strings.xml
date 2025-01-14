@@ -222,6 +222,7 @@
 	<string name="balance_abbreviation">Bal %1$s</string>
 	<string name="balance_half">HALF</string>
 	<string name="balance_max">MAX</string>
+	<string name="Batch_Transfer_Confirmation">Batch Transfer Confirmation</string>
 	<string name="Before_you_proceed">Before you proceed</string>
 	<string name="Before_you_proceed_desc">Read the following, then save the phrase securely.</string>
 	<string name="Before_you_proceed_instruction_1">The 13 or 25 mnemonic words generated when creating an account are for Mixin Network-related products only.</string>
@@ -390,7 +391,6 @@
 	<string name="Confirm_PIN">Confirm PIN</string>
 	<string name="Confirm_Signing_Multisig">Confirm Signing Multisig</string>
 	<string name="Confirm_Transfer">Confirm Transfer</string>
-	<string name="Confirm_Transfer_in_Batches">Confirm Transfer in Batches</string>
 	<string name="Confirm_Withdrawal">Confirm Withdrawal</string>
 	<string name="Confirmations">Confirmations</string>
 	<string name="Confirming_Transaction">Confirming Transaction</string>
