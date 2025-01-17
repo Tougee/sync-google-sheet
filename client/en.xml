@@ -417,7 +417,7 @@
   <string name="create_conversation" platform="Desktop">New Conversation</string>
   <string name="create_group" platform="Desktop">New Group</string>
   <string name="Create_PIN" platform="android,iOS">Create PIN</string>
-  <string name="Created" platform="android, Desktop">Created %1$s</string>
+  <string name="Created_at" platform="android, Desktop">Created %1$s</string>
   <string name="created_this_group" platform="android, iOS, Desktop">%1$s created this group</string>
   <string name="Creating" platform="android">Creating…</string>
   <string name="Creating_wallet_terminated_unexpectedly" platform="android,iOS">Creating wallet terminated unexpectedly, click "Continue" to complete the creation</string>
@@ -666,7 +666,7 @@
   <string name="Export_PDF" platform="android">Export PDF</string>
   <string name="Extract_QR_Code" platform="android">Extract QR Code</string>
   <string name="Face_ID" platform="iOS">Face ID</string>
-  <string name="failed" platform="Desktop">Failed</string>
+  <string name="failed" platform="android, iOS, Desktop">Failed</string>
   <string name="Failed_to_compose_avatar" platform="iOS">Failed to compose avatar. Try another picture instead.</string>
   <string name="failed_to_open_database" platform="Desktop">An error occurred while opening the database.</string>
   <string name="Failed_to_send_location" platform="iOS">Failed to send location</string>
@@ -1863,7 +1863,7 @@
   <string name="Swap" platform="android,iOS">Swap</string>
   <string name="Swapping" platform="android">Swapping</string>
   <string name="Pay" platform="android,iOS">Pay</string>
-  <string name="Received" platform="android">received</string>
+  <string name="Received" platform="android,iOS">received</string>
   <string name="Review_Order" platform="android">Review Order</string>
   <string name="View_Transaction" platform="android">View Transaction</string>
   <string name="Confirming_Transaction" platform="android">Confirming Transaction</string>
@@ -2176,4 +2176,18 @@
   <string name="single_transaction_should_be_less_than" platform="android,iOS">Maximum amount %1$s %2$s</string>
   <string name="single_transaction_should_be_between" platform="android,iOS">Amount range be %1$s %2$s ~ %3$s %4$s</string>
   <string name="open" platform="Desktop">Open</string>
+  <string name="order_type_swap" platform="android,iOS">Swap</string>
+  <string name="order_type_limit" platform="android,iOS">Limit</string>
+  <string name="Swap_Again" platform="android,iOS">Swap Again</string>
+  <string name="Share_Pair" platform="android,iOS">Share Pair</string>
+  <string name="Completed" platform="android,iOS">Completed</string>
+  <string name="Refunded" platform="android,iOS">Refunded</string>
+  <string name="Order" platform="android,iOS">Order</string>
+  <string name="Order Details" platform="android,iOS">Order Details</string>
+  <string name="Paid" platform="android,iOS">Paid</string>
+  <string name="Estimate_Receive" platform="android,iOS">Estimate Receive</string>
+  <string name="Estimate_Price" platform="android,iOS">Estimate Price</string>
+  <string name="Type" platform="android,iOS">Type</string>
+  <string name="Created" platform="android,iOS">Created</string>
+  <string name="Order_ID" platform="android,iOS">Order ID</string>
 </resources>

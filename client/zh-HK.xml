@@ -658,7 +658,7 @@
   <string name="Export_PDF" platform="android">導出為 PDF</string>
   <string name="Extract_QR_Code" platform="android">識別二維碼</string>
   <string name="Face_ID" platform="iOS">面容</string>
-  <string name="failed" platform="Desktop">失敗</string>
+  <string name="failed" platform="android, iOS, Desktop">失敗</string>
   <string name="Failed_to_compose_avatar" platform="iOS">頭像解析失敗，請嘗試使用其他圖片。</string>
   <string name="failed_to_open_database" platform="Desktop">打開數據庫時出現了錯誤。</string>
   <string name="Failed_to_send_location" platform="iOS">發送位置失敗，請稍後重試</string>
@@ -1836,7 +1836,7 @@
   <string name="Swap" platform="android,iOS">交易</string>
   <string name="Swapping" platform="android">兑換中</string>
   <string name="Pay" platform="android,iOS">支付</string>
-  <string name="Received" platform="android">收到</string>
+  <string name="Received" platform="android,iOS">收到</string>
   <string name="Review_Order" platform="android">預覽訂單</string>
   <string name="View_Transaction" platform="android">查看區塊鏈瀏覽器</string>
   <string name="Confirming_Transaction" platform="android">正在確認交易</string>

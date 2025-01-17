@@ -543,7 +543,7 @@
   <string name="Export_PDF" platform="android">Экспорт PDF</string>
   <string name="Extract_QR_Code" platform="android">Извлечь QR-код</string>
   <string name="Face_ID" platform="iOS">Идентификатор лица</string>
-  <string name="failed" platform="Desktop">Не удалось</string>
+  <string name="failed" platform="android, iOS, Desktop">Не удалось</string>
   <string name="Failed_to_compose_avatar" platform="iOS">Не удалось создать аватар. Вместо этого попробуйте другую картинку.</string>
   <string name="Failed_to_send_location" platform="iOS">Не удалось отправить местоположение</string>
   <string name="Failed_to_send_photo" platform="iOS">Не удалось отправить фото</string>

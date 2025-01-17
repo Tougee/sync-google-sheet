@@ -528,7 +528,7 @@
   <string name="Export_PDF" platform="android">PDFのエクスポート</string>
   <string name="Extract_QR_Code" platform="android">QRコードを生成する</string>
   <string name="Face_ID" platform="iOS">顔認証</string>
-  <string name="failed" platform="Desktop">失敗しました</string>
+  <string name="failed" platform="android, iOS, Desktop">失敗しました</string>
   <string name="Failed_to_compose_avatar" platform="iOS">アバターの作成に失敗しました。別の画像を使ってください</string>
   <string name="Failed_to_send_location" platform="iOS">位置情報を送信できませんでした</string>
   <string name="Failed_to_send_photo" platform="iOS">画像を送信できませんでした</string>

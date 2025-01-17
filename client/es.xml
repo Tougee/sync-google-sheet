@@ -587,7 +587,7 @@
   <string name="Export_PDF" platform="android">Exportar PDF</string>
   <string name="Extract_QR_Code" platform="android">Extraer código QR</string>
   <string name="Face_ID" platform="iOS">ID facial</string>
-  <string name="failed" platform="Desktop">Fallido</string>
+  <string name="failed" platform="android, iOS, Desktop">Fallido</string>
   <string name="Failed_to_compose_avatar" platform="iOS">No se ha podido componer el avatar. Prueba con otra imagen en su lugar.</string>
   <string name="Failed_to_send_location" platform="iOS">No se ha podido enviar la ubicación</string>
   <string name="Failed_to_send_photo" platform="iOS">No se ha podido enviar la foto</string>

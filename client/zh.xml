@@ -412,7 +412,7 @@
   <string name="create_conversation" platform="Desktop">新建会话</string>
   <string name="create_group" platform="Desktop">新建群组</string>
   <string name="Create_PIN" platform="android,iOS">创建钱包</string>
-  <string name="Created" platform="android, Desktop">创建于 %1$s</string>
+  <string name="Created_at" platform="android, Desktop">创建于 %1$s</string>
   <string name="created_this_group" platform="android, iOS, Desktop">%1$s创建了这个群组</string>
   <string name="Creating" platform="android">正在创建…</string>
   <string name="Creating_wallet_terminated_unexpectedly" platform="android,iOS">创建钱包意外中止，点继续完成钱包创建</string>
@@ -658,7 +658,7 @@
   <string name="Export_PDF" platform="android">导出为 PDF</string>
   <string name="Extract_QR_Code" platform="android">识别二维码</string>
   <string name="Face_ID" platform="iOS">面容</string>
-  <string name="failed" platform="Desktop">失败</string>
+  <string name="failed" platform="android, iOS, Desktop">失败</string>
   <string name="Failed_to_compose_avatar" platform="iOS">头像解析失败，请尝试使用其他图片。</string>
   <string name="failed_to_open_database" platform="Desktop">打开数据库时出现了错误。</string>
   <string name="Failed_to_send_location" platform="iOS">发送位置失败，请稍后重试</string>
@@ -1836,7 +1836,7 @@
   <string name="Swap" platform="android,iOS">交易</string>
   <string name="Swapping" platform="android">兑换中</string>
   <string name="Pay" platform="android,iOS">支付</string>
-  <string name="Received" platform="android">收到</string>
+  <string name="Received" platform="android,iOS">收到</string>
   <string name="Review_Order" platform="android">预览订单</string>
   <string name="View_Transaction" platform="android">查看区块链浏览器</string>
   <string name="Confirming_Transaction" platform="android">正在确认交易</string>
@@ -2148,4 +2148,18 @@
   <string name="single_transaction_should_be_less_than" platform="android,iOS">最高金额 %1$s %2$s</string>
   <string name="single_transaction_should_be_between" platform="android,iOS">金额范围 %1$s %2$s ~ %3$s %4$s</string>
   <string name="open" platform="Desktop">打开</string>
+  <string name="order_type_swap" platform="android,iOS">闪兑</string>
+  <string name="order_type_limit" platform="android,iOS">限价</string>
+  <string name="Swap_Again" platform="android,iOS">再来一笔</string>
+  <string name="Share_Pair" platform="android,iOS">分享交易对</string>
+  <string name="Completed" platform="android,iOS">已完成</string>
+  <string name="Refunded" platform="android,iOS">已退款</string>
+  <string name="Order" platform="android,iOS">订单</string>
+  <string name="Order Details" platform="android,iOS">订单详情</string>
+  <string name="Paid" platform="android,iOS">已支付</string>
+  <string name="Estimate_Receive" platform="android,iOS">预计收到</string>
+  <string name="Estimate_Price" platform="android,iOS">预计价格</string>
+  <string name="Type" platform="android,iOS">类型</string>
+  <string name="Created" platform="android,iOS">创建日期</string>
+  <string name="Order_ID" platform="android,iOS">订单 ID</string>
 </resources>
