@@ -383,6 +383,7 @@
 	<string name="Combine_and_forward">Combine and forward</string>
 	<string name="Combine_utxo">Combine UTXOs</string>
 	<string name="Complete">Complete</string>
+	<string name="Completed">Completed</string>
 	<string name="Confirm">Confirm</string>
 	<string name="Confirm_Adding_Address">Confirm Address</string>
 	<string name="Confirm_Deleting_Address">Delete Address</string>
@@ -459,7 +460,8 @@
 	<string name="create_introduction">MPC Wallet, 2FA, %1$s, Self-custody, Social Recovery</string>
 	<string name="Create_Mnemonic_Phrase">Create Mnemonic Phrase</string>
 	<string name="Create_PIN">Create PIN</string>
-	<string name="Created">Created %1$s</string>
+	<string name="Created">Created</string>
+	<string name="Created_at">Created %1$s</string>
 	<string name="created_this_group">%1$s created this group</string>
 	<string name="Creating">Creating…</string>
 	<string name="Creating_wallet_terminated_unexpectedly">Creating wallet terminated unexpectedly, click \"Continue\" to complete the creation</string>
@@ -667,6 +669,8 @@
 	<string name="error_user_invalid_format">Invalid user id</string>
 	<string name="error_withdrawal_memo_format_incorrect">ERROR 20131: Withdrawal memo format incorrect.</string>
 	<string name="error_withdrawal_suspend">ERROR 20137: Withdrawal suspend.</string>
+	<string name="Estimate_Price">Estimate Price</string>
+	<string name="Estimate_Receive">Estimate Receive</string>
 	<string name="estimated_balance_change">Balance Change (estimate)</string>
 	<string name="Everybody">Everybody</string>
 	<string name="exchange_rate">Exchange Rate</string>
@@ -686,6 +690,7 @@
 	<string name="Export_mnemonic_phrase">Export mnemonic phrase</string>
 	<string name="Export_PDF">Export PDF</string>
 	<string name="Extract_QR_Code">Extract QR Code</string>
+	<string name="failed">Failed</string>
 	<string name="Failure">Failure</string>
 	<string name="fast">Fast</string>
 	<string name="favorite">Favorite</string>
@@ -1037,10 +1042,16 @@
 	<string name="Operator">Operator</string>
 	<string name="Opponents">Opponents</string>
 	<string name="or">or</string>
+	<string name="Order">Order</string>
 	<string name="order_confirm">Order Confirm</string>
+	<string name="Order_ID">Order ID</string>
+	<string name="order_type_limit">Limit</string>
+	<string name="order_type_swap">Swap</string>
+	<string name="Order Details">Order Details</string>
 	<string name="OTHER">OTHER</string>
 	<string name="Overwrite">Overwrite</string>
 	<string name="Owner">Owner</string>
+	<string name="Paid">Paid</string>
 	<string name="parse_dns_result">Parse DNS result: </string>
 	<string name="Participants">Participants</string>
 	<string name="Paste">Paste</string>
@@ -1159,6 +1170,7 @@
 	<string name="Recovery_Kit_instruction">The MPC wallet in Mixin Messenger is built on the decentralized key protocol TIP. You can recover your account through your phone number, mnemonic phrase, or a trusted contact. The complete wallet key exists only in the TEE security environment on the current device. Read the documentation to learn %1$s.</string>
 	<string name="red_up_green_down">Red Up / Green Down</string>
 	<string name="Refresh">Refresh</string>
+	<string name="Refunded">Refunded</string>
 	<string name="Refuse">Refuse</string>
 	<string name="Registering">Registering…</string>
 	<string name="Reject">Reject</string>
@@ -1373,6 +1385,7 @@
 	<string name="Share_Link">Share Link</string>
 	<string name="share_message_description">Are you sure you want to send a %2$s from %1$s?</string>
 	<string name="share_message_description_empty">Are you sure you want to send the %1$s?</string>
+	<string name="Share_Pair">Share Pair</string>
 	<string name="Share_QR_Code">Share QR Code</string>
 	<string name="share_to">Share %1$s to…</string>
 	<string name="Shared_Media">Shared Media</string>
@@ -1444,6 +1457,7 @@
 	<string name="suspended_deposit">The deposit for %1$s has been temporarily suspended. This action has been taken due to potential factors such as low utilization, node failure, blockchain network hard fork, or congestion. We kindly request your attention to the fact that the %2$s assets already stored in the wallet remain transferable.</string>
 	<string name="Suspicious_Link">Suspicious Link</string>
 	<string name="Swap">Swap</string>
+	<string name="Swap_Again">Swap Again</string>
 	<string name="swap_confirmation">Swap Confirmation</string>
 	<string name="swap_desc">%1$s will be deposited into your wallet once the transaction is complete</string>
 	<string name="swap_failed">Swap Failed</string>
@@ -1536,6 +1550,7 @@
 	<string name="Trying_connect_tip_network">Connecting the TIP network</string>
 	<string name="Trying_connect_tip_node">Trying connect TIP node</string>
 	<string name="Tuesday">Tuesday</string>
+	<string name="Type">Type</string>
 	<string name="Type_message">Type message</string>
 	<string name="unable_connect_to_desktop">Unable to connect to the desktop, please try again later</string>
 	<string name="Unable_synced_between_different_account">Chat history cannot be synced between different accounts</string>

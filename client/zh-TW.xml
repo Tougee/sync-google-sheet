@@ -412,7 +412,7 @@
   <string name="create_conversation" platform="Desktop">新建會話</string>
   <string name="create_group" platform="Desktop">新建群組</string>
   <string name="Create_PIN" platform="android,iOS">建立錢包</string>
-  <string name="Created" platform="android, Desktop">創建於 %1$s</string>
+  <string name="Created_at" platform="android, Desktop">創建於 %1$s</string>
   <string name="created_this_group" platform="android, iOS, Desktop">%1$s建立了這個群組</string>
   <string name="Creating" platform="android">正在建立…</string>
   <string name="Creating_wallet_terminated_unexpectedly" platform="android,iOS">建立錢包意外中止，點繼續完成錢包建立</string>
@@ -2148,4 +2148,18 @@
   <string name="single_transaction_should_be_less_than" platform="android,iOS">最高金額 %1$s %2$s</string>
   <string name="single_transaction_should_be_between" platform="android,iOS">金額範圍 %1$s %2$s ~ %3$s %4$s</string>
   <string name="open" platform="Desktop">開啟</string>
+  <string name="order_type_swap" platform="android,iOS">閃兌</string>
+  <string name="order_type_limit" platform="android,iOS">限價</string>
+  <string name="Swap_Again" platform="android,iOS">再來一筆</string>
+  <string name="Share_Pair" platform="android,iOS">分享交易對</string>
+  <string name="Completed" platform="android,iOS">已完成</string>
+  <string name="Refunded" platform="android,iOS">已退款</string>
+  <string name="Order" platform="android,iOS">訂單</string>
+  <string name="Order Details" platform="android,iOS">訂單詳情</string>
+  <string name="Paid" platform="android,iOS">已支付</string>
+  <string name="Estimate_Receive" platform="android,iOS">預計收到</string>
+  <string name="Estimate_Price" platform="android,iOS">預計價格</string>
+  <string name="Type" platform="android,iOS">型別</string>
+  <string name="Created" platform="android,iOS">建立日期</string>
+  <string name="Order_ID" platform="android,iOS">訂單 ID</string>
 </resources>

@@ -441,6 +441,7 @@
 	<string name="Export_Markdown">Exportar descuento</string>
 	<string name="Export_PDF">Exportar PDF</string>
 	<string name="Extract_QR_Code">Extraer código QR</string>
+	<string name="failed">Fallido</string>
 	<string name="Failure">Falla</string>
 	<string name="Fee">Tarifa</string>
 	<string name="Feedback">Comentario</string>

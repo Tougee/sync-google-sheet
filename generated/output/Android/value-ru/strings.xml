@@ -421,6 +421,7 @@
 	<string name="Export_Markdown">Экспорт уценки</string>
 	<string name="Export_PDF">Экспорт PDF</string>
 	<string name="Extract_QR_Code">Извлечь QR-код</string>
+	<string name="failed">Не удалось</string>
 	<string name="Failure">Сбой</string>
 	<string name="Fee">Комиссия</string>
 	<string name="Feedback">Обратная связь</string>

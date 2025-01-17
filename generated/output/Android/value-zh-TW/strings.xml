@@ -378,6 +378,7 @@
 	<string name="Combine_and_forward">合併轉發</string>
 	<string name="Combine_utxo">歸集 UTXO</string>
 	<string name="Complete">完成</string>
+	<string name="Completed">已完成</string>
 	<string name="Confirm">確認</string>
 	<string name="Confirm_Adding_Address">新增地址確認</string>
 	<string name="Confirm_Deleting_Address">刪除地址確認</string>
@@ -454,7 +455,8 @@
 	<string name="create_introduction">MPC 錢包，2FA，%1$s，自我保管，社交恢復</string>
 	<string name="Create_Mnemonic_Phrase">建立助記詞</string>
 	<string name="Create_PIN">建立錢包</string>
-	<string name="Created">創建於 %1$s</string>
+	<string name="Created">建立日期</string>
+	<string name="Created_at">創建於 %1$s</string>
 	<string name="created_this_group">%1$s建立了這個群組</string>
 	<string name="Creating">正在建立…</string>
 	<string name="Creating_wallet_terminated_unexpectedly">建立錢包意外中止，點繼續完成錢包建立</string>
@@ -658,6 +660,8 @@
 	<string name="error_user_invalid_format">使用者資料不合法</string>
 	<string name="error_withdrawal_memo_format_incorrect">錯誤 20131：提現備註格式不正確</string>
 	<string name="error_withdrawal_suspend">錯誤 20137：提現暫停</string>
+	<string name="Estimate_Price">預計價格</string>
+	<string name="Estimate_Receive">預計收到</string>
 	<string name="estimated_balance_change">餘額變動（預估）</string>
 	<string name="Everybody">任何人</string>
 	<string name="exchange_rate">價格</string>
@@ -677,6 +681,7 @@
 	<string name="Export_mnemonic_phrase">匯出助記詞</string>
 	<string name="Export_PDF">匯出為 PDF</string>
 	<string name="Extract_QR_Code">識別二維碼</string>
+	<string name="failed">失敗</string>
 	<string name="Failure">錯誤</string>
 	<string name="fast">快速</string>
 	<string name="favorite">收藏</string>
@@ -1019,10 +1024,16 @@
 	<string name="Operator">運營商</string>
 	<string name="Opponents">收發人</string>
 	<string name="or">或者</string>
+	<string name="Order">訂單</string>
 	<string name="order_confirm">訂單確認</string>
+	<string name="Order_ID">訂單 ID</string>
+	<string name="order_type_limit">限價</string>
+	<string name="order_type_swap">閃兌</string>
+	<string name="Order Details">訂單詳情</string>
 	<string name="OTHER">其他</string>
 	<string name="Overwrite">覆蓋</string>
 	<string name="Owner">群主</string>
+	<string name="Paid">已支付</string>
 	<string name="parse_dns_result">解析 DNS 結果</string>
 	<string name="Participants">成員</string>
 	<string name="Paste">貼上</string>
@@ -1140,6 +1151,7 @@
 	<string name="Recovery_Kit_instruction">Mixin Messenger 的 MPC 錢包基於去中心化金鑰協議 TIP 構建，您可以透過手機號、助記詞或可信聯絡人登入恢復你的賬號，錢包完整的金鑰只存在當前裝置的 TEE 安全環境中，閱讀檔案以瞭解%1$s。</string>
 	<string name="red_up_green_down">紅漲綠跌</string>
 	<string name="Refresh">重新整理</string>
+	<string name="Refunded">已退款</string>
 	<string name="Refuse">拒絕</string>
 	<string name="Registering">註冊中…</string>
 	<string name="Reject">拒絕</string>
@@ -1352,6 +1364,7 @@
 	<string name="Share_Link">分享邀請連結</string>
 	<string name="share_message_description">你確定要傳送來自%1$s的%2$s？</string>
 	<string name="share_message_description_empty">你確定要傳送該%1$s？</string>
+	<string name="Share_Pair">分享交易對</string>
 	<string name="Share_QR_Code">分享二維碼</string>
 	<string name="share_to">分享%1$s到…</string>
 	<string name="Shared_Media">媒體內容</string>
@@ -1423,6 +1436,7 @@
 	<string name="suspended_deposit">%1$s 充值已暫停，可能的原因是因為使用率太低、節點故障、區塊鏈網路硬分叉或者擁堵，注意已轉入的 %2$s 資產可以繼續轉賬。</string>
 	<string name="Suspicious_Link">可疑連結</string>
 	<string name="Swap">交易</string>
+	<string name="Swap_Again">再來一筆</string>
 	<string name="swap_confirmation">確認交易</string>
 	<string name="swap_desc">%1$s 將會在交易完成後存入您的錢包</string>
 	<string name="swap_failed">交易失敗</string>
@@ -1514,6 +1528,7 @@
 	<string name="Trying_connect_tip_network">正在連線 TIP 網路</string>
 	<string name="Trying_connect_tip_node">正在連線節點…</string>
 	<string name="Tuesday">星期二</string>
+	<string name="Type">型別</string>
 	<string name="Type_message">輸入訊息</string>
 	<string name="unable_connect_to_desktop">無法連線到桌面，請稍後重試</string>
 	<string name="Unable_synced_between_different_account">不同賬戶之間無法同步聊天記錄</string>

@@ -306,6 +306,7 @@
 "collection_collected" = "%d collected";
 "combine_and_forward" = "Combine and forward";
 "complete" = "Complete";
+"completed" = "Completed";
 "compress_database" = "Compress Database";
 "compressed" = "Compressed";
 "confirm" = "Konfirmasi";
@@ -380,6 +381,7 @@
 "create_introduction" = "MPC Wallet, 2FA, %@, Self-custody, Social Recovery";
 "create_mnemonic_phrase" = "Create Mnemonic Phrase";
 "create_pin" = "Create PIN";
+"created" = "Created";
 "created_this_group" = "%@ created this group";
 "creating_wallet_terminated_unexpectedly" = "Creating wallet terminated unexpectedly, click \"Continue\" to complete the creation";
 "creating_your_account" = "Creating your account...";
@@ -547,6 +549,8 @@
 "error_used_phone" = "KESALAHAN 20122: Ponsel digunakan oleh orang lain.";
 "error_withdrawal_memo_format_incorrect" = "KESALAHAN 20131: Format memo penarikan salah.";
 "error_withdrawal_suspend" = "ERROR 20137: Withdrawal suspend.";
+"estimate_price" = "Estimate Price";
+"estimate_receive" = "Estimate Receive";
 "estimated_balance_change" = "Balance Change (estimate)";
 "everybody" = "Semua orang";
 "exchanging_data" = "Synchronization key shards in progress %@%%...";
@@ -559,6 +563,7 @@
 "export_failed" = "Export failed";
 "export_mnemonic_phrase" = "Export mnemonic phrase";
 "face_id" = "Face ID";
+"failed" = "Failed";
 "failed_to_compose_avatar" = "Failed to compose avatar. Try another picture instead.";
 "failed_to_send_location" = "Failed to send location";
 "failed_to_send_photo" = "Failed to send photo";
@@ -847,9 +852,15 @@
 "optimize_database" = "Optimize Database";
 "optimized" = "Optimized";
 "or" = "or";
+"order" = "Order";
+"order_id" = "Order ID";
+"order_type_limit" = "Limit";
+"order_type_swap" = "Swap";
+"order details" = "Order Details";
 "other" = "Other";
 "overwrite" = "Overwrite";
 "owner" = "pemilik";
+"paid" = "Paid";
 "participants" = "Peserta";
 "participants_count" = "%@ PARTICIPANTS";
 "paste" = "Paste";
@@ -948,6 +959,7 @@
 "receive" = "Terima";
 "receive_from_address_description" = "From another wallet or exchange";
 "receive_money" = "Terima uang";
+"received" = "received";
 "receiver" = "Penerima";
 "receivers" = "Receivers";
 "recent" = "Recent";
@@ -960,6 +972,7 @@
 "recovery_kit_instruction" = "The MPC wallet in Mixin Messenger is built on the decentralized key protocol TIP. You can recover your account through your phone number, mnemonic phrase, or a trusted contact. The complete wallet key exists only in the TEE security environment on the current device. Read the documentation to learn %@.";
 "red_up_green_down" = "Red Up / Green Down";
 "refresh" = "Muat ulang";
+"refunded" = "Refunded";
 "reject" = "Reject";
 "reject_transaction" = "Reject Transaction";
 "rejecting_transaction" = "Rejecting Transaction";
@@ -1150,6 +1163,7 @@
 "share_log_file" = "Share Log File";
 "share_message_description" = "Yakin ingin mengirim %2$@ dari %1$@?";
 "share_message_description_empty" = "Yakin ingin mengirim %@?";
+"share_pair" = "Share Pair";
 "share_to" = "Share To";
 "shared_media" = "Media Bersama";
 "show" = "Tampilkan";
@@ -1200,6 +1214,7 @@
 "suspended_deposit" = "The deposit for %1$@ has been temporarily suspended. This action has been taken due to potential factors such as low utilization, node failure, blockchain network hard fork, or congestion. We kindly request your attention to the fact that the %2$@ assets already stored in the wallet remain transferable.";
 "suspicious_link" = "Tautan yang Mencurigakan";
 "swap" = "Swap";
+"swap_again" = "Swap Again";
 "swap_confirmation" = "Swap Confirmation";
 "swap_failed" = "Swap Failed";
 "swap_invalid_amount" = "No available quote found. Please try a different amount.";
@@ -1282,6 +1297,7 @@
 "try_again" = "Coba lagi";
 "trying_connect_tip_network" = "Connecting the TIP network";
 "trying_connect_tip_node" = "Trying connect TIP node";
+"type" = "Type";
 "unable_connect_to_desktop" = "Unable to connect to the desktop, please try again later";
 "unable_synced_between_different_account" = "Chat history cannot be synced between different accounts";
 "unable_to_decode_the_request" = "Unable to decode the request: %@";

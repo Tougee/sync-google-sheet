@@ -413,6 +413,7 @@
 	<string name="Export_Markdown">マークダウンのエクスポート</string>
 	<string name="Export_PDF">PDFのエクスポート</string>
 	<string name="Extract_QR_Code">QRコードを生成する</string>
+	<string name="failed">失敗しました</string>
 	<string name="Failure">失敗</string>
 	<string name="fast">高速</string>
 	<string name="Fee">手数料</string>

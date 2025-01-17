@@ -378,6 +378,7 @@
 	<string name="Combine_and_forward">合并转发</string>
 	<string name="Combine_utxo">归集 UTXO</string>
 	<string name="Complete">完成</string>
+	<string name="Completed">已完成</string>
 	<string name="Confirm">确认</string>
 	<string name="Confirm_Adding_Address">添加地址确认</string>
 	<string name="Confirm_Deleting_Address">删除地址确认</string>
@@ -454,7 +455,8 @@
 	<string name="create_introduction">MPC 钱包，2FA，%1$s，自我保管，社交恢复</string>
 	<string name="Create_Mnemonic_Phrase">创建助记词</string>
 	<string name="Create_PIN">创建钱包</string>
-	<string name="Created">创建于 %1$s</string>
+	<string name="Created">创建日期</string>
+	<string name="Created_at">创建于 %1$s</string>
 	<string name="created_this_group">%1$s创建了这个群组</string>
 	<string name="Creating">正在创建…</string>
 	<string name="Creating_wallet_terminated_unexpectedly">创建钱包意外中止，点继续完成钱包创建</string>
@@ -658,6 +660,8 @@
 	<string name="error_user_invalid_format">用户数据不合法</string>
 	<string name="error_withdrawal_memo_format_incorrect">错误 20131：提现备注格式不正确</string>
 	<string name="error_withdrawal_suspend">错误 20137：提现暂停</string>
+	<string name="Estimate_Price">预计价格</string>
+	<string name="Estimate_Receive">预计收到</string>
 	<string name="estimated_balance_change">余额变动（预估）</string>
 	<string name="Everybody">任何人</string>
 	<string name="exchange_rate">价格</string>
@@ -677,6 +681,7 @@
 	<string name="Export_mnemonic_phrase">导出助记词</string>
 	<string name="Export_PDF">导出为 PDF</string>
 	<string name="Extract_QR_Code">识别二维码</string>
+	<string name="failed">失败</string>
 	<string name="Failure">错误</string>
 	<string name="fast">快速</string>
 	<string name="favorite">收藏</string>
@@ -1019,10 +1024,16 @@
 	<string name="Operator">运营商</string>
 	<string name="Opponents">收发人</string>
 	<string name="or">或者</string>
+	<string name="Order">订单</string>
 	<string name="order_confirm">订单确认</string>
+	<string name="Order_ID">订单 ID</string>
+	<string name="order_type_limit">限价</string>
+	<string name="order_type_swap">闪兑</string>
+	<string name="Order Details">订单详情</string>
 	<string name="OTHER">其他</string>
 	<string name="Overwrite">覆盖</string>
 	<string name="Owner">群主</string>
+	<string name="Paid">已支付</string>
 	<string name="parse_dns_result">解析 DNS 结果</string>
 	<string name="Participants">成员</string>
 	<string name="Paste">粘贴</string>
@@ -1140,6 +1151,7 @@
 	<string name="Recovery_Kit_instruction">Mixin Messenger 的 MPC 钱包基于去中心化密钥协议 TIP 构建，您可以通过手机号、助记词或可信联系人登录恢复你的账号，钱包完整的密钥只存在当前设备的 TEE 安全环境中，阅读文档以了解%1$s。</string>
 	<string name="red_up_green_down">红涨绿跌</string>
 	<string name="Refresh">刷新</string>
+	<string name="Refunded">已退款</string>
 	<string name="Refuse">拒绝</string>
 	<string name="Registering">注册中…</string>
 	<string name="Reject">拒绝</string>
@@ -1352,6 +1364,7 @@
 	<string name="Share_Link">分享邀请链接</string>
 	<string name="share_message_description">你确定要发送来自%1$s的%2$s？</string>
 	<string name="share_message_description_empty">你确定要发送该%1$s？</string>
+	<string name="Share_Pair">分享交易对</string>
 	<string name="Share_QR_Code">分享二维码</string>
 	<string name="share_to">分享%1$s到…</string>
 	<string name="Shared_Media">媒体内容</string>
@@ -1423,6 +1436,7 @@
 	<string name="suspended_deposit">%1$s 充值已暂停，可能的原因是因为使用率太低、节点故障、区块链网络硬分叉或者拥堵，注意已转入的 %2$s 资产可以继续转账。</string>
 	<string name="Suspicious_Link">可疑链接</string>
 	<string name="Swap">交易</string>
+	<string name="Swap_Again">再来一笔</string>
 	<string name="swap_confirmation">确认交易</string>
 	<string name="swap_desc">%1$s 将会在交易完成后存入您的钱包</string>
 	<string name="swap_failed">交易失败</string>
@@ -1514,6 +1528,7 @@
 	<string name="Trying_connect_tip_network">正在连接 TIP 网络</string>
 	<string name="Trying_connect_tip_node">正在连接节点…</string>
 	<string name="Tuesday">星期二</string>
+	<string name="Type">类型</string>
 	<string name="Type_message">输入消息</string>
 	<string name="unable_connect_to_desktop">无法连接到桌面，请稍后重试</string>
 	<string name="Unable_synced_between_different_account">不同账户之间无法同步聊天记录</string>
