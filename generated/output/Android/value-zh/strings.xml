@@ -1026,10 +1026,10 @@
 	<string name="or">或者</string>
 	<string name="Order">订单</string>
 	<string name="order_confirm">订单确认</string>
+	<string name="Order_Details">订单详情</string>
 	<string name="Order_ID">订单 ID</string>
 	<string name="order_type_limit">限价</string>
 	<string name="order_type_swap">闪兑</string>
-	<string name="Order Details">订单详情</string>
 	<string name="OTHER">其他</string>
 	<string name="Overwrite">覆盖</string>
 	<string name="Owner">群主</string>

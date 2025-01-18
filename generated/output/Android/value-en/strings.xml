@@ -1044,10 +1044,10 @@
 	<string name="or">or</string>
 	<string name="Order">Order</string>
 	<string name="order_confirm">Order Confirm</string>
+	<string name="Order_Details">Order Details</string>
 	<string name="Order_ID">Order ID</string>
 	<string name="order_type_limit">Limit</string>
 	<string name="order_type_swap">Swap</string>
-	<string name="Order Details">Order Details</string>
 	<string name="OTHER">OTHER</string>
 	<string name="Overwrite">Overwrite</string>
 	<string name="Owner">Owner</string>

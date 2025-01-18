@@ -853,10 +853,10 @@
 "optimized" = "最適化済みです";
 "or" = "or";
 "order" = "Order";
+"order_details" = "Order Details";
 "order_id" = "Order ID";
 "order_type_limit" = "Limit";
 "order_type_swap" = "Swap";
-"order details" = "Order Details";
 "other" = "その他";
 "overwrite" = "Overwrite";
 "owner" = "オーナー";
