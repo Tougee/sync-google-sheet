@@ -549,9 +549,9 @@
 "error_used_phone" = "錯誤 20122：電話號碼已經被佔用。";
 "error_withdrawal_memo_format_incorrect" = "錯誤 20131：提現備註格式不正確";
 "error_withdrawal_suspend" = "錯誤 20137：提現暫停";
-"estimate_price" = "預計價格";
-"estimate_receive" = "預計收到";
 "estimated_balance_change" = "餘額變動（預估）";
+"estimated_price" = "預計價格";
+"estimated_receive" = "預計收到";
 "everybody" = "任何人";
 "exchanging_data" = "正在同步金鑰分片，進度 %@%%...";
 "exit_confirmation" = "退出\"%@\"？";

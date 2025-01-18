@@ -669,9 +669,9 @@
 	<string name="error_user_invalid_format">Invalid user id</string>
 	<string name="error_withdrawal_memo_format_incorrect">ERROR 20131: Withdrawal memo format incorrect.</string>
 	<string name="error_withdrawal_suspend">ERROR 20137: Withdrawal suspend.</string>
-	<string name="Estimate_Price">Estimate Price</string>
-	<string name="Estimate_Receive">Estimate Receive</string>
 	<string name="estimated_balance_change">Balance Change (estimate)</string>
+	<string name="Estimated_Price">Estimated Price</string>
+	<string name="Estimated_Receive">Estimated Receive</string>
 	<string name="Everybody">Everybody</string>
 	<string name="exchange_rate">Exchange Rate</string>
 	<string name="Exchanging_data">Synchronization key shards in progress %1$s%%…</string>
