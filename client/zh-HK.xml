@@ -2155,7 +2155,7 @@
   <string name="Completed" platform="android,iOS">已完成</string>
   <string name="Refunded" platform="android,iOS">已退款</string>
   <string name="Order" platform="android,iOS">訂單</string>
-  <string name="Order Details" platform="android,iOS">訂單詳情</string>
+  <string name="Order_Details" platform="android,iOS">訂單詳情</string>
   <string name="Paid" platform="android,iOS">已支付</string>
   <string name="Estimated_Receive" platform="android,iOS">預計收到</string>
   <string name="Estimated_Price" platform="android,iOS">預計價格</string>
