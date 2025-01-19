@@ -1444,6 +1444,8 @@
 	<string name="swap_message_success">您的交易已傳送至網路，將很快被處理。</string>
 	<string name="swap_no_available_quote">沒有報價。請嘗試切換幣種。</string>
 	<string name="swap_not_supported">不支援 %1$s 交易。</string>
+	<string name="swap_order_paid">已支付</string>
+	<string name="swap_order_received">已收到</string>
 	<string name="swap_receive">獲得</string>
 	<string name="swap_send">支付</string>
 	<string name="Swapping">兌換中</string>
