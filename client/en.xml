@@ -2187,6 +2187,8 @@
   <string name="Paid" platform="android,iOS">Paid</string>
   <string name="Estimated_Receive" platform="android,iOS">Estimated Receive</string>
   <string name="Estimated_Price" platform="android,iOS">Estimated Price</string>
+  <string name="swap_order_paid" platform="android,iOS">Paid</string>
+  <string name="swap_order_received" platform="android,iOS">Received</string>
   <string name="Type" platform="android,iOS">Type</string>
   <string name="Created" platform="android,iOS">Created</string>
   <string name="Order_ID" platform="android,iOS">Order ID</string>
