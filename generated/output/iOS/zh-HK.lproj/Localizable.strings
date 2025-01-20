@@ -853,11 +853,11 @@
 "optimize_database" = "優化查詢索引";
 "optimized" = "已優化";
 "or" = "或者";
-"order" = "訂單";
 "order_details" = "訂單詳情";
 "order_id" = "訂單 ID";
 "order_type_limit" = "限價";
 "order_type_swap" = "閃兑";
+"orders" = "訂單";
 "other" = "其他";
 "overwrite" = "覆蓋";
 "owner" = "羣主";
