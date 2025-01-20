@@ -2192,4 +2192,7 @@
   <string name="Type" platform="android,iOS">Type</string>
   <string name="Created" platform="android,iOS">Created</string>
   <string name="Order_ID" platform="android,iOS">Order ID</string>
+  <string name="price_change_24h" platform="android,iOS">24h Price Change</string>
+  <string name="Buy_token" platform="android,iOS">Buy %1$s</string>
+  <string name="Sell_token" platform="android,iOS">Sell %1$s</string>
 </resources>
