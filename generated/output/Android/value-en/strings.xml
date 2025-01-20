@@ -249,6 +249,7 @@
 	<string name="buy_failed_description">There was a problem processing the transaction, please try again later.</string>
 	<string name="buy_success">Success</string>
 	<string name="buy_success_description">Successful purchase of %1$s. %2$s will be transferred directly to Mixin wallet.</string>
+	<string name="Buy_token">Buy %1$s</string>
 	<string name="buying_limitation">Minimum %1$s, Maximum %2$s</string>
 	<string name="calculating">Calculating…</string>
 	<string name="Call">Call</string>
@@ -1111,6 +1112,7 @@
 	<string name="preview_unavailable_description">Unable to estimate asset changes. Please make sure you trust this app.</string>
 	<string name="Price">Price</string>
 	<string name="price_alert_notification_permission">Price alerts require notification permission to be enabled.</string>
+	<string name="price_change_24h">24h Price Change</string>
 	<string name="Price_data_unavailable">Price data unavailable</string>
 	<string name="price_decrease_invalid">The price decrease must be greater than %1$s and less than %2$s</string>
 	<string name="price_expired">Price Expired</string>
@@ -1285,6 +1287,7 @@
 	<string name="Select_LIMIT">Select up to %1$d</string>
 	<string name="select_payment_method">Select Payment Method</string>
 	<string name="select_token">Select Token</string>
+	<string name="Sell_token">Sell %1$s</string>
 	<string name="Send">Send</string>
 	<string name="Send_as_file">Send as file</string>
 	<string name="send_by_pin">Send by PIN</string>
