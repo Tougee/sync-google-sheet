@@ -2153,7 +2153,7 @@
   <string name="Swap_Again" platform="android,iOS">再来一笔</string>
   <string name="Share_Pair" platform="android,iOS">分享交易对</string>
   <string name="Completed" platform="android,iOS">已完成</string>
-  <string name="Order" platform="android,iOS">订单</string>
+  <string name="Orders" platform="android,iOS">订单</string>
   <string name="Order_Details" platform="android,iOS">订单详情</string>
   <string name="Paid" platform="android,iOS">已支付</string>
   <string name="Estimated_Receive" platform="android,iOS">预计收到</string>
