@@ -2182,6 +2182,7 @@
   <string name="Share_Pair" platform="android,iOS">Share Pair</string>
   <string name="Completed" platform="android,iOS">Completed</string>
   <string name="Orders" platform="android,iOS">Orders</string>
+  <string name="NO_ORDERS" platform="android,iOS">NO ORDERS</string>
   <string name="Order_Details" platform="android,iOS">Order Details</string>
   <string name="Paid" platform="android,iOS">Paid</string>
   <string name="Estimated_Receive" platform="android,iOS">Estimated Receive</string>
