@@ -2181,7 +2181,6 @@
   <string name="Swap_Again" platform="android,iOS">Swap Again</string>
   <string name="Share_Pair" platform="android,iOS">Share Pair</string>
   <string name="Completed" platform="android,iOS">Completed</string>
-  <string name="Refunded" platform="android,iOS">Refunded</string>
   <string name="Order" platform="android,iOS">Order</string>
   <string name="Order_Details" platform="android,iOS">Order Details</string>
   <string name="Paid" platform="android,iOS">Paid</string>
