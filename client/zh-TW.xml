@@ -2164,6 +2164,6 @@
   <string name="Created" platform="android,iOS">建立日期</string>
   <string name="Order_ID" platform="android,iOS">訂單 ID</string>
   <string name="price_change_24h" platform="android,iOS">24 小時價格變化</string>
-  <string name="Buy_token" platform="android,iOS">買入 %1$s</string>
-  <string name="Sell_token" platform="android,iOS">售出 %1$s</string>
+  <string name="Buy_token" platform="android,iOS">購買 %1$s</string>
+  <string name="Sell_token" platform="android,iOS">出售 %1$s</string>
 </resources>
