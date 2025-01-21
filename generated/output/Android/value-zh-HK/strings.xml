@@ -247,7 +247,7 @@
 	<string name="buy_failed_description">該交易在處理中出現了問題，請稍後重試。</string>
 	<string name="buy_success">交易成功</string>
 	<string name="buy_success_description">成功支付 %1$s。%2$s 將直接 Mixin 錢包。</string>
-	<string name="Buy_token">購買 %1$s</string>
+	<string name="Buy_token">買入 %1$s</string>
 	<string name="buying_limitation">最少 %1$s, 最多 %2$s</string>
 	<string name="calculating">正在計算…</string>
 	<string name="Call">語音</string>
@@ -1267,7 +1267,7 @@
 	<string name="Select_LIMIT">最多選擇 %1$d 個</string>
 	<string name="select_payment_method">選擇支付方式</string>
 	<string name="select_token">選擇代幣</string>
-	<string name="Sell_token">出售 %1$s</string>
+	<string name="Sell_token">賣出 %1$s</string>
 	<string name="Send">發送</string>
 	<string name="Send_as_file">按檔案發送</string>
 	<string name="send_by_pin">通過 PIN 發送</string>
