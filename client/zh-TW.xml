@@ -649,7 +649,6 @@
   <string name="Expired" platform="android, iOS">已過期</string>
   <string name="expiry_date" platform="android">有效期</string>
   <string name="expiry_date_error" platform="android">請輸入正確的有效期</string>
-  <string name="Explore" platform="android,iOS">探索</string>
   <string name="Export" platform="android,iOS">匯出</string>
   <string name="Export_Chat" platform="android">匯出聊天記錄</string>
   <string name="Export_failed" platform="android, iOS">匯出失敗</string>
