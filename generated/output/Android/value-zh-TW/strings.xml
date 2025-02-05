@@ -1757,11 +1757,11 @@
 	<string name="write_down_mnemonic_phrase">寫下您的助記詞</string>
 	<string name="write_down_mnemonic_phrase_desc">把它寫在一張紙上並放在安全的地方。</string>
 	<string name="Year">年</string>
+	<string name="years_count_short">%1$d年</string>
 	<string name="you">你</string>
 	<string name="You">你</string>
 	<string name="You_deleted_this_message">你撤回了一條訊息</string>
 	<string name="You_have_left_the_group">你不在此群組</string>
 	<string name="Your_emergency_contact_has_been_changed">恢復聯絡人已更改</string>
 	<string name="your_pin_has_been_created">PIN 已建立</string>
-	<string name="ytd">今年</string>
 </resources>
