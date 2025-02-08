@@ -41,7 +41,6 @@
   <string name="Add_emergency_contact" platform="android, iOS">Add recovery contact</string>
   <string name="add_file" platform="Desktop">Add File</string>
   <string name="Add_group_description" platform="android, Desktop">Add group description</string>
-  <string name="Add_memo" platform="android, iOS">Add Memo</string>
   <string name="add_or_remove_favorite_bots" platform="android,iOS">Add or remove favorite bots</string>
   <string name="Add_participants" platform="android, iOS, Desktop">Add Participants</string>
   <string name="Add_people_hint" platform="android">Add people by Mixin ID or phone number</string>
@@ -1334,9 +1333,10 @@
   <string name="Send_This_Location" platform="android, iOS">Send This Location</string>
   <string name="send_to" platform="android, iOS">Send to %1$s</string>
   <string name="send_to_address" platform="android, iOS">Send to Address</string>
-  <string name="send_to_address_description" platform="android, iOS">Send crypto to a wallet or exchange</string>
+  <string name="send_to_address_description" platform="android, iOS">Send to a known crypto address using a crypto network.</string>
   <string name="Send_to_Contact" platform="android, iOS">Send to Contact</string>
-  <string name="Send_to_Contact_description" platform="android, iOS">Send crypto to Mixin contact</string>
+  <string name="Send_to_Contact_description" platform="android, iOS">Send to my Mixin contact using the Mixin Network.</string>
+  <string name="Send_to_web3_wallet_description" platform="android, iOS">Send to my %1$s account using crypto network.</string>
   <string name="Send_to_Developer" platform="iOS, Desktop">Send to Developer</string>
   <string name="Send_To_Title" platform="iOS">Send To</string>
   <string name="Send_transfer" platform="android">Send</string>
@@ -1702,7 +1702,6 @@
   <string name="withdrawal_addr_pin_modify" platform="android">Enter PIN to modify address</string>
   <string name="withdrawal_address_tips" platform="android, iOS">For the first withdrawal to a new address, please try small amounts! If you withdraw the assets to the wrong address, that would not be recovered!</string>
   <string name="withdrawal_hash" platform="android,iOS,Desktop">Withdrawal Hash</string>
-  <string name="withdrawal_label" platform="android, iOS">Label (e.g. exchanges, wallets, etc.)</string>
   <string name="withdrawal_memo" platform="android, iOS">Memo</string>
   <string name="withdrawal_minimum_amount" platform="android, iOS">Minimum withdraw amount is %1$s %2$s</string>
   <string name="withdrawal_minimum_reserve" platform="android, iOS">Minimum reserve: </string>
@@ -1845,7 +1844,7 @@
   <string name="insufficient_gas" platform="android, iOS">You do not have enough %1$s in your account to pay for network fees</string>
   <string name="Review" platform="android, iOS">Review</string>
   <string name="Max" platform="android, iOS">Max</string>
-  <string name="hint_address" platform="android, iOS">Enter a wallet address</string>
+  <string name="hint_address" platform="android, iOS">Enter a wallet address, exchange address.</string>
   <string name="Accounts" platform="android, iOS">Accounts</string>
   <string name="to_mixin_wallet" platform="android, iOS">To my Mixin Wallet</string>
   <string name="Invalid_Address" platform="android, iOS">Invalid Address</string>
@@ -2194,4 +2193,12 @@
   <string name="price_change_24h" platform="android,iOS">24h Price Change</string>
   <string name="Buy_token" platform="android,iOS">Buy %1$s</string>
   <string name="Sell_token" platform="android,iOS">Sell %1$s</string>
+  <string name="memo_placeholder" platform="android,iOS">Enter the Memo. If there isn’t one, just tap “Next”.</string>
+  <string name="tag_placeholder" platform="android,iOS">Enter the Tag. If there isn’t one, just tap “Next”.</string>
+  <string name="withdrawal_labe_placeholder" platform="android, iOS">Use a unique label to help you identify this address, such as “Wallet” “Exchange” or a friend’s name.</string>
+  <string name="add_a_note" platform="android, iOS">Add a note</string>
+  <string name="optional_note" platform="android, iOS">Note (Optional)</string>
+  <string name="Edit_Note" platform="android, iOS">Edit Note</string>
+  <string name="Delete_Note" platform="android, iOS">Delete Note</string>
+  <string name="available_balance" platform="android, iOS">Available: %1$s</string>
 </resources>

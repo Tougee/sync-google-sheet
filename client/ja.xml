@@ -36,7 +36,6 @@
   <string name="Add_conversations" platform="android, iOS">チャットルームを追加</string>
   <string name="add_file" platform="Desktop">ファイルを追加</string>
   <string name="Add_group_description" platform="android, Desktop">グループアナウンス</string>
-  <string name="Add_memo" platform="android, iOS">メモを追加</string>
   <string name="Add_participants" platform="android, iOS, Desktop">メンバーを追加</string>
   <string name="Add_people_hint" platform="android">Mixin IDまたは電話番号でメンバー追加</string>
   <string name="add_people_search_hint" platform="android, Desktop">Mixin IDまたは電話番号</string>
@@ -1338,7 +1337,6 @@
   <string name="withdrawal_addr_pin_delete" platform="android">PINコードを入力してアドレスを削除</string>
   <string name="withdrawal_addr_pin_modify" platform="android">PINコードを入力してアドレスを修正</string>
   <string name="withdrawal_address_tips" platform="android, iOS">新しいアドレスへの最初の出金は必ず少額で行ってください。アドレスが間違っていると資産は失われます。</string>
-  <string name="withdrawal_label" platform="android, iOS">ラベル (例. 取引所, ウォレットなど)</string>
   <string name="withdrawal_memo" platform="android, iOS">メモ</string>
   <string name="withdrawal_minimum_amount" platform="android, iOS">最小出金額は %1$s %2$sです</string>
   <string name="withdrawal_minimum_reserve" platform="android, iOS">最低準備金 </string>

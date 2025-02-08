@@ -42,7 +42,6 @@
   <string name="Add_conversations" platform="android, iOS">Добавить беседы</string>
   <string name="add_file" platform="Desktop">Добавить файл</string>
   <string name="Add_group_description" platform="android, Desktop">Добавить описание группы</string>
-  <string name="Add_memo" platform="android, iOS">добавить памятку</string>
   <string name="Add_participants" platform="android, iOS, Desktop">Добавить участников</string>
   <string name="Add_people_hint" platform="android">Добавляйте людей по Mixin ID или номеру телефона</string>
   <string name="add_people_search_hint" platform="android, Desktop">Mixin ID или номер телефона</string>
@@ -1354,7 +1353,6 @@
   <string name="withdrawal_addr_pin_delete" platform="android">Введите PIN-код, чтобы удалить адрес</string>
   <string name="withdrawal_addr_pin_modify" platform="android">Введите PIN-код, чтобы изменить адрес</string>
   <string name="withdrawal_address_tips" platform="android, iOS">Для первого вывода на новый адрес попробуйте небольшие суммы! Если вы выведете активы не на тот адрес, они не будут восстановлены!</string>
-  <string name="withdrawal_label" platform="android, iOS">Ярлык (например, биржи, кошельки и т.д.)</string>
   <string name="withdrawal_memo" platform="android, iOS">Памятка</string>
   <string name="withdrawal_minimum_amount" platform="android, iOS">Минимальная сумма вывода: %1$s %2$s.</string>
   <string name="withdrawal_minimum_reserve" platform="android, iOS">Минимальный резерв: </string>
