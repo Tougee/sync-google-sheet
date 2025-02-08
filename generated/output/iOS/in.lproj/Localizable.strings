@@ -1455,7 +1455,7 @@
 "withdrawal_address_tips" = "Untuk penarikan pertama ke alamat baru, harap coba jumlah yang kecil.";
 "withdrawal_failed" = "Withdrawal Failed";
 "withdrawal_hash" = "Withdrawal Hash";
-"withdrawal_labe_placeholder" = "Use a unique label to help you identify this address, such as “Wallet” “Exchange” or a friend’s name.";
+"withdrawal_label_placeholder" = "Use a unique label to help you identify this address, such as “Wallet” “Exchange” or a friend’s name.";
 "withdrawal_memo" = "Memo";
 "withdrawal_minimum_amount" = "Jumlah penarikan minimum adalah %1$@ %2$@";
 "withdrawal_minimum_reserve" = "Minimum reserve: ";

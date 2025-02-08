@@ -1745,7 +1745,7 @@
 	<string name="withdrawal_address_tips">首次提現到新地址，建議小額嘗試！如果您提現到錯誤的地址資產將無法找回！</string>
 	<string name="Withdrawal_Failed">提現失敗</string>
 	<string name="withdrawal_hash">提現哈希</string>
-	<string name="withdrawal_labe_placeholder">使用一個獨特的標籤來幫助您找到這個地址，例如錢包、交易所或者朋友的名稱。</string>
+	<string name="withdrawal_label_placeholder">使用一個獨特的標籤來幫助您找到這個地址，例如錢包、交易所或者朋友的名稱。</string>
 	<string name="withdrawal_memo">Memo（備註）</string>
 	<string name="withdrawal_minimum_amount">提現金額最小 %1$s %2$s</string>
 	<string name="withdrawal_minimum_reserve">最少保留數量：</string>
