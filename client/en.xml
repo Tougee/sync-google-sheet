@@ -2195,7 +2195,7 @@
   <string name="Sell_token" platform="android,iOS">Sell %1$s</string>
   <string name="memo_placeholder" platform="android,iOS">Enter the Memo. If there isn’t one, just tap “Next”.</string>
   <string name="tag_placeholder" platform="android,iOS">Enter the Tag. If there isn’t one, just tap “Next”.</string>
-  <string name="withdrawal_labe_placeholder" platform="android, iOS">Use a unique label to help you identify this address, such as “Wallet” “Exchange” or a friend’s name.</string>
+  <string name="withdrawal_label_placeholder" platform="android, iOS">Use a unique label to help you identify this address, such as “Wallet” “Exchange” or a friend’s name.</string>
   <string name="add_a_note" platform="android, iOS">Add a note</string>
   <string name="optional_note" platform="android, iOS">Note (Optional)</string>
   <string name="Edit_Note" platform="android, iOS">Edit Note</string>

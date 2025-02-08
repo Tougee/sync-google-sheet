@@ -2167,7 +2167,7 @@
   <string name="Sell_token" platform="android,iOS">賣出 %1$s</string>
   <string name="memo_placeholder" platform="android,iOS">輸入地址備註（Memo），如果沒有直接點下一步。</string>
   <string name="tag_placeholder" platform="android,iOS">輸入數字地址標籤（Tag），如果沒有直接點下一步。</string>
-  <string name="withdrawal_labe_placeholder" platform="android, iOS">使用一個獨特的標籤來幫助您找到這個地址，例如錢包、交易所或者朋友的名稱。</string>
+  <string name="withdrawal_label_placeholder" platform="android, iOS">使用一個獨特的標籤來幫助您找到這個地址，例如錢包、交易所或者朋友的名稱。</string>
   <string name="add_a_note" platform="android, iOS">新增轉賬備註</string>
   <string name="optional_note" platform="android, iOS">轉賬備註（可選）</string>
   <string name="Edit_Note" platform="android, iOS">修改轉賬備註</string>
