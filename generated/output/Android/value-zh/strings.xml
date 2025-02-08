@@ -25,6 +25,7 @@
 	<string name="Account">账号</string>
 	<string name="Accounts">账户</string>
 	<string name="Add">添加</string>
+	<string name="add_a_note">添加转账备注</string>
 	<string name="Add_address">添加地址</string>
 	<string name="Add_Alert">添加价格预警</string>
 	<string name="Add_bot">添加机器人</string>
@@ -36,7 +37,6 @@
 	<string name="add_credit_or_debit_card">添加信用卡或借记卡</string>
 	<string name="Add_emergency_contact">添加恢复联系人</string>
 	<string name="Add_group_description">添加群公告</string>
-	<string name="Add_memo">点击添加 Memo（备注）</string>
 	<string name="Add_Mobile_Number">添加手机号码</string>
 	<string name="add_or_remove_favorite_bots">添加或删除收藏的机器人</string>
 	<string name="Add_participants">添加成员</string>
@@ -191,6 +191,7 @@
 	<string name="Authorizations">授权</string>
 	<string name="auto_download_hint">媒体自动下载设定，所有语音消息将自动下载。</string>
 	<string name="Auto_Lock">自动锁定</string>
+	<string name="available_balance">可用余额：%1$s</string>
 	<string name="Back_To_Chat">返回聊天</string>
 	<string name="back_to_merchant">返回商家</string>
 	<string name="Backed_up">已备份</string>
@@ -493,6 +494,7 @@
 	<string name="Delete_for_me">删除</string>
 	<string name="Delete_Group">删除群组</string>
 	<string name="Delete_my_account">删除账号</string>
+	<string name="Delete_Note">删除转账备注</string>
 	<string name="Delete_Synced_Contact">删除已同步的通讯录</string>
 	<string name="Delete_withdraw_Address">删除 %1$s 地址</string>
 	<string name="Deleting_Address">正在删除地址</string>
@@ -566,6 +568,7 @@
 	<string name="Edit_Group_Description">编辑群公告</string>
 	<string name="Edit_group_name">编辑名称</string>
 	<string name="Edit_Name">修改昵称</string>
+	<string name="Edit_Note">修改转账备注</string>
 	<string name="Editing_Address">正在修改地址</string>
 	<string name="Editing_Address_Failed">修改地址失败</string>
 	<string name="Emergency_Contact">恢复联系人</string>
@@ -749,7 +752,7 @@
 	<string name="Hidden_Assets">隐藏的资产</string>
 	<string name="Hide">隐藏</string>
 	<string name="high_24h">24 小时最高</string>
-	<string name="hint_address">输入钱包地址</string>
+	<string name="hint_address">输入钱包地址、交易所地址</string>
 	<string name="hold_to_record_audio">长按说话，松手发送</string>
 	<plurals name="Hour" tools:ignore="UnusedQuantity">
 		<item quantity="one">%d 小时</item>
@@ -867,6 +870,7 @@
 	<string name="max_favorite_bots_description">最多可以添加 5 个喜欢的机器人，注意其他人可以在你的个人信息弹窗里查看这些你喜欢的机器人。</string>
 	<string name="Media">媒体</string>
 	<string name="Memo">备注</string>
+	<string name="memo_placeholder">输入地址备注（Memo），如果没有直接点下一步。</string>
 	<string name="message">消息</string>
 	<string name="message_e2ee">此对话中的消息使用端对端加密。点击了解更多。</string>
 	<string name="Message_not_found">找不到该消息</string>
@@ -1024,6 +1028,7 @@
 	<string name="Opening_Balance">期初余额</string>
 	<string name="Operator">运营商</string>
 	<string name="Opponents">收发人</string>
+	<string name="optional_note">转账备注（可选）</string>
 	<string name="or">或者</string>
 	<string name="order_confirm">订单确认</string>
 	<string name="Order_Details">订单详情</string>
@@ -1277,9 +1282,10 @@
 	<string name="Send_This_Location">发送这个位置</string>
 	<string name="send_to">发送给 %1$s</string>
 	<string name="send_to_address">转出到地址</string>
-	<string name="send_to_address_description">转出加密货币到钱包或交易所</string>
+	<string name="send_to_address_description">使用加密货币网络转到已保存的链上地址</string>
 	<string name="Send_to_Contact">转出到联系人</string>
-	<string name="Send_to_Contact_description">转出加密货币到 Mixin 联系人</string>
+	<string name="Send_to_Contact_description">使用 Mixin 网络转到我的 Mixin 联系人</string>
+	<string name="Send_to_web3_wallet_description">使用加密货币网络转到我的 %1$s 账户</string>
 	<string name="Send_transfer">转出</string>
 	<string name="send_without_compression">发送原始文件</string>
 	<string name="Send_Without_Sound">静音发送</string>
@@ -1462,6 +1468,7 @@
 	<string name="System_options">管理通知</string>
 	<string name="System_version">系统版本</string>
 	<string name="Tag">Tag（标签）</string>
+	<string name="tag_placeholder">输入数字地址标签（Tag），如果没有直接点下一步。</string>
 	<string name="take_a_photo">拍摄照片</string>
 	<string name="Tap_to_join">点击加入</string>
 	<string name="Terms_of_Service">服务条款</string>
@@ -1738,7 +1745,7 @@
 	<string name="withdrawal_address_tips">首次提现到新地址，建议小额尝试！如果您提现到错误的地址资产将无法找回！</string>
 	<string name="Withdrawal_Failed">提现失败</string>
 	<string name="withdrawal_hash">提现哈希</string>
-	<string name="withdrawal_label">地址名称，例如 OceanOne</string>
+	<string name="withdrawal_labe_placeholder">使用一个独特的标签来帮助您找到这个地址，例如钱包、交易所或者朋友的名称。</string>
 	<string name="withdrawal_memo">Memo（备注）</string>
 	<string name="withdrawal_minimum_amount">提现金额最小 %1$s %2$s</string>
 	<string name="withdrawal_minimum_reserve">最少保留数量：</string>

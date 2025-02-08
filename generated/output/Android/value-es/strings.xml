@@ -28,7 +28,6 @@
 	<string name="Add_Contact">Añadir contacto</string>
 	<string name="Add_conversations">Añadir conversaciones</string>
 	<string name="Add_group_description">Añadir descripción del grupo</string>
-	<string name="Add_memo">Añadir nota</string>
 	<string name="Add_participants">Añadir participantes</string>
 	<string name="Add_people_hint">Añadir personas por ID de Mixin o número de teléfono</string>
 	<string name="add_people_search_hint">ID de Mixin o Número de teléfono</string>
@@ -1084,7 +1083,6 @@
 	<string name="withdrawal_addr_pin_delete">Introduce el PIN para eliminar la dirección</string>
 	<string name="withdrawal_addr_pin_modify">Introduce el PIN para modificar la dirección</string>
 	<string name="withdrawal_address_tips">Para el primer retiro a una nueva dirección, ¡prueba con cantidades pequeñas! Si retiras los activos a la dirección incorrecta, ¡no se recuperarán!</string>
-	<string name="withdrawal_label">Etiqueta (por ejemplo, intercambios, carteras, etc.)</string>
 	<string name="withdrawal_memo">Nota</string>
 	<string name="withdrawal_minimum_amount">El importe mínimo de retiro es %1$s %2$s</string>
 	<string name="withdrawal_minimum_reserve">Reserva mínima: </string>

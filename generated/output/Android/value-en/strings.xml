@@ -25,6 +25,7 @@
 	<string name="Account">Account</string>
 	<string name="Accounts">Accounts</string>
 	<string name="Add">Add</string>
+	<string name="add_a_note">Add a note</string>
 	<string name="Add_address">Add address</string>
 	<string name="Add_Alert">Add Alert</string>
 	<string name="Add_bot">Add Bot</string>
@@ -36,7 +37,6 @@
 	<string name="add_credit_or_debit_card">Add credit or debit card</string>
 	<string name="Add_emergency_contact">Add recovery contact</string>
 	<string name="Add_group_description">Add group description</string>
-	<string name="Add_memo">Add Memo</string>
 	<string name="Add_Mobile_Number">Add Mobile Number</string>
 	<string name="add_or_remove_favorite_bots">Add or remove favorite bots</string>
 	<string name="Add_participants">Add Participants</string>
@@ -192,6 +192,7 @@
 	<string name="Authorizations">Authorizations</string>
 	<string name="auto_download_hint">Change auto-download settings for medias. Voice messages are always automatically downloaded.</string>
 	<string name="Auto_Lock">Auto-Lock</string>
+	<string name="available_balance">Available: %1$s</string>
 	<string name="avatar_transition_name">avatar_transition_name</string>
 	<string name="Back_To_Chat">Back To Chat</string>
 	<string name="back_to_merchant">Back to Merchant</string>
@@ -501,6 +502,7 @@
 	<string name="Delete_for_me">Delete for me</string>
 	<string name="Delete_Group">Delete Group</string>
 	<string name="Delete_my_account">Delete My Account</string>
+	<string name="Delete_Note">Delete Note</string>
 	<string name="Delete_Synced_Contact">Delete Synced Contacts</string>
 	<string name="Delete_withdraw_Address">Delete %1$s Address</string>
 	<string name="Deleting_Address">Delete Address</string>
@@ -575,6 +577,7 @@
 	<string name="Edit_Group_Description">Edit Group Description</string>
 	<string name="Edit_group_name">Edit Group Name</string>
 	<string name="Edit_Name">Edit Name</string>
+	<string name="Edit_Note">Edit Note</string>
 	<string name="Editing_Address">Editing Address</string>
 	<string name="Editing_Address_Failed">Editing Address Failed</string>
 	<string name="Emergency_Contact">Recovery Contact</string>
@@ -761,7 +764,7 @@
 	<string name="Hidden_Assets">Hidden Assets</string>
 	<string name="Hide">Hide</string>
 	<string name="high_24h">24H HIGH</string>
-	<string name="hint_address">Enter a wallet address</string>
+	<string name="hint_address">Enter a wallet address, exchange address.</string>
 	<string name="hold_to_record_audio">Hold to record, release to send.</string>
 	<plurals name="Hour">
 		<item quantity="one">%d Hour</item>
@@ -884,6 +887,7 @@
 	<string name="max_favorite_bots_description">You can add a maximum of 5 favorite bots. Please be aware that others can view these bots on your profile.</string>
 	<string name="Media">Media</string>
 	<string name="Memo">Memo</string>
+	<string name="memo_placeholder">Enter the Memo. If there isn’t one, just tap “Next”.</string>
 	<string name="message">message</string>
 	<string name="message_e2ee">Messages to this conversation are end-to-end encrypted, tap for more info.</string>
 	<string name="Message_not_found">Message not found</string>
@@ -1042,6 +1046,7 @@
 	<string name="Opening_Balance">Opening Balance</string>
 	<string name="Operator">Operator</string>
 	<string name="Opponents">Opponents</string>
+	<string name="optional_note">Note (Optional)</string>
 	<string name="or">or</string>
 	<string name="order_confirm">Order Confirm</string>
 	<string name="Order_Details">Order Details</string>
@@ -1297,9 +1302,10 @@
 	<string name="Send_This_Location">Send This Location</string>
 	<string name="send_to">Send to %1$s</string>
 	<string name="send_to_address">Send to Address</string>
-	<string name="send_to_address_description">Send crypto to a wallet or exchange</string>
+	<string name="send_to_address_description">Send to a known crypto address using a crypto network.</string>
 	<string name="Send_to_Contact">Send to Contact</string>
-	<string name="Send_to_Contact_description">Send crypto to Mixin contact</string>
+	<string name="Send_to_Contact_description">Send to my Mixin contact using the Mixin Network.</string>
+	<string name="Send_to_web3_wallet_description">Send to my %1$s account using crypto network.</string>
 	<string name="Send_transfer">Send</string>
 	<string name="send_without_compression">Send without compression</string>
 	<string name="Send_Without_Sound">Send Without Sound</string>
@@ -1483,6 +1489,7 @@
 	<string name="System_options">System options</string>
 	<string name="System_version">System version</string>
 	<string name="Tag">Tag</string>
+	<string name="tag_placeholder">Enter the Tag. If there isn’t one, just tap “Next”.</string>
 	<string name="take_a_photo">Take a photo</string>
 	<string name="Tap_to_join">Tap to join</string>
 	<string name="Terms_of_Service">Terms of Service</string>
@@ -1762,7 +1769,7 @@
 	<string name="withdrawal_address_tips">For the first withdrawal to a new address, please try small amounts! If you withdraw the assets to the wrong address, that would not be recovered!</string>
 	<string name="Withdrawal_Failed">Withdrawal Failed</string>
 	<string name="withdrawal_hash">Withdrawal Hash</string>
-	<string name="withdrawal_label">Label (e.g. exchanges, wallets, etc.)</string>
+	<string name="withdrawal_labe_placeholder">Use a unique label to help you identify this address, such as “Wallet” “Exchange” or a friend’s name.</string>
 	<string name="withdrawal_memo">Memo</string>
 	<string name="withdrawal_minimum_amount">Minimum withdraw amount is %1$s %2$s</string>
 	<string name="withdrawal_minimum_reserve">Minimum reserve: </string>
