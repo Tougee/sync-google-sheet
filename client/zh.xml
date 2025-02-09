@@ -1315,7 +1315,6 @@
   <string name="send_to" platform="android, iOS">发送给 %1$s</string>
   <string name="send_to_address" platform="android, iOS">转出到地址</string>
   <string name="send_to_address_description" platform="android, iOS">通过区块链网络转给已知地址</string>
-  <string name="Send_to_Contact" platform="android, iOS">转出到联系人</string>
   <string name="Send_to_Contact_description" platform="android, iOS">通过 Mixin 网络转给我的 Mixin 联系人</string>
   <string name="Send_to_web3_wallet_description" platform="android, iOS">通过区块链网络转给我的 %1$s 账户</string>
   <string name="Send_to_Developer" platform="iOS, Desktop">把日志发给开发者</string>
@@ -2173,4 +2172,6 @@
   <string name="Edit_Note" platform="android, iOS">修改转账备注</string>
   <string name="Delete_Note" platform="android, iOS">删除转账备注</string>
   <string name="available_balance" platform="android, iOS">可用余额：%1$s</string>
+  <string name="Mixin_Contact" platform="android, iOS">Mixin 联系人</string>
+  <string name="Address_Book" platform="android, iOS">地址簿</string>
 </resources>

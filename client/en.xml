@@ -1334,7 +1334,6 @@
   <string name="send_to" platform="android, iOS">Send to %1$s</string>
   <string name="send_to_address" platform="android, iOS">Send to Address</string>
   <string name="send_to_address_description" platform="android, iOS">Send to a known crypto address using a crypto network.</string>
-  <string name="Send_to_Contact" platform="android, iOS">Send to Contact</string>
   <string name="Send_to_Contact_description" platform="android, iOS">Send to my Mixin contact using the Mixin Network.</string>
   <string name="Send_to_web3_wallet_description" platform="android, iOS">Send to my %1$s account using crypto network.</string>
   <string name="Send_to_Developer" platform="iOS, Desktop">Send to Developer</string>
@@ -2201,4 +2200,6 @@
   <string name="Edit_Note" platform="android, iOS">Edit Note</string>
   <string name="Delete_Note" platform="android, iOS">Delete Note</string>
   <string name="available_balance" platform="android, iOS">Available: %1$s</string>
+  <string name="Mixin_Contact" platform="android, iOS">Mixin Contact</string>
+  <string name="Address_Book" platform="android, iOS">Address Book</string>
 </resources>
