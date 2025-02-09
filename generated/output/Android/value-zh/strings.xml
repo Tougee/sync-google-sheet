@@ -1282,10 +1282,10 @@
 	<string name="Send_This_Location">发送这个位置</string>
 	<string name="send_to">发送给 %1$s</string>
 	<string name="send_to_address">转出到地址</string>
-	<string name="send_to_address_description">使用加密货币网络转到已保存的链上地址</string>
+	<string name="send_to_address_description">通过区块链网络转给已知地址</string>
 	<string name="Send_to_Contact">转出到联系人</string>
-	<string name="Send_to_Contact_description">使用 Mixin 网络转到我的 Mixin 联系人</string>
-	<string name="Send_to_web3_wallet_description">使用加密货币网络转到我的 %1$s 账户</string>
+	<string name="Send_to_Contact_description">通过 Mixin 网络转给我的 Mixin 联系人</string>
+	<string name="Send_to_web3_wallet_description">通过区块链网络转给我的 %1$s 账户</string>
 	<string name="Send_transfer">转出</string>
 	<string name="send_without_compression">发送原始文件</string>
 	<string name="Send_Without_Sound">静音发送</string>

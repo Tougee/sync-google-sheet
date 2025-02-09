@@ -1097,12 +1097,12 @@
 "send_this_location" = "發送這個位置";
 "send_to" = "發送給 %@";
 "send_to_address" = "轉出到地址";
-"send_to_address_description" = "使用加密貨幣網絡轉到已保存的鏈上地址";
+"send_to_address_description" = "通過區塊鏈網絡轉給已知地址";
 "send_to_contact" = "轉出到聯繫人";
-"send_to_contact_description" = "使用 Mixin 網絡轉到我的 Mixin 聯繫人";
+"send_to_contact_description" = "通過 Mixin 網絡轉給我的 Mixin 聯繫人";
 "send_to_developer" = "把日誌發給開發者";
 "send_to_title" = "轉給";
-"send_to_web3_wallet_description" = "使用加密貨幣網絡轉到我的 %@ 賬户";
+"send_to_web3_wallet_description" = "通過區塊鏈網絡轉給我的 %@ 賬户";
 "send_video" = "發送 1 個視頻";
 "send_video_count" = "發送 %d 個視頻";
 "send_without_sound" = "靜音發送";
