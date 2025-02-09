@@ -1314,10 +1314,10 @@
   <string name="Send_This_Location" platform="android, iOS">发送这个位置</string>
   <string name="send_to" platform="android, iOS">发送给 %1$s</string>
   <string name="send_to_address" platform="android, iOS">转出到地址</string>
-  <string name="send_to_address_description" platform="android, iOS">使用加密货币网络转到已保存的链上地址</string>
+  <string name="send_to_address_description" platform="android, iOS">通过区块链网络转给已知地址</string>
   <string name="Send_to_Contact" platform="android, iOS">转出到联系人</string>
-  <string name="Send_to_Contact_description" platform="android, iOS">使用 Mixin 网络转到我的 Mixin 联系人</string>
-  <string name="Send_to_web3_wallet_description" platform="android, iOS">使用加密货币网络转到我的 %1$s 账户</string>
+  <string name="Send_to_Contact_description" platform="android, iOS">通过 Mixin 网络转给我的 Mixin 联系人</string>
+  <string name="Send_to_web3_wallet_description" platform="android, iOS">通过区块链网络转给我的 %1$s 账户</string>
   <string name="Send_to_Developer" platform="iOS, Desktop">把日志发给开发者</string>
   <string name="Send_To_Title" platform="iOS">转给</string>
   <string name="Send_transfer" platform="android">转出</string>
