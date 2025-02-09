@@ -69,6 +69,7 @@
 	<string name="address_added">Address Added</string>
 	<string name="address_added_description">Address has been added. You can immediately use this address for withdrawals.</string>
 	<string name="address_adding_description">The request to add the address is currently under verification by the Mixin server. Please wait a moment.</string>
+	<string name="Address_Book">Address Book</string>
 	<string name="address_deleted">Address Deleted</string>
 	<string name="address_deleted_description">Address deleted.</string>
 	<string name="address_deleting_description">The request to deleting the address is currently under verification by the Mixin server. Please wait a moment.</string>
@@ -907,6 +908,7 @@
 		<item quantity="other">%d Minutes</item>
 	</plurals>
 	<string name="Mixin">Mixin</string>
+	<string name="Mixin_Contact">Mixin Contact</string>
 	<string name="Mixin_ID">Mixin ID</string>
 	<string name="Mixin_Locked">Mixin Locked</string>
 	<string name="Mixin_Messenger_Desktop">Mixin Messenger Desktop</string>
@@ -1303,7 +1305,6 @@
 	<string name="send_to">Send to %1$s</string>
 	<string name="send_to_address">Send to Address</string>
 	<string name="send_to_address_description">Send to a known crypto address using a crypto network.</string>
-	<string name="Send_to_Contact">Send to Contact</string>
 	<string name="Send_to_Contact_description">Send to my Mixin contact using the Mixin Network.</string>
 	<string name="Send_to_web3_wallet_description">Send to my %1$s account using crypto network.</string>
 	<string name="Send_transfer">Send</string>
