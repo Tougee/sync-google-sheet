@@ -1098,7 +1098,6 @@
 "send_photo_count" = "Отправить %d фото";
 "send_this_location" = "Отправить это местоположение";
 "send_to" = "Отправить в %@";
-"send_to_address" = "Send to Address";
 "send_to_address_description" = "Send to a known crypto address using a crypto network.";
 "send_to_contact_description" = "Send to my Mixin contact using the Mixin Network.";
 "send_to_developer" = "Отправить разработчику";

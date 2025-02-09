@@ -1098,7 +1098,6 @@
 "send_photo_count" = "发送 %d 张图片";
 "send_this_location" = "发送这个位置";
 "send_to" = "发送给 %@";
-"send_to_address" = "转出到地址";
 "send_to_address_description" = "通过区块链网络转给已知地址";
 "send_to_contact_description" = "通过 Mixin 网络转给我的 Mixin 联系人";
 "send_to_developer" = "把日志发给开发者";

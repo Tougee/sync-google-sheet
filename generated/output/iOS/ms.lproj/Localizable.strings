@@ -1098,7 +1098,6 @@
 "send_photo_count" = "Send %d Photos";
 "send_this_location" = "Hantar Lokasi Ini";
 "send_to" = "Hantar ke %@";
-"send_to_address" = "Send to Address";
 "send_to_address_description" = "Send to a known crypto address using a crypto network.";
 "send_to_contact_description" = "Send to my Mixin contact using the Mixin Network.";
 "send_to_developer" = "Send to Developer";
