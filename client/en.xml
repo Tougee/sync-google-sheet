@@ -1839,7 +1839,6 @@
   <string name="From_Mixin_Wallet" platform="android, iOS">From Mixin Wallet</string>
   <string name="From_Address" platform="android, iOS">From address</string>
   <string name="receive_from_address_description" platform="android, iOS">From another wallet or exchange</string>
-  <string name="insufficient_gas" platform="android, iOS">You do not have enough %1$s in your account to pay for network fees</string>
   <string name="Review" platform="android, iOS">Review</string>
   <string name="Max" platform="android, iOS">Max</string>
   <string name="hint_address" platform="android, iOS">Enter a wallet address, exchange address.</string>
@@ -2201,4 +2200,5 @@
   <string name="available_balance" platform="android, iOS">Available: %1$s</string>
   <string name="Mixin_Contact" platform="android, iOS">Mixin Contact</string>
   <string name="Address_Book" platform="android, iOS">Address Book</string>
+  <string name="insufficient_fee_description" platform="android, iOS">You need %1$s on the %2$s network to cover the network fee</string>
 </resources>
