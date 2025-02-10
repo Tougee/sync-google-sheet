@@ -774,7 +774,7 @@
 	<string name="Initializing">初始化…</string>
 	<string name="install_messenger_desc">訪問 mixin.one/mm 或掃描二維碼安裝</string>
 	<string name="insufficient_balance">餘額不足</string>
-	<string name="insufficient_gas">您的賬戶中沒有足夠的 %1$s 來支付網路費用</string>
+	<string name="insufficient_fee_description">需要 %1$s 以支付 %2$s 網路費用</string>
 	<string name="Introduction">介紹</string>
 	<string name="Invalid_Address">無效的地址</string>
 	<string name="Invalid_Link">無效連結</string>

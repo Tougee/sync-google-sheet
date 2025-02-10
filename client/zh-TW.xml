@@ -1812,7 +1812,6 @@
   <string name="From_Mixin_Wallet" platform="android, iOS">從 Mixin 錢包轉入</string>
   <string name="From_Address" platform="android, iOS">從外部轉入</string>
   <string name="receive_from_address_description" platform="android, iOS">從其他錢包或交易所轉入</string>
-  <string name="insufficient_gas" platform="android, iOS">您的賬戶中沒有足夠的 %1$s 來支付網路費用</string>
   <string name="Review" platform="android, iOS">預覽</string>
   <string name="Max" platform="android, iOS">最大值</string>
   <string name="hint_address" platform="android, iOS">輸入錢包地址、交易所地址</string>
@@ -2173,4 +2172,5 @@
   <string name="available_balance" platform="android, iOS">可用餘額：%1$s</string>
   <string name="Mixin_Contact" platform="android, iOS">Mixin 聯絡人</string>
   <string name="Address_Book" platform="android, iOS">地址簿</string>
+  <string name="insufficient_fee_description" platform="android, iOS">需要 %1$s 以支付 %2$s 網路費用</string>
 </resources>

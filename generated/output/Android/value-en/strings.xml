@@ -786,7 +786,7 @@
 	<string name="Initializing">Initializing…</string>
 	<string name="install_messenger_desc">Visit mixin.one/mm or scan the QR code to install</string>
 	<string name="insufficient_balance">Insufficient balance</string>
-	<string name="insufficient_gas">You do not have enough %1$s in your account to pay for network fees</string>
+	<string name="insufficient_fee_description">You need %1$s on the %2$s network to cover the network fee</string>
 	<string name="Introduction">Introduction</string>
 	<string name="Invalid_Address">Invalid Address</string>
 	<string name="Invalid_Link">Invalid Link</string>
