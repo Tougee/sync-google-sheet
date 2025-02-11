@@ -1489,7 +1489,7 @@
 	<string name="System_options">System options</string>
 	<string name="System_version">System version</string>
 	<string name="Tag">Tag</string>
-	<string name="tag_placeholder">Enter the Tag. If there isn’t one, just tap “Next”.</string>
+	<string name="tag_placeholder">Enter the Tag. If there isn’t one, enter any non-zero number.</string>
 	<string name="take_a_photo">Take a photo</string>
 	<string name="Tap_to_join">Tap to join</string>
 	<string name="Terms_of_Service">Terms of Service</string>

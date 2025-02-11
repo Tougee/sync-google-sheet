@@ -1468,7 +1468,7 @@
 	<string name="System_options">管理通知</string>
 	<string name="System_version">系統版本</string>
 	<string name="Tag">Tag（標籤）</string>
-	<string name="tag_placeholder">輸入數字地址標籤（Tag），如果沒有直接點下一步。</string>
+	<string name="tag_placeholder">輸入數字地址標籤（Tag），如果沒有請輸入任意非 0 數字。</string>
 	<string name="take_a_photo">拍攝照片</string>
 	<string name="Tap_to_join">點選加入</string>
 	<string name="Terms_of_Service">服務條款</string>
