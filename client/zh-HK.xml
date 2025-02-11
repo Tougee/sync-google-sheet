@@ -2173,4 +2173,5 @@
   <string name="Mixin_Contact" platform="android, iOS">Mixin 聯繫人</string>
   <string name="Address_Book" platform="android, iOS">地址簿</string>
   <string name="insufficient_fee_description" platform="android, iOS">需要 %1$s 以支付 %2$s 網絡費用</string>
+  <string name="invalid_tag_description" platform="android, iOS">地址標籤（Tag）必須為非 0 的數字</string>
 </resources>

@@ -794,6 +794,7 @@
 	<string name="Invalid_payment_link">Invalid payment link</string>
 	<string name="Invalid_QR_Code">Invalid QR-Code</string>
 	<string name="Invalid_sticker_format">Invalid sticker format</string>
+	<string name="invalid_tag_description">Tag must be a non-zero number</string>
 	<string name="Invite_a_Friend">Invite a Friend</string>
 	<string name="invite_info">Anyone with Mixin can follow this link to join this group. Only share it with people you trust.</string>
 	<string name="Invite_people">Invite People</string>
