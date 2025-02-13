@@ -896,6 +896,7 @@
 	<string name="Mixin_Locked">Mixin 已鎖定</string>
 	<string name="Mixin_Messenger_Desktop">Mixin Messenger 桌面</string>
 	<string name="Mixin_Support">Mixin 客服</string>
+	<string name="Mixin_Wallet">Mixin 錢包</string>
 	<string name="Mnemonic_Phrase">助記詞</string>
 	<string name="Mnemonic_Phrase_instruction">你可以通過助記詞登錄你的賬號，當前助記詞已關聯到 MPC 錢包的密鑰分片，完整的密鑰只存在當前設備的 TEE 安全環境中，閲讀文檔以瞭解%1$s。</string>
 	<string name="mnemonic_phrase_instruction_1">創建賬號生成的 13 個助記詞僅用於 Mixin Network 相關產品。</string>
