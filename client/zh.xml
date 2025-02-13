@@ -2174,4 +2174,5 @@
   <string name="Address_Book" platform="android, iOS">地址簿</string>
   <string name="insufficient_fee_description" platform="android, iOS">需要 %1$s 以支付 %2$s 网络费用</string>
   <string name="invalid_tag_description" platform="android, iOS">地址标签（Tag）必须为非 0 的数字</string>
+  <string name="Mixin_Wallet" platform="android, iOS">Mixin 钱包</string>
 </resources>

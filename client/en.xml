@@ -2202,4 +2202,5 @@
   <string name="Address_Book" platform="android, iOS">Address Book</string>
   <string name="insufficient_fee_description" platform="android, iOS">You need %1$s on the %2$s network to cover the network fee</string>
   <string name="invalid_tag_description" platform="android, iOS">Tag must be a non-zero number</string>
+  <string name="Mixin_Wallet" platform="android, iOS">Mixin Wallet</string>
 </resources>
