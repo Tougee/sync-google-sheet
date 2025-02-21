@@ -2203,4 +2203,7 @@
   <string name="insufficient_fee_description" platform="android, iOS">You need %1$s on the %2$s network to cover the network fee</string>
   <string name="invalid_tag_description" platform="android, iOS">Tag must be a non-zero number</string>
   <string name="Mixin_Wallet" platform="android, iOS">Mixin Wallet</string>
+  <string name="Total_assets" platform="android, iOS">Total assets</string>
+  <string name="Privacy_Wallet" platform="android, iOS">Privacy Wallet</string>
+  <string name="Classic_Wallet" platform="android, iOS">Classic Wallet</string>
 </resources>
