@@ -355,6 +355,7 @@
 	<string name="circle_title">%1$s的圈子</string>
 	<string name="Circles">圈子</string>
 	<string name="Circulation_Supply">流通量</string>
+	<string name="Classic_Wallet">經典錢包</string>
 	<string name="Clear">清理</string>
 	<string name="Clear_chat">清除聊天記錄</string>
 	<string name="Clearing">正在清理…</string>
@@ -1115,6 +1116,7 @@
 	<string name="price_too_less">設定價格需大於現價的 %1$s</string>
 	<string name="Privacy">隱私</string>
 	<string name="Privacy_Policy">隱私政策</string>
+	<string name="Privacy_Wallet">隱私錢包</string>
 	<string name="Process_can_not_be_stop">流程一旦開始無法取消，請牢記 6 位數字 PIN，意外中止流程需要再次輸入</string>
 	<string name="processing">處理中</string>
 	<string name="profile_modify_number">你想要修改手機號碼麼？</string>
@@ -1498,6 +1500,7 @@
 	<string name="top_count">前 %1$d</string>
 	<string name="total">共計</string>
 	<string name="Total_Amount">總金額</string>
+	<string name="Total_assets">資產合計</string>
 	<string name="Total_Supply">總量</string>
 	<string name="Touch_the_fingerprint_sensor">觸摸指紋傳感器</string>
 	<string name="Transaction">交易詳情</string>

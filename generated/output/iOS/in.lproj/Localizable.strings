@@ -283,6 +283,7 @@
 "circle_title" = "Lingkaran %@";
 "circles" = "Lingkaran";
 "circulation_supply" = "Circulation Supply";
+"classic_wallet" = "Classic Wallet";
 "clear" = "Bersihkan";
 "clear_cache" = "Clear Cache";
 "clear_chat" = "Bersihkan Obrolan";
@@ -949,6 +950,7 @@
 "price_too_less" = "The set price must be greater than %@ of the current price";
 "privacy" = "Privasi";
 "privacy_policy" = "Kebijakan Privasi";
+"privacy_wallet" = "Privacy Wallet";
 "process_can_not_be_stop" = "The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.";
 "profile" = "Profile";
 "profile_photo" = "Foto Profil";
@@ -1268,6 +1270,7 @@
 "top_count" = "Top %d";
 "total" = "Total";
 "total_amount" = "Total Amount";
+"total_assets" = "Total assets";
 "total_supply" = "Total Supply";
 "touch_id" = "Touch ID";
 "track_not_found" = "Track not found";

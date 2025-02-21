@@ -360,6 +360,7 @@
 	<string name="circle_title">%1$s\'s Circles</string>
 	<string name="Circles">Circles</string>
 	<string name="Circulation_Supply">Circulation Supply</string>
+	<string name="Classic_Wallet">Classic Wallet</string>
 	<string name="Clear">Clear</string>
 	<string name="Clear_chat">Clear Chat</string>
 	<string name="Clearing">Clearing…</string>
@@ -1133,6 +1134,7 @@
 	<string name="price_too_less">The set price must be greater than %1$s of the current price</string>
 	<string name="Privacy">Privacy</string>
 	<string name="Privacy_Policy">Privacy Policy</string>
+	<string name="Privacy_Wallet">Privacy Wallet</string>
 	<string name="Process_can_not_be_stop">The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.</string>
 	<string name="processing">Processing</string>
 	<string name="profile_modify_number">Do you want to change your phone number?</string>
@@ -1519,6 +1521,7 @@
 	<string name="top_count">Top %1$d</string>
 	<string name="total">Total</string>
 	<string name="Total_Amount">Total Amount</string>
+	<string name="Total_assets">Total assets</string>
 	<string name="Total_Supply">Total Supply</string>
 	<string name="Touch_the_fingerprint_sensor">Touch the fingerprint sensor</string>
 	<string name="Trace">Trace</string>

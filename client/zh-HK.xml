@@ -2175,4 +2175,7 @@
   <string name="insufficient_fee_description" platform="android, iOS">需要 %1$s 以支付 %2$s 網絡費用</string>
   <string name="invalid_tag_description" platform="android, iOS">地址標籤（Tag）必須為非 0 的數字</string>
   <string name="Mixin_Wallet" platform="android, iOS">Mixin 錢包</string>
+  <string name="Total_assets" platform="android, iOS">資產合計</string>
+  <string name="Privacy_Wallet" platform="android, iOS">隱私錢包</string>
+  <string name="Classic_Wallet" platform="android, iOS">經典錢包</string>
 </resources>
