@@ -1590,7 +1590,7 @@
   <string name="Update" platform="android, iOS">Update</string>
   <string name="update_downloaded" platform="android">An update has just been downloaded.</string>
   <string name="Update_Mixin" platform="android, iOS, Desktop">Update Mixin</string>
-  <string name="update_mixin_description" platform="android, Desktop">The current version (%1$s) is no longer available!\nPlease click "Update" below to update to the latest version from the Google Play.</string>
+  <string name="update_mixin_description" platform="android, Desktop">The current version (%1$s) is no longer available!\nPlease click "Update" below to update to the latest version.</string>
   <string name="Upgrade" platform="android,iOS, Desktop">Upgrade</string>
   <string name="Upgrade_Database" platform="android, iOS">Upgrade Database</string>
   <string name="Upgrade_need_verify_your_PIN" platform="android">The upgrade requires verifying your PIN.</string>
