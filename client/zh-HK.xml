@@ -1569,7 +1569,7 @@
   <string name="Update" platform="android, iOS">升級</string>
   <string name="update_downloaded" platform="android">一個更新剛下載完成。</string>
   <string name="Update_Mixin" platform="android, iOS, Desktop">升級 Mixin</string>
-  <string name="update_mixin_description" platform="android, Desktop">當前版本（%1$s）不再可用!\n請點擊下面的“更新”按鈕從應用商店更新到最新版本。</string>
+  <string name="update_mixin_description" platform="android, Desktop">當前版本（%1$s）不再可用!\n請點擊下面的“更新”按鈕以更新到最新版本。</string>
   <string name="Upgrade" platform="android,iOS, Desktop">升級</string>
   <string name="Upgrade_Database" platform="android, iOS">數據庫升級</string>
   <string name="Upgrade_need_verify_your_PIN" platform="android">升級需要驗證你的 PIN</string>

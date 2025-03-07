@@ -458,7 +458,7 @@
 "unpinAllMessagesConfirmation" : "確定取消置頂所有消息麼？",
 "unreadMessages" : "未讀消息",
 "updateMixin" : "升級 Mixin",
-"updateMixinDescription" : "當前版本（{arg0}）不再可用!\n請點擊下面的“更新”按鈕從應用商店更新到最新版本。",
+"updateMixinDescription" : "當前版本（{arg0}）不再可用!\n請點擊下面的“更新”按鈕以更新到最新版本。",
 "upgrade" : "升級",
 "upgrading" : "升級中...",
 "useBiometric" : "使用生物識別",

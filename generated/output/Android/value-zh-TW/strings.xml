@@ -1597,7 +1597,7 @@
 	<string name="Update">升級</string>
 	<string name="update_downloaded">一個更新剛下載完成。</string>
 	<string name="Update_Mixin">升級 Mixin</string>
-	<string name="update_mixin_description">當前版本（%1$s）不再可用!\n請點選下面的“更新”按鈕從應用商店更新到最新版本。</string>
+	<string name="update_mixin_description">當前版本（%1$s）不再可用!\n請點選下面的“更新”按鈕以更新到最新版本。</string>
 	<string name="Update_Now">立即更新</string>
 	<string name="Upgrade">升級</string>
 	<string name="Upgrade_Database">資料庫升級</string>

@@ -1619,7 +1619,7 @@
 	<string name="Update">Update</string>
 	<string name="update_downloaded">An update has just been downloaded.</string>
 	<string name="Update_Mixin">Update Mixin</string>
-	<string name="update_mixin_description">The current version (%1$s) is no longer available!\nPlease click \"Update\" below to update to the latest version from the Google Play.</string>
+	<string name="update_mixin_description">The current version (%1$s) is no longer available!\nPlease click \"Update\" below to update to the latest version.</string>
 	<string name="Update_Now">Update Now</string>
 	<string name="Upgrade">Upgrade</string>
 	<string name="Upgrade_Database">Upgrade Database</string>
