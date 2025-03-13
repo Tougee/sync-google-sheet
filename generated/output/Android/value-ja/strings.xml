@@ -193,7 +193,6 @@
 	<string name="chat_recall_delete_alert">選択したメッセージは、最新版のMixinを使用している全員のチャットから削除されます。</string>
 	<string name="Chat_unpinned">ピン留めを解除</string>
 	<string name="chat_waiting">オンラインで暗号化されたやりとりを開始するまであと%1$s。%2$s</string>
-	<string name="CHATS">チャット</string>
 	<string name="check_trace_failed">記録情報の確認失敗、もう一度お試しください</string>
 	<string name="Checking_link">リンク確認中</string>
 	<string name="Checking_payment_info">支払い情報を確認中</string>

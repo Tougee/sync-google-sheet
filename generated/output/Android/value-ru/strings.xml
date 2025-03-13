@@ -194,7 +194,6 @@
 	<string name="chat_recall_delete_alert">Выбранные вами сообщения будут удалены для всех в последней версии Mixin в этом чате.</string>
 	<string name="Chat_unpinned">Чат откреплен</string>
 	<string name="chat_waiting">Ожидание, пока %1$s подключится к сети и установит зашифрованный сеанс. %2$s.</string>
-	<string name="CHATS">ЧАТЫ</string>
 	<string name="check_trace_failed">Не удалось проверить данные трассировки. Повторите попытку.</string>
 	<string name="Checking_link">Проверка ссылки</string>
 	<string name="Checking_payment_info">Проверка платежной информации</string>

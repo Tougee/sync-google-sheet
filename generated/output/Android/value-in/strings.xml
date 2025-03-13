@@ -126,7 +126,6 @@
 	<string name="chat_not_support_url">https://mixinmessenger.zendesk.com/hc/articles/360043776071</string>
 	<string name="chat_recall_delete_alert">Pesan yang Anda pilih akan dihapus untuk semua orang pada versi Mixin terbaru dalam obrolan ini.</string>
 	<string name="chat_waiting">Menunggu %1$s untuk online dan membuat sesi terenkripsi. %2$s.</string>
-	<string name="CHATS">OBROLAN</string>
 	<string name="check_trace_failed">Gagal memeiksa info jejak, coba lagi</string>
 	<string name="Checking_link">Memeriksa tautan</string>
 	<string name="Checking_payment_info">Memeriksa info pembayaran</string>

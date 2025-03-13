@@ -267,7 +267,6 @@
 "chat_text_size" = "Chat Text Size";
 "chat_waiting" = "オンラインで暗号化されたやりとりを開始するまであと%1$@。%2$@";
 "chats" = "Chats";
-"chats" = "チャット";
 "check_backup" = "Check Backup";
 "check_mnemonic_phrase" = "Check your mnemonic phrase";
 "check_mnemonic_phrase_desc" = "Input each word in the order it was presented to you.";

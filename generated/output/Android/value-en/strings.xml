@@ -334,7 +334,6 @@
 	<string name="chat_waiting">Waiting for %1$s to get online and establish an encrypted session. %2$s.</string>
 	<string name="chat_with_us">Chat with us</string>
 	<string name="chats">Chats</string>
-	<string name="CHATS">CHATS</string>
 	<string name="Chats_Count">1 chat</string>
 	<string name="Chats_Counts">%1$s chats</string>
 	<string name="Check_Backup">Check Backup</string>

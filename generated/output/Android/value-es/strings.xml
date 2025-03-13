@@ -207,7 +207,6 @@
 	<string name="chat_text_size">Tamaño del texto del chat</string>
 	<string name="Chat_unpinned">Chat no fijado</string>
 	<string name="chat_waiting">Esperando a que %1$s se conecte y establezca una sesión cifrada. %2$s.</string>
-	<string name="CHATS">CHATS</string>
 	<string name="check_trace_failed">No se ha podido comprobar la información de seguimiento, inténtalo de nuevo</string>
 	<string name="Checking_link">Comprobando enlace</string>
 	<string name="Checking_payment_info">Comprobación de la información de pago</string>

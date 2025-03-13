@@ -329,7 +329,6 @@
 	<string name="chat_waiting">等待%1$s上線後建立加密會話。%2$s。</string>
 	<string name="chat_with_us">聯繫客服</string>
 	<string name="chats">聊天</string>
-	<string name="CHATS">會話</string>
 	<string name="Chats_Count">1 個聊天</string>
 	<string name="Chats_Counts">%1$s 個聊天</string>
 	<string name="Check_Backup">檢查備份</string>

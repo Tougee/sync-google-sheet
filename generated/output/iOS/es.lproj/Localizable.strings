@@ -267,7 +267,6 @@
 "chat_text_size" = "Tamaño del texto del chat";
 "chat_waiting" = "Esperando a que %1$@ se conecte y establezca una sesión cifrada. %2$@.";
 "chats" = "Chats";
-"chats" = "CHATS";
 "check_backup" = "Check Backup";
 "check_mnemonic_phrase" = "Check your mnemonic phrase";
 "check_mnemonic_phrase_desc" = "Input each word in the order it was presented to you.";

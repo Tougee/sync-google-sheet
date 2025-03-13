@@ -267,7 +267,6 @@
 "chat_text_size" = "聊天字体大小";
 "chat_waiting" = "等待%1$@上线后建立加密会话。%2$@。";
 "chats" = "聊天";
-"chats" = "会话";
 "check_backup" = "检查备份";
 "check_mnemonic_phrase" = "检查您的助记词";
 "check_mnemonic_phrase_desc" = "按照呈现给您的顺序输入每个单词。";
