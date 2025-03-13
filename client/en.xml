@@ -1838,7 +1838,8 @@
   <string name="no_collectibles" platform="android, iOS">NO COLLECTIBLES</string>
   <string name="From_Mixin_Wallet" platform="android, iOS">From Mixin Wallet</string>
   <string name="From_Address" platform="android, iOS">From address</string>
-  <string name="receive_from_address_description" platform="android, iOS">From another wallet or exchange</string>
+  <string name="receive_from_my_wallets_description" platform="android, iOS">Withdraw from my other wallet using a crypto network.</string>
+  <string name="receive_from_address_description" platform="android, iOS">Withdraw from other exchanges or on-chain wallets using a crypto network.</string>
   <string name="Review" platform="android, iOS">Review</string>
   <string name="Max" platform="android, iOS">Max</string>
   <string name="hint_address" platform="android, iOS">Enter a wallet address, exchange address.</string>
