@@ -283,7 +283,6 @@
   <string name="chat_restore_subtitle" platform="iOS">No podrás restaurar más tarde si te niegas a restaurar ahora. Los archivos multimedia continuarán restableciéndose en segundo plano después de restaurar los mensajes.</string>
   <string name="Chat_unpinned" platform="android">Chat no fijado</string>
   <string name="chat_waiting" platform="android, iOS">Esperando a que %1$s se conecte y establezca una sesión cifrada. %2$s.</string>
-  <string name="CHATS" platform="android, iOS">CHATS</string>
   <string name="check_new_version" platform="Desktop">Comprobar nueva versión</string>
   <string name="check_trace_failed" platform="android">No se ha podido comprobar la información de seguimiento, inténtalo de nuevo</string>
   <string name="Checking_link" platform="android">Comprobando enlace</string>

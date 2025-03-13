@@ -292,7 +292,6 @@
   <string name="Chat_unpinned" platform="android">置顶会话已取消</string>
   <string name="chat_waiting" platform="android, iOS">等待%1$s上线后建立加密会话。%2$s。</string>
   <string name="chat_with_us" platform="android">联系客服</string>
-  <string name="CHATS" platform="android, iOS">会话</string>
   <string name="Chats_Count" platform="android">1 个聊天</string>
   <string name="Chats_Counts" platform="android">%1$s 个聊天</string>
   <string name="check_new_version" platform="Desktop">检查新版本</string>

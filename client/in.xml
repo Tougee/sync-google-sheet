@@ -124,7 +124,6 @@
   <string name="chat_not_support_url" platform="android, Desktop">https://mixinmessenger.zendesk.com/hc/articles/360043776071</string>
   <string name="chat_recall_delete_alert" platform="android, iOS">Pesan yang Anda pilih akan dihapus untuk semua orang pada versi Mixin terbaru dalam obrolan ini.</string>
   <string name="chat_waiting" platform="android, iOS">Menunggu %1$s untuk online dan membuat sesi terenkripsi. %2$s.</string>
-  <string name="CHATS" platform="android, iOS">OBROLAN</string>
   <string name="check_trace_failed" platform="android">Gagal memeiksa info jejak, coba lagi</string>
   <string name="Checking_link" platform="android">Memeriksa tautan</string>
   <string name="Checking_payment_info" platform="android">Memeriksa info pembayaran</string>

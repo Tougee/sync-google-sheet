@@ -244,7 +244,6 @@
   <string name="chat_restore_subtitle" platform="iOS">現在復元しない場合、後で復元はできません。メディアファイルはメッセージに続いて復元されます。</string>
   <string name="Chat_unpinned" platform="android">ピン留めを解除</string>
   <string name="chat_waiting" platform="android, iOS">オンラインで暗号化されたやりとりを開始するまであと%1$s。%2$s</string>
-  <string name="CHATS" platform="android, iOS">チャット</string>
   <string name="check_new_version" platform="Desktop">最新版をチェック</string>
   <string name="check_trace_failed" platform="android">記録情報の確認失敗、もう一度お試しください</string>
   <string name="Checking_link" platform="android">リンク確認中</string>

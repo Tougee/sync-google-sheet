@@ -131,7 +131,6 @@
   <string name="chat_on_mixin_content" platform="android, iOS">Mari sembang di Mixin Messenger! Ringkas, selamat, dan senang digunakan. Ia juga menyokong Bitcoin, Ethereum, dan cryptocurrency lain, muat turun https://mixin.one/messenger dan cari @%1$s untuk menambahkan saya sebagai rakan.</string>
   <string name="chat_recall_delete_alert" platform="android, iOS">Mesej yang anda pilih akan dihapus untuk semua orang pada versi terbaharu Mixin dalam sembang ini.</string>
   <string name="chat_waiting" platform="android, iOS">Menunggu %1$s untuk berada dalam talian dan tubuhkan sesi yang disulitkan. %2$s.</string>
-  <string name="CHATS" platform="android, iOS">SEMBANG</string>
   <string name="check_trace_failed" platform="android">Periksa maklumat jejak gagal, sila cuba lagi</string>
   <string name="Checking_link" platform="android">Memeriksa pautan</string>
   <string name="Checking_payment_info" platform="android">Memeriksa maklumat pembayaran</string>
