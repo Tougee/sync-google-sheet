@@ -2179,4 +2179,6 @@
   <string name="Total_assets" platform="android, iOS">资产合计</string>
   <string name="Privacy_Wallet" platform="android, iOS">隐私钱包</string>
   <string name="Classic_Wallet" platform="android, iOS">经典钱包</string>
+  <string name="My_Wallet" platform="android, iOS">我的钱包</string>
+  <string name="Exchanges_or_Wallets" platform="android, iOS">交易所或其他钱包</string>
 </resources>
