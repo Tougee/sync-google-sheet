@@ -974,6 +974,7 @@
 	<string name="Voice_call">音声通話</string>
 	<string name="Waiting">待機中</string>
 	<string name="Waiting_for_this_message">このメッセージを待っています。</string>
+	<string name="Wallet">ウォレット</string>
 	<string name="wallet_add_asset_already_hidden">資産%1$sの非表示設定を解除しますか？</string>
 	<string name="wallet_address_add_tip">Mixinは への引き出しに未対応です</string>
 	<string name="wallet_already_hidden">%1$sが非表示になりました</string>

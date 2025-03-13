@@ -1658,6 +1658,7 @@
 	<string name="Waiting_for_this_message">正在等待這條消息。</string>
 	<string name="Waiting_transaction">正在等待交易</string>
 	<string name="Waiting_transaction_description">您有一筆轉賬或提現未完成，請稍後再試</string>
+	<string name="Wallet">錢包</string>
 	<string name="wallet_add_asset_already_hidden">資產 %1$s 已被你隱藏，要在錢包首頁立刻顯示？</string>
 	<string name="wallet_address_add_tip">Mixin 不支持提現到</string>
 	<string name="wallet_already_hidden">已隱藏 %1$s</string>

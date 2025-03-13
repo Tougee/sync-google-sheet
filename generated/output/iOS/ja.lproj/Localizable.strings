@@ -1409,6 +1409,7 @@
 "waiting_for_other_device_scan" = "Connect the new device by scanning the QR code on the top";
 "waiting_transaction" = "Waiting Transaction";
 "waiting_transaction_description" = "You have a transfer or withdrawal has not been completed, please try again later";
+"wallet" = "ウォレット";
 "wallet_enable_biometric_pay" = "一度有効にすると%@を使ってスムーズに送金できます";
 "wallet_hide_asset_confirmation" = "%@を非表示にしますか?";
 "wallet_password_not_equal" = "PINコードが一致しません、もう一度お試しください";

@@ -1409,6 +1409,7 @@
 "waiting_for_other_device_scan" = "Connect the new device by scanning the QR code on the top";
 "waiting_transaction" = "Waiting Transaction";
 "waiting_transaction_description" = "You have a transfer or withdrawal has not been completed, please try again later";
+"wallet" = "Wallet";
 "wallet_enable_biometric_pay" = "Una vez habilitado, %@ se puede utilizar para realizar transferencias rápidas.";
 "wallet_hide_asset_confirmation" = "¿Estás seguro de que deseas ocultar %@?";
 "wallet_password_not_equal" = "El PIN no es el mismo las dos veces, inténtalo de nuevo.";
