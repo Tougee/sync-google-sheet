@@ -558,6 +558,7 @@
 "estimated_price" = "Estimated Price";
 "estimated_receive" = "Estimated Receive";
 "everybody" = "全員";
+"exchanges_or_wallets" = "Exchanges or Wallets";
 "exchanging_data" = "Synchronization key shards in progress %@%%...";
 "exit_confirmation" = "\"%@\"を退出しますか?";
 "exit_group" = "グループから退出";
@@ -780,6 +781,7 @@
 "my_mixin_id" = "マイMixin ID:%@";
 "my_qr_code" = "マイQRコード";
 "my_stickers" = "マイスタンプ";
+"my_wallet" = "My Wallet";
 "na" = "なし";
 "name" = "名前";
 "name_or_phone_number" = "名前か電話番号";

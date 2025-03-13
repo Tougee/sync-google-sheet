@@ -558,6 +558,7 @@
 "estimated_price" = "Estimated Price";
 "estimated_receive" = "Estimated Receive";
 "everybody" = "Все";
+"exchanges_or_wallets" = "Exchanges or Wallets";
 "exchanging_data" = "Synchronization key shards in progress %@%%...";
 "exit_confirmation" = "Выйти из %@?";
 "exit_group" = "Выйти из группы";
@@ -780,6 +781,7 @@
 "my_mixin_id" = "Мой Mixin ID: %@";
 "my_qr_code" = "Мой QR-код";
 "my_stickers" = "Мои стикеры";
+"my_wallet" = "My Wallet";
 "na" = "Нет данных";
 "name" = "Имя";
 "name_or_phone_number" = "Имя или номер телефона";
