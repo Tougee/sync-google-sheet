@@ -658,7 +658,6 @@
 	<string name="Videos">Video</string>
 	<string name="Voice_call">Panggilan suara</string>
 	<string name="Waiting">Menunggu</string>
-	<string name="Wallet">Wallet</string>
 	<string name="wallet_add_asset_already_hidden">Aset %1$s telah Anda sembunyikan, ingin segera menampilkannya di beranda wallet?</string>
 	<string name="wallet_already_hidden">%1$s telah disembunyikan</string>
 	<string name="wallet_already_shown">%1$s telah ditampilkan</string>

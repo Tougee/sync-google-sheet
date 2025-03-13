@@ -293,7 +293,6 @@
 	<string name="changed_disappearing_message_settings">%1$s修改了限時消息設置</string>
 	<string name="Changing">正在修改…</string>
 	<string name="Changing_PIN_terminated_unexpectedly">更新 PIN 意外中止，點繼續完成 PIN 修改</string>
-	<string name="chat">聊天</string>
 	<string name="chat_audio_discard_warning">你確定要停止並放棄錄製的語音嗎？</string>
 	<string name="chat_audio_discard_warning_title">放棄錄製語音</string>
 	<string name="chat_audio_warning">無法在 Mixin 錄音時播放語音</string>
@@ -329,6 +328,7 @@
 	<string name="Chat_unpinned">置頂會話已取消</string>
 	<string name="chat_waiting">等待%1$s上線後建立加密會話。%2$s。</string>
 	<string name="chat_with_us">聯繫客服</string>
+	<string name="chats">聊天</string>
 	<string name="CHATS">會話</string>
 	<string name="Chats_Count">1 個聊天</string>
 	<string name="Chats_Counts">%1$s 個聊天</string>
@@ -1658,7 +1658,6 @@
 	<string name="Waiting_for_this_message">正在等待這條消息。</string>
 	<string name="Waiting_transaction">正在等待交易</string>
 	<string name="Waiting_transaction_description">您有一筆轉賬或提現未完成，請稍後再試</string>
-	<string name="Wallet">錢包</string>
 	<string name="wallet_add_asset_already_hidden">資產 %1$s 已被你隱藏，要在錢包首頁立刻顯示？</string>
 	<string name="wallet_address_add_tip">Mixin 不支持提現到</string>
 	<string name="wallet_already_hidden">已隱藏 %1$s</string>
@@ -1684,6 +1683,7 @@
 	<string name="wallet_withdrawal_changed">手續費已從 %1$s 變更為 %2$s，要更新手續費並繼續提現嗎？</string>
 	<string name="wallet_withdrawal_not_in_addresses">%1$s 該地址不在提現地址白名單，請仔細核對地址。</string>
 	<string name="wallet_withdrawal_recent_tip">你已經在 %1$s 前提現 %3$s 到 %2$s，確認還要再提一次嗎？</string>
+	<string name="Wallets">錢包</string>
 	<string name="Watchlist">自選</string>
 	<string name="watchlist_add_desc">%1$s 已經加入自選</string>
 	<string name="watchlist_empty">您的自選列表為空</string>

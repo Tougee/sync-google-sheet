@@ -253,7 +253,7 @@
   <string name="changed_disappearing_message_settings" platform="android, iOS, Desktop">%1$s修改了限時消息設置</string>
   <string name="Changing" platform="android">正在修改…</string>
   <string name="Changing_PIN_terminated_unexpectedly" platform="android,iOS">更新 PIN 意外中止，點繼續完成 PIN 修改</string>
-  <string name="chat" platform="android, iOS, Desktop">聊天</string>
+  <string name="chats" platform="android, iOS, Desktop">聊天</string>
   <string name="chat_audio_discard_warning" platform="android">你確定要停止並放棄錄製的語音嗎？</string>
   <string name="chat_audio_discard_warning_title" platform="android">放棄錄製語音</string>
   <string name="chat_audio_warning" platform="android">無法在 Mixin 錄音時播放語音</string>
@@ -1621,7 +1621,7 @@
   <string name="Waiting_for_this_message" platform="android, Desktop">正在等待這條消息。</string>
   <string name="Waiting_transaction" platform="android,iOS">正在等待交易</string>
   <string name="Waiting_transaction_description" platform="android,iOS">您有一筆轉賬或提現未完成，請稍後再試</string>
-  <string name="Wallet" platform="android, iOS">錢包</string>
+  <string name="Wallets" platform="android, iOS">錢包</string>
   <string name="wallet_add_asset_already_hidden" platform="android">資產 %1$s 已被你隱藏，要在錢包首頁立刻顯示？</string>
   <string name="wallet_address_add_tip" platform="android">Mixin 不支持提現到</string>
   <string name="wallet_already_hidden" platform="android">已隱藏 %1$s</string>

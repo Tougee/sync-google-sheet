@@ -243,7 +243,6 @@
 "changed" = "Changed";
 "changed_disappearing_message_settings" = "%@ changed disappearing message settings.";
 "changing_pin_terminated_unexpectedly" = "Changing PIN terminated unexpectedly, click \"Continue\" to complete the change";
-"chat" = "Chat";
 "chat_background" = "Chat Background";
 "chat_backup" = "Chat Backup";
 "chat_bot_reception_title" = "Tap the button to interact with the bot";
@@ -267,6 +266,7 @@
 "chat_restore_subtitle" = "You will not be able to restore later if you decline to restore now. Media files will continue restore in background after messages is restored.";
 "chat_text_size" = "Chat Text Size";
 "chat_waiting" = "Menunggu %1$@ untuk berada dalam talian dan tubuhkan sesi yang disulitkan. %2$@.";
+"chats" = "Chats";
 "chats" = "SEMBANG";
 "check_backup" = "Check Backup";
 "check_mnemonic_phrase" = "Check your mnemonic phrase";
@@ -1409,7 +1409,6 @@
 "waiting_for_other_device_scan" = "Connect the new device by scanning the QR code on the top";
 "waiting_transaction" = "Waiting Transaction";
 "waiting_transaction_description" = "You have a transfer or withdrawal has not been completed, please try again later";
-"wallet" = "Dompet";
 "wallet_enable_biometric_pay" = "Once enabled, %@ can be used to make quick transfers.";
 "wallet_hide_asset_confirmation" = "Are you sure you want to hide %@?";
 "wallet_password_not_equal" = "PIN tidak padan dengan PIN yang ditaip semula, sila cuba lagi.";
@@ -1423,6 +1422,7 @@
 "wallet_transfer_recent_tip" = "Anda telah memindahkan %3$@ ke %2$@ %1$@. Adakah anda mahu memindahkannya lagi?";
 "wallet_withdrawal_changed" = "The withdrawal fee has been changed from %1$@ to %2$@, would you like to proceed with the request?";
 "wallet_withdrawal_recent_tip" = "Anda telah menarik balik %3$@ ke %2$@ %1$@, Adakah anda mahu menariknya semula?";
+"wallets" = "Wallets";
 "watchlist" = "Watchlist";
 "watchlist_add_desc" = "%@ is now on your watchlist";
 "watchlist_empty" = "Your watchlist is empty";

@@ -295,7 +295,6 @@
 	<string name="changed_disappearing_message_settings">%1$s changed disappearing message settings.</string>
 	<string name="Changing">Changing…</string>
 	<string name="Changing_PIN_terminated_unexpectedly">Changing PIN terminated unexpectedly, click \"Continue\" to complete the change</string>
-	<string name="chat">Chat</string>
 	<string name="chat_audio_discard_warning">Are you sure you want to stop recording and discard your voice message ?</string>
 	<string name="chat_audio_discard_warning_title">Discard Voice message</string>
 	<string name="chat_audio_warning">You cannot play audio if your\'re already on play another audio.</string>
@@ -334,6 +333,7 @@
 	<string name="Chat_unpinned">Chat unpinned</string>
 	<string name="chat_waiting">Waiting for %1$s to get online and establish an encrypted session. %2$s.</string>
 	<string name="chat_with_us">Chat with us</string>
+	<string name="chats">Chats</string>
 	<string name="CHATS">CHATS</string>
 	<string name="Chats_Count">1 chat</string>
 	<string name="Chats_Counts">%1$s chats</string>
@@ -1680,7 +1680,6 @@
 	<string name="Waiting_for_this_message">Waiting for this message.</string>
 	<string name="Waiting_transaction">Waiting Transaction</string>
 	<string name="Waiting_transaction_description">You have a transfer or withdrawal has not been completed, please try again later</string>
-	<string name="Wallet">Wallet</string>
 	<string name="wallet_add_asset_already_hidden">Assets %1$s have been hidden by you, want to show them immediately on the wallet homepage?</string>
 	<string name="wallet_address_add_tip">Mixin does not support withdrawal to the</string>
 	<string name="wallet_already_hidden">%1$s has been hidden</string>
@@ -1706,6 +1705,7 @@
 	<string name="wallet_withdrawal_changed">The withdrawal fee has been changed from %1$s to %2$s, would you like to proceed with the request?</string>
 	<string name="wallet_withdrawal_not_in_addresses">%1$s This address is not in the white list of withdrawal addresses, please check the address carefully.</string>
 	<string name="wallet_withdrawal_recent_tip">You have already withdrawn %3$s to %2$s %1$s ago, Do you want to withdraw it again?</string>
+	<string name="Wallets">Wallets</string>
 	<string name="Watchlist">Watchlist</string>
 	<string name="watchlist_add_desc">%1$s is now on your watchlist</string>
 	<string name="watchlist_empty">Your watchlist is empty</string>

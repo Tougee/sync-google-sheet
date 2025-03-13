@@ -1001,7 +1001,6 @@
 	<string name="Voice_call">Голосовой вызов</string>
 	<string name="Waiting">Ожидание</string>
 	<string name="Waiting_for_this_message">Ждем этого сообщения.</string>
-	<string name="Wallet">Бумажник</string>
 	<string name="wallet_add_asset_already_hidden">Активы %1$s были скрыты вами. Хотите немедленно отобразить их на главной странице кошелька?</string>
 	<string name="wallet_address_add_tip">Mixin не поддерживает вывод на</string>
 	<string name="wallet_already_hidden">%1$s скрыто</string>

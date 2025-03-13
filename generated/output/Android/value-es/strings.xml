@@ -1035,7 +1035,6 @@
 	<string name="Voice_call">Llamada de voz</string>
 	<string name="Waiting">Esperando</string>
 	<string name="Waiting_for_this_message">Esperando este mensaje.</string>
-	<string name="Wallet">Cartera</string>
 	<string name="wallet_add_asset_already_hidden">Has ocultado los activos %1$s. ¿Quieres que se muestren inmediatamente en la página de inicio de la cartera?</string>
 	<string name="wallet_address_add_tip">Mixin no admite la retirada a la</string>
 	<string name="wallet_already_hidden">%1$s se ha ocultado</string>

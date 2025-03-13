@@ -974,7 +974,6 @@
 	<string name="Voice_call">音声通話</string>
 	<string name="Waiting">待機中</string>
 	<string name="Waiting_for_this_message">このメッセージを待っています。</string>
-	<string name="Wallet">ウォレット</string>
 	<string name="wallet_add_asset_already_hidden">資産%1$sの非表示設定を解除しますか？</string>
 	<string name="wallet_address_add_tip">Mixinは への引き出しに未対応です</string>
 	<string name="wallet_already_hidden">%1$sが非表示になりました</string>
@@ -999,6 +998,7 @@
 	<string name="wallet_transfer_recent_tip">あなたは%1$s前に%2$sへ同額の送金をしています。再度%3$sを送金しますか？</string>
 	<string name="wallet_withdrawal_changed">出金手数料が%1$sから%2$sへ変更されました。このまま出金を行いますか？</string>
 	<string name="wallet_withdrawal_recent_tip">あなたは%1$sに同額の出金を%2$sへ送っています。再度%3$sを出金しますか？</string>
+	<string name="Wallets">ウォレット</string>
 	<string name="web_cannot_reached_desc">%1$s 接続に時間がかかり過ぎています、ネットワーク設定を確認してページをリロードしてください。</string>
 	<string name="web_cannot_reached_title">アクセスできません</string>
 	<string name="web_floating_permission">Floating機能を使うため、設定から許可してください</string>
