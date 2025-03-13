@@ -969,7 +969,8 @@
 "read_your_snapshots" = "读取你的转账记录";
 "rebate" = "退款";
 "receive" = "充值";
-"receive_from_address_description" = "从其他钱包或交易所转入";
+"receive_from_address_description" = "通过加密网络从其他交易所或链上钱包提取。";
+"receive_from_my_wallets_description" = "通过加密网络从我的其他钱包提取。";
 "receive_money" = "我的收款码";
 "received" = "收到";
 "receiver" = "至";

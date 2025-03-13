@@ -1149,7 +1149,8 @@
 	<string name="Recaptcha_timeout">驗證超時</string>
 	<string name="Receive">充值</string>
 	<string name="RECEIVE">充值</string>
-	<string name="receive_from_address_description">從其他錢包或交易所轉入</string>
+	<string name="receive_from_address_description">通過加密網絡從其他交易所或鏈上錢包提取。</string>
+	<string name="receive_from_my_wallets_description">通過加密網絡從我的其他錢包提取。</string>
 	<string name="Receive_Money">我的收款碼</string>
 	<string name="Received">收到</string>
 	<string name="Receiver">至</string>

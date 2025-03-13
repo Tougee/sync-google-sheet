@@ -1168,7 +1168,8 @@
 	<string name="Recaptcha_timeout">Recaptcha timeout</string>
 	<string name="Receive">Receive</string>
 	<string name="RECEIVE">Receive</string>
-	<string name="receive_from_address_description">From another wallet or exchange</string>
+	<string name="receive_from_address_description">Withdraw from other exchanges or on-chain wallets using a crypto network.</string>
+	<string name="receive_from_my_wallets_description">Withdraw from my other wallet using a crypto network.</string>
 	<string name="Receive_Money">Receive Money</string>
 	<string name="Received">received</string>
 	<string name="Receiver">Receiver</string>
