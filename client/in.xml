@@ -638,7 +638,6 @@
   <string name="Videos" platform="android, iOS, Desktop">Video</string>
   <string name="Voice_call" platform="android">Panggilan suara</string>
   <string name="Waiting" platform="android, iOS">Menunggu</string>
-  <string name="Wallet" platform="android, iOS">Wallet</string>
   <string name="wallet_add_asset_already_hidden" platform="android">Aset %1$s telah Anda sembunyikan, ingin segera menampilkannya di beranda wallet?</string>
   <string name="wallet_already_hidden" platform="android">%1$s telah disembunyikan</string>
   <string name="wallet_already_shown" platform="android">%1$s telah ditampilkan</string>

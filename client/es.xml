@@ -1386,7 +1386,6 @@
   <string name="Voice_call_has_been_declined" platform="iOS">La llamada de voz ha sido rechazada</string>
   <string name="Waiting" platform="android, iOS">Esperando</string>
   <string name="Waiting_for_this_message" platform="android, Desktop">Esperando este mensaje.</string>
-  <string name="Wallet" platform="android, iOS">Cartera</string>
   <string name="wallet_add_asset_already_hidden" platform="android">Has ocultado los activos %1$s. ¿Quieres que se muestren inmediatamente en la página de inicio de la cartera?</string>
   <string name="wallet_address_add_tip" platform="android">Mixin no admite la retirada a la</string>
   <string name="wallet_already_hidden" platform="android">%1$s se ha ocultado</string>

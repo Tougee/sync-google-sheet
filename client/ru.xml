@@ -1295,7 +1295,6 @@
   <string name="Voice_call_has_been_declined" platform="iOS">Голосовой вызов был отклонен</string>
   <string name="Waiting" platform="android, iOS">Ожидание</string>
   <string name="Waiting_for_this_message" platform="android, Desktop">Ждем этого сообщения.</string>
-  <string name="Wallet" platform="android, iOS">Бумажник</string>
   <string name="wallet_add_asset_already_hidden" platform="android">Активы %1$s были скрыты вами. Хотите немедленно отобразить их на главной странице кошелька?</string>
   <string name="wallet_address_add_tip" platform="android">Mixin не поддерживает вывод на</string>
   <string name="wallet_already_hidden" platform="android">%1$s скрыто</string>
