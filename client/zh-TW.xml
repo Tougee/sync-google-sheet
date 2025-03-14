@@ -1847,7 +1847,7 @@
   <string name="slippage_high_warning" platform="android">您的交易可能會搶先交易並導致不利的交易</string>
   <string name="slippage_invalid" platform="android">滑點不可大於 50% 且不可小於 0.1%</string>
   <string name="select_token" platform="android,iOS">選擇代幣</string>
-  <string name="Contract" platform="android">合約</string>
+  <string name="Contract" platform="android,iOS">合約</string>
   <string name="swap_desc" platform="android">%1$s 將會在交易完成後存入您的錢包</string>
   <string name="view_on_explorer" platform="android,iOS">在瀏覽器中檢視</string>
   <string name="search_swap_token" platform="android">按代幣或合約地址搜尋</string>
