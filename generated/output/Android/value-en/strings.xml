@@ -1516,7 +1516,6 @@
 		<item quantity="other">%1$d Participants</item>
 	</plurals>
 	<string name="To">To</string>
-	<string name="to_mixin_wallet">To my Mixin Wallet</string>
 	<string name="Today">Today</string>
 	<string name="Token">Token</string>
 	<string name="token_amount">Token Amount</string>

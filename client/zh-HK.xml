@@ -1817,7 +1817,6 @@
   <string name="Max" platform="android, iOS">最大值</string>
   <string name="hint_address" platform="android, iOS">輸入錢包地址、交易所地址</string>
   <string name="Accounts" platform="android, iOS">賬户</string>
-  <string name="to_mixin_wallet" platform="android, iOS">劃轉到 Mixin 錢包</string>
   <string name="Invalid_Address" platform="android, iOS">無效的地址</string>
   <string name="signature_request_from" platform="android, iOS">該簽名請求來自 %1$s。</string>
   <string name="content_collectible" platform="android, iOS">[藏品]</string>

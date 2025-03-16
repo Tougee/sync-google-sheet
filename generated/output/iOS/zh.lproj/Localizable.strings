@@ -1267,7 +1267,6 @@
 "title_participants" = "%d 成员";
 "title_participants_count" = "%d 成员";
 "to" = "至";
-"to_mixin_wallet" = "划转到 Mixin 钱包";
 "today" = "今天";
 "token" = "代币";
 "top_count" = "前 %d";
