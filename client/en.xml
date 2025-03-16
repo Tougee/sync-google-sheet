@@ -1844,7 +1844,6 @@
   <string name="Max" platform="android, iOS">Max</string>
   <string name="hint_address" platform="android, iOS">Enter a wallet address, exchange address.</string>
   <string name="Accounts" platform="android, iOS">Accounts</string>
-  <string name="to_mixin_wallet" platform="android, iOS">To my Mixin Wallet</string>
   <string name="Invalid_Address" platform="android, iOS">Invalid Address</string>
   <string name="signature_request_from" platform="android, iOS">This signature request is issued by %1$s.</string>
   <string name="content_collectible" platform="android, iOS">[Collectible]</string>
