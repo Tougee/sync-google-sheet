@@ -972,8 +972,8 @@
 "read_your_snapshots" = "讀取你的轉賬記錄";
 "rebate" = "退款";
 "receive" = "充值";
-"receive_from_address_description" = "通過加密網絡從其他交易所或鏈上錢包提取。";
-"receive_from_my_wallets_description" = "通過加密網絡從我的其他錢包提取。";
+"receive_from_address_description" = "通過加密網絡從其他交易所或鏈上錢包提取";
+"receive_from_my_wallets_description" = "通過加密網絡從我的其他錢包提取";
 "receive_money" = "我的收款碼";
 "received" = "收到";
 "receiver" = "至";
@@ -1108,6 +1108,7 @@
 "send_to_address_description" = "通過區塊鏈網絡轉給已知地址";
 "send_to_contact_description" = "通過 Mixin 網絡轉給我的 Mixin 聯繫人";
 "send_to_developer" = "把日誌發給開發者";
+"send_to_privacy_wallet_description" = "使用加密網絡發送到我的另一個錢包";
 "send_to_title" = "轉給";
 "send_to_web3_wallet_description" = "通過區塊鏈網絡轉給我的 %@ 賬户";
 "send_video" = "發送 1 個視頻";

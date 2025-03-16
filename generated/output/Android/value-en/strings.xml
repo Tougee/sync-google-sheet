@@ -1170,8 +1170,8 @@
 	<string name="Recaptcha_timeout">Recaptcha timeout</string>
 	<string name="Receive">Receive</string>
 	<string name="RECEIVE">Receive</string>
-	<string name="receive_from_address_description">Withdraw from other exchanges or on-chain wallets using a crypto network.</string>
-	<string name="receive_from_my_wallets_description">Withdraw from my other wallet using a crypto network.</string>
+	<string name="receive_from_address_description">Withdraw from other exchanges or on-chain wallets using a crypto network</string>
+	<string name="receive_from_my_wallets_description">Withdraw from my other wallet using a crypto network</string>
 	<string name="Receive_Money">Receive Money</string>
 	<string name="Received">received</string>
 	<string name="Receiver">Receiver</string>
@@ -1311,6 +1311,7 @@
 	<string name="send_to">Send to %1$s</string>
 	<string name="send_to_address_description">Send to a known crypto address using a crypto network.</string>
 	<string name="Send_to_Contact_description">Send to my Mixin contact using the Mixin Network.</string>
+	<string name="send_to_privacy_wallet_description">Send to my other wallet using a crypto network</string>
 	<string name="Send_to_web3_wallet_description">Send to my %1$s account using crypto network.</string>
 	<string name="Send_transfer">Send</string>
 	<string name="send_without_compression">Send without compression</string>
