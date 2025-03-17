@@ -1478,7 +1478,7 @@
   <string name="tip_create_pin_title" platform="android, iOS">設定 6 位數字 PIN 建立你的第一個數字錢包</string>
   <string name="TIP_creation_introduction" platform="android,iOS">設定 6 位數字 PIN 建立你的第一個加密貨幣錢包，PIN 基於去中心化金鑰派生協議 Throttled Identity Protocol，閱讀檔案以**瞭解更多**。</string>
   <string name="TIP_introduction" platform="android,iOS">6 位數字 PIN 基於去中心化金鑰派生協議 Throttled Identity Protocol，閱讀檔案以**瞭解更多**。</string>
-  <string name="tip_recovery_failed" platform="android, iOS">TIP 私鑰恢復失敗。</string>
+  <string name="tip_recovery_failed" platform="android">TIP 私鑰恢復失敗。</string>
   <string name="title_participants" platform="android, iOS">%1$d 成員</string>
   <string name="title_participants.count" platform="android, iOS">%1$d 成員</string>
   <string name="To" platform="android, iOS, Desktop">至</string>
