@@ -1289,7 +1289,7 @@
 	<string name="send_to">发送给 %1$s</string>
 	<string name="send_to_address_description">通过区块链网络转给已知地址</string>
 	<string name="Send_to_Contact_description">通过 Mixin 网络转给我的 Mixin 联系人</string>
-	<string name="send_to_privacy_wallet_description">使用加密网络发送到我的另一个钱包</string>
+	<string name="send_to_other_wallet_description">使用加密网络发送到我的另一个钱包</string>
 	<string name="Send_to_web3_wallet_description">通过区块链网络转给我的 %1$s 账户</string>
 	<string name="Send_transfer">转出</string>
 	<string name="send_without_compression">发送原始文件</string>
