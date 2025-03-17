@@ -2178,5 +2178,5 @@
   <string name="Privacy_Wallet" platform="android, iOS">隱私錢包</string>
   <string name="Classic_Wallet" platform="android, iOS">經典錢包</string>
   <string name="Exchange_or_Wallet" platform="android, iOS">交易所或其他錢包</string>
-  <string name="send_to_privacy_wallet_description" platform="android, iOS">使用加密網路傳送到我的另一個錢包</string>
+  <string name="send_to_other_wallet_description" platform="android, iOS">使用加密網路傳送到我的另一個錢包</string>
 </resources>

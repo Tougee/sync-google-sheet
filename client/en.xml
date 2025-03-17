@@ -2206,5 +2206,5 @@
   <string name="Privacy_Wallet" platform="android, iOS">Privacy Wallet</string>
   <string name="Classic_Wallet" platform="android, iOS">Classic Wallet</string>
   <string name="Exchange_or_Wallet" platform="android, iOS">Exchange or Wallet</string>
-  <string name="send_to_privacy_wallet_description" platform="android, iOS">Send to my other wallet using a crypto network</string>
+  <string name="send_to_other_wallet_description" platform="android, iOS">Send to my other wallet using a crypto network</string>
 </resources>
