@@ -1498,7 +1498,7 @@
   <string name="tip_create_pin_title" platform="android, iOS">Set a 6 digit PIN to create your first digital wallet</string>
   <string name="TIP_creation_introduction" platform="android,iOS">Set a 6 digit Wallet PIN to create your first digital wallet, the PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **learn more**.</string>
   <string name="TIP_introduction" platform="android,iOS">The 6-digit PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **learn more**.</string>
-  <string name="tip_recovery_failed" platform="android, iOS">TIP private key recovery failed.</string>
+  <string name="tip_recovery_failed" platform="android">TIP private key recovery failed.</string>
   <string name="title_participants" platform="android, iOS">%1$d Participant</string>
   <string name="title_participants.count" platform="android, iOS">%1$d Participants</string>
   <string name="To" platform="android, iOS, Desktop">To</string>
