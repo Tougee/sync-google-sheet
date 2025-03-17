@@ -1811,8 +1811,8 @@
   <string name="no_collectibles" platform="android, iOS">沒有藏品</string>
   <string name="From_Mixin_Wallet" platform="android, iOS">從 Mixin 錢包轉入</string>
   <string name="From_Address" platform="android, iOS">從外部轉入</string>
-  <string name="receive_from_my_wallets_description" platform="android, iOS">透過加密網路從我的其他錢包提取</string>
-  <string name="receive_from_address_description" platform="android, iOS">透過加密網路從其他交易所或鏈上錢包提取</string>
+  <string name="receive_from_privacy_wallets_description" platform="android, iOS">透過加密網路從我的另一個錢包接收</string>
+  <string name="receive_from_address_description" platform="android, iOS">透過加密網路從其他交易所或鏈上錢包接收</string>
   <string name="Review" platform="android, iOS">預覽</string>
   <string name="Max" platform="android, iOS">最大值</string>
   <string name="hint_address" platform="android, iOS">輸入錢包地址、交易所地址</string>
@@ -2177,7 +2177,6 @@
   <string name="Total_assets" platform="android, iOS">資產合計</string>
   <string name="Privacy_Wallet" platform="android, iOS">隱私錢包</string>
   <string name="Classic_Wallet" platform="android, iOS">經典錢包</string>
-  <string name="My_Wallet" platform="android, iOS">我的錢包</string>
-  <string name="Exchanges_or_Wallets" platform="android, iOS">交易所或其他錢包</string>
+  <string name="Exchange_or_Wallet" platform="android, iOS">交易所或其他錢包</string>
   <string name="send_to_privacy_wallet_description" platform="android, iOS">使用加密網路傳送到我的另一個錢包</string>
 </resources>

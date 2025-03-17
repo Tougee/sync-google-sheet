@@ -669,8 +669,8 @@
 	<string name="Estimated_Price">預計價格</string>
 	<string name="Estimated_Receive">預計收到</string>
 	<string name="Everybody">任何人</string>
+	<string name="Exchange_or_Wallet">交易所或其他錢包</string>
 	<string name="exchange_rate">價格</string>
-	<string name="Exchanges_or_Wallets">交易所或其他錢包</string>
 	<string name="Exchanging_data">正在同步密鑰分片，進度 %1$s%%…</string>
 	<string name="Exit">退出</string>
 	<string name="Exit_Group">退出羣組</string>
@@ -937,7 +937,6 @@
 	<string name="my_mixin_id">我的 Mixin ID：%1$s</string>
 	<string name="My_QR_Code">我的二維碼</string>
 	<string name="My_Stickers">我的表情</string>
-	<string name="My_Wallet">我的錢包</string>
 	<string name="NA">暫無價格</string>
 	<string name="Name">名稱</string>
 	<string name="need_background_permission">繼續使用此功能需要後台彈出界面權限</string>
@@ -1150,8 +1149,8 @@
 	<string name="Recaptcha_timeout">驗證超時</string>
 	<string name="Receive">充值</string>
 	<string name="RECEIVE">充值</string>
-	<string name="receive_from_address_description">通過加密網絡從其他交易所或鏈上錢包提取</string>
-	<string name="receive_from_my_wallets_description">通過加密網絡從我的其他錢包提取</string>
+	<string name="receive_from_address_description">通過加密網絡從其他交易所或鏈上錢包接收</string>
+	<string name="receive_from_privacy_wallets_description">通過加密網絡從我的另一個錢包接收</string>
 	<string name="Receive_Money">我的收款碼</string>
 	<string name="Received">收到</string>
 	<string name="Receiver">至</string>

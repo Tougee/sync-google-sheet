@@ -678,8 +678,8 @@
 	<string name="Estimated_Price">Estimated Price</string>
 	<string name="Estimated_Receive">Estimated Receive</string>
 	<string name="Everybody">Everybody</string>
+	<string name="Exchange_or_Wallet">Exchange or Wallet</string>
 	<string name="exchange_rate">Exchange Rate</string>
-	<string name="Exchanges_or_Wallets">Exchanges or Wallets</string>
 	<string name="Exchanging_data">Synchronization key shards in progress %1$s%%…</string>
 	<string name="Exit">Exit</string>
 	<string name="Exit_Group">Exit Group</string>
@@ -955,7 +955,6 @@
 	<string name="my_mixin_id">My Mixin ID: %1$s</string>
 	<string name="My_QR_Code">My QR Code</string>
 	<string name="My_Stickers">My Stickers</string>
-	<string name="My_Wallet">My Wallet</string>
 	<string name="NA">N/A</string>
 	<string name="Name">Name</string>
 	<string name="need_background_permission">Requires start in background permission to continue.</string>
@@ -1169,8 +1168,8 @@
 	<string name="Recaptcha_timeout">Recaptcha timeout</string>
 	<string name="Receive">Receive</string>
 	<string name="RECEIVE">Receive</string>
-	<string name="receive_from_address_description">Withdraw from other exchanges or on-chain wallets using a crypto network</string>
-	<string name="receive_from_my_wallets_description">Withdraw from my other wallet using a crypto network</string>
+	<string name="receive_from_address_description">Receive from other exchange or on-chain wallet using a crypto network</string>
+	<string name="receive_from_privacy_wallets_description">Receive from my other wallet using a crypto network</string>
 	<string name="Receive_Money">Receive Money</string>
 	<string name="Received">received</string>
 	<string name="Receiver">Receiver</string>
