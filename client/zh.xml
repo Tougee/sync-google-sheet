@@ -1314,7 +1314,6 @@
   <string name="send_to" platform="android, iOS">发送给 %1$s</string>
   <string name="send_to_address_description" platform="android, iOS">通过区块链网络转给已知地址</string>
   <string name="Send_to_Contact_description" platform="android, iOS">通过 Mixin 网络转给我的 Mixin 联系人</string>
-  <string name="Send_to_web3_wallet_description" platform="android, iOS">通过区块链网络转给我的 %1$s 账户</string>
   <string name="Send_to_Developer" platform="iOS, Desktop">把日志发给开发者</string>
   <string name="Send_To_Title" platform="iOS">转给</string>
   <string name="Send_transfer" platform="android">转出</string>
@@ -1811,8 +1810,8 @@
   <string name="no_collectibles" platform="android, iOS">没有藏品</string>
   <string name="From_Mixin_Wallet" platform="android, iOS">从 Mixin 钱包转入</string>
   <string name="From_Address" platform="android, iOS">从外部转入</string>
-  <string name="receive_from_privacy_wallets_description" platform="android, iOS">通过加密网络从我的另一个钱包接收</string>
-  <string name="receive_from_address_description" platform="android, iOS">通过加密网络从其他交易所或链上钱包接收</string>
+  <string name="receive_from_privacy_wallets_description" platform="android, iOS">通过区块链网络从我的另一个钱包接收</string>
+  <string name="receive_from_address_description" platform="android, iOS">通过区块链网络从其他交易所或链上钱包接收</string>
   <string name="Review" platform="android, iOS">预览</string>
   <string name="Max" platform="android, iOS">最大值</string>
   <string name="hint_address" platform="android, iOS">输入钱包地址、交易所地址</string>
@@ -2178,5 +2177,5 @@
   <string name="Privacy_Wallet" platform="android, iOS">隐私钱包</string>
   <string name="Classic_Wallet" platform="android, iOS">经典钱包</string>
   <string name="Exchange_or_Wallet" platform="android, iOS">交易所或其他钱包</string>
-  <string name="send_to_other_wallet_description" platform="android, iOS">使用加密网络发送到我的另一个钱包</string>
+  <string name="send_to_other_wallet_description" platform="android, iOS">使用区块链网络发送到我的另一个钱包</string>
 </resources>
