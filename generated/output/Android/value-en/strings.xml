@@ -1307,10 +1307,9 @@
 	<string name="send_signed_message_confirmation">The message has been signed successfully, click the button below to send or discard the signed message</string>
 	<string name="Send_This_Location">Send This Location</string>
 	<string name="send_to">Send to %1$s</string>
-	<string name="send_to_address_description">Send to a known crypto address using a crypto network.</string>
-	<string name="Send_to_Contact_description">Send to my Mixin contact using the Mixin Network.</string>
+	<string name="send_to_address_description">Send to a known crypto address using a crypto network</string>
+	<string name="Send_to_Contact_description">Send to my Mixin contact using the Mixin Network</string>
 	<string name="send_to_other_wallet_description">Send to my other wallet using a crypto network</string>
-	<string name="Send_to_web3_wallet_description">Send to my %1$s account using crypto network.</string>
 	<string name="Send_transfer">Send</string>
 	<string name="send_without_compression">Send without compression</string>
 	<string name="Send_Without_Sound">Send Without Sound</string>
