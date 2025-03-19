@@ -359,7 +359,6 @@
 	<string name="circle_title">%1$s\'s Circles</string>
 	<string name="Circles">Circles</string>
 	<string name="Circulation_Supply">Circulation Supply</string>
-	<string name="Classic_Wallet">Classic Wallet</string>
 	<string name="Clear">Clear</string>
 	<string name="Clear_chat">Clear Chat</string>
 	<string name="Clearing">Clearing…</string>
@@ -385,6 +384,7 @@
 	<string name="Collection_collected">%1$d collected</string>
 	<string name="Combine_and_forward">Combine and forward</string>
 	<string name="Combine_utxo">Combine UTXOs</string>
+	<string name="Common_Wallet">Common Wallet</string>
 	<string name="Complete">Complete</string>
 	<string name="Completed">Completed</string>
 	<string name="Confirm">Confirm</string>

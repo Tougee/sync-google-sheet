@@ -354,7 +354,6 @@
 	<string name="circle_title">%1$s的圈子</string>
 	<string name="Circles">圈子</string>
 	<string name="Circulation_Supply">流通量</string>
-	<string name="Classic_Wallet">经典钱包</string>
 	<string name="Clear">清理</string>
 	<string name="Clear_chat">清除聊天记录</string>
 	<string name="Clearing">正在清理…</string>
@@ -380,6 +379,7 @@
 	<string name="Collection_collected">已收藏 %1$d 件</string>
 	<string name="Combine_and_forward">合并转发</string>
 	<string name="Combine_utxo">归集 UTXO</string>
+	<string name="Common_Wallet">普通钱包</string>
 	<string name="Complete">完成</string>
 	<string name="Completed">已完成</string>
 	<string name="Confirm">确认</string>

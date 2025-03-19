@@ -282,7 +282,6 @@
 "circle_title" = "Lingkaran %@";
 "circles" = "Lingkaran";
 "circulation_supply" = "Circulation Supply";
-"classic_wallet" = "Classic Wallet";
 "clear" = "Bersihkan";
 "clear_cache" = "Clear Cache";
 "clear_chat" = "Bersihkan Obrolan";
@@ -308,6 +307,7 @@
 "collection" = "Collection";
 "collection_collected" = "%d collected";
 "combine_and_forward" = "Combine and forward";
+"common_wallet" = "Common Wallet";
 "complete" = "Complete";
 "completed" = "Completed";
 "compress_database" = "Compress Database";
