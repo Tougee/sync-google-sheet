@@ -2176,6 +2176,6 @@
   <string name="Total_assets" platform="android, iOS">资产合计</string>
   <string name="Privacy_Wallet" platform="android, iOS">隐私钱包</string>
   <string name="Common_Wallet" platform="android, iOS">普通钱包</string>
-  <string name="Exchange_or_Wallet" platform="android, iOS">交易所或其他钱包</string>
+  <string name="Exchanges_or_Wallets" platform="android, iOS">交易所或其他钱包</string>
   <string name="send_to_other_wallet_description" platform="android, iOS">使用区块链网络发送到我的另一个钱包</string>
 </resources>

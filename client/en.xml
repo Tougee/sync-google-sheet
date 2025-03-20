@@ -2204,6 +2204,6 @@
   <string name="Total_assets" platform="android, iOS">Total assets</string>
   <string name="Privacy_Wallet" platform="android, iOS">Privacy Wallet</string>
   <string name="Common_Wallet" platform="android, iOS">Common Wallet</string>
-  <string name="Exchange_or_Wallet" platform="android, iOS">Exchange or Wallet</string>
+  <string name="Exchanges_or_Wallets" platform="android, iOS">Exchanges or Wallets</string>
   <string name="send_to_other_wallet_description" platform="android, iOS">Send to my other wallet using a crypto network</string>
 </resources>
