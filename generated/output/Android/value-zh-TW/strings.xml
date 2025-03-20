@@ -669,8 +669,8 @@
 	<string name="Estimated_Price">預計價格</string>
 	<string name="Estimated_Receive">預計收到</string>
 	<string name="Everybody">任何人</string>
-	<string name="Exchange_or_Wallet">交易所或其他錢包</string>
 	<string name="exchange_rate">價格</string>
+	<string name="Exchanges_or_Wallets">交易所或其他錢包</string>
 	<string name="Exchanging_data">正在同步金鑰分片，進度 %1$s%%…</string>
 	<string name="Exit">退出</string>
 	<string name="Exit_Group">退出群組</string>

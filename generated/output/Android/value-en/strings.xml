@@ -678,8 +678,8 @@
 	<string name="Estimated_Price">Estimated Price</string>
 	<string name="Estimated_Receive">Estimated Receive</string>
 	<string name="Everybody">Everybody</string>
-	<string name="Exchange_or_Wallet">Exchange or Wallet</string>
 	<string name="exchange_rate">Exchange Rate</string>
+	<string name="Exchanges_or_Wallets">Exchanges or Wallets</string>
 	<string name="Exchanging_data">Synchronization key shards in progress %1$s%%…</string>
 	<string name="Exit">Exit</string>
 	<string name="Exit_Group">Exit Group</string>
