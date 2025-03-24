@@ -1648,7 +1648,7 @@
 	<string name="View_Transaction">檢視區塊鏈瀏覽器</string>
 	<string name="View_Wallet">檢視錢包</string>
 	<string name="Voice_call">語音通話</string>
-	<string name="vol_24h">24 小時交易量（%1$s）</string>
+	<string name="vol_24h">24 小時交易量</string>
 	<string name="volume_24h">24 小時交易量</string>
 	<string name="Waiting">等待中</string>
 	<string name="Waiting_for_Other_Device">等待其他裝置…</string>

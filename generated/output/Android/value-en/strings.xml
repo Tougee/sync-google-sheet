@@ -1670,7 +1670,7 @@
 	<string name="View_Transaction">View Transaction</string>
 	<string name="View_Wallet">View Wallet</string>
 	<string name="Voice_call">Voice call</string>
-	<string name="vol_24h">24H VOL(%1$s)</string>
+	<string name="vol_24h">24H VOL</string>
 	<string name="volume_24h">24h Volume</string>
 	<string name="Waiting">Waiting</string>
 	<string name="Waiting_for_Other_Device">Waiting for Other Device…</string>
