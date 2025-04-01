@@ -2181,4 +2181,8 @@
   <string name="Common_Wallet" platform="android, iOS">普通錢包</string>
   <string name="Exchanges_or_Wallets" platform="android, iOS">交易所或其他錢包</string>
   <string name="send_to_other_wallet_description" platform="android, iOS">使用區塊鏈網路傳送到我的另一個錢包</string>
+  <string name="privacy_wallet_tip_title" platform="android, iOS">什麼是隱私錢包？</string>
+  <string name="privacy_wallet_tip_description" platform="android, iOS">一個支援多鏈的錢包，提供私密、免費且即時的交易，滿足您的大部分需求。</string>
+  <string name="classic_wallet_tip_title" platform="android, iOS">什麼是普通錢包？</string>
+  <string name="classic_wallet_tip_description" platform="android, iOS">一個支援多鏈的常規錢包，可用於訪問去中心化應用和 DeFi 協議。</string>
 </resources>

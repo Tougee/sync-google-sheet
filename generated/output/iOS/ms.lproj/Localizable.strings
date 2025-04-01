@@ -282,6 +282,8 @@
 "circle_title" = "Lingkaran %@";
 "circles" = "Lingkaran";
 "circulation_supply" = "Circulation Supply";
+"classic_wallet_tip_description" = "A common multi-chain wallet that accesses decentralized applications and DeFi protocols.";
+"classic_wallet_tip_title" = "What’s the Common Wallet?";
 "clear" = "Kosong";
 "clear_cache" = "Clear Cache";
 "clear_chat" = "Kosongkan Sembang";
@@ -951,6 +953,8 @@
 "privacy" = "Privasi";
 "privacy_policy" = "Dasar Privasi";
 "privacy_wallet" = "Privacy Wallet";
+"privacy_wallet_tip_description" = "A multi-chain wallet with private, free, and instant transactions to meet most of your needs.";
+"privacy_wallet_tip_title" = "What’s the Privacy Wallet?";
 "process_can_not_be_stop" = "The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.";
 "profile" = "Profile";
 "profile_photo" = "Gambar profil";
