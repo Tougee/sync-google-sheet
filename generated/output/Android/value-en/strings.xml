@@ -1735,7 +1735,7 @@
 	<string name="web3_deposit">Deposit</string>
 	<string name="web3_deposit_description_evm">Use this address for receiving tokens on Ethereum, Polygon, BSC, Base networks</string>
 	<string name="web3_deposit_description_solana">Use this address for receiving tokens on Solana network</string>
-	<string name="web3_ensure_trust">Please ensure you trust this dapp before proceeding with the request.</string>
+	<string name="web3_ensure_trust">Please ensure you trust this app before proceeding with the request.</string>
 	<string name="web3_execute">Execute</string>
 	<string name="web3_message_request">Message Request</string>
 	<string name="web3_mint">Mint</string>
