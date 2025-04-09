@@ -170,6 +170,7 @@
 	<string name="App_version">应用版本</string>
 	<string name="Appearance">外观</string>
 	<string name="Apply">应用</string>
+	<string name="Approval">批准</string>
 	<string name="Approve">批准</string>
 	<string name="Approve_Transaction">批准交易</string>
 	<string name="Approving_Transaction">正在批准</string>
