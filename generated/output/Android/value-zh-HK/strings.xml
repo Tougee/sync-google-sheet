@@ -1514,7 +1514,7 @@
 	<string name="transaction_Hash">交易哈希</string>
 	<string name="Transaction_History">轉賬記錄</string>
 	<string name="Transaction_Id">交易編號</string>
-	<string name="Transaction_Pending_Confirmation">%1$s 交易處理中</string>
+	<string name="Transaction_Pending_Confirmation">有 1 筆交易處理中</string>
 	<string name="Transaction_Rejected">拒絕成功</string>
 	<string name="transaction_request">請求轉賬</string>
 	<string name="Transaction_Success">交易成功</string>

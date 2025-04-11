@@ -1284,7 +1284,7 @@
 "transaction_hash" = "Hash Transaksi";
 "transaction_history" = "Transaction History";
 "transaction_id" = "ID Transaksi";
-"transaction_pending_confirmation" = "%@ Pending Confirmation";
+"transaction_pending_confirmation" = "1 Transaction Pending Confirmation";
 "transaction_rejected" = "Transaction Rejected";
 "transaction_request" = "Transaction Request";
 "transaction_type" = "Jenis Transaksi";

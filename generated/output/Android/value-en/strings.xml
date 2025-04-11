@@ -1536,7 +1536,7 @@
 	<string name="transaction_Hash">Transaction Hash</string>
 	<string name="Transaction_History">Transaction History</string>
 	<string name="Transaction_Id">Transaction Id</string>
-	<string name="Transaction_Pending_Confirmation">%1$s Pending Confirmation</string>
+	<string name="Transaction_Pending_Confirmation">1 Transaction Pending Confirmation</string>
 	<string name="Transaction_Rejected">Transaction Rejected</string>
 	<string name="transaction_request">Transaction Request</string>
 	<string name="Transaction_Success">Transaction Success</string>
