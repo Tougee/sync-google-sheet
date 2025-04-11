@@ -2220,4 +2220,5 @@
   <string name="Approval" platform="android, iOS">Approval</string>
   <string name="approval_unlimited" platform="android, iOS">Unlimited</string>
   <string name="approval_count" platform="android, iOS">Approved %1$s</string>
+  <string name="token_access_approval" platform="android, iOS">Token Access Approval</string>
 </resources>
