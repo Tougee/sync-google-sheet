@@ -2190,4 +2190,6 @@
   <string name="classic_wallet_tip_title" platform="android, iOS">什麼是普通錢包？</string>
   <string name="classic_wallet_tip_description" platform="android, iOS">一個支援多鏈的常規錢包，可用於訪問去中心化應用和 DeFi 協議。</string>
   <string name="Approval" platform="android, iOS">授權</string>
+  <string name="approval_unlimited" platform="android, iOS">無限量</string>
+  <string name="approval_count" platform="android, iOS">已授權 %1$d</string>
 </resources>

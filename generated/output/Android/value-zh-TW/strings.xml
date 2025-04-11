@@ -171,6 +171,8 @@
 	<string name="Appearance">外觀</string>
 	<string name="Apply">應用</string>
 	<string name="Approval">授權</string>
+	<string name="approval_count">已授權 %1$d</string>
+	<string name="approval_unlimited">無限量</string>
 	<string name="Approve">批准</string>
 	<string name="Approve_Transaction">批准交易</string>
 	<string name="Approving_Transaction">正在批准</string>

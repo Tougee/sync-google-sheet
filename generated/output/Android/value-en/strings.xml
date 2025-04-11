@@ -172,6 +172,8 @@
 	<string name="Appearance">Appearance</string>
 	<string name="Apply">Apply</string>
 	<string name="Approval">Approval</string>
+	<string name="approval_count">Approved %1$d</string>
+	<string name="approval_unlimited">Unlimited</string>
 	<string name="Approve">Approve</string>
 	<string name="Approve_Transaction">Approve Transaction</string>
 	<string name="Approving_Transaction">Approving Transaction</string>

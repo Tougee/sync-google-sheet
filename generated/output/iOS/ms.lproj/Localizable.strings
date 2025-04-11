@@ -143,6 +143,8 @@
 "appearance" = "Penampilan";
 "apply" = "Guna";
 "approval" = "Approval";
+"approval_count" = "Approved %d";
+"approval_unlimited" = "Unlimited";
 "approve" = "Approve";
 "approve_transaction" = "Approve Transaction";
 "approving_transaction" = "Approving Transaction";

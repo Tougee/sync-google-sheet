@@ -143,6 +143,8 @@
 "appearance" = "外观";
 "apply" = "应用";
 "approval" = "授权";
+"approval_count" = "已授权 %d";
+"approval_unlimited" = "无限量";
 "approve" = "批准";
 "approve_transaction" = "批准交易";
 "approving_transaction" = "正在批准";
