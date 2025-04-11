@@ -1284,11 +1284,13 @@
 "transaction_hash" = "Hash Transaksi";
 "transaction_history" = "Transaction History";
 "transaction_id" = "ID Transaksi";
+"transaction_pending_confirmation" = "%@ Pending Confirmation";
 "transaction_rejected" = "Transaction Rejected";
 "transaction_request" = "Transaction Request";
 "transaction_type" = "Jenis Transaksi";
 "transactions" = "Transaksi";
 "transactions_cannot_be_deleted" = "Transactions CANNOT be deleted";
+"transactions_pending_confirmation" = "%d Transactions Pending Confirmation";
 "transcript" = "Transcript";
 "transfer" = "Transfer";
 "transfer_amount_count_down" = "Jumlah Transfer(%@)";

@@ -1536,12 +1536,14 @@
 	<string name="transaction_Hash">Transaction Hash</string>
 	<string name="Transaction_History">Transaction History</string>
 	<string name="Transaction_Id">Transaction Id</string>
+	<string name="Transaction_Pending_Confirmation">%1$s Pending Confirmation</string>
 	<string name="Transaction_Rejected">Transaction Rejected</string>
 	<string name="transaction_request">Transaction Request</string>
 	<string name="Transaction_Success">Transaction Success</string>
 	<string name="Transaction_Type">Transaction Type</string>
 	<string name="Transactions">Transactions</string>
 	<string name="Transactions_CANNOT_be_deleted">Transactions CANNOT be deleted</string>
+	<string name="Transactions_Pending_Confirmation">%1$d Transactions Pending Confirmation</string>
 	<string name="Transcript">Transcript</string>
 	<string name="Transfer">Transfer</string>
 	<string name="Transfer_Amount">Transfer Amount</string>
