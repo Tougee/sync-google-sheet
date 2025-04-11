@@ -1523,6 +1523,7 @@
 	<string name="To">To</string>
 	<string name="Today">Today</string>
 	<string name="Token">Token</string>
+	<string name="token_access_approval">Token Access Approval</string>
 	<string name="token_amount">Token Amount</string>
 	<string name="top_count">Top %1$d</string>
 	<string name="total">Total</string>

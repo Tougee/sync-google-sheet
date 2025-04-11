@@ -2192,4 +2192,5 @@
   <string name="Approval" platform="android, iOS">授權</string>
   <string name="approval_unlimited" platform="android, iOS">無限量</string>
   <string name="approval_count" platform="android, iOS">已授權 %1$s</string>
+  <string name="token_access_approval" platform="android, iOS">授權使用代幣</string>
 </resources>

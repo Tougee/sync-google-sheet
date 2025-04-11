@@ -1273,6 +1273,7 @@
 "to" = "至";
 "today" = "今天";
 "token" = "代幣";
+"token_access_approval" = "授權使用代幣";
 "top_count" = "前 %d";
 "total" = "共計";
 "total_amount" = "總金額";
