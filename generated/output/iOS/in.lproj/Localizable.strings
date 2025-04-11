@@ -143,7 +143,7 @@
 "appearance" = "Tampilan";
 "apply" = "Terapkan";
 "approval" = "Approval";
-"approval_count" = "Approved %d";
+"approval_count" = "Approved %@";
 "approval_unlimited" = "Unlimited";
 "approve" = "Approve";
 "approve_transaction" = "Approve Transaction";
