@@ -218,6 +218,8 @@
 "camera" = "Camera";
 "cancel" = "Cancel";
 "cancel_floating" = "Cancel Floating";
+"cancel_transaction" = "Cancel Transaction";
+"cancel_transaction_description" = "If the transaction is too far along cancellation may not be possible";
 "canceled" = "Cancelled";
 "canceled_by_caller" = "Cancelled by caller";
 "cant_receive_the_code" = "Can't receive the code?";
@@ -1214,6 +1216,9 @@
 "sort_by_oldest" = "Sort by Oldest";
 "sort_by_recent" = "Sort by Recent";
 "sort_by_value" = "Sort by Value";
+"speed_up" = "Speed Up";
+"speed_up_transaction" = "Speed Up Transaction";
+"speed_up_transaction_description" = "If the transaction is too far along this may not be possible";
 "start" = "Start";
 "start_backup" = "Start Backup";
 "start_messaging" = "Start Messaging";

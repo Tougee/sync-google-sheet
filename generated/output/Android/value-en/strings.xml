@@ -271,6 +271,8 @@
 	<string name="Cancel">Cancel</string>
 	<string name="Cancel_Floating">Cancel Floating</string>
 	<string name="cancel_order">Cancel Order</string>
+	<string name="cancel_transaction">Cancel Transaction</string>
+	<string name="cancel_transaction_description">If the transaction is too far along cancellation may not be possible</string>
 	<string name="Canceled">Cancelled</string>
 	<string name="Canceled_by_caller">Cancelled by caller</string>
 	<string name="Cant_receive_the_code">Can\'t receive the code?</string>
@@ -1449,6 +1451,9 @@
 	<string name="sort_by_oldest">Sort by Oldest</string>
 	<string name="sort_by_recent">Sort by Recent</string>
 	<string name="sort_by_value">Sort by Value</string>
+	<string name="speed_up">Speed Up</string>
+	<string name="speed_up_transaction">Speed Up Transaction</string>
+	<string name="speed_up_transaction_description">If the transaction is too far along this may not be possible</string>
 	<string name="Start">Start</string>
 	<string name="Start_Backup">Start Backup</string>
 	<string name="Start_Messaging">Start Messaging</string>

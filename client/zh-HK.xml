@@ -2193,4 +2193,9 @@
   <string name="approval_unlimited" platform="android, iOS">無限量</string>
   <string name="approval_count" platform="android, iOS">已授權 %1$s</string>
   <string name="token_access_approval" platform="android, iOS">授權使用代幣</string>
+  <string name="speed_up" platform="android, iOS">加速</string>
+  <string name="speed_up_transaction" platform="android, iOS">加速交易</string>
+  <string name="speed_up_transaction_description" platform="android, iOS">如果交易已有進展，可能無法加速</string>
+  <string name="cancel_transaction" platform="android, iOS">取消交易</string>
+  <string name="cancel_transaction_description" platform="android, iOS">如果交易已有進展，可能無法取消</string>
 </resources>
