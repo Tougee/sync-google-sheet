@@ -2221,4 +2221,9 @@
   <string name="approval_unlimited" platform="android, iOS">Unlimited</string>
   <string name="approval_count" platform="android, iOS">Approved %1$s</string>
   <string name="token_access_approval" platform="android, iOS">Token Access Approval</string>
+  <string name="speed_up" platform="android, iOS">Speed Up</string>
+  <string name="speed_up_transaction" platform="android, iOS">Speed Up Transaction</string>
+  <string name="speed_up_transaction_description" platform="android, iOS">If the transaction is too far along this may not be possible</string>
+  <string name="cancel_transaction" platform="android, iOS">Cancel Transaction</string>
+  <string name="cancel_transaction_description" platform="android, iOS">If the transaction is too far along cancellation may not be possible</string>
 </resources>
