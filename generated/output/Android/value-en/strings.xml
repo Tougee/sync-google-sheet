@@ -1085,6 +1085,8 @@
 		<item quantity="one">%1$d/%2$d confirmation</item>
 		<item quantity="other">%1$d/%2$d confirmations</item>
 	</plurals>
+	<string name="pending_transaction_one">1 Pending Transaction</string>
+	<string name="pending_transactions_count">%1$d Pending Transactions</string>
 	<string name="permission_audio">Allow to record audio?</string>
 	<string name="permission_camera">Allow to take pictures?</string>
 	<string name="permission_video">Allow to record video?</string>
@@ -1533,7 +1535,7 @@
 	<string name="top_count">Top %1$d</string>
 	<string name="total">Total</string>
 	<string name="Total_Amount">Total Amount</string>
-	<string name="Total_assets">Total assets</string>
+	<string name="Total_Balance">Total Balance</string>
 	<string name="Total_Supply">Total Supply</string>
 	<string name="Touch_the_fingerprint_sensor">Touch the fingerprint sensor</string>
 	<string name="Trace">Trace</string>
@@ -1544,14 +1546,12 @@
 	<string name="transaction_Hash">Transaction Hash</string>
 	<string name="Transaction_History">Transaction History</string>
 	<string name="Transaction_Id">Transaction Id</string>
-	<string name="Transaction_Pending_Confirmation">1 Transaction Pending Confirmation</string>
 	<string name="Transaction_Rejected">Transaction Rejected</string>
 	<string name="transaction_request">Transaction Request</string>
 	<string name="Transaction_Success">Transaction Success</string>
 	<string name="Transaction_Type">Transaction Type</string>
 	<string name="Transactions">Transactions</string>
 	<string name="Transactions_CANNOT_be_deleted">Transactions CANNOT be deleted</string>
-	<string name="Transactions_Pending_Confirmation">%1$d Transactions Pending Confirmation</string>
 	<string name="Transcript">Transcript</string>
 	<string name="Transfer">Transfer</string>
 	<string name="Transfer_Amount">Transfer Amount</string>

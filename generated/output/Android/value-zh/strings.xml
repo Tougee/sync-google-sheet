@@ -1067,6 +1067,8 @@
 		<item quantity="one">%1$d/%2$d 区块确认数</item>
 		<item quantity="other">%1$d/%2$d 区块确认数</item>
 	</plurals>
+	<string name="pending_transaction_one">有 1 笔交易处理中</string>
+	<string name="pending_transactions_count">有 %1$d 笔交易处理中</string>
 	<string name="permission_audio">要允许录制声音吗？</string>
 	<string name="permission_camera">要允许拍摄照片吗？</string>
 	<string name="permission_video">要允许拍摄视频吗？</string>
@@ -1512,7 +1514,7 @@
 	<string name="top_count">前 %1$d</string>
 	<string name="total">共计</string>
 	<string name="Total_Amount">总金额</string>
-	<string name="Total_assets">资产合计</string>
+	<string name="Total_Balance">资产合计</string>
 	<string name="Total_Supply">总量</string>
 	<string name="Touch_the_fingerprint_sensor">触摸指纹传感器</string>
 	<string name="Transaction">交易详情</string>
@@ -1522,14 +1524,12 @@
 	<string name="transaction_Hash">交易哈希</string>
 	<string name="Transaction_History">转账记录</string>
 	<string name="Transaction_Id">交易编号</string>
-	<string name="Transaction_Pending_Confirmation">有 1 笔交易处理中</string>
 	<string name="Transaction_Rejected">拒绝成功</string>
 	<string name="transaction_request">请求转账</string>
 	<string name="Transaction_Success">交易成功</string>
 	<string name="Transaction_Type">交易类型</string>
 	<string name="Transactions">转账记录</string>
 	<string name="Transactions_CANNOT_be_deleted">转账记录不会被删除</string>
-	<string name="Transactions_Pending_Confirmation">有 %1$d 笔交易处理中</string>
 	<string name="Transcript">聊天记录</string>
 	<string name="Transfer">转账</string>
 	<string name="Transfer_Amount">转账金额</string>
