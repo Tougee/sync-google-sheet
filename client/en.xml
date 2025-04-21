@@ -2170,8 +2170,8 @@
   <string name="Enable_Notifications" platform="android,iOS">Enable Notifications</string>
   <string name="Deposit_Pending_Confirmation" platform="android,iOS">%1$s Pending Confirmation</string>
   <string name="Deposits_Pending_Confirmation" platform="android,iOS">%1$d Deposits Pending Confirmation</string>
-  <string name="Transaction_Pending_Confirmation" platform="android,iOS">1 Transaction Pending Confirmation</string>
-  <string name="Transactions_Pending_Confirmation" platform="android,iOS">%1$d Transactions Pending Confirmation</string>
+  <string name="pending_transaction_one" platform="android,iOS">1 Pending Transaction</string>
+  <string name="pending_transactions_count" platform="android,iOS">%1$d Pending Transactions</string>
   <string name="open_source" platform="android,iOS">Copyright Mixin Messenger\nLicensed under the GPLv3</string>
   <string name="single_transaction_should_be_greater_than" platform="android,iOS">Minimum amount %1$s %2$s</string>
   <string name="single_transaction_should_be_less_than" platform="android,iOS">Maximum amount %1$s %2$s</string>
@@ -2208,7 +2208,7 @@
   <string name="Address_Book" platform="android, iOS">Address Book</string>
   <string name="insufficient_fee_description" platform="android, iOS">You need %1$s on the %2$s network to cover the network fee</string>
   <string name="invalid_tag_description" platform="android, iOS">Tag must be a non-zero number</string>
-  <string name="Total_assets" platform="android, iOS">Total assets</string>
+  <string name="Total_Balance" platform="android, iOS">Total Balance</string>
   <string name="Privacy_Wallet" platform="android, iOS">Privacy Wallet</string>
   <string name="Common_Wallet" platform="android, iOS">Common Wallet</string>
   <string name="Exchanges_or_Wallets" platform="android, iOS">Exchanges or Wallets</string>
