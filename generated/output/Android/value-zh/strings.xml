@@ -173,6 +173,7 @@
 	<string name="Approval">授权</string>
 	<string name="approval_count">已授权 %1$s</string>
 	<string name="approval_unlimited">无限量</string>
+	<string name="approval_unlimited_warning">此 App 可以提取你所有的 %1$s</string>
 	<string name="Approve">批准</string>
 	<string name="Approve_Transaction">批准交易</string>
 	<string name="Approving_Transaction">正在批准</string>

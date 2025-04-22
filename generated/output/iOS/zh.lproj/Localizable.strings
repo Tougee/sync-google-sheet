@@ -145,6 +145,7 @@
 "approval" = "授权";
 "approval_count" = "已授权 %@";
 "approval_unlimited" = "无限量";
+"approval_unlimited_warning" = "此 App 可以提取你所有的 %@";
 "approve" = "批准";
 "approve_transaction" = "批准交易";
 "approving_transaction" = "正在批准";
