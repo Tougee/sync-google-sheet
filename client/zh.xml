@@ -2191,6 +2191,7 @@
   <string name="classic_wallet_tip_description" platform="android, iOS">一个支持多链的常规钱包，可用于访问去中心化应用和 DeFi 协议。</string>
   <string name="Approval" platform="android, iOS">授权</string>
   <string name="approval_unlimited" platform="android, iOS">无限量</string>
+  <string name="approval_unlimited_warning" platform="android, iOS">此 App 可以提取你所有的 %1$s</string>
   <string name="approval_count" platform="android, iOS">已授权 %1$s</string>
   <string name="token_access_approval" platform="android, iOS">授权使用代币</string>
   <string name="speed_up" platform="android, iOS">加速</string>
