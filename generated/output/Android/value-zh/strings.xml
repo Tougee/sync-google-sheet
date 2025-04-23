@@ -1564,6 +1564,7 @@
 	<string name="unable_connect_to_desktop">无法连接到桌面，请稍后重试</string>
 	<string name="Unable_synced_between_different_account">不同账户之间无法同步聊天记录</string>
 	<string name="unable_to_decode_the_request">无法解析请求: %1$s</string>
+	<string name="Unable_to_estimate_asset_changes">无法估计资产变化</string>
 	<string name="Unblock">解除屏蔽</string>
 	<string name="UNDO">撤销</string>
 	<string name="unfamiliar_person_reminder">%1$s（%2$s）不是你的联系人，请注意收款人是否正确。</string>

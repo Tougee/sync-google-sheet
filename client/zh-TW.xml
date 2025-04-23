@@ -2199,4 +2199,5 @@
   <string name="speed_up_transaction_description" platform="android, iOS">如果交易已有進展，可能無法加速</string>
   <string name="cancel_transaction" platform="android, iOS">取消交易</string>
   <string name="cancel_transaction_description" platform="android, iOS">如果交易已有進展，可能無法取消</string>
+  <string name="Unable_to_estimate_asset_changes" platform="android, iOS">無法估計資產變化</string>
 </resources>

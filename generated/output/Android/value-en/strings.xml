@@ -1586,6 +1586,7 @@
 	<string name="unable_connect_to_desktop">Unable to connect to the desktop, please try again later</string>
 	<string name="Unable_synced_between_different_account">Chat history cannot be synced between different accounts</string>
 	<string name="unable_to_decode_the_request">Unable to decode the request: %1$s</string>
+	<string name="Unable_to_estimate_asset_changes">Unable to estimate asset changes</string>
 	<string name="Unblock">Unblock</string>
 	<string name="UNDO">UNDO</string>
 	<string name="unfamiliar_person_reminder">%1$s (%2$s) is not in your contacts. Please verify if the recipient is correct.</string>
