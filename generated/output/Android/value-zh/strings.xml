@@ -271,7 +271,7 @@
 	<string name="Cancel_Floating">取消浮窗</string>
 	<string name="cancel_order">取消订单</string>
 	<string name="cancel_transaction">取消交易</string>
-	<string name="cancel_transaction_description">如果交易已有进展，可能无法取消</string>
+	<string name="cancel_transaction_description">如果交易已接近完成，可能无法取消</string>
 	<string name="Canceled">已取消</string>
 	<string name="Canceled_by_caller">对方已取消</string>
 	<string name="Cant_receive_the_code">接收不到验证码？</string>
@@ -1435,7 +1435,7 @@
 	<string name="sort_by_value">按价值排序</string>
 	<string name="speed_up">加速</string>
 	<string name="speed_up_transaction">加速交易</string>
-	<string name="speed_up_transaction_description">如果交易已有进展，可能无法加速</string>
+	<string name="speed_up_transaction_description">如果交易已接近完成，可能无法加速</string>
 	<string name="Start">开始</string>
 	<string name="Start_Backup">开始备份</string>
 	<string name="Start_Messaging">开始聊天</string>
