@@ -2196,8 +2196,8 @@
   <string name="token_access_approval" platform="android, iOS">授权使用代币</string>
   <string name="speed_up" platform="android, iOS">加速</string>
   <string name="speed_up_transaction" platform="android, iOS">加速交易</string>
-  <string name="speed_up_transaction_description" platform="android, iOS">如果交易已有进展，可能无法加速</string>
+  <string name="speed_up_transaction_description" platform="android, iOS">如果交易已接近完成，可能无法加速</string>
   <string name="cancel_transaction" platform="android, iOS">取消交易</string>
-  <string name="cancel_transaction_description" platform="android, iOS">如果交易已有进展，可能无法取消</string>
+  <string name="cancel_transaction_description" platform="android, iOS">如果交易已接近完成，可能无法取消</string>
   <string name="Unable_to_estimate_asset_changes" platform="android, iOS">无法估计资产变化</string>
 </resources>
