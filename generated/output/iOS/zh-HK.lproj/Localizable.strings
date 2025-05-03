@@ -1113,6 +1113,7 @@
 "send_message" = "發消息";
 "send_photo" = "發送 1 張圖片";
 "send_photo_count" = "發送 %d 張圖片";
+"send_sol_for_rent" = "發送至少 %@ SOL 以支付租金";
 "send_this_location" = "發送這個位置";
 "send_to" = "發送給 %@";
 "send_to_address_description" = "通過區塊鏈網絡轉給已知地址";

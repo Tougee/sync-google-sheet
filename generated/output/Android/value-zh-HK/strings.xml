@@ -1297,6 +1297,7 @@
 	<string name="send_file_group">將 \"%1$s\" 發送給 \"%2$s\"？</string>
 	<string name="Send_Message">發消息</string>
 	<string name="send_signed_message_confirmation">此消息已被簽名，點擊下方按鈕以發送或丟棄</string>
+	<string name="send_sol_for_rent">發送至少 %1$s SOL 以支付租金</string>
 	<string name="Send_This_Location">發送這個位置</string>
 	<string name="send_to">發送給 %1$s</string>
 	<string name="send_to_address_description">通過區塊鏈網絡轉給已知地址</string>

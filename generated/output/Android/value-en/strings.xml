@@ -1317,6 +1317,7 @@
 	<string name="send_file_group">Send \"%1$s\" to \"%2$s\"?</string>
 	<string name="Send_Message">Send Message</string>
 	<string name="send_signed_message_confirmation">The message has been signed successfully, click the button below to send or discard the signed message</string>
+	<string name="send_sol_for_rent">Send at least %1$s SOL for the rent</string>
 	<string name="Send_This_Location">Send This Location</string>
 	<string name="send_to">Send to %1$s</string>
 	<string name="send_to_address_description">Send to a known crypto address using a crypto network</string>
