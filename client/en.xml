@@ -2228,4 +2228,5 @@
   <string name="cancel_transaction" platform="android, iOS">Cancel Transaction</string>
   <string name="cancel_transaction_description" platform="android, iOS">If the transaction is too far along cancellation may not be possible</string>
   <string name="Unable_to_estimate_asset_changes" platform="android, iOS">Unable to estimate asset changes</string>
+  <string name="send_sol_for_rent" platform="android, iOS">Send at least %1$s SOL for the rent</string>
 </resources>
