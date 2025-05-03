@@ -1134,7 +1134,7 @@
   <string name="Preparing" platform="iOS">Preparing...</string>
   <string name="Preparing_progress" platform="iOS">Preparing...(%@)</string>
   <string name="preview_unavailable" platform="android">Preview unavailable</string>
-  <string name="preview_unavailable_description" platform="android">Unable to estimate asset changes. Please make sure you trust this app.</string>
+  <string name="preview_unavailable_description" platform="android">Unable to estimate balance changes. Please make sure you trust this app.</string>
   <string name="previous_conversation" platform="Desktop">Previous conversation</string>
   <string name="price_expired" platform="android">Price Expired</string>
   <string name="Privacy" platform="android, iOS">Privacy</string>
@@ -1819,7 +1819,7 @@
   <string name="unlimited_authorization_warning" platform="android, iOS">This application can access all %3$s in your %1$s account (%2$s).</string>
   <string name="withdraw_all_of_token_warning" platform="android, iOS">This app can withdraw all your %1$s.</string>
   <string name="Connect" platform="android, iOS">Connect</string>
-  <string name="decode_transaction_failed" platform="android, iOS">Unable to estimate asset changes. Be cautious and only sign transactions for apps you trust.</string>
+  <string name="decode_transaction_failed" platform="android, iOS">Unable to estimate balance changes. Be cautious and only sign transactions for apps you trust.</string>
   <string name="web3_ensure_trust" platform="android, iOS">Please ensure you trust this app before proceeding with the request.</string>
   <string name="web3_transaction_request" platform="android, iOS">Transaction Request</string>
   <string name="web3_message_request" platform="android, iOS">Message Request</string>
@@ -1941,8 +1941,7 @@
   <string name="swap_failed" platform="android,iOS">Swap Failed</string>
   <string name="swap_message_success" platform="android,iOS">Your transaction has been sent to network and will be processed within a few minutes.</string>
   <string name="Price" platform="android,iOS">Price</string>
-  <string name="asset_changes" platform="android,iOS">Asset changes</string>
-  <string name="asset_changes_estimate" platform="android,iOS">Asset changes (estimate)</string>
+  <string name="balance_changes" platform="android,iOS">Balance changes</string>
   <string name="swap_no_available_quote" platform="android,iOS">No available quote found. Please try a different token.</string>
   <string name="swap_invalid_amount" platform="android,iOS">No available quote found. Please try a different amount.</string>
   <string name="swap_send" platform="android,iOS">Send</string>
@@ -2227,6 +2226,6 @@
   <string name="speed_up_transaction_description" platform="android, iOS">If the transaction is too far along this may not be possible</string>
   <string name="cancel_transaction" platform="android, iOS">Cancel Transaction</string>
   <string name="cancel_transaction_description" platform="android, iOS">If the transaction is too far along cancellation may not be possible</string>
-  <string name="Unable_to_estimate_asset_changes" platform="android, iOS">Unable to estimate asset changes</string>
+  <string name="Unable_to_estimate_balance_changes" platform="android, iOS">Unable to estimate balance changes</string>
   <string name="send_sol_for_rent" platform="android, iOS">Send at least %1$s SOL for the rent</string>
 </resources>
