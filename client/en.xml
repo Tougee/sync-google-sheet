@@ -2220,7 +2220,7 @@
   <string name="approval_unlimited" platform="android, iOS">Unlimited</string>
   <string name="approval_unlimited_warning" platform="android, iOS">This app can withdraw all your %1$s</string>
   <string name="approval_count" platform="android, iOS">Approved %1$s</string>
-  <string name="token_access_approval" platform="android, iOS">Token Access Approval</string>
+  <string name="preauthorize_amount" platform="android, iOS">Pre-authorize Amount</string>
   <string name="speed_up" platform="android, iOS">Speed Up</string>
   <string name="speed_up_transaction" platform="android, iOS">Speed Up Transaction</string>
   <string name="speed_up_transaction_description" platform="android, iOS">If the transaction is too far along this may not be possible</string>
