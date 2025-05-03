@@ -727,6 +727,13 @@
 "max" = "Max";
 "max_favorite_bots_description" = "You can add a maximum of 5 favorite bots. Please be aware that others can view these bots on your profile.";
 "media" = "Медиа";
+"membership_advance" = "Advance";
+"membership_advance_description" = "Use multiple keys on multiple devices to avoid single point of failure, and get decentralized recovery service in case of key loss.";
+"membership_elite" = "Elite";
+"membership_elite_description" = "Manage large fortune in Mixin Safe with family, friends or colleagues, so you can avoid thefts, accidents and custody risks.";
+"membership_plan" = "Plan";
+"membership_prosperity" = "Prosperity";
+"membership_prosperity_description" = "Professional crypto solutions with 24/7 support, best for family offices, large corporations and financial institutions.";
 "memo" = "Памятка";
 "memo_placeholder" = "Enter the Memo. If there isn’t one, just tap “Next”.";
 "message_e2ee" = "Сообщения в этом чате полностью зашифрованы. Нажмите, чтобы узнать больше.";

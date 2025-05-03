@@ -879,6 +879,13 @@
 	<string name="Max">最大值</string>
 	<string name="max_favorite_bots_description">最多可以添加 5 個喜歡的機器人，注意其他人可以在你的個人信息彈窗裏查看這些你喜歡的機器人。</string>
 	<string name="Media">媒體</string>
+	<string name="membership_advance">進階版</string>
+	<string name="membership_advance_description">在多設備上使用多個密鑰，避免單點故障，並在密鑰丟失時獲得去中心化的恢復服務。</string>
+	<string name="membership_elite">精英版</string>
+	<string name="membership_elite_description">與家人、朋友或同事一起使用 Mixin Safe 管理大量資產，從而規避盜竊、意外和託管風險。</string>
+	<string name="membership_plan">級別</string>
+	<string name="membership_prosperity">傳世版</string>
+	<string name="membership_prosperity_description">提供專業的加密貨幣解決方案與 24/7 全天候支持，最適合家族辦公室、大型企業和金融機構。</string>
 	<string name="Memo">備註</string>
 	<string name="memo_placeholder">輸入地址備註（Memo），如果沒有直接點下一步。</string>
 	<string name="message">消息</string>
