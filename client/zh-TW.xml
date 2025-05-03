@@ -1914,8 +1914,7 @@
   <string name="swap_failed" platform="android,iOS">交易失敗</string>
   <string name="swap_message_success" platform="android,iOS">您的交易已傳送至網路，將很快被處理。</string>
   <string name="Price" platform="android,iOS">價格</string>
-  <string name="asset_changes" platform="android,iOS">資產變動</string>
-  <string name="asset_changes_estimate" platform="android,iOS">資產變動（預估）</string>
+  <string name="balance_changes" platform="android,iOS">資產變動</string>
   <string name="swap_no_available_quote" platform="android,iOS">沒有報價。請嘗試切換幣種。</string>
   <string name="swap_invalid_amount" platform="android,iOS">沒有報價。請嘗試修改金額。</string>
   <string name="swap_send" platform="android,iOS">支付</string>
@@ -2199,6 +2198,6 @@
   <string name="speed_up_transaction_description" platform="android, iOS">如果交易已接近完成，可能無法加速</string>
   <string name="cancel_transaction" platform="android, iOS">取消交易</string>
   <string name="cancel_transaction_description" platform="android, iOS">如果交易已接近完成，可能無法取消</string>
-  <string name="Unable_to_estimate_asset_changes" platform="android, iOS">無法估計資產變化</string>
+  <string name="Unable_to_estimate_balance_changes" platform="android, iOS">無法估計資產變化</string>
   <string name="send_sol_for_rent" platform="android, iOS">傳送至少 %1$s SOL 以支付租金</string>
 </resources>

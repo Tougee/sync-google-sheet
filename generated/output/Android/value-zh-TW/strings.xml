@@ -222,6 +222,7 @@
 	<string name="Backup_success">備份成功</string>
 	<string name="Balance">餘額</string>
 	<string name="balance_abbreviation">餘額 %1$s</string>
+	<string name="balance_changes">資產變動</string>
 	<string name="balance_half">取半</string>
 	<string name="balance_max">最大</string>
 	<string name="Batch_Transfer_Confirmation">批次轉賬確認</string>
@@ -1563,6 +1564,7 @@
 	<string name="unable_connect_to_desktop">無法連線到桌面，請稍後重試</string>
 	<string name="Unable_synced_between_different_account">不同賬戶之間無法同步聊天記錄</string>
 	<string name="unable_to_decode_the_request">無法解析請求: %1$s</string>
+	<string name="Unable_to_estimate_balance_changes">無法估計資產變化</string>
 	<string name="Unblock">解除封鎖</string>
 	<string name="UNDO">撤銷</string>
 	<string name="unfamiliar_person_reminder">%1$s（%2$s）不是你的聯絡人，請注意收款人是否正確。</string>
