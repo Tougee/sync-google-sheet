@@ -180,8 +180,6 @@
 	<string name="Approving_Transaction">Approving Transaction</string>
 	<string name="Approving_Transaction_Failed">Approving Transaction Failed</string>
 	<string name="Ask_me_anything">Ask me anything</string>
-	<string name="asset_changes">Asset changes</string>
-	<string name="asset_changes_estimate">Asset changes (estimate)</string>
 	<string name="Asset_Key">Asset Key</string>
 	<string name="Asset_Migration">Network Upgrade</string>
 	<string name="Asset_not_found">Asset not found.</string>
@@ -226,6 +224,7 @@
 	<string name="Backup_success">Backup success</string>
 	<string name="Balance">Balance</string>
 	<string name="balance_abbreviation">Bal %1$s</string>
+	<string name="balance_changes">Balance changes</string>
 	<string name="balance_half">HALF</string>
 	<string name="balance_max">MAX</string>
 	<string name="Batch_Transfer_Confirmation">Batch Transfer Confirmation</string>
@@ -496,7 +495,7 @@
 	<string name="Debug_Tools">Debug Tools</string>
 	<string name="Decline">Decline</string>
 	<string name="Declined">Declined</string>
-	<string name="decode_transaction_failed">Unable to estimate asset changes. Be cautious and only sign transactions for apps you trust.</string>
+	<string name="decode_transaction_failed">Unable to estimate balance changes. Be cautious and only sign transactions for apps you trust.</string>
 	<string name="deep_clean">Deep clean</string>
 	<string name="deep_cleaning">Cleaning up…</string>
 	<string name="deep_cleaning_deleted">Cleaning up, %1$s deleted</string>
@@ -1128,7 +1127,7 @@
 	<string name="powered_by_mixin_route_suffix">Mixin Route</string>
 	<string name="preauthorize_amount">Pre-authorize Amount</string>
 	<string name="preview_unavailable">Preview unavailable</string>
-	<string name="preview_unavailable_description">Unable to estimate asset changes. Please make sure you trust this app.</string>
+	<string name="preview_unavailable_description">Unable to estimate balance changes. Please make sure you trust this app.</string>
 	<string name="Price">Price</string>
 	<string name="price_alert_notification_permission">Price alerts require notification permission to be enabled.</string>
 	<string name="price_change_24h">24h Price Change</string>
@@ -1587,7 +1586,7 @@
 	<string name="unable_connect_to_desktop">Unable to connect to the desktop, please try again later</string>
 	<string name="Unable_synced_between_different_account">Chat history cannot be synced between different accounts</string>
 	<string name="unable_to_decode_the_request">Unable to decode the request: %1$s</string>
-	<string name="Unable_to_estimate_asset_changes">Unable to estimate asset changes</string>
+	<string name="Unable_to_estimate_balance_changes">Unable to estimate balance changes</string>
 	<string name="Unblock">Unblock</string>
 	<string name="UNDO">UNDO</string>
 	<string name="unfamiliar_person_reminder">%1$s (%2$s) is not in your contacts. Please verify if the recipient is correct.</string>

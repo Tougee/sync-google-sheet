@@ -179,8 +179,6 @@
 	<string name="Approving_Transaction">正在批准</string>
 	<string name="Approving_Transaction_Failed">批准失败</string>
 	<string name="Ask_me_anything">向我提问</string>
-	<string name="asset_changes">资产变动</string>
-	<string name="asset_changes_estimate">资产变动（预估）</string>
 	<string name="Asset_Key">资产标识</string>
 	<string name="Asset_Migration">资产迁移</string>
 	<string name="Asset_not_found">找不到该资产</string>
@@ -1565,7 +1563,6 @@
 	<string name="unable_connect_to_desktop">无法连接到桌面，请稍后重试</string>
 	<string name="Unable_synced_between_different_account">不同账户之间无法同步聊天记录</string>
 	<string name="unable_to_decode_the_request">无法解析请求: %1$s</string>
-	<string name="Unable_to_estimate_asset_changes">无法估计资产变化</string>
 	<string name="Unblock">解除屏蔽</string>
 	<string name="UNDO">撤销</string>
 	<string name="unfamiliar_person_reminder">%1$s（%2$s）不是你的联系人，请注意收款人是否正确。</string>
