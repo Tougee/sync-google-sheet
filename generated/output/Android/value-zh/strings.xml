@@ -1107,7 +1107,7 @@
 	<string name="POST">文章</string>
 	<string name="powered_by_mixin_route_prefix">由</string>
 	<string name="powered_by_mixin_route_suffix">Mixin Route 提供服务</string>
-	<string name="preauthorize_amount">授权使用代币</string>
+	<string name="preauthorize_amount">预授权额度</string>
 	<string name="preview_unavailable">预览不可用</string>
 	<string name="preview_unavailable_description">无法预览资产变化。请确保你信任此 app。</string>
 	<string name="Price">价格</string>

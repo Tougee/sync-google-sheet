@@ -943,7 +943,7 @@
 "please_use_when_network_is_connected" = "请在网络流畅的环境下进行此操作";
 "post" = "文章";
 "post_sharing" = "文章";
-"preauthorize_amount" = "授权使用代币";
+"preauthorize_amount" = "预授权额度";
 "preparing" = "正在准备...";
 "preparing_progress" = "备份中...（%@）";
 "price" = "价格";
