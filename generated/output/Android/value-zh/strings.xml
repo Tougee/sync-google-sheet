@@ -1107,7 +1107,7 @@
 	<string name="POST">文章</string>
 	<string name="powered_by_mixin_route_prefix">由</string>
 	<string name="powered_by_mixin_route_suffix">Mixin Route 提供服务</string>
-	<string name="preauthorize_amount">预授权额度</string>
+	<string name="preauthorize_amount">授权使用代币</string>
 	<string name="preview_unavailable">预览不可用</string>
 	<string name="preview_unavailable_description">无法预览资产变化。请确保你信任此 app。</string>
 	<string name="Price">价格</string>
@@ -1510,7 +1510,6 @@
 	<string name="To">至</string>
 	<string name="Today">今天</string>
 	<string name="Token">代币</string>
-	<string name="token_access_approval">授权使用代币</string>
 	<string name="token_amount">代币总数</string>
 	<string name="top_count">前 %1$d</string>
 	<string name="total">共计</string>

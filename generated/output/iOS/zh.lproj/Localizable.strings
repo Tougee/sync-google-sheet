@@ -943,7 +943,7 @@
 "please_use_when_network_is_connected" = "请在网络流畅的环境下进行此操作";
 "post" = "文章";
 "post_sharing" = "文章";
-"preauthorize_amount" = "预授权额度";
+"preauthorize_amount" = "授权使用代币";
 "preparing" = "正在准备...";
 "preparing_progress" = "备份中...（%@）";
 "price" = "价格";
@@ -1281,7 +1281,6 @@
 "to" = "至";
 "today" = "今天";
 "token" = "代币";
-"token_access_approval" = "授权使用代币";
 "top_count" = "前 %d";
 "total" = "共计";
 "total_amount" = "总金额";

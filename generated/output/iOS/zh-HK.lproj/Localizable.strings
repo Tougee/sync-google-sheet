@@ -943,7 +943,7 @@
 "please_use_when_network_is_connected" = "請在網絡流暢的環境下進行此操作";
 "post" = "文章";
 "post_sharing" = "文章";
-"preauthorize_amount" = "預授權額度";
+"preauthorize_amount" = "授權使用代幣";
 "preparing" = "正在準備...";
 "preparing_progress" = "備份中...（%@）";
 "price" = "價格";
@@ -1281,7 +1281,6 @@
 "to" = "至";
 "today" = "今天";
 "token" = "代幣";
-"token_access_approval" = "授權使用代幣";
 "top_count" = "前 %d";
 "total" = "共計";
 "total_amount" = "總金額";
