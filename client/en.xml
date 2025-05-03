@@ -2227,4 +2227,11 @@
   <string name="cancel_transaction_description" platform="android, iOS">If the transaction is too far along cancellation may not be possible</string>
   <string name="Unable_to_estimate_balance_changes" platform="android, iOS">Unable to estimate balance changes</string>
   <string name="send_sol_for_rent" platform="android, iOS">Send at least %1$s SOL for the rent</string>
+  <string name="membership_plan" platform="android, iOS">Plan</string>
+  <string name="membership_advance" platform="android, iOS">Advance</string>
+  <string name="membership_elite" platform="android, iOS">Elite</string>
+  <string name="membership_prosperity" platform="android, iOS">Prosperity</string>
+  <string name="membership_advance_description" platform="android, iOS">Use multiple keys on multiple devices to avoid single point of failure, and get decentralized recovery service in case of key loss.</string>
+  <string name="membership_elite_description" platform="android, iOS">Manage large fortune in Mixin Safe with family, friends or colleagues, so you can avoid thefts, accidents and custody risks.</string>
+  <string name="membership_prosperity_description" platform="android, iOS">Professional crypto solutions with 24/7 support, best for family offices, large corporations and financial institutions.</string>
 </resources>
