@@ -726,6 +726,7 @@
 	<string name="Forward_to_friend">转发给好友</string>
 	<string name="fourth_pin_confirm_hint">这是最后一次确认 PIN，记住：PIN 丢失将永远无法找回！</string>
 	<string name="free">免手续费</string>
+	<string name="free_recovery_service">免费的资产恢复服务</string>
 	<string name="Friday">星期五</string>
 	<string name="From">来自</string>
 	<string name="From_Address">从外部转入</string>
@@ -881,6 +882,11 @@
 	<string name="Media">媒体</string>
 	<string name="membership_advance">进阶版</string>
 	<string name="membership_advance_description">在多设备上使用多个密钥，避免单点故障，并在密钥丢失时获得去中心化的恢复服务。</string>
+	<string name="membership_benefit_create_safe">可创建 %1$d 个金库</string>
+	<string name="membership_benefit_free_recovery_service">资产恢复服务免费使用</string>
+	<string name="membership_benefit_get_stars">得到 %1$d 个 Mixin Stars</string>
+	<string name="membership_benefit_paid_recovery_service">支付 %1$d Mixin Stars 使用资产恢复服务</string>
+	<string name="membership_benefit_safe_members">每个金库最多 %1$d 个共管人，所有金库最多 %2$d 个共管人</string>
 	<string name="membership_elite">精英版</string>
 	<string name="membership_elite_description">与家人、朋友或同事一起使用 Mixin Safe 管理大量资产，从而规避盗窃、意外和托管风险。</string>
 	<string name="membership_plan">级别</string>
@@ -1058,6 +1064,7 @@
 	<string name="Overwrite">覆盖</string>
 	<string name="Owner">群主</string>
 	<string name="Paid">已支付</string>
+	<string name="paid_recovery_service">收费的资产恢复服务</string>
 	<string name="parse_dns_result">解析 DNS 结果</string>
 	<string name="Participants">成员</string>
 	<string name="Paste">粘贴</string>
@@ -1247,6 +1254,7 @@
 	<string name="Revoking_Multisig_Failed">撤销多重签名交易失败</string>
 	<string name="Revoking_Multisig_Signature">正在撤销多签交易</string>
 	<string name="SAFE">金库</string>
+	<string name="safe_members">金库共管人</string>
 	<string name="Saturday">星期六</string>
 	<string name="Save">保存</string>
 	<string name="Save_failure">保存失败</string>

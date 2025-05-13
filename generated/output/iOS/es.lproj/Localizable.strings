@@ -598,6 +598,7 @@
 "forward" = "Adelante";
 "fourth_pin_confirm_hint" = "Sí, hay una cuarta confirmación de PIN y le prometo que es la última para asegurarse de que has recordado tu PIN. El PIN es irrecuperable si se pierde.";
 "free" = "FREE";
+"free_recovery_service" = "Free Recovery Service";
 "from" = "De";
 "from_address" = "From address";
 "from_date" = "From %@";
@@ -729,6 +730,11 @@
 "media" = "Medios de comunicación";
 "membership_advance" = "Advance";
 "membership_advance_description" = "Use multiple keys on multiple devices to avoid single point of failure, and get decentralized recovery service in case of key loss.";
+"membership_benefit_create_safe" = "Create %d safes";
+"membership_benefit_free_recovery_service" = "Use the recovery service for free";
+"membership_benefit_get_stars" = "Get %d Mixin Stars";
+"membership_benefit_paid_recovery_service" = "Pay %d Mixin Stars to use the recovery service";
+"membership_benefit_safe_members" = "%1$d members per safe, %2$d members in total";
 "membership_elite" = "Elite";
 "membership_elite_description" = "Manage large fortune in Mixin Safe with family, friends or colleagues, so you can avoid thefts, accidents and custody risks.";
 "membership_plan" = "Plan";
@@ -886,6 +892,7 @@
 "overwrite" = "Overwrite";
 "owner" = "Propietario";
 "paid" = "Paid";
+"paid_recovery_service" = "Paid Recovery Service";
 "participants" = "Participantes";
 "participants_count" = "%@ PARTICIPANTES";
 "paste" = "Paste";
@@ -1066,6 +1073,7 @@
 "revoking_multisig_signature" = "Revoking Multisig Signature";
 "room_is_full" = "El cuarto está lleno";
 "safe" = "SAFE";
+"safe_members" = "Safe Members";
 "save" = "Guardar";
 "save_image" = "Guardar imagen";
 "save_to_camera_roll" = "Guarda en el Rollo de la cámara";

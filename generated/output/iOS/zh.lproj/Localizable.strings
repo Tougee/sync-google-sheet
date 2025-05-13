@@ -598,6 +598,7 @@
 "forward" = "转发";
 "fourth_pin_confirm_hint" = "这是最后一次确认 PIN，记住：PIN 丢失将永远无法找回！";
 "free" = "免手续费";
+"free_recovery_service" = "免费的资产恢复服务";
 "from" = "来自";
 "from_address" = "从外部转入";
 "from_date" = "自%@";
@@ -729,6 +730,11 @@
 "media" = "媒体";
 "membership_advance" = "进阶版";
 "membership_advance_description" = "在多设备上使用多个密钥，避免单点故障，并在密钥丢失时获得去中心化的恢复服务。";
+"membership_benefit_create_safe" = "可创建 %d 个金库";
+"membership_benefit_free_recovery_service" = "资产恢复服务免费使用";
+"membership_benefit_get_stars" = "得到 %d 个 Mixin Stars";
+"membership_benefit_paid_recovery_service" = "支付 %d Mixin Stars 使用资产恢复服务";
+"membership_benefit_safe_members" = "每个金库最多 %1$d 个共管人，所有金库最多 %2$d 个共管人";
 "membership_elite" = "精英版";
 "membership_elite_description" = "与家人、朋友或同事一起使用 Mixin Safe 管理大量资产，从而规避盗窃、意外和托管风险。";
 "membership_plan" = "级别";
@@ -886,6 +892,7 @@
 "overwrite" = "覆盖";
 "owner" = "群主";
 "paid" = "已支付";
+"paid_recovery_service" = "收费的资产恢复服务";
 "participants" = "成员";
 "participants_count" = "%@ 位群组成员";
 "paste" = "粘贴";
@@ -1066,6 +1073,7 @@
 "revoking_multisig_signature" = "正在撤销多签交易";
 "room_is_full" = "房间已满";
 "safe" = "金库";
+"safe_members" = "金库共管人";
 "save" = "保存";
 "save_image" = "保存图片";
 "save_to_camera_roll" = "保存到相册";
