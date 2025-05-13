@@ -2234,4 +2234,12 @@
   <string name="membership_advance_description" platform="android, iOS">Use multiple keys on multiple devices to avoid single point of failure, and get decentralized recovery service in case of key loss.</string>
   <string name="membership_elite_description" platform="android, iOS">Manage large fortune in Mixin Safe with family, friends or colleagues, so you can avoid thefts, accidents and custody risks.</string>
   <string name="membership_prosperity_description" platform="android, iOS">Professional crypto solutions with 24/7 support, best for family offices, large corporations and financial institutions.</string>
+  <string name="safe_members" platform="android, iOS">Safe Members</string>
+  <string name="free_recovery_service" platform="android, iOS">Free Recovery Service</string>
+  <string name="paid_recovery_service" platform="android, iOS">Paid Recovery Service</string>
+  <string name="membership_benefit_create_safe" platform="android, iOS">Create %1$d safes</string>
+  <string name="membership_benefit_get_stars" platform="android, iOS">Get %1$d Mixin Stars</string>
+  <string name="membership_benefit_safe_members" platform="android, iOS">%1$d members per safe, %2$d members in total</string>
+  <string name="membership_benefit_free_recovery_service" platform="android, iOS">Use the recovery service for free</string>
+  <string name="membership_benefit_paid_recovery_service" platform="android, iOS">Pay %1$d Mixin Stars to use the recovery service</string>
 </resources>
