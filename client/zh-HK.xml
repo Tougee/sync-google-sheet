@@ -2219,10 +2219,10 @@
   <string name="Profile_Badge_description" platform="android, iOS">您名字旁邊的專屬徽章</string>
   <string name="Reputation" platform="android, iOS">信譽度</string>
   <string name="reputation_good" platform="android, iOS">良好</string>
-  <string name="reputation_good_description" platform="android, iOS">經可信第三方驗證來源，且活動健康</string>
+  <string name="reputation_good_description" platform="android, iOS">由可信第三方驗證，具有良好活躍度</string>
   <string name="reputation_unknown" platform="android, iOS">未知</string>
-  <string name="reputation_unknown_description" platform="android, iOS">數據不足或未被可信來源驗證</string>
+  <string name="reputation_unknown_description" platform="android, iOS">缺乏足夠信息，或未被可信來源驗證</string>
   <string name="reputation_spam" platform="android, iOS">高風險</string>
-  <string name="reputation_spam_description" platform="android, iOS">由於可疑行為或詐騙跡象，該代幣已被標記</string>
-  <string name="reputation_spam_warning" platform="android, iOS">該代幣已被 Blockaid 標記為惡意代幣</string>
+  <string name="reputation_spam_description" platform="android, iOS">因可疑行為或欺詐跡象被標記為高風險代幣</string>
+  <string name="reputation_spam_warning" platform="android, iOS">該代幣已被 Blockaid 標記為高風險代幣</string>
 </resources>

@@ -1215,12 +1215,12 @@
 	<string name="Represent_send_messages">代表你發消息</string>
 	<string name="Reputation">信譽度</string>
 	<string name="reputation_good">良好</string>
-	<string name="reputation_good_description">經可信第三方驗證來源，且活動健康</string>
+	<string name="reputation_good_description">由可信第三方驗證，具有良好活躍度</string>
 	<string name="reputation_spam">高風險</string>
-	<string name="reputation_spam_description">由於可疑行為或詐騙跡象，該代幣已被標記</string>
-	<string name="reputation_spam_warning">該代幣已被 Blockaid 標記為惡意代幣</string>
+	<string name="reputation_spam_description">因可疑行為或欺詐跡象被標記為高風險代幣</string>
+	<string name="reputation_spam_warning">該代幣已被 Blockaid 標記為高風險代幣</string>
 	<string name="reputation_unknown">未知</string>
-	<string name="reputation_unknown_description">數據不足或未被可信來源驗證</string>
+	<string name="reputation_unknown_description">缺乏足夠信息，或未被可信來源驗證</string>
 	<string name="request_approval">允許請求</string>
 	<string name="Request_Authorization">請求授權</string>
 	<string name="request_rejected">請求已拒絕</string>
