@@ -1213,6 +1213,14 @@
 	<string name="Report_and_block">举报并屏蔽？</string>
 	<string name="Represent_Messages">代发消息</string>
 	<string name="Represent_send_messages">代表你发消息</string>
+	<string name="Reputation">信誉</string>
+	<string name="reputation_good">优良</string>
+	<string name="reputation_good_description">经可信第三方验证来源，且活动健康</string>
+	<string name="reputation_spam">很差</string>
+	<string name="reputation_spam_description">由于可疑行为或诈骗迹象，该代币已被标记</string>
+	<string name="reputation_spam_warning">该代币已被 Blockaid 标记为恶意代币</string>
+	<string name="reputation_unknown">一般</string>
+	<string name="reputation_unknown_description">数据不足或未被可信来源验证</string>
 	<string name="request_approval">允许请求</string>
 	<string name="Request_Authorization">请求授权</string>
 	<string name="request_rejected">请求已拒绝</string>
