@@ -1035,13 +1035,13 @@
 "report_and_block" = "举报并屏蔽？";
 "report_title" = "给开发人员发送聊天日志？";
 "represent_send_messages" = "代表你发消息";
-"reputation" = "信誉";
-"reputation_good" = "优良";
+"reputation" = "信誉度";
+"reputation_good" = "良好";
 "reputation_good_description" = "经可信第三方验证来源，且活动健康";
-"reputation_spam" = "很差";
+"reputation_spam" = "高风险";
 "reputation_spam_description" = "由于可疑行为或诈骗迹象，该代币已被标记";
 "reputation_spam_warning" = "该代币已被 Blockaid 标记为恶意代币";
-"reputation_unknown" = "一般";
+"reputation_unknown" = "未知";
 "reputation_unknown_description" = "数据不足或未被可信来源验证";
 "request_authorization" = "请求授权";
 "request_rejected" = "请求已拒绝";

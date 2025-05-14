@@ -1035,13 +1035,13 @@
 "report_and_block" = "舉報並封鎖？";
 "report_title" = "給開發人員傳送聊天日誌？";
 "represent_send_messages" = "代表你發訊息";
-"reputation" = "信譽";
-"reputation_good" = "優良";
+"reputation" = "信譽度";
+"reputation_good" = "良好";
 "reputation_good_description" = "經可信第三方驗證來源，且活動健康";
-"reputation_spam" = "很差";
+"reputation_spam" = "高風險";
 "reputation_spam_description" = "由於可疑行為或詐騙跡象，該代幣已被標記";
 "reputation_spam_warning" = "該代幣已被 Blockaid 標記為惡意代幣";
-"reputation_unknown" = "一般";
+"reputation_unknown" = "未知";
 "reputation_unknown_description" = "資料不足或未被可信來源驗證";
 "request_authorization" = "請求授權";
 "request_rejected" = "請求已拒絕";
