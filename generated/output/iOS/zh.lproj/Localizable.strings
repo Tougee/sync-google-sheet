@@ -978,6 +978,8 @@
 "privacy_wallet_tip_title" = "什么是隐私钱包？";
 "process_can_not_be_stop" = "流程一旦开始无法取消，请牢记 6 位数字 PIN，意外中止流程需要再次输入";
 "profile" = "个人资料";
+"profile_badge" = "个人资料徽章";
+"profile_badge_description" = "您名字旁边的专属徽章";
 "profile_photo" = "个人头像";
 "profile_share_bot_hint" = "如果您希望分享机器人，请先添加联系人。";
 "qr_code" = "二维码";
@@ -1390,6 +1392,7 @@
 "update_now" = "立即更新";
 "upgrade" = "升级";
 "upgrade_database" = "数据库升级";
+"upgrade_plan" = "升级会员";
 "upgrade_safe" = "升级 Safe";
 "upgrade_tip" = "升级 TIP";
 "upgrade_tip_successfully" = "TIP 升级成功";

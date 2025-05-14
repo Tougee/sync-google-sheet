@@ -1143,6 +1143,8 @@
 	<string name="privacy_wallet_tip_title">什麼是隱私錢包？</string>
 	<string name="Process_can_not_be_stop">流程一旦開始無法取消，請牢記 6 位數字 PIN，意外中止流程需要再次輸入</string>
 	<string name="processing">處理中</string>
+	<string name="Profile_Badge">個人資料徽章</string>
+	<string name="Profile_Badge_description">您名字旁邊的專屬徽章</string>
 	<string name="profile_modify_number">你想要修改手機號碼麼？</string>
 	<string name="Profile_photo">個人頭像</string>
 	<string name="profile_share_bot_hint">如果您希望分享機器人，請先添加聯繫人。</string>
@@ -1632,6 +1634,7 @@
 	<string name="Upgrade">升級</string>
 	<string name="Upgrade_Database">數據庫升級</string>
 	<string name="Upgrade_need_verify_your_PIN">升級需要驗證你的 PIN</string>
+	<string name="Upgrade_Plan">升級會員</string>
 	<string name="Upgrade_safe">升級 Safe</string>
 	<string name="Upgrade_TIP">升級 TIP</string>
 	<string name="Upgrade_TIP_successfully">TIP 升級成功</string>

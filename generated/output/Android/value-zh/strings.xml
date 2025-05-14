@@ -1143,6 +1143,8 @@
 	<string name="privacy_wallet_tip_title">什么是隐私钱包？</string>
 	<string name="Process_can_not_be_stop">流程一旦开始无法取消，请牢记 6 位数字 PIN，意外中止流程需要再次输入</string>
 	<string name="processing">处理中</string>
+	<string name="Profile_Badge">个人资料徽章</string>
+	<string name="Profile_Badge_description">您名字旁边的专属徽章</string>
 	<string name="profile_modify_number">你想要修改手机号码么？</string>
 	<string name="Profile_photo">个人头像</string>
 	<string name="profile_share_bot_hint">如果您希望分享机器人，请先添加联系人。</string>
@@ -1632,6 +1634,7 @@
 	<string name="Upgrade">升级</string>
 	<string name="Upgrade_Database">数据库升级</string>
 	<string name="Upgrade_need_verify_your_PIN">升级需要验证你的 PIN</string>
+	<string name="Upgrade_Plan">升级会员</string>
 	<string name="Upgrade_safe">升级 Safe</string>
 	<string name="Upgrade_TIP">升级 TIP</string>
 	<string name="Upgrade_TIP_successfully">TIP 升级成功</string>

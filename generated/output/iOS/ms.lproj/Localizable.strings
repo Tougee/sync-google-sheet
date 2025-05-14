@@ -978,6 +978,8 @@
 "privacy_wallet_tip_title" = "What’s the Privacy Wallet?";
 "process_can_not_be_stop" = "The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.";
 "profile" = "Profile";
+"profile_badge" = "Profile Badge";
+"profile_badge_description" = "An exclusive badge next to your name";
 "profile_photo" = "Gambar profil";
 "profile_share_bot_hint" = "If you want to share a bot, add it to your contacts first";
 "qr_code" = "kod QR";
@@ -1390,6 +1392,7 @@
 "update_now" = "Update Now";
 "upgrade" = "Upgrade";
 "upgrade_database" = "Naik taraf Pangkalan Data";
+"upgrade_plan" = "Upgrade Plan";
 "upgrade_safe" = "Upgrade safe";
 "upgrade_tip" = "Upgrade TIP";
 "upgrade_tip_successfully" = "Upgrade TIP successfully";

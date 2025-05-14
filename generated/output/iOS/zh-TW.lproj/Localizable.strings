@@ -978,6 +978,8 @@
 "privacy_wallet_tip_title" = "什麼是隱私錢包？";
 "process_can_not_be_stop" = "流程一旦開始無法取消，請牢記 6 位數字 PIN，意外中止流程需要再次輸入";
 "profile" = "個人資料";
+"profile_badge" = "個人資料徽章";
+"profile_badge_description" = "您名字旁邊的專屬徽章";
 "profile_photo" = "個人頭像";
 "profile_share_bot_hint" = "如果您希望分享機器人，請先新增聯絡人。";
 "qr_code" = "二維碼";
@@ -1390,6 +1392,7 @@
 "update_now" = "立即更新";
 "upgrade" = "升級";
 "upgrade_database" = "資料庫升級";
+"upgrade_plan" = "升級會員";
 "upgrade_safe" = "升級 Safe";
 "upgrade_tip" = "升級 TIP";
 "upgrade_tip_successfully" = "TIP 升級成功";

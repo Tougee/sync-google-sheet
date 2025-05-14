@@ -978,6 +978,8 @@
 "privacy_wallet_tip_title" = "What’s the Privacy Wallet?";
 "process_can_not_be_stop" = "El proceso no se puede cancelar cuando comienza. Recuerda el PIN de 6 dígitos y vuelva a introducirlo si el proceso se cancela inesperadamente.";
 "profile" = "Perfil";
+"profile_badge" = "Profile Badge";
+"profile_badge_description" = "An exclusive badge next to your name";
 "profile_photo" = "Foto de perfil";
 "profile_share_bot_hint" = "Si deseas compartir un bot, añádelo primero a tus contactosa";
 "qr_code" = "Código QR";
@@ -1390,6 +1392,7 @@
 "update_now" = "Update Now";
 "upgrade" = "Mejora";
 "upgrade_database" = "Actualizar base de datos";
+"upgrade_plan" = "Upgrade Plan";
 "upgrade_safe" = "Upgrade safe";
 "upgrade_tip" = "Actualizar TIP";
 "upgrade_tip_successfully" = "Actualizar TIP con éxito";

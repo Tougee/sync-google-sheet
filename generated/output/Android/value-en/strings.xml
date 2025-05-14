@@ -1161,6 +1161,8 @@
 	<string name="privacy_wallet_tip_title">What’s the Privacy Wallet?</string>
 	<string name="Process_can_not_be_stop">The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.</string>
 	<string name="processing">Processing</string>
+	<string name="Profile_Badge">Profile Badge</string>
+	<string name="Profile_Badge_description">An exclusive badge next to your name</string>
 	<string name="profile_modify_number">Do you want to change your phone number?</string>
 	<string name="Profile_photo">Profile Photo</string>
 	<string name="profile_share_bot_hint">If you want to share a bot, add it to your contacts first</string>
@@ -1654,6 +1656,7 @@
 	<string name="Upgrade">Upgrade</string>
 	<string name="Upgrade_Database">Upgrade Database</string>
 	<string name="Upgrade_need_verify_your_PIN">The upgrade requires verifying your PIN.</string>
+	<string name="Upgrade_Plan">Upgrade Plan</string>
 	<string name="Upgrade_safe">Upgrade safe</string>
 	<string name="Upgrade_TIP">Upgrade TIP</string>
 	<string name="Upgrade_TIP_successfully">Upgrade TIP successfully</string>
