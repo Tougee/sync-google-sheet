@@ -2218,8 +2218,7 @@
   <string name="Profile_Badge" platform="android, iOS">个人资料徽章</string>
   <string name="Profile_Badge_description" platform="android, iOS">您名字旁边的专属徽章</string>
   <string name="Reputation" platform="android, iOS">信誉度</string>
-  <string name="reputation_good" platform="android, iOS">良好</string>
-  <string name="reputation_good_description" platform="android, iOS">由可信第三方验证，具有良好活跃度</string>
+  <string name="reputation_description" platform="android, iOS">默认仅显示信誉度良好的交易。启用“未知”或“高风险”可查看更多交易。</string>
   <string name="reputation_unknown" platform="android, iOS">未知</string>
   <string name="reputation_unknown_description" platform="android, iOS">缺乏足够信息，或未被可信来源验证</string>
   <string name="reputation_spam" platform="android, iOS">高风险</string>

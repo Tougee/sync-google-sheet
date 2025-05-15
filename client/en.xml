@@ -2246,8 +2246,7 @@
   <string name="Profile_Badge" platform="android, iOS">Profile Badge</string>
   <string name="Profile_Badge_description" platform="android, iOS">An exclusive badge next to your name</string>
   <string name="Reputation" platform="android, iOS">Reputation</string>
-  <string name="reputation_good" platform="android, iOS">Good</string>
-  <string name="reputation_good_description" platform="android, iOS">Verified by trusted third-party sources with healthy activity</string>
+  <string name="reputation_description" platform="android, iOS">By default, only transactions with a Good reputation are shown. Enable ‘Unknown’ or ‘Spam’ to see more.</string>
   <string name="reputation_unknown" platform="android, iOS">Unknown</string>
   <string name="reputation_unknown_description" platform="android, iOS">No sufficient data or unverified by trusted sources</string>
   <string name="reputation_spam" platform="android, iOS">Spam</string>
