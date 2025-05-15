@@ -1040,7 +1040,7 @@
 "reputation_good_description" = "由可信第三方验证，具有良好活跃度";
 "reputation_spam" = "高风险";
 "reputation_spam_description" = "因可疑行为或欺诈迹象被标记为高风险代币";
-"reputation_spam_warning" = "该代币已被 Blockaid 标记为高风险代币";
+"reputation_spam_warning" = "该代币已被标记为高风险代币";
 "reputation_unknown" = "未知";
 "reputation_unknown_description" = "缺乏足够信息，或未被可信来源验证";
 "request_authorization" = "请求授权";
