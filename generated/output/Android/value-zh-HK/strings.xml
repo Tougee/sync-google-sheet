@@ -1216,7 +1216,7 @@
 	<string name="Reputation">信譽度</string>
 	<string name="reputation_description">默認僅顯示信譽度良好的交易。啓用“未知”或“高風險”可查看更多交易。</string>
 	<string name="reputation_spam">高風險</string>
-	<string name="reputation_spam_description">因可疑行為或欺詐跡象被標記為高風險代幣</string>
+	<string name="reputation_spam_description">因可疑行為或欺詐跡象被標記為高風險交易</string>
 	<string name="reputation_spam_warning">該代幣已被標記為高風險代幣</string>
 	<string name="reputation_unknown">未知</string>
 	<string name="reputation_unknown_description">缺乏足夠信息，或未被可信來源驗證</string>

@@ -2222,6 +2222,6 @@
   <string name="reputation_unknown" platform="android, iOS">未知</string>
   <string name="reputation_unknown_description" platform="android, iOS">缺乏足夠信息，或未被可信來源驗證</string>
   <string name="reputation_spam" platform="android, iOS">高風險</string>
-  <string name="reputation_spam_description" platform="android, iOS">因可疑行為或欺詐跡象被標記為高風險代幣</string>
+  <string name="reputation_spam_description" platform="android, iOS">因可疑行為或欺詐跡象被標記為高風險交易</string>
   <string name="reputation_spam_warning" platform="android, iOS">該代幣已被標記為高風險代幣</string>
 </resources>
