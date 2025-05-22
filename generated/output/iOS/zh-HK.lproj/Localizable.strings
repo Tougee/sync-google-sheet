@@ -1398,10 +1398,12 @@
 "upgrade" = "升級";
 "upgrade_database" = "數據庫升級";
 "upgrade_plan" = "升級會員";
+"upgrade_plan_for" = "升級會員僅需 %@";
 "upgrade_safe" = "升級 Safe";
 "upgrade_tip" = "升級 TIP";
 "upgrade_tip_successfully" = "TIP 升級成功";
 "upgrading" = "升級中...";
+"upgrading_plan" = "正在升級會員";
 "upgrading_tip_terminated_unexpectedly" = "升級 TIP 意外中止，點繼續完成 TIP 升級";
 "upload_mobile_contacts" = "上傳通訊錄找好友";
 "uploading" = "備份中...";

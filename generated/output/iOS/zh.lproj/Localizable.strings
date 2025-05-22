@@ -1398,10 +1398,12 @@
 "upgrade" = "升级";
 "upgrade_database" = "数据库升级";
 "upgrade_plan" = "升级会员";
+"upgrade_plan_for" = "升级会员仅需 %@";
 "upgrade_safe" = "升级 Safe";
 "upgrade_tip" = "升级 TIP";
 "upgrade_tip_successfully" = "TIP 升级成功";
 "upgrading" = "升级中...";
+"upgrading_plan" = "正在升级会员";
 "upgrading_tip_terminated_unexpectedly" = "升级 TIP 意外中止，点继续完成 TIP 升级";
 "upload_mobile_contacts" = "上传通讯录找好友";
 "uploading" = "备份中...";

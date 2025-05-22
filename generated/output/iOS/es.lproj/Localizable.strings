@@ -1398,10 +1398,12 @@
 "upgrade" = "Mejora";
 "upgrade_database" = "Actualizar base de datos";
 "upgrade_plan" = "Upgrade Plan";
+"upgrade_plan_for" = "Upgrade for %@";
 "upgrade_safe" = "Upgrade safe";
 "upgrade_tip" = "Actualizar TIP";
 "upgrade_tip_successfully" = "Actualizar TIP con éxito";
 "upgrading" = "Actualizando";
+"upgrading_plan" = "Upgrading";
 "upgrading_tip_terminated_unexpectedly" = "La actualización de TIP ha finalizado inesperadamente, haz clic en Continuar para completar la actualización";
 "upload_mobile_contacts" = "Cargar contactos móviles";
 "uploading" = "Cargando...";

@@ -1662,10 +1662,12 @@
 	<string name="Upgrade_Database">Upgrade Database</string>
 	<string name="Upgrade_need_verify_your_PIN">The upgrade requires verifying your PIN.</string>
 	<string name="Upgrade_Plan">Upgrade Plan</string>
+	<string name="Upgrade_Plan_for">Upgrade for %1$s</string>
 	<string name="Upgrade_safe">Upgrade safe</string>
 	<string name="Upgrade_TIP">Upgrade TIP</string>
 	<string name="Upgrade_TIP_successfully">Upgrade TIP successfully</string>
 	<string name="Upgrading">Upgrading</string>
+	<string name="Upgrading_Plan">Upgrading</string>
 	<string name="Upgrading_TIP_terminated_unexpectedly">Upgrading TIP terminated unexpectedly, click \"Continue\" to complete the upgrade</string>
 	<string name="Upload_Mobile_Contacts">Upload Mobile Contacts</string>
 	<string name="Upload_timeout">Upload timeout</string>

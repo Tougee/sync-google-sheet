@@ -1640,10 +1640,12 @@
 	<string name="Upgrade_Database">数据库升级</string>
 	<string name="Upgrade_need_verify_your_PIN">升级需要验证你的 PIN</string>
 	<string name="Upgrade_Plan">升级会员</string>
+	<string name="Upgrade_Plan_for">升级会员仅需 %1$s</string>
 	<string name="Upgrade_safe">升级 Safe</string>
 	<string name="Upgrade_TIP">升级 TIP</string>
 	<string name="Upgrade_TIP_successfully">TIP 升级成功</string>
 	<string name="Upgrading">升级中…</string>
+	<string name="Upgrading_Plan">正在升级会员</string>
 	<string name="Upgrading_TIP_terminated_unexpectedly">升级 TIP 意外中止，点继续完成 TIP 升级</string>
 	<string name="Upload_Mobile_Contacts">上传通讯录找好友</string>
 	<string name="Upload_timeout">上传超时</string>

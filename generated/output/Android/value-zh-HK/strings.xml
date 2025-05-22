@@ -1640,10 +1640,12 @@
 	<string name="Upgrade_Database">數據庫升級</string>
 	<string name="Upgrade_need_verify_your_PIN">升級需要驗證你的 PIN</string>
 	<string name="Upgrade_Plan">升級會員</string>
+	<string name="Upgrade_Plan_for">升級會員僅需 %1$s</string>
 	<string name="Upgrade_safe">升級 Safe</string>
 	<string name="Upgrade_TIP">升級 TIP</string>
 	<string name="Upgrade_TIP_successfully">TIP 升級成功</string>
 	<string name="Upgrading">升級中…</string>
+	<string name="Upgrading_Plan">正在升級會員</string>
 	<string name="Upgrading_TIP_terminated_unexpectedly">升級 TIP 意外中止，點繼續完成 TIP 升級</string>
 	<string name="Upload_Mobile_Contacts">上傳通訊錄找好友</string>
 	<string name="Upload_timeout">上傳超時</string>

@@ -1398,10 +1398,12 @@
 "upgrade" = "Upgrade";
 "upgrade_database" = "Tingkatkan Database";
 "upgrade_plan" = "Upgrade Plan";
+"upgrade_plan_for" = "Upgrade for %@";
 "upgrade_safe" = "Upgrade safe";
 "upgrade_tip" = "Upgrade TIP";
 "upgrade_tip_successfully" = "Upgrade TIP successfully";
 "upgrading" = "Meningkatkan";
+"upgrading_plan" = "Upgrading";
 "upgrading_tip_terminated_unexpectedly" = "Upgrading TIP terminated unexpectedly, click \"Continue\" to complete the upgrade";
 "upload_mobile_contacts" = "Upload Mobile Contacts";
 "uploading" = "Uploading...";
