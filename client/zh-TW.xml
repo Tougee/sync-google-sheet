@@ -2217,6 +2217,7 @@
   <string name="Upgrade_Plan" platform="android, iOS">升級會員</string>
   <string name="Upgrade_Plan_for" platform="android, iOS">升級會員僅需 %1$s</string>
   <string name="Upgrading_Plan" platform="android, iOS">正在升級會員</string>
+  <string name="Coming_Soon" platform="iOS">即將推出</string>
   <string name="Profile_Badge" platform="android, iOS">個人資料徽章</string>
   <string name="Profile_Badge_description" platform="android, iOS">您名字旁邊的專屬徽章</string>
   <string name="Reputation" platform="android, iOS">信譽度</string>
