@@ -573,6 +573,8 @@
 "exit_group" = "退出群组";
 "exit_group_and_report_inviter" = "退出群组并举报邀请人";
 "expired" = "已过期";
+"expired_on" = "%@ 过期";
+"expires_on" = "有效期至 %@";
 "export" = "导出";
 "export_failed" = "导出失败";
 "export_mnemonic_phrase" = "导出助记词";

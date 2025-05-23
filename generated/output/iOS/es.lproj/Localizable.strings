@@ -573,6 +573,8 @@
 "exit_group" = "Salir del grupo";
 "exit_group_and_report_inviter" = "Salir del grupo e reportar persona que te ha invitado";
 "expired" = "Caducado";
+"expired_on" = "Expired on %@";
+"expires_on" = "Expires on %@";
 "export" = "Exportar";
 "export_failed" = "Exportación fallida";
 "export_mnemonic_phrase" = "Export mnemonic phrase";

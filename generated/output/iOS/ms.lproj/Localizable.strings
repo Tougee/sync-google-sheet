@@ -573,6 +573,8 @@
 "exit_group" = "Keluar Kumpulan";
 "exit_group_and_report_inviter" = "Exit group and report inviter";
 "expired" = "Tamat tempoh";
+"expired_on" = "Expired on %@";
+"expires_on" = "Expires on %@";
 "export" = "Export";
 "export_failed" = "Export failed";
 "export_mnemonic_phrase" = "Export mnemonic phrase";
