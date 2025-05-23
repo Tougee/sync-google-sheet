@@ -2214,6 +2214,8 @@
   <string name="membership_benefit_safe_members" platform="android, iOS">每个金库最多 %1$d 个共管人，所有金库最多 %2$d 个共管人</string>
   <string name="membership_benefit_free_recovery_service" platform="android, iOS">资产恢复服务免费使用</string>
   <string name="membership_benefit_paid_recovery_service" platform="android, iOS">支付 %1$d Mixin Stars 使用资产恢复服务</string>
+  <string name="expires_on" platform="android, iOS">有效期至 %1$s</string>
+  <string name="expired_on" platform="android, iOS">%1$s 过期</string>
   <string name="Upgrade_Plan" platform="android, iOS">升级会员</string>
   <string name="Upgrade_Plan_for" platform="android, iOS">升级会员仅需 %1$s</string>
   <string name="Upgrading_Plan" platform="android, iOS">正在升级会员</string>
