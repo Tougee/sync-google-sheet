@@ -1229,6 +1229,7 @@
 	<string name="Remove_Participants">Remove Participants</string>
 	<string name="Remove_Stickers">Remove Stickers</string>
 	<string name="Removing">Removing…</string>
+	<string name="Renew_Plan">Renew Plan</string>
 	<string name="Reply">Reply</string>
 	<string name="Report">Report</string>
 	<string name="Report_and_block">Report and block?</string>
@@ -1715,6 +1716,7 @@
 	<string name="View_emergency_contact">View recovery contact</string>
 	<string name="view_on_explorer">View on Explorer</string>
 	<string name="View_on_Marketplace">View on Marketplace</string>
+	<string name="View_Plan">View Plan</string>
 	<string name="View_Transaction">View Transaction</string>
 	<string name="View_Wallet">View Wallet</string>
 	<string name="Voice_call">Voice call</string>

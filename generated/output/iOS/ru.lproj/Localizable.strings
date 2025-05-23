@@ -1033,6 +1033,7 @@
 "remove_emergency_contact_for_sure" = "Remove recovery contact for sure?";
 "remove_from_group" = "Удалить из группы";
 "remove_stickers" = "Удалить наклейки";
+"renew_plan" = "Renew Plan";
 "reply" = "Ответить";
 "report" = "Отчет";
 "report_and_block" = "Пожаловаться и заблокировать?";
@@ -1446,6 +1447,7 @@
 "view_emergency_contact" = "View recovery contact";
 "view_on_explorer" = "View on Explorer";
 "view_on_marketplace" = "View on Marketplace";
+"view_plan" = "View Plan";
 "view_wallet" = "Посмотреть кошелек";
 "voice_call_cancelled" = "голосовой вызов отменен";
 "voice_call_has_been_declined" = "Голосовой вызов был отклонен";

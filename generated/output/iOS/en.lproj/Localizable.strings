@@ -1033,6 +1033,7 @@
 "remove_emergency_contact_for_sure" = "Remove recovery contact for sure?";
 "remove_from_group" = "Remove from Group";
 "remove_stickers" = "Remove Stickers";
+"renew_plan" = "Renew Plan";
 "reply" = "Reply";
 "report" = "Report";
 "report_and_block" = "Report and block?";
@@ -1446,6 +1447,7 @@
 "view_emergency_contact" = "View recovery contact";
 "view_on_explorer" = "View on Explorer";
 "view_on_marketplace" = "View on Marketplace";
+"view_plan" = "View Plan";
 "view_wallet" = "View Wallet";
 "voice_call_cancelled" = "voice call cancelled";
 "voice_call_has_been_declined" = "Voice call has been declined";

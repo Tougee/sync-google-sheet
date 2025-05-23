@@ -1033,6 +1033,7 @@
 "remove_emergency_contact_for_sure" = "確定刪除恢復聯絡人？";
 "remove_from_group" = "從群組中移除";
 "remove_stickers" = "移除所有表情";
+"renew_plan" = "續訂會員";
 "reply" = "回覆";
 "report" = "舉報";
 "report_and_block" = "舉報並封鎖？";
@@ -1446,6 +1447,7 @@
 "view_emergency_contact" = "檢視恢復聯絡人";
 "view_on_explorer" = "在瀏覽器中檢視";
 "view_on_marketplace" = "在市場中檢視";
+"view_plan" = "檢視會員";
 "view_wallet" = "檢視錢包";
 "voice_call_cancelled" = "對方已取消語音通話";
 "voice_call_has_been_declined" = "已拒絕通話";

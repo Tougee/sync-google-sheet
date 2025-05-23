@@ -1210,6 +1210,7 @@
 	<string name="Remove_Participants">移除成員</string>
 	<string name="Remove_Stickers">移除所有表情</string>
 	<string name="Removing">正在移除…</string>
+	<string name="Renew_Plan">續訂會員</string>
 	<string name="Reply">回覆</string>
 	<string name="Report">舉報</string>
 	<string name="Report_and_block">舉報並封鎖？</string>
@@ -1693,6 +1694,7 @@
 	<string name="View_emergency_contact">檢視恢復聯絡人</string>
 	<string name="view_on_explorer">在瀏覽器中檢視</string>
 	<string name="View_on_Marketplace">在市場中檢視</string>
+	<string name="View_Plan">檢視會員</string>
 	<string name="View_Transaction">檢視區塊鏈瀏覽器</string>
 	<string name="View_Wallet">檢視錢包</string>
 	<string name="Voice_call">語音通話</string>
