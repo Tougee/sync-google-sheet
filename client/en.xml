@@ -2244,6 +2244,8 @@
   <string name="membership_benefit_paid_recovery_service" platform="android, iOS">Pay %1$d Mixin Stars to use the recovery service</string>
   <string name="expires_on" platform="android, iOS">Expires on %1$s</string>
   <string name="expired_on" platform="android, iOS">Expired on %1$s</string>
+  <string name="View_Plan" platform="android, iOS">View Plan</string>
+  <string name="Renew_Plan" platform="android, iOS">Renew Plan</string>
   <string name="Upgrade_Plan" platform="android, iOS">Upgrade Plan</string>
   <string name="Upgrade_Plan_for" platform="android, iOS">Upgrade for %1$s</string>
   <string name="Upgrading_Plan" platform="android, iOS">Upgrading</string>
