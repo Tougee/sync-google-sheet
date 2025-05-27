@@ -2236,5 +2236,5 @@
   <string name="invoice_upgrade_plan" platform="android, iOS">升级到%1$s</string>
   <string name="All_Invoices" platform="android, iOS">全部收据</string>
   <string name="buy_via" platform="android, iOS">付款方式</string>
-  <string name="Mixin One" platform="android, iOS">Mixin 大会员</string>
+  <string name="Mixin_One" platform="android, iOS">Mixin 大会员</string>
 </resources>
