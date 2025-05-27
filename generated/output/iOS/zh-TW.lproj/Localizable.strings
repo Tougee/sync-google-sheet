@@ -768,9 +768,9 @@
 "mixin_id_or_phone" = "Mixin ID 或手機號";
 "mixin_locked" = "Mixin 已鎖定";
 "mixin_messenger_desktop" = "Mixin Messenger 桌面";
+"mixin_one" = "Mixin 大會員";
 "mixin_server_encounters_errors" = "伺服器出錯，請稍後重試";
 "mixin_support" = "Mixin 客服";
-"mixin one" = "Mixin 大會員";
 "mnemonic_phrase" = "助記詞";
 "mnemonic_phrase_instruction" = "你可以透過助記詞登入你的賬號，當前助記詞已關聯到 MPC 錢包的金鑰分片，完整的金鑰只存在當前裝置的 TEE 安全環境中，閱讀檔案以瞭解%@。";
 "mnemonic_phrase_instruction_1" = "建立賬號生成的 13 個助記詞僅用於 Mixin Network 相關產品。";

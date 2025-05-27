@@ -943,8 +943,8 @@
 	<string name="Mixin_ID">Mixin ID</string>
 	<string name="Mixin_Locked">Mixin Locked</string>
 	<string name="Mixin_Messenger_Desktop">Mixin Messenger Desktop</string>
+	<string name="Mixin_One">Mixin One</string>
 	<string name="Mixin_Support">Mixin Support</string>
-	<string name="Mixin One">Mixin One</string>
 	<string name="Mnemonic_Phrase">Mnemonic Phrase</string>
 	<string name="Mnemonic_Phrase_instruction">You can log in to your account using the mnemonic phrase. The current mnemonic phrase is linked to a key shard of the MPC wallet, with the complete key existing only in the TEE security environment on the current device. Read the documentation to learn %1$s.</string>
 	<string name="mnemonic_phrase_instruction_1">The 13 mnemonic phrases generated when creating an account are intended only for Mixin Network-related products.</string>
