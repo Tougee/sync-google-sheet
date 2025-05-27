@@ -140,6 +140,7 @@
 	<string name="All_chats">所有聊天</string>
 	<string name="All_Conversations">所有会话</string>
 	<string name="All_dates">所有日期</string>
+	<string name="All_Invoices">全部收据</string>
 	<string name="All_Media">全部</string>
 	<string name="All_Networks">所有网络</string>
 	<string name="All_signer_failure">所有节点失败</string>
@@ -253,6 +254,7 @@
 	<string name="buy_success">交易成功</string>
 	<string name="buy_success_description">成功支付 %1$s。%2$s 将直接 Mixin 钱包。</string>
 	<string name="Buy_token">买入 %1$s</string>
+	<string name="buy_via">付款方式</string>
 	<string name="buying_limitation">最少 %1$s, 最多 %2$s</string>
 	<string name="calculating">正在计算…</string>
 	<string name="Call">语音</string>
@@ -800,6 +802,9 @@
 	<string name="Invite_people">邀请好友</string>
 	<string name="Invite_to_Group_via_Link">群邀请链接</string>
 	<string name="Invite_to_Mixin">邀请至 Mixin</string>
+	<string name="invoice_renew_plan">续订%1$s会员</string>
+	<string name="invoice_upgrade_plan">升级到%1$s</string>
+	<string name="Invoices">收据</string>
 	<string name="is_network_available">网络已连接</string>
 	<string name="italic">斜体</string>
 	<string name="Items_Selected_Count">已选择 1 个</string>

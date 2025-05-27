@@ -116,6 +116,7 @@
 "all_assets_will_be_lost" = "All assets will be lost";
 "all_conversations" = "Semua Perbualan";
 "all_dates" = "All Dates";
+"all_invoices" = "All Invoices";
 "all_photos" = "All Photos";
 "all_signer_failure" = "All node failure";
 "all_time_high" = "All Time High";
@@ -202,6 +203,7 @@
 "bots_title" = "Bot";
 "browser" = "Browser";
 "buy_token" = "Buy %@";
+"buy_via" = "Via";
 "calculating" = "Calculating...";
 "call" = "Call";
 "call_declined" = "Panggilan ditolak";
@@ -670,6 +672,9 @@
 "invite_to_group_via_link" = "Jemput ke Kumpulan melalui Pautan";
 "invited_by_stranger" = "The inviter is not in your contacts";
 "invites_you_to_a_voice_call" = "tanya anda panggilan audio";
+"invoice_renew_plan" = "Renew %@ Plan";
+"invoice_upgrade_plan" = "Upgrade to %@";
+"invoices" = "Invoices";
 "join_group" = "Join Group";
 "joined_in" = "Menyertai %@";
 "keep_running_foreground" = "Please do not close the screen and keep Mixin running in the foreground";

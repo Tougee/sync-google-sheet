@@ -116,6 +116,7 @@
 "all_assets_will_be_lost" = "All assets will be lost";
 "all_conversations" = "Todas las conversaciones";
 "all_dates" = "All Dates";
+"all_invoices" = "All Invoices";
 "all_photos" = "Todas las fotos";
 "all_signer_failure" = "Falla de todos los nodos";
 "all_time_high" = "All Time High";
@@ -202,6 +203,7 @@
 "bots_title" = "Bots";
 "browser" = "Browser";
 "buy_token" = "Buy %@";
+"buy_via" = "Via";
 "calculating" = "Calculating...";
 "call" = "Llamar";
 "call_declined" = "Llamada rechazada";
@@ -670,6 +672,9 @@
 "invite_to_group_via_link" = "Invitar al grupo a través de un enlace";
 "invited_by_stranger" = "El anfitrión no está en tus contactos.";
 "invites_you_to_a_voice_call" = "te invita a una llamada de voz";
+"invoice_renew_plan" = "Renew %@ Plan";
+"invoice_upgrade_plan" = "Upgrade to %@";
+"invoices" = "Invoices";
 "join_group" = "Únete al grupo";
 "joined_in" = "Se ha unido en %@";
 "keep_running_foreground" = "Please do not close the screen and keep Mixin running in the foreground";

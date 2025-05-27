@@ -116,6 +116,7 @@
 "all_assets_will_be_lost" = "All assets will be lost";
 "all_conversations" = "すべてのチャットルーム";
 "all_dates" = "All Dates";
+"all_invoices" = "All Invoices";
 "all_photos" = "全ての画像";
 "all_signer_failure" = "All node failure";
 "all_time_high" = "All Time High";
@@ -202,6 +203,7 @@
 "bots_title" = "Myミニアプリ一覧";
 "browser" = "Browser";
 "buy_token" = "Buy %@";
+"buy_via" = "Via";
 "calculating" = "Calculating...";
 "call" = "電話";
 "call_declined" = "応答拒否";
@@ -670,6 +672,9 @@
 "invite_to_group_via_link" = "リンクを使って招待する";
 "invited_by_stranger" = "招待者はあなたの連絡先に存在しません";
 "invites_you_to_a_voice_call" = "グループ通話に招待されました";
+"invoice_renew_plan" = "Renew %@ Plan";
+"invoice_upgrade_plan" = "Upgrade to %@";
+"invoices" = "Invoices";
 "join_group" = "グループに参加";
 "joined_in" = "%@からMixinを利用しています";
 "keep_running_foreground" = "Please do not close the screen and keep Mixin running in the foreground";

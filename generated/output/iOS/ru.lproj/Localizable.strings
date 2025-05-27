@@ -116,6 +116,7 @@
 "all_assets_will_be_lost" = "All assets will be lost";
 "all_conversations" = "Все разговоры";
 "all_dates" = "All Dates";
+"all_invoices" = "All Invoices";
 "all_photos" = "Все фотографии";
 "all_signer_failure" = "All node failure";
 "all_time_high" = "All Time High";
@@ -202,6 +203,7 @@
 "bots_title" = "Боты";
 "browser" = "Browser";
 "buy_token" = "Buy %@";
+"buy_via" = "Via";
 "calculating" = "Calculating...";
 "call" = "Вызов";
 "call_declined" = "Вызов отклонен";
@@ -670,6 +672,9 @@
 "invite_to_group_via_link" = "Пригласить в группу по ссылке";
 "invited_by_stranger" = "Приглашающего нет в ваших контактах";
 "invites_you_to_a_voice_call" = "приглашает вас на голосовой вызов";
+"invoice_renew_plan" = "Renew %@ Plan";
+"invoice_upgrade_plan" = "Upgrade to %@";
+"invoices" = "Invoices";
 "join_group" = "Присоединиться к группе";
 "joined_in" = "Присоединился к %@";
 "keep_running_foreground" = "Please do not close the screen and keep Mixin running in the foreground";

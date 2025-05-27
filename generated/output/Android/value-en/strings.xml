@@ -140,6 +140,7 @@
 	<string name="All_chats">All chats</string>
 	<string name="All_Conversations">All Conversations</string>
 	<string name="All_dates">All Dates</string>
+	<string name="All_Invoices">All Invoices</string>
 	<string name="All_Media">All Media</string>
 	<string name="All_Networks">All networks</string>
 	<string name="All_signer_failure">All node failure</string>
@@ -255,6 +256,7 @@
 	<string name="buy_success">Success</string>
 	<string name="buy_success_description">Successful purchase of %1$s. %2$s will be transferred directly to Mixin wallet.</string>
 	<string name="Buy_token">Buy %1$s</string>
+	<string name="buy_via">Via</string>
 	<string name="buying_limitation">Minimum %1$s, Maximum %2$s</string>
 	<string name="calculating">Calculating…</string>
 	<string name="Call">Call</string>
@@ -812,6 +814,9 @@
 	<string name="Invite_people">Invite People</string>
 	<string name="Invite_to_Group_via_Link">Invite to Group via Link</string>
 	<string name="Invite_to_Mixin">Invite to Mixin</string>
+	<string name="invoice_renew_plan">Renew %1$s Plan</string>
+	<string name="invoice_upgrade_plan">Upgrade to %1$s</string>
+	<string name="Invoices">Invoices</string>
 	<string name="is_network_available">isNetworkAvailable</string>
 	<string name="italic">italic</string>
 	<string name="Items_Selected_Count">1 Item Selected</string>
