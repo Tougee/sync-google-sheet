@@ -478,6 +478,7 @@
 	<string name="Creating_your_account">Creating your account…</string>
 	<string name="Crop">Crop</string>
 	<string name="Currency">Currency</string>
+	<string name="Current_Plan">Current Plan</string>
 	<string name="Current_price">Current price: %1$s</string>
 	<string name="current_version">Version: %1$s</string>
 	<string name="Custom_Time">Custom Time</string>

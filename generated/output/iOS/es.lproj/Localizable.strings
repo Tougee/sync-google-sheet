@@ -401,6 +401,7 @@
 "currency_code" = "Código";
 "current_language" = "Inglés";
 "current_location" = "Ubicación actual";
+"current_plan" = "Current Plan";
 "current_price" = "Current price: %@";
 "current_selected" = "Seleccionado actual";
 "current_version" = "Version: %@";

@@ -473,6 +473,7 @@
 	<string name="Creating_your_account">正在创建账户…</string>
 	<string name="Crop">裁剪</string>
 	<string name="Currency">货币</string>
+	<string name="Current_Plan">当前会员</string>
 	<string name="Current_price">当前价格：%1$s</string>
 	<string name="current_version">当前版本：%1$s</string>
 	<string name="Custom_Time">自定义时间</string>

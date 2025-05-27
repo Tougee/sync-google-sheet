@@ -473,6 +473,7 @@
 	<string name="Creating_your_account">正在創建賬户…</string>
 	<string name="Crop">裁剪</string>
 	<string name="Currency">貨幣</string>
+	<string name="Current_Plan">當前會員</string>
 	<string name="Current_price">當前價格：%1$s</string>
 	<string name="current_version">當前版本：%1$s</string>
 	<string name="Custom_Time">自定義時間</string>

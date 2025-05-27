@@ -401,6 +401,7 @@
 "currency_code" = "货币代码";
 "current_language" = "中文";
 "current_location" = "当前位置";
+"current_plan" = "当前会员";
 "current_price" = "当前价格：%@";
 "current_selected" = "当前选择";
 "current_version" = "当前版本：%@";

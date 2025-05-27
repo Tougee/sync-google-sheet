@@ -2218,6 +2218,7 @@
   <string name="expired_on" platform="android, iOS">%1$s 過期</string>
   <string name="View_Plan" platform="android, iOS">查看會員</string>
   <string name="Renew_Plan" platform="android, iOS">續訂會員</string>
+  <string name="Current_Plan" platform="android, iOS">當前會員</string>
   <string name="Upgrade_Plan" platform="android, iOS">升級會員</string>
   <string name="Upgrade_Plan_for" platform="android, iOS">升級會員僅需 %1$s</string>
   <string name="Upgrading_Plan" platform="android, iOS">正在升級會員</string>
