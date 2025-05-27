@@ -672,6 +672,7 @@
 "invite_to_group_via_link" = "Пригласить в группу по ссылке";
 "invited_by_stranger" = "Приглашающего нет в ваших контактах";
 "invites_you_to_a_voice_call" = "приглашает вас на голосовой вызов";
+"invoice" = "Invoice";
 "invoice_renew_plan" = "Renew %@ Plan";
 "invoice_upgrade_plan" = "Upgrade to %@";
 "invoices" = "Invoices";

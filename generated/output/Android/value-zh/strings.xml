@@ -802,6 +802,7 @@
 	<string name="Invite_people">邀请好友</string>
 	<string name="Invite_to_Group_via_Link">群邀请链接</string>
 	<string name="Invite_to_Mixin">邀请至 Mixin</string>
+	<string name="Invoice">收据</string>
 	<string name="invoice_renew_plan">续订%1$s会员</string>
 	<string name="invoice_upgrade_plan">升级到%1$s</string>
 	<string name="Invoices">收据</string>

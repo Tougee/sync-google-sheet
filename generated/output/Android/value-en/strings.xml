@@ -814,6 +814,7 @@
 	<string name="Invite_people">Invite People</string>
 	<string name="Invite_to_Group_via_Link">Invite to Group via Link</string>
 	<string name="Invite_to_Mixin">Invite to Mixin</string>
+	<string name="Invoice">Invoice</string>
 	<string name="invoice_renew_plan">Renew %1$s Plan</string>
 	<string name="invoice_upgrade_plan">Upgrade to %1$s</string>
 	<string name="Invoices">Invoices</string>

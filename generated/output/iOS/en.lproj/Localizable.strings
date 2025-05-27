@@ -672,6 +672,7 @@
 "invite_to_group_via_link" = "Invite to Group via Link";
 "invited_by_stranger" = "The inviter is not in your contacts";
 "invites_you_to_a_voice_call" = "invites you to a voice call";
+"invoice" = "Invoice";
 "invoice_renew_plan" = "Renew %@ Plan";
 "invoice_upgrade_plan" = "Upgrade to %@";
 "invoices" = "Invoices";

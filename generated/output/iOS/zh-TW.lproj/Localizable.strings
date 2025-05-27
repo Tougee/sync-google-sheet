@@ -672,6 +672,7 @@
 "invite_to_group_via_link" = "群邀請連結";
 "invited_by_stranger" = "邀請人不是你的聯絡人";
 "invites_you_to_a_voice_call" = "發起了語音通話";
+"invoice" = "收據";
 "invoice_renew_plan" = "續訂%@會員";
 "invoice_upgrade_plan" = "升級到%@";
 "invoices" = "收據";

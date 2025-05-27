@@ -672,6 +672,7 @@
 "invite_to_group_via_link" = "群邀请链接";
 "invited_by_stranger" = "邀请人不是你的联系人";
 "invites_you_to_a_voice_call" = "发起了语音通话";
+"invoice" = "收据";
 "invoice_renew_plan" = "续订%@会员";
 "invoice_upgrade_plan" = "升级到%@";
 "invoices" = "收据";

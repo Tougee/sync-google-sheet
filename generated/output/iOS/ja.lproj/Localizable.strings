@@ -672,6 +672,7 @@
 "invite_to_group_via_link" = "リンクを使って招待する";
 "invited_by_stranger" = "招待者はあなたの連絡先に存在しません";
 "invites_you_to_a_voice_call" = "グループ通話に招待されました";
+"invoice" = "Invoice";
 "invoice_renew_plan" = "Renew %@ Plan";
 "invoice_upgrade_plan" = "Upgrade to %@";
 "invoices" = "Invoices";
