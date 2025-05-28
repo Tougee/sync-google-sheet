@@ -699,6 +699,7 @@
 	<string name="expires_on">Expires on %1$s</string>
 	<string name="expiry_date">Expiry Date</string>
 	<string name="expiry_date_error">Please enter a valid expiry date</string>
+	<string name="Explore">Explore</string>
 	<string name="Export">Export</string>
 	<string name="Export_Chat">Export Chat</string>
 	<string name="Export_failed">Export failed</string>

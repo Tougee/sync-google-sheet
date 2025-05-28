@@ -690,6 +690,7 @@
 	<string name="expires_on">有效期至 %1$s</string>
 	<string name="expiry_date">有效期</string>
 	<string name="expiry_date_error">請輸入正確的有效期</string>
+	<string name="Explore">探索</string>
 	<string name="Export">導出</string>
 	<string name="Export_Chat">導出聊天記錄</string>
 	<string name="Export_failed">導出失敗</string>

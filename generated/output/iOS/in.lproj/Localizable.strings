@@ -578,6 +578,7 @@
 "expired" = "Tidak berlaku";
 "expired_on" = "Expired on %@";
 "expires_on" = "Expires on %@";
+"explore" = "Explore";
 "export" = "Export";
 "export_failed" = "Export failed";
 "export_mnemonic_phrase" = "Export mnemonic phrase";

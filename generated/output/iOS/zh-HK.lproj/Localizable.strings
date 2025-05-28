@@ -578,6 +578,7 @@
 "expired" = "已過期";
 "expired_on" = "%@ 過期";
 "expires_on" = "有效期至 %@";
+"explore" = "探索";
 "export" = "導出";
 "export_failed" = "導出失敗";
 "export_mnemonic_phrase" = "導出助記詞";
