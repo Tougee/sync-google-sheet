@@ -655,6 +655,7 @@
   <string name="Expired" platform="android, iOS">Expired</string>
   <string name="expiry_date" platform="android">Expiry Date</string>
   <string name="expiry_date_error" platform="android">Please enter a valid expiry date</string>
+  <string name="Explore" platform="android,iOS">Explore</string>
   <string name="Export" platform="android,iOS">Export</string>
   <string name="Export_Chat" platform="android">Export Chat</string>
   <string name="Export_failed" platform="android, iOS">Export failed</string>
