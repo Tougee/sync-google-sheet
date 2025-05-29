@@ -2231,11 +2231,11 @@
   <string name="reputation_spam" platform="android, iOS">高風險</string>
   <string name="reputation_spam_description" platform="android, iOS">因可疑行為或欺詐跡象被標記為高風險交易</string>
   <string name="reputation_spam_warning" platform="android, iOS">該代幣已被標記為高風險代幣</string>
-  <string name="Invoice" platform="android, iOS">收據</string>
-  <string name="Invoices" platform="android, iOS">收據</string>
+  <string name="Invoice" platform="android, iOS">賬單</string>
+  <string name="Invoices" platform="android, iOS">賬單</string>
   <string name="invoice_renew_plan" platform="android, iOS">續訂%1$s會員</string>
   <string name="invoice_upgrade_plan" platform="android, iOS">升級到%1$s</string>
-  <string name="All_Invoices" platform="android, iOS">全部收據</string>
+  <string name="All_Invoices" platform="android, iOS">全部賬單</string>
   <string name="buy_via" platform="android, iOS">付款方式</string>
   <string name="Mixin_One" platform="android, iOS">Mixin 大會員</string>
 </resources>
