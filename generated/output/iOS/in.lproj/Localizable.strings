@@ -202,6 +202,7 @@
 "bots" = "BOT";
 "bots_title" = "Bot";
 "browser" = "Browser";
+"buy_stars" = "Buy Stars";
 "buy_token" = "Buy %@";
 "buy_via" = "Via";
 "calculating" = "Calculating...";
@@ -1257,6 +1258,8 @@
 "speed_up" = "Speed Up";
 "speed_up_transaction" = "Speed Up Transaction";
 "speed_up_transaction_description" = "If the transaction is too far along this may not be possible";
+"star" = "Star";
+"stars" = "Stars";
 "start" = "Start";
 "start_backup" = "Start Backup";
 "start_messaging" = "Mulai Mengirim Pesan";

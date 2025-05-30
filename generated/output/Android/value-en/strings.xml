@@ -253,6 +253,7 @@
 	<string name="buy_asset">Buy %1$s</string>
 	<string name="buy_failed">Failed</string>
 	<string name="buy_failed_description">There was a problem processing the transaction, please try again later.</string>
+	<string name="Buy_Stars">Buy Stars</string>
 	<string name="buy_success">Success</string>
 	<string name="buy_success_description">Successful purchase of %1$s. %2$s will be transferred directly to Mixin wallet.</string>
 	<string name="Buy_token">Buy %1$s</string>
@@ -1491,6 +1492,8 @@
 	<string name="speed_up">Speed Up</string>
 	<string name="speed_up_transaction">Speed Up Transaction</string>
 	<string name="speed_up_transaction_description">If the transaction is too far along this may not be possible</string>
+	<string name="Star">Star</string>
+	<string name="Stars">Stars</string>
 	<string name="Start">Start</string>
 	<string name="Start_Backup">Start Backup</string>
 	<string name="Start_Messaging">Start Messaging</string>

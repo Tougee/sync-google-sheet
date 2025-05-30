@@ -251,6 +251,7 @@
 	<string name="buy_asset">購買 %1$s</string>
 	<string name="buy_failed">交易失敗</string>
 	<string name="buy_failed_description">該交易在處理中出現了問題，請稍後重試。</string>
+	<string name="Buy_Stars">購買 Stars</string>
 	<string name="buy_success">交易成功</string>
 	<string name="buy_success_description">成功支付 %1$s。%2$s 將直接 Mixin 錢包。</string>
 	<string name="Buy_token">買入 %1$s</string>
@@ -1470,6 +1471,8 @@
 	<string name="speed_up">加速</string>
 	<string name="speed_up_transaction">加速交易</string>
 	<string name="speed_up_transaction_description">如果交易已接近完成，可能無法加速</string>
+	<string name="Star">Star</string>
+	<string name="Stars">Stars</string>
 	<string name="Start">開始</string>
 	<string name="Start_Backup">開始備份</string>
 	<string name="Start_Messaging">開始聊天</string>
