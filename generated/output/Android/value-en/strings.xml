@@ -1222,6 +1222,7 @@
 	<string name="Recovery_Kit_instruction">The MPC wallet in Mixin Messenger is built on the decentralized key protocol TIP. You can recover your account through your phone number, mnemonic phrase, or a trusted contact. The complete wallet key exists only in the TEE security environment on the current device. Read the documentation to learn %1$s.</string>
 	<string name="red_up_green_down">Red Up / Green Down</string>
 	<string name="Refresh">Refresh</string>
+	<string name="Refunded">Refunded</string>
 	<string name="Refuse">Refuse</string>
 	<string name="Registering">Registering…</string>
 	<string name="Reject">Reject</string>

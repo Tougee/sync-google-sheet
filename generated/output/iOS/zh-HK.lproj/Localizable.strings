@@ -1026,6 +1026,7 @@
 "recovery_kit_instruction" = "Mixin Messenger 的 MPC 錢包基於去中心化密鑰協議 TIP 構建，您可以通過手機號、助記詞或可信聯繫人登錄恢復你的賬號，錢包完整的密鑰只存在當前設備的 TEE 安全環境中，閲讀文檔以瞭解%@。";
 "red_up_green_down" = "紅漲綠跌";
 "refresh" = "刷新";
+"refunded" = "已退款";
 "reject" = "拒絕";
 "reject_transaction" = "拒絕交易";
 "rejecting_transaction" = "正在拒絕";
