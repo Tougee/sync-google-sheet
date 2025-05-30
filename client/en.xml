@@ -2269,4 +2269,5 @@
   <string name="Star" platform="android, iOS">Star</string>
   <string name="Stars" platform="android, iOS">Stars</string>
   <string name="Buy_Stars" platform="android, iOS">Buy Stars</string>
+  <string name="Refunded" platform="android, iOS">Refunded</string>
 </resources>
