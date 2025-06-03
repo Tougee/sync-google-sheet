@@ -2242,4 +2242,11 @@
   <string name="Stars" platform="android, iOS">Stars</string>
   <string name="Buy_Stars" platform="android, iOS">购买 Stars</string>
   <string name="Refunded" platform="android, iOS">已退款</string>
+  <string name="View_Invoice" platform="android, iOS">查看账单</string>
+  <string name="verifying_payment" platform="android, iOS">支付检测中…</string>
+  <string name="verifying_payment_description" platform="android, iOS">支付检测中，请耐心等待</string>
+  <string name="not_paid" platform="android, iOS">未付款？</string>
+  <string name="not_paid_description" platform="android, iOS">如果您尚未付款，可以放弃等待，重新创建并支付新的订单。</string>
+  <string name="Cancel_Waiting" platform="android, iOS">取消订单</string>
+  <string name="Keep_Waiting" platform="android, iOS">继续等待</string>
 </resources>

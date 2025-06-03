@@ -2270,4 +2270,11 @@
   <string name="Stars" platform="android, iOS">Stars</string>
   <string name="Buy_Stars" platform="android, iOS">Buy Stars</string>
   <string name="Refunded" platform="android, iOS">Refunded</string>
+  <string name="View_Invoice" platform="android, iOS">View Invoice</string>
+  <string name="verifying_payment" platform="android, iOS">Verifying payment…</string>
+  <string name="verifying_payment_description" platform="android, iOS">Your payment is being verified. Thank you for your patience.</string>
+  <string name="not_paid" platform="android, iOS">Not Paid?</string>
+  <string name="not_paid_description" platform="android, iOS">If you haven't paid, you can give up waiting to create and pay next order.</string>
+  <string name="Cancel_Waiting" platform="android, iOS">Cancel Waiting</string>
+  <string name="Keep_Waiting" platform="android, iOS">Keep Waiting</string>
 </resources>
