@@ -274,6 +274,7 @@
 	<string name="cancel_order">取消訂單</string>
 	<string name="cancel_transaction">取消交易</string>
 	<string name="cancel_transaction_description">如果交易已接近完成，可能無法取消</string>
+	<string name="Cancel_Waiting">取消訂單</string>
 	<string name="Canceled">已取消</string>
 	<string name="Canceled_by_caller">對方已取消</string>
 	<string name="Cant_receive_the_code">接收不到驗證碼？</string>
@@ -815,6 +816,7 @@
 	<string name="Join_group">加入群組</string>
 	<string name="Joined_in">%1$s 加入</string>
 	<string name="Keep_Running_Foreground">不要關閉螢幕並保持 Mixin 在前臺執行</string>
+	<string name="Keep_Waiting">繼續等待</string>
 	<string name="Label">標題</string>
 	<string name="landing_anonymous_dialog_content">我們將傳送4位驗證碼到匿名號碼 %1$s, 請在下一個頁面輸入</string>
 	<string name="landing_delete_content">您在 %1$s 申請了刪除賬號，賬號將於 %2$s 被刪除，如果您繼續登入，刪除您賬戶的請求將被取消。</string>
@@ -1027,6 +1029,8 @@
 	<string name="Not_found">沒有找到相應的訊息</string>
 	<string name="Not_logged_in">還沒有登入</string>
 	<string name="Not_Now">現在不要</string>
+	<string name="not_paid">未付款？</string>
+	<string name="not_paid_description">如果您尚未付款，可以放棄等待，重新建立並支付新的訂單。</string>
 	<string name="Not_recognized">無法識別</string>
 	<string name="Not_support">不支援備份</string>
 	<string name="not_supported_deposit">Mixin 已停止支援 %1$s 的充值服務。您可以繼續提現和轉賬錢包餘額中的 %2$s。**瞭解更多**請閱讀檔案。</string>
@@ -1696,6 +1700,8 @@
 	<string name="Verify_by_Biometric">用生物識別來驗證</string>
 	<string name="Verify_PIN">驗證 PIN</string>
 	<string name="Verifying">驗證中…</string>
+	<string name="verifying_payment">支付檢測中…</string>
+	<string name="verifying_payment_description">支付檢測中，請耐心等待</string>
 	<string name="Version_Update">版本更新</string>
 	<string name="Video">影片</string>
 	<string name="video_shareable_false">該影片已被設定為不允許轉發</string>
@@ -1705,6 +1711,7 @@
 	<string name="View_Authorization">檢視授權</string>
 	<string name="view_document">檢視檔案</string>
 	<string name="View_emergency_contact">檢視恢復聯絡人</string>
+	<string name="View_Invoice">檢視賬單</string>
 	<string name="view_on_explorer">在瀏覽器中檢視</string>
 	<string name="View_on_Marketplace">在市場中檢視</string>
 	<string name="View_Plan">檢視會員</string>

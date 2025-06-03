@@ -276,6 +276,7 @@
 	<string name="cancel_order">Cancel Order</string>
 	<string name="cancel_transaction">Cancel Transaction</string>
 	<string name="cancel_transaction_description">If the transaction is too far along cancellation may not be possible</string>
+	<string name="Cancel_Waiting">Cancel Waiting</string>
 	<string name="Canceled">Cancelled</string>
 	<string name="Canceled_by_caller">Cancelled by caller</string>
 	<string name="Cant_receive_the_code">Can\'t receive the code?</string>
@@ -827,6 +828,7 @@
 	<string name="Join_group">Join Group</string>
 	<string name="Joined_in">Joined on %1$s</string>
 	<string name="Keep_Running_Foreground">Please do not close the screen and keep Mixin running in the foreground</string>
+	<string name="Keep_Waiting">Keep Waiting</string>
 	<string name="Label">Label</string>
 	<string name="landing_anonymous_dialog_content">We will send a 4-digit code to your anonymous number %1$s, please enter the code in next screen.</string>
 	<string name="Landing_back">Landing back</string>
@@ -1045,6 +1047,8 @@
 	<string name="Not_found">Not found</string>
 	<string name="Not_logged_in">Not logged in</string>
 	<string name="Not_Now">Not Now</string>
+	<string name="not_paid">Not Paid?</string>
+	<string name="not_paid_description">If you haven\'t paid, you can give up waiting to create and pay next order.</string>
 	<string name="Not_recognized">Not recognized</string>
 	<string name="Not_support">Not support</string>
 	<string name="not_supported_deposit">Mixin ceases support for deposit service on the %1$s. You can continue to withdraw and transfer %2$s in the wallet balance. Read the document to **learn more**.</string>
@@ -1718,6 +1722,8 @@
 	<string name="Verify_by_Biometric">Verify by Biometric</string>
 	<string name="Verify_PIN">Verify PIN</string>
 	<string name="Verifying">Verifying…</string>
+	<string name="verifying_payment">Verifying payment…</string>
+	<string name="verifying_payment_description">Your payment is being verified. Thank you for your patience.</string>
 	<string name="Version_Update">Version Update</string>
 	<string name="Video">Video</string>
 	<string name="video_shareable_false">The video has been set to not allow sharing</string>
@@ -1727,6 +1733,7 @@
 	<string name="View_Authorization">View Authorization</string>
 	<string name="view_document">View Document</string>
 	<string name="View_emergency_contact">View recovery contact</string>
+	<string name="View_Invoice">View Invoice</string>
 	<string name="view_on_explorer">View on Explorer</string>
 	<string name="View_on_Marketplace">View on Marketplace</string>
 	<string name="View_Plan">View Plan</string>
