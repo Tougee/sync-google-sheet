@@ -2238,11 +2238,11 @@
   <string name="safe_members" platform="android, iOS">Safe Members</string>
   <string name="free_recovery_service" platform="android, iOS">Free Recovery Service</string>
   <string name="paid_recovery_service" platform="android, iOS">Paid Recovery Service</string>
-  <string name="membership_benefit_create_safe" platform="android, iOS">Create %1$d safes</string>
-  <string name="membership_benefit_get_stars" platform="android, iOS">Get %1$d Mixin Stars</string>
-  <string name="membership_benefit_safe_members" platform="android, iOS">%1$d members per safe, %2$d members in total</string>
-  <string name="membership_benefit_free_recovery_service" platform="android, iOS">Use the recovery service for free</string>
-  <string name="membership_benefit_paid_recovery_service" platform="android, iOS">Pay %1$d Mixin Stars to use the recovery service</string>
+  <string name="membership_benefit_create_safe" platform="android, iOS">Create %1$d Safes.</string>
+  <string name="membership_benefit_get_stars" platform="android, iOS">Get %1$d Mixin Stars.</string>
+  <string name="membership_benefit_safe_members" platform="android, iOS">%1$d members per Safe, %2$d members in total.</string>
+  <string name="membership_benefit_free_recovery_service" platform="android, iOS">Use the recovery service for free.</string>
+  <string name="membership_benefit_paid_recovery_service" platform="android, iOS">Pay %1$d Mixin Stars to use the recovery service.</string>
   <string name="expires_on" platform="android, iOS">Expires on %1$s</string>
   <string name="expired_on" platform="android, iOS">Expired on %1$s</string>
   <string name="View_Plan" platform="android, iOS">View Plan</string>
