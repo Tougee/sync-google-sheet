@@ -2251,7 +2251,6 @@
   <string name="Upgrade_Plan" platform="android, iOS">Upgrade Plan</string>
   <string name="Upgrade_Plan_for" platform="android, iOS">Upgrade for %1$s</string>
   <string name="Upgrading_Plan" platform="android, iOS">Upgrading</string>
-  <string name="Coming_Soon" platform="iOS">Coming Soon</string>
   <string name="Profile_Badge" platform="android, iOS">Profile Badge</string>
   <string name="Profile_Badge_description" platform="android, iOS">An exclusive badge next to your name</string>
   <string name="Reputation" platform="android, iOS">Reputation</string>
