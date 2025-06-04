@@ -1096,6 +1096,7 @@
 "revoke_multisig_transaction" = "撤销多重签名交易";
 "revoking_multisig_failed" = "撤销多重签名交易失败";
 "revoking_multisig_signature" = "正在撤销多签交易";
+"rewards" = "礼遇";
 "room_is_full" = "房间已满";
 "safe" = "金库";
 "safe_members" = "金库共管人";

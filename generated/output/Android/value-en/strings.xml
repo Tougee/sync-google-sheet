@@ -1297,6 +1297,7 @@
 	<string name="Revoke_multisig_transaction">Revoke Multisig Transaction</string>
 	<string name="Revoking_Multisig_Failed">Revoking Multisig Failed</string>
 	<string name="Revoking_Multisig_Signature">Revoking Multisig Signature</string>
+	<string name="Rewards">Rewards</string>
 	<string name="SAFE">SAFE</string>
 	<string name="safe_members">Safe Members</string>
 	<string name="Saturday">Saturday</string>

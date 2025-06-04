@@ -1278,6 +1278,7 @@
 	<string name="Revoke_multisig_transaction">撤销多重签名交易</string>
 	<string name="Revoking_Multisig_Failed">撤销多重签名交易失败</string>
 	<string name="Revoking_Multisig_Signature">正在撤销多签交易</string>
+	<string name="Rewards">礼遇</string>
 	<string name="SAFE">金库</string>
 	<string name="safe_members">金库共管人</string>
 	<string name="Saturday">星期六</string>

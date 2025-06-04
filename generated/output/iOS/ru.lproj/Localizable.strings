@@ -1096,6 +1096,7 @@
 "revoke_multisig_transaction" = "Отозвать транзакцию с мультиподписью";
 "revoking_multisig_failed" = "Revoking Multisig Failed";
 "revoking_multisig_signature" = "Revoking Multisig Signature";
+"rewards" = "Rewards";
 "room_is_full" = "Комната заполнена";
 "safe" = "SAFE";
 "safe_members" = "Safe Members";

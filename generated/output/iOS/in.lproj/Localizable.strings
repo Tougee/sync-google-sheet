@@ -1096,6 +1096,7 @@
 "revoke_multisig_transaction" = "Cabut Transaksi Multisig";
 "revoking_multisig_failed" = "Revoking Multisig Failed";
 "revoking_multisig_signature" = "Revoking Multisig Signature";
+"rewards" = "Rewards";
 "room_is_full" = "Room is full";
 "safe" = "SAFE";
 "safe_members" = "Safe Members";

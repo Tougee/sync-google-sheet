@@ -1096,6 +1096,7 @@
 "revoke_multisig_transaction" = "Revocar transacción multigrado";
 "revoking_multisig_failed" = "Revoking Multisig Failed";
 "revoking_multisig_signature" = "Revoking Multisig Signature";
+"rewards" = "Rewards";
 "room_is_full" = "El cuarto está lleno";
 "safe" = "SAFE";
 "safe_members" = "Safe Members";

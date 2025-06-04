@@ -1278,6 +1278,7 @@
 	<string name="Revoke_multisig_transaction">撤銷多重簽名交易</string>
 	<string name="Revoking_Multisig_Failed">撤銷多重簽名交易失敗</string>
 	<string name="Revoking_Multisig_Signature">正在撤銷多簽交易</string>
+	<string name="Rewards">禮遇</string>
 	<string name="SAFE">金庫</string>
 	<string name="safe_members">金庫共管人</string>
 	<string name="Saturday">星期六</string>
