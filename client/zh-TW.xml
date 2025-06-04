@@ -2210,11 +2210,11 @@
   <string name="safe_members" platform="android, iOS">金庫共管人</string>
   <string name="free_recovery_service" platform="android, iOS">免費的資產恢復服務</string>
   <string name="paid_recovery_service" platform="android, iOS">收費的資產恢復服務</string>
-  <string name="membership_benefit_create_safe" platform="android, iOS">可建立 %1$d 個金庫</string>
-  <string name="membership_benefit_get_stars" platform="android, iOS">得到 %1$d 個 Mixin Stars</string>
-  <string name="membership_benefit_safe_members" platform="android, iOS">每個金庫最多 %1$d 個共管人，所有金庫最多 %2$d 個共管人</string>
-  <string name="membership_benefit_free_recovery_service" platform="android, iOS">資產恢復服務免費使用</string>
-  <string name="membership_benefit_paid_recovery_service" platform="android, iOS">支付 %1$d Mixin Stars 使用資產恢復服務</string>
+  <string name="membership_benefit_create_safe" platform="android, iOS">可建立 %1$d 個金庫。</string>
+  <string name="membership_benefit_get_stars" platform="android, iOS">得到 %1$d 個 Mixin Stars。</string>
+  <string name="membership_benefit_safe_members" platform="android, iOS">每個金庫最多 %1$d 個共管人，所有金庫最多 %2$d 個共管人。</string>
+  <string name="membership_benefit_free_recovery_service" platform="android, iOS">資產恢復服務免費使用。</string>
+  <string name="membership_benefit_paid_recovery_service" platform="android, iOS">支付 %1$d Mixin Stars 使用資產恢復服務。</string>
   <string name="expires_on" platform="android, iOS">有效期至 %1$s</string>
   <string name="expired_on" platform="android, iOS">%1$s 過期</string>
   <string name="View_Plan" platform="android, iOS">檢視會員</string>

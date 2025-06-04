@@ -912,11 +912,11 @@
 	<string name="Media">Media</string>
 	<string name="membership_advance">Advance</string>
 	<string name="membership_advance_description">Use multiple keys on multiple devices to avoid single point of failure, and get decentralized recovery service in case of key loss.</string>
-	<string name="membership_benefit_create_safe">Create %1$d safes</string>
-	<string name="membership_benefit_free_recovery_service">Use the recovery service for free</string>
-	<string name="membership_benefit_get_stars">Get %1$d Mixin Stars</string>
-	<string name="membership_benefit_paid_recovery_service">Pay %1$d Mixin Stars to use the recovery service</string>
-	<string name="membership_benefit_safe_members">%1$d members per safe, %2$d members in total</string>
+	<string name="membership_benefit_create_safe">Create %1$d Safes.</string>
+	<string name="membership_benefit_free_recovery_service">Use the recovery service for free.</string>
+	<string name="membership_benefit_get_stars">Get %1$d Mixin Stars.</string>
+	<string name="membership_benefit_paid_recovery_service">Pay %1$d Mixin Stars to use the recovery service.</string>
+	<string name="membership_benefit_safe_members">%1$d members per Safe, %2$d members in total.</string>
 	<string name="membership_elite">Elite</string>
 	<string name="membership_elite_description">Manage large fortune in Mixin Safe with family, friends or colleagues, so you can avoid thefts, accidents and custody risks.</string>
 	<string name="membership_plan">Plan</string>
