@@ -224,6 +224,7 @@
 "forward" : "转发",
 "from" : "来自",
 "fromWithColon" : "来自：",
+"generateQrcode" : "生成二维码",
 "groupAlreadyIn" : "你已经在该群组里",
 "groupCantSend" : "您不能发送消息，因为您已经不再是此群组成员。",
 "groupName" : "群组名称",

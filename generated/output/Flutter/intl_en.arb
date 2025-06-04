@@ -225,6 +225,7 @@
 "forward" : "Forward",
 "from" : "From",
 "fromWithColon" : "From:",
+"generateQrcode" : "Generate QR Code",
 "groupAlreadyIn" : "You are already in the group.",
 "groupCantSend" : "You can't send messages to this group because you're no longer a participant.",
 "groupName" : "Group Name",
