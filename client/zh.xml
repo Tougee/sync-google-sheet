@@ -2248,5 +2248,6 @@
   <string name="not_paid_description" platform="android, iOS">如果您尚未付款，可以放弃等待，重新创建并支付新的订单。</string>
   <string name="Cancel_Waiting" platform="android, iOS">取消订单</string>
   <string name="Keep_Waiting" platform="android, iOS">继续等待</string>
+  <string name="Rewards" platform="android, iOS">礼遇</string>
   <string name="generate_qrcode" platform="desktop">生成二维码</string>
 </resources>

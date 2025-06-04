@@ -2276,5 +2276,6 @@
   <string name="not_paid_description" platform="android, iOS">If you haven't paid, you can give up waiting to create and pay next order.</string>
   <string name="Cancel_Waiting" platform="android, iOS">Cancel Waiting</string>
   <string name="Keep_Waiting" platform="android, iOS">Keep Waiting</string>
+  <string name="Rewards" platform="android, iOS">Rewards</string>
   <string name="generate_qrcode" platform="desktop">Generate QR Code</string>
 </resources>
