@@ -1235,7 +1235,8 @@
 	<string name="reputation_description">預設僅顯示信譽度良好、未知的交易。啟用“高風險”可檢視更多交易。</string>
 	<string name="reputation_spam">高風險</string>
 	<string name="reputation_spam_description">因可疑行為或欺詐跡象被標記為高風險交易</string>
-	<string name="reputation_spam_warning">該代幣已被標記為高風險代幣</string>
+	<string name="reputation_spam_token_warning">該代幣已被標記為高風險代幣</string>
+	<string name="reputation_spam_transaction_warning">該交易已被標記為高風險交易</string>
 	<string name="request_approval">允許請求</string>
 	<string name="Request_Authorization">請求授權</string>
 	<string name="request_rejected">請求已拒絕</string>
