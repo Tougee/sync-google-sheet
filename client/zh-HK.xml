@@ -1313,8 +1313,8 @@
   <string name="send_signed_message_confirmation" platform="android">此消息已被簽名，點擊下方按鈕以發送或丟棄</string>
   <string name="Send_This_Location" platform="android, iOS">發送這個位置</string>
   <string name="send_to" platform="android, iOS">發送給 %1$s</string>
-  <string name="send_to_address_description" platform="android, iOS">通過區塊鏈網絡轉給已知地址</string>
-  <string name="Send_to_Contact_description" platform="android, iOS">通過 Mixin 網絡轉給我的 Mixin 聯繫人</string>
+  <string name="send_to_address_description" platform="android, iOS">轉到我地址薄中的地址，地址受到 PIN 保護，避免地址釣魚攻擊。</string>
+  <string name="Send_to_Contact_description" platform="android, iOS">轉給我的 Mixin 好友，轉賬隱私、零手續費且秒到賬。</string>
   <string name="Send_to_Developer" platform="iOS, Desktop">把日誌發給開發者</string>
   <string name="Send_To_Title" platform="iOS">轉給</string>
   <string name="Send_transfer" platform="android">轉出</string>
@@ -2184,7 +2184,8 @@
   <string name="Privacy_Wallet" platform="android, iOS">隱私錢包</string>
   <string name="Common_Wallet" platform="android, iOS">普通錢包</string>
   <string name="Exchanges_or_Wallets" platform="android, iOS">交易所或其他錢包</string>
-  <string name="send_to_other_wallet_description" platform="android, iOS">使用區塊鏈網絡發送到我的另一個錢包</string>
+  <string name="send_to_common_wallet_description" platform="android, iOS">轉到我的普通錢包，用於去中心化應用和 DeFi 協議。</string>
+  <string name="send_to_privacy_wallet_description" platform="android, iOS">轉到我的隱私錢包，保護資產的隱私和安全，避免各種潛在風險。</string>
   <string name="privacy_wallet_tip_title" platform="android, iOS">什麼是隱私錢包？</string>
   <string name="privacy_wallet_tip_description" platform="android, iOS">一個支持多鏈的錢包，提供私密、免費且即時的交易，滿足您的大部分需求。</string>
   <string name="classic_wallet_tip_title" platform="android, iOS">什麼是普通錢包？</string>

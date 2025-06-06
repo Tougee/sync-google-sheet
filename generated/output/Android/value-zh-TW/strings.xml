@@ -1341,9 +1341,10 @@
 	<string name="send_sol_for_rent">傳送至少 %1$s SOL 以支付租金</string>
 	<string name="Send_This_Location">傳送這個位置</string>
 	<string name="send_to">傳送給 %1$s</string>
-	<string name="send_to_address_description">透過區塊鏈網路轉給已知地址</string>
-	<string name="Send_to_Contact_description">透過 Mixin 網路轉給我的 Mixin 聯絡人</string>
-	<string name="send_to_other_wallet_description">使用區塊鏈網路傳送到我的另一個錢包</string>
+	<string name="send_to_address_description">轉到我地址薄中的地址，地址受到 PIN 保護，避免地址釣魚攻擊。</string>
+	<string name="send_to_common_wallet_description">轉到我的普通錢包，用於去中心化應用和 DeFi 協議。</string>
+	<string name="Send_to_Contact_description">轉給我的 Mixin 好友，轉賬隱私、零手續費且秒到賬。</string>
+	<string name="send_to_privacy_wallet_description">轉到我的隱私錢包，保護資產的隱私和安全，避免各種潛在風險。</string>
 	<string name="Send_transfer">轉出</string>
 	<string name="send_without_compression">傳送原始檔案</string>
 	<string name="Send_Without_Sound">靜音傳送</string>
