@@ -2265,7 +2265,6 @@
   <string name="invoice_renew_plan" platform="android, iOS">Renew %1$s Plan</string>
   <string name="invoice_upgrade_plan" platform="android, iOS">Upgrade to %1$s</string>
   <string name="All_Invoices" platform="android, iOS">All Invoices</string>
-  <string name="buy_via" platform="android, iOS">Via</string>
   <string name="Mixin_One" platform="android, iOS">Mixin One</string>
   <string name="Star" platform="android, iOS">Star</string>
   <string name="Stars" platform="android, iOS">Stars</string>
