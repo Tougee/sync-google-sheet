@@ -2237,7 +2237,6 @@
   <string name="invoice_renew_plan" platform="android, iOS">續訂%1$s會員</string>
   <string name="invoice_upgrade_plan" platform="android, iOS">升級到%1$s</string>
   <string name="All_Invoices" platform="android, iOS">全部賬單</string>
-  <string name="buy_via" platform="android, iOS">付款方式</string>
   <string name="Mixin_One" platform="android, iOS">Mixin 大會員</string>
   <string name="Star" platform="android, iOS">Star</string>
   <string name="Stars" platform="android, iOS">Stars</string>
