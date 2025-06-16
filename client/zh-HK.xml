@@ -2175,7 +2175,7 @@
   <string name="optional_note" platform="android, iOS">轉賬備註（可選）</string>
   <string name="Edit_Note" platform="android, iOS">修改轉賬備註</string>
   <string name="Delete_Note" platform="android, iOS">刪除轉賬備註</string>
-  <string name="available_balance" platform="android, iOS">可用餘額：%1$s</string>
+  <string name="available_balance_count" platform="android, iOS">可用餘額：%1$s</string>
   <string name="Mixin_Contact" platform="android, iOS">Mixin 聯繫人</string>
   <string name="Address_Book" platform="android, iOS">地址簿</string>
   <string name="insufficient_fee_description" platform="android, iOS">需要 %1$s 以支付 %2$s 網絡費用</string>

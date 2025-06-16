@@ -2203,7 +2203,7 @@
   <string name="optional_note" platform="android, iOS">Note (Optional)</string>
   <string name="Edit_Note" platform="android, iOS">Edit Note</string>
   <string name="Delete_Note" platform="android, iOS">Delete Note</string>
-  <string name="available_balance" platform="android, iOS">Available: %1$s</string>
+  <string name="available_balance_count" platform="android, iOS">Available: %1$s</string>
   <string name="Mixin_Contact" platform="android, iOS">Mixin Contact</string>
   <string name="Address_Book" platform="android, iOS">Address Book</string>
   <string name="insufficient_fee_description" platform="android, iOS">You need %1$s on the %2$s network to cover the network fee</string>
@@ -2279,4 +2279,15 @@
   <string name="Keep_Waiting" platform="android, iOS">Keep Waiting</string>
   <string name="Rewards" platform="android, iOS">Rewards</string>
   <string name="generate_qrcode" platform="desktop">Generate QR Code</string>
+  <string name="add_token" platform="android, iOS">Add %1$s</string>
+  <string name="Available_Balance" platform="android, iOS">Available Balance</string>
+  <string name="insufficient_balance_symbol" platform="android, iOS">Insufficient %1$s</string>
+  <string name="withdraw_aggregated_insufficient_balance_count" platform="android, iOS">The withdrawal amount is %1$s, the transaction fee is %2$s, and the available balance is %3$s.</string>
+  <string name="withdraw_insufficient_balance_count" platform="android, iOS">The withdrawal amount is %1$s, and the available balance is %2$s.</string>
+  <string name="withdraw_insufficient_fee_count" platform="android, iOS">The transaction fee is %1$s, and the available balance is %2$s.</string>
+  <string name="transfer_insufficient_balance_count" platform="android, iOS">The transfer amount is %1$s, while the available balance is %2$s.</string>
+  <string name="swap_token" platform="android, iOS">Swap %1$s</string>
+  <string name="swap_token_description" platform="android, iOS">Swap other coin to %1$s</string>
+  <string name="deposit_token" platform="android, iOS">Deposit %1$s</string>
+  <string name="deposit_token_description" platform="android, iOS">Deposit from other exchanges or wallets</string>
 </resources>
