@@ -61,6 +61,7 @@
 	<string name="Add_success">添加成功</string>
 	<string name="Add_Tag">点击添加 Tag（标签）</string>
 	<string name="Add_to_Home_screen">添加到桌面</string>
+	<string name="add_token">增值 %1$s</string>
 	<string name="Added">已添加</string>
 	<string name="Adding">正在添加…</string>
 	<string name="Adding_Address">正在添加地址</string>
@@ -195,7 +196,8 @@
 	<string name="Authorizations">授权</string>
 	<string name="auto_download_hint">媒体自动下载设定，所有语音消息将自动下载。</string>
 	<string name="Auto_Lock">自动锁定</string>
-	<string name="available_balance">可用余额：%1$s</string>
+	<string name="Available_Balance">可用余额</string>
+	<string name="available_balance_count">可用余额：%1$s</string>
 	<string name="Back_To_Chat">返回聊天</string>
 	<string name="back_to_merchant">返回商家</string>
 	<string name="Backed_up">已备份</string>
@@ -528,6 +530,8 @@
 	<string name="deposit_tip_eos">支持所有基于 EOS 发行的代币。</string>
 	<string name="deposit_tip_eth">支持所有符合 ERC-20 标准的代币，例如 ETH、XIN 等。</string>
 	<string name="deposit_tip_trx">支持 TRX 和所有符合 TRC-10、TRC-20 标准的代币。</string>
+	<string name="deposit_token">充值 %1$s</string>
+	<string name="deposit_token_description">从其他交易所或钱包转入</string>
 	<string name="Deposits_Pending_Confirmation">有 %1$d 笔充值确认中</string>
 	<string name="depost_address_updated">%1$s 充值地址已更新</string>
 	<string name="depost_address_updated_description">您的 %1$s 充值地址已更新，充值地址将随着系统或网络升级而自动更新，旧的地址仍可充值并会自动入账，但是不推荐使用。</string>
@@ -790,6 +794,7 @@
 	<string name="Initializing">初始化…</string>
 	<string name="install_messenger_desc">访问 mixin.one/mm 或扫描二维码安装</string>
 	<string name="insufficient_balance">余额不足</string>
+	<string name="insufficient_balance_symbol">%1$s 余额不足</string>
 	<string name="insufficient_fee_description">需要 %1$s 以支付 %2$s 网络费用</string>
 	<string name="Introduction">介绍</string>
 	<string name="Invalid_Address">无效的地址</string>
@@ -1519,6 +1524,8 @@
 	<string name="swap_order_received">已收到</string>
 	<string name="swap_receive">获得</string>
 	<string name="swap_send">支付</string>
+	<string name="swap_token">交易 %1$s</string>
+	<string name="swap_token_description">将其他币种兑换为 %1$s</string>
 	<string name="Swapping">兑换中</string>
 	<string name="switch_account">切换账号</string>
 	<string name="switch_payment_method">使用其他支付方式</string>
@@ -1582,6 +1589,7 @@
 	<string name="Transfer_Failed">转账失败</string>
 	<string name="Transfer_from_phone_hint">将您的另一部手机的聊天记录转移过来。</string>
 	<string name="Transfer_Hint">同步你的聊天记录到新的设备，请确保两台设备接入同一个 Wi-Fi 或热点。</string>
+	<string name="transfer_insufficient_balance_count">转账金额 %1$s，钱包可用余额 %2$s。</string>
 	<string name="transfer_memo">备注（可选）</string>
 	<string name="Transfer_Notifications">转账通知</string>
 	<string name="Transfer_Now">开始传输</string>
@@ -1808,7 +1816,10 @@
 	<string name="Whats_your_name">你的名字？</string>
 	<string name="When_roaming">当漫游时</string>
 	<string name="withdraw_Address">提现地址</string>
+	<string name="withdraw_aggregated_insufficient_balance_count">提现金额 %1$s，手续费 %2$s，钱包可用余额 %3$s。</string>
 	<string name="withdraw_all_of_token_warning">这个应用可以提取你所有的 %1$s。</string>
+	<string name="withdraw_insufficient_balance_count">提现金额 %1$s，钱包可用余额 %2$s。</string>
+	<string name="withdraw_insufficient_fee_count">手续费 %1$s，钱包可用余额 %2$s。</string>
 	<string name="Withdrawal">提现</string>
 	<string name="withdrawal_addr_biometric_add">使用生物识别来完成添加</string>
 	<string name="withdrawal_addr_biometric_delete">使用生物识别来完成删除</string>

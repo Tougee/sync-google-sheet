@@ -61,6 +61,7 @@
 	<string name="Add_success">Add success</string>
 	<string name="Add_Tag">Add Tag</string>
 	<string name="Add_to_Home_screen">Add to Home screen</string>
+	<string name="add_token">Add %1$s</string>
 	<string name="Added">Added</string>
 	<string name="Adding">Adding…</string>
 	<string name="Adding_Address">Adding Address</string>
@@ -196,7 +197,8 @@
 	<string name="Authorizations">Authorizations</string>
 	<string name="auto_download_hint">Change auto-download settings for medias. Voice messages are always automatically downloaded.</string>
 	<string name="Auto_Lock">Auto-Lock</string>
-	<string name="available_balance">Available: %1$s</string>
+	<string name="Available_Balance">Available Balance</string>
+	<string name="available_balance_count">Available: %1$s</string>
 	<string name="avatar_transition_name">avatar_transition_name</string>
 	<string name="Back_To_Chat">Back To Chat</string>
 	<string name="back_to_merchant">Back to Merchant</string>
@@ -536,6 +538,8 @@
 	<string name="deposit_tip_eos">This address supports all base on EOS tokens.</string>
 	<string name="deposit_tip_eth">This address supports all ERC-20 tokens, such as ETH, XIN, etc.</string>
 	<string name="deposit_tip_trx">This address supports all TRC-10 and TRC-20 tokens.</string>
+	<string name="deposit_token">Deposit %1$s</string>
+	<string name="deposit_token_description">Deposit from other exchanges or wallets</string>
 	<string name="Deposits_Pending_Confirmation">%1$d Deposits Pending Confirmation</string>
 	<string name="depost_address_updated">%1$s Deposit Address Updated</string>
 	<string name="depost_address_updated_description">Your %1$s deposit address has been updated. The deposit address will automatically update with system or network upgrades. Old addresses are still valid for deposits, but it is not recommended for further use.</string>
@@ -802,6 +806,7 @@
 	<string name="Initializing">Initializing…</string>
 	<string name="install_messenger_desc">Visit mixin.one/mm or scan the QR code to install</string>
 	<string name="insufficient_balance">Insufficient balance</string>
+	<string name="insufficient_balance_symbol">Insufficient %1$s</string>
 	<string name="insufficient_fee_description">You need %1$s on the %2$s network to cover the network fee</string>
 	<string name="Introduction">Introduction</string>
 	<string name="Invalid_Address">Invalid Address</string>
@@ -1540,6 +1545,8 @@
 	<string name="swap_order_received">Received</string>
 	<string name="swap_receive">Receive</string>
 	<string name="swap_send">Send</string>
+	<string name="swap_token">Swap %1$s</string>
+	<string name="swap_token_description">Swap other coin to %1$s</string>
 	<string name="Swapping">Swapping</string>
 	<string name="switch_account">Switch Account</string>
 	<string name="switch_payment_method">Switch Payment Method</string>
@@ -1604,6 +1611,7 @@
 	<string name="Transfer_Failed">Transfer Failed</string>
 	<string name="Transfer_from_phone_hint">Transfer your chat history from your another phone.</string>
 	<string name="Transfer_Hint">Sync your chat history to a new device, please make sure both devices are connected to the same Wi-Fi or hotspot.</string>
+	<string name="transfer_insufficient_balance_count">The transfer amount is %1$s, while the available balance is %2$s.</string>
 	<string name="transfer_memo">Memo (optional)</string>
 	<string name="Transfer_Notifications">Transfer Notifications</string>
 	<string name="Transfer_Now">Transfer Now</string>
@@ -1832,7 +1840,10 @@
 	<string name="Whats_your_name">What\'s your name?</string>
 	<string name="When_roaming">When roaming</string>
 	<string name="withdraw_Address">Address</string>
+	<string name="withdraw_aggregated_insufficient_balance_count">The withdrawal amount is %1$s, the transaction fee is %2$s, and the available balance is %3$s.</string>
 	<string name="withdraw_all_of_token_warning">This app can withdraw all your %1$s.</string>
+	<string name="withdraw_insufficient_balance_count">The withdrawal amount is %1$s, and the available balance is %2$s.</string>
+	<string name="withdraw_insufficient_fee_count">The transaction fee is %1$s, and the available balance is %2$s.</string>
 	<string name="Withdrawal">Withdraw</string>
 	<string name="withdrawal_addr_biometric_add">Use Biometric to save address</string>
 	<string name="withdrawal_addr_biometric_delete">Use Biometric to delete address</string>

@@ -2251,4 +2251,15 @@
   <string name="Keep_Waiting" platform="android, iOS">繼續等待</string>
   <string name="Rewards" platform="android, iOS">禮遇</string>
   <string name="generate_qrcode" platform="desktop">生成二維碼</string>
+  <string name="add_token" platform="android, iOS">增值 %1$s</string>
+  <string name="Available_Balance" platform="android, iOS">可用餘額</string>
+  <string name="insufficient_balance_symbol" platform="android, iOS">%1$s 餘額不足</string>
+  <string name="withdraw_aggregated_insufficient_balance_count" platform="android, iOS">提現金額 %1$s，手續費 %2$s，錢包可用餘額 %3$s。</string>
+  <string name="withdraw_insufficient_balance_count" platform="android, iOS">提現金額 %1$s，錢包可用餘額 %2$s。</string>
+  <string name="withdraw_insufficient_fee_count" platform="android, iOS">手續費 %1$s，錢包可用餘額 %2$s。</string>
+  <string name="transfer_insufficient_balance_count" platform="android, iOS">轉賬金額 %1$s，錢包可用餘額 %2$s。</string>
+  <string name="swap_token" platform="android, iOS">交易 %1$s</string>
+  <string name="swap_token_description" platform="android, iOS">將其他幣種兌換為 %1$s</string>
+  <string name="deposit_token" platform="android, iOS">充值 %1$s</string>
+  <string name="deposit_token_description" platform="android, iOS">從其他交易所或錢包轉入</string>
 </resources>
