@@ -1526,7 +1526,7 @@
 	<string name="swap_send">支付</string>
 	<string name="swap_token">交易 %1$s</string>
 	<string name="swap_token_description">將其他幣種兌換為 %1$s</string>
-	<string name="swap_usdt_hint">檢測到當前錢包有其他鏈的 USDT，是否馬上兌換？</string>
+	<string name="swap_usdt_hint">當前錢包有其他鏈的 USDT，是否馬上兌換？</string>
 	<string name="Swapping">兌換中</string>
 	<string name="switch_account">切換賬號</string>
 	<string name="switch_payment_method">使用其他支付方式</string>
