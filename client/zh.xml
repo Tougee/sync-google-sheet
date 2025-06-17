@@ -2264,4 +2264,5 @@
   <string name="swap_token_description" platform="android, iOS">将其他币种兑换为 %1$s</string>
   <string name="deposit_token" platform="android, iOS">充值 %1$s</string>
   <string name="deposit_token_description" platform="android, iOS">从其他交易所或钱包转入</string>
+  <string name="swap_usdt_hint" platform="android, iOS">检测到当前钱包有其他链的 USDT，是否马上兑换？</string>
 </resources>

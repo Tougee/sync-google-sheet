@@ -2292,4 +2292,5 @@
   <string name="swap_token_description" platform="android, iOS">Swap other coin to %1$s</string>
   <string name="deposit_token" platform="android, iOS">Deposit %1$s</string>
   <string name="deposit_token_description" platform="android, iOS">Deposit from other exchanges or wallets</string>
+  <string name="swap_usdt_hint" platform="android, iOS">There is USDT on a different network in your wallet. Would you like to swap it now?</string>
 </resources>
