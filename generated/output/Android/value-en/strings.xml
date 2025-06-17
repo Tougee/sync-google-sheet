@@ -1547,6 +1547,7 @@
 	<string name="swap_send">Send</string>
 	<string name="swap_token">Swap %1$s</string>
 	<string name="swap_token_description">Swap other coin to %1$s</string>
+	<string name="swap_usdt_hint">There is USDT on a different network in your wallet. Would you like to swap it now?</string>
 	<string name="Swapping">Swapping</string>
 	<string name="switch_account">Switch Account</string>
 	<string name="switch_payment_method">Switch Payment Method</string>
