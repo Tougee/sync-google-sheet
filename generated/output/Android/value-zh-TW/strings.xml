@@ -61,7 +61,7 @@
 	<string name="Add_success">新增成功</string>
 	<string name="Add_Tag">點選新增 Tag（標籤）</string>
 	<string name="Add_to_Home_screen">新增到桌面</string>
-	<string name="add_token">增值 %1$s</string>
+	<string name="add_token">補充 %1$s</string>
 	<string name="Added">已新增</string>
 	<string name="Adding">正在新增…</string>
 	<string name="Adding_Address">正在新增地址</string>

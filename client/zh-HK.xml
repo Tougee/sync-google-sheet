@@ -2251,7 +2251,7 @@
   <string name="Keep_Waiting" platform="android, iOS">繼續等待</string>
   <string name="Rewards" platform="android, iOS">禮遇</string>
   <string name="generate_qrcode" platform="desktop">生成二維碼</string>
-  <string name="add_token" platform="android, iOS">增值 %1$s</string>
+  <string name="add_token" platform="android, iOS">補充 %1$s</string>
   <string name="Available_Balance" platform="android, iOS">可用餘額</string>
   <string name="insufficient_balance_symbol" platform="android, iOS">%1$s 餘額不足</string>
   <string name="withdraw_aggregated_insufficient_balance_count" platform="android, iOS">提現金額 %1$s，手續費 %2$s，錢包可用餘額 %3$s。</string>
