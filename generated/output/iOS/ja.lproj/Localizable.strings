@@ -1352,6 +1352,7 @@
 "transactions_cannot_be_deleted" = "トランザクション履歴を削除することはできません";
 "transcript" = "メッセージ履歴";
 "transfer" = "送金";
+"transfer_aggregated_insufficient_balance_count" = "The transfer amount is %1$@, the transaction fee is %2$@, and the available balance is %3$@.";
 "transfer_amount_count_down" = "送金金額(%@)";
 "transfer_completed" = "Transfer completed";
 "transfer_error_pin_incorrect_with_times" = "エラー20119: PINコードが間違っています。あと%@回入力可能です。";
@@ -1359,6 +1360,7 @@
 "transfer_from_phone_hint" = "Transfer your chat history from your another phone.";
 "transfer_hint" = "Sync your chat history to a new device, please make sure both devices are connected to the same Wi-Fi or hotspot.";
 "transfer_insufficient_balance_count" = "The transfer amount is %1$@, while the available balance is %2$@.";
+"transfer_insufficient_fee_count" = "The transaction fee is %1$@, and the available balance is %2$@.";
 "transfer_memo" = "メモ（オプション）";
 "transfer_notifications" = "送金の受取通知";
 "transfer_now" = "Transfer Now";

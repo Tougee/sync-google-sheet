@@ -1605,6 +1605,7 @@
 	<string name="Transactions_CANNOT_be_deleted">Transactions CANNOT be deleted</string>
 	<string name="Transcript">Transcript</string>
 	<string name="Transfer">Transfer</string>
+	<string name="transfer_aggregated_insufficient_balance_count">The transfer amount is %1$s, the transaction fee is %2$s, and the available balance is %3$s.</string>
 	<string name="Transfer_Amount">Transfer Amount</string>
 	<string name="Transfer_Amount_count_down">Transfer Amount(%1$s)</string>
 	<string name="transfer_completed">Transfer completed</string>
@@ -1612,6 +1613,7 @@
 	<string name="Transfer_from_phone_hint">Transfer your chat history from your another phone.</string>
 	<string name="Transfer_Hint">Sync your chat history to a new device, please make sure both devices are connected to the same Wi-Fi or hotspot.</string>
 	<string name="transfer_insufficient_balance_count">The transfer amount is %1$s, while the available balance is %2$s.</string>
+	<string name="transfer_insufficient_fee_count">The transaction fee is %1$s, and the available balance is %2$s.</string>
 	<string name="transfer_memo">Memo (optional)</string>
 	<string name="Transfer_Notifications">Transfer Notifications</string>
 	<string name="Transfer_Now">Transfer Now</string>

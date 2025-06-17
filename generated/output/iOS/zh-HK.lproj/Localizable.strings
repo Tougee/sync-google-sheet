@@ -1352,6 +1352,7 @@
 "transactions_cannot_be_deleted" = "轉賬記錄不會被刪除";
 "transcript" = "聊天記錄";
 "transfer" = "轉賬";
+"transfer_aggregated_insufficient_balance_count" = "轉賬金額 %1$@，手續費 %2$@，錢包可用餘額 %3$@。";
 "transfer_amount_count_down" = "轉賬金額（%@）";
 "transfer_completed" = "傳輸已完成";
 "transfer_error_pin_incorrect_with_times" = "錯誤 20119：PIN 不正確。你還有 %@ 次機會嘗試。";
@@ -1359,6 +1360,7 @@
 "transfer_from_phone_hint" = "將您的另一部手機的聊天記錄轉移過來。";
 "transfer_hint" = "同步你的聊天記錄到新的設備，請確保兩台設備接入同一個 Wi-Fi 或熱點。";
 "transfer_insufficient_balance_count" = "轉賬金額 %1$@，錢包可用餘額 %2$@。";
+"transfer_insufficient_fee_count" = "手續費 %1$@，錢包可用餘額 %2$@。";
 "transfer_memo" = "備註（可選）";
 "transfer_notifications" = "轉賬通知";
 "transfer_now" = "開始傳輸";

@@ -1583,6 +1583,7 @@
 	<string name="Transactions_CANNOT_be_deleted">转账记录不会被删除</string>
 	<string name="Transcript">聊天记录</string>
 	<string name="Transfer">转账</string>
+	<string name="transfer_aggregated_insufficient_balance_count">转账金额 %1$s，手续费 %2$s，钱包可用余额 %3$s。</string>
 	<string name="Transfer_Amount">转账金额</string>
 	<string name="Transfer_Amount_count_down">转账金额（%1$s）</string>
 	<string name="transfer_completed">同步完成</string>
@@ -1590,6 +1591,7 @@
 	<string name="Transfer_from_phone_hint">将您的另一部手机的聊天记录转移过来。</string>
 	<string name="Transfer_Hint">同步你的聊天记录到新的设备，请确保两台设备接入同一个 Wi-Fi 或热点。</string>
 	<string name="transfer_insufficient_balance_count">转账金额 %1$s，钱包可用余额 %2$s。</string>
+	<string name="transfer_insufficient_fee_count">手续费 %1$s，钱包可用余额 %2$s。</string>
 	<string name="transfer_memo">备注（可选）</string>
 	<string name="Transfer_Notifications">转账通知</string>
 	<string name="Transfer_Now">开始传输</string>

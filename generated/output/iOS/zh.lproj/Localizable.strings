@@ -1352,6 +1352,7 @@
 "transactions_cannot_be_deleted" = "转账记录不会被删除";
 "transcript" = "聊天记录";
 "transfer" = "转账";
+"transfer_aggregated_insufficient_balance_count" = "转账金额 %1$@，手续费 %2$@，钱包可用余额 %3$@。";
 "transfer_amount_count_down" = "转账金额（%@）";
 "transfer_completed" = "传输已完成";
 "transfer_error_pin_incorrect_with_times" = "错误 20119：PIN 不正确。你还有 %@ 次机会尝试。";
@@ -1359,6 +1360,7 @@
 "transfer_from_phone_hint" = "将您的另一部手机的聊天记录转移过来。";
 "transfer_hint" = "同步你的聊天记录到新的设备，请确保两台设备接入同一个 Wi-Fi 或热点。";
 "transfer_insufficient_balance_count" = "转账金额 %1$@，钱包可用余额 %2$@。";
+"transfer_insufficient_fee_count" = "手续费 %1$@，钱包可用余额 %2$@。";
 "transfer_memo" = "备注（可选）";
 "transfer_notifications" = "转账通知";
 "transfer_now" = "开始传输";

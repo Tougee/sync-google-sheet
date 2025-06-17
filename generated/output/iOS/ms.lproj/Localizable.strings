@@ -1352,6 +1352,7 @@
 "transactions_cannot_be_deleted" = "Transactions CANNOT be deleted";
 "transcript" = "Transcript";
 "transfer" = "Pindah";
+"transfer_aggregated_insufficient_balance_count" = "The transfer amount is %1$@, the transaction fee is %2$@, and the available balance is %3$@.";
 "transfer_amount_count_down" = "Jumlah Pindahan(%@)";
 "transfer_completed" = "Transfer completed";
 "transfer_error_pin_incorrect_with_times" = "ERROR 20119: PIN incorrect. You still have %@ chances.";
@@ -1359,6 +1360,7 @@
 "transfer_from_phone_hint" = "Transfer your chat history from your another phone.";
 "transfer_hint" = "Sync your chat history to a new device, please make sure both devices are connected to the same Wi-Fi or hotspot.";
 "transfer_insufficient_balance_count" = "The transfer amount is %1$@, while the available balance is %2$@.";
+"transfer_insufficient_fee_count" = "The transaction fee is %1$@, and the available balance is %2$@.";
 "transfer_memo" = "Memo (optional)";
 "transfer_notifications" = "Pindahkan Pemberitahuan";
 "transfer_now" = "Transfer Now";
