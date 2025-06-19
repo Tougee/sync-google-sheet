@@ -2283,11 +2283,11 @@
   <string name="Available_Balance" platform="android, iOS">Available Balance</string>
   <string name="insufficient_balance_symbol" platform="android, iOS">Insufficient %1$s</string>
   <string name="withdraw_aggregated_insufficient_balance_count" platform="android, iOS">The withdrawal amount is %1$s, the transaction fee is %2$s, and the available balance is %3$s.</string>
-  <string name="withdraw_insufficient_balance_count" platform="android, iOS">The withdrawal amount is %1$s, and the available balance is %2$s.</string>
-  <string name="withdraw_insufficient_fee_count" platform="android, iOS">The transaction fee is %1$s, and the available balance is %2$s.</string>
+  <string name="withdraw_insufficient_balance_count" platform="android, iOS">ERROR 20117: The withdrawal amount is %1$s, and the available balance is %2$s.</string>
+  <string name="withdraw_insufficient_fee_count" platform="android, iOS">ERROR 20118: The transaction fee is %1$s, and the available balance is %2$s.</string>
   <string name="transfer_aggregated_insufficient_balance_count" platform="android, iOS">The transfer amount is %1$s, the transaction fee is %2$s, and the available balance is %3$s.</string>
-  <string name="transfer_insufficient_balance_count" platform="android, iOS">The transfer amount is %1$s, while the available balance is %2$s.</string>
-  <string name="transfer_insufficient_fee_count" platform="android, iOS">The transaction fee is %1$s, and the available balance is %2$s.</string>
+  <string name="transfer_insufficient_balance_count" platform="android, iOS">ERROR 20117: The transfer amount is %1$s, while the available balance is %2$s.</string>
+  <string name="web3_transfer_insufficient_fee_count" platform="android, iOS">ERROR 20118: Broadcasting the transaction requires %1$s, and the available balance is %2$s.</string>
   <string name="swap_token" platform="android, iOS">Swap %1$s</string>
   <string name="swap_token_description" platform="android, iOS">Swap other coin to %1$s</string>
   <string name="deposit_token" platform="android, iOS">Deposit %1$s</string>
