@@ -1613,8 +1613,7 @@
 	<string name="Transfer_Failed">Transfer Failed</string>
 	<string name="Transfer_from_phone_hint">Transfer your chat history from your another phone.</string>
 	<string name="Transfer_Hint">Sync your chat history to a new device, please make sure both devices are connected to the same Wi-Fi or hotspot.</string>
-	<string name="transfer_insufficient_balance_count">The transfer amount is %1$s, while the available balance is %2$s.</string>
-	<string name="transfer_insufficient_fee_count">The transaction fee is %1$s, and the available balance is %2$s.</string>
+	<string name="transfer_insufficient_balance_count">ERROR 20117: The transfer amount is %1$s, while the available balance is %2$s.</string>
 	<string name="transfer_memo">Memo (optional)</string>
 	<string name="Transfer_Notifications">Transfer Notifications</string>
 	<string name="Transfer_Now">Transfer Now</string>
@@ -1832,6 +1831,7 @@
 	<string name="web3_stake">Stake</string>
 	<string name="web3_trade">Trade</string>
 	<string name="web3_transaction_request">Transaction Request</string>
+	<string name="web3_transfer_insufficient_fee_count">ERROR 20118: Broadcasting the transaction requires %1$s, and the available balance is %2$s.</string>
 	<string name="web3_unknown">Unknown</string>
 	<string name="web3_unstake">Unstake</string>
 	<string name="web3_withdraw">Withdraw</string>
@@ -1845,8 +1845,8 @@
 	<string name="withdraw_Address">Address</string>
 	<string name="withdraw_aggregated_insufficient_balance_count">The withdrawal amount is %1$s, the transaction fee is %2$s, and the available balance is %3$s.</string>
 	<string name="withdraw_all_of_token_warning">This app can withdraw all your %1$s.</string>
-	<string name="withdraw_insufficient_balance_count">The withdrawal amount is %1$s, and the available balance is %2$s.</string>
-	<string name="withdraw_insufficient_fee_count">The transaction fee is %1$s, and the available balance is %2$s.</string>
+	<string name="withdraw_insufficient_balance_count">ERROR 20117: The withdrawal amount is %1$s, and the available balance is %2$s.</string>
+	<string name="withdraw_insufficient_fee_count">ERROR 20118: The transaction fee is %1$s, and the available balance is %2$s.</string>
 	<string name="Withdrawal">Withdraw</string>
 	<string name="withdrawal_addr_biometric_add">Use Biometric to save address</string>
 	<string name="withdrawal_addr_biometric_delete">Use Biometric to delete address</string>

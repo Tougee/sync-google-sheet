@@ -1591,8 +1591,7 @@
 	<string name="Transfer_Failed">转账失败</string>
 	<string name="Transfer_from_phone_hint">将您的另一部手机的聊天记录转移过来。</string>
 	<string name="Transfer_Hint">同步你的聊天记录到新的设备，请确保两台设备接入同一个 Wi-Fi 或热点。</string>
-	<string name="transfer_insufficient_balance_count">转账金额 %1$s，钱包可用余额 %2$s。</string>
-	<string name="transfer_insufficient_fee_count">手续费 %1$s，钱包可用余额 %2$s。</string>
+	<string name="transfer_insufficient_balance_count">错误 20117：转账金额 %1$s，钱包可用余额 %2$s。</string>
 	<string name="transfer_memo">备注（可选）</string>
 	<string name="Transfer_Notifications">转账通知</string>
 	<string name="Transfer_Now">开始传输</string>
@@ -1810,6 +1809,7 @@
 	<string name="web3_stake">质押</string>
 	<string name="web3_trade">交易</string>
 	<string name="web3_transaction_request">交易签名</string>
+	<string name="web3_transfer_insufficient_fee_count">错误 20118：广播交易需要 %1$s，钱包可用余额 %2$s。</string>
 	<string name="web3_unknown">未知</string>
 	<string name="web3_unstake">解押</string>
 	<string name="web3_withdraw">提现</string>
@@ -1821,8 +1821,8 @@
 	<string name="withdraw_Address">提现地址</string>
 	<string name="withdraw_aggregated_insufficient_balance_count">提现金额 %1$s，手续费 %2$s，钱包可用余额 %3$s。</string>
 	<string name="withdraw_all_of_token_warning">这个应用可以提取你所有的 %1$s。</string>
-	<string name="withdraw_insufficient_balance_count">提现金额 %1$s，钱包可用余额 %2$s。</string>
-	<string name="withdraw_insufficient_fee_count">手续费 %1$s，钱包可用余额 %2$s。</string>
+	<string name="withdraw_insufficient_balance_count">错误 20117：提现金额 %1$s，钱包可用余额 %2$s。</string>
+	<string name="withdraw_insufficient_fee_count">错误 20118：手续费 %1$s，钱包可用余额 %2$s。</string>
 	<string name="Withdrawal">提现</string>
 	<string name="withdrawal_addr_biometric_add">使用生物识别来完成添加</string>
 	<string name="withdrawal_addr_biometric_delete">使用生物识别来完成删除</string>

@@ -2255,11 +2255,11 @@
   <string name="Available_Balance" platform="android, iOS">可用餘額</string>
   <string name="insufficient_balance_symbol" platform="android, iOS">%1$s 餘額不足</string>
   <string name="withdraw_aggregated_insufficient_balance_count" platform="android, iOS">提現金額 %1$s，手續費 %2$s，錢包可用餘額 %3$s。</string>
-  <string name="withdraw_insufficient_balance_count" platform="android, iOS">提現金額 %1$s，錢包可用餘額 %2$s。</string>
-  <string name="withdraw_insufficient_fee_count" platform="android, iOS">手續費 %1$s，錢包可用餘額 %2$s。</string>
+  <string name="withdraw_insufficient_balance_count" platform="android, iOS">錯誤 20117：提現金額 %1$s，錢包可用餘額 %2$s。</string>
+  <string name="withdraw_insufficient_fee_count" platform="android, iOS">錯誤 20118：手續費 %1$s，錢包可用餘額 %2$s。</string>
   <string name="transfer_aggregated_insufficient_balance_count" platform="android, iOS">轉賬金額 %1$s，手續費 %2$s，錢包可用餘額 %3$s。</string>
-  <string name="transfer_insufficient_balance_count" platform="android, iOS">轉賬金額 %1$s，錢包可用餘額 %2$s。</string>
-  <string name="transfer_insufficient_fee_count" platform="android, iOS">手續費 %1$s，錢包可用餘額 %2$s。</string>
+  <string name="transfer_insufficient_balance_count" platform="android, iOS">錯誤 20117：轉賬金額 %1$s，錢包可用餘額 %2$s。</string>
+  <string name="web3_transfer_insufficient_fee_count" platform="android, iOS">錯誤 20118：廣播交易需要 %1$s，錢包可用餘額 %2$s。</string>
   <string name="swap_token" platform="android, iOS">交易 %1$s</string>
   <string name="swap_token_description" platform="android, iOS">將其他幣種兑換為 %1$s</string>
   <string name="deposit_token" platform="android, iOS">充值 %1$s</string>

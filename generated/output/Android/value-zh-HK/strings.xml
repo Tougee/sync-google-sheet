@@ -1591,8 +1591,7 @@
 	<string name="Transfer_Failed">轉賬失敗</string>
 	<string name="Transfer_from_phone_hint">將您的另一部手機的聊天記錄轉移過來。</string>
 	<string name="Transfer_Hint">同步你的聊天記錄到新的設備，請確保兩台設備接入同一個 Wi-Fi 或熱點。</string>
-	<string name="transfer_insufficient_balance_count">轉賬金額 %1$s，錢包可用餘額 %2$s。</string>
-	<string name="transfer_insufficient_fee_count">手續費 %1$s，錢包可用餘額 %2$s。</string>
+	<string name="transfer_insufficient_balance_count">錯誤 20117：轉賬金額 %1$s，錢包可用餘額 %2$s。</string>
 	<string name="transfer_memo">備註（可選）</string>
 	<string name="Transfer_Notifications">轉賬通知</string>
 	<string name="Transfer_Now">開始傳輸</string>
@@ -1810,6 +1809,7 @@
 	<string name="web3_stake">質押</string>
 	<string name="web3_trade">交易</string>
 	<string name="web3_transaction_request">交易簽名</string>
+	<string name="web3_transfer_insufficient_fee_count">錯誤 20118：廣播交易需要 %1$s，錢包可用餘額 %2$s。</string>
 	<string name="web3_unknown">未知</string>
 	<string name="web3_unstake">解押</string>
 	<string name="web3_withdraw">提現</string>
@@ -1821,8 +1821,8 @@
 	<string name="withdraw_Address">提現地址</string>
 	<string name="withdraw_aggregated_insufficient_balance_count">提現金額 %1$s，手續費 %2$s，錢包可用餘額 %3$s。</string>
 	<string name="withdraw_all_of_token_warning">這個應用可以提取你所有的 %1$s。</string>
-	<string name="withdraw_insufficient_balance_count">提現金額 %1$s，錢包可用餘額 %2$s。</string>
-	<string name="withdraw_insufficient_fee_count">手續費 %1$s，錢包可用餘額 %2$s。</string>
+	<string name="withdraw_insufficient_balance_count">錯誤 20117：提現金額 %1$s，錢包可用餘額 %2$s。</string>
+	<string name="withdraw_insufficient_fee_count">錯誤 20118：手續費 %1$s，錢包可用餘額 %2$s。</string>
 	<string name="Withdrawal">提現</string>
 	<string name="withdrawal_addr_biometric_add">使用生物識別來完成添加</string>
 	<string name="withdrawal_addr_biometric_delete">使用生物識別來完成刪除</string>
