@@ -1606,7 +1606,7 @@
 	<string name="Transactions_CANNOT_be_deleted">Transactions CANNOT be deleted</string>
 	<string name="Transcript">Transcript</string>
 	<string name="Transfer">Transfer</string>
-	<string name="transfer_aggregated_insufficient_balance_count">The transfer amount is %1$s, the transaction fee is %2$s, and the available balance is %3$s.</string>
+	<string name="transfer_aggregated_insufficient_balance_count">The transfer amount is %1$s, the transaction fee is %2$s, and the balance is %3$s.</string>
 	<string name="Transfer_Amount">Transfer Amount</string>
 	<string name="Transfer_Amount_count_down">Transfer Amount(%1$s)</string>
 	<string name="transfer_completed">Transfer completed</string>
@@ -1843,7 +1843,7 @@
 	<string name="Whats_your_name">What\'s your name?</string>
 	<string name="When_roaming">When roaming</string>
 	<string name="withdraw_Address">Address</string>
-	<string name="withdraw_aggregated_insufficient_balance_count">The withdrawal amount is %1$s, the transaction fee is %2$s, and the available balance is %3$s.</string>
+	<string name="withdraw_aggregated_insufficient_balance_count">The withdrawal amount is %1$s, the transaction fee is %2$s, and the balance is %3$s.</string>
 	<string name="withdraw_all_of_token_warning">This app can withdraw all your %1$s.</string>
 	<string name="withdraw_insufficient_balance_count">ERROR 20117: The withdrawal amount is %1$s, and the available balance is %2$s.</string>
 	<string name="withdraw_insufficient_fee_count">ERROR 20118: The transaction fee is %1$s, and the available balance is %2$s.</string>

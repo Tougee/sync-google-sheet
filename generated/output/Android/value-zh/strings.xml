@@ -1524,7 +1524,7 @@
 	<string name="swap_order_received">已收到</string>
 	<string name="swap_receive">获得</string>
 	<string name="swap_send">支付</string>
-	<string name="swap_token">交易 %1$s</string>
+	<string name="swap_token">兑换 %1$s</string>
 	<string name="swap_token_description">将其他币种兑换为 %1$s</string>
 	<string name="swap_usdt_hint">当前钱包有其他链的 USDT，是否马上兑换？</string>
 	<string name="Swapping">兑换中</string>
@@ -1584,7 +1584,7 @@
 	<string name="Transactions_CANNOT_be_deleted">转账记录不会被删除</string>
 	<string name="Transcript">聊天记录</string>
 	<string name="Transfer">转账</string>
-	<string name="transfer_aggregated_insufficient_balance_count">转账金额 %1$s，手续费 %2$s，钱包可用余额 %3$s。</string>
+	<string name="transfer_aggregated_insufficient_balance_count">转账金额 %1$s，手续费 %2$s，钱包余额 %3$s。</string>
 	<string name="Transfer_Amount">转账金额</string>
 	<string name="Transfer_Amount_count_down">转账金额（%1$s）</string>
 	<string name="transfer_completed">同步完成</string>
@@ -1819,7 +1819,7 @@
 	<string name="Whats_your_name">你的名字？</string>
 	<string name="When_roaming">当漫游时</string>
 	<string name="withdraw_Address">提现地址</string>
-	<string name="withdraw_aggregated_insufficient_balance_count">提现金额 %1$s，手续费 %2$s，钱包可用余额 %3$s。</string>
+	<string name="withdraw_aggregated_insufficient_balance_count">提现金额 %1$s，手续费 %2$s，钱包余额 %3$s。</string>
 	<string name="withdraw_all_of_token_warning">这个应用可以提取你所有的 %1$s。</string>
 	<string name="withdraw_insufficient_balance_count">错误 20117：提现金额 %1$s，钱包可用余额 %2$s。</string>
 	<string name="withdraw_insufficient_fee_count">错误 20118：手续费 %1$s，钱包可用余额 %2$s。</string>

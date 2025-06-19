@@ -1524,7 +1524,7 @@
 	<string name="swap_order_received">已收到</string>
 	<string name="swap_receive">獲得</string>
 	<string name="swap_send">支付</string>
-	<string name="swap_token">交易 %1$s</string>
+	<string name="swap_token">兌換 %1$s</string>
 	<string name="swap_token_description">將其他幣種兌換為 %1$s</string>
 	<string name="swap_usdt_hint">當前錢包有其他鏈的 USDT，是否馬上兌換？</string>
 	<string name="Swapping">兌換中</string>
@@ -1584,7 +1584,7 @@
 	<string name="Transactions_CANNOT_be_deleted">轉賬記錄不會被刪除</string>
 	<string name="Transcript">聊天記錄</string>
 	<string name="Transfer">轉賬</string>
-	<string name="transfer_aggregated_insufficient_balance_count">轉賬金額 %1$s，手續費 %2$s，錢包可用餘額 %3$s。</string>
+	<string name="transfer_aggregated_insufficient_balance_count">轉賬金額 %1$s，手續費 %2$s，錢包餘額 %3$s。</string>
 	<string name="Transfer_Amount">轉賬金額</string>
 	<string name="Transfer_Amount_count_down">轉賬金額（%1$s）</string>
 	<string name="transfer_completed">同步完成</string>
@@ -1819,7 +1819,7 @@
 	<string name="Whats_your_name">你的名字？</string>
 	<string name="When_roaming">當漫遊時</string>
 	<string name="withdraw_Address">提現地址</string>
-	<string name="withdraw_aggregated_insufficient_balance_count">提現金額 %1$s，手續費 %2$s，錢包可用餘額 %3$s。</string>
+	<string name="withdraw_aggregated_insufficient_balance_count">提現金額 %1$s，手續費 %2$s，錢包餘額 %3$s。</string>
 	<string name="withdraw_all_of_token_warning">這個應用可以提取你所有的 %1$s。</string>
 	<string name="withdraw_insufficient_balance_count">錯誤 20117：提現金額 %1$s，錢包可用餘額 %2$s。</string>
 	<string name="withdraw_insufficient_fee_count">錯誤 20118：手續費 %1$s，錢包可用餘額 %2$s。</string>
