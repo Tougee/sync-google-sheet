@@ -204,6 +204,8 @@
 "bots" = "機器人";
 "bots_title" = "機器人";
 "browser" = "瀏覽器";
+"buy" = "購買";
+"buy_asset" = "購買 %@";
 "buy_stars" = "購買 Stars";
 "buy_token" = "買入 %@";
 "calculating" = "正在計算...";

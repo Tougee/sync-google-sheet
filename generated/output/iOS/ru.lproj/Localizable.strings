@@ -204,6 +204,8 @@
 "bots" = "БОТЫ";
 "bots_title" = "Боты";
 "browser" = "Browser";
+"buy" = "Buy";
+"buy_asset" = "Buy %@";
 "buy_stars" = "Buy Stars";
 "buy_token" = "Buy %@";
 "calculating" = "Calculating...";

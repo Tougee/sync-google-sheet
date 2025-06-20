@@ -195,8 +195,8 @@
   <string name="bots_title" platform="android, iOS, Desktop">機器人</string>
   <string name="bottom_transfer_stranger_tip" platform="android">Mixin ID %1$s 不是您的聯絡人，請確認收款人是否正確。如果您轉錯了人資產將無法追回！</string>
   <string name="bring_all_to_front" platform="Desktop">前置所有視窗</string>
-  <string name="buy" platform="android">購買</string>
-  <string name="buy_asset" platform="android">購買 %1$s</string>
+  <string name="buy" platform="android, iOS">購買</string>
+  <string name="buy_asset" platform="android, iOS">購買 %1$s</string>
   <string name="buy_failed" platform="android">交易失敗</string>
   <string name="buy_failed_description" platform="android">該交易在處理中出現了問題，請稍後重試。</string>
   <string name="buy_success" platform="android">交易成功</string>

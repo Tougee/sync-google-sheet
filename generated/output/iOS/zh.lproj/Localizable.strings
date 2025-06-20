@@ -204,6 +204,8 @@
 "bots" = "机器人";
 "bots_title" = "机器人";
 "browser" = "浏览器";
+"buy" = "购买";
+"buy_asset" = "购买 %@";
 "buy_stars" = "购买 Stars";
 "buy_token" = "买入 %@";
 "calculating" = "正在计算...";

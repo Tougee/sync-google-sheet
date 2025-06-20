@@ -204,6 +204,8 @@
 "bots" = "ミニアプリ";
 "bots_title" = "Myミニアプリ一覧";
 "browser" = "Browser";
+"buy" = "Buy";
+"buy_asset" = "Buy %@";
 "buy_stars" = "Buy Stars";
 "buy_token" = "Buy %@";
 "calculating" = "Calculating...";
