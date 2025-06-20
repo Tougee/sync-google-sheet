@@ -197,8 +197,8 @@
   <string name="bots_title" platform="android, iOS, Desktop">Bots</string>
   <string name="bottom_transfer_stranger_tip" platform="android">Mixin ID %1$s is not on your contact list. Make sure the recipient you chosen is correct. If you transfer to the wrong person, your assets will be lost!</string>
   <string name="bring_all_to_front" platform="Desktop">Bring All To Front</string>
-  <string name="buy" platform="android">Buy</string>
-  <string name="buy_asset" platform="android">Buy %1$s</string>
+  <string name="buy" platform="android, iOS">Buy</string>
+  <string name="buy_asset" platform="android, iOS">Buy %1$s</string>
   <string name="buy_failed" platform="android">Failed</string>
   <string name="buy_failed_description" platform="android">There was a problem processing the transaction, please try again later.</string>
   <string name="buy_success" platform="android">Success</string>
