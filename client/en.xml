@@ -203,7 +203,7 @@
   <string name="buy_failed_description" platform="android">There was a problem processing the transaction, please try again later.</string>
   <string name="buy_success" platform="android">Success</string>
   <string name="buy_success_description" platform="android">Successful purchase of %1$s. %2$s will be transferred directly to Mixin wallet.</string>
-  <string name="buying_limitation" platform="android">Minimum %1$s, Maximum %2$s</string>
+  <string name="buying_limitation" platform="android, iOS">Minimum %1$s</string>
   <string name="calculating" platform="android, iOS">Calculating…</string>
   <string name="Call" platform="android, iOS">Call</string>
   <string name="Call_declined" platform="android, iOS">Call declined</string>
