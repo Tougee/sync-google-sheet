@@ -208,6 +208,7 @@
 "buy_asset" = "Buy %@";
 "buy_stars" = "Buy Stars";
 "buy_token" = "Buy %@";
+"buying_limitation" = "Minimum %@";
 "calculating" = "Calculating...";
 "call" = "Call";
 "call_declined" = "Call declined";
