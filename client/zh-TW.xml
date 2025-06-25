@@ -1462,7 +1462,6 @@
   <string name="System_time_is_unusual" platform="iOS">系統時間異常</string>
   <string name="System_version" platform="android">系統版本</string>
   <string name="Tag" platform="android, iOS">Tag（標籤）</string>
-  <string name="take_a_photo" platform="android,iOS">拍攝照片</string>
   <string name="Tap_to_join" platform="android, iOS">點選加入</string>
   <string name="Terms_of_Service" platform="android, iOS, Desktop">服務條款</string>
   <string name="Text" platform="android, Desktop">文字</string>
