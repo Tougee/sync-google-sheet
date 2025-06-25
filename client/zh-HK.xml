@@ -2264,7 +2264,7 @@
   <string name="deposit_token" platform="android, iOS">充值 %1$s</string>
   <string name="deposit_token_description" platform="android, iOS">從其他交易所或錢包轉入</string>
   <string name="swap_usdt_hint" platform="android, iOS">當前錢包有其他鏈的 USDT，是否馬上兑換？</string>
-  <string name="buy_crypto_with_cash">用現金購買加密貨幣</string>
-  <string name="trade_native_tokens">交易數千種原生代幣</string>
-  <string name="mixin_one_desc">開啓您的 Mixin 會員之旅</string>
+  <string name="buy_crypto_with_cash" platform="android, iOS">用現金購買加密貨幣</string>
+  <string name="trade_native_tokens" platform="android, iOS">交易數千種原生代幣</string>
+  <string name="mixin_one_desc" platform="android, iOS">開啓您的 Mixin 會員之旅</string>
 </resources>

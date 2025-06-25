@@ -251,6 +251,7 @@
 	<string name="Browser">瀏覽器</string>
 	<string name="buy">購買</string>
 	<string name="buy_asset">購買 %1$s</string>
+	<string name="buy_crypto_with_cash">用現金購買加密貨幣</string>
 	<string name="buy_failed">交易失敗</string>
 	<string name="buy_failed_description">該交易在處理中出現了問題，請稍後重試。</string>
 	<string name="Buy_Stars">購買 Stars</string>
@@ -934,6 +935,7 @@
 	<string name="Mixin_Locked">Mixin 已鎖定</string>
 	<string name="Mixin_Messenger_Desktop">Mixin Messenger 桌面</string>
 	<string name="Mixin_One">Mixin 大會員</string>
+	<string name="mixin_one_desc">開啟您的 Mixin 會員之旅</string>
 	<string name="Mixin_Support">Mixin 客服</string>
 	<string name="Mnemonic_Phrase">助記詞</string>
 	<string name="Mnemonic_Phrase_instruction">你可以透過助記詞登入你的賬號，當前助記詞已關聯到 MPC 錢包的金鑰分片，完整的金鑰只存在當前裝置的 TEE 安全環境中，閱讀檔案以瞭解%1$s。</string>
@@ -1568,6 +1570,7 @@
 	<string name="Total_Balance">資產合計</string>
 	<string name="Total_Supply">總量</string>
 	<string name="Touch_the_fingerprint_sensor">觸控指紋感測器</string>
+	<string name="trade_native_tokens">交易數千種原生代幣</string>
 	<string name="Transaction">交易詳情</string>
 	<string name="Transaction_Approved">批准成功</string>
 	<string name="transaction_failed">轉賬失敗</string>

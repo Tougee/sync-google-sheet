@@ -253,6 +253,7 @@
 	<string name="Browser">Browser</string>
 	<string name="buy">Buy</string>
 	<string name="buy_asset">Buy %1$s</string>
+	<string name="buy_crypto_with_cash">Purchase crypto with cash</string>
 	<string name="buy_failed">Failed</string>
 	<string name="buy_failed_description">There was a problem processing the transaction, please try again later.</string>
 	<string name="Buy_Stars">Buy Stars</string>
@@ -952,6 +953,7 @@
 	<string name="Mixin_Locked">Mixin Locked</string>
 	<string name="Mixin_Messenger_Desktop">Mixin Messenger Desktop</string>
 	<string name="Mixin_One">Mixin One</string>
+	<string name="mixin_one_desc">Start your Mixin premium journey</string>
 	<string name="Mixin_Support">Mixin Support</string>
 	<string name="Mnemonic_Phrase">Mnemonic Phrase</string>
 	<string name="Mnemonic_Phrase_instruction">You can log in to your account using the mnemonic phrase. The current mnemonic phrase is linked to a key shard of the MPC wallet, with the complete key existing only in the TEE security environment on the current device. Read the documentation to learn %1$s.</string>
@@ -1590,6 +1592,7 @@
 	<string name="Total_Supply">Total Supply</string>
 	<string name="Touch_the_fingerprint_sensor">Touch the fingerprint sensor</string>
 	<string name="Trace">Trace</string>
+	<string name="trade_native_tokens">Trade thousands of native tokens</string>
 	<string name="Transaction">Transaction</string>
 	<string name="Transaction_Approved">Transaction Approved</string>
 	<string name="transaction_failed">Transaction Failed</string>
