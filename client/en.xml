@@ -2292,4 +2292,7 @@
   <string name="deposit_token" platform="android, iOS">Deposit %1$s</string>
   <string name="deposit_token_description" platform="android, iOS">Deposit from other exchanges or wallets</string>
   <string name="swap_usdt_hint" platform="android, iOS">There is USDT on a different network in your wallet. Would you like to swap it now?</string>
+  <string name="buy_crypto_with_cash">Purchase crypto with cash</string>
+  <string name="trade_native_tokens">Trade thousands of native tokens</string>
+  <string name="mixin_one_desc">Start your Mixin premium journey</string>
 </resources>
