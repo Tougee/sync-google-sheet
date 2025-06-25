@@ -1482,7 +1482,6 @@
   <string name="System_time_is_unusual" platform="iOS">System time is unusual</string>
   <string name="System_version" platform="android">System version</string>
   <string name="Tag" platform="android, iOS">Tag</string>
-  <string name="take_a_photo" platform="android,iOS">Take a photo</string>
   <string name="Tap_to_join" platform="android, iOS">Tap to join</string>
   <string name="Terms_of_Service" platform="android, iOS, Desktop">Terms of Service</string>
   <string name="Text" platform="android, Desktop">Text</string>
