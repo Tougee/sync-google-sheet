@@ -1047,6 +1047,7 @@
 	<string name="Nodes">Nodes</string>
 	<string name="None">None</string>
 	<string name="normal">Normal</string>
+	<string name="not_a_group_member">You\'re no longer a member in this group</string>
 	<string name="Not_all_signer_success">Not all node success</string>
 	<string name="Not_Backed_up">Not Backed Up</string>
 	<string name="Not_enough_partials">Not enough nodes return key shard</string>

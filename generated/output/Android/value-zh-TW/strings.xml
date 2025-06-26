@@ -1029,6 +1029,7 @@
 	<string name="Nodes">節點</string>
 	<string name="None">無</string>
 	<string name="normal">普通</string>
+	<string name="not_a_group_member">你已不再是該群組的成員</string>
 	<string name="Not_all_signer_success">有些節點失敗了</string>
 	<string name="Not_Backed_up">未備份</string>
 	<string name="Not_enough_partials">沒有足夠的節點返回金鑰分片</string>

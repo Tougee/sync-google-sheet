@@ -2267,4 +2267,5 @@
   <string name="buy_crypto_with_cash" platform="android, iOS">用現金購買加密貨幣</string>
   <string name="trade_native_tokens" platform="android, iOS">交易數千種原生代幣</string>
   <string name="mixin_one_desc" platform="android, iOS">開啓您的 Mixin 會員之旅</string>
+  <string name="not_a_group_member" platform="android, iOS">你已不再是該羣組的成員</string>
 </resources>
