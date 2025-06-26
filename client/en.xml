@@ -2295,4 +2295,5 @@
   <string name="buy_crypto_with_cash" platform="android, iOS">Purchase crypto with cash</string>
   <string name="trade_native_tokens" platform="android, iOS">Trade thousands of native tokens</string>
   <string name="mixin_one_desc" platform="android, iOS">Start your Mixin premium journey</string>
+  <string name="not_a_group_member" platform="android, iOS">You're no longer a member in this group</string>
 </resources>
