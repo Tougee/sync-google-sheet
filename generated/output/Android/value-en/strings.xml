@@ -62,6 +62,7 @@
 	<string name="Add_Tag">Add Tag</string>
 	<string name="Add_to_Home_screen">Add to Home screen</string>
 	<string name="add_token">Add %1$s</string>
+	<string name="Add_Wallet">Add Wallet</string>
 	<string name="Added">Added</string>
 	<string name="Adding">Adding…</string>
 	<string name="Adding_Address">Adding Address</string>
@@ -398,6 +399,7 @@
 	<string name="Combine_and_forward">Combine and forward</string>
 	<string name="Combine_utxo">Combine UTXOs</string>
 	<string name="Common_Wallet">Common Wallet</string>
+	<string name="common_wallet_index">Common Wallet %1$d</string>
 	<string name="Complete">Complete</string>
 	<string name="Completed">Completed</string>
 	<string name="Confirm">Confirm</string>
@@ -724,6 +726,7 @@
 	<string name="fees_by_gateway">Fees by Processor</string>
 	<string name="fees_by_mixin">Fees by Mixin</string>
 	<string name="fees_explaination">You may be charged fees outside of your order by your bank, please contact your bank for more details.</string>
+	<string name="Fetching_in_to_your_wallet">Fetching in to your wallet…</string>
 	<string name="File">File</string>
 	<string name="File_chooser_error">File chooser error</string>
 	<string name="File_does_not_exist">File does not exist</string>
@@ -732,6 +735,7 @@
 	<string name="Files">Files</string>
 	<string name="Filter">Filter</string>
 	<string name="FILTER_BY">FILTER BY</string>
+	<string name="Find_more_wallets">Find more wallets</string>
 	<string name="fingerprint_lock">Fingerprint lock</string>
 	<string name="Flash_unit_not_available">Flash unit not available</string>
 	<string name="Floating">Floating</string>
@@ -801,6 +805,9 @@
 	<string name="image_shareable_false">The image has been set to not allow sharing</string>
 	<string name="Immediately">Immediately</string>
 	<string name="Import">Import</string>
+	<string name="Import_Mnemonic_Phrase">Import Mnemonic Phrase</string>
+	<string name="Import_Wallets">Import Wallets</string>
+	<string name="Import_wallets_from_another_wallet">Import wallets from another wallet</string>
 	<string name="in_connecting">Connecting…</string>
 	<string name="Incognito_Keyboard">Incognito Keyboard</string>
 	<string name="Incoming_voice_call">Incoming voice call</string>
@@ -1357,6 +1364,8 @@
 	<string name="Select_LIMIT">Select up to %1$d</string>
 	<string name="select_payment_method">Select Payment Method</string>
 	<string name="select_token">Select Token</string>
+	<string name="selected_wallet_count">%1$d wallets selected</string>
+	<string name="selected_wallet_count_one">1 wallet selected</string>
 	<string name="Sell_token">Sell %1$s</string>
 	<string name="Send">Send</string>
 	<string name="Send_as_file">Send as file</string>

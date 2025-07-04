@@ -62,6 +62,7 @@
 	<string name="Add_Tag">點選新增 Tag（標籤）</string>
 	<string name="Add_to_Home_screen">新增到桌面</string>
 	<string name="add_token">補充 %1$s</string>
+	<string name="Add_Wallet">新增錢包</string>
 	<string name="Added">已新增</string>
 	<string name="Adding">正在新增…</string>
 	<string name="Adding_Address">正在新增地址</string>
@@ -393,6 +394,7 @@
 	<string name="Combine_and_forward">合併轉發</string>
 	<string name="Combine_utxo">歸集 UTXO</string>
 	<string name="Common_Wallet">普通錢包</string>
+	<string name="common_wallet_index">普通錢包 %1$d</string>
 	<string name="Complete">完成</string>
 	<string name="Completed">已完成</string>
 	<string name="Confirm">確認</string>
@@ -715,6 +717,7 @@
 	<string name="fees_by_gateway">支付閘道器費用</string>
 	<string name="fees_by_mixin">Mixin 手續費</string>
 	<string name="fees_explaination">您有可能被您的銀行收取訂單之外的費用，請聯絡您的銀行了解更多詳情。</string>
+	<string name="Fetching_in_to_your_wallet">正在查詢你的錢包…</string>
 	<string name="File">檔案</string>
 	<string name="File_chooser_error">檔案選擇錯誤</string>
 	<string name="File_does_not_exist">檔案不存在</string>
@@ -723,6 +726,7 @@
 	<string name="Files">檔案</string>
 	<string name="Filter">篩選</string>
 	<string name="FILTER_BY">篩選</string>
+	<string name="Find_more_wallets">查詢更多錢包</string>
 	<string name="fingerprint_lock">指紋鎖定</string>
 	<string name="Flash_unit_not_available">閃光燈/手電筒硬體不可用</string>
 	<string name="Floating">浮窗</string>
@@ -789,6 +793,9 @@
 	<string name="image_shareable_false">該圖片已被設定為不允許轉發</string>
 	<string name="Immediately">立刻</string>
 	<string name="Import">匯入聊天記錄</string>
+	<string name="Import_Mnemonic_Phrase">匯入助記詞</string>
+	<string name="Import_Wallets">匯入錢包</string>
+	<string name="Import_wallets_from_another_wallet">從其他錢包匯入錢包</string>
 	<string name="in_connecting">正在連線…</string>
 	<string name="Incognito_Keyboard">隱身鍵盤</string>
 	<string name="Incoming_voice_call">語音通話來電</string>
@@ -1337,6 +1344,8 @@
 	<string name="Select_LIMIT">最多選擇 %1$d 個</string>
 	<string name="select_payment_method">選擇支付方式</string>
 	<string name="select_token">選擇代幣</string>
+	<string name="selected_wallet_count">已選擇 %1$d 個錢包</string>
+	<string name="selected_wallet_count_one">已選擇 1 個錢包</string>
 	<string name="Sell_token">賣出 %1$s</string>
 	<string name="Send">傳送</string>
 	<string name="Send_as_file">按檔案傳送</string>
