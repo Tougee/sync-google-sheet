@@ -1306,7 +1306,7 @@
   <string name="select_a_card" platform="android">Select a Card</string>
   <string name="Select_a_country_or_region" platform="iOS">Select a Country or Region</string>
   <string name="select_a_token_for_the_fee" platform="android,iOS">Select a token for the fee</string>
-  <string name="Select_All" platform="android">Select All</string>
+  <string name="Select_All" platform="android, iOS">Select All</string>
   <string name="Select_Emergency_Contact" platform="android, iOS">Select Recovery Contact</string>
   <string name="Select_More_Photos" platform="iOS">Select More Photos</string>
   <string name="select_payment_method" platform="android">Select Payment Method</string>
@@ -2296,4 +2296,13 @@
   <string name="trade_native_tokens" platform="android, iOS">Trade thousands of native tokens</string>
   <string name="mixin_one_desc" platform="android, iOS">Start your Mixin premium journey</string>
   <string name="not_a_group_member" platform="android, iOS">You're no longer a member in this group</string>
+  <string name="Add_Wallet" platform="android, iOS">Add Wallet</string>
+  <string name="common_wallet_index" platform="android, iOS">Common Wallet %1$d</string>
+  <string name="Fetching_in_to_your_wallet" platform="android, iOS">Fetching in to your wallet…</string>
+  <string name="Import_Mnemonic_Phrase" platform="android, iOS">Import Mnemonic Phrase</string>
+  <string name="Import_wallets_from_another_wallet" platform="android, iOS">Import wallets from another wallet</string>
+  <string name="Import_Wallets" platform="android, iOS">Import Wallets</string>
+  <string name="Find_more_wallets" platform="android, iOS">Find more wallets</string>
+  <string name="selected_wallet_count_one" platform="android, iOS">1 wallet selected</string>
+  <string name="selected_wallet_count" platform="android, iOS">%1$d wallets selected</string>
 </resources>

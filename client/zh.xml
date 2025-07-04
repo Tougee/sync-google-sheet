@@ -1287,7 +1287,7 @@
   <string name="select_a_card" platform="android">选择卡片</string>
   <string name="Select_a_country_or_region" platform="iOS">选择一个国家或地区</string>
   <string name="select_a_token_for_the_fee" platform="android,iOS">选择支付手续费的币种</string>
-  <string name="Select_All" platform="android">选择所有</string>
+  <string name="Select_All" platform="android, iOS">选择所有</string>
   <string name="Select_Emergency_Contact" platform="android, iOS">选择恢复联系人</string>
   <string name="Select_More_Photos" platform="iOS">选择更多照片</string>
   <string name="select_payment_method" platform="android">选择支付方式</string>
@@ -2268,4 +2268,13 @@
   <string name="trade_native_tokens" platform="android, iOS">交易数千种原生代币</string>
   <string name="mixin_one_desc" platform="android, iOS">开启您的 Mixin 会员之旅</string>
   <string name="not_a_group_member" platform="android, iOS">你已不再是该群组的成员</string>
+  <string name="Add_Wallet" platform="android, iOS">添加钱包</string>
+  <string name="common_wallet_index" platform="android, iOS">普通钱包 %1$d</string>
+  <string name="Fetching_in_to_your_wallet" platform="android, iOS">正在查找你的钱包…</string>
+  <string name="Import_Mnemonic_Phrase" platform="android, iOS">导入助记词</string>
+  <string name="Import_wallets_from_another_wallet" platform="android, iOS">从其他钱包导入钱包</string>
+  <string name="Import_Wallets" platform="android, iOS">导入钱包</string>
+  <string name="Find_more_wallets" platform="android, iOS">查找更多钱包</string>
+  <string name="selected_wallet_count_one" platform="android, iOS">已选择 1 个钱包</string>
+  <string name="selected_wallet_count" platform="android, iOS">已选择 %1$d 个钱包</string>
 </resources>
