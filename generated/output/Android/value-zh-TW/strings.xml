@@ -513,6 +513,8 @@
 	<string name="Delete_my_account">刪除賬號</string>
 	<string name="Delete_Note">刪除轉賬備註</string>
 	<string name="Delete_Synced_Contact">刪除已同步的通訊錄</string>
+	<string name="delete_wallet_description">移除此錢包不會影響你的資產，請確保已備份助記詞。</string>
+	<string name="delete_wallet_title">請輸入 PIN 碼以移除錢包</string>
 	<string name="Delete_withdraw_Address">刪除 %1$s 地址</string>
 	<string name="Deleting_Address">正在刪除地址</string>
 	<string name="Deleting_Address_Failed">刪除地址失敗</string>
@@ -794,8 +796,10 @@
 	<string name="Immediately">立刻</string>
 	<string name="Import">匯入聊天記錄</string>
 	<string name="Import_Mnemonic_Phrase">匯入助記詞</string>
+	<string name="Import_Private_Key">匯入私鑰</string>
 	<string name="Import_Wallets">匯入錢包</string>
 	<string name="Import_wallets_from_another_wallet">從其他錢包匯入錢包</string>
+	<string name="Importing_into_your_wallet">正在匯入你的錢包…</string>
 	<string name="in_connecting">正在連線…</string>
 	<string name="Incognito_Keyboard">隱身鍵盤</string>
 	<string name="Incoming_voice_call">語音通話來電</string>
@@ -1239,6 +1243,7 @@
 	<string name="Remove_Participants">移除成員</string>
 	<string name="Remove_Stickers">移除所有表情</string>
 	<string name="Removing">正在移除…</string>
+	<string name="Rename_Wallet">重新命名錢包</string>
 	<string name="Renew_Plan">續訂會員</string>
 	<string name="Reply">回覆</string>
 	<string name="Report">舉報</string>
@@ -1778,6 +1783,7 @@
 	<string name="wallet_withdrawal_not_in_addresses">%1$s 該地址不在提現地址白名單，請仔細核對地址。</string>
 	<string name="wallet_withdrawal_recent_tip">你已經在 %1$s 前提現 %3$s 到 %2$s，確認還要再提一次嗎？</string>
 	<string name="Wallets">錢包</string>
+	<string name="Watch_address">觀察 %1$s</string>
 	<string name="Watchlist">自選</string>
 	<string name="watchlist_add_desc">%1$s 已經加入自選</string>
 	<string name="watchlist_empty">您的自選列表為空</string>
@@ -1870,6 +1876,7 @@
 	<string name="years_count_short">%1$d年</string>
 	<string name="you">你</string>
 	<string name="You">你</string>
+	<string name="You_are_watching_address">你正在觀察 %1$s</string>
 	<string name="You_deleted_this_message">你撤回了一條訊息</string>
 	<string name="You_have_left_the_group">你不在此群組</string>
 	<string name="Your_emergency_contact_has_been_changed">恢復聯絡人已更改</string>

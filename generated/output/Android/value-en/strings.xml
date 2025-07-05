@@ -521,6 +521,8 @@
 	<string name="Delete_my_account">Delete My Account</string>
 	<string name="Delete_Note">Delete Note</string>
 	<string name="Delete_Synced_Contact">Delete Synced Contacts</string>
+	<string name="delete_wallet_description">Deleting this wallet will not affect your assets, make sure you have your mnemonic phrases backed up.</string>
+	<string name="delete_wallet_title">Enter your PIN to remove wallet</string>
 	<string name="Delete_withdraw_Address">Delete %1$s Address</string>
 	<string name="Deleting_Address">Delete Address</string>
 	<string name="Deleting_Address_Failed">DeleteAddress Failed</string>
@@ -806,8 +808,10 @@
 	<string name="Immediately">Immediately</string>
 	<string name="Import">Import</string>
 	<string name="Import_Mnemonic_Phrase">Import Mnemonic Phrase</string>
+	<string name="Import_Private_Key">Import Private Key</string>
 	<string name="Import_Wallets">Import Wallets</string>
 	<string name="Import_wallets_from_another_wallet">Import wallets from another wallet</string>
+	<string name="Importing_into_your_wallet">Importing into your wallet…</string>
 	<string name="in_connecting">Connecting…</string>
 	<string name="Incognito_Keyboard">Incognito Keyboard</string>
 	<string name="Incoming_voice_call">Incoming voice call</string>
@@ -1258,6 +1262,7 @@
 	<string name="Remove_Participants">Remove Participants</string>
 	<string name="Remove_Stickers">Remove Stickers</string>
 	<string name="Removing">Removing…</string>
+	<string name="Rename_Wallet">Rename Wallet</string>
 	<string name="Renew_Plan">Renew Plan</string>
 	<string name="Reply">Reply</string>
 	<string name="Report">Report</string>
@@ -1800,6 +1805,7 @@
 	<string name="wallet_withdrawal_not_in_addresses">%1$s This address is not in the white list of withdrawal addresses, please check the address carefully.</string>
 	<string name="wallet_withdrawal_recent_tip">You have already withdrawn %3$s to %2$s %1$s ago, Do you want to withdraw it again?</string>
 	<string name="Wallets">Wallets</string>
+	<string name="Watch_address">Watch %1$s</string>
 	<string name="Watchlist">Watchlist</string>
 	<string name="watchlist_add_desc">%1$s is now on your watchlist</string>
 	<string name="watchlist_empty">Your watchlist is empty</string>
@@ -1894,6 +1900,7 @@
 	<string name="years_count_short">%1$dY</string>
 	<string name="you">you</string>
 	<string name="You">You</string>
+	<string name="You_are_watching_address">You are watching %1$s</string>
 	<string name="You_deleted_this_message">You deleted this message</string>
 	<string name="You_have_left_the_group">You have left the group</string>
 	<string name="Your_emergency_contact_has_been_changed">Your recovery contact has been changed</string>
