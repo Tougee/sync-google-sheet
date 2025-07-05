@@ -2305,4 +2305,10 @@
   <string name="Find_more_wallets" platform="android, iOS">Find more wallets</string>
   <string name="selected_wallet_count_one" platform="android, iOS">1 wallet selected</string>
   <string name="selected_wallet_count" platform="android, iOS">%1$d wallets selected</string>
+  <string name="Importing_into_your_wallet" platform="android, iOS">Importing into your wallet…</string>
+  <string name="delete_wallet_title" platform="android, iOS">Enter your PIN to remove wallet</string>
+  <string name="delete_wallet_description" platform="android, iOS">Deleting this wallet will not affect your assets, make sure you have your mnemonic phrases backed up.</string>
+  <string name="Rename_Wallet" platform="android, iOS">Rename Wallet</string>
+  <string name="Watch_address" platform="android, iOS">Watch %1$s</string>
+  <string name="You_are_watching_address" platform="android, iOS">You are watching %1$s</string>
 </resources>
