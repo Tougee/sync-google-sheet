@@ -2311,4 +2311,5 @@
   <string name="Rename_Wallet" platform="android, iOS">Rename Wallet</string>
   <string name="Watch_address" platform="android, iOS">Watch %1$s</string>
   <string name="You_are_watching_address" platform="android, iOS">You are watching %1$s</string>
+  <string name="Import_Private_Key" platform="android, iOS">Import Private Key</string>
 </resources>

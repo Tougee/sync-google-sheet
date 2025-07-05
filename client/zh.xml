@@ -2283,4 +2283,5 @@
   <string name="Rename_Wallet" platform="android, iOS">重命名钱包</string>
   <string name="Watch_address" platform="android, iOS">观察 %1$s</string>
   <string name="You_are_watching_address" platform="android, iOS">你正在观察 %1$s</string>
+  <string name="Import_Private_Key" platform="android, iOS">导入私钥</string>
 </resources>
