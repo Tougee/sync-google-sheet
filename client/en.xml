@@ -2055,89 +2055,89 @@
   <string name="All_Alert" platform="android,iOS">All Alert</string>
   <string name="Send_Collectible" platform="android,iOS">Send Collectible</string>
   <string name="Legacy_Network" platform="android,iOS">Legacy Network</string>
-  <string name="Paste" platform="android,iOS">Paste</string>
-  <string name="or" platform="android,iOS">or</string>
-  <string name="Sign_in_with_Mnemonic_Phrase" platform="android,iOS">Sign in with Mnemonic Phrase</string>
-  <string name="landing_have_account" platform="android,iOS">I already have an account</string>
-  <string name="sign_in_no_account" platform="android,iOS">Don’t have an account yet?</string>
-  <string name="sign_up_have_account" platform="android,iOS">Already have an account?</string>
-  <string name="Create_Account" platform="android,iOS">Create Account</string>
-  <string name="Mobile_Phone" platform="android,iOS">Mobile Phone</string>
-  <string name="Mnemonic_Phrase" platform="android,iOS">Mnemonic Phrase</string>
-  <string name="create_introduction" platform="android,iOS">MPC Wallet, 2FA, %1$s, Self-custody, Social Recovery</string>
-  <string name="Convenience" platform="android,iOS">Convenience</string>
-  <string name="Signing_in_to_your_account" platform="android,iOS">Signing in to your account…</string>
-  <string name="Creating_your_account" platform="android,iOS">Creating your account…</string>
-  <string name="Set_up_Pin" platform="android,iOS">Set up PIN</string>
-  <string name="Set_up_Pin_desc" platform="android,iOS">The MPC Wallet in Mixin Messenger is built on a decentralized key protocol (TIP). The PIN is one of the key shards. The full wallet key exists only in the TEE security environment on the current device. Read the documentation to learn %1$s.</string>
-  <string name="More_Information" platform="android,iOS">more information</string>
-  <string name="set_up_pin_instruction_1" platform="android,iOS">Please complete the process in a stable network environment.</string>
-  <string name="set_up_pin_instruction_2" platform="android,iOS">Please keep the app in the foreground and do not force quit it during the setup process.</string>
-  <string name="set_up_pin_instruction_3" platform="android,iOS">The process cannot be canceled once it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.</string>
-  <string name="Create_Mnemonic_Phrase" platform="android,iOS">Create Mnemonic Phrase</string>
-  <string name="mnemonic_phrase_instruction_1" platform="android,iOS">The 13 mnemonic phrases generated when creating an account are intended only for Mixin Network-related products.</string>
-  <string name="mnemonic_phrase_instruction_2" platform="android,iOS">The mnemonic phrase will be associated with a key shard for your MPC wallet under your management.</string>
-  <string name="Set_up_pin_desc_1" platform="android,iOS">Set a 6-digit PIN for your wallet</string>
-  <string name="Set_up_pin_desc_2" platform="android,iOS">Please confirm your 6-digit PIN again</string>
-  <string name="Set_up_pin_tip_1" platform="android,iOS">If you lose the PIN, you will be unable to recover your wallet.</string>
-  <string name="Set_up_pin_tip_2" platform="android,iOS">It’s rare to see a third confirmation somewhere else, so please remember the PIN is unrecoverable if lost.</string>
-  <string name="Set_up" platform="android,iOS">Set up</string>
-  <string name="Mnemonic_Phrase_instruction" platform="android,iOS">You can log in to your account using the mnemonic phrase. The current mnemonic phrase is linked to a key shard of the MPC wallet, with the complete key existing only in the TEE security environment on the current device. Read the documentation to learn %1$s.</string>
-  <string name="Backup_Mnemonic_Phrase_desc" platform="android,iOS">Protect your assets by backing up your mnemonic phrase now.</string>
-  <string name="Backup_Mnemonic_Phrase_Warning" platform="android,iOS">Please back up your mnemonic phrase immediately! This phrase is one of the key shards of the MPC wallet. If the device is lost or the app is uninstalled, and you haven't backed it up, you won't be able to log back into the current Mixin account (%1$s).</string>
-  <string name="Invalid_mnemonic_phrase" platform="android,iOS">Invalid mnemonic phrase</string>
-  <string name="Set_up_pin_warning" platform="android,iOS">Keep the app in the foreground while verifying the shard key and syncing to the TIP network. Do not force quit the app during the setup process.</string>
-  <string name="Set_up_Pin_question" platform="android,iOS">What happens if I lose the PIN?</string>
-  <string name="Set_up_Pin_answer_1" platform="android,iOS">I can recover my account later.</string>
-  <string name="Set_up_Pin_answer_2" platform="android,iOS">I will lose access to my account and funds.</string>
-  <string name="What_is_Pin" platform="android,iOS">What is PIN?</string>
-  <string name="Recovery_Kit_instruction" platform="android,iOS">The MPC wallet in Mixin Messenger is built on the decentralized key protocol TIP. You can recover your account through your phone number, mnemonic phrase, or a trusted contact. The complete wallet key exists only in the TEE security environment on the current device. Read the documentation to learn %1$s.</string>
-  <string name="Recovery_Kit_Attention" platform="android,iOS">Attention: The Recovery Kit cannot help you recover your PIN</string>
-  <string name="Mobile_Number" platform="android,iOS">Mobile Number</string>
-  <string name="Recovery_Contact" platform="android,iOS">Recovery Contact</string>
-  <string name="Backup_Mnemonic_Phrase" platform="android,iOS">Backup Mnemonic Phrase</string>
-  <string name="Before_you_proceed" platform="android,iOS">Before you proceed</string>
-  <string name="Before_you_proceed_desc" platform="android,iOS">Read the following, then save the phrase securely.</string>
-  <string name="Before_you_proceed_instruction_1" platform="android,iOS">The 13 or 25 mnemonic words generated when creating an account are for Mixin Network-related products only.</string>
-  <string name="Before_you_proceed_instruction_2" platform="android,iOS">The mnemonic phrase cannot help you recover your PIN.</string>
-  <string name="Before_you_proceed_instruction_3" platform="android,iOS">Ensure that no one or surveillance cameras are watching your screen.</string>
-  <string name="Show_Mnemonic_Phrase" platform="android,iOS">Show Mnemonic Phrase</string>
-  <string name="enter_mnemonic_phrase" platform="android,iOS">Enter or paste your %1$d mnemonic words.</string>
-  <string name="write_down_mnemonic_phrase" platform="android,iOS">Write down your mnemonic phrase</string>
-  <string name="check_mnemonic_phrase" platform="android,iOS">Check your mnemonic phrase</string>
-  <string name="check_mnemonic_phrase_desc" platform="android,iOS">Input each word in the order it was presented to you.</string>
-  <string name="write_down_mnemonic_phrase_desc" platform="android,iOS">Write it down on a piece of paper and keep it in a safe place.</string>
-  <string name="mnemonic_phrase_tip_1" platform="android,iOS">· Store it in a vault or secure place</string>
-  <string name="mnemonic_phrase_tip_2" platform="android,iOS">· Do not share it over the internet</string>
-  <string name="mnemonic_phrase_take_long" platform="android,iOS">This shouldn't take long.</string>
-  <string name="Start_Backup" platform="android,iOS">Start Backup</string>
-  <string name="Add_Phone_desc" platform="android,iOS">You can log in to your account using your mobile number. The mobile number will be associated with a key shard of your MPC wallet. The complete key exists only in the TEE security environment on the current device. Read the documentation to learn more about %1$s.</string>
-  <string name="Change_Phone_desc" platform="android,iOS">You can log in to your account using your mobile number. The current mobile number (%1$s) is associated with a key shard of your MPC wallet. The complete key exists only in the TEE security environment on the current device. Read the documentation to learn more about %2$s.</string>
-  <string name="Add_Mobile_Number" platform="android,iOS">Add Mobile Number</string>
-  <string name="add_phone_instruction_1" platform="android,iOS">The mobile number and mnemonic phrase will link to the same key shard.</string>
-  <string name="add_phone_instruction_2" platform="android,iOS">The mobile number and mnemonic phrase log into the same account.</string>
-  <string name="add_phone_instruction_3" platform="android,iOS">You cannot add a mobile number registered to a Mixin Messenger account.</string>
-  <string name="add_phone_instruction_4" platform="android,iOS">Once bound, the mobile number cannot be removed.</string>
-  <string name="Change_Mobile_Number" platform="android,iOS">Change Mobile Number</string>
-  <string name="Add_Recovery_Contact_desc" platform="android,iOS">The recovery contact is designed to help you log in to your account if you are lost and cannot retrieve your mobile number or mnemonic phrase.</string>
-  <string name="add_recovery_contact_instruction_1" platform="android,iOS">Add someone you trust as a recovery contact, such as your family, friends, or colleagues.</string>
-  <string name="add_recovery_contact_instruction_2" platform="android,iOS">If you cannot log in to your account using your mobile number or mnemonic phrase, seek help from your recovery contact in person or by phone.</string>
-  <string name="add_recovery_contact_instruction_3" platform="android,iOS">The recovery contact cannot transfer assets from your Mixin wallet but can help you regain access to your account.</string>
-  <string name="add_recovery_contact_instruction_4" platform="android,iOS">The recovery contact cannot recover your PIN.</string>
-  <string name="Im_Ready" platform="android,iOS">I'm Ready</string>
-  <string name="add_recovery_contact_before_instruction_1" platform="android,iOS">The recovery contact you want to add has downloaded and logged in to Mixin Messenger.</string>
-  <string name="add_recovery_contact_before_instruction_2" platform="android,iOS">The recovery contact you want to add keeps Mixin Messenger online or is meeting with you face-to-face.</string>
-  <string name="add_recovery_contact_before_instruction_3" platform="android,iOS">The recovery contact you want to add has added the current account (%1$s) as a contact; otherwise, they may not receive the verification code.</string>
-  <string name="Mixin_Support" platform="android,iOS">Mixin Support</string>
-  <string name="Ask_me_anything" platform="android,iOS">Ask me anything</string>
-  <string name="phone_as_key_shard" platform="android,iOS">Your mobile number will be associated with a key shard of the MPC wallet managed by you</string>
-  <string name="Check_Backup" platform="android,iOS">Check Backup</string>
-  <string name="Complete" platform="android,iOS">Complete</string>
-  <string name="Backup_mnemonic_successfully" platform="android,iOS">Backup mnemonic phrase successfully</string>
-  <string name="Mnemonics_Mismatched" platform="android,iOS">Mnemonics Mismatched</string>
-  <string name="Backed_up" platform="android,iOS">Backed up</string>
-  <string name="Not_Backed_up" platform="android,iOS">Not Backed Up</string>
-  <string name="onboarding_description" platform="android,iOS">An open source crypto wallet with Signal messaging</string>
+  <string name="Paste" platform="android, iOS, Desktop">Paste</string>
+  <string name="or" platform="android, iOS, Desktop">or</string>
+  <string name="Sign_in_with_Mnemonic_Phrase" platform="android, iOS, Desktop">Sign in with Mnemonic Phrase</string>
+  <string name="landing_have_account" platform="android, iOS, Desktop">I already have an account</string>
+  <string name="sign_in_no_account" platform="android, iOS, Desktop">Don’t have an account yet?</string>
+  <string name="sign_up_have_account" platform="android, iOS, Desktop">Already have an account?</string>
+  <string name="Create_Account" platform="android, iOS, Desktop">Create Account</string>
+  <string name="Mobile_Phone" platform="android, iOS, Desktop">Mobile Phone</string>
+  <string name="Mnemonic_Phrase" platform="android, iOS, Desktop">Mnemonic Phrase</string>
+  <string name="create_introduction" platform="android, iOS, Desktop">MPC Wallet, 2FA, %1$s, Self-custody, Social Recovery</string>
+  <string name="Convenience" platform="android, iOS, Desktop">Convenience</string>
+  <string name="Signing_in_to_your_account" platform="android, iOS, Desktop">Signing in to your account…</string>
+  <string name="Creating_your_account" platform="android, iOS, Desktop">Creating your account…</string>
+  <string name="Set_up_Pin" platform="android, iOS, Desktop">Set up PIN</string>
+  <string name="Set_up_Pin_desc" platform="android, iOS, Desktop">The MPC Wallet in Mixin Messenger is built on a decentralized key protocol (TIP). The PIN is one of the key shards. The full wallet key exists only in the TEE security environment on the current device. Read the documentation to learn %1$s.</string>
+  <string name="More_Information" platform="android, iOS, Desktop">more information</string>
+  <string name="set_up_pin_instruction_1" platform="android, iOS, Desktop">Please complete the process in a stable network environment.</string>
+  <string name="set_up_pin_instruction_2" platform="android, iOS, Desktop">Please keep the app in the foreground and do not force quit it during the setup process.</string>
+  <string name="set_up_pin_instruction_3" platform="android, iOS, Desktop">The process cannot be canceled once it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.</string>
+  <string name="Create_Mnemonic_Phrase" platform="android, iOS, Desktop">Create Mnemonic Phrase</string>
+  <string name="mnemonic_phrase_instruction_1" platform="android, iOS, Desktop">The 13 mnemonic phrases generated when creating an account are intended only for Mixin Network-related products.</string>
+  <string name="mnemonic_phrase_instruction_2" platform="android, iOS, Desktop">The mnemonic phrase will be associated with a key shard for your MPC wallet under your management.</string>
+  <string name="Set_up_pin_desc_1" platform="android, iOS, Desktop">Set a 6-digit PIN for your wallet</string>
+  <string name="Set_up_pin_desc_2" platform="android, iOS, Desktop">Please confirm your 6-digit PIN again</string>
+  <string name="Set_up_pin_tip_1" platform="android, iOS, Desktop">If you lose the PIN, you will be unable to recover your wallet.</string>
+  <string name="Set_up_pin_tip_2" platform="android, iOS, Desktop">It’s rare to see a third confirmation somewhere else, so please remember the PIN is unrecoverable if lost.</string>
+  <string name="Set_up" platform="android, iOS, Desktop">Set up</string>
+  <string name="Mnemonic_Phrase_instruction" platform="android, iOS, Desktop">You can log in to your account using the mnemonic phrase. The current mnemonic phrase is linked to a key shard of the MPC wallet, with the complete key existing only in the TEE security environment on the current device. Read the documentation to learn %1$s.</string>
+  <string name="Backup_Mnemonic_Phrase_desc" platform="android, iOS, Desktop">Protect your assets by backing up your mnemonic phrase now.</string>
+  <string name="Backup_Mnemonic_Phrase_Warning" platform="android, iOS, Desktop">Please back up your mnemonic phrase immediately! This phrase is one of the key shards of the MPC wallet. If the device is lost or the app is uninstalled, and you haven't backed it up, you won't be able to log back into the current Mixin account (%1$s).</string>
+  <string name="Invalid_mnemonic_phrase" platform="android, iOS, Desktop">Invalid mnemonic phrase</string>
+  <string name="Set_up_pin_warning" platform="android, iOS, Desktop">Keep the app in the foreground while verifying the shard key and syncing to the TIP network. Do not force quit the app during the setup process.</string>
+  <string name="Set_up_Pin_question" platform="android, iOS, Desktop">What happens if I lose the PIN?</string>
+  <string name="Set_up_Pin_answer_1" platform="android, iOS, Desktop">I can recover my account later.</string>
+  <string name="Set_up_Pin_answer_2" platform="android, iOS, Desktop">I will lose access to my account and funds.</string>
+  <string name="What_is_Pin" platform="android, iOS, Desktop">What is PIN?</string>
+  <string name="Recovery_Kit_instruction" platform="android, iOS, Desktop">The MPC wallet in Mixin Messenger is built on the decentralized key protocol TIP. You can recover your account through your phone number, mnemonic phrase, or a trusted contact. The complete wallet key exists only in the TEE security environment on the current device. Read the documentation to learn %1$s.</string>
+  <string name="Recovery_Kit_Attention" platform="android, iOS, Desktop">Attention: The Recovery Kit cannot help you recover your PIN</string>
+  <string name="Mobile_Number" platform="android, iOS, Desktop">Mobile Number</string>
+  <string name="Recovery_Contact" platform="android, iOS, Desktop">Recovery Contact</string>
+  <string name="Backup_Mnemonic_Phrase" platform="android, iOS, Desktop">Backup Mnemonic Phrase</string>
+  <string name="Before_you_proceed" platform="android, iOS, Desktop">Before you proceed</string>
+  <string name="Before_you_proceed_desc" platform="android, iOS, Desktop">Read the following, then save the phrase securely.</string>
+  <string name="Before_you_proceed_instruction_1" platform="android, iOS, Desktop">The 13 or 25 mnemonic words generated when creating an account are for Mixin Network-related products only.</string>
+  <string name="Before_you_proceed_instruction_2" platform="android, iOS, Desktop">The mnemonic phrase cannot help you recover your PIN.</string>
+  <string name="Before_you_proceed_instruction_3" platform="android, iOS, Desktop">Ensure that no one or surveillance cameras are watching your screen.</string>
+  <string name="Show_Mnemonic_Phrase" platform="android, iOS, Desktop">Show Mnemonic Phrase</string>
+  <string name="enter_mnemonic_phrase" platform="android, iOS, Desktop">Enter or paste your %1$d mnemonic words.</string>
+  <string name="write_down_mnemonic_phrase" platform="android, iOS, Desktop">Write down your mnemonic phrase</string>
+  <string name="check_mnemonic_phrase" platform="android, iOS, Desktop">Check your mnemonic phrase</string>
+  <string name="check_mnemonic_phrase_desc" platform="android, iOS, Desktop">Input each word in the order it was presented to you.</string>
+  <string name="write_down_mnemonic_phrase_desc" platform="android, iOS, Desktop">Write it down on a piece of paper and keep it in a safe place.</string>
+  <string name="mnemonic_phrase_tip_1" platform="android, iOS, Desktop">· Store it in a vault or secure place</string>
+  <string name="mnemonic_phrase_tip_2" platform="android, iOS, Desktop">· Do not share it over the internet</string>
+  <string name="mnemonic_phrase_take_long" platform="android, iOS, Desktop">This shouldn't take long.</string>
+  <string name="Start_Backup" platform="android, iOS, Desktop">Start Backup</string>
+  <string name="Add_Phone_desc" platform="android, iOS, Desktop">You can log in to your account using your mobile number. The mobile number will be associated with a key shard of your MPC wallet. The complete key exists only in the TEE security environment on the current device. Read the documentation to learn more about %1$s.</string>
+  <string name="Change_Phone_desc" platform="android, iOS, Desktop">You can log in to your account using your mobile number. The current mobile number (%1$s) is associated with a key shard of your MPC wallet. The complete key exists only in the TEE security environment on the current device. Read the documentation to learn more about %2$s.</string>
+  <string name="Add_Mobile_Number" platform="android, iOS, Desktop">Add Mobile Number</string>
+  <string name="add_phone_instruction_1" platform="android, iOS, Desktop">The mobile number and mnemonic phrase will link to the same key shard.</string>
+  <string name="add_phone_instruction_2" platform="android, iOS, Desktop">The mobile number and mnemonic phrase log into the same account.</string>
+  <string name="add_phone_instruction_3" platform="android, iOS, Desktop">You cannot add a mobile number registered to a Mixin Messenger account.</string>
+  <string name="add_phone_instruction_4" platform="android, iOS, Desktop">Once bound, the mobile number cannot be removed.</string>
+  <string name="Change_Mobile_Number" platform="android, iOS, Desktop">Change Mobile Number</string>
+  <string name="Add_Recovery_Contact_desc" platform="android, iOS, Desktop">The recovery contact is designed to help you log in to your account if you are lost and cannot retrieve your mobile number or mnemonic phrase.</string>
+  <string name="add_recovery_contact_instruction_1" platform="android, iOS, Desktop">Add someone you trust as a recovery contact, such as your family, friends, or colleagues.</string>
+  <string name="add_recovery_contact_instruction_2" platform="android, iOS, Desktop">If you cannot log in to your account using your mobile number or mnemonic phrase, seek help from your recovery contact in person or by phone.</string>
+  <string name="add_recovery_contact_instruction_3" platform="android, iOS, Desktop">The recovery contact cannot transfer assets from your Mixin wallet but can help you regain access to your account.</string>
+  <string name="add_recovery_contact_instruction_4" platform="android, iOS, Desktop">The recovery contact cannot recover your PIN.</string>
+  <string name="Im_Ready" platform="android, iOS, Desktop">I'm Ready</string>
+  <string name="add_recovery_contact_before_instruction_1" platform="android, iOS, Desktop">The recovery contact you want to add has downloaded and logged in to Mixin Messenger.</string>
+  <string name="add_recovery_contact_before_instruction_2" platform="android, iOS, Desktop">The recovery contact you want to add keeps Mixin Messenger online or is meeting with you face-to-face.</string>
+  <string name="add_recovery_contact_before_instruction_3" platform="android, iOS, Desktop">The recovery contact you want to add has added the current account (%1$s) as a contact; otherwise, they may not receive the verification code.</string>
+  <string name="Mixin_Support" platform="android, iOS, Desktop">Mixin Support</string>
+  <string name="Ask_me_anything" platform="android, iOS, Desktop">Ask me anything</string>
+  <string name="phone_as_key_shard" platform="android, iOS, Desktop">Your mobile number will be associated with a key shard of the MPC wallet managed by you</string>
+  <string name="Check_Backup" platform="android, iOS, Desktop">Check Backup</string>
+  <string name="Complete" platform="android, iOS, Desktop">Complete</string>
+  <string name="Backup_mnemonic_successfully" platform="android, iOS, Desktop">Backup mnemonic phrase successfully</string>
+  <string name="Mnemonics_Mismatched" platform="android, iOS, Desktop">Mnemonics Mismatched</string>
+  <string name="Backed_up" platform="android, iOS, Desktop">Backed up</string>
+  <string name="Not_Backed_up" platform="android, iOS, Desktop">Not Backed Up</string>
+  <string name="onboarding_description" platform="android, iOS, Desktop">An open source crypto wallet with Signal messaging</string>
   <string name="number_of_words" platform="android,iOS">%1$d words</string>
   <string name="Recovery_Kit" platform="android,iOS">Recovery Kit</string>
   <string name="Log_out" platform="android,iOS">Log out</string>
