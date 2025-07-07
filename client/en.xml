@@ -125,7 +125,7 @@
   <string name="app_card_share_disallow" platform="Desktop">Disallow sharing of this URL</string>
   <string name="app_card_shareable_false" platform="android, iOS">The card has been set to not allow sharing</string>
   <string name="app_name" platform="android">Mixin</string>
-  <string name="app_update_short_hint" platform="iOS">Please update Mixin from App Store to continue use the service.</string>
+  <string name="app_update_short_hint" platform="iOS">Please update Mixin from App Store to continue use the service. Current version %@</string>
   <string name="app_update_tips" platform="iOS">The current version (%@) is no longer available! Please click "Update" below to update to the latest version from the App Store.</string>
   <string name="App_version" platform="android">App version</string>
   <string name="Appearance" platform="android, iOS, Desktop">Appearance</string>
