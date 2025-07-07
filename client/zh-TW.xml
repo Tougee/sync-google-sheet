@@ -124,7 +124,7 @@
   <string name="ANSWER" platform="android">接聽</string>
   <string name="app_card_share_disallow" platform="Desktop">該連結已被設定為不允許分享</string>
   <string name="app_card_shareable_false" platform="android, iOS">該卡片已被設定為不允許轉發</string>
-  <string name="app_update_short_hint" platform="iOS">請從 App Store 更新 Mixin 至最新版</string>
+  <string name="app_update_short_hint" platform="iOS">請從 App Store 更新 Mixin 至最新版，當前版本號 %@</string>
   <string name="app_update_tips" platform="iOS">當前版本（%@）已失效！請點選下方"更新"從 App Store 更新至最新版。</string>
   <string name="App_version" platform="android">應用版本</string>
   <string name="Appearance" platform="android, iOS, Desktop">外觀</string>
