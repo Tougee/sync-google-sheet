@@ -103,7 +103,6 @@
   <string name="app_card_share_disallow" platform="Desktop">Запретить совместное использование этого URL</string>
   <string name="app_card_shareable_false" platform="android, iOS">Карта была настроена так, чтобы не разрешать совместное использование</string>
   <string name="app_name" platform="android">Mixin</string>
-  <string name="app_update_short_hint" platform="iOS">Пожалуйста, обновите Mixin из App Store, чтобы продолжить пользоваться сервисом.</string>
   <string name="app_update_tips" platform="iOS">Текущая версия (%@) больше недоступна! Нажмите «Обновить» ниже, чтобы выполнить обновление до последней версии из App Store.</string>
   <string name="App_version" platform="android">Версия приложения</string>
   <string name="Appearance" platform="android, iOS, Desktop">Вид</string>

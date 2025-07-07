@@ -130,7 +130,6 @@
   <string name="app_card_shareable_false" platform="android, iOS">La tarjeta se ha configurado para no permitir compartir</string>
   <string name="file_shareable_false" platform="android">El archivo se ha configurado para no permitir compartir</string>
   <string name="app_name" platform="android">Mixin</string>
-  <string name="app_update_short_hint" platform="iOS">Actualiza Mixin desde App Store para continuar usando el servicio.</string>
   <string name="app_update_tips" platform="iOS">¡La versión actual (%@) ya no está disponible! Haz clic en Actualizar a continuación para actualizar a la última versión de la App Store.</string>
   <string name="App_version" platform="android">Versión de aplicación</string>
   <string name="Appearance" platform="android, iOS, Desktop">Apariencia</string>
