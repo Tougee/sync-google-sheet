@@ -445,6 +445,7 @@
 "delete_my_account" = "Delete My Account";
 "delete_note" = "Delete Note";
 "delete_synced_contact" = "Padam Kenalan yang selaraskan";
+"delete_wallet" = "Delete Wallet";
 "delete_wallet_description" = "Deleting this wallet will not affect your assets, make sure you have your mnemonic phrases backed up.";
 "delete_wallet_title" = "Enter your PIN to remove wallet";
 "delete_withdraw_address" = "Padamkan Alamat %@";

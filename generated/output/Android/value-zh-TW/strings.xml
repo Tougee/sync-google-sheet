@@ -513,6 +513,7 @@
 	<string name="Delete_my_account">刪除賬號</string>
 	<string name="Delete_Note">刪除轉賬備註</string>
 	<string name="Delete_Synced_Contact">刪除已同步的通訊錄</string>
+	<string name="Delete_Wallet">刪除錢包</string>
 	<string name="delete_wallet_description">移除此錢包不會影響你的資產，請確保已備份助記詞。</string>
 	<string name="delete_wallet_title">請輸入 PIN 碼以移除錢包</string>
 	<string name="Delete_withdraw_Address">刪除 %1$s 地址</string>

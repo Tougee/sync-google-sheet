@@ -2281,6 +2281,7 @@
   <string name="delete_wallet_title" platform="android, iOS">請輸入 PIN 碼以移除錢包</string>
   <string name="delete_wallet_description" platform="android, iOS">移除此錢包不會影響你的資產，請確保已備份助記詞。</string>
   <string name="Rename_Wallet" platform="android, iOS">重新命名錢包</string>
+  <string name="Delete_Wallet" platform="android, iOS">刪除錢包</string>
   <string name="Watch_address" platform="android, iOS">觀察 %1$s</string>
   <string name="You_are_watching_address" platform="android, iOS">你正在觀察 %1$s</string>
   <string name="Import_Private_Key" platform="android, iOS">匯入私鑰</string>
