@@ -2211,8 +2211,6 @@
   <string name="Privacy_Wallet" platform="android, iOS">Privacy Wallet</string>
   <string name="Common_Wallet" platform="android, iOS">Common Wallet</string>
   <string name="Exchanges_or_Wallets" platform="android, iOS">Exchanges or Wallets</string>
-  <string name="send_to_common_wallet_description" platform="android, iOS">Send to your Common Wallet for use with decentralized apps and DeFi protocols.</string>
-  <string name="send_to_privacy_wallet_description" platform="android, iOS">Send to your Privacy Wallet to keep your assets safe and hidden from potential risks.</string>
   <string name="privacy_wallet_tip_title" platform="android, iOS">What’s the Privacy Wallet?</string>
   <string name="privacy_wallet_tip_description" platform="android, iOS">A multi-chain wallet with private, free, and instant transactions to meet most of your needs.</string>
   <string name="classic_wallet_tip_title" platform="android, iOS">What’s the Common Wallet?</string>
@@ -2313,4 +2311,6 @@
   <string name="Watch_address" platform="android, iOS">Watch %1$s</string>
   <string name="You_are_watching_address" platform="android, iOS">You are watching %1$s</string>
   <string name="Import_Private_Key" platform="android, iOS">Import Private Key</string>
+  <string name="My_Wallets" platform="android, iOS">My Wallets</string>
+  <string name="send_to_other_wallet_description" platform="android, iOS">Send to my other wallet using a crypto network</string>
 </resources>
