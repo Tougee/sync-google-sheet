@@ -1007,6 +1007,7 @@
 	<string name="my_mixin_id">My Mixin ID: %1$s</string>
 	<string name="My_QR_Code">My QR Code</string>
 	<string name="My_Stickers">My Stickers</string>
+	<string name="My_Wallets">My Wallets</string>
 	<string name="NA">N/A</string>
 	<string name="Name">Name</string>
 	<string name="need_background_permission">Requires start in background permission to continue.</string>
@@ -1384,9 +1385,8 @@
 	<string name="Send_This_Location">Send This Location</string>
 	<string name="send_to">Send to %1$s</string>
 	<string name="send_to_address_description">Send to an address in your Address Book, PIN-protected to prevent phishing.</string>
-	<string name="send_to_common_wallet_description">Send to your Common Wallet for use with decentralized apps and DeFi protocols.</string>
 	<string name="Send_to_Contact_description">Send to your Mixin friends with privacy, zero fees, and instant delivery.</string>
-	<string name="send_to_privacy_wallet_description">Send to your Privacy Wallet to keep your assets safe and hidden from potential risks.</string>
+	<string name="send_to_other_wallet_description">Send to my other wallet using a crypto network</string>
 	<string name="Send_transfer">Send</string>
 	<string name="send_without_compression">Send without compression</string>
 	<string name="Send_Without_Sound">Send Without Sound</string>

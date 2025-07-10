@@ -989,6 +989,7 @@
 	<string name="my_mixin_id">我的 Mixin ID：%1$s</string>
 	<string name="My_QR_Code">我的二维码</string>
 	<string name="My_Stickers">我的表情</string>
+	<string name="My_Wallets">我的钱包</string>
 	<string name="NA">暂无价格</string>
 	<string name="Name">名称</string>
 	<string name="need_background_permission">继续使用此功能需要后台弹出界面权限</string>
@@ -1364,9 +1365,8 @@
 	<string name="Send_This_Location">发送这个位置</string>
 	<string name="send_to">发送给 %1$s</string>
 	<string name="send_to_address_description">转到我地址薄中的地址，地址受到 PIN 保护，避免地址钓鱼攻击。</string>
-	<string name="send_to_common_wallet_description">转到我的普通钱包，用于去中心化应用和 DeFi 协议。</string>
 	<string name="Send_to_Contact_description">转给我的 Mixin 好友，转账隐私、零手续费且秒到账。</string>
-	<string name="send_to_privacy_wallet_description">转到我的隐私钱包，保护资产的隐私和安全，避免各种潜在风险。</string>
+	<string name="send_to_other_wallet_description">使用区块链网络发送到我的另一个钱包</string>
 	<string name="Send_transfer">转出</string>
 	<string name="send_without_compression">发送原始文件</string>
 	<string name="Send_Without_Sound">静音发送</string>
