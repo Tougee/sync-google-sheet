@@ -989,7 +989,7 @@
 	<string name="my_mixin_id">我的 Mixin ID：%1$s</string>
 	<string name="My_QR_Code">我的二維碼</string>
 	<string name="My_Stickers">我的表情</string>
-	<string name="My_Wallets">我的錢包</string>
+	<string name="My_Wallet">我的錢包</string>
 	<string name="NA">暫無價格</string>
 	<string name="Name">名稱</string>
 	<string name="need_background_permission">繼續使用此功能需要後臺彈出介面許可權</string>

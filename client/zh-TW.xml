@@ -2283,6 +2283,6 @@
   <string name="Watch_address" platform="android, iOS">觀察 %1$s</string>
   <string name="You_are_watching_address" platform="android, iOS">你正在觀察 %1$s</string>
   <string name="Import_Private_Key" platform="android, iOS">匯入私鑰</string>
-  <string name="My_Wallets" platform="android, iOS">我的錢包</string>
+  <string name="My_Wallet" platform="android, iOS">我的錢包</string>
   <string name="send_to_other_wallet_description" platform="android, iOS">使用區塊鏈網路傳送到我的另一個錢包</string>
 </resources>
