@@ -447,7 +447,7 @@
 "delete_synced_contact" = "删除已同步的通讯录";
 "delete_wallet" = "删除钱包";
 "delete_wallet_description" = "移除此钱包不会影响你的资产，请确保已备份助记词。";
-"delete_wallet_title" = "请输入 PIN 码以移除钱包";
+"delete_wallet_title" = "请输入 PIN 以移除钱包";
 "delete_withdraw_address" = "删除 %@ 地址";
 "deleted" = "已删除";
 "deleting_address" = "正在删除地址";

@@ -2276,7 +2276,7 @@
   <string name="selected_wallet_count_one" platform="android, iOS">已選擇 1 個錢包</string>
   <string name="selected_wallet_count" platform="android, iOS">已選擇 %1$d 個錢包</string>
   <string name="Importing_into_your_wallet" platform="android, iOS">正在匯入你的錢包…</string>
-  <string name="delete_wallet_title" platform="android, iOS">請輸入 PIN 碼以移除錢包</string>
+  <string name="delete_wallet_title" platform="android, iOS">請輸入 PIN 以移除錢包</string>
   <string name="delete_wallet_description" platform="android, iOS">移除此錢包不會影響你的資產，請確保已備份助記詞。</string>
   <string name="Rename_Wallet" platform="android, iOS">重新命名錢包</string>
   <string name="Delete_Wallet" platform="android, iOS">刪除錢包</string>
