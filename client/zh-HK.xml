@@ -2288,4 +2288,5 @@
   <string name="import_selected_wallet" platform="android, iOS">導入選中的錢包</string>
   <string name="import_wallet_count" platform="android, iOS">導入 %1$d 個錢包</string>
   <string name="import_wallet_count_one" platform="android, iOS">導入 1 個錢包</string>
+  <string name="Show_Private_Key" platform="android, iOS">查看私鑰</string>
 </resources>

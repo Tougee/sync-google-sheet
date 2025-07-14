@@ -470,6 +470,7 @@
 "deposits_pending_confirmation" = "有 %d 笔充值确认中";
 "depost_address_updated" = "%@ 充值地址已更新";
 "depost_address_updated_description" = "您的 %@ 充值地址已更新，充值地址将随着系统或网络升级而自动更新，旧的地址仍可充值并会自动入账，但是不推荐使用。";
+"deselect_all" = "取消所有选择";
 "desktop_login" = "登录 Mixin Messenger 桌面端";
 "desktop_logout" = "退出 Mixin Messenger 桌面端";
 "desktop_on_hint" = "桌面版已登入。";
@@ -1267,6 +1268,7 @@
 "show_asset" = "显示资产";
 "show_in_chat" = "在聊天中展示";
 "show_mnemonic_phrase" = "显示助记词";
+"show_private_key" = "查看私钥";
 "sign_in" = "登录";
 "sign_in_no_account" = "还没有账户？";
 "sign_in_with_mnemonic_phrase" = "助记词登录";

@@ -470,6 +470,7 @@
 "deposits_pending_confirmation" = "%d Deposits Pending Confirmation";
 "depost_address_updated" = "%@ Deposit Address Updated";
 "depost_address_updated_description" = "Your %@ deposit address has been updated. The deposit address will automatically update with system or network upgrades. Old addresses are still valid for deposits, but it is not recommended for further use.";
+"deselect_all" = "Deselect All";
 "desktop_login" = "Login to Mixin Messenger Desktop";
 "desktop_logout" = "Logout Mixin Messenger Desktop";
 "desktop_on_hint" = "You have your desktop logged in";
@@ -1267,6 +1268,7 @@
 "show_asset" = "Show asset";
 "show_in_chat" = "Show in chat";
 "show_mnemonic_phrase" = "Show Mnemonic Phrase";
+"show_private_key" = "Show Private Key";
 "sign_in" = "Log masuk";
 "sign_in_no_account" = "Don’t have an account yet?";
 "sign_in_with_mnemonic_phrase" = "Sign in with Mnemonic Phrase";

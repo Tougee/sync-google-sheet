@@ -1463,6 +1463,7 @@
 	<string name="Show">顯示</string>
 	<string name="Show_in_chat">在聊天中展示</string>
 	<string name="Show_Mnemonic_Phrase">顯示助記詞</string>
+	<string name="Show_Private_Key">檢視私鑰</string>
 	<string name="Shown">顯示</string>
 	<string name="Show Selected">顯示選擇（%1$s）</string>
 	<string name="sign_by_pin">使用 PIN 簽名</string>

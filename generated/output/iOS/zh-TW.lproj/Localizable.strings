@@ -470,6 +470,7 @@
 "deposits_pending_confirmation" = "有 %d 筆充值確認中";
 "depost_address_updated" = "%@ 充值地址已更新";
 "depost_address_updated_description" = "您的 %@ 充值地址已更新，充值地址將隨著系統或網路升級而自動更新，舊的地址仍可充值並會自動入賬，但是不推薦使用。";
+"deselect_all" = "取消所有選擇";
 "desktop_login" = "登入 Mixin Messenger 桌面端";
 "desktop_logout" = "退出 Mixin Messenger 桌面端";
 "desktop_on_hint" = "桌面版已登入。";
@@ -1267,6 +1268,7 @@
 "show_asset" = "顯示資產";
 "show_in_chat" = "在聊天中展示";
 "show_mnemonic_phrase" = "顯示助記詞";
+"show_private_key" = "檢視私鑰";
 "sign_in" = "登入";
 "sign_in_no_account" = "還沒有賬戶？";
 "sign_in_with_mnemonic_phrase" = "助記詞登入";

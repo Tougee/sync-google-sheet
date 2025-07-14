@@ -1484,6 +1484,7 @@
 	<string name="Show">Show</string>
 	<string name="Show_in_chat">Show in chat</string>
 	<string name="Show_Mnemonic_Phrase">Show Mnemonic Phrase</string>
+	<string name="Show_Private_Key">Show Private Key</string>
 	<string name="Shown">Shown</string>
 	<string name="Show Selected">Show Selected(%1$s)</string>
 	<string name="sign_by_pin">Sign by PIN</string>
