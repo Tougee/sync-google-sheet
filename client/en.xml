@@ -488,7 +488,7 @@
   <string name="deposit_tip_trx" platform="android, iOS">This address supports all TRC-10 and TRC-20 tokens.</string>
   <string name="depost_address_updated" platform="android,iOS">%1$s Deposit Address Updated</string>
   <string name="depost_address_updated_description" platform="android,iOS">Your %1$s deposit address has been updated. The deposit address will automatically update with system or network upgrades. Old addresses are still valid for deposits, but it is not recommended for further use.</string>
-  <string name="Deselect_All" platform="android">Deselect All</string>
+  <string name="Deselect_All" platform="android, iOS">Deselect All</string>
   <string name="Designated_time_period" platform="android">Designated time period</string>
   <string name="desktop" platform="android">desktop</string>
   <string name="desktop_login_no_pin" platform="android">For your account security, please set up the PIN before logging into the desktop app.</string>

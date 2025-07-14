@@ -480,7 +480,7 @@
   <string name="deposit_tip_trx" platform="android, iOS">支持 TRX 和所有符合 TRC-10、TRC-20 標準的代幣。</string>
   <string name="depost_address_updated" platform="android,iOS">%1$s 充值地址已更新</string>
   <string name="depost_address_updated_description" platform="android,iOS">您的 %1$s 充值地址已更新，充值地址將隨着系統或網絡升級而自動更新，舊的地址仍可充值並會自動入賬，但是不推薦使用。</string>
-  <string name="Deselect_All" platform="android">取消所有選擇</string>
+  <string name="Deselect_All" platform="android, iOS">取消所有選擇</string>
   <string name="Designated_time_period" platform="android">指定時間段</string>
   <string name="desktop" platform="android">桌面端</string>
   <string name="desktop_login_no_pin" platform="android">為了您的安全，登錄桌面前請先設置 PIN 碼！</string>
