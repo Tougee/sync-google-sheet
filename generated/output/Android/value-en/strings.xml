@@ -810,6 +810,8 @@
 	<string name="Import">Import</string>
 	<string name="Import_Mnemonic_Phrase">Import Mnemonic Phrase</string>
 	<string name="Import_Private_Key">Import Private Key</string>
+	<string name="import_wallet_count">Import %1$d Wallets</string>
+	<string name="import_wallet_count_one">Import 1 Wallet</string>
 	<string name="Import_Wallets">Import Wallets</string>
 	<string name="Import_wallets_from_another_wallet">Import wallets from another wallet</string>
 	<string name="Importing_into_your_wallet">Importing into your wallet…</string>

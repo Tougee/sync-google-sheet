@@ -2285,4 +2285,6 @@
   <string name="Import_Private_Key" platform="android, iOS">導入私鑰</string>
   <string name="My_Wallet" platform="android, iOS">我的錢包</string>
   <string name="send_to_other_wallet_description" platform="android, iOS">使用區塊鏈網絡發送到我的另一個錢包</string>
+  <string name="import_wallet_count" platform="android, iOS">導入 %1$d 個錢包</string>
+  <string name="import_wallet_count_one" platform="android, iOS">導入 1 個錢包</string>
 </resources>
