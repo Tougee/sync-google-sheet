@@ -798,6 +798,7 @@
 	<string name="Import">导入聊天记录</string>
 	<string name="Import_Mnemonic_Phrase">导入助记词</string>
 	<string name="Import_Private_Key">导入私钥</string>
+	<string name="import_selected_wallet">导入选中的钱包</string>
 	<string name="import_wallet_count">导入 %1$d 个钱包</string>
 	<string name="import_wallet_count_one">导入 1 个钱包</string>
 	<string name="Import_Wallets">导入钱包</string>

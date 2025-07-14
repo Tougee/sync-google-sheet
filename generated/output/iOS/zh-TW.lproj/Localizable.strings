@@ -660,6 +660,7 @@
 "immediately" = "立刻";
 "import_mnemonic_phrase" = "匯入助記詞";
 "import_private_key" = "匯入私鑰";
+"import_selected_wallet" = "匯入選中的錢包";
 "import_wallet_count" = "匯入 %d 個錢包";
 "import_wallet_count_one" = "匯入 1 個錢包";
 "import_wallets" = "匯入錢包";
