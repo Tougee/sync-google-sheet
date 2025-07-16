@@ -2322,4 +2322,5 @@
   <string name="export_mnemonics_warning_3" platform="android, iOS">Never share your private key with any third party, individual, website, or application.</string>
   <string name="export_mnemonics_warning_4" platform="android, iOS">Ensure that no one — including surveillance cameras — can see your screen.</string>
   <string name="Your_Mnemonic_Phrase" platform="android, iOS">Your Mnemonic Phrase</string>
+  <string name="scan_code_description" platform="android, iOS">Use another device to scan the QR code below</string>
 </resources>
