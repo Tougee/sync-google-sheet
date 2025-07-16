@@ -2289,4 +2289,9 @@
   <string name="import_wallet_count" platform="android, iOS">导入 %1$d 个钱包</string>
   <string name="import_wallet_count_one" platform="android, iOS">导入 1 个钱包</string>
   <string name="Show_Private_Key" platform="android, iOS">查看私钥</string>
+  <string name="export_mnemonics_warning_1" platform="android, iOS">任何拥有此助记词的人都可以转移该钱包中所有的资金。</string>
+  <string name="export_mnemonics_warning_2" platform="android, iOS">Mixin Messenger 服务器不会保存您的私钥。</string>
+  <string name="export_mnemonics_warning_3" platform="android, iOS">请勿与任何第三方、个人、网站或应用程序分享您的私钥。</string>
+  <string name="export_mnemonics_warning_4" platform="android, iOS">确保没有人或监控摄像头正在看你的屏幕。</string>
+  <string name="Your_Mnemonic_Phrase" platform="android, iOS">你的钱包助记词</string>
 </resources>

@@ -2317,4 +2317,9 @@
   <string name="import_wallet_count" platform="android, iOS">Import %1$d Wallets</string>
   <string name="import_wallet_count_one" platform="android, iOS">Import 1 Wallet</string>
   <string name="Show_Private_Key" platform="android, iOS">Show Private Key</string>
+  <string name="export_mnemonics_warning_1" platform="android, iOS">Anyone who gains access to this mnemonic phrase can transfer all assets from your wallet.</string>
+  <string name="export_mnemonics_warning_2" platform="android, iOS">Mixin Messenger does not store your private key on its servers.</string>
+  <string name="export_mnemonics_warning_3" platform="android, iOS">Never share your private key with any third party, individual, website, or application.</string>
+  <string name="export_mnemonics_warning_4" platform="android, iOS">Ensure that no one — including surveillance cameras — can see your screen.</string>
+  <string name="Your_Mnemonic_Phrase" platform="android, iOS">Your Mnemonic Phrase</string>
 </resources>
