@@ -1268,7 +1268,7 @@
   <string name="Saving" platform="android">Saving…</string>
   <string name="Say_Hi" platform="android, iOS, Desktop">Say Hi</string>
   <string name="scam_warning" platform="android, iOS, Desktop">Warning: Many users reported this account as a scam. Please be careful, especially if it asks you for money</string>
-  <string name="Scan" platform="android">Scan</string>
+  <string name="Scan" platform="android, iOS">Scan</string>
   <string name="scan_code_add_me" platform="android, iOS">Scan the QR code to add me on Mixin</string>
   <string name="Scan_QR" platform="android">Scan QR</string>
   <string name="Scan_QR_Code" platform="android, iOS">Scan QR Code</string>

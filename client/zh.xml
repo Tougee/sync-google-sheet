@@ -1250,7 +1250,7 @@
   <string name="Saving" platform="android">保存中…</string>
   <string name="Say_Hi" platform="android, iOS, Desktop">打招呼</string>
   <string name="scam_warning" platform="android, iOS, Desktop">警告：此账号被大量用户举报，请谨防网络诈骗，注意个人财产安全</string>
-  <string name="Scan" platform="android">扫码</string>
+  <string name="Scan" platform="android, iOS">扫码</string>
   <string name="scan_code_add_me" platform="android, iOS">用 Mixin 扫描二维码加我为联系人</string>
   <string name="Scan_QR" platform="android">扫一扫</string>
   <string name="Scan_QR_Code" platform="android, iOS">扫描二维码</string>
