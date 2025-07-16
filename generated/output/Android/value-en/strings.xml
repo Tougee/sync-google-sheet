@@ -819,6 +819,7 @@
 	<string name="import_wallet_count_one">Import 1 Wallet</string>
 	<string name="Import_Wallets">Import Wallets</string>
 	<string name="Import_wallets_from_another_wallet">Import wallets from another wallet</string>
+	<string name="Imported">Imported</string>
 	<string name="Importing_into_your_wallet">Importing into your wallet…</string>
 	<string name="in_connecting">Connecting…</string>
 	<string name="Incognito_Keyboard">Incognito Keyboard</string>

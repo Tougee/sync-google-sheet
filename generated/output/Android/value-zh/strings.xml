@@ -807,6 +807,7 @@
 	<string name="import_wallet_count_one">导入 1 个钱包</string>
 	<string name="Import_Wallets">导入钱包</string>
 	<string name="Import_wallets_from_another_wallet">从其他钱包导入钱包</string>
+	<string name="Imported">已导入</string>
 	<string name="Importing_into_your_wallet">正在导入你的钱包…</string>
 	<string name="in_connecting">正在连接…</string>
 	<string name="Incognito_Keyboard">隐身键盘</string>
