@@ -2323,4 +2323,5 @@
   <string name="export_mnemonics_warning_4" platform="android, iOS">Ensure that no one — including surveillance cameras — can see your screen.</string>
   <string name="Your_Mnemonic_Phrase" platform="android, iOS">Your Mnemonic Phrase</string>
   <string name="scan_code_description" platform="android, iOS">Use another device to scan the QR code below</string>
+  <string name="Imported" platform="android, iOS">Imported</string>
 </resources>
