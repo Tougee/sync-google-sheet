@@ -708,9 +708,9 @@
 	<string name="export_ip">出口 IP</string>
 	<string name="Export_Markdown">導出為 Markdown</string>
 	<string name="Export_mnemonic_phrase">導出助記詞</string>
-	<string name="export_mnemonics_warning_1">任何擁有此助記詞的人都可以轉移該錢包中所有的資金。</string>
-	<string name="export_mnemonics_warning_2">Mixin Messenger 服務器不會保存您的私鑰。</string>
-	<string name="export_mnemonics_warning_3">請勿與任何第三方、個人、網站或應用程序分享您的私鑰。</string>
+	<string name="export_mnemonics_warning_1">任何擁有此%1$s的人都可以轉移該錢包中所有的資金。</string>
+	<string name="export_mnemonics_warning_2">Mixin Messenger 服務器不會保存您的%1$s。</string>
+	<string name="export_mnemonics_warning_3">請勿與任何第三方、個人、網站或應用程序分享您的%1$s。</string>
 	<string name="export_mnemonics_warning_4">確保沒有人或監控攝像頭正在看你的屏幕。</string>
 	<string name="Export_PDF">導出為 PDF</string>
 	<string name="Extract_QR_Code">識別二維碼</string>
@@ -964,6 +964,7 @@
 	<string name="mnemonic_phrase_take_long">這應該不會花太長時間。</string>
 	<string name="mnemonic_phrase_tip_1">·存放在保險箱或安全的地方</string>
 	<string name="mnemonic_phrase_tip_2">·不要在網絡上發送</string>
+	<string name="mnemonic_phrases">助記詞</string>
 	<string name="Mnemonics_Mismatched">助記詞不符</string>
 	<string name="Mobile_Number">手機號碼</string>
 	<string name="Mobile_Phone">手機</string>
@@ -1185,6 +1186,7 @@
 	<string name="Privacy_Wallet">隱私錢包</string>
 	<string name="privacy_wallet_tip_description">一個支持多鏈的錢包，提供私密、免費且即時的交易，滿足您的大部分需求。</string>
 	<string name="privacy_wallet_tip_title">什麼是隱私錢包？</string>
+	<string name="private_key">私鑰</string>
 	<string name="Process_can_not_be_stop">流程一旦開始無法取消，請牢記 6 位數字 PIN，意外中止流程需要再次輸入</string>
 	<string name="processing">處理中</string>
 	<string name="Profile_Badge">個人資料徽章</string>

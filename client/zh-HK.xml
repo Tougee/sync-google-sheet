@@ -2289,11 +2289,13 @@
   <string name="import_wallet_count" platform="android, iOS">導入 %1$d 個錢包</string>
   <string name="import_wallet_count_one" platform="android, iOS">導入 1 個錢包</string>
   <string name="Show_Private_Key" platform="android, iOS">查看私鑰</string>
-  <string name="export_mnemonics_warning_1" platform="android, iOS">任何擁有此助記詞的人都可以轉移該錢包中所有的資金。</string>
-  <string name="export_mnemonics_warning_2" platform="android, iOS">Mixin Messenger 服務器不會保存您的私鑰。</string>
-  <string name="export_mnemonics_warning_3" platform="android, iOS">請勿與任何第三方、個人、網站或應用程序分享您的私鑰。</string>
+  <string name="export_mnemonics_warning_1" platform="android, iOS">任何擁有此%1$s的人都可以轉移該錢包中所有的資金。</string>
+  <string name="export_mnemonics_warning_2" platform="android, iOS">Mixin Messenger 服務器不會保存您的%1$s。</string>
+  <string name="export_mnemonics_warning_3" platform="android, iOS">請勿與任何第三方、個人、網站或應用程序分享您的%1$s。</string>
   <string name="export_mnemonics_warning_4" platform="android, iOS">確保沒有人或監控攝像頭正在看你的屏幕。</string>
   <string name="Your_Mnemonic_Phrase" platform="android, iOS">你的錢包助記詞</string>
   <string name="scan_code_description" platform="android, iOS">請用其他設備掃描以下二維碼</string>
   <string name="Imported" platform="android, iOS">已導入</string>
+  <string name="mnemonic_phrases" platform="android, iOS">助記詞</string>
+  <string name="private_key" platform="android, iOS">私鑰</string>
 </resources>

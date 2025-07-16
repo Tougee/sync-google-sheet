@@ -717,9 +717,9 @@
 	<string name="export_ip">Export IP</string>
 	<string name="Export_Markdown">Export Markdown</string>
 	<string name="Export_mnemonic_phrase">Export mnemonic phrase</string>
-	<string name="export_mnemonics_warning_1">Anyone who gains access to this mnemonic phrase can transfer all assets from your wallet.</string>
-	<string name="export_mnemonics_warning_2">Mixin Messenger does not store your private key on its servers.</string>
-	<string name="export_mnemonics_warning_3">Never share your private key with any third party, individual, website, or application.</string>
+	<string name="export_mnemonics_warning_1">Anyone who gains access to this %1$s can transfer all assets from your wallet.</string>
+	<string name="export_mnemonics_warning_2">Mixin Messenger does not store your %1$s on its servers.</string>
+	<string name="export_mnemonics_warning_3">Never share your %1$s with any third party, individual, website, or application.</string>
 	<string name="export_mnemonics_warning_4">Ensure that no one — including surveillance cameras — can see your screen.</string>
 	<string name="Export_PDF">Export PDF</string>
 	<string name="Extract_QR_Code">Extract QR Code</string>
@@ -982,6 +982,7 @@
 	<string name="mnemonic_phrase_take_long">This shouldn\'t take long.</string>
 	<string name="mnemonic_phrase_tip_1">· Store it in a vault or secure place</string>
 	<string name="mnemonic_phrase_tip_2">· Do not share it over the internet</string>
+	<string name="mnemonic_phrases">mnemonic phrases</string>
 	<string name="Mnemonics_Mismatched">Mnemonics Mismatched</string>
 	<string name="Mobile_Number">Mobile Number</string>
 	<string name="Mobile_Phone">Mobile Phone</string>
@@ -1203,6 +1204,7 @@
 	<string name="Privacy_Wallet">Privacy Wallet</string>
 	<string name="privacy_wallet_tip_description">A multi-chain wallet with private, free, and instant transactions to meet most of your needs.</string>
 	<string name="privacy_wallet_tip_title">What’s the Privacy Wallet?</string>
+	<string name="private_key">private key</string>
 	<string name="Process_can_not_be_stop">The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.</string>
 	<string name="processing">Processing</string>
 	<string name="Profile_Badge">Profile Badge</string>
