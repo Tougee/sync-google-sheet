@@ -1324,6 +1324,7 @@
 	<string name="scam_warning">警告：此賬號被大量用户舉報，請謹防網絡詐騙，注意個人財產安全</string>
 	<string name="Scan">掃碼</string>
 	<string name="scan_code_add_me">用 Mixin 掃描二維碼加我為聯繫人</string>
+	<string name="scan_code_description">請用其他設備掃描以下二維碼</string>
 	<string name="Scan_QR">掃一掃</string>
 	<string name="Scan_QR_Code">掃描二維碼</string>
 	<string name="Scan_to_Restore">掃描以恢復</string>

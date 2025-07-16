@@ -2294,4 +2294,5 @@
   <string name="export_mnemonics_warning_3" platform="android, iOS">請勿與任何第三方、個人、網站或應用程序分享您的私鑰。</string>
   <string name="export_mnemonics_warning_4" platform="android, iOS">確保沒有人或監控攝像頭正在看你的屏幕。</string>
   <string name="Your_Mnemonic_Phrase" platform="android, iOS">你的錢包助記詞</string>
+  <string name="scan_code_description" platform="android, iOS">請用其他設備掃描以下二維碼</string>
 </resources>

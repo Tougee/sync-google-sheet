@@ -1343,6 +1343,7 @@
 	<string name="scam_warning">Warning: Many users reported this account as a scam. Please be careful, especially if it asks you for money</string>
 	<string name="Scan">Scan</string>
 	<string name="scan_code_add_me">Scan the QR code to add me on Mixin</string>
+	<string name="scan_code_description">Use another device to scan the QR code below</string>
 	<string name="Scan_QR">Scan QR</string>
 	<string name="Scan_QR_Code">Scan QR Code</string>
 	<string name="Scan_to_Restore">Scan to Restore</string>
