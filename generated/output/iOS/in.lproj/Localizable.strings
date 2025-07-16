@@ -1139,6 +1139,7 @@
 "saved" = "Saved";
 "say_hi" = "Katakan Hai";
 "scam_warning" = "Peringatan: Banyak pengguna yang melaporkan akun ini sebagai scam. Harap berhati-hati, terutama jika meminta uang Anda";
+"scan" = "Pindai";
 "scan_code_add_me" = "Pindai kode QR untuk menambahkan saya di Mixin";
 "scan_code_description" = "Use another device to scan the QR code below";
 "scan_qr_code" = "Pindai Kode QR";

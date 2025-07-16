@@ -1139,6 +1139,7 @@
 "saved" = "Saved";
 "say_hi" = "Ucap hai";
 "scam_warning" = "Amaran: Ramai pengguna melaporkan akaun ini sebagai penipuan. Sila berhati-hati, terutamanya jika ia meminta wang kepada anda";
+"scan" = "Imbas";
 "scan_code_add_me" = "Imbas kod QR untuk menambahkan saya di Mixin";
 "scan_code_description" = "Use another device to scan the QR code below";
 "scan_qr_code" = "Imbas Kod QR";
