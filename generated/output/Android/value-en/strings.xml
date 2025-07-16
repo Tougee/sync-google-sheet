@@ -717,6 +717,10 @@
 	<string name="export_ip">Export IP</string>
 	<string name="Export_Markdown">Export Markdown</string>
 	<string name="Export_mnemonic_phrase">Export mnemonic phrase</string>
+	<string name="export_mnemonics_warning_1">Anyone who gains access to this mnemonic phrase can transfer all assets from your wallet.</string>
+	<string name="export_mnemonics_warning_2">Mixin Messenger does not store your private key on its servers.</string>
+	<string name="export_mnemonics_warning_3">Never share your private key with any third party, individual, website, or application.</string>
+	<string name="export_mnemonics_warning_4">Ensure that no one — including surveillance cameras — can see your screen.</string>
 	<string name="Export_PDF">Export PDF</string>
 	<string name="Extract_QR_Code">Extract QR Code</string>
 	<string name="failed">Failed</string>
@@ -1909,5 +1913,6 @@
 	<string name="You_deleted_this_message">You deleted this message</string>
 	<string name="You_have_left_the_group">You have left the group</string>
 	<string name="Your_emergency_contact_has_been_changed">Your recovery contact has been changed</string>
+	<string name="Your_Mnemonic_Phrase">Your Mnemonic Phrase</string>
 	<string name="your_pin_has_been_created">Your PIN has been created</string>
 </resources>

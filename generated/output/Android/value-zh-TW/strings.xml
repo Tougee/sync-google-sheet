@@ -708,6 +708,10 @@
 	<string name="export_ip">出口 IP</string>
 	<string name="Export_Markdown">匯出為 Markdown</string>
 	<string name="Export_mnemonic_phrase">匯出助記詞</string>
+	<string name="export_mnemonics_warning_1">任何擁有此助記詞的人都可以轉移該錢包中所有的資金。</string>
+	<string name="export_mnemonics_warning_2">Mixin Messenger 伺服器不會儲存您的私鑰。</string>
+	<string name="export_mnemonics_warning_3">請勿與任何第三方、個人、網站或應用程式分享您的私鑰。</string>
+	<string name="export_mnemonics_warning_4">確保沒有人或監控攝像頭正在看你的螢幕。</string>
 	<string name="Export_PDF">匯出為 PDF</string>
 	<string name="Extract_QR_Code">識別二維碼</string>
 	<string name="failed">失敗</string>
@@ -1885,5 +1889,6 @@
 	<string name="You_deleted_this_message">你撤回了一條訊息</string>
 	<string name="You_have_left_the_group">你不在此群組</string>
 	<string name="Your_emergency_contact_has_been_changed">恢復聯絡人已更改</string>
+	<string name="Your_Mnemonic_Phrase">你的錢包助記詞</string>
 	<string name="your_pin_has_been_created">PIN 已建立</string>
 </resources>
