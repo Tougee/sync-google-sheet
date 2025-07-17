@@ -305,7 +305,7 @@
   <string name="Checking_payment_info" platform="android">Checking payment info</string>
   <string name="Choose" platform="android">Choose</string>
   <string name="Choose_folder" platform="android">Choose folder</string>
-  <string name="Choose_Network" platform="android, iOS">Choose Network</string>
+  <string name="choose_deposit_network" platform="android, iOS">Choose Network</string>
   <string name="Choose_network_tip" platform="android, iOS">Please ensure the network you choose to deposit that Mixin supports. Otherwise, your assets may be lost.</string>
   <string name="Choose_Photo" platform="iOS">Choose Photo</string>
   <string name="circle_bottom" platform="android">Create circle for different groups of chats and quickly switch between them</string>
@@ -2328,4 +2328,5 @@
   <string name="mnemonic_phrases" platform="android, iOS">mnemonic phrases</string>
   <string name="private_key" platform="android, iOS">private key</string>
   <string name="Your_Private_Key" platform="android, iOS">Your Private Key</string>
+  <string name="Select_Network" platform="android, iOS">Select Network</string>
 </resources>
