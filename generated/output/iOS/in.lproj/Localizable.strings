@@ -1599,7 +1599,7 @@
 "withdrawal_suspended_description" = "%@ withdrawals are temporarily suspended, possibly due to node failure, hard bifurcation of blockchain network, or congestion. Please try again later.";
 "withdrawal_to" = "Penarikan ke %@";
 "write_down_mnemonic_phrase" = "Write down your mnemonic phrase";
-"write_down_mnemonic_phrase_desc" = "Write it down on a piece of paper and keep it in a safe place.";
+"write_down_secret_description" = "Write it down on a piece of paper and keep it in a safe place.";
 "years_count_short" = "%dY";
 "you" = "Anda";
 "you_are_watching_address" = "You are watching %@";
@@ -1611,3 +1611,4 @@
 "your_phone_number_has_been_changed" = "Your phone number has been changed";
 "your_pin_has_been_changed" = "Your PIN has been changed";
 "your_pin_has_been_created" = "Your PIN has been created";
+"your_private_key" = "Your Private Key";

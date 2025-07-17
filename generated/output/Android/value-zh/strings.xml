@@ -1885,7 +1885,7 @@
 	<string name="withdrawal_with_biometric">用生物识别提现</string>
 	<string name="withdrawal_with_PIN">用 PIN 提现</string>
 	<string name="write_down_mnemonic_phrase">写下您的助记词</string>
-	<string name="write_down_mnemonic_phrase_desc">把它写在一张纸上并放在安全的地方。</string>
+	<string name="write_down_secret_description">把它写在一张纸上并放在安全的地方。</string>
 	<string name="Year">年</string>
 	<string name="years_count_short">%1$d年</string>
 	<string name="you">你</string>
@@ -1896,4 +1896,5 @@
 	<string name="Your_emergency_contact_has_been_changed">恢复联系人已更改</string>
 	<string name="Your_Mnemonic_Phrase">你的钱包助记词</string>
 	<string name="your_pin_has_been_created">PIN 已创建</string>
+	<string name="Your_Private_Key">你的钱包私钥</string>
 </resources>
