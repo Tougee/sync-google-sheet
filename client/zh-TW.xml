@@ -2073,7 +2073,7 @@
   <string name="Before_you_proceed_instruction_1" platform="android,iOS">建立帳戶生成的 13 個或 25 個助記詞僅用於 Mixin Network 相關產品。</string>
   <string name="Before_you_proceed_instruction_2" platform="android,iOS">助記詞無法幫助您恢復您的 PIN。</string>
   <string name="Before_you_proceed_instruction_3" platform="android,iOS">確保沒有人或監控攝像頭正在看您的螢幕。</string>
-  <string name="Show_Mnemonic_Phrase" platform="android,iOS">顯示助記詞</string>
+  <string name="Show_Mnemonic_Phrase" platform="android,iOS">檢視助記詞</string>
   <string name="enter_mnemonic_phrase" platform="android,iOS">輸入或貼上您的 %1$d 個助記詞。</string>
   <string name="write_down_mnemonic_phrase" platform="android,iOS">寫下您的助記詞</string>
   <string name="check_mnemonic_phrase" platform="android,iOS">檢查您的助記詞</string>

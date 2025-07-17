@@ -1469,7 +1469,7 @@
 	<string name="Shared_Media">媒体内容</string>
 	<string name="Show">显示</string>
 	<string name="Show_in_chat">在聊天中展示</string>
-	<string name="Show_Mnemonic_Phrase">显示助记词</string>
+	<string name="Show_Mnemonic_Phrase">查看助记词</string>
 	<string name="Show_Private_Key">查看私钥</string>
 	<string name="Shown">显示</string>
 	<string name="Show Selected">显示选择（%1$s）</string>

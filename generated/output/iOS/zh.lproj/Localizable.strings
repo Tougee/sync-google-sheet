@@ -1275,7 +1275,7 @@
 "show" = "显示";
 "show_asset" = "显示资产";
 "show_in_chat" = "在聊天中展示";
-"show_mnemonic_phrase" = "显示助记词";
+"show_mnemonic_phrase" = "查看助记词";
 "show_private_key" = "查看私钥";
 "sign_in" = "登录";
 "sign_in_no_account" = "还没有账户？";
