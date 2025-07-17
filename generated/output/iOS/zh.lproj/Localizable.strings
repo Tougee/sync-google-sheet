@@ -670,7 +670,6 @@
 "import_wallet_count_one" = "导入 1 个钱包";
 "import_wallets" = "导入钱包";
 "import_wallets_from_another_wallet" = "从其他钱包导入钱包";
-"imported" = "已导入";
 "importing_into_your_wallet" = "正在导入你的钱包...";
 "in_connecting" = "正在连接...";
 "include_files" = "包含文件";
@@ -1527,8 +1526,10 @@
 "waiting_transaction" = "正在等待交易";
 "waiting_transaction_description" = "您有一笔转账或提现未完成，请稍后再试";
 "wallet" = "钱包";
+"wallet_candidate_imported" = "已导入";
 "wallet_enable_biometric_pay" = "开启后，转账时可验证%@快速完成付款。";
 "wallet_hide_asset_confirmation" = "您确定要隐藏%@吗？";
+"wallet_imported" = "导入";
 "wallet_password_not_equal" = "PIN 不一致, 请重新输入";
 "wallet_password_unsafe" = "PIN 过于简单不安全";
 "wallet_pin_pay_interval_tips" = "为了您的资产安全，距离上次输入支付 PIN 的时间超过以上指定时间时，再次转账时依然需要支付 PIN";

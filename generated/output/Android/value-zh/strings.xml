@@ -807,7 +807,6 @@
 	<string name="import_wallet_count_one">导入 1 个钱包</string>
 	<string name="Import_Wallets">导入钱包</string>
 	<string name="Import_wallets_from_another_wallet">从其他钱包导入钱包</string>
-	<string name="Imported">已导入</string>
 	<string name="Importing_into_your_wallet">正在导入你的钱包…</string>
 	<string name="in_connecting">正在连接…</string>
 	<string name="Incognito_Keyboard">隐身键盘</string>
@@ -1776,7 +1775,9 @@
 	<string name="wallet_already_shown">已显示 %1$s</string>
 	<string name="wallet_biometric_invalid">生物识别失效，请重新设置。</string>
 	<string name="wallet_biometric_screen_lock_desc">请解锁您的设备以继续</string>
+	<string name="wallet_candidate_imported">已导入</string>
 	<string name="wallet_enable_biometric_pay_prompt">开启后，转账时可验证生物识别快速完成付款。</string>
+	<string name="wallet_imported">导入</string>
 	<string name="wallet_password_change_tip">请输入6位 PIN 来验证</string>
 	<string name="wallet_password_not_equal">PIN 不一致, 请重新输入</string>
 	<string name="wallet_password_set_new_pin_desc">设置新的 6 位数字 PIN</string>

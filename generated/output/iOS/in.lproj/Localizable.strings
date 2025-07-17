@@ -670,7 +670,6 @@
 "import_wallet_count_one" = "Import 1 Wallet";
 "import_wallets" = "Import Wallets";
 "import_wallets_from_another_wallet" = "Import wallets from another wallet";
-"imported" = "Imported";
 "importing_into_your_wallet" = "Importing into your wallet...";
 "in_connecting" = "Menyambungkan...";
 "include_files" = "Include Files";
@@ -1527,8 +1526,10 @@
 "waiting_transaction" = "Waiting Transaction";
 "waiting_transaction_description" = "You have a transfer or withdrawal has not been completed, please try again later";
 "wallet" = "Wallet";
+"wallet_candidate_imported" = "Imported";
 "wallet_enable_biometric_pay" = "Once enabled, %@ can be used to make quick transfers.";
 "wallet_hide_asset_confirmation" = "Are you sure you want to hide %@?";
+"wallet_imported" = "Imported";
 "wallet_password_not_equal" = "PIN tidak cocok dengan PIN yang diketik ulang, harap coba lagi.";
 "wallet_password_unsafe" = "PIN-nya terlalu sederhana dan tidak aman.";
 "wallet_pin_pay_interval_tips" = "Untuk keamanan aset, Anda harus memverifikasi PIN Anda untuk interval yang ditentukan.";
