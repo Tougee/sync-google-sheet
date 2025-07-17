@@ -2295,7 +2295,8 @@
   <string name="export_mnemonics_warning_4" platform="android, iOS">确保没有人或监控摄像头正在看你的屏幕。</string>
   <string name="Your_Mnemonic_Phrase" platform="android, iOS">你的钱包助记词</string>
   <string name="scan_code_description" platform="android, iOS">请用其他设备扫描以下二维码</string>
-  <string name="Imported" platform="android, iOS">已导入</string>
+  <string name="wallet_candidate_imported" platform="android, iOS">已导入</string>
+  <string name="wallet_imported" platform="android, iOS">导入</string>
   <string name="mnemonic_phrases" platform="android, iOS">助记词</string>
   <string name="private_key" platform="android, iOS">私钥</string>
 </resources>
