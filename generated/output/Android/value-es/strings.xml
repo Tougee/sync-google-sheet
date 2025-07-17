@@ -211,8 +211,8 @@
 	<string name="Checking_link">Comprobando enlace</string>
 	<string name="Checking_payment_info">Comprobación de la información de pago</string>
 	<string name="Choose">Elegir</string>
+	<string name="choose_deposit_network">Elige Red</string>
 	<string name="Choose_folder">Elegir la carpeta</string>
-	<string name="Choose_Network">Elige Red</string>
 	<string name="Choose_network_tip">Asegúrate de que la red que elijas para depositar sea compatible con Mixin. De lo contrario, tus bienes pueden perderse.</string>
 	<string name="circle_bottom">Crea un círculo para diferentes grupos de chats y cambie rápidamente entre ellos</string>
 	<string name="circle_delete_tip">¿Eliminar %1$s?</string>

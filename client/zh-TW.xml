@@ -2300,4 +2300,5 @@
   <string name="mnemonic_phrases" platform="android, iOS">助記詞</string>
   <string name="private_key" platform="android, iOS">私鑰</string>
   <string name="Your_Private_Key" platform="android, iOS">你的錢包私鑰</string>
+  <string name="Select_Network" platform="android, iOS">選擇網路</string>
 </resources>

@@ -350,8 +350,8 @@
 	<string name="Checking_link">正在檢查連結</string>
 	<string name="Checking_payment_info">請檢查支付資訊</string>
 	<string name="Choose">選擇</string>
+	<string name="choose_deposit_network">選擇充值網路</string>
 	<string name="Choose_folder">選擇資料夾</string>
-	<string name="Choose_Network">選擇充值網路</string>
 	<string name="Choose_network_tip">請選擇 Mixin 支援的網路進行充值，否則您的充值將不會到賬。</string>
 	<string name="Choose_Token">選擇 %1$s 網路</string>
 	<string name="choose_token_desc">%1$s 在多個網路上釋出</string>
@@ -1359,6 +1359,7 @@
 	<string name="Select_Date">選擇日期</string>
 	<string name="Select_Emergency_Contact">選擇恢復聯絡人</string>
 	<string name="Select_LIMIT">最多選擇 %1$d 個</string>
+	<string name="Select_Network">選擇網路</string>
 	<string name="select_payment_method">選擇支付方式</string>
 	<string name="select_token">選擇代幣</string>
 	<string name="selected_wallet_count">已選擇 %1$d 個錢包</string>
