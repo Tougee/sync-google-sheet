@@ -799,10 +799,12 @@
 	<string name="Im_Ready">準備好了</string>
 	<string name="image_shareable_false">該圖片已被設定為不允許轉發</string>
 	<string name="Immediately">立刻</string>
-	<string name="Import">匯入聊天記錄</string>
+	<string name="Import">匯入</string>
+	<string name="import_chat_history">匯入聊天記錄</string>
 	<string name="Import_Mnemonic_Phrase">匯入助記詞</string>
 	<string name="Import_Private_Key">匯入私鑰</string>
 	<string name="import_selected_wallet">匯入選中的錢包</string>
+	<string name="import_single_chain_wallet">匯入單鏈錢包</string>
 	<string name="import_wallet_count">匯入 %1$d 個錢包</string>
 	<string name="import_wallet_count_one">匯入 1 個錢包</string>
 	<string name="Import_Wallets">匯入錢包</string>
@@ -818,6 +820,7 @@
 	<string name="insufficient_fee_description">需要 %1$s 以支付 %2$s 網路費用</string>
 	<string name="Introduction">介紹</string>
 	<string name="Invalid_Address">無效的地址</string>
+	<string name="Invalid_format">格式無效</string>
 	<string name="Invalid_Link">無效連結</string>
 	<string name="Invalid_mnemonic_phrase">助記詞無效</string>
 	<string name="Invalid_payment_link">無效支付資訊</string>
@@ -1186,6 +1189,7 @@
 	<string name="privacy_wallet_tip_description">一個支援多鏈的錢包，提供私密、免費且即時的交易，滿足您的大部分需求。</string>
 	<string name="privacy_wallet_tip_title">什麼是隱私錢包？</string>
 	<string name="private_key">私鑰</string>
+	<string name="private_key_storage_description">你的私鑰只會儲存在本地裝置上</string>
 	<string name="Process_can_not_be_stop">流程一旦開始無法取消，請牢記 6 位數字 PIN，意外中止流程需要再次輸入</string>
 	<string name="processing">處理中</string>
 	<string name="Profile_Badge">個人資料徽章</string>
@@ -1644,6 +1648,7 @@
 	<string name="Tuesday">星期二</string>
 	<string name="Type">型別</string>
 	<string name="Type_message">輸入訊息</string>
+	<string name="Type_your_private_key">請輸入你的私鑰</string>
 	<string name="unable_connect_to_desktop">無法連線到桌面，請稍後重試</string>
 	<string name="Unable_synced_between_different_account">不同賬戶之間無法同步聊天記錄</string>
 	<string name="unable_to_decode_the_request">無法解析請求: %1$s</string>

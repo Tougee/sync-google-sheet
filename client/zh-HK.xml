@@ -747,7 +747,7 @@
   <string name="image" platform="iOS, Desktop">圖像</string>
   <string name="image_shareable_false" platform="android">該圖片已被設置為不允許轉發</string>
   <string name="Immediately" platform="android, iOS">立刻</string>
-  <string name="Import" platform="android">導入聊天記錄</string>
+  <string name="import_chat_history" platform="android">導入聊天記錄</string>
   <string name="in_connecting" platform="android, iOS">正在連接…</string>
   <string name="Include_files" platform="iOS, Desktop">包含檔案</string>
   <string name="Include_videos" platform="iOS, Desktop">包括視頻</string>
@@ -2283,6 +2283,11 @@
   <string name="Watch_address" platform="android, iOS">觀察 %1$s</string>
   <string name="You_are_watching_address" platform="android, iOS">你正在觀察 %1$s</string>
   <string name="Import_Private_Key" platform="android, iOS">導入私鑰</string>
+  <string name="import_single_chain_wallet" platform="android, iOS">導入單鏈錢包</string>
+  <string name="Type_your_private_key" platform="android, iOS">請輸入你的私鑰</string>
+  <string name="private_key_storage_description" platform="android, iOS">你的私鑰只會保存在本地設備上</string>
+  <string name="Invalid_format" platform="android, iOS">格式無效</string>
+  <string name="Import" platform="android, iOS">導入</string>
   <string name="My_Wallet" platform="android, iOS">我的錢包</string>
   <string name="send_to_other_wallet_description" platform="android, iOS">使用區塊鏈網絡發送到我的另一個錢包</string>
   <string name="import_selected_wallet" platform="android, iOS">導入選中的錢包</string>
