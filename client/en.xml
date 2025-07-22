@@ -758,7 +758,7 @@
   <string name="image" platform="iOS, Desktop">image</string>
   <string name="image_shareable_false" platform="android">The image has been set to not allow sharing</string>
   <string name="Immediately" platform="android, iOS">Immediately</string>
-  <string name="Import" platform="android">Import</string>
+  <string name="import_chat_history" platform="android">Import</string>
   <string name="in_connecting" platform="android, iOS">Connecting…</string>
   <string name="Include_files" platform="iOS, Desktop">Include Files</string>
   <string name="Include_videos" platform="iOS, Desktop">Include Videos</string>
@@ -2311,6 +2311,11 @@
   <string name="Watch_address" platform="android, iOS">Watch %1$s</string>
   <string name="You_are_watching_address" platform="android, iOS">You are watching %1$s</string>
   <string name="Import_Private_Key" platform="android, iOS">Import Private Key</string>
+  <string name="import_single_chain_wallet" platform="android, iOS">Import a single-chain wallet</string>
+  <string name="Type_your_private_key" platform="android, iOS">Type your private key</string>
+  <string name="private_key_storage_description" platform="android, iOS">Your private key will only be stored locally on your device</string>
+  <string name="Invalid_format" platform="android, iOS">Invalid format</string>
+  <string name="Import" platform="android, iOS">Import</string>
   <string name="My_Wallet" platform="android, iOS">My Wallet</string>
   <string name="send_to_other_wallet_description" platform="android, iOS">Send to my other wallet using a crypto network</string>
   <string name="import_selected_wallet" platform="android, iOS">Import Selected Wallets</string>
