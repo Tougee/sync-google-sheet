@@ -2334,4 +2334,9 @@
   <string name="private_key" platform="android, iOS">private key</string>
   <string name="Your_Private_Key" platform="android, iOS">Your Private Key</string>
   <string name="Select_Network" platform="android, iOS">Select Network</string>
+  <string name="Add_Watch_Address" platform="android, iOS">Add Watch Address</string>
+  <string name="add_watch_address_description" platform="android, iOS">Track any public wallet address</string>
+  <string name="Type_your_wallet_address" platform="android, iOS">Type your wallet address</string>
+  <string name="address_already_exists" platform="android, iOS">This address already exists in your wallet</string>
+  <string name="contract_exchange_address_not_supported" platform="android, iOS">Contract or exchange addresses is not supported for watching</string>
 </resources>
