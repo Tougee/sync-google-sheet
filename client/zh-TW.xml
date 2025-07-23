@@ -2305,7 +2305,7 @@
   <string name="mnemonic_phrases" platform="android, iOS">助記詞</string>
   <string name="private_key" platform="android, iOS">私鑰</string>
   <string name="Your_Private_Key" platform="android, iOS">你的錢包私鑰</string>
-  <string name="Select_Network" platform="android, iOS">選擇網路</string>
+  <string name="Choose_Network" platform="android, iOS">選擇網路</string>
   <string name="Add_Watch_Address" platform="android, iOS">新增觀察地址</string>
   <string name="add_watch_address_description" platform="android, iOS">追蹤公開錢包地址</string>
   <string name="Type_your_wallet_address" platform="android, iOS">請輸入錢包地址</string>

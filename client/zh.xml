@@ -2305,11 +2305,12 @@
   <string name="mnemonic_phrases" platform="android, iOS">助记词</string>
   <string name="private_key" platform="android, iOS">私钥</string>
   <string name="Your_Private_Key" platform="android, iOS">你的钱包私钥</string>
-  <string name="Select_Network" platform="android, iOS">选择网络</string>
+  <string name="Choose_Network" platform="android, iOS">选择网络</string>
   <string name="Add_Watch_Address" platform="android, iOS">添加观察地址</string>
   <string name="add_watch_address_description" platform="android, iOS">追踪公开钱包地址</string>
   <string name="Type_your_wallet_address" platform="android, iOS">请输入钱包地址</string>
   <string name="address_already_exists" platform="android, iOS">该地址已存在于你的钱包中</string>
   <string name="contract_exchange_address_not_supported" platform="android, iOS">当前地址为合约地址或交易所地址，暂不支持观察。</string>
   <string name="watch_wallet_index" platform="android, iOS">观察钱包 %1$d</string>
+  <string name="Watching" platform="android, iOS">观察</string>
 </resources>
