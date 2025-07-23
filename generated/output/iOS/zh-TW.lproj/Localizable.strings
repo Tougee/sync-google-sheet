@@ -40,6 +40,8 @@
 "add_to_stickers" = "新增貼紙";
 "add_token" = "補充 %@";
 "add_wallet" = "新增錢包";
+"add_watch_address" = "新增觀察地址";
+"add_watch_address_description" = "追蹤公開錢包地址";
 "added" = "已新增";
 "adding_address" = "正在新增地址";
 "adding_address_failed" = "新增地址失敗";
@@ -47,6 +49,7 @@
 "address_added" = "地址已新增";
 "address_added_description" = "地址已新增，您可以立刻使用該地址進行提現。";
 "address_adding_description" = "正在新增地址，請稍候。";
+"address_already_exists" = "該地址已存在於你的錢包中";
 "address_book" = "地址簿";
 "address_deleted" = "地址已刪除";
 "address_edited" = "地址已修改";
@@ -386,6 +389,7 @@
 "continue_with_pin" = "輸入 PIN 繼續";
 "contract" = "合約";
 "contract_address" = "合約地址";
+"contract_exchange_address_not_supported" = "當前地址為合約地址或交易所地址，暫不支援觀察。";
 "convenience" = "便利";
 "conversation" = "會話";
 "conversation_has_too_many_circles" = "已達圈子數上限";
@@ -1423,6 +1427,7 @@
 "trying_connect_tip_node" = "正在連線節點...";
 "type" = "型別";
 "type_your_private_key" = "請輸入你的私鑰";
+"type_your_wallet_address" = "請輸入錢包地址";
 "unable_connect_to_desktop" = "無法連線到桌面，請稍後重試";
 "unable_synced_between_different_account" = "不同賬戶之間無法同步聊天記錄";
 "unable_to_decode_the_request" = "無法解析請求: %@";

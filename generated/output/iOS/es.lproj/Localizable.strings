@@ -40,6 +40,8 @@
 "add_to_stickers" = "Añadir a pegatinas";
 "add_token" = "Add %@";
 "add_wallet" = "Add Wallet";
+"add_watch_address" = "Add Watch Address";
+"add_watch_address_description" = "Track any public wallet address";
 "added" = "Añadido";
 "adding_address" = "Adding Address";
 "adding_address_failed" = "Adding Address Failed";
@@ -47,6 +49,7 @@
 "address_added" = "Address Added";
 "address_added_description" = "Address has been added. You can immediately use this address for withdrawals.";
 "address_adding_description" = "The request to add the address is currently under verification by the Mixin server. Please wait a moment.";
+"address_already_exists" = "This address already exists in your wallet";
 "address_book" = "Address Book";
 "address_deleted" = "Address Deleted";
 "address_edited" = "Address Edited";
@@ -386,6 +389,7 @@
 "continue_with_pin" = "Continue with PIN";
 "contract" = "Contract";
 "contract_address" = "Contract Address";
+"contract_exchange_address_not_supported" = "Contract or exchange addresses is not supported for watching";
 "convenience" = "Convenience";
 "conversation" = "Conversación";
 "conversation_has_too_many_circles" = "La conversación tiene demasiados círculos.";
@@ -1423,6 +1427,7 @@
 "trying_connect_tip_node" = "Intentando conectar el nodo TIP";
 "type" = "Type";
 "type_your_private_key" = "Type your private key";
+"type_your_wallet_address" = "Type your wallet address";
 "unable_connect_to_desktop" = "Unable to connect to the desktop, please try again later";
 "unable_synced_between_different_account" = "Chat history cannot be synced between different accounts";
 "unable_to_decode_the_request" = "Unable to decode the request: %@";

@@ -63,6 +63,8 @@
 	<string name="Add_to_Home_screen">新增到桌面</string>
 	<string name="add_token">補充 %1$s</string>
 	<string name="Add_Wallet">新增錢包</string>
+	<string name="Add_Watch_Address">新增觀察地址</string>
+	<string name="add_watch_address_description">追蹤公開錢包地址</string>
 	<string name="Added">已新增</string>
 	<string name="Adding">正在新增…</string>
 	<string name="Adding_Address">正在新增地址</string>
@@ -71,6 +73,7 @@
 	<string name="address_added">地址已新增</string>
 	<string name="address_added_description">地址已新增，您可以立刻使用該地址進行提現。</string>
 	<string name="address_adding_description">正在新增地址，請稍候。</string>
+	<string name="address_already_exists">該地址已存在於你的錢包中</string>
 	<string name="Address_Book">地址簿</string>
 	<string name="address_deleted">地址已刪除</string>
 	<string name="address_deleted_description">地址已刪除。</string>
@@ -458,6 +461,7 @@
 	<string name="continue_with_pin">輸入 PIN 繼續</string>
 	<string name="Contract">合約</string>
 	<string name="Contract_Address">合約地址</string>
+	<string name="contract_exchange_address_not_supported">當前地址為合約地址或交易所地址，暫不支援觀察。</string>
 	<string name="Convenience">便利</string>
 	<string name="Conversation">會話</string>
 	<string name="conversation_delete_tip">刪除後，將同時清空該聊天的訊息記錄</string>
@@ -1649,6 +1653,7 @@
 	<string name="Type">型別</string>
 	<string name="Type_message">輸入訊息</string>
 	<string name="Type_your_private_key">請輸入你的私鑰</string>
+	<string name="Type_your_wallet_address">請輸入錢包地址</string>
 	<string name="unable_connect_to_desktop">無法連線到桌面，請稍後重試</string>
 	<string name="Unable_synced_between_different_account">不同賬戶之間無法同步聊天記錄</string>
 	<string name="unable_to_decode_the_request">無法解析請求: %1$s</string>

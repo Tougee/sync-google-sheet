@@ -63,6 +63,8 @@
 	<string name="Add_to_Home_screen">Add to Home screen</string>
 	<string name="add_token">Add %1$s</string>
 	<string name="Add_Wallet">Add Wallet</string>
+	<string name="Add_Watch_Address">Add Watch Address</string>
+	<string name="add_watch_address_description">Track any public wallet address</string>
 	<string name="Added">Added</string>
 	<string name="Adding">Adding…</string>
 	<string name="Adding_Address">Adding Address</string>
@@ -71,6 +73,7 @@
 	<string name="address_added">Address Added</string>
 	<string name="address_added_description">Address has been added. You can immediately use this address for withdrawals.</string>
 	<string name="address_adding_description">The request to add the address is currently under verification by the Mixin server. Please wait a moment.</string>
+	<string name="address_already_exists">This address already exists in your wallet</string>
 	<string name="Address_Book">Address Book</string>
 	<string name="address_deleted">Address Deleted</string>
 	<string name="address_deleted_description">Address deleted.</string>
@@ -463,6 +466,7 @@
 	<string name="continue_with_pin">Continue with PIN</string>
 	<string name="Contract">Contract</string>
 	<string name="Contract_Address">Contract Address</string>
+	<string name="contract_exchange_address_not_supported">Contract or exchange addresses is not supported for watching</string>
 	<string name="Convenience">Convenience</string>
 	<string name="Conversation">Conversation</string>
 	<string name="conversation_delete_tip">Once deleted, all this chat messages will be cleared</string>
@@ -1671,6 +1675,7 @@
 	<string name="Type">Type</string>
 	<string name="Type_message">Type message</string>
 	<string name="Type_your_private_key">Type your private key</string>
+	<string name="Type_your_wallet_address">Type your wallet address</string>
 	<string name="unable_connect_to_desktop">Unable to connect to the desktop, please try again later</string>
 	<string name="Unable_synced_between_different_account">Chat history cannot be synced between different accounts</string>
 	<string name="unable_to_decode_the_request">Unable to decode the request: %1$s</string>
