@@ -2339,4 +2339,5 @@
   <string name="Type_your_wallet_address" platform="android, iOS">Type your wallet address</string>
   <string name="address_already_exists" platform="android, iOS">This address already exists in your wallet</string>
   <string name="contract_exchange_address_not_supported" platform="android, iOS">Contract or exchange addresses is not supported for watching</string>
+  <string name="watch_wallet_index" platform="android, iOS">Watch Wallet %1$d</string>
 </resources>
