@@ -1554,6 +1554,7 @@
 "wallet_withdrawal_recent_tip" = "Anda telah menarik balik %3$@ ke %2$@ %1$@, Adakah anda mahu menariknya semula?";
 "wallets" = "Wallets";
 "watch_address" = "Watch %@";
+"watch_wallet_index" = "Watch Wallet %d";
 "watchlist" = "Watchlist";
 "watchlist_add_desc" = "%@ is now on your watchlist";
 "watchlist_empty" = "Your watchlist is empty";

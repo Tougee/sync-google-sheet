@@ -1831,6 +1831,7 @@
 	<string name="wallet_withdrawal_recent_tip">You have already withdrawn %3$s to %2$s %1$s ago, Do you want to withdraw it again?</string>
 	<string name="Wallets">Wallets</string>
 	<string name="Watch_address">Watch %1$s</string>
+	<string name="watch_wallet_index">Watch Wallet %1$d</string>
 	<string name="Watchlist">Watchlist</string>
 	<string name="watchlist_add_desc">%1$s is now on your watchlist</string>
 	<string name="watchlist_empty">Your watchlist is empty</string>

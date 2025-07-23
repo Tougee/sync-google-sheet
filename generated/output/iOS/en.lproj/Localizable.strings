@@ -1554,6 +1554,7 @@
 "wallet_withdrawal_recent_tip" = "You have already withdrawn %3$@ to %2$@ %1$@ ago, Do you want to withdraw it again?";
 "wallets" = "Wallets";
 "watch_address" = "Watch %@";
+"watch_wallet_index" = "Watch Wallet %d";
 "watchlist" = "Watchlist";
 "watchlist_add_desc" = "%@ is now on your watchlist";
 "watchlist_empty" = "Your watchlist is empty";

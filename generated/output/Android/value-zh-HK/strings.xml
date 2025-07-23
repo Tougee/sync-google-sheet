@@ -1809,6 +1809,7 @@
 	<string name="wallet_withdrawal_recent_tip">你已經在 %1$s 前提現 %3$s 到 %2$s，確認還要再提一次嗎？</string>
 	<string name="Wallets">錢包</string>
 	<string name="Watch_address">觀察 %1$s</string>
+	<string name="watch_wallet_index">觀察錢包 %1$d</string>
 	<string name="Watchlist">自選</string>
 	<string name="watchlist_add_desc">%1$s 已經加入自選</string>
 	<string name="watchlist_empty">您的自選列表為空</string>
