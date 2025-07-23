@@ -355,6 +355,7 @@
 	<string name="Choose">选择</string>
 	<string name="choose_deposit_network">选择充值网络</string>
 	<string name="Choose_folder">选择文件夹</string>
+	<string name="Choose_Network">选择网络</string>
 	<string name="Choose_network_tip">请选择 Mixin 支持的网络进行充值，否则您的充值将不会到账。</string>
 	<string name="Choose_Token">选择 %1$s 网络</string>
 	<string name="choose_token_desc">%1$s 在多个网络上发布</string>
@@ -1367,7 +1368,6 @@
 	<string name="Select_Date">选择日期</string>
 	<string name="Select_Emergency_Contact">选择恢复联系人</string>
 	<string name="Select_LIMIT">最多选择 %1$d 个</string>
-	<string name="Select_Network">选择网络</string>
 	<string name="select_payment_method">选择支付方式</string>
 	<string name="select_token">选择代币</string>
 	<string name="selected_wallet_count">已选择 %1$d 个钱包</string>
@@ -1810,6 +1810,7 @@
 	<string name="Wallets">钱包</string>
 	<string name="Watch_address">观察 %1$s</string>
 	<string name="watch_wallet_index">观察钱包 %1$d</string>
+	<string name="Watching">观察</string>
 	<string name="Watchlist">自选</string>
 	<string name="watchlist_add_desc">%1$s 已经加入自选</string>
 	<string name="watchlist_empty">您的自选列表为空</string>

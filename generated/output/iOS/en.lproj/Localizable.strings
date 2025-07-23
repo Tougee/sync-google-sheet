@@ -289,6 +289,7 @@
 "check_mnemonic_phrase" = "Check your mnemonic phrase";
 "check_mnemonic_phrase_desc" = "Input each word in the order it was presented to you.";
 "choose_deposit_network" = "Choose Network";
+"choose_network" = "Choose Network";
 "choose_network_tip" = "Please ensure the network you choose to deposit that Mixin supports. Otherwise, your assets may be lost.";
 "choose_photo" = "Choose Photo";
 "choose_token" = "Choose %@ Network";
@@ -1181,7 +1182,6 @@
 "select_date" = "Select Date";
 "select_emergency_contact" = "Select Recovery Contact";
 "select_more_photos" = "Select More Photos";
-"select_network" = "Select Network";
 "select_token" = "Select Token";
 "selected_count" = "%@ Selected";
 "selected_item" = "Selected 1 Item";
@@ -1555,6 +1555,7 @@
 "wallets" = "Wallets";
 "watch_address" = "Watch %@";
 "watch_wallet_index" = "Watch Wallet %d";
+"watching" = "Watching";
 "watchlist" = "Watchlist";
 "watchlist_add_desc" = "%@ is now on your watchlist";
 "watchlist_empty" = "Your watchlist is empty";

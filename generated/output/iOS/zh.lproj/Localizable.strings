@@ -289,6 +289,7 @@
 "check_mnemonic_phrase" = "检查您的助记词";
 "check_mnemonic_phrase_desc" = "按照呈现给您的顺序输入每个单词。";
 "choose_deposit_network" = "选择充值网络";
+"choose_network" = "选择网络";
 "choose_network_tip" = "请选择 Mixin 支持的网络进行充值，否则您的充值将不会到账。";
 "choose_photo" = "选择照片";
 "choose_token" = "选择 %@ 网络";
@@ -1181,7 +1182,6 @@
 "select_date" = "选择日期";
 "select_emergency_contact" = "选择恢复联系人";
 "select_more_photos" = "选择更多照片";
-"select_network" = "选择网络";
 "select_token" = "选择代币";
 "selected_count" = "选择了 %@ 个消息";
 "selected_item" = "已选择 1 项";
@@ -1555,6 +1555,7 @@
 "wallets" = "钱包";
 "watch_address" = "观察 %@";
 "watch_wallet_index" = "观察钱包 %d";
+"watching" = "观察";
 "watchlist" = "自选";
 "watchlist_add_desc" = "%@ 已经加入自选";
 "watchlist_empty" = "您的自选列表为空";

@@ -2312,4 +2312,5 @@
   <string name="address_already_exists" platform="android, iOS">該地址已存在於你的錢包中</string>
   <string name="contract_exchange_address_not_supported" platform="android, iOS">當前地址為合約地址或交易所地址，暫不支援觀察。</string>
   <string name="watch_wallet_index" platform="android, iOS">觀察錢包 %1$d</string>
+  <string name="Watching" platform="android, iOS">觀察</string>
 </resources>

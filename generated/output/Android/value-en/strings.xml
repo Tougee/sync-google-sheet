@@ -360,6 +360,7 @@
 	<string name="Choose">Choose</string>
 	<string name="choose_deposit_network">Choose Network</string>
 	<string name="Choose_folder">Choose folder</string>
+	<string name="Choose_Network">Choose Network</string>
 	<string name="Choose_network_tip">Please ensure the network you choose to deposit that Mixin supports. Otherwise, your assets may be lost.</string>
 	<string name="Choose_Token">Choose %1$s Network</string>
 	<string name="choose_token_desc">%1$s is issued on multiple networks</string>
@@ -1387,7 +1388,6 @@
 	<string name="Select_Date">Select Date</string>
 	<string name="Select_Emergency_Contact">Select Recovery Contact</string>
 	<string name="Select_LIMIT">Select up to %1$d</string>
-	<string name="Select_Network">Select Network</string>
 	<string name="select_payment_method">Select Payment Method</string>
 	<string name="select_token">Select Token</string>
 	<string name="selected_wallet_count">%1$d wallets selected</string>
@@ -1832,6 +1832,7 @@
 	<string name="Wallets">Wallets</string>
 	<string name="Watch_address">Watch %1$s</string>
 	<string name="watch_wallet_index">Watch Wallet %1$d</string>
+	<string name="Watching">Watching</string>
 	<string name="Watchlist">Watchlist</string>
 	<string name="watchlist_add_desc">%1$s is now on your watchlist</string>
 	<string name="watchlist_empty">Your watchlist is empty</string>
