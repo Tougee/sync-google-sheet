@@ -519,6 +519,7 @@
 	<string name="Delete_address">Delete address</string>
 	<string name="delete_address_description">Are you sure to delete this address?</string>
 	<string name="delete_by_pin">Delete by PIN</string>
+	<string name="delete_common_wallet_description">Deleting this wallet will not affect your assets. Please make sure your private key or mnemonic phrase is backed up.</string>
 	<string name="Delete_emergency_contact">Delete recovery contact</string>
 	<string name="Delete_for_everyone">Delete for Everyone</string>
 	<string name="Delete_for_me">Delete for me</string>
@@ -527,8 +528,8 @@
 	<string name="Delete_Note">Delete Note</string>
 	<string name="Delete_Synced_Contact">Delete Synced Contacts</string>
 	<string name="Delete_Wallet">Delete Wallet</string>
-	<string name="delete_wallet_description">Deleting this wallet will not affect your assets. Please make sure your private key or mnemonic phrase is backed up.</string>
 	<string name="delete_wallet_title">Enter your PIN to remove wallet</string>
+	<string name="delete_watch_wallet_description">Deleting this wallet will not affect your assets, as it is a watch-only wallet.</string>
 	<string name="Delete_withdraw_Address">Delete %1$s Address</string>
 	<string name="Deleting_Address">Delete Address</string>
 	<string name="Deleting_Address_Failed">DeleteAddress Failed</string>
