@@ -1799,6 +1799,7 @@
 	<string name="wallet_pin_tops_desc">注意 PIN 丢失无法找回，6 位数字 PIN 是基于去中心化密钥派生协议 Throttled Identity Protocol，阅读文档以**了解更多**。</string>
 	<string name="wallet_refresh_address_failed">手续费已变更且刷新失败，请重试。</string>
 	<string name="wallet_setting_currency_desc">%1$s (%2$s)</string>
+	<string name="wallet_summary_tip">观察钱包、隐藏的资产不计入统计</string>
 	<string name="wallet_transaction_continue_count_down">继续 （%1$d）</string>
 	<string name="wallet_transaction_that_time_value_tip">交易时的价值</string>
 	<string name="wallet_transaction_tip">确定给 %1$s 转价值 %2$s 的 %3$s ？</string>

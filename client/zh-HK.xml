@@ -2313,4 +2313,5 @@
   <string name="contract_exchange_address_not_supported" platform="android, iOS">當前地址為合約地址或交易所地址，暫不支持觀察。</string>
   <string name="watch_wallet_index" platform="android, iOS">觀察錢包 %1$d</string>
   <string name="Watching" platform="android, iOS">觀察</string>
+  <string name="wallet_summary_tip" platform="android, iOS">觀察錢包、隱藏的資產不計入統計</string>
 </resources>

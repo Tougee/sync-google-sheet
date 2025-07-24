@@ -1821,6 +1821,7 @@
 	<string name="wallet_pin_tops_desc">Please remember the PIN is unrecoverable if lost. The PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to **learn more**.</string>
 	<string name="wallet_refresh_address_failed">The withdrawal fee has been changed and the refresh fails, please try again.</string>
 	<string name="wallet_setting_currency_desc">%1$s (%2$s)</string>
+	<string name="wallet_summary_tip">Watch wallets and hidden assets are excluded from the total</string>
 	<string name="wallet_transaction_continue_count_down">Continue (%1$d)</string>
 	<string name="wallet_transaction_that_time_value_tip">historical value at the time of transaction</string>
 	<string name="wallet_transaction_tip">Are you sure you want to transfer %3$s worth %2$s to %1$s?</string>

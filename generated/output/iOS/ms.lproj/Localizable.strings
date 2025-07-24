@@ -1546,6 +1546,7 @@
 "wallet_pin_pay_interval_tips" = "Untuk keselamatan aset anda, anda perlu mengesahkan PIN anda untuk selang waktu yang ditentukan.";
 "wallet_pin_tops_desc" = "Please remember the PIN is unrecoverable if lost. The PIN is based on the Throttled Identity Protocol, which is the decentralized key derivation protocol, read the document to learn more.";
 "wallet_refresh_address_failed" = "The withdrawal fee has been changed and the refresh fails, please try again.";
+"wallet_summary_tip" = "Watch wallets and hidden assets are excluded from the total";
 "wallet_transaction_continue_count_down" = "Teruskan (%d)";
 "wallet_transaction_tip" = "Adakah anda pasti mahu memindahkan %3$@ bernilai %2$@ ke %1$@？";
 "wallet_transactions_asset_key_warning" = "Kunci aset BUKAN alamat deposit!";
