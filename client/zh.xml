@@ -2277,7 +2277,8 @@
   <string name="selected_wallet_count" platform="android, iOS">已选择 %1$d 个钱包</string>
   <string name="Importing_into_your_wallet" platform="android, iOS">正在导入你的钱包…</string>
   <string name="delete_wallet_title" platform="android, iOS">请输入 PIN 以移除钱包</string>
-  <string name="delete_wallet_description" platform="android, iOS">移除此钱包不会影响你的资产，请确保你的私钥或助记词已备份。</string>
+  <string name="delete_common_wallet_description" platform="android, iOS">移除此钱包不会影响你的资产，请确保你的私钥或助记词已备份。</string>
+  <string name="delete_watch_wallet_description" platform="android, iOS">这是一个观察钱包，移除此钱包不会影响你的资产。</string>
   <string name="Rename_Wallet" platform="android, iOS">重命名钱包</string>
   <string name="Delete_Wallet" platform="android, iOS">删除钱包</string>
   <string name="Watch_address" platform="android, iOS">观察 %1$s</string>
