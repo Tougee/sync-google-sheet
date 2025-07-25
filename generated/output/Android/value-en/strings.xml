@@ -36,6 +36,7 @@
 	<string name="Add_conversations">Add Conversations</string>
 	<string name="add_credit_or_debit_card">Add credit or debit card</string>
 	<string name="Add_emergency_contact">Add recovery contact</string>
+	<string name="Add_Failed">Add Failed</string>
 	<string name="Add_group_description">Add group description</string>
 	<string name="Add_Mobile_Number">Add Mobile Number</string>
 	<string name="add_or_remove_favorite_bots">Add or remove favorite bots</string>
@@ -466,7 +467,6 @@
 	<string name="continue_with_pin">Continue with PIN</string>
 	<string name="Contract">Contract</string>
 	<string name="Contract_Address">Contract Address</string>
-	<string name="contract_exchange_address_not_supported">Contract or exchange addresses is not supported for watching</string>
 	<string name="Convenience">Convenience</string>
 	<string name="Conversation">Conversation</string>
 	<string name="conversation_delete_tip">Once deleted, all this chat messages will be cleared</string>
@@ -687,6 +687,8 @@
 	<string name="error_too_many_friends">ERROR 20128: Too many friends</string>
 	<string name="error_too_many_request">ERROR 429: Rate limit exceeded</string>
 	<string name="error_too_many_stickers">ERROR 20126: Too many stickers</string>
+	<string name="error_too_many_wallets">ERROR 10632: You have reached the maximum number of imported wallets.</string>
+	<string name="error_too_many_wallets_upgrade">ERROR 10632: You have reached the maximum number of imported wallets. Please upgrade your membership to add more.</string>
 	<string name="error_too_small_transfer_amount">ERROR 20120: Transfer amount is too small</string>
 	<string name="error_too_small_withdraw_amount">ERROR 20127: Withdraw amount too small</string>
 	<string name="error_transcript_forward">Please forward all attachments after they have been downloaded</string>
@@ -698,6 +700,7 @@
 	<string name="error_use_card_same_time">ERROR 10605: Card anomaly, please try correct card later</string>
 	<string name="error_used_phone">ERROR 20122: This phone number is already associated with another account.</string>
 	<string name="error_user_invalid_format">Invalid user id</string>
+	<string name="error_watch_address_not_supported">ERROR 10633: Contract or exchange addresses is not supported for watching</string>
 	<string name="error_withdrawal_memo_format_incorrect">ERROR 20131: Withdrawal memo format incorrect.</string>
 	<string name="error_withdrawal_suspend">ERROR 20137: Withdrawal suspend.</string>
 	<string name="estimated_balance_change">Balance Change (estimate)</string>
@@ -1623,8 +1626,6 @@
 	<string name="Today">Today</string>
 	<string name="Token">Token</string>
 	<string name="token_amount">Token Amount</string>
-	<string name="too_many_wallets">ERROR 10632: You have reached the maximum number of imported wallets.</string>
-	<string name="too_many_wallets_upgrade">ERROR 10632: You have reached the maximum number of imported wallets. Please upgrade your membership to add more.</string>
 	<string name="top_count">Top %1$d</string>
 	<string name="total">Total</string>
 	<string name="Total_Amount">Total Amount</string>

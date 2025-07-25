@@ -18,6 +18,7 @@
 "add_contact" = "友だちを追加";
 "add_conversations" = "チャットルームを追加";
 "add_emergency_contact" = "Add recovery contact";
+"add_failed" = "Add Failed";
 "add_mobile_number" = "Add Mobile Number";
 "add_or_remove_favorite_bots" = "Add or remove favorite bots";
 "add_participants" = "メンバーを追加";
@@ -389,7 +390,6 @@
 "continue_with_pin" = "Continue with PIN";
 "contract" = "Contract";
 "contract_address" = "Contract Address";
-"contract_exchange_address_not_supported" = "Contract or exchange addresses is not supported for watching";
 "convenience" = "Convenience";
 "conversation" = "チャットルーム";
 "conversation_has_too_many_circles" = "グループリスト数を減らしてください";
@@ -578,11 +578,14 @@
 "error_too_many_friends" = "エラー20128：友だちが多すぎます";
 "error_too_many_request" = "エラー 429：レート制限を超過しています";
 "error_too_many_stickers" = "エラー 20126：スタンプが多すぎます";
+"error_too_many_wallets" = "ERROR 10632: You have reached the maximum number of imported wallets.";
+"error_too_many_wallets_upgrade" = "ERROR 10632: You have reached the maximum number of imported wallets. Please upgrade your membership to add more.";
 "error_too_small_transfer_amount" = "送金数量が小さすぎます";
 "error_too_small_withdraw_amount" = "エラー 20127：出金額が小さすぎます";
 "error_transfer_is_already_paid" = "エラー 20125：すでに支払われています";
 "error_two_parts" = "エラー %@：%@";
 "error_used_phone" = "エラー20122：この電話番号はすでに他のアカウントと紐づけられています";
+"error_watch_address_not_supported" = "ERROR 10633: Contract or exchange addresses is not supported for watching";
 "error_withdrawal_memo_format_incorrect" = "エラー20131：出金メモのフォーマットが不正確です";
 "error_withdrawal_suspend" = "ERROR 20137: Withdrawal suspend.";
 "estimated_balance_change" = "Balance Change (estimate)";
@@ -1378,8 +1381,6 @@
 "to" = "宛先";
 "today" = "今日";
 "token" = "Token";
-"too_many_wallets" = "ERROR 10632: You have reached the maximum number of imported wallets.";
-"too_many_wallets_upgrade" = "ERROR 10632: You have reached the maximum number of imported wallets. Please upgrade your membership to add more.";
 "top_count" = "Top %d";
 "total" = "Total";
 "total_amount" = "Total Amount";

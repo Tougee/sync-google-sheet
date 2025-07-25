@@ -36,6 +36,7 @@
 	<string name="Add_conversations">添加會話</string>
 	<string name="add_credit_or_debit_card">添加信用卡或借記卡</string>
 	<string name="Add_emergency_contact">添加恢復聯繫人</string>
+	<string name="Add_Failed">添加失敗</string>
 	<string name="Add_group_description">添加羣公告</string>
 	<string name="Add_Mobile_Number">添加手機號碼</string>
 	<string name="add_or_remove_favorite_bots">添加或刪除收藏的機器人</string>
@@ -461,7 +462,6 @@
 	<string name="continue_with_pin">輸入 PIN 繼續</string>
 	<string name="Contract">合約</string>
 	<string name="Contract_Address">合約地址</string>
-	<string name="contract_exchange_address_not_supported">當前地址為合約地址或交易所地址，暫不支持觀察。</string>
 	<string name="Convenience">便利</string>
 	<string name="Conversation">會話</string>
 	<string name="conversation_delete_tip">刪除後，將同時清空該聊天的消息記錄</string>
@@ -678,6 +678,8 @@
 	<string name="error_too_many_friends">錯誤 20128：好友數已達上限</string>
 	<string name="error_too_many_request">錯誤 429：請求過於頻繁</string>
 	<string name="error_too_many_stickers">錯誤 20126：貼紙數已達上限</string>
+	<string name="error_too_many_wallets">錯誤 10632：導入錢包已達上限。</string>
+	<string name="error_too_many_wallets_upgrade">錯誤 10632：導入錢包已達上限，請升級會員以添加更多錢包。</string>
 	<string name="error_too_small_transfer_amount">錯誤 20120：轉賬金額太小</string>
 	<string name="error_too_small_withdraw_amount">錯誤 20127：提現金額太小</string>
 	<string name="error_transcript_forward">請在所有附件下載完成之後再轉發</string>
@@ -689,6 +691,7 @@
 	<string name="error_use_card_same_time">錯誤 10605: 卡片異常，請稍後嘗試正確的卡片</string>
 	<string name="error_used_phone">錯誤 20122：電話號碼已經被佔用。</string>
 	<string name="error_user_invalid_format">用户數據不合法</string>
+	<string name="error_watch_address_not_supported">錯誤 10633：當前地址為合約地址或交易所地址，暫不支持觀察。</string>
 	<string name="error_withdrawal_memo_format_incorrect">錯誤 20131：提現備註格式不正確</string>
 	<string name="error_withdrawal_suspend">錯誤 20137：提現暫停</string>
 	<string name="estimated_balance_change">餘額變動（預估）</string>
@@ -1602,8 +1605,6 @@
 	<string name="Today">今天</string>
 	<string name="Token">代幣</string>
 	<string name="token_amount">代幣總數</string>
-	<string name="too_many_wallets">錯誤 10632：導入錢包已達上限。</string>
-	<string name="too_many_wallets_upgrade">錯誤 10632：導入錢包已達上限，請升級會員以添加更多錢包。</string>
 	<string name="top_count">前 %1$d</string>
 	<string name="total">共計</string>
 	<string name="Total_Amount">總金額</string>
