@@ -2348,4 +2348,5 @@
   <string name="Import_Failed" platform="android, iOS">Import Failed</string>
   <string name="Add_Failed" platform="android, iOS">Add Failed</string>
   <string name="Partial_Import_Successful" platform="android, iOS">Partial Import Successful</string>
+  <string name="Use_Another_Address" platform="android, iOS">Use Another Address</string>
 </resources>
