@@ -2310,13 +2310,14 @@
   <string name="Add_Watch_Address" platform="android, iOS">添加观察地址</string>
   <string name="add_watch_address_description" platform="android, iOS">追踪公开钱包地址</string>
   <string name="Type_your_wallet_address" platform="android, iOS">请输入钱包地址</string>
-  <string name="contract_exchange_address_not_supported" platform="android, iOS">当前地址为合约地址或交易所地址，暂不支持观察。</string>
+  <string name="error_watch_address_not_supported" platform="android, iOS">错误 10633：当前地址为合约地址或交易所地址，暂不支持观察。</string>
   <string name="watch_wallet_index" platform="android, iOS">观察钱包 %1$d</string>
   <string name="Watching" platform="android, iOS">观察</string>
   <string name="wallet_summary_tip" platform="android, iOS">观察钱包、隐藏的资产不计入统计</string>
   <string name="wallet_already_added" platform="android, iOS">这个钱包已经添加过了</string>
-  <string name="too_many_wallets_upgrade" platform="android, iOS">错误 10632：导入钱包已达上限，请升级会员以添加更多钱包。</string>
-  <string name="too_many_wallets" platform="android, iOS">错误 10632：导入钱包已达上限。</string>
+  <string name="error_too_many_wallets_upgrade" platform="android, iOS">错误 10632：导入钱包已达上限，请升级会员以添加更多钱包。</string>
+  <string name="error_too_many_wallets" platform="android, iOS">错误 10632：导入钱包已达上限。</string>
   <string name="Import_Failed" platform="android, iOS">导入失败</string>
+  <string name="Add_Failed" platform="android, iOS">添加失败</string>
   <string name="Partial_Import_Successful" platform="android, iOS">部分导入成功</string>
 </resources>
