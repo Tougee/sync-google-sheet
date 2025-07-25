@@ -818,6 +818,7 @@
 	<string name="Immediately">Immediately</string>
 	<string name="Import">Import</string>
 	<string name="import_chat_history">Import</string>
+	<string name="Import_Failed">Import Failed</string>
 	<string name="Import_Mnemonic_Phrase">Import Mnemonic Phrase</string>
 	<string name="Import_Private_Key">Import Private Key</string>
 	<string name="import_selected_wallet">Import Selected Wallets</string>
@@ -1136,6 +1137,7 @@
 	<string name="Paid">Paid</string>
 	<string name="paid_recovery_service">Paid Recovery Service</string>
 	<string name="parse_dns_result">Parse DNS result: </string>
+	<string name="Partial_Import_Successful">Partial Import Successful</string>
 	<string name="Participants">Participants</string>
 	<string name="Paste">Paste</string>
 	<string name="Pause">Pause</string>

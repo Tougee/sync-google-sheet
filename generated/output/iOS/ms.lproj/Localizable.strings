@@ -669,6 +669,7 @@
 "image" = "image";
 "immediately" = "Immediately";
 "import" = "Import";
+"import_failed" = "Import Failed";
 "import_mnemonic_phrase" = "Import Mnemonic Phrase";
 "import_private_key" = "Import Private Key";
 "import_selected_wallet" = "Import Selected Wallets";
@@ -949,6 +950,7 @@
 "owner" = "pemilik";
 "paid" = "Paid";
 "paid_recovery_service" = "Paid Recovery Service";
+"partial_import_successful" = "Partial Import Successful";
 "participants" = "Peserta";
 "participants_count" = "%@ PARTICIPANTS";
 "paste" = "Paste";

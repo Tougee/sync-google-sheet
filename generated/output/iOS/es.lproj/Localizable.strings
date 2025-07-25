@@ -669,6 +669,7 @@
 "image" = "imagen";
 "immediately" = "Inmediatamente";
 "import" = "Importar";
+"import_failed" = "Import Failed";
 "import_mnemonic_phrase" = "Import Mnemonic Phrase";
 "import_private_key" = "Import Private Key";
 "import_selected_wallet" = "Import Selected Wallets";
@@ -949,6 +950,7 @@
 "owner" = "Propietario";
 "paid" = "Paid";
 "paid_recovery_service" = "Paid Recovery Service";
+"partial_import_successful" = "Partial Import Successful";
 "participants" = "Participantes";
 "participants_count" = "%@ PARTICIPANTES";
 "paste" = "Paste";

@@ -669,6 +669,7 @@
 "image" = "图像";
 "immediately" = "立刻";
 "import" = "导入";
+"import_failed" = "导入失败";
 "import_mnemonic_phrase" = "导入助记词";
 "import_private_key" = "导入私钥";
 "import_selected_wallet" = "导入选中的钱包";
@@ -949,6 +950,7 @@
 "owner" = "群主";
 "paid" = "已支付";
 "paid_recovery_service" = "收费的资产恢复服务";
+"partial_import_successful" = "部分导入成功";
 "participants" = "成员";
 "participants_count" = "%@ 位群组成员";
 "paste" = "粘贴";

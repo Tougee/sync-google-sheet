@@ -2317,4 +2317,6 @@
   <string name="wallet_already_added" platform="android, iOS">這個錢包已經添加過了</string>
   <string name="too_many_wallets_upgrade" platform="android, iOS">錯誤 10632：導入錢包已達上限，請升級會員以添加更多錢包。</string>
   <string name="too_many_wallets" platform="android, iOS">錯誤 10632：導入錢包已達上限。</string>
+  <string name="Import_Failed" platform="android, iOS">導入失敗</string>
+  <string name="Partial_Import_Successful" platform="android, iOS">部分導入成功</string>
 </resources>

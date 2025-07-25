@@ -669,6 +669,7 @@
 "image" = "圖像";
 "immediately" = "立刻";
 "import" = "導入";
+"import_failed" = "導入失敗";
 "import_mnemonic_phrase" = "導入助記詞";
 "import_private_key" = "導入私鑰";
 "import_selected_wallet" = "導入選中的錢包";
@@ -949,6 +950,7 @@
 "owner" = "羣主";
 "paid" = "已支付";
 "paid_recovery_service" = "收費的資產恢復服務";
+"partial_import_successful" = "部分導入成功";
 "participants" = "成員";
 "participants_count" = "%@ 位羣組成員";
 "paste" = "粘貼";

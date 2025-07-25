@@ -806,6 +806,7 @@
 	<string name="Immediately">立刻</string>
 	<string name="Import">導入</string>
 	<string name="import_chat_history">導入聊天記錄</string>
+	<string name="Import_Failed">導入失敗</string>
 	<string name="Import_Mnemonic_Phrase">導入助記詞</string>
 	<string name="Import_Private_Key">導入私鑰</string>
 	<string name="import_selected_wallet">導入選中的錢包</string>
@@ -1118,6 +1119,7 @@
 	<string name="Paid">已支付</string>
 	<string name="paid_recovery_service">收費的資產恢復服務</string>
 	<string name="parse_dns_result">解析 DNS 結果</string>
+	<string name="Partial_Import_Successful">部分導入成功</string>
 	<string name="Participants">成員</string>
 	<string name="Paste">粘貼</string>
 	<string name="Pause">暫停</string>
