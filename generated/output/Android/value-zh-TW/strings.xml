@@ -73,7 +73,6 @@
 	<string name="address_added">地址已新增</string>
 	<string name="address_added_description">地址已新增，您可以立刻使用該地址進行提現。</string>
 	<string name="address_adding_description">正在新增地址，請稍候。</string>
-	<string name="address_already_exists">該地址已存在於你的錢包中</string>
 	<string name="Address_Book">地址簿</string>
 	<string name="address_deleted">地址已刪除</string>
 	<string name="address_deleted_description">地址已刪除。</string>
@@ -1783,6 +1782,7 @@
 	<string name="Wallet">錢包</string>
 	<string name="wallet_add_asset_already_hidden">資產 %1$s 已被你隱藏，要在錢包首頁立刻顯示？</string>
 	<string name="wallet_address_add_tip">Mixin 不支援提現到</string>
+	<string name="wallet_already_added">這個錢包已經新增過了</string>
 	<string name="wallet_already_hidden">已隱藏 %1$s</string>
 	<string name="wallet_already_shown">已顯示 %1$s</string>
 	<string name="wallet_biometric_invalid">生物識別失效，請重新設定。</string>

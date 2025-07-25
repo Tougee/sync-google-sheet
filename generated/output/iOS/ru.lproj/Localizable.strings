@@ -49,7 +49,6 @@
 "address_added" = "Address Added";
 "address_added_description" = "Address has been added. You can immediately use this address for withdrawals.";
 "address_adding_description" = "The request to add the address is currently under verification by the Mixin server. Please wait a moment.";
-"address_already_exists" = "This address already exists in your wallet";
 "address_book" = "Address Book";
 "address_deleted" = "Address Deleted";
 "address_edited" = "Address Edited";
@@ -1538,6 +1537,7 @@
 "waiting_transaction" = "Waiting Transaction";
 "waiting_transaction_description" = "You have a transfer or withdrawal has not been completed, please try again later";
 "wallet" = "Wallet";
+"wallet_already_added" = "This wallet has already been added";
 "wallet_candidate_imported" = "Imported";
 "wallet_enable_biometric_pay" = "После включения, %@ можно использовать для быстрой передачи.";
 "wallet_hide_asset_confirmation" = "Вы уверены, что хотите скрыть %@?";

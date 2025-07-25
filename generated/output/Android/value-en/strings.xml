@@ -73,7 +73,6 @@
 	<string name="address_added">Address Added</string>
 	<string name="address_added_description">Address has been added. You can immediately use this address for withdrawals.</string>
 	<string name="address_adding_description">The request to add the address is currently under verification by the Mixin server. Please wait a moment.</string>
-	<string name="address_already_exists">This address already exists in your wallet</string>
 	<string name="Address_Book">Address Book</string>
 	<string name="address_deleted">Address Deleted</string>
 	<string name="address_deleted_description">Address deleted.</string>
@@ -1805,6 +1804,7 @@
 	<string name="Wallet">Wallet</string>
 	<string name="wallet_add_asset_already_hidden">Assets %1$s have been hidden by you, want to show them immediately on the wallet homepage?</string>
 	<string name="wallet_address_add_tip">Mixin does not support withdrawal to the</string>
+	<string name="wallet_already_added">This wallet has already been added</string>
 	<string name="wallet_already_hidden">%1$s has been hidden</string>
 	<string name="wallet_already_shown">%1$s has been shown</string>
 	<string name="wallet_biometric_invalid">Invalid biometrics state, please reset in wallet setting.</string>
