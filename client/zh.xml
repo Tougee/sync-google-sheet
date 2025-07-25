@@ -2315,4 +2315,6 @@
   <string name="Watching" platform="android, iOS">观察</string>
   <string name="wallet_summary_tip" platform="android, iOS">观察钱包、隐藏的资产不计入统计</string>
   <string name="wallet_already_added" platform="android, iOS">这个钱包已经添加过了</string>
+  <string name="too_many_wallets_upgrade" platform="android, iOS">错误 10632：导入钱包已达上限，请升级会员以添加更多钱包。</string>
+  <string name="too_many_wallets" platform="android, iOS">错误 10632：导入钱包已达上限。</string>
 </resources>

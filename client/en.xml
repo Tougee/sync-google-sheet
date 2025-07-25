@@ -2343,4 +2343,6 @@
   <string name="Watching" platform="android, iOS">Watching</string>
   <string name="wallet_summary_tip" platform="android, iOS">Watch wallets and hidden assets are excluded from the total</string>
   <string name="wallet_already_added" platform="android, iOS">This wallet has already been added</string>
+  <string name="too_many_wallets_upgrade" platform="android, iOS">ERROR 10632: You have reached the maximum number of imported wallets. Please upgrade your membership to add more.</string>
+  <string name="too_many_wallets" platform="android, iOS">ERROR 10632: You have reached the maximum number of imported wallets.</string>
 </resources>
