@@ -1505,6 +1505,7 @@
 "url_support" = "https://support.mixin.one/zh/";
 "url_unrecognized_hint" = "%@ 识别失败，请升级至 Mixin 最新版本或联系开发者检查链接";
 "url_unsupported_message" = "https://support.mixin.one/zh/article/mixin-h92cxa/";
+"use_another_address" = "换个地址";
 "use_biometry" = "采用%@";
 "use_system_text_size" = "跟随系统字体大小";
 "user_delete_hint" = "该用户已经删除了账号。";

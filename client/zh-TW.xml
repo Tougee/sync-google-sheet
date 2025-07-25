@@ -2320,4 +2320,5 @@
   <string name="Import_Failed" platform="android, iOS">匯入失敗</string>
   <string name="Add_Failed" platform="android, iOS">新增失敗</string>
   <string name="Partial_Import_Successful" platform="android, iOS">部分匯入成功</string>
+  <string name="Use_Another_Address" platform="android, iOS">換個地址</string>
 </resources>
