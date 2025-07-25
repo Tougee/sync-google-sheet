@@ -1621,6 +1621,8 @@
 	<string name="Today">Today</string>
 	<string name="Token">Token</string>
 	<string name="token_amount">Token Amount</string>
+	<string name="too_many_wallets">ERROR 10632: You have reached the maximum number of imported wallets.</string>
+	<string name="too_many_wallets_upgrade">ERROR 10632: You have reached the maximum number of imported wallets. Please upgrade your membership to add more.</string>
 	<string name="top_count">Top %1$d</string>
 	<string name="total">Total</string>
 	<string name="Total_Amount">Total Amount</string>

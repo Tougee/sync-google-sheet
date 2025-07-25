@@ -1376,6 +1376,8 @@
 "to" = "至";
 "today" = "今天";
 "token" = "代币";
+"too_many_wallets" = "错误 10632：导入钱包已达上限。";
+"too_many_wallets_upgrade" = "错误 10632：导入钱包已达上限，请升级会员以添加更多钱包。";
 "top_count" = "前 %d";
 "total" = "共计";
 "total_amount" = "总金额";

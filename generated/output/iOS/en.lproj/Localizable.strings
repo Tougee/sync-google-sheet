@@ -1376,6 +1376,8 @@
 "to" = "To";
 "today" = "Today";
 "token" = "Token";
+"too_many_wallets" = "ERROR 10632: You have reached the maximum number of imported wallets.";
+"too_many_wallets_upgrade" = "ERROR 10632: You have reached the maximum number of imported wallets. Please upgrade your membership to add more.";
 "top_count" = "Top %d";
 "total" = "Total";
 "total_amount" = "Total Amount";

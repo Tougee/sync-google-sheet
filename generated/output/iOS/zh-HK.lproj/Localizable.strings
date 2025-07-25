@@ -1376,6 +1376,8 @@
 "to" = "至";
 "today" = "今天";
 "token" = "代幣";
+"too_many_wallets" = "錯誤 10632：導入錢包已達上限。";
+"too_many_wallets_upgrade" = "錯誤 10632：導入錢包已達上限，請升級會員以添加更多錢包。";
 "top_count" = "前 %d";
 "total" = "共計";
 "total_amount" = "總金額";

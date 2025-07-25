@@ -1600,6 +1600,8 @@
 	<string name="Today">今天</string>
 	<string name="Token">代币</string>
 	<string name="token_amount">代币总数</string>
+	<string name="too_many_wallets">错误 10632：导入钱包已达上限。</string>
+	<string name="too_many_wallets_upgrade">错误 10632：导入钱包已达上限，请升级会员以添加更多钱包。</string>
 	<string name="top_count">前 %1$d</string>
 	<string name="total">共计</string>
 	<string name="Total_Amount">总金额</string>
