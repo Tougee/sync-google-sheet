@@ -441,7 +441,7 @@
 "delete_address_description" = "确认删除该地址吗？";
 "delete_chat" = "删除聊天";
 "delete_circle" = "删除圈子";
-"delete_common_wallet_description" = "移除此钱包不会影响你的资产，请确保你的私钥或助记词已备份。";
+"delete_common_wallet_description" = "在删除钱包之前，请确保您已写下助记词或私钥。否则，您将无法恢复钱包。";
 "delete_contact_chat_confirmation" = "删除与\"%@\"的会话并清空聊天记录？";
 "delete_emergency_contact" = "删除恢复联系人";
 "delete_for_everyone" = "撤回";

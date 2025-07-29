@@ -441,7 +441,7 @@
 "delete_address_description" = "Are you sure to delete this address?";
 "delete_chat" = "Удалить чат";
 "delete_circle" = "Удалить круг";
-"delete_common_wallet_description" = "Deleting this wallet will not affect your assets. Please make sure your private key or mnemonic phrase is backed up.";
+"delete_common_wallet_description" = "Make sure you've written down the recovery phrase or private key before removing the wallet. Otherwise you won't be able to recover the wallet.";
 "delete_contact_chat_confirmation" = "Удалить чат с %@?";
 "delete_emergency_contact" = "Delete recovery contact";
 "delete_for_everyone" = "Удалить для всех";

@@ -510,7 +510,7 @@
 	<string name="Delete_address">删除地址</string>
 	<string name="delete_address_description">确认删除该地址吗？</string>
 	<string name="delete_by_pin">通过 PIN 删除</string>
-	<string name="delete_common_wallet_description">移除此钱包不会影响你的资产，请确保你的私钥或助记词已备份。</string>
+	<string name="delete_common_wallet_description">在删除钱包之前，请确保您已写下助记词或私钥。否则，您将无法恢复钱包。</string>
 	<string name="Delete_emergency_contact">删除恢复联系人</string>
 	<string name="Delete_for_everyone">撤回</string>
 	<string name="Delete_for_me">删除</string>
