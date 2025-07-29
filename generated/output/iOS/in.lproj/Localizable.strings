@@ -1422,9 +1422,11 @@
 "transfer_to_another_phone" = "Transfer to Another Phone";
 "transfer_to_another_phone_hint" = "Transfer your chat history to another device";
 "transfer_to_mixin_address" = "Transfer ke alamat Mixin";
+"transfer_to_no_key_wallet_warning" = "This wallet has no private key on this device. Are you sure you want to use it to receive assets?";
 "transfer_to_pc" = "Transfer to PC";
 "transfer_to_pc_hint" = "Synchronize your chat history to the Mixin Messenger desktop version. Please make sure both devices are connected to the same Wi-Fi or hotspot.";
 "transfer_to_user_or_bot" = "Transfer ke pengguna atau bot";
+"transfer_to_watch_wallet_warning" = "This is a watch-only wallet. Are you sure you want to use it to receive assets?";
 "transferring_chat_progress" = "Transferring Chat (%@%%)";
 "trending" = "Trending";
 "try_again" = "Coba lagi";

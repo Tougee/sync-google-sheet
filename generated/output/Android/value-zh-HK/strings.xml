@@ -1646,8 +1646,10 @@
 	<string name="transfer_to">轉賬給 %1$s</string>
 	<string name="Transfer_to_Another_Phone">備份到另一台手機</string>
 	<string name="Transfer_to_Another_Phone_Hint">備份你的聊天記錄到另一台設備</string>
+	<string name="transfer_to_no_key_wallet_warning">該錢包在此設備上沒有私鑰。你確定要使用它來接收資產嗎？</string>
 	<string name="Transfer_to_PC">備份到桌面端</string>
 	<string name="Transfer_to_PC_Hint">同步你的聊天記錄到 Mixin Messenger 桌面端，請確保兩台設備接入同一個 Wi-Fi 或熱點。</string>
+	<string name="transfer_to_watch_wallet_warning">這是一個觀察錢包。你確定要使用它來接收資產嗎？</string>
 	<string name="transfer_without_pin">轉賬前請先設置 PIN</string>
 	<string name="Transferring_chat_Progress">傳輸聊天記錄（%1$s%%）</string>
 	<string name="Trending">熱門資產</string>

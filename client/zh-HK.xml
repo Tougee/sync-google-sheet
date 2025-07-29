@@ -2321,4 +2321,6 @@
   <string name="Add_Failed" platform="android, iOS">添加失敗</string>
   <string name="Partial_Import_Successful" platform="android, iOS">部分導入成功</string>
   <string name="Use_Another_Address" platform="android, iOS">換個地址</string>
+  <string name="transfer_to_watch_wallet_warning" platform="android, iOS">這是一個觀察錢包。你確定要使用它來接收資產嗎？</string>
+  <string name="transfer_to_no_key_wallet_warning" platform="android, iOS">該錢包在此設備上沒有私鑰。你確定要使用它來接收資產嗎？</string>
 </resources>
