@@ -2349,4 +2349,6 @@
   <string name="Add_Failed" platform="android, iOS">Add Failed</string>
   <string name="Partial_Import_Successful" platform="android, iOS">Partial Import Successful</string>
   <string name="Use_Another_Address" platform="android, iOS">Use Another Address</string>
+  <string name="transfer_to_watch_wallet_warning" platform="android, iOS">This is a watch-only wallet. Are you sure you want to use it to receive assets?</string>
+  <string name="transfer_to_no_key_wallet_warning" platform="android, iOS">This wallet has no private key on this device. Are you sure you want to use it to receive assets?</string>
 </resources>
