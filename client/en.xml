@@ -2305,7 +2305,7 @@
   <string name="selected_wallet_count" platform="android, iOS">%1$d wallets selected</string>
   <string name="Importing_into_your_wallet" platform="android, iOS">Importing into your wallet…</string>
   <string name="delete_wallet_title" platform="android, iOS">Enter your PIN to remove wallet</string>
-  <string name="delete_common_wallet_description" platform="android, iOS">Deleting this wallet will not affect your assets. Please make sure your private key or mnemonic phrase is backed up.</string>
+  <string name="delete_common_wallet_description" platform="android, iOS">Make sure you've written down the recovery phrase or private key before removing the wallet. Otherwise you won't be able to recover the wallet.</string>
   <string name="delete_watch_wallet_description" platform="android, iOS">Deleting this wallet will not affect your assets, as it is a watch-only wallet.</string>
   <string name="Rename_Wallet" platform="android, iOS">Rename Wallet</string>
   <string name="Delete_Wallet" platform="android, iOS">Delete Wallet</string>
