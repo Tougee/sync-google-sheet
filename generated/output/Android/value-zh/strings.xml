@@ -398,7 +398,7 @@
 	<string name="Combine_and_forward">合并转发</string>
 	<string name="Combine_utxo">归集 UTXO</string>
 	<string name="Common_Wallet">普通钱包</string>
-	<string name="common_wallet_index">普通钱包 %1$d</string>
+	<string name="common_wallet_index">普通钱包 %1$s</string>
 	<string name="Complete">完成</string>
 	<string name="Completed">已完成</string>
 	<string name="Confirm">确认</string>
@@ -1240,7 +1240,7 @@
 	<string name="Receive">充值</string>
 	<string name="RECEIVE">充值</string>
 	<string name="receive_from_address_description">通过区块链网络从其他交易所或链上钱包接收</string>
-	<string name="receive_from_privacy_wallets_description">通过区块链网络从我的另一个钱包接收</string>
+	<string name="receive_from_other_wallets_description">通过区块链网络从我的另一个钱包接收</string>
 	<string name="Receive_Money">我的收款码</string>
 	<string name="Received">收到</string>
 	<string name="Receiver">至</string>
@@ -1823,7 +1823,7 @@
 	<string name="wallet_withdrawal_recent_tip">你已经在 %1$s 前提现 %3$s 到 %2$s，确认还要再提一次吗？</string>
 	<string name="Wallets">钱包</string>
 	<string name="Watch_address">观察 %1$s</string>
-	<string name="watch_wallet_index">观察钱包 %1$d</string>
+	<string name="watch_wallet_index">观察钱包 %1$s</string>
 	<string name="Watching">观察</string>
 	<string name="Watchlist">自选</string>
 	<string name="watchlist_add_desc">%1$s 已经加入自选</string>

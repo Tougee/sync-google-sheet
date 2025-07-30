@@ -403,7 +403,7 @@
 	<string name="Combine_and_forward">Combine and forward</string>
 	<string name="Combine_utxo">Combine UTXOs</string>
 	<string name="Common_Wallet">Common Wallet</string>
-	<string name="common_wallet_index">Common Wallet %1$d</string>
+	<string name="common_wallet_index">Common Wallet %1$s</string>
 	<string name="Complete">Complete</string>
 	<string name="Completed">Completed</string>
 	<string name="Confirm">Confirm</string>
@@ -1259,7 +1259,7 @@
 	<string name="Receive">Receive</string>
 	<string name="RECEIVE">Receive</string>
 	<string name="receive_from_address_description">Receive from other exchange or on-chain wallet using a crypto network</string>
-	<string name="receive_from_privacy_wallets_description">Receive from my other wallet using a crypto network</string>
+	<string name="receive_from_other_wallets_description">Receive from my other wallet using a crypto network</string>
 	<string name="Receive_Money">Receive Money</string>
 	<string name="Received">received</string>
 	<string name="Receiver">Receiver</string>
@@ -1845,7 +1845,7 @@
 	<string name="wallet_withdrawal_recent_tip">You have already withdrawn %3$s to %2$s %1$s ago, Do you want to withdraw it again?</string>
 	<string name="Wallets">Wallets</string>
 	<string name="Watch_address">Watch %1$s</string>
-	<string name="watch_wallet_index">Watch Wallet %1$d</string>
+	<string name="watch_wallet_index">Watch Wallet %1$s</string>
 	<string name="Watching">Watching</string>
 	<string name="Watchlist">Watchlist</string>
 	<string name="watchlist_add_desc">%1$s is now on your watchlist</string>
