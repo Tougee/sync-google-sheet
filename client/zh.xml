@@ -1810,7 +1810,7 @@
   <string name="no_collectibles" platform="android, iOS">没有藏品</string>
   <string name="From_Mixin_Wallet" platform="android, iOS">从 Mixin 钱包转入</string>
   <string name="From_Address" platform="android, iOS">从外部转入</string>
-  <string name="receive_from_privacy_wallets_description" platform="android, iOS">通过区块链网络从我的另一个钱包接收</string>
+  <string name="receive_from_other_wallets_description" platform="android, iOS">通过区块链网络从我的另一个钱包接收</string>
   <string name="receive_from_address_description" platform="android, iOS">通过区块链网络从其他交易所或链上钱包接收</string>
   <string name="Review" platform="android, iOS">预览</string>
   <string name="Max" platform="android, iOS">最大值</string>
@@ -2267,7 +2267,7 @@
   <string name="mixin_one_desc" platform="android, iOS">开启您的 Mixin 会员之旅</string>
   <string name="not_a_group_member" platform="android, iOS">你已不再是该群组的成员</string>
   <string name="Add_Wallet" platform="android, iOS">添加钱包</string>
-  <string name="common_wallet_index" platform="android, iOS">普通钱包 %1$d</string>
+  <string name="common_wallet_index" platform="android, iOS">普通钱包 %1$s</string>
   <string name="Fetching_in_to_your_wallet" platform="android, iOS">正在查找你的钱包…</string>
   <string name="Import_Mnemonic_Phrase" platform="android, iOS">导入助记词</string>
   <string name="Import_wallets_from_another_wallet" platform="android, iOS">从其他钱包导入钱包</string>
@@ -2311,7 +2311,7 @@
   <string name="add_watch_address_description" platform="android, iOS">追踪公开钱包地址</string>
   <string name="Type_your_wallet_address" platform="android, iOS">请输入钱包地址</string>
   <string name="error_watch_address_not_supported" platform="android, iOS">错误 10633：当前地址为合约地址或交易所地址，暂不支持观察。</string>
-  <string name="watch_wallet_index" platform="android, iOS">观察钱包 %1$d</string>
+  <string name="watch_wallet_index" platform="android, iOS">观察钱包 %1$s</string>
   <string name="Watching" platform="android, iOS">观察</string>
   <string name="wallet_summary_tip" platform="android, iOS">观察钱包、隐藏的资产不计入统计</string>
   <string name="wallet_already_added" platform="android, iOS">这个钱包已经添加过了</string>

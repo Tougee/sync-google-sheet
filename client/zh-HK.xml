@@ -1810,7 +1810,7 @@
   <string name="no_collectibles" platform="android, iOS">沒有藏品</string>
   <string name="From_Mixin_Wallet" platform="android, iOS">從 Mixin 錢包轉入</string>
   <string name="From_Address" platform="android, iOS">從外部轉入</string>
-  <string name="receive_from_privacy_wallets_description" platform="android, iOS">通過區塊鏈網絡從我的另一個錢包接收</string>
+  <string name="receive_from_other_wallets_description" platform="android, iOS">通過區塊鏈網絡從我的另一個錢包接收</string>
   <string name="receive_from_address_description" platform="android, iOS">通過區塊鏈網絡從其他交易所或鏈上錢包接收</string>
   <string name="Review" platform="android, iOS">預覽</string>
   <string name="Max" platform="android, iOS">最大值</string>

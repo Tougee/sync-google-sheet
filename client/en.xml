@@ -1837,7 +1837,7 @@
   <string name="no_collectibles" platform="android, iOS">NO COLLECTIBLES</string>
   <string name="From_Mixin_Wallet" platform="android, iOS">From Mixin Wallet</string>
   <string name="From_Address" platform="android, iOS">From address</string>
-  <string name="receive_from_privacy_wallets_description" platform="android, iOS">Receive from my other wallet using a crypto network</string>
+  <string name="receive_from_other_wallets_description" platform="android, iOS">Receive from my other wallet using a crypto network</string>
   <string name="receive_from_address_description" platform="android, iOS">Receive from other exchange or on-chain wallet using a crypto network</string>
   <string name="Review" platform="android, iOS">Review</string>
   <string name="Max" platform="android, iOS">Max</string>
@@ -2295,7 +2295,7 @@
   <string name="mixin_one_desc" platform="android, iOS">Start your Mixin premium journey</string>
   <string name="not_a_group_member" platform="android, iOS">You're no longer a member in this group</string>
   <string name="Add_Wallet" platform="android, iOS">Add Wallet</string>
-  <string name="common_wallet_index" platform="android, iOS">Common Wallet %1$d</string>
+  <string name="common_wallet_index" platform="android, iOS">Common Wallet %1$s</string>
   <string name="Fetching_in_to_your_wallet" platform="android, iOS">Fetching in to your wallet…</string>
   <string name="Import_Mnemonic_Phrase" platform="android, iOS">Import Mnemonic Phrase</string>
   <string name="Import_wallets_from_another_wallet" platform="android, iOS">Import wallets from another wallet</string>
@@ -2339,7 +2339,7 @@
   <string name="add_watch_address_description" platform="android, iOS">Track any public wallet address</string>
   <string name="Type_your_wallet_address" platform="android, iOS">Type your wallet address</string>
   <string name="error_watch_address_not_supported" platform="android, iOS">ERROR 10633: Contract or exchange addresses is not supported for watching</string>
-  <string name="watch_wallet_index" platform="android, iOS">Watch Wallet %1$d</string>
+  <string name="watch_wallet_index" platform="android, iOS">Watch Wallet %1$s</string>
   <string name="Watching" platform="android, iOS">Watching</string>
   <string name="wallet_summary_tip" platform="android, iOS">Watch wallets and hidden assets are excluded from the total</string>
   <string name="wallet_already_added" platform="android, iOS">This wallet has already been added</string>
