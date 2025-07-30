@@ -811,7 +811,9 @@
 	<string name="import_chat_history">匯入聊天記錄</string>
 	<string name="Import_Failed">匯入失敗</string>
 	<string name="Import_Mnemonic_Phrase">匯入助記詞</string>
+	<string name="Import_Now">立即匯入</string>
 	<string name="Import_Private_Key">匯入私鑰</string>
+	<string name="import_secret_description">此裝置缺少該錢包的加密%1$s。請重新匯入以繼續操作。</string>
 	<string name="import_selected_wallet">匯入選中的錢包</string>
 	<string name="import_single_chain_wallet">匯入單鏈錢包</string>
 	<string name="import_wallet_count">匯入 %1$d 個錢包</string>
@@ -834,6 +836,7 @@
 	<string name="Invalid_mnemonic_phrase">助記詞無效</string>
 	<string name="Invalid_payment_link">無效支付資訊</string>
 	<string name="Invalid_QR_Code">無效的二維碼</string>
+	<string name="invalid_secret_for_wallet">匯入的%1$s與錢包不匹配，請重新匯入。</string>
 	<string name="Invalid_sticker_format">貼紙格式不支援</string>
 	<string name="invalid_tag_description">地址標籤（Tag）必須為非 0 的數字</string>
 	<string name="Invite_a_Friend">邀請好友</string>
@@ -1043,6 +1046,7 @@
 	<string name="No_fees">暫無手續費記錄</string>
 	<string name="NO_FILES">沒有檔案</string>
 	<string name="No_hidden_assets">沒有隱藏的資產</string>
+	<string name="No_key">缺少私鑰</string>
 	<string name="NO_LINKS">沒有連結</string>
 	<string name="No_logs">沒有日誌</string>
 	<string name="NO_MEDIA">沒有媒體</string>

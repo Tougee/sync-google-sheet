@@ -823,7 +823,9 @@
 	<string name="import_chat_history">Import</string>
 	<string name="Import_Failed">Import Failed</string>
 	<string name="Import_Mnemonic_Phrase">Import Mnemonic Phrase</string>
+	<string name="Import_Now">Import Now</string>
 	<string name="Import_Private_Key">Import Private Key</string>
+	<string name="import_secret_description">The encrypted %1$s for this wallet is missing from this device. Please re-import to continue. </string>
 	<string name="import_selected_wallet">Import Selected Wallets</string>
 	<string name="import_single_chain_wallet">Import a single-chain wallet</string>
 	<string name="import_wallet_count">Import %1$d Wallets</string>
@@ -846,6 +848,7 @@
 	<string name="Invalid_mnemonic_phrase">Invalid mnemonic phrase</string>
 	<string name="Invalid_payment_link">Invalid payment link</string>
 	<string name="Invalid_QR_Code">Invalid QR-Code</string>
+	<string name="invalid_secret_for_wallet">The %1$s does not match the selected wallet. Please try another.</string>
 	<string name="Invalid_sticker_format">Invalid sticker format</string>
 	<string name="invalid_tag_description">Tag must be a non-zero number</string>
 	<string name="Invite_a_Friend">Invite a Friend</string>
@@ -1061,6 +1064,7 @@
 	<string name="No_fees">No fees</string>
 	<string name="NO_FILES">NO FILES</string>
 	<string name="No_hidden_assets">No hidden assets</string>
+	<string name="No_key">No key</string>
 	<string name="NO_LINKS">NO LINKS</string>
 	<string name="No_logs">No logs</string>
 	<string name="NO_MEDIA">NO MEDIA</string>
