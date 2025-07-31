@@ -2351,7 +2351,7 @@
   <string name="Use_Another_Address" platform="android, iOS">Use Another Address</string>
   <string name="transfer_to_watch_wallet_warning" platform="android, iOS">This is a watch-only wallet. Are you sure you want to use it to receive assets?</string>
   <string name="transfer_to_no_key_wallet_warning" platform="android, iOS">This wallet has no private key on this device. Are you sure you want to use it to receive assets?</string>
-  <string name="No_key" platform="android, iOS">No key</string>
+  <string name="No_Key" platform="android, iOS">NoKey</string>
   <string name="import_secret_description" platform="android, iOS">The encrypted %1$s for this wallet is missing from this device. Please re-import to continue. </string>
   <string name="Import_Now" platform="android, iOS">Import Now</string>
   <string name="invalid_secret_for_wallet" platform="android, iOS">The %1$s does not match the selected wallet. Please try another.</string>
