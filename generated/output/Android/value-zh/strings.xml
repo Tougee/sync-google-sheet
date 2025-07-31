@@ -1046,7 +1046,7 @@
 	<string name="No_fees">暂无手续费记录</string>
 	<string name="NO_FILES">没有文件</string>
 	<string name="No_hidden_assets">没有隐藏的资产</string>
-	<string name="No_key">缺少私钥</string>
+	<string name="No_Key">缺少私钥</string>
 	<string name="NO_LINKS">没有链接</string>
 	<string name="No_logs">没有日志</string>
 	<string name="NO_MEDIA">没有媒体</string>

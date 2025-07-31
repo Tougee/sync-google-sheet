@@ -2323,7 +2323,7 @@
   <string name="Use_Another_Address" platform="android, iOS">換個地址</string>
   <string name="transfer_to_watch_wallet_warning" platform="android, iOS">這是一個觀察錢包。你確定要使用它來接收資產嗎？</string>
   <string name="transfer_to_no_key_wallet_warning" platform="android, iOS">該錢包在此設備上沒有私鑰。你確定要使用它來接收資產嗎？</string>
-  <string name="No_key" platform="android, iOS">缺少私鑰</string>
+  <string name="No_Key" platform="android, iOS">缺少私鑰</string>
   <string name="import_secret_description" platform="android, iOS">此設備缺少該錢包的加密%1$s。請重新導入以繼續操作。</string>
   <string name="Import_Now" platform="android, iOS">立即導入</string>
   <string name="invalid_secret_for_wallet" platform="android, iOS">導入的%1$s與錢包不匹配，請重新導入。</string>
