@@ -1763,8 +1763,8 @@
   <string name="total" platform="android, iOS">共计</string>
   <string name="continue_with_pin" platform="android, iOS">输入 PIN 继续</string>
   <string name="access_dapps_defi_projects" platform="android, iOS">访问 apps 或 DeFi 项目</string>
-  <string name="connect_your_account" platform="android, iOS">连接账户</string>
-  <string name="connect_web3_account_description" platform="android, iOS">授权应用查看你的账户地址，或者向你发送交易请求。</string>
+  <string name="connect_your_wallet" platform="android, iOS">连接钱包</string>
+  <string name="connect_web3_wallet_description" platform="android, iOS">授权应用查看你的钱包地址，或者向你发送交易请求。</string>
   <string name="web3_wallet_connected" platform="android, iOS">连接成功</string>
   <string name="web3_signing_confirmation" platform="android">签名确认</string>
   <string name="web3_signing_warning" platform="android, iOS">我们无法验证此请求，在发送此请求之前，请确保您信任此应用程序。</string>
@@ -1803,7 +1803,7 @@
   <string name="Review" platform="android, iOS">预览</string>
   <string name="Max" platform="android, iOS">最大值</string>
   <string name="hint_address" platform="android, iOS">输入钱包地址、交易所地址</string>
-  <string name="Accounts" platform="android, iOS">账户</string>
+  <string name="Accounts" platform="android">账户</string>
   <string name="Invalid_Address" platform="android, iOS">无效的地址</string>
   <string name="signature_request_from" platform="android, iOS">该签名请求来自 %1$s。</string>
   <string name="content_collectible" platform="android, iOS">[藏品]</string>
