@@ -415,8 +415,8 @@
 	<string name="Connect">連接</string>
 	<string name="Connect_to_TIP_network_failed">連接 TIP 網絡失敗，請嘗試切換網絡後重試</string>
 	<string name="connect_wallet">連接錢包</string>
-	<string name="connect_web3_account_description">授權應用查看你的賬户地址，或者向你發送交易請求。</string>
-	<string name="connect_your_account">連接賬户</string>
+	<string name="connect_web3_wallet_description">授權應用查看你的錢包地址，或者向你發送交易請求。</string>
+	<string name="connect_your_wallet">連接錢包</string>
 	<string name="connected_dapps">已連接的 app</string>
 	<string name="Connecting">正在連接</string>
 	<string name="connection_failed">連接失敗</string>

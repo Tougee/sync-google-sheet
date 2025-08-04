@@ -4,7 +4,6 @@
 "access_denied" = "禁止訪問";
 "access_to_contacts" = "訪問通訊錄";
 "account" = "賬號";
-"accounts" = "賬戶";
 "acknowledgements" = "許可證";
 "add" = "新增";
 "add_a_note" = "新增轉賬備註";
@@ -343,8 +342,8 @@
 "confirm_withdrawal" = "提現確認";
 "connect" = "連線";
 "connect_to_tip_network_failed" = "連線 TIP 網路失敗，請嘗試切換網路後重試";
-"connect_web3_account_description" = "授權應用檢視你的賬戶地址，或者向你傳送交易請求。";
-"connect_your_account" = "連線賬戶";
+"connect_web3_wallet_description" = "授權應用檢視你的錢包地址，或者向你傳送交易請求。";
+"connect_your_wallet" = "連線錢包";
 "connected" = "已連線";
 "connecting" = "正在連線";
 "connection_establishment_failed" = "連線建立失敗";

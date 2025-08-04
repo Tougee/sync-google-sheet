@@ -4,7 +4,6 @@
 "access_denied" = "アクセスが拒否されました";
 "access_to_contacts" = "連絡先へのアクセス";
 "account" = "アカウント";
-"accounts" = "Accounts";
 "acknowledgements" = "謝辞";
 "add" = "追加";
 "add_a_note" = "Add a note";
@@ -343,8 +342,8 @@
 "confirm_withdrawal" = "Confirm Withdrawal";
 "connect" = "Connect";
 "connect_to_tip_network_failed" = "Unable to connect to TIP network. Check your connection and try again.";
-"connect_web3_account_description" = "Allow the app to view your account address and ask for your approval to make a transaction.";
-"connect_your_account" = "Connect Your Account";
+"connect_web3_wallet_description" = "Allow the app to view your wallet address and ask for your approval to make a transaction.";
+"connect_your_wallet" = "Connect Your Wallet";
 "connected" = "接続済";
 "connecting" = "接続中";
 "connection_establishment_failed" = "Connection establishment failed";

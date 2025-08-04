@@ -420,8 +420,8 @@
 	<string name="Connect">Connect</string>
 	<string name="Connect_to_TIP_network_failed">Unable to connect to TIP network. Check your connection and try again.</string>
 	<string name="connect_wallet">Connect Wallet</string>
-	<string name="connect_web3_account_description">Allow the app to view your account address and ask for your approval to make a transaction.</string>
-	<string name="connect_your_account">Connect Your Account</string>
+	<string name="connect_web3_wallet_description">Allow the app to view your wallet address and ask for your approval to make a transaction.</string>
+	<string name="connect_your_wallet">Connect Your Wallet</string>
 	<string name="connected_dapps">Connected apps</string>
 	<string name="Connecting">Connecting</string>
 	<string name="connection_failed">Connection Failed</string>
