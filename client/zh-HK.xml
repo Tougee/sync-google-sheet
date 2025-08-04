@@ -1762,22 +1762,10 @@
   <string name="Sender" platform="android, iOS">交易發起人</string>
   <string name="total" platform="android, iOS">共計</string>
   <string name="continue_with_pin" platform="android, iOS">輸入 PIN 繼續</string>
-  <string name="web3_account_network" platform="android, iOS">%1$s 賬户</string>
-  <string name="web3_account" platform="android, iOS">賬户</string>
   <string name="access_dapps_defi_projects" platform="android, iOS">訪問 apps 或 DeFi 項目</string>
-  <string name="unlock_web3_account" platform="android, iOS">解鎖 %1$s 賬户</string>
-  <string name="Unlock" platform="android, iOS">解鎖</string>
-  <string name="unlock_web3_account_description" platform="android, iOS">您的 %1$s 賬户基於 Mixin Messenger 的 MPC 錢包並根據 BIP44 協議派生而來。</string>
-  <string name="unlock_web3_account_agreement" platform="android, iOS">建議與去中心化應用程序交互完後儘快將資產轉回更安全的 Mixin 錢包。</string>
-  <string name="unlock_web3_account_agreement_1" platform="android, iOS">%1$s 賬户與 Mixin 錢包資產隔離但使用同一個 PIN 進行資產管理。</string>
-  <string name="unlock_web3_account_agreement_2" platform="android, iOS">在 %1$s 賬户與 Mixin 錢包之間劃轉資產需要支付網絡礦工費。</string>
-  <string name="unlock_web3_account_agreement_3" platform="android, iOS">當您解鎖 %1$s 賬户時，也將自動解鎖 %2$s、%3$s 等 EVM 賬户。</string>
-  <string name="Unlocking" platform="android, iOS">正在解鎖</string>
-  <string name="unlock_web3_account_success" platform="android, iOS">解鎖成功</string>
-  <string name="unlock_web3_account_failed" platform="android, iOS">解鎖失敗</string>
   <string name="connect_your_account" platform="android, iOS">連接賬户</string>
   <string name="connect_web3_account_description" platform="android, iOS">授權應用查看你的賬户地址，或者向你發送交易請求。</string>
-  <string name="web3_account_connected" platform="android, iOS">連接成功</string>
+  <string name="web3_wallet_connected" platform="android, iOS">連接成功</string>
   <string name="web3_signing_confirmation" platform="android">簽名確認</string>
   <string name="web3_signing_warning" platform="android, iOS">我們無法驗證此請求，在發送此請求之前，請確保您信任此應用程序。</string>
   <string name="web3_signing" platform="android, iOS">正在簽名</string>

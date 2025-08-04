@@ -1694,18 +1694,8 @@
 	</plurals>
 	<string name="Unknown">未知</string>
 	<string name="unlimited_authorization_warning">这个应用可以提取你 %1$s 账号（%2$s）里所有的 %3$s 资产。</string>
-	<string name="Unlock">解锁</string>
-	<string name="unlock_web3_account">解锁 %1$s 账户</string>
-	<string name="unlock_web3_account_agreement">建议与去中心化应用程序交互完后尽快将资产转回更安全的 Mixin 钱包。</string>
-	<string name="unlock_web3_account_agreement_1">%1$s 账户与 Mixin 钱包资产隔离但使用同一个 PIN 进行资产管理。</string>
-	<string name="unlock_web3_account_agreement_2">在 %1$s 账户与 Mixin 钱包之间划转资产需要支付网络矿工费。</string>
-	<string name="unlock_web3_account_agreement_3">当您解锁 %1$s 账户时，也将自动解锁 %2$s、%3$s 等 EVM 账户。</string>
-	<string name="unlock_web3_account_description">您的 %1$s 账户基于 Mixin Messenger 的 MPC 钱包并根据 BIP44 协议派生而来。</string>
-	<string name="unlock_web3_account_failed">解锁失败</string>
-	<string name="unlock_web3_account_success">解锁成功</string>
 	<string name="Unlock_with_fingerprint">使用指纹解锁</string>
 	<string name="unlock_with_fingerprint_desc">启用后，您需要使用指纹解锁以开启 Mixin。</string>
-	<string name="Unlocking">正在解锁</string>
 	<string name="Unmute">取消静音</string>
 	<string name="Unnamed_location">未命名地点</string>
 	<string name="Unpin">取消置顶</string>
@@ -1833,9 +1823,6 @@
 	<string name="web_floating_permission">你的手机没有授权 Mixin 获得浮窗权限，浮窗不能正常使用</string>
 	<string name="web_full">浮窗已满，清理后可继续新增</string>
 	<string name="web_suspicious_link_tips">该链接不在对应的机器人域名白名单内。</string>
-	<string name="web3_account">账户</string>
-	<string name="web3_account_connected">连接成功</string>
-	<string name="web3_account_network">%1$s 账户</string>
 	<string name="web3_approve">批准</string>
 	<string name="web3_borrow">借款</string>
 	<string name="web3_burn">燃烧</string>
@@ -1871,6 +1858,7 @@
 	<string name="web3_transfer_insufficient_fee_count">错误 20118：广播交易需要 %1$s，钱包可用余额 %2$s。</string>
 	<string name="web3_unknown">未知</string>
 	<string name="web3_unstake">解押</string>
+	<string name="web3_wallet_connected">连接成功</string>
 	<string name="web3_withdraw">提现</string>
 	<string name="Wednesday">星期三</string>
 	<string name="weeks_count_short">%1$d周</string>
