@@ -867,6 +867,8 @@
 "network" = "網絡";
 "network_connection_lost" = "網絡連接超時，請檢查網絡稍後重試";
 "network_fee" = "網絡費用";
+"network_not_supported" = "網絡不支持";
+"network_not_supported_description" = "當前錢包不支持 %@ 網絡，要繼續請嘗試切換錢包。";
 "network_type" = "網絡類型";
 "never_auto_download" = "關閉";
 "new_chat" = "新聊天";
@@ -1358,6 +1360,7 @@
 "swap_token_description" = "將其他幣種兑換為 %@";
 "swap_usdt_hint" = "當前錢包有其他鏈的 USDT，是否馬上兑換？";
 "switch_account" = "切換賬號";
+"switch_wallet" = "切換錢包";
 "symbol" = "符號";
 "symbol_withdrawal" = "%@ 提現";
 "syncing_and_verifying_tip" = "正在驗證並同步密鑰分片到 TIP 網絡，請保持應用在前台，設置過程中不要強制關閉應用";

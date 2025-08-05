@@ -2315,4 +2315,7 @@
   <string name="import_secret_description" platform="android, iOS">此設備缺少該錢包的加密%1$s。請重新導入以繼續操作。</string>
   <string name="Import_Now" platform="android, iOS">立即導入</string>
   <string name="invalid_secret_for_wallet" platform="android, iOS">導入的%1$s與錢包不匹配，請重新導入。</string>
+  <string name="Network_Not_Supported" platform="android, iOS">網絡不支持</string>
+  <string name="network_not_supported_description" platform="android, iOS">當前錢包不支持 %1$s 網絡，要繼續請嘗試切換錢包。</string>
+  <string name="Switch_Wallet" platform="android, iOS">切換錢包</string>
 </resources>

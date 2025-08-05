@@ -867,6 +867,8 @@
 "network" = "Network";
 "network_connection_lost" = "Сетевое соединение было потеряно, проверьте свою сеть и повторите попытку позже.";
 "network_fee" = "Сетевая комисиия";
+"network_not_supported" = "Network Not Supported";
+"network_not_supported_description" = "The current wallet does not support the %@ network. Please try switching wallets to continue.";
 "network_type" = "Тип сети";
 "never_auto_download" = "Никогда";
 "new_chat" = "Новый чат";
@@ -1358,6 +1360,7 @@
 "swap_token_description" = "Swap other coin to %@";
 "swap_usdt_hint" = "There is USDT on a different network in your wallet. Would you like to swap it now?";
 "switch_account" = "Switch Account";
+"switch_wallet" = "Switch Wallet";
 "symbol" = "Символ";
 "symbol_withdrawal" = "%@ Снятие средств";
 "syncing_and_verifying_tip" = "Please keep the app in the foreground while verifying and synchronizing shard keys to the TIP network; do not force quit the app during the setup process.";

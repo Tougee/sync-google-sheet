@@ -1040,6 +1040,8 @@
 	<string name="network">Network</string>
 	<string name="Network_error">Network error</string>
 	<string name="network_fee">Network Fee</string>
+	<string name="Network_Not_Supported">Network Not Supported</string>
+	<string name="network_not_supported_description">The current wallet does not support the %1$s network. Please try switching wallets to continue.</string>
 	<string name="Network_Operator">Network Operator</string>
 	<string name="Network_Type">Network Type</string>
 	<string name="Network_unavailable">Network unavailable</string>
@@ -1598,6 +1600,7 @@
 	<string name="Swapping">Swapping</string>
 	<string name="switch_account">Switch Account</string>
 	<string name="switch_payment_method">Switch Payment Method</string>
+	<string name="Switch_Wallet">Switch Wallet</string>
 	<string name="Switching_currency">Switching currency</string>
 	<string name="Symbol">Symbol</string>
 	<string name="symbol_withdrawal">%1$s Withdrawal</string>

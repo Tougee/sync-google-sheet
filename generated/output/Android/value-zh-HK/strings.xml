@@ -1022,6 +1022,8 @@
 	<string name="network">網絡</string>
 	<string name="Network_error">網絡錯誤</string>
 	<string name="network_fee">網絡費用</string>
+	<string name="Network_Not_Supported">網絡不支持</string>
+	<string name="network_not_supported_description">當前錢包不支持 %1$s 網絡，要繼續請嘗試切換錢包。</string>
 	<string name="Network_Operator">網絡運營商</string>
 	<string name="Network_Type">網絡類型</string>
 	<string name="Network_unavailable">網絡連接不可用</string>
@@ -1577,6 +1579,7 @@
 	<string name="Swapping">兑換中</string>
 	<string name="switch_account">切換賬號</string>
 	<string name="switch_payment_method">使用其他支付方式</string>
+	<string name="Switch_Wallet">切換錢包</string>
 	<string name="Switching_currency">切換貨幣中</string>
 	<string name="Symbol">符號</string>
 	<string name="symbol_withdrawal">%1$s 提現</string>

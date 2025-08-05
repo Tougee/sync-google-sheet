@@ -867,6 +867,8 @@
 "network" = "Network";
 "network_connection_lost" = "Se ha perdido la conexión de red, verifica tu red e intenta nuevamente más tarde";
 "network_fee" = "Tarifa de red";
+"network_not_supported" = "Network Not Supported";
+"network_not_supported_description" = "The current wallet does not support the %@ network. Please try switching wallets to continue.";
 "network_type" = "Tipo de red";
 "never_auto_download" = "Nunca";
 "new_chat" = "Nueva chat";
@@ -1358,6 +1360,7 @@
 "swap_token_description" = "Swap other coin to %@";
 "swap_usdt_hint" = "There is USDT on a different network in your wallet. Would you like to swap it now?";
 "switch_account" = "Switch Account";
+"switch_wallet" = "Switch Wallet";
 "symbol" = "Símbolo";
 "symbol_withdrawal" = "Retiro de %@";
 "syncing_and_verifying_tip" = "Mantén la aplicación en primer plano mientras verificas y sincronizas las claves fragmentadas con la red TIP; no fuerces el cierre de la aplicación durante el proceso de configuración.";

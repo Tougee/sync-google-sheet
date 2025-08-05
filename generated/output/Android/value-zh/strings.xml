@@ -1022,6 +1022,8 @@
 	<string name="network">网络</string>
 	<string name="Network_error">网络错误</string>
 	<string name="network_fee">网络费用</string>
+	<string name="Network_Not_Supported">网络不支持</string>
+	<string name="network_not_supported_description">当前钱包不支持 %1$s 网络，要继续请尝试切换钱包。</string>
 	<string name="Network_Operator">网络运营商</string>
 	<string name="Network_Type">网络类型</string>
 	<string name="Network_unavailable">网络连接不可用</string>
@@ -1577,6 +1579,7 @@
 	<string name="Swapping">兑换中</string>
 	<string name="switch_account">切换账号</string>
 	<string name="switch_payment_method">使用其他支付方式</string>
+	<string name="Switch_Wallet">切换钱包</string>
 	<string name="Switching_currency">切换货币中</string>
 	<string name="Symbol">符号</string>
 	<string name="symbol_withdrawal">%1$s 提现</string>
