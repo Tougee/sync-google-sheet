@@ -2343,4 +2343,7 @@
   <string name="import_secret_description" platform="android, iOS">The encrypted %1$s for this wallet is missing from this device. Please re-import to continue. </string>
   <string name="Import_Now" platform="android, iOS">Import Now</string>
   <string name="invalid_secret_for_wallet" platform="android, iOS">The %1$s does not match the selected wallet. Please try another.</string>
+  <string name="Network_Not_Supported" platform="android, iOS">Network Not Supported</string>
+  <string name="network_not_supported_description" platform="android, iOS">The current wallet does not support the %1$s network. Please try switching wallets to continue.</string>
+  <string name="Switch_Wallet" platform="android, iOS">Switch Wallet</string>
 </resources>
