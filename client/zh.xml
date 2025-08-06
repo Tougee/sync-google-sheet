@@ -2318,4 +2318,9 @@
   <string name="Network_Not_Supported" platform="android, iOS">网络不支持</string>
   <string name="network_not_supported_description" platform="android, iOS">当前钱包不支持 %1$s 网络，要继续请尝试切换钱包。</string>
   <string name="Switch_Wallet" platform="android, iOS">切换钱包</string>
+  <string name="Create_New_Wallet" platform="android, iOS">创建新钱包</string>
+  <string name="create_new_wallet_description" platform="android, iOS">添加一个新的多链钱包</string>
+  <string name="create_new_wallet_instruction_1" platform="android, iOS">该钱包基于 TIP 派生，不支持查看钱包私钥。</string>
+  <string name="create_new_wallet_instruction_2" platform="android, iOS">支持 Ethereum、Base、Solana 等多个网络。</string>
+  <string name="create_new_wallet_instruction_3" platform="android, iOS">该钱包创建后无法删除。</string>
 </resources>

@@ -2346,4 +2346,9 @@
   <string name="Network_Not_Supported" platform="android, iOS">Network Not Supported</string>
   <string name="network_not_supported_description" platform="android, iOS">The current wallet does not support the %1$s network. Please try switching wallets to continue.</string>
   <string name="Switch_Wallet" platform="android, iOS">Switch Wallet</string>
+  <string name="Create_New_Wallet" platform="android, iOS">Create New Wallet</string>
+  <string name="create_new_wallet_description" platform="android, iOS">Add a new multi-chain wallet</string>
+  <string name="create_new_wallet_instruction_1" platform="android, iOS">This wallet is derived based on TIP and does not support viewing the private key.</string>
+  <string name="create_new_wallet_instruction_2" platform="android, iOS">Supports multiple networks such as Ethereum, Base, and Solana.</string>
+  <string name="create_new_wallet_instruction_3" platform="android, iOS">This wallet cannot be deleted once created.</string>
 </resources>
