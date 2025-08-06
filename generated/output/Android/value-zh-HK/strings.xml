@@ -476,6 +476,11 @@
 	<string name="Create_Account">創建帳户</string>
 	<string name="create_introduction">MPC 錢包，2FA，%1$s，自我保管，社交恢復</string>
 	<string name="Create_Mnemonic_Phrase">創建助記詞</string>
+	<string name="Create_New_Wallet">創建新錢包</string>
+	<string name="create_new_wallet_description">添加一個新的多鏈錢包</string>
+	<string name="create_new_wallet_instruction_1">該錢包基於 TIP 派生，不支持查看錢包私鑰。</string>
+	<string name="create_new_wallet_instruction_2">支持 Ethereum、Base、Solana 等多個網絡。</string>
+	<string name="create_new_wallet_instruction_3">該錢包創建後無法刪除。</string>
 	<string name="Create_PIN">創建錢包</string>
 	<string name="Created">創建日期</string>
 	<string name="Created_at">創建於 %1$s</string>
