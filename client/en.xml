@@ -2351,4 +2351,7 @@
   <string name="create_new_wallet_instruction_1" platform="android, iOS">This wallet is derived based on TIP and does not support viewing the private key.</string>
   <string name="create_new_wallet_instruction_2" platform="android, iOS">Supports multiple networks such as Ethereum, Base, and Solana.</string>
   <string name="create_new_wallet_instruction_3" platform="android, iOS">This wallet cannot be deleted once created.</string>
+  <string name="Watch_Wallet" platform="android, iOS">Watch Wallet</string>
+  <string name="Watch_Wallet_description" platform="android, iOS">You are unable to control assets in a watch-only wallet, but you can track them. </string>
+  <string name="Addresses" platform="android, iOS">Addresses</string>
 </resources>

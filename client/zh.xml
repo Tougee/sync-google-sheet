@@ -2323,4 +2323,7 @@
   <string name="create_new_wallet_instruction_1" platform="android, iOS">该钱包基于 TIP 派生，不支持查看钱包私钥。</string>
   <string name="create_new_wallet_instruction_2" platform="android, iOS">支持 Ethereum、Base、Solana 等多个网络。</string>
   <string name="create_new_wallet_instruction_3" platform="android, iOS">该钱包创建后无法删除。</string>
+  <string name="Watch_Wallet" platform="android, iOS">观察钱包</string>
+  <string name="Watch_Wallet_description" platform="android, iOS">你无法使用观察钱包中的资产，但可以追踪它们。 </string>
+  <string name="Addresses" platform="android, iOS">地址</string>
 </resources>
