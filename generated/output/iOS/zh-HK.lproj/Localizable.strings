@@ -56,6 +56,7 @@
 "address_editing_description" = "正在將修改地址的請求發送到 Mixin 服務器驗證，請稍候。";
 "address_not_found" = "找不到該地址。";
 "address_validity_reminder" = "您已經超過 %3$@ 天沒有使用地址 %1$@（%2$@），請注意檢查地址是否仍然有效。";
+"addresses" = "地址";
 "admin" = "管理員";
 "agree_hint" = "繼續使用即表示你同意 %@ 和 %@";
 "albums" = "相冊";
@@ -1565,6 +1566,8 @@
 "wallet_withdrawal_recent_tip" = "你已經在 %1$@ 前提現 %3$@ 到 %2$@，確認還要再提一次嗎？";
 "wallets" = "錢包";
 "watch_address" = "觀察 %@";
+"watch_wallet" = "觀察錢包";
+"watch_wallet_description" = "你無法使用觀察錢包中的資產，但可以追蹤它們。 ";
 "watch_wallet_index" = "觀察錢包 %@";
 "watching" = "觀察";
 "watchlist" = "自選";

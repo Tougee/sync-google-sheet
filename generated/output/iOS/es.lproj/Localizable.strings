@@ -56,6 +56,7 @@
 "address_editing_description" = "The request to edit the address is currently under verification by the Mixin server. Please wait a moment.";
 "address_not_found" = "Dirección no encontrada.";
 "address_validity_reminder" = "The address %1$@(%2$@) has not been used for over %3$@ days. Please check if the address is still valid.";
+"addresses" = "Addresses";
 "admin" = "Administrador";
 "agree_hint" = "Al continuar, aceptas el %@ y el %@.";
 "albums" = "Álbumes";
@@ -1565,6 +1566,8 @@
 "wallet_withdrawal_recent_tip" = "Ya has retirado %3$@ a %2$@ hace %1$@, ¿quieres retirarlo de nuevo?";
 "wallets" = "Wallets";
 "watch_address" = "Watch %@";
+"watch_wallet" = "Watch Wallet";
+"watch_wallet_description" = "You are unable to control assets in a watch-only wallet, but you can track them. ";
 "watch_wallet_index" = "Watch Wallet %@";
 "watching" = "Watching";
 "watchlist" = "Watchlist";

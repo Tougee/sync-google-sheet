@@ -82,6 +82,7 @@
 	<string name="address_edited_description">The Mixin server has confirmed your address editing request. You can immediately use this address for withdrawals.</string>
 	<string name="address_editing_description">The request to edit the address is currently under verification by the Mixin server. Please wait a moment.</string>
 	<string name="address_validity_reminder">The address %1$s(%2$s) has not been used for over %3$s days. Please check if the address is still valid.</string>
+	<string name="Addresses">Addresses</string>
 	<string name="Admin">Admin</string>
 	<string name="After_1_minute">After 1 minute</string>
 	<string name="After_30_minutes">After 30 minutes</string>
@@ -1843,6 +1844,8 @@
 	<string name="wallet_withdrawal_recent_tip">You have already withdrawn %3$s to %2$s %1$s ago, Do you want to withdraw it again?</string>
 	<string name="Wallets">Wallets</string>
 	<string name="Watch_address">Watch %1$s</string>
+	<string name="Watch_Wallet">Watch Wallet</string>
+	<string name="Watch_Wallet_description">You are unable to control assets in a watch-only wallet, but you can track them. </string>
 	<string name="watch_wallet_index">Watch Wallet %1$s</string>
 	<string name="Watching">Watching</string>
 	<string name="Watchlist">Watchlist</string>

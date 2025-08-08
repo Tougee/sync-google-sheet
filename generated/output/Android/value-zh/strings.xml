@@ -82,6 +82,7 @@
 	<string name="address_edited_description">您修改地址的请求已通过 Mixin 服务器确认，您可以立刻使用该地址进行提现。</string>
 	<string name="address_editing_description">正在将修改地址的请求发送到 Mixin 服务器验证，请稍候。</string>
 	<string name="address_validity_reminder">您已经超过 %3$s 天没有使用地址 %1$s（%2$s），请注意检查地址是否仍然有效。</string>
+	<string name="Addresses">地址</string>
 	<string name="Admin">管理员</string>
 	<string name="After_1_minute">1分钟之后</string>
 	<string name="After_30_minutes">30分钟之后</string>
@@ -1821,6 +1822,8 @@
 	<string name="wallet_withdrawal_recent_tip">你已经在 %1$s 前提现 %3$s 到 %2$s，确认还要再提一次吗？</string>
 	<string name="Wallets">钱包</string>
 	<string name="Watch_address">观察 %1$s</string>
+	<string name="Watch_Wallet">观察钱包</string>
+	<string name="Watch_Wallet_description">你无法使用观察钱包中的资产，但可以追踪它们。 </string>
 	<string name="watch_wallet_index">观察钱包 %1$s</string>
 	<string name="Watching">观察</string>
 	<string name="Watchlist">自选</string>

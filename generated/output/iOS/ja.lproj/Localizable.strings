@@ -56,6 +56,7 @@
 "address_editing_description" = "The request to edit the address is currently under verification by the Mixin server. Please wait a moment.";
 "address_not_found" = "アドレスが見つかりません";
 "address_validity_reminder" = "The address %1$@(%2$@) has not been used for over %3$@ days. Please check if the address is still valid.";
+"addresses" = "Addresses";
 "admin" = "管理者";
 "agree_hint" = "%@と%@に同意し次へ進む";
 "albums" = "アルバム";
@@ -1565,6 +1566,8 @@
 "wallet_withdrawal_recent_tip" = "あなたは%1$@に同額の出金を%2$@へ送っています。再度%3$@を出金しますか？";
 "wallets" = "ウォレット";
 "watch_address" = "Watch %@";
+"watch_wallet" = "Watch Wallet";
+"watch_wallet_description" = "You are unable to control assets in a watch-only wallet, but you can track them. ";
 "watch_wallet_index" = "Watch Wallet %@";
 "watching" = "Watching";
 "watchlist" = "Watchlist";
