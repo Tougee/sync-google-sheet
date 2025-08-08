@@ -2125,6 +2125,7 @@
   <string name="url_recall_message" platform="android,iOS">https://support.mixin.one/zh/article/mixin-messenger-bjr9re/</string>
   <string name="url_privacy_wallet" platform="android,iOS">https://support.mixin.one/zh/article/5lua5lmi5piv6zqq56eb6zkx5yyf77yf-1s7o0e2/</string>
   <string name="url_classic_wallet" platform="android,iOS">https://support.mixin.one/zh/article/5lua5lmi5piv5pmu6yca6zkx5yyf77yf-8308b1/</string>
+  <string name="url_watch_wallet" platform="android,iOS">https://support.mixin.one/zh/article/5aac5l2v5re75yqg6kec5af5zyw5z2a77yf-r3pitk/</string>
   <string name="view_document" platform="android,iOS">檢視檔案</string>
   <string name="Enable_Notifications" platform="android,iOS">啟用通知</string>
   <string name="Deposit_Pending_Confirmation" platform="android,iOS">%1$s 充值確認中</string>
