@@ -406,6 +406,7 @@
 "create_introduction" = "MPC 钱包，2FA，%@，自我保管，社交恢复";
 "create_mnemonic_phrase" = "创建助记词";
 "create_new_wallet" = "创建新钱包";
+"create_new_wallet_description" = "添加一个新的多链钱包";
 "create_pin" = "创建钱包";
 "created" = "创建日期";
 "created_this_group" = "%@创建了这个群组";

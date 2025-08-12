@@ -482,6 +482,7 @@
 	<string name="create_introduction">MPC Wallet, 2FA, %1$s, Self-custody, Social Recovery</string>
 	<string name="Create_Mnemonic_Phrase">Create Mnemonic Phrase</string>
 	<string name="Create_New_Wallet">Create New Wallet</string>
+	<string name="create_new_wallet_description">Add a new multi-chain wallet</string>
 	<string name="Create_PIN">Create PIN</string>
 	<string name="Created">Created</string>
 	<string name="Created_at">Created %1$s</string>

@@ -406,6 +406,7 @@
 "create_introduction" = "MPC Wallet, 2FA, %@, Self-custody, Social Recovery";
 "create_mnemonic_phrase" = "Create Mnemonic Phrase";
 "create_new_wallet" = "Create New Wallet";
+"create_new_wallet_description" = "Add a new multi-chain wallet";
 "create_pin" = "Create PIN";
 "created" = "Created";
 "created_this_group" = "%@ создал эту группу";

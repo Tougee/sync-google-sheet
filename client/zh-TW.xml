@@ -2320,6 +2320,7 @@
   <string name="network_not_supported_description" platform="android, iOS">當前錢包不支援 %1$s 網路，要繼續請嘗試切換錢包。</string>
   <string name="Switch_Wallet" platform="android, iOS">切換錢包</string>
   <string name="Create_New_Wallet" platform="android, iOS">建立新錢包</string>
+  <string name="create_new_wallet_description" platform="android, iOS">新增一個新的多鏈錢包</string>
   <string name="add_wallet_instruction_tip_derivation" platform="android, iOS">該錢包基於 TIP 派生，不支援檢視錢包私鑰。</string>
   <string name="add_wallet_instruction_multiple_network" platform="android, iOS">支援 Ethereum、Base、Solana 等多個網路。</string>
   <string name="add_wallet_instruction_delete_unsupported" platform="android, iOS">該錢包建立後無法刪除。</string>
