@@ -2085,10 +2085,10 @@
   <string name="Recovery_Contact" platform="android,iOS">Recovery Contact</string>
   <string name="Backup_Mnemonic_Phrase" platform="android,iOS">Backup Mnemonic Phrase</string>
   <string name="Before_you_proceed" platform="android,iOS">Before you proceed</string>
-  <string name="Before_you_proceed_desc" platform="android,iOS">Read the following, then save the phrase securely.</string>
-  <string name="Before_you_proceed_instruction_1" platform="android,iOS">The 13 or 25 mnemonic words generated when creating an account are for Mixin Network-related products only.</string>
-  <string name="Before_you_proceed_instruction_2" platform="android,iOS">The mnemonic phrase cannot help you recover your PIN.</string>
-  <string name="Before_you_proceed_instruction_3" platform="android,iOS">Ensure that no one or surveillance cameras are watching your screen.</string>
+  <string name="export_mnemonics_description" platform="android,iOS">Read the following, then save the phrase securely.</string>
+  <string name="export_mnemonics_instruction_1" platform="android,iOS">The 13 or 25 mnemonic words generated when creating an account are for Mixin Network-related products only.</string>
+  <string name="export_mnemonics_instruction_2" platform="android,iOS">The mnemonic phrase cannot help you recover your PIN.</string>
+  <string name="export_mnemonics_instruction_3" platform="android,iOS">Ensure that no one or surveillance cameras are watching your screen.</string>
   <string name="Show_Mnemonic_Phrase" platform="android,iOS">Show Mnemonic Phrase</string>
   <string name="enter_mnemonic_phrase" platform="android,iOS">Enter or paste your %1$d mnemonic words.</string>
   <string name="write_down_mnemonic_phrase" platform="android,iOS">Write down your mnemonic phrase</string>
@@ -2312,10 +2312,10 @@
   <string name="import_wallet_count" platform="android, iOS">Import %1$d Wallets</string>
   <string name="import_wallet_count_one" platform="android, iOS">Import 1 Wallet</string>
   <string name="Show_Private_Key" platform="android, iOS">Show Private Key</string>
-  <string name="export_mnemonics_warning_1" platform="android, iOS">Anyone who gains access to this %1$s can transfer all assets from your wallet.</string>
-  <string name="export_mnemonics_warning_2" platform="android, iOS">Mixin Messenger does not store your %1$s on its servers.</string>
-  <string name="export_mnemonics_warning_3" platform="android, iOS">Never share your %1$s with any third party, individual, website, or application.</string>
-  <string name="export_mnemonics_warning_4" platform="android, iOS">Ensure that no one — including surveillance cameras — can see your screen.</string>
+  <string name="export_secret_warning_1" platform="android, iOS">Anyone who gains access to this %1$s can transfer all assets from your wallet.</string>
+  <string name="export_secret_warning_2" platform="android, iOS">Mixin Messenger does not store your %1$s on its servers.</string>
+  <string name="export_secret_warning_3" platform="android, iOS">Never share your %1$s with any third party, individual, website, or application.</string>
+  <string name="export_secret_warning_4" platform="android, iOS">Ensure that no one — including surveillance cameras — can see your screen.</string>
   <string name="Your_Mnemonic_Phrase" platform="android, iOS">Your Mnemonic Phrase</string>
   <string name="scan_code_description" platform="android, iOS">Use another device to scan the QR code below</string>
   <string name="wallet_candidate_imported" platform="android, iOS">Imported</string>
@@ -2348,11 +2348,13 @@
   <string name="network_not_supported_description" platform="android, iOS">The current wallet does not support the %1$s network. Please try switching wallets to continue.</string>
   <string name="Switch_Wallet" platform="android, iOS">Switch Wallet</string>
   <string name="Create_New_Wallet" platform="android, iOS">Create New Wallet</string>
-  <string name="create_new_wallet_description" platform="android, iOS">Add a new multi-chain wallet</string>
-  <string name="create_new_wallet_instruction_1" platform="android, iOS">This wallet is derived based on TIP and does not support viewing the private key.</string>
-  <string name="create_new_wallet_instruction_2" platform="android, iOS">Supports multiple networks such as Ethereum, Base, and Solana.</string>
-  <string name="create_new_wallet_instruction_3" platform="android, iOS">This wallet cannot be deleted once created.</string>
+  <string name="add_wallet_instruction_tip_derivation" platform="android, iOS">This wallet is derived based on TIP and does not support viewing the private key.</string>
+  <string name="add_wallet_instruction_multiple_network" platform="android, iOS">Supports multiple networks such as Ethereum, Base, and Solana.</string>
+  <string name="add_wallet_instruction_delete_unsupported" platform="android, iOS">This wallet cannot be deleted once created.</string>
   <string name="Watch_Wallet" platform="android, iOS">Watch Wallet</string>
   <string name="Watch_Wallet_description" platform="android, iOS">You are unable to control assets in a watch-only wallet, but you can track them. </string>
   <string name="Addresses" platform="android, iOS">Addresses</string>
+  <string name="Proceed" platform="android, iOS">Proceed</string>
+  <string name="watch_wallet_instruction_benefit" platform="android, iOS">Easily monitor the balance and transaction history of the address.</string>
+  <string name="watch_wallet_instruction_restriction" platform="android, iOS">Cannot transfer funds or interact with on-chain applications or DeFi projects.</string>
 </resources>
