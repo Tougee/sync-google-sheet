@@ -618,6 +618,7 @@
 	<string name="enter_mnemonic_phrase">输入或粘贴您的 %1$d 个助记词。</string>
 	<string name="Enter_new_anonymous_number">输入你的新匿名号码</string>
 	<string name="Enter_new_phone_number">输入你的新手机号码</string>
+	<string name="enter_pin_create_wallet">输入你的 PIN 以创建新钱包</string>
 	<string name="Enter_PIN_to_delete_account">输入你的 PIN 以注销你的账户</string>
 	<string name="Enter_your_anonymous_number">输入你的匿名号码</string>
 	<string name="Enter_your_emergency_contact_Mixin_ID">请输入恢复联系人的 Mixin ID</string>

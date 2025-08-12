@@ -627,6 +627,7 @@
 	<string name="enter_mnemonic_phrase">Enter or paste your %1$d mnemonic words.</string>
 	<string name="Enter_new_anonymous_number">Enter your new anonymous number</string>
 	<string name="Enter_new_phone_number">Enter your new phone number</string>
+	<string name="enter_pin_create_wallet">Enter your PIN to create a new wallet</string>
 	<string name="Enter_PIN_to_delete_account">Enter your PIN to delete your account</string>
 	<string name="Enter_your_anonymous_number">Enter your anonymous number</string>
 	<string name="Enter_your_emergency_contact_Mixin_ID">Enter your recovery contact Mixin ID</string>
