@@ -2358,4 +2358,5 @@
   <string name="Proceed" platform="android, iOS">Proceed</string>
   <string name="watch_wallet_instruction_benefit" platform="android, iOS">Easily monitor the balance and transaction history of the address.</string>
   <string name="watch_wallet_instruction_restriction" platform="android, iOS">Cannot transfer funds or interact with on-chain applications or DeFi projects.</string>
+  <string name="enter_pin_create_wallet" platform="android, iOS">Enter your PIN to create a new wallet</string>
 </resources>
