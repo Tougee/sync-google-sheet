@@ -2057,10 +2057,10 @@
   <string name="Recovery_Contact" platform="android,iOS">恢復聯絡人</string>
   <string name="Backup_Mnemonic_Phrase" platform="android,iOS">備份助記詞</string>
   <string name="Before_you_proceed" platform="android,iOS">請在繼續之前</string>
-  <string name="Before_you_proceed_desc" platform="android,iOS">閱讀以下內容，然後安全儲存助記詞。</string>
-  <string name="Before_you_proceed_instruction_1" platform="android,iOS">建立帳戶生成的 13 個或 25 個助記詞僅用於 Mixin Network 相關產品。</string>
-  <string name="Before_you_proceed_instruction_2" platform="android,iOS">助記詞無法幫助您恢復您的 PIN。</string>
-  <string name="Before_you_proceed_instruction_3" platform="android,iOS">確保沒有人或監控攝像頭正在看您的螢幕。</string>
+  <string name="export_mnemonics_description" platform="android,iOS">閱讀以下內容，然後安全儲存助記詞。</string>
+  <string name="export_mnemonics_instruction_1" platform="android,iOS">建立帳戶生成的 13 個或 25 個助記詞僅用於 Mixin Network 相關產品。</string>
+  <string name="export_mnemonics_instruction_2" platform="android,iOS">助記詞無法幫助您恢復您的 PIN。</string>
+  <string name="export_mnemonics_instruction_3" platform="android,iOS">確保沒有人或監控攝像頭正在看您的螢幕。</string>
   <string name="Show_Mnemonic_Phrase" platform="android,iOS">檢視助記詞</string>
   <string name="enter_mnemonic_phrase" platform="android,iOS">輸入或貼上您的 %1$d 個助記詞。</string>
   <string name="write_down_mnemonic_phrase" platform="android,iOS">寫下您的助記詞</string>
@@ -2284,10 +2284,10 @@
   <string name="import_wallet_count" platform="android, iOS">匯入 %1$d 個錢包</string>
   <string name="import_wallet_count_one" platform="android, iOS">匯入 1 個錢包</string>
   <string name="Show_Private_Key" platform="android, iOS">檢視私鑰</string>
-  <string name="export_mnemonics_warning_1" platform="android, iOS">任何擁有此%1$s的人都可以轉移該錢包中所有的資金。</string>
-  <string name="export_mnemonics_warning_2" platform="android, iOS">Mixin Messenger 伺服器不會儲存您的%1$s。</string>
-  <string name="export_mnemonics_warning_3" platform="android, iOS">請勿與任何第三方、個人、網站或應用程式分享您的%1$s。</string>
-  <string name="export_mnemonics_warning_4" platform="android, iOS">確保沒有人或監控攝像頭正在看你的螢幕。</string>
+  <string name="export_secret_warning_1" platform="android, iOS">任何擁有此%1$s的人都可以轉移該錢包中所有的資金。</string>
+  <string name="export_secret_warning_2" platform="android, iOS">Mixin Messenger 伺服器不會儲存您的%1$s。</string>
+  <string name="export_secret_warning_3" platform="android, iOS">請勿與任何第三方、個人、網站或應用程式分享您的%1$s。</string>
+  <string name="export_secret_warning_4" platform="android, iOS">確保沒有人或監控攝像頭正在看你的螢幕。</string>
   <string name="Your_Mnemonic_Phrase" platform="android, iOS">你的錢包助記詞</string>
   <string name="scan_code_description" platform="android, iOS">請用其他裝置掃描以下二維碼</string>
   <string name="wallet_candidate_imported" platform="android, iOS">已匯入</string>
@@ -2320,11 +2320,13 @@
   <string name="network_not_supported_description" platform="android, iOS">當前錢包不支援 %1$s 網路，要繼續請嘗試切換錢包。</string>
   <string name="Switch_Wallet" platform="android, iOS">切換錢包</string>
   <string name="Create_New_Wallet" platform="android, iOS">建立新錢包</string>
-  <string name="create_new_wallet_description" platform="android, iOS">新增一個新的多鏈錢包</string>
-  <string name="create_new_wallet_instruction_1" platform="android, iOS">該錢包基於 TIP 派生，不支援檢視錢包私鑰。</string>
-  <string name="create_new_wallet_instruction_2" platform="android, iOS">支援 Ethereum、Base、Solana 等多個網路。</string>
-  <string name="create_new_wallet_instruction_3" platform="android, iOS">該錢包建立後無法刪除。</string>
+  <string name="add_wallet_instruction_tip_derivation" platform="android, iOS">該錢包基於 TIP 派生，不支援檢視錢包私鑰。</string>
+  <string name="add_wallet_instruction_multiple_network" platform="android, iOS">支援 Ethereum、Base、Solana 等多個網路。</string>
+  <string name="add_wallet_instruction_delete_unsupported" platform="android, iOS">該錢包建立後無法刪除。</string>
   <string name="Watch_Wallet" platform="android, iOS">觀察錢包</string>
   <string name="Watch_Wallet_description" platform="android, iOS">你無法使用觀察錢包中的資產，但可以追蹤它們。 </string>
   <string name="Addresses" platform="android, iOS">地址</string>
+  <string name="Proceed" platform="android, iOS">繼續</string>
+  <string name="watch_wallet_instruction_benefit" platform="android, iOS">可方便地監控指定地址的餘額與交易記錄。</string>
+  <string name="watch_wallet_instruction_restriction" platform="android, iOS">無法轉賬，不能與鏈上應用或 DeFi 專案互動。</string>
 </resources>
