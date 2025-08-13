@@ -1846,7 +1846,7 @@
 	<string name="web3_claim">認領</string>
 	<string name="web3_deploy">部署</string>
 	<string name="web3_deposit">存款</string>
-	<string name="web3_deposit_description_evm">使用此地址在 Ethereum、Polygon、BSC、Base 網絡上接收代幣</string>
+	<string name="web3_deposit_description_evm">使用此地址在 Ethereum、Polygon、BSC、Base、Optimism、Arbitrum 網絡上接收代幣</string>
 	<string name="web3_deposit_description_solana">使用此地址在 Solana 網絡上接收代幣</string>
 	<string name="web3_ensure_trust">請確保您信任此應用程序。</string>
 	<string name="web3_execute">執行</string>
