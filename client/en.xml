@@ -1819,7 +1819,7 @@
   <string name="Sending_Failed" platform="android, iOS">Sending Failed</string>
   <string name="copy_address" platform="android, iOS">Copy Address</string>
   <string name="Browser" platform="android, iOS">Browser</string>
-  <string name="web3_deposit_description_evm" platform="android, iOS">Use this address for receiving tokens on Ethereum, Polygon, BSC, Base networks</string>
+  <string name="web3_deposit_description_evm" platform="android, iOS">Use this address for receiving tokens on Ethereum, Polygon, BSC, Base, Optimism, Arbitrum networks</string>
   <string name="web3_deposit_description_solana" platform="android, iOS">Use this address for receiving tokens on Solana network</string>
   <string name="web3_no_asset" platform="android, iOS">Don’t Have Assets</string>
   <string name="no_collectibles" platform="android, iOS">NO COLLECTIBLES</string>
