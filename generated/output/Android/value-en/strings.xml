@@ -848,6 +848,7 @@
 	<string name="insufficient_balance">Insufficient balance</string>
 	<string name="insufficient_balance_symbol">Insufficient %1$s</string>
 	<string name="insufficient_fee_description">You need %1$s on the %2$s network to cover the network fee</string>
+	<string name="insufficient_sol_for_sending_spl_token">Insufficient SOL balance. Reserve at least %1$s SOL.</string>
 	<string name="Introduction">Introduction</string>
 	<string name="Invalid_Address">Invalid Address</string>
 	<string name="Invalid_format">Invalid format</string>
@@ -1321,6 +1322,7 @@
 	<string name="Requests_access_to_your">Requests access to your</string>
 	<string name="Resend_code">Resend code</string>
 	<string name="Resend_code_in">Resend code in %1$d s</string>
+	<string name="reserve_sol_for_rent">Reserve at least %1$s SOL for the rent</string>
 	<string name="reset">Reset</string>
 	<string name="Reset_Link">Reset Link</string>
 	<string name="Reset_notifications">Reset notifications</string>

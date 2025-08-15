@@ -836,6 +836,7 @@
 	<string name="insufficient_balance">余额不足</string>
 	<string name="insufficient_balance_symbol">%1$s 余额不足</string>
 	<string name="insufficient_fee_description">需要 %1$s 以支付 %2$s 网络费用</string>
+	<string name="insufficient_sol_for_sending_spl_token">SOL余额不足，请至少预留 %1$s SOL。</string>
 	<string name="Introduction">介绍</string>
 	<string name="Invalid_Address">无效的地址</string>
 	<string name="Invalid_format">格式无效</string>
@@ -1302,6 +1303,7 @@
 	<string name="Requests_access_to_your">需要访问你的</string>
 	<string name="Resend_code">重发验证码</string>
 	<string name="Resend_code_in">%1$d 秒后重新发送验证码</string>
+	<string name="reserve_sol_for_rent">请预留至少 %1$s SOL 以支付租金</string>
 	<string name="reset">重置</string>
 	<string name="Reset_Link">重置邀请链接</string>
 	<string name="Reset_notifications">重置通知设置</string>
@@ -1399,7 +1401,7 @@
 	<string name="send_file_group">将 \"%1$s\" 发送给 \"%2$s\"？</string>
 	<string name="Send_Message">发消息</string>
 	<string name="send_signed_message_confirmation">此消息已被签名，点击下方按钮以发送或丢弃</string>
-	<string name="send_sol_for_rent">发送至少 %1$s SOL 以支付租金</string>
+	<string name="send_sol_for_rent">请发送至少 %1$s SOL 以支付租金</string>
 	<string name="Send_This_Location">发送这个位置</string>
 	<string name="send_to">发送给 %1$s</string>
 	<string name="send_to_address_description">转到我地址薄中的地址，地址受到 PIN 保护，避免地址钓鱼攻击。</string>
