@@ -2215,6 +2215,8 @@
   <string name="cancel_transaction_description" platform="android, iOS">If the transaction is too far along cancellation may not be possible</string>
   <string name="Unable_to_estimate_balance_changes" platform="android, iOS">Unable to estimate balance changes</string>
   <string name="send_sol_for_rent" platform="android, iOS">Send at least %1$s SOL for the rent</string>
+  <string name="reserve_sol_for_rent" platform="android, iOS">Reserve at least %1$s SOL for the rent</string>
+  <string name="insufficient_sol_for_sending_spl_token" platform="android, iOS">Insufficient SOL balance. Reserve at least %1$s SOL.</string>
   <string name="membership_plan" platform="android, iOS">Plan</string>
   <string name="membership_advance" platform="android, iOS">Advance</string>
   <string name="membership_elite" platform="android, iOS">Elite</string>

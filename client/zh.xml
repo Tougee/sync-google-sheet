@@ -2186,7 +2186,9 @@
   <string name="cancel_transaction" platform="android, iOS">取消交易</string>
   <string name="cancel_transaction_description" platform="android, iOS">如果交易已接近完成，可能无法取消</string>
   <string name="Unable_to_estimate_balance_changes" platform="android, iOS">无法估计资产变化</string>
-  <string name="send_sol_for_rent" platform="android, iOS">发送至少 %1$s SOL 以支付租金</string>
+  <string name="send_sol_for_rent" platform="android, iOS">请发送至少 %1$s SOL 以支付租金</string>
+  <string name="reserve_sol_for_rent" platform="android, iOS">请预留至少 %1$s SOL 以支付租金</string>
+  <string name="insufficient_sol_for_sending_spl_token" platform="android, iOS">SOL余额不足，请至少预留 %1$s SOL。</string>
   <string name="membership_plan" platform="android, iOS">级别</string>
   <string name="membership_advance" platform="android, iOS">进阶版</string>
   <string name="membership_elite" platform="android, iOS">精英版</string>
