@@ -836,7 +836,7 @@
 	<string name="insufficient_balance">餘額不足</string>
 	<string name="insufficient_balance_symbol">%1$s 餘額不足</string>
 	<string name="insufficient_fee_description">需要 %1$s 以支付 %2$s 網絡費用</string>
-	<string name="insufficient_sol_for_sending_spl_token">SOL餘額不足，請至少預留 %1$s SOL。</string>
+	<string name="insufficient_sol_for_sending_spl_token">SOL 餘額不足，請至少預留 %1$s SOL。</string>
 	<string name="Introduction">介紹</string>
 	<string name="Invalid_Address">無效的地址</string>
 	<string name="Invalid_format">格式無效</string>
