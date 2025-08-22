@@ -975,6 +975,7 @@
 	<string name="Mixin">Mixin</string>
 	<string name="Mixin_Contact">Mixin 联系人</string>
 	<string name="Mixin_Locked">Mixin 已锁定</string>
+	<string name="mixin_logs">Mixin 日志</string>
 	<string name="Mixin_Messenger_Desktop">Mixin Messenger 桌面</string>
 	<string name="Mixin_One">Mixin 大会员</string>
 	<string name="mixin_one_desc">开启您的 Mixin 会员之旅</string>

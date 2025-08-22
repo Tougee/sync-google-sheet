@@ -820,6 +820,7 @@
 "mixin_contact" = "Mixin 聯繫人";
 "mixin_id_or_phone" = "Mixin ID 或手機號";
 "mixin_locked" = "Mixin 已鎖定";
+"mixin_logs" = "Mixin 日誌";
 "mixin_messenger_desktop" = "Mixin Messenger 桌面";
 "mixin_one" = "Mixin 大會員";
 "mixin_one_desc" = "開啓您的 Mixin 會員之旅";
