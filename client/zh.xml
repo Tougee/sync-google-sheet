@@ -2333,4 +2333,5 @@
   <string name="watch_wallet_instruction_benefit" platform="android, iOS">可方便地监控指定地址的余额与交易记录。</string>
   <string name="watch_wallet_instruction_restriction" platform="android, iOS">无法转账，不能与链上应用或 DeFi 项目交互。</string>
   <string name="enter_pin_create_wallet" platform="android, iOS">输入你的 PIN 以创建新钱包</string>
+  <string name="mixin_logs" platform="android, iOS">Mixin 日志</string>
 </resources>
