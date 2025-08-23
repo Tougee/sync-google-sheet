@@ -1757,6 +1757,7 @@
 	<string name="url_support">https://support.mixin.one/zh/</string>
 	<string name="url_unsupported_message">https://support.mixin.one/zh/article/mixin-h92cxa/</string>
 	<string name="url_watch_wallet">https://support.mixin.one/zh/article/5aac5l2v5re75yqg6kec5af5zyw5z2a77yf-r3pitk/</string>
+	<string name="url_what_is_pin">https://support.mixin.one/zh/article/pin-yhpicw/</string>
 	<string name="Use_Another_Address">換個地址</string>
 	<string name="Use_Biometric_Multisig">使用生物識別簽名</string>
 	<string name="use_new_price">使用最新報價</string>
