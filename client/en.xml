@@ -2362,4 +2362,11 @@
   <string name="watch_wallet_instruction_restriction" platform="android, iOS">Cannot transfer funds or interact with on-chain applications or DeFi projects.</string>
   <string name="enter_pin_create_wallet" platform="android, iOS">Enter your PIN to create a new wallet</string>
   <string name="mixin_logs" platform="android, iOS">Mixin Logs</string>
+  <string name="tip_quiz_question" platform="android, iOS">What happens if I lose my PIN?</string>
+  <string name="tip_quiz_wrong_answer" platform="android, iOS">I can recover my account later.</string>
+  <string name="tip_quiz_correct_answer" platform="android, iOS">I’ll lose access to my account and funds.</string>
+  <string name="Check_answer" platform="android, iOS">Check answer</string>
+  <string name="tip_quiz_title_correct" platform="android, iOS">Correct!</string>
+  <string name="tip_quiz_title_wrong" platform="android, iOS">Oops, wrong answer</string>
+  <string name="tip_quiz_answer" platform="android, iOS">The PIN is the key to your wallet, and it’s unrecoverable if lost.</string>
 </resources>

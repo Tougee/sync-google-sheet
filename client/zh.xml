@@ -2334,4 +2334,11 @@
   <string name="watch_wallet_instruction_restriction" platform="android, iOS">无法转账，不能与链上应用或 DeFi 项目交互。</string>
   <string name="enter_pin_create_wallet" platform="android, iOS">输入你的 PIN 以创建新钱包</string>
   <string name="mixin_logs" platform="android, iOS">Mixin 日志</string>
+  <string name="tip_quiz_question" platform="android, iOS">如果我丢失了 PIN，会发生什么？</string>
+  <string name="tip_quiz_wrong_answer" platform="android, iOS">我可以恢复我的账户。</string>
+  <string name="tip_quiz_correct_answer" platform="android, iOS">我将无法访问账户和资金。</string>
+  <string name="Check_answer" platform="android, iOS">检查答案</string>
+  <string name="tip_quiz_title_correct" platform="android, iOS">正确！</string>
+  <string name="tip_quiz_title_wrong" platform="android, iOS">哎呀，答错了</string>
+  <string name="tip_quiz_answer" platform="android, iOS">PIN 是你钱包的钥匙，丢失后无法找回。</string>
 </resources>
