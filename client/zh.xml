@@ -2342,4 +2342,10 @@
   <string name="tip_quiz_title_correct" platform="android, iOS">正确！</string>
   <string name="tip_quiz_title_wrong" platform="android, iOS">哎呀，答错了</string>
   <string name="tip_quiz_answer" platform="android, iOS">PIN 是你钱包的钥匙，丢失后无法找回。</string>
+  <string name="Asset" platform="android, iOS">资产</string>
+  <string name="Set_Amount" platform="android, iOS">设置金额</string>
+  <string name="Minimum_Deposit" platform="android, iOS">最小充值金额</string>
+  <string name="Maximum_Deposit" platform="android, iOS">最大充值金额</string>
+  <string name="Block_Confirmations" platform="android, iOS">到账确认区块数</string>
+  <string name="Lightning_Address" platform="android, iOS">Lightning 地址</string>
 </resources>

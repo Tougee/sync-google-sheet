@@ -2370,4 +2370,10 @@
   <string name="tip_quiz_title_correct" platform="android, iOS">Correct!</string>
   <string name="tip_quiz_title_wrong" platform="android, iOS">Oops, wrong answer</string>
   <string name="tip_quiz_answer" platform="android, iOS">The PIN is the key to your wallet, and it’s unrecoverable if lost.</string>
+  <string name="Asset" platform="android, iOS">Asset</string>
+  <string name="Set_Amount" platform="android, iOS">Set Amount</string>
+  <string name="Minimum_Deposit" platform="android, iOS">Minimum Deposit</string>
+  <string name="Maximum_Deposit" platform="android, iOS">Maximum Deposit</string>
+  <string name="Block_Confirmations" platform="android, iOS">Block Confirmations</string>
+  <string name="Lightning_Address" platform="android, iOS">Lightning Address</string>
 </resources>
