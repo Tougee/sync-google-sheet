@@ -189,6 +189,7 @@
 	<string name="Approving_Transaction">正在批准</string>
 	<string name="Approving_Transaction_Failed">批准失敗</string>
 	<string name="Ask_me_anything">向我提問</string>
+	<string name="Asset">資產</string>
 	<string name="Asset_Key">資產標識</string>
 	<string name="Asset_Migration">資產遷移</string>
 	<string name="Asset_not_found">找不到該資產</string>
@@ -241,6 +242,7 @@
 	<string name="Best_price">最優價格</string>
 	<string name="Biometric_Payment">生物識別支付</string>
 	<string name="Block">屏蔽用户</string>
+	<string name="Block_Confirmations">到賬確認區塊數</string>
 	<string name="block_tip">被屏蔽的用户不能給你發送消息或者邀請你加入羣聊</string>
 	<string name="Blocked">已屏蔽</string>
 	<string name="Blocked_Users">屏蔽名單</string>
@@ -887,6 +889,7 @@
 	<string name="leave_message_to_team_mixin">給 Mixin 客服留言</string>
 	<string name="Legacy_Network">舊網絡</string>
 	<string name="legacy_network_transfer_hint">當前轉賬使用的是舊網絡</string>
+	<string name="Lightning_Address">Lightning 地址</string>
 	<string name="Line_busy">忙線未接聽</string>
 	<string name="Line_busy_remote">對方忙</string>
 	<string name="Link">鏈接</string>
@@ -940,6 +943,7 @@
 	<string name="Markets">行情</string>
 	<string name="Max">最大值</string>
 	<string name="max_favorite_bots_description">最多可以添加 5 個喜歡的機器人，注意其他人可以在你的個人信息彈窗裏查看這些你喜歡的機器人。</string>
+	<string name="Maximum_Deposit">最大充值金額</string>
 	<string name="Media">媒體</string>
 	<string name="membership_advance">進階版</string>
 	<string name="membership_advance_description">在多設備上使用多個密鑰，避免單點故障，並在密鑰丟失時獲得去中心化的恢復服務。</string>
@@ -968,6 +972,7 @@
 	<string name="Messaging_Node">消息節點</string>
 	<string name="Messaging_node_running">消息節點正在運行</string>
 	<string name="method_not_supported">不支持此方法: %1$s</string>
+	<string name="Minimum_Deposit">最小充值金額</string>
 	<string name="minimum_withdrawal">最小提現數量</string>
 	<plurals name="Minute" tools:ignore="UnusedQuantity">
 		<item quantity="one">%d 分鐘</item>
@@ -1423,6 +1428,7 @@
 	<string name="Sending_Withdrawal_Request">正在發送提現</string>
 	<string name="session_not_found">沒有對應的連接</string>
 	<string name="Set">設置</string>
+	<string name="Set_Amount">設置金額</string>
 	<string name="Set_as_avatar">設置為頭像</string>
 	<string name="set_disappearing_message_time_to">%1$s將限時消息設置為 %2$s</string>
 	<string name="Set_emergency_create_successfully">設置恢復聯繫人成功</string>

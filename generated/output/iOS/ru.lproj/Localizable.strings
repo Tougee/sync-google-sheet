@@ -160,6 +160,7 @@
 "approving_transaction" = "Approving Transaction";
 "approving_transaction_failed" = "Approving Transaction Failed";
 "ask_me_anything" = "Ask me anything";
+"asset" = "Asset";
 "asset_key" = "Ключ актива";
 "asset_not_found" = "Актив не найден.";
 "asset_type" = "Тип актива";
@@ -199,6 +200,7 @@
 "batch_transfer_confirmation" = "Batch Transfer Confirmation";
 "before_you_proceed" = "Before you proceed";
 "block" = "Блокировать";
+"block_confirmations" = "Block Confirmations";
 "block_hint" = "Заблокированные контакты больше не смогут звонить вам или отправлять вам сообщения";
 "block_tip" = "Заблокированные пользователи не могут отправлять вам сообщения или добавлять вас в группы.";
 "blocked" = "Заблокировано";
@@ -749,6 +751,7 @@
 "legacy_network" = "Legacy Network";
 "legacy_network_transfer_hint" = "Current transfer is using legacy network";
 "light" = "Светлое";
+"lightning_address" = "Lightning Address";
 "line_busy" = "Линия занята";
 "line_busy_remote" = "Линия занята";
 "link" = "Link";
@@ -791,6 +794,7 @@
 "markets" = "Markets";
 "max" = "Max";
 "max_favorite_bots_description" = "You can add a maximum of 5 favorite bots. Please be aware that others can view these bots on your profile.";
+"maximum_deposit" = "Maximum Deposit";
 "media" = "Медиа";
 "membership_advance" = "Advance";
 "membership_advance_description" = "Use multiple keys on multiple devices to avoid single point of failure, and get decentralized recovery service in case of key loss.";
@@ -814,6 +818,7 @@
 "message_sent" = "Сообщение отправлено";
 "messages" = "Сообщения";
 "method_not_supported" = "Method %@ is not supported";
+"minimum_deposit" = "Minimum Deposit";
 "minimum_withdrawal" = "Minimum Withdrawal";
 "minute" = "%d минута";
 "minute_count" = "%d минуты";
@@ -1247,6 +1252,7 @@
 "sending_withdrawal_request" = "Sending Withdrawal Request";
 "session_not_found" = "Session not found";
 "set" = "Установлен";
+"set_amount" = "Set Amount";
 "set_as_avatar" = "Set as Avatar";
 "set_disappearing_message_time_to" = "%1$@ установил время исчезновения сообщения на %2$@.";
 "set_emergency_create_successfully" = "Set recovery contact successfully";

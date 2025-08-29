@@ -190,6 +190,7 @@
 	<string name="Approving_Transaction">Approving Transaction</string>
 	<string name="Approving_Transaction_Failed">Approving Transaction Failed</string>
 	<string name="Ask_me_anything">Ask me anything</string>
+	<string name="Asset">Asset</string>
 	<string name="Asset_Key">Asset Key</string>
 	<string name="Asset_Migration">Network Upgrade</string>
 	<string name="Asset_not_found">Asset not found.</string>
@@ -243,6 +244,7 @@
 	<string name="Best_price">Best price</string>
 	<string name="Biometric_Payment">Biometric Payment</string>
 	<string name="Block">Block</string>
+	<string name="Block_Confirmations">Block Confirmations</string>
 	<string name="block_tip">Blocked users can\'t send you messages or add you to groups.</string>
 	<string name="Blocked">Blocked</string>
 	<string name="Blocked_Users">Blocked Users</string>
@@ -903,6 +905,7 @@
 	<string name="leave_message_to_team_mixin">Leave a message to Team Mixin</string>
 	<string name="Legacy_Network">Legacy Network</string>
 	<string name="legacy_network_transfer_hint">Current transfer is using legacy network</string>
+	<string name="Lightning_Address">Lightning Address</string>
 	<string name="Line_busy">Line busy</string>
 	<string name="Line_busy_remote">Line busy</string>
 	<string name="Link">Link</string>
@@ -957,6 +960,7 @@
 	<string name="Markets">Markets</string>
 	<string name="Max">Max</string>
 	<string name="max_favorite_bots_description">You can add a maximum of 5 favorite bots. Please be aware that others can view these bots on your profile.</string>
+	<string name="Maximum_Deposit">Maximum Deposit</string>
 	<string name="Media">Media</string>
 	<string name="membership_advance">Advance</string>
 	<string name="membership_advance_description">Use multiple keys on multiple devices to avoid single point of failure, and get decentralized recovery service in case of key loss.</string>
@@ -985,6 +989,7 @@
 	<string name="Messaging_Node">Messaging Node</string>
 	<string name="Messaging_node_running">Messaging node running</string>
 	<string name="method_not_supported">Method %1$s is not supported</string>
+	<string name="Minimum_Deposit">Minimum Deposit</string>
 	<string name="minimum_withdrawal">Minimum Withdrawal</string>
 	<plurals name="Minute">
 		<item quantity="one">%d Minute</item>
@@ -1443,6 +1448,7 @@
 	<string name="Sending_Withdrawal_Request">Sending Withdrawal Request</string>
 	<string name="session_not_found">Session not found</string>
 	<string name="Set">Set</string>
+	<string name="Set_Amount">Set Amount</string>
 	<string name="Set_as_avatar">Set as Avatar</string>
 	<string name="set_disappearing_message_time_to">%1$s set disappearing message time to %2$s</string>
 	<string name="Set_emergency_create_successfully">Set recovery contact successfully</string>

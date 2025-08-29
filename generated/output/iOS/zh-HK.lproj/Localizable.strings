@@ -160,6 +160,7 @@
 "approving_transaction" = "正在批准";
 "approving_transaction_failed" = "批准失敗";
 "ask_me_anything" = "向我提問";
+"asset" = "資產";
 "asset_key" = "資產標識";
 "asset_not_found" = "找不到該資產";
 "asset_type" = "資產類型";
@@ -199,6 +200,7 @@
 "batch_transfer_confirmation" = "批量轉賬確認";
 "before_you_proceed" = "請在繼續之前";
 "block" = "屏蔽用户";
+"block_confirmations" = "到賬確認區塊數";
 "block_hint" = "屏蔽後對方無法向您撥打電話或發送消息";
 "block_tip" = "被屏蔽的用户不能給你發送消息或者邀請你加入羣聊";
 "blocked" = "已屏蔽";
@@ -749,6 +751,7 @@
 "legacy_network" = "舊網絡";
 "legacy_network_transfer_hint" = "當前轉賬使用的是舊網絡";
 "light" = "淺色";
+"lightning_address" = "Lightning 地址";
 "line_busy" = "忙線未接聽";
 "line_busy_remote" = "對方忙";
 "link" = "鏈接";
@@ -791,6 +794,7 @@
 "markets" = "行情";
 "max" = "最大值";
 "max_favorite_bots_description" = "最多可以添加 5 個喜歡的機器人，注意其他人可以在你的個人信息彈窗裏查看這些你喜歡的機器人。";
+"maximum_deposit" = "最大充值金額";
 "media" = "媒體";
 "membership_advance" = "進階版";
 "membership_advance_description" = "在多設備上使用多個密鑰，避免單點故障，並在密鑰丟失時獲得去中心化的恢復服務。";
@@ -814,6 +818,7 @@
 "message_sent" = "消息已發送";
 "messages" = "消息";
 "method_not_supported" = "不支持此方法: %@";
+"minimum_deposit" = "最小充值金額";
 "minimum_withdrawal" = "最小提現數量";
 "minute" = "%d 分鐘";
 "minute_count" = "%d 分鐘";
@@ -1247,6 +1252,7 @@
 "sending_withdrawal_request" = "正在發送提現";
 "session_not_found" = "沒有對應的連接";
 "set" = "設置";
+"set_amount" = "設置金額";
 "set_as_avatar" = "設置為頭像";
 "set_disappearing_message_time_to" = "%1$@將限時消息設置為 %2$@";
 "set_emergency_create_successfully" = "設置恢復聯繫人成功";

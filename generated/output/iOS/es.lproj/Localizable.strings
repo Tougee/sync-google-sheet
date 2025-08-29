@@ -160,6 +160,7 @@
 "approving_transaction" = "Approving Transaction";
 "approving_transaction_failed" = "Approving Transaction Failed";
 "ask_me_anything" = "Ask me anything";
+"asset" = "Asset";
 "asset_key" = "Clave de activo";
 "asset_not_found" = "Activo no encontrado.";
 "asset_type" = "Tipo de activo";
@@ -199,6 +200,7 @@
 "batch_transfer_confirmation" = "Batch Transfer Confirmation";
 "before_you_proceed" = "Before you proceed";
 "block" = "Bloquear";
+"block_confirmations" = "Block Confirmations";
 "block_hint" = "Los contactos bloqueados ya no podrán llamarte ni enviarte mensajes";
 "block_tip" = "Los usuarios bloqueados no pueden enviarte mensajes ni añadirte a grupos.";
 "blocked" = "Bloqueado";
@@ -749,6 +751,7 @@
 "legacy_network" = "Legacy Network";
 "legacy_network_transfer_hint" = "Current transfer is using legacy network";
 "light" = "Claro";
+"lightning_address" = "Lightning Address";
 "line_busy" = "Linea ocupada";
 "line_busy_remote" = "Linea ocupada";
 "link" = "Link";
@@ -791,6 +794,7 @@
 "markets" = "Markets";
 "max" = "Max";
 "max_favorite_bots_description" = "You can add a maximum of 5 favorite bots. Please be aware that others can view these bots on your profile.";
+"maximum_deposit" = "Maximum Deposit";
 "media" = "Medios de comunicación";
 "membership_advance" = "Advance";
 "membership_advance_description" = "Use multiple keys on multiple devices to avoid single point of failure, and get decentralized recovery service in case of key loss.";
@@ -814,6 +818,7 @@
 "message_sent" = "Mensaje enviado";
 "messages" = "Mensajes";
 "method_not_supported" = "Method %@ is not supported";
+"minimum_deposit" = "Minimum Deposit";
 "minimum_withdrawal" = "Minimum Withdrawal";
 "minute" = "%d Minuto";
 "minute_count" = "%d Minutos";
@@ -1247,6 +1252,7 @@
 "sending_withdrawal_request" = "Sending Withdrawal Request";
 "session_not_found" = "Session not found";
 "set" = "Establecer";
+"set_amount" = "Set Amount";
 "set_as_avatar" = "Set as Avatar";
 "set_disappearing_message_time_to" = "%1$@ ha establecido el tiempo de desaparición del mensaje a %2$@";
 "set_emergency_create_successfully" = "Set recovery contact successfully";
