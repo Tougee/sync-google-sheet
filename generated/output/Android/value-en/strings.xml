@@ -549,6 +549,7 @@
 	<string name="deposit_memo_notice">Memo is required, or you will lose your coins.</string>
 	<string name="deposit_notice">Both Memo and Address are required to deposit your %1$s to you account.</string>
 	<string name="Deposit_Pending_Confirmation">%1$s Pending Confirmation</string>
+	<string name="deposit_suspended">%1$s deposits have been suspended. Possible reasons:\n• Node failure\n• Network hard fork\n• Network congestion\n• Low usage\nNote: %1$s assets already deposited can still be transferred.</string>
 	<string name="deposit_tip_btc">This address only supports BTC.</string>
 	<string name="deposit_tip_common">This address only supports %1$s.</string>
 	<string name="deposit_tip_eos">This address supports all base on EOS tokens.</string>
@@ -556,6 +557,7 @@
 	<string name="deposit_tip_trx">This address supports all TRC-10 and TRC-20 tokens.</string>
 	<string name="deposit_token">Deposit %1$s</string>
 	<string name="deposit_token_description">Deposit from other exchanges or wallets</string>
+	<string name="deposit_token_to_mixin">Deposit %1$s to Mixin</string>
 	<string name="Deposits_Pending_Confirmation">%1$d Deposits Pending Confirmation</string>
 	<string name="depost_address_updated">%1$s Deposit Address Updated</string>
 	<string name="depost_address_updated_description">Your %1$s deposit address has been updated. The deposit address will automatically update with system or network upgrades. Old addresses are still valid for deposits, but it is not recommended for further use.</string>
@@ -627,6 +629,7 @@
 	<string name="Encrypted">Encrypted</string>
 	<string name="End">End</string>
 	<string name="End_to_End_Encryption">End-to-end Encrypted</string>
+	<string name="Enter_Amount">Enter Amount</string>
 	<string name="enter_mnemonic_phrase">Enter or paste your %1$d mnemonic words.</string>
 	<string name="Enter_new_anonymous_number">Enter your new anonymous number</string>
 	<string name="Enter_new_phone_number">Enter your new phone number</string>
@@ -906,6 +909,11 @@
 	<string name="Legacy_Network">Legacy Network</string>
 	<string name="legacy_network_transfer_hint">Current transfer is using legacy network</string>
 	<string name="Lightning_Address">Lightning Address</string>
+	<string name="lightning_address_explain">%1$s is your Lightning Network address. With this address, you can conveniently and securely receive payments:</string>
+	<string name="lightning_address_explain_1">The address format is similar to an email, simple and easy to remember.</string>
+	<string name="lightning_address_explain_2">Reusable, no need to generate a new one each time.</string>
+	<string name="lightning_address_explain_3">Supported by mainstream Lightning Network wallets.</string>
+	<string name="lightning_address_explain_mao">Each MAO domain corresponds to a Lightning Network address. If you own a MAO domain, you can receive Lightning Network transfers in the format name@mao.id</string>
 	<string name="Line_busy">Line busy</string>
 	<string name="Line_busy_remote">Line busy</string>
 	<string name="Link">Link</string>
@@ -1385,6 +1393,8 @@
 	<string name="scan_code_description">Use another device to scan the QR code below</string>
 	<string name="Scan_QR">Scan QR</string>
 	<string name="Scan_QR_Code">Scan QR Code</string>
+	<string name="scan_qr_code_to_send_token">Scan the QR Code to send me %1$s</string>
+	<string name="scan_qr_code_to_transfer_on_mixin">Scan the QR Code to transfer me %1$s on Mixin</string>
 	<string name="Scan_to_Restore">Scan to Restore</string>
 	<string name="Scan_to_Restore_Hint">Click the button below to scan the code and establish a connection.</string>
 	<string name="Screen_Lock">Screen Lock</string>
@@ -1597,7 +1607,6 @@
 	<string name="Successful">Successful</string>
 	<string name="sumsub_not_ready">KYC not available</string>
 	<string name="Sunday">Sunday</string>
-	<string name="suspended_deposit">The deposit for %1$s has been temporarily suspended. This action has been taken due to potential factors such as low utilization, node failure, blockchain network hard fork, or congestion. We kindly request your attention to the fact that the %2$s assets already stored in the wallet remain transferable.</string>
 	<string name="Suspicious_Link">Suspicious Link</string>
 	<string name="Swap">Swap</string>
 	<string name="Swap_Again">Swap Again</string>

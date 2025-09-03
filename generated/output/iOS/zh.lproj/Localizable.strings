@@ -469,6 +469,7 @@
 "deposit_dust" = "最小充值数：%1$@ %2$@";
 "deposit_hash" = "充值哈希";
 "deposit_pending_confirmation" = "%@ 充值确认中";
+"deposit_suspended" = "%1$@ 充值已暂停，可能的原因包括：\n• 节点故障\n• 网络硬分叉\n• 网络拥堵\n• 使用率较低\n注意已转入的 %1$@ 资产可以继续转账。";
 "deposit_tip_btc" = "该充值地址仅支持 BTC。";
 "deposit_tip_common" = "该充值地址仅支持 %@。";
 "deposit_tip_eos" = "支持所有基于 EOS 发行的代币。";
@@ -476,6 +477,7 @@
 "deposit_tip_trx" = "支持 TRX 和所有符合 TRC-10、TRC-20 标准的代币。";
 "deposit_token" = "充值 %@";
 "deposit_token_description" = "从其他交易所或钱包转入";
+"deposit_token_to_mixin" = "充值 %@ 到 Mixin";
 "deposits_pending_confirmation" = "有 %d 笔充值确认中";
 "depost_address_updated" = "%@ 充值地址已更新";
 "depost_address_updated_description" = "您的 %@ 充值地址已更新，充值地址将随着系统或网络升级而自动更新，旧的地址仍可充值并会自动入账，但是不推荐使用。";
@@ -535,6 +537,7 @@
 "enable_touch_pay_hint" = "输入 PIN 启用指纹支付";
 "end" = "结束";
 "end_to_end_encryption" = "端到端加密";
+"enter_amount" = "输入金额";
 "enter_mnemonic_phrase" = "输入或粘贴您的 %d 个助记词。";
 "enter_new_anonymous_number" = "输入你的新匿名号码";
 "enter_new_phone_number" = "输入你的新手机号码";
@@ -752,6 +755,11 @@
 "legacy_network_transfer_hint" = "当前转账使用的是旧网络";
 "light" = "浅色";
 "lightning_address" = "Lightning 地址";
+"lightning_address_explain" = "%@ 是您的闪电网络地址，通过该地址，您可以便捷、安全地接收支付：";
+"lightning_address_explain_1" = "地址格式类似邮箱，简单好记。";
+"lightning_address_explain_2" = "可重复使用，无需每次生成新的。";
+"lightning_address_explain_3" = "主流闪电网络钱包都支持。";
+"lightning_address_explain_mao" = "每一个 MAO 域名对应一个闪电网络地址，如果您拥有 MAO 域名，可以按 name@mao.id 格式接收闪电网络转账。";
 "line_busy" = "忙线未接听";
 "line_busy_remote" = "对方忙";
 "link" = "链接";
@@ -1181,6 +1189,8 @@
 "scan_code_add_me" = "用 Mixin 扫描二维码加我为联系人";
 "scan_code_description" = "请用其他设备扫描以下二维码";
 "scan_qr_code" = "扫描二维码";
+"scan_qr_code_to_send_token" = "扫描二维码向我发送 %@";
+"scan_qr_code_to_transfer_on_mixin" = "扫描二维码通过 Mixin 向我转账 %@";
 "scan_to_restore" = "扫描以恢复";
 "scan_to_restore_hint" = "点下面按钮扫码建立连接";
 "screen_lock" = "锁屏";
@@ -1360,7 +1370,6 @@
 "storage_usage" = "储存空间";
 "stranger_hint" = "对方不是你的联系人";
 "successful" = "成功";
-"suspended_deposit" = "%1$@ 充值已暂停，可能的原因是因为使用率太低、节点故障、区块链网络硬分叉或者拥堵，注意已转入的 %2$@ 资产可以继续转账。";
 "suspicious_link" = "可疑链接";
 "swap" = "交易";
 "swap_again" = "再来一笔";

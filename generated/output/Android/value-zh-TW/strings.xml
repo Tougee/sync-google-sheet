@@ -541,6 +541,7 @@
 	<string name="deposit_memo_notice">充值時務必填寫 Memo（備註），否則您會丟失您的數字幣</string>
 	<string name="deposit_notice">地址 和 Memo（備註）同時使用才能充值 %1$s 到你的賬號。</string>
 	<string name="Deposit_Pending_Confirmation">%1$s 充值確認中</string>
+	<string name="deposit_suspended">%1$s 充值已暫停，可能的原因包括：\n• 節點故障\n• 網路硬分叉\n• 網路擁堵\n• 使用率較低\n注意已轉入的 %1$s 資產可以繼續轉賬。</string>
 	<string name="deposit_tip_btc">該充值地址僅支援 BTC。</string>
 	<string name="deposit_tip_common">該充值地址僅支援 %1$s。</string>
 	<string name="deposit_tip_eos">支援所有基於 EOS 發行的代幣。</string>
@@ -548,6 +549,7 @@
 	<string name="deposit_tip_trx">支援 TRX 和所有符合 TRC-10、TRC-20 標準的代幣。</string>
 	<string name="deposit_token">充值 %1$s</string>
 	<string name="deposit_token_description">從其他交易所或錢包轉入</string>
+	<string name="deposit_token_to_mixin">充值 %1$s 到 Mixin</string>
 	<string name="Deposits_Pending_Confirmation">有 %1$d 筆充值確認中</string>
 	<string name="depost_address_updated">%1$s 充值地址已更新</string>
 	<string name="depost_address_updated_description">您的 %1$s 充值地址已更新，充值地址將隨著系統或網路升級而自動更新，舊的地址仍可充值並會自動入賬，但是不推薦使用。</string>
@@ -618,6 +620,7 @@
 	<string name="Encrypted">端到端加密</string>
 	<string name="End">結束</string>
 	<string name="End_to_End_Encryption">端到端加密</string>
+	<string name="Enter_Amount">輸入金額</string>
 	<string name="enter_mnemonic_phrase">輸入或貼上您的 %1$d 個助記詞。</string>
 	<string name="Enter_new_anonymous_number">輸入你的新匿名號碼</string>
 	<string name="Enter_new_phone_number">輸入你的新手機號碼</string>
@@ -890,6 +893,11 @@
 	<string name="Legacy_Network">舊網路</string>
 	<string name="legacy_network_transfer_hint">當前轉賬使用的是舊網路</string>
 	<string name="Lightning_Address">Lightning 地址</string>
+	<string name="lightning_address_explain">%1$s 是您的閃電網路地址，透過該地址，您可以便捷、安全地接收支付：</string>
+	<string name="lightning_address_explain_1">地址格式類似郵箱，簡單好記。</string>
+	<string name="lightning_address_explain_2">可重複使用，無需每次生成新的。</string>
+	<string name="lightning_address_explain_3">主流閃電網路錢包都支援。</string>
+	<string name="lightning_address_explain_mao">每一個 MAO 域名對應一個閃電網路地址，如果您擁有 MAO 域名，可以按 name@mao.id 格式接收閃電網路轉賬。</string>
 	<string name="Line_busy">忙線未接聽</string>
 	<string name="Line_busy_remote">對方忙</string>
 	<string name="Link">連結</string>
@@ -1366,6 +1374,8 @@
 	<string name="scan_code_description">請用其他裝置掃描以下二維碼</string>
 	<string name="Scan_QR">掃一掃</string>
 	<string name="Scan_QR_Code">掃描二維碼</string>
+	<string name="scan_qr_code_to_send_token">掃描二維碼向我傳送 %1$s</string>
+	<string name="scan_qr_code_to_transfer_on_mixin">掃描二維碼透過 Mixin 向我轉賬 %1$s</string>
 	<string name="Scan_to_Restore">掃描以恢復</string>
 	<string name="Scan_to_Restore_Hint">點下面按鈕掃碼建立連線</string>
 	<string name="Screen_Lock">鎖屏</string>
@@ -1576,7 +1586,6 @@
 	<string name="Successful">成功</string>
 	<string name="sumsub_not_ready">KYC服務不可用</string>
 	<string name="Sunday">星期日</string>
-	<string name="suspended_deposit">%1$s 充值已暫停，可能的原因是因為使用率太低、節點故障、區塊鏈網路硬分叉或者擁堵，注意已轉入的 %2$s 資產可以繼續轉賬。</string>
 	<string name="Suspicious_Link">可疑連結</string>
 	<string name="Swap">交易</string>
 	<string name="Swap_Again">再來一筆</string>

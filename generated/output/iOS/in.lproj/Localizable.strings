@@ -469,6 +469,7 @@
 "deposit_dust" = "Minimum deposit: %1$@ %2$@";
 "deposit_hash" = "Deposit Hash";
 "deposit_pending_confirmation" = "%@ Pending Confirmation";
+"deposit_suspended" = "%1$@ deposits have been suspended. Possible reasons:\n• Node failure\n• Network hard fork\n• Network congestion\n• Low usage\nNote: %1$@ assets already deposited can still be transferred.";
 "deposit_tip_btc" = "Alamat ini hanya mendukung BTC.";
 "deposit_tip_common" = "Alamat ini hanya mendukung %@.";
 "deposit_tip_eos" = "Alamat ini mendukung semua token berbasis EOS, seperti EOS, IQ, dll.";
@@ -476,6 +477,7 @@
 "deposit_tip_trx" = "Alamat ini mendukung semua token TRC-10 dan TRC-20, seperti TRX, BTT, USDT-TRON, dll.";
 "deposit_token" = "Deposit %@";
 "deposit_token_description" = "Deposit from other exchanges or wallets";
+"deposit_token_to_mixin" = "Deposit %@ to Mixin";
 "deposits_pending_confirmation" = "%d Deposits Pending Confirmation";
 "depost_address_updated" = "%@ Deposit Address Updated";
 "depost_address_updated_description" = "Your %@ deposit address has been updated. The deposit address will automatically update with system or network upgrades. Old addresses are still valid for deposits, but it is not recommended for further use.";
@@ -535,6 +537,7 @@
 "enable_touch_pay_hint" = "Confirm PIN to enable Touch Pay";
 "end" = "End";
 "end_to_end_encryption" = "Terenkripsi end-to-end";
+"enter_amount" = "Enter Amount";
 "enter_mnemonic_phrase" = "Enter or paste your %d mnemonic words.";
 "enter_new_anonymous_number" = "Enter your new anonymous number";
 "enter_new_phone_number" = "Masukkan nomor ponsel baru Anda";
@@ -752,6 +755,11 @@
 "legacy_network_transfer_hint" = "Current transfer is using legacy network";
 "light" = "Light";
 "lightning_address" = "Lightning Address";
+"lightning_address_explain" = "%@ is your Lightning Network address. With this address, you can conveniently and securely receive payments:";
+"lightning_address_explain_1" = "The address format is similar to an email, simple and easy to remember.";
+"lightning_address_explain_2" = "Reusable, no need to generate a new one each time.";
+"lightning_address_explain_3" = "Supported by mainstream Lightning Network wallets.";
+"lightning_address_explain_mao" = "Each MAO domain corresponds to a Lightning Network address. If you own a MAO domain, you can receive Lightning Network transfers in the format name@mao.id";
 "line_busy" = "Jaringan sibuk";
 "line_busy_remote" = "Jaringan sibuk";
 "link" = "Link";
@@ -1181,6 +1189,8 @@
 "scan_code_add_me" = "Pindai kode QR untuk menambahkan saya di Mixin";
 "scan_code_description" = "Use another device to scan the QR code below";
 "scan_qr_code" = "Pindai Kode QR";
+"scan_qr_code_to_send_token" = "Scan the QR Code to send me %@";
+"scan_qr_code_to_transfer_on_mixin" = "Scan the QR Code to transfer me %@ on Mixin";
 "scan_to_restore" = "Scan to Restore";
 "scan_to_restore_hint" = "Click the button below to scan the code and establish a connection.";
 "screen_lock" = "Kunci Layar";
@@ -1360,7 +1370,6 @@
 "storage_usage" = "Penggunaan Penyimpanan";
 "stranger_hint" = "This sender is not in your contacts";
 "successful" = "Berhasil";
-"suspended_deposit" = "The deposit for %1$@ has been temporarily suspended. This action has been taken due to potential factors such as low utilization, node failure, blockchain network hard fork, or congestion. We kindly request your attention to the fact that the %2$@ assets already stored in the wallet remain transferable.";
 "suspicious_link" = "Tautan yang Mencurigakan";
 "swap" = "Swap";
 "swap_again" = "Swap Again";
