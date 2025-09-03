@@ -1446,7 +1446,6 @@
   <string name="Successful" platform="android, Desktop, iOS">成功</string>
   <string name="sumsub_not_ready" platform="android">KYC服务不可用</string>
   <string name="Sunday" platform="android">星期日</string>
-  <string name="suspended_deposit" platform="android, iOS">%1$s 充值已暂停，可能的原因是因为使用率太低、节点故障、区块链网络硬分叉或者拥堵，注意已转入的 %2$s 资产可以继续转账。</string>
   <string name="Suspicious_Link" platform="android, iOS">可疑链接</string>
   <string name="switch_payment_method" platform="android">使用其他支付方式</string>
   <string name="Switching_currency" platform="android">切换货币中</string>
@@ -2348,4 +2347,14 @@
   <string name="Maximum_Deposit" platform="android, iOS">最大充值金额</string>
   <string name="Block_Confirmations" platform="android, iOS">到账确认区块数</string>
   <string name="Lightning_Address" platform="android, iOS">Lightning 地址</string>
+  <string name="lightning_address_explain" platform="android, iOS">%1$s 是您的闪电网络地址，通过该地址，您可以便捷、安全地接收支付：</string>
+  <string name="lightning_address_explain_1" platform="android, iOS">地址格式类似邮箱，简单好记。</string>
+  <string name="lightning_address_explain_2" platform="android, iOS">可重复使用，无需每次生成新的。</string>
+  <string name="lightning_address_explain_3" platform="android, iOS">主流闪电网络钱包都支持。</string>
+  <string name="lightning_address_explain_mao" platform="android, iOS">每一个 MAO 域名对应一个闪电网络地址，如果您拥有 MAO 域名，可以按 name@mao.id 格式接收闪电网络转账。</string>
+  <string name="deposit_suspended" platform="android, iOS">%1$s 充值已暂停，可能的原因包括：\n• 节点故障\n• 网络硬分叉\n• 网络拥堵\n• 使用率较低\n注意已转入的 %1$s 资产可以继续转账。</string>
+  <string name="Enter_Amount" platform="android, iOS">输入金额</string>
+  <string name="deposit_token_to_mixin" platform="android, iOS">充值 %1$s 到 Mixin</string>
+  <string name="scan_qr_code_to_send_token" platform="android, iOS">扫描二维码向我发送 %1$s</string>
+  <string name="scan_qr_code_to_transfer_on_mixin" platform="android, iOS">扫描二维码通过 Mixin 向我转账 %1$s</string>
 </resources>

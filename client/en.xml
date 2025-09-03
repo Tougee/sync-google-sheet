@@ -1466,7 +1466,6 @@
   <string name="Successful" platform="android, Desktop, iOS">Successful</string>
   <string name="sumsub_not_ready" platform="android">KYC not available</string>
   <string name="Sunday" platform="android">Sunday</string>
-  <string name="suspended_deposit" platform="android, iOS">The deposit for %1$s has been temporarily suspended. This action has been taken due to potential factors such as low utilization, node failure, blockchain network hard fork, or congestion. We kindly request your attention to the fact that the %2$s assets already stored in the wallet remain transferable.</string>
   <string name="Suspicious_Link" platform="android, iOS">Suspicious Link</string>
   <string name="switch_payment_method" platform="android">Switch Payment Method</string>
   <string name="Switching_currency" platform="android">Switching currency</string>
@@ -2376,4 +2375,14 @@
   <string name="Maximum_Deposit" platform="android, iOS">Maximum Deposit</string>
   <string name="Block_Confirmations" platform="android, iOS">Block Confirmations</string>
   <string name="Lightning_Address" platform="android, iOS">Lightning Address</string>
+  <string name="lightning_address_explain" platform="android, iOS">%1$s is your Lightning Network address. With this address, you can conveniently and securely receive payments:</string>
+  <string name="lightning_address_explain_1" platform="android, iOS">The address format is similar to an email, simple and easy to remember.</string>
+  <string name="lightning_address_explain_2" platform="android, iOS">Reusable, no need to generate a new one each time.</string>
+  <string name="lightning_address_explain_3" platform="android, iOS">Supported by mainstream Lightning Network wallets.</string>
+  <string name="lightning_address_explain_mao" platform="android, iOS">Each MAO domain corresponds to a Lightning Network address. If you own a MAO domain, you can receive Lightning Network transfers in the format name@mao.id</string>
+  <string name="deposit_suspended" platform="android, iOS">%1$s deposits have been suspended. Possible reasons:\n• Node failure\n• Network hard fork\n• Network congestion\n• Low usage\nNote: %1$s assets already deposited can still be transferred.</string>
+  <string name="Enter_Amount" platform="android, iOS">Enter Amount</string>
+  <string name="deposit_token_to_mixin" platform="android, iOS">Deposit %1$s to Mixin</string>
+  <string name="scan_qr_code_to_send_token" platform="android, iOS">Scan the QR Code to send me %1$s</string>
+  <string name="scan_qr_code_to_transfer_on_mixin" platform="android, iOS">Scan the QR Code to transfer me %1$s on Mixin</string>
 </resources>
