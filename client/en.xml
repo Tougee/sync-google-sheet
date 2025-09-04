@@ -2380,7 +2380,7 @@
   <string name="lightning_address_explain_1" platform="android, iOS">The address format is similar to an email, simple and easy to remember.</string>
   <string name="lightning_address_explain_2" platform="android, iOS">Reusable, no need to generate a new one each time.</string>
   <string name="lightning_address_explain_3" platform="android, iOS">Supported by mainstream Lightning Network wallets.</string>
-  <string name="lightning_address_explain_mao" platform="android, iOS">Each MAO domain corresponds to a Lightning Network address. If you own a MAO domain, you can receive Lightning Network transfers in the format name@mao.id</string>
+  <string name="lightning_address_explain_mao" platform="android, iOS">Each MAO domain corresponds to a Lightning Network address. If you own a MAO domain, you can use name@mao.id to receive Lightning Network transfers. </string>
   <string name="deposit_suspended" platform="android, iOS">%1$s deposits have been suspended. Possible reasons:\n• Node failure\n• Network hard fork\n• Network congestion\n• Low usage\nNote: %1$s assets already deposited can still be transferred.</string>
   <string name="Enter_Amount" platform="android, iOS">Enter Amount</string>
   <string name="deposit_token_to_mixin" platform="android, iOS">Deposit %1$s to Mixin</string>
