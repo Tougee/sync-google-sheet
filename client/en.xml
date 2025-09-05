@@ -479,8 +479,10 @@
   <string name="deposit_confirmation.count" platform="android, iOS">Deposit will arrive %1$d block confirmations</string>
   <string name="deposit_dust" platform="android, iOS">Minimum deposit: %1$s %2$s</string>
   <string name="deposit_hash" platform="android,iOS,Desktop">Deposit Hash</string>
-  <string name="deposit_memo_notice" platform="android">Memo is required, or you will lose your coins.</string>
-  <string name="deposit_notice" platform="android">Both Memo and Address are required to deposit your %1$s to you account.</string>
+  <string name="deposit_memo_notice" platform="android, iOS">Memo is required, or you will lose your coins.</string>
+  <string name="deposit_tag_notice" platform="android, iOS">Tag is required, or you will lose your coins.</string>
+  <string name="deposit_memo_address_notice" platform="android, iOS">Both Memo and Address are required to deposit your %1$s to you account.</string>
+  <string name="deposit_tag_address_notice" platform="android, iOS">Both Tag and Address are required to deposit your %1$s to you account.</string>
   <string name="deposit_tip_btc" platform="android, iOS">This address only supports BTC.</string>
   <string name="deposit_tip_common" platform="android, iOS">This address only supports %1$s.</string>
   <string name="deposit_tip_eos" platform="android, iOS">This address supports all base on EOS tokens.</string>
@@ -1774,7 +1776,7 @@
   <string name="address_edited_description" platform="android, iOS">The Mixin server has confirmed your address editing request. You can immediately use this address for withdrawals.</string>
   <string name="Confirm_Deleting_Address" platform="android, iOS">Delete Address</string>
   <string name="Deleting_Address" platform="android, iOS">Delete Address</string>
-  <string name="Deleting_Address_Failed" platform="android, iOS">DeleteAddress Failed</string>
+  <string name="Deleting_Address_Failed" platform="android, iOS">Delete Address Failed</string>
   <string name="delete_address_description" platform="android, iOS">Are you sure to delete this address?</string>
   <string name="send_by_pin" platform="android">Send by PIN</string>
   <string name="address_added" platform="android, iOS">Address Added</string>
