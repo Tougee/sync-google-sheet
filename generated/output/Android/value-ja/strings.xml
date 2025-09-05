@@ -294,9 +294,6 @@
 		<item quantity="other">入金した仮想通貨は、%1$dブロック確認後に着金します</item>
 	</plurals>
 	<string name="deposit_memo_notice">メモが必要です、メモを添付せずに送金した場合に資産を失うおそれがあります</string>
-	<string name="deposit_tip_btc">このアドレスはビットコインのみサポートしています</string>
-	<string name="deposit_tip_common">このアドレスは%1$sのみサポートしています</string>
-	<string name="deposit_tip_eos">このアドレスはEOSベースの全てのトークンをサポートしています</string>
 	<string name="deposit_tip_eth">このアドレスはETHやXINなど全てのERC-20トークンをサポートしています</string>
 	<string name="deposit_tip_trx">このアドレスは全てのTRC-10/TRC-20トークンをサポートしています</string>
 	<string name="desktop">デスクトップ</string>

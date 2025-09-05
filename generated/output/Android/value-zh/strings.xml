@@ -541,12 +541,11 @@
 	<string name="deposit_memo_address_notice">地址 和 Memo（备注）同时使用才能充值 %1$s 到你的账号。</string>
 	<string name="deposit_memo_notice">充值时务必填写 Memo（备注），否则您会丢失您的数字币。</string>
 	<string name="Deposit_Pending_Confirmation">%1$s 充值确认中</string>
+	<string name="deposit_supporting_single_token">该充值地址仅支持 %1$s。</string>
+	<string name="deposit_supporting_token_of_network">支持所有基于 %1$s 发行的代币。</string>
 	<string name="deposit_suspended">%1$s 充值已暂停，可能的原因包括：\n• 节点故障\n• 网络硬分叉\n• 网络拥堵\n• 使用率较低\n注意已转入的 %1$s 资产可以继续转账。</string>
 	<string name="deposit_tag_address_notice">地址 和 Tag（标签）同时使用才能充值 %1$s 到你的账号。</string>
 	<string name="deposit_tag_notice">充值时务必填写 Tag（标签），否则您会丢失您的数字币。</string>
-	<string name="deposit_tip_btc">该充值地址仅支持 BTC。</string>
-	<string name="deposit_tip_common">该充值地址仅支持 %1$s。</string>
-	<string name="deposit_tip_eos">支持所有基于 EOS 发行的代币。</string>
 	<string name="deposit_tip_eth">支持所有符合 ERC-20 标准的代币，例如 ETH、XIN 等。</string>
 	<string name="deposit_tip_trx">支持 TRX 和所有符合 TRC-10、TRC-20 标准的代币。</string>
 	<string name="deposit_token">充值 %1$s</string>

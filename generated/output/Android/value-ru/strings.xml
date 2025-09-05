@@ -300,9 +300,6 @@
 		<item quantity="other">Депозит получит %1$d подтверждения блокировки</item>
 	</plurals>
 	<string name="deposit_memo_notice">Памятка требуется, или вы потеряете свои монеты.</string>
-	<string name="deposit_tip_btc">Этот адрес поддерживает только BTC.</string>
-	<string name="deposit_tip_common">Этот адрес поддерживает только %1$s.</string>
-	<string name="deposit_tip_eos">Этот адрес поддерживает всю базу токенов EOS.</string>
 	<string name="deposit_tip_eth">Этот адрес поддерживает все токены ERC-20, такие как ETH, XIN и т. д.</string>
 	<string name="deposit_tip_trx">Этот адрес поддерживает все токены TRC-10 и TRC-20.</string>
 	<string name="desktop">рабочий стол</string>
