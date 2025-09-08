@@ -538,14 +538,14 @@
 	</plurals>
 	<string name="deposit_dust">最小充值数：%1$s %2$s</string>
 	<string name="deposit_hash">充值哈希</string>
-	<string name="deposit_memo_address_notice">地址 和 Memo（备注）同时使用才能充值 %1$s 到你的账号。</string>
-	<string name="deposit_memo_notice">充值时务必填写 Memo（备注），否则您会丢失您的数字币。</string>
+	<string name="deposit_memo_address_notice">地址和 Memo（备注）同时使用才能充值 %1$s 到你的账号。</string>
+	<string name="deposit_memo_notice">充值时务必填写 Memo（备注），否则可能导致资产丢失。</string>
 	<string name="Deposit_Pending_Confirmation">%1$s 充值确认中</string>
 	<string name="deposit_supporting_single_token">该充值地址仅支持 %1$s。</string>
 	<string name="deposit_supporting_token_of_network">支持所有基于 %1$s 发行的代币。</string>
 	<string name="deposit_suspended">%1$s 充值已暂停，可能的原因包括：\n• 节点故障\n• 网络硬分叉\n• 网络拥堵\n• 使用率较低\n注意已转入的 %1$s 资产可以继续转账。</string>
-	<string name="deposit_tag_address_notice">地址 和 Tag（标签）同时使用才能充值 %1$s 到你的账号。</string>
-	<string name="deposit_tag_notice">充值时务必填写 Tag（标签），否则您会丢失您的数字币。</string>
+	<string name="deposit_tag_address_notice">地址和 Tag（标签）同时使用才能充值 %1$s 到你的账号。</string>
+	<string name="deposit_tag_notice">充值时务必填写 Tag（标签），否则可能导致资产丢失。</string>
 	<string name="deposit_tip_eth">支持所有符合 ERC-20 标准的代币，例如 ETH、XIN 等。</string>
 	<string name="deposit_tip_trx">支持 TRX 和所有符合 TRC-10、TRC-20 标准的代币。</string>
 	<string name="deposit_token">充值 %1$s</string>
@@ -893,7 +893,7 @@
 	<string name="leave_message_to_team_mixin">给 Mixin 客服留言</string>
 	<string name="Legacy_Network">旧网络</string>
 	<string name="legacy_network_transfer_hint">当前转账使用的是旧网络</string>
-	<string name="Lightning_Address">Lightning 地址</string>
+	<string name="Lightning_Address">闪电网络地址</string>
 	<string name="lightning_address_explain">%1$s 是您的闪电网络地址，通过该地址，您可以便捷、安全地接收支付：</string>
 	<string name="lightning_address_explain_1">地址格式类似邮箱，简单好记。</string>
 	<string name="lightning_address_explain_2">可重复使用，无需每次生成新的。</string>
@@ -994,6 +994,8 @@
 	<string name="Mixin_Messenger_Desktop">Mixin Messenger 桌面</string>
 	<string name="Mixin_One">Mixin 大会员</string>
 	<string name="mixin_one_desc">开启您的 Mixin 会员之旅</string>
+	<string name="mixin_payment_content">💰 金额：%1$s\n🌐 网络：%2$s\n🤝 收款人：%3$s</string>
+	<string name="mixin_payment_title">📣 Mixin 收款</string>
 	<string name="Mixin_Support">Mixin 客服</string>
 	<string name="Mnemonic_Phrase">助记词</string>
 	<string name="Mnemonic_Phrase_instruction">你可以通过助记词登录你的账号，当前助记词已关联到 MPC 钱包的密钥分片，完整的密钥只存在当前设备的 TEE 安全环境中，阅读文档以了解%1$s。</string>
@@ -1158,6 +1160,7 @@
 	<string name="Pause">暂停</string>
 	<string name="Paused">已暂停</string>
 	<string name="Pay">支付</string>
+	<string name="pay_now">立刻支付</string>
 	<string name="pay_paid">此付款链接已由某人支付，您无法进行重复付款。</string>
 	<string name="Pay_with_Biometrics">用生物识别支付</string>
 	<string name="Pay_with_PIN">用 PIN 支付</string>

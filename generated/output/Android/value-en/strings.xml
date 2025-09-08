@@ -1012,6 +1012,8 @@
 	<string name="Mixin_Messenger_Desktop">Mixin Messenger Desktop</string>
 	<string name="Mixin_One">Mixin One</string>
 	<string name="mixin_one_desc">Start your Mixin premium journey</string>
+	<string name="mixin_payment_content">💰 Amount: %1$s\n🌐 Network: %2$s\n🤝 Receiver: %3$s</string>
+	<string name="mixin_payment_title">📣 Mixin Payment</string>
 	<string name="Mixin_Support">Mixin Support</string>
 	<string name="Mnemonic_Phrase">Mnemonic Phrase</string>
 	<string name="Mnemonic_Phrase_instruction">You can log in to your account using the mnemonic phrase. The current mnemonic phrase is linked to a key shard of the MPC wallet, with the complete key existing only in the TEE security environment on the current device. Read the documentation to learn %1$s.</string>
@@ -1176,6 +1178,7 @@
 	<string name="Pause">Pause</string>
 	<string name="Paused">Paused</string>
 	<string name="Pay">Pay</string>
+	<string name="pay_now">Pay Now</string>
 	<string name="pay_paid">This payment link has already been paid by someone, you can not make a duplicate payment.</string>
 	<string name="Pay_with_Biometrics">Pay with Biometrics</string>
 	<string name="Pay_with_PIN">Pay with PIN</string>
