@@ -2387,4 +2387,7 @@
   <string name="deposit_token_to_mixin" platform="android, iOS">Deposit %1$s to Mixin</string>
   <string name="scan_qr_code_to_send_token" platform="android, iOS">Scan the QR Code to send me %1$s</string>
   <string name="scan_qr_code_to_transfer_on_mixin" platform="android, iOS">Scan the QR Code to transfer me %1$s on Mixin</string>
+  <string name="mixin_payment_title" platform="android, iOS">📣 Mixin Payment</string>
+  <string name="mixin_payment_content" platform="android, iOS">💰 Amount: %1$s\n🌐 Network: %2$s\n🤝 Receiver: %3$s</string>
+  <string name="pay_now" platform="android, iOS">Pay Now</string>
 </resources>

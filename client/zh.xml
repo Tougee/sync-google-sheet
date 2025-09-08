@@ -471,10 +471,10 @@
   <string name="deposit_confirmation.count" platform="android, iOS">充值到账需要 %1$d 个区块确认。</string>
   <string name="deposit_dust" platform="android, iOS">最小充值数：%1$s %2$s</string>
   <string name="deposit_hash" platform="android,iOS,Desktop">充值哈希</string>
-  <string name="deposit_memo_notice" platform="android, iOS">充值时务必填写 Memo（备注），否则您会丢失您的数字币。</string>
-  <string name="deposit_tag_notice" platform="android, iOS">充值时务必填写 Tag（标签），否则您会丢失您的数字币。</string>
-  <string name="deposit_memo_address_notice" platform="android, iOS">地址 和 Memo（备注）同时使用才能充值 %1$s 到你的账号。</string>
-  <string name="deposit_tag_address_notice" platform="android, iOS">地址 和 Tag（标签）同时使用才能充值 %1$s 到你的账号。</string>
+  <string name="deposit_memo_notice" platform="android, iOS">充值时务必填写 Memo（备注），否则可能导致资产丢失。</string>
+  <string name="deposit_tag_notice" platform="android, iOS">充值时务必填写 Tag（标签），否则可能导致资产丢失。</string>
+  <string name="deposit_memo_address_notice" platform="android, iOS">地址和 Memo（备注）同时使用才能充值 %@ 到你的账号。</string>
+  <string name="deposit_tag_address_notice" platform="android, iOS">地址和 Tag（标签）同时使用才能充值 %@ 到你的账号。</string>
   <string name="deposit_supporting_single_token" platform="android, iOS">该充值地址仅支持 %1$s。</string>
   <string name="deposit_supporting_token_of_network" platform="android, iOS">支持所有基于 %1$s 发行的代币。</string>
   <string name="deposit_tip_eth" platform="android, iOS">支持所有符合 ERC-20 标准的代币，例如 ETH、XIN 等。</string>
@@ -2348,7 +2348,7 @@
   <string name="Minimum_Deposit" platform="android, iOS">最小充值金额</string>
   <string name="Maximum_Deposit" platform="android, iOS">最大充值金额</string>
   <string name="Block_Confirmations" platform="android, iOS">到账确认区块数</string>
-  <string name="Lightning_Address" platform="android, iOS">Lightning 地址</string>
+  <string name="Lightning_Address" platform="android, iOS">闪电网络地址</string>
   <string name="lightning_address_explain" platform="android, iOS">%1$s 是您的闪电网络地址，通过该地址，您可以便捷、安全地接收支付：</string>
   <string name="lightning_address_explain_1" platform="android, iOS">地址格式类似邮箱，简单好记。</string>
   <string name="lightning_address_explain_2" platform="android, iOS">可重复使用，无需每次生成新的。</string>
@@ -2359,4 +2359,7 @@
   <string name="deposit_token_to_mixin" platform="android, iOS">充值 %1$s 到 Mixin</string>
   <string name="scan_qr_code_to_send_token" platform="android, iOS">扫描二维码向我发送 %1$s</string>
   <string name="scan_qr_code_to_transfer_on_mixin" platform="android, iOS">扫描二维码通过 Mixin 向我转账 %1$s</string>
+  <string name="mixin_payment_title" platform="android, iOS">📣 Mixin 收款</string>
+  <string name="mixin_payment_content" platform="android, iOS">💰 金额：%1$s\n🌐 网络：%2$s\n🤝 收款人：%3$s</string>
+  <string name="pay_now" platform="android, iOS">立刻支付</string>
 </resources>
