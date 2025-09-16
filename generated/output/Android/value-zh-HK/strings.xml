@@ -356,10 +356,8 @@
 	<string name="Checking_link">正在檢查鏈接</string>
 	<string name="Checking_payment_info">請檢查支付信息</string>
 	<string name="Choose">選擇</string>
-	<string name="choose_deposit_network">選擇充值網絡</string>
 	<string name="Choose_folder">選擇檔案夾</string>
 	<string name="Choose_Network">選擇網絡</string>
-	<string name="Choose_network_tip">請選擇 Mixin 支持的網絡進行充值，否則您的充值將不會到賬。</string>
 	<string name="Choose_Token">選擇 %1$s 網絡</string>
 	<string name="choose_token_desc">%1$s 在多個網絡上發佈</string>
 	<string name="circle_bottom">為不同對話創建圈子然後在它們之間快速切換</string>

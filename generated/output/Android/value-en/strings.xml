@@ -361,10 +361,8 @@
 	<string name="Checking_link">Checking link</string>
 	<string name="Checking_payment_info">Checking payment info</string>
 	<string name="Choose">Choose</string>
-	<string name="choose_deposit_network">Choose Network</string>
 	<string name="Choose_folder">Choose folder</string>
 	<string name="Choose_Network">Choose Network</string>
-	<string name="Choose_network_tip">Please ensure the network you choose to deposit that Mixin supports. Otherwise, your assets may be lost.</string>
 	<string name="Choose_Token">Choose %1$s Network</string>
 	<string name="choose_token_desc">%1$s is issued on multiple networks</string>
 	<string name="circle_bottom">Create circle for different groups of chats and quickly switch between them</string>
