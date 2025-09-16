@@ -300,8 +300,6 @@
   <string name="Checking_payment_info" platform="android">请检查支付信息</string>
   <string name="Choose" platform="android">选择</string>
   <string name="Choose_folder" platform="android">选择文件夹</string>
-  <string name="choose_deposit_network" platform="android, iOS">选择充值网络</string>
-  <string name="Choose_network_tip" platform="android, iOS">请选择 Mixin 支持的网络进行充值，否则您的充值将不会到账。</string>
   <string name="Choose_Photo" platform="iOS">选择照片</string>
   <string name="circle_bottom" platform="android">为不同对话创建圈子然后在它们之间快速切换</string>
   <string name="circle_delete_tip" platform="android">确认删除 "%1$s"？</string>
