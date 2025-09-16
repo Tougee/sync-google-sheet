@@ -485,6 +485,7 @@
   <string name="deposit_supporting_token_of_network" platform="android, iOS">This address supports all tokens based on %1$s network.</string>
   <string name="deposit_tip_eth" platform="android, iOS">This address supports all ERC-20 tokens, such as ETH, XIN, etc.</string>
   <string name="deposit_tip_trx" platform="android, iOS">This address supports all TRC-10 and TRC-20 tokens.</string>
+  <string name="deposit_tip_lightning" platform="android, iOS">This invoice supports BTC on Lightning Network, as well as USDT and other Taproot Assets.</string>
   <string name="depost_address_updated" platform="android,iOS">%1$s Deposit Address Updated</string>
   <string name="depost_address_updated_description" platform="android,iOS">Your %1$s deposit address has been updated. The deposit address will automatically update with system or network upgrades. Old addresses are still valid for deposits, but it is not recommended for further use.</string>
   <string name="Deselect_All" platform="android, iOS">Deselect All</string>
