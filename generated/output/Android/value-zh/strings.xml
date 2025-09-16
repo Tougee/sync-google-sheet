@@ -545,6 +545,7 @@
 	<string name="deposit_tag_address_notice">地址和 Tag（标签）同时使用才能充值 %1$s 到你的账号。</string>
 	<string name="deposit_tag_notice">充值时务必填写 Tag（标签），否则可能导致资产丢失。</string>
 	<string name="deposit_tip_eth">支持所有符合 ERC-20 标准的代币，例如 ETH、XIN 等。</string>
+	<string name="deposit_tip_lightning">此票据支持闪电网络上的BTC，以及USDT和其他Taproot资产。</string>
 	<string name="deposit_tip_trx">支持 TRX 和所有符合 TRC-10、TRC-20 标准的代币。</string>
 	<string name="deposit_token">充值 %1$s</string>
 	<string name="deposit_token_description">从其他交易所或钱包转入</string>
