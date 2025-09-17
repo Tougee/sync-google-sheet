@@ -477,7 +477,7 @@
   <string name="deposit_supporting_token_of_network" platform="android, iOS">支持所有基于 %1$s 发行的代币。</string>
   <string name="deposit_tip_eth" platform="android, iOS">支持所有符合 ERC-20 标准的代币，例如 ETH、XIN 等。</string>
   <string name="deposit_tip_trx" platform="android, iOS">支持 TRX 和所有符合 TRC-10、TRC-20 标准的代币。</string>
-  <string name="deposit_tip_lightning" platform="android, iOS">此票据支持闪电网络上的BTC，以及USDT和其他Taproot资产。</string>
+  <string name="deposit_tip_lightning" platform="android, iOS">此票据支持闪电网络上的 BTC，以及 USDT 和其他 Taproot 资产。</string>
   <string name="depost_address_updated" platform="android,iOS">%1$s 充值地址已更新</string>
   <string name="depost_address_updated_description" platform="android,iOS">您的 %1$s 充值地址已更新，充值地址将随着系统或网络升级而自动更新，旧的地址仍可充值并会自动入账，但是不推荐使用。</string>
   <string name="Deselect_All" platform="android, iOS">取消所有选择</string>
