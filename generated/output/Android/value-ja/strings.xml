@@ -13,7 +13,6 @@
 	<string name="About">Mixinについて</string>
 	<string name="about_version">バージョン%1$s</string>
 	<string name="Accept">確認</string>
-	<string name="Access_denied">アクセスが拒否されました</string>
 	<string name="Access_to_Contacts">連絡先へのアクセス</string>
 	<string name="access_your_bots_list">あなたのミニアプリ一覧へのアクセス</string>
 	<string name="access_your_circle_list">グループリスト一覧へのアクセス</string>

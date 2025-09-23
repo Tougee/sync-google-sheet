@@ -15,7 +15,6 @@
 	<string name="Accept">Accept</string>
 	<string name="accepted_cards">Accepted cards: %1$s</string>
 	<string name="access_dapps_defi_projects">Access apps and DeFi projects.</string>
-	<string name="Access_denied">Access denied</string>
 	<string name="Access_to_Contacts">Access to Contacts</string>
 	<string name="access_your_bots_list">access your bots list</string>
 	<string name="access_your_circle_list">access your circle list</string>
@@ -644,6 +643,7 @@
 	<string name="Enter_your_PIN_to_continue">Enter your PIN to continue</string>
 	<string name="Enter_your_PIN_to_verify">Enter your PIN to verify</string>
 	<string name="EOS_contract_address">EOS contract address</string>
+	<string name="error_access_limited">ERROR 403: Access Limited</string>
 	<string name="error_address_exists">The address does not exist, please make sure that the address is added successfully</string>
 	<string name="error_address_not_sync">Address refresh failed, please try again</string>
 	<string name="error_authentication">ERROR 401: Sign in to continue</string>

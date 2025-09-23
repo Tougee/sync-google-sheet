@@ -15,7 +15,6 @@
 	<string name="Accept">接听</string>
 	<string name="accepted_cards">接受以下卡片: %1$s</string>
 	<string name="access_dapps_defi_projects">访问 apps 或 DeFi 项目</string>
-	<string name="Access_denied">禁止访问</string>
 	<string name="Access_to_Contacts">访问通讯录</string>
 	<string name="access_your_bots_list">访问你的机器人列表</string>
 	<string name="access_your_circle_list">访问你的圈子列表</string>
@@ -635,6 +634,7 @@
 	<string name="Enter_your_PIN_to_continue">输入你的 PIN 以继续</string>
 	<string name="Enter_your_PIN_to_verify">输入你的 PIN 来验证</string>
 	<string name="EOS_contract_address">EOS 合约地址</string>
+	<string name="error_access_limited">错误403：访问受限</string>
 	<string name="error_address_exists">地址不存在，请确保地址是否添加成功</string>
 	<string name="error_address_not_sync">地址刷新失败，请重试</string>
 	<string name="error_authentication">错误 401：请重新登录</string>

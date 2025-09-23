@@ -1,7 +1,6 @@
 {
 "aMessage" : "一條消息",
 "about" : "關於",
-"accessDenied" : "禁止訪問",
 "account" : "賬號",
 "activity" : "活動",
 "add" : "添加",
@@ -159,6 +158,7 @@
 "enterToSend" : "按下回車 ⏎ 發送",
 "enterYourPhoneNumber" : "輸入你的手機號碼",
 "enterYourPinToContinue" : "輸入你的 PIN 以繼續",
+"errorAccessLimited" : "錯誤403：訪問受限",
 "errorAddressExists" : "地址不存在，請確保地址是否添加成功",
 "errorAddressNotSync" : "地址刷新失敗，請重試",
 "errorAssetExists" : "沒有相關資產",
