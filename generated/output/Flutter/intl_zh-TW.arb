@@ -158,7 +158,7 @@
 "enterToSend" : "按下回車 ⏎ 傳送",
 "enterYourPhoneNumber" : "輸入你的手機號碼",
 "enterYourPinToContinue" : "輸入你的 PIN 以繼續",
-"errorAccessLimited" : "錯誤403：訪問受限",
+"errorAccessLimited" : "錯誤 403：訪問受限",
 "errorAddressExists" : "地址不存在，請確保地址是否新增成功",
 "errorAddressNotSync" : "地址重新整理失敗，請重試",
 "errorAssetExists" : "沒有相關資產",

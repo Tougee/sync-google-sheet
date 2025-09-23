@@ -634,7 +634,7 @@
 	<string name="Enter_your_PIN_to_continue">輸入你的 PIN 以繼續</string>
 	<string name="Enter_your_PIN_to_verify">輸入你的 PIN 來驗證</string>
 	<string name="EOS_contract_address">EOS 合約地址</string>
-	<string name="error_access_limited">錯誤403：訪問受限</string>
+	<string name="error_access_limited">錯誤 403：訪問受限</string>
 	<string name="error_address_exists">地址不存在，請確保地址是否添加成功</string>
 	<string name="error_address_not_sync">地址刷新失敗，請重試</string>
 	<string name="error_authentication">錯誤 401：請重新登錄</string>

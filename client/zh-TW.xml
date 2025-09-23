@@ -568,7 +568,7 @@
   <string name="error_address_not_sync" platform="android, Desktop">地址重新整理失敗，請重試</string>
   <string name="error_asset_exists" platform="Desktop">沒有相關資產</string>
   <string name="error_authentication" platform="android, Desktop">錯誤 401：請重新登入</string>
-  <string name="error_access_limited" platform="android, iOS, Desktop">錯誤403：訪問受限</string>
+  <string name="error_access_limited" platform="android, iOS, Desktop">錯誤 403：訪問受限</string>
   <string name="error_bad_data" platform="android, iOS, Desktop">錯誤 10002：請求資料不合法</string>
   <string name="error_blockchain" platform="android, iOS, Desktop">錯誤 30100：區塊鏈同步異常，請稍後重試</string>
   <string name="error_captcha_is_invalid" platform="iOS">錯誤 10004：驗證失敗</string>
