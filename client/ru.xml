@@ -24,7 +24,6 @@
   <string name="Search_contacts" platform="iOS">Поиск контактов</string>
   <string name="Access_to_Contacts" platform="iOS">Доступ к контактам</string>
   <string name="Access_Contacts_Hint" platform="iOS">Mixin синхронизирует вашу адресную книгу с серверами Mixin, чтобы помочь вам связаться с другими пользователями Mixin.</string>
-  <string name="Access_denied" platform="android, iOS, Desktop">В доступе отказано</string>
   <string name="access_your_bots_list" platform="android, iOS">получить доступ к списку ботов</string>
   <string name="access_your_circle_list" platform="android, iOS">доступ к вашему списку кругов</string>
   <string name="access_your_collectibles" platform="android, iOS">получить доступ к своим коллекционным предметам</string>

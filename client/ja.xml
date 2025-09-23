@@ -14,7 +14,6 @@
   <string name="about_version" platform="android">バージョン%1$s</string>
   <string name="Accept" platform="android">確認</string>
   <string name="Access_Contacts_Hint" platform="iOS">MixinはあなたのアドレスをMixinサーバーに同期させ、Mixinユーザーを自動追加します</string>
-  <string name="Access_denied" platform="android, iOS, Desktop">アクセスが拒否されました</string>
   <string name="Access_to_Contacts" platform="iOS,android">連絡先へのアクセス</string>
   <string name="access_your_bots_list" platform="android">あなたのミニアプリ一覧へのアクセス</string>
   <string name="access_your_circle_list" platform="android">グループリスト一覧へのアクセス</string>

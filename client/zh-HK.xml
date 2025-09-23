@@ -15,7 +15,6 @@
   <string name="Accept" platform="android">接聽</string>
   <string name="accepted_cards" platform="android">接受以下卡片: %1$s</string>
   <string name="Access_Contacts_Hint" platform="iOS">同步通訊錄到 Mixin 發現更多好友</string>
-  <string name="Access_denied" platform="android, iOS, Desktop">禁止訪問</string>
   <string name="Access_to_Contacts" platform="iOS,android">訪問通訊錄</string>
   <string name="access_your_bots_list" platform="android">訪問你的機器人列表</string>
   <string name="access_your_circle_list" platform="android">訪問你的圈子列表</string>

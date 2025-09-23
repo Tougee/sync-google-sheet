@@ -15,7 +15,6 @@
   <string name="Accept" platform="android">接听</string>
   <string name="accepted_cards" platform="android">接受以下卡片: %1$s</string>
   <string name="Access_Contacts_Hint" platform="iOS">同步通讯录到 Mixin 发现更多好友</string>
-  <string name="Access_denied" platform="android, iOS, Desktop">禁止访问</string>
   <string name="Access_to_Contacts" platform="iOS,android">访问通讯录</string>
   <string name="access_your_bots_list" platform="android">访问你的机器人列表</string>
   <string name="access_your_circle_list" platform="android">访问你的圈子列表</string>
@@ -569,6 +568,7 @@
   <string name="error_address_not_sync" platform="android, Desktop">地址刷新失败，请重试</string>
   <string name="error_asset_exists" platform="Desktop">没有相关资产</string>
   <string name="error_authentication" platform="android, Desktop">错误 401：请重新登录</string>
+  <string name="error_access_limited" platform="android, iOS, Desktop">错误403：访问受限</string>
   <string name="error_bad_data" platform="android, iOS, Desktop">错误 10002：请求数据不合法</string>
   <string name="error_blockchain" platform="android, iOS, Desktop">错误 30100：区块链同步异常，请稍后重试</string>
   <string name="error_captcha_is_invalid" platform="iOS">错误 10004：验证失败</string>

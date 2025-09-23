@@ -15,7 +15,6 @@
   <string name="Accept" platform="android">Accept</string>
   <string name="accepted_cards" platform="android">Accepted cards: %1$s</string>
   <string name="Access_Contacts_Hint" platform="iOS">Mixin syncs your address book to Mixin servers to help you connect with other Mixin users</string>
-  <string name="Access_denied" platform="android, iOS, Desktop">Access denied</string>
   <string name="Access_to_Contacts" platform="iOS,android">Access to Contacts</string>
   <string name="access_your_bots_list" platform="android">access your bots list</string>
   <string name="access_your_circle_list" platform="android">access your circle list</string>
@@ -577,6 +576,7 @@
   <string name="error_address_not_sync" platform="android, Desktop">Address refresh failed, please try again</string>
   <string name="error_asset_exists" platform="Desktop">Asset does not exist</string>
   <string name="error_authentication" platform="android, Desktop">ERROR 401: Sign in to continue</string>
+  <string name="error_access_limited" platform="android, iOS, Desktop">ERROR 403: Access Limited</string>
   <string name="error_bad_data" platform="android, iOS, Desktop">ERROR 10002: The request data has invalid field</string>
   <string name="error_blockchain" platform="android, iOS, Desktop">ERROR 30100: Blockchain not in sync, please try again later.</string>
   <string name="error_captcha_is_invalid" platform="iOS">ERROR 10004: CAPTCHA is invalid</string>

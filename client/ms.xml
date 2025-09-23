@@ -2,7 +2,6 @@
   <string name="About" platform="android, iOS, Desktop">Mengenai</string>
   <string name="about_version" platform="android">Versi %1$s</string>
   <string name="Accept" platform="android">Terima</string>
-  <string name="Access_denied" platform="android, iOS, Desktop">Akses dinafikan</string>
   <string name="Access_to_Contacts" platform="iOS,android"> </string>
   <string name="access_your_bots_list" platform="android">akses senarai aplikasi anda</string>
   <string name="access_your_circle_list" platform="android">akses senarai lingkaran anda</string>
