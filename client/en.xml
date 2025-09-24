@@ -2330,7 +2330,7 @@
   <string name="Add_Watch_Address" platform="android, iOS">Add Watch Address</string>
   <string name="add_watch_address_description" platform="android, iOS">Track any public wallet address</string>
   <string name="Type_your_wallet_address" platform="android, iOS">Type your wallet address</string>
-  <string name="error_watch_address_not_supported" platform="android, iOS">ERROR 10633: Contract or exchange addresses is not supported for watching</string>
+  <string name="error_watch_address_not_supported" platform="android, iOS">ERROR 10633: Invalid Address</string>
   <string name="watch_wallet_index" platform="android, iOS">Watch Wallet %1$s</string>
   <string name="Watching" platform="android, iOS">Watching</string>
   <string name="wallet_summary_tip" platform="android, iOS">Watch wallets and hidden assets are excluded from the total</string>
