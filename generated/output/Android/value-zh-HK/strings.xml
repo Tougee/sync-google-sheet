@@ -700,7 +700,7 @@
 	<string name="error_use_card_same_time">錯誤 10605: 卡片異常，請稍後嘗試正確的卡片</string>
 	<string name="error_used_phone">錯誤 20122：電話號碼已經被佔用。</string>
 	<string name="error_user_invalid_format">用户數據不合法</string>
-	<string name="error_watch_address_not_supported">錯誤 10633：當前地址為合約地址或交易所地址，暫不支持觀察。</string>
+	<string name="error_watch_address_not_supported">錯誤 10633：地址不可用</string>
 	<string name="error_withdrawal_memo_format_incorrect">錯誤 20131：提現備註格式不正確</string>
 	<string name="error_withdrawal_suspend">錯誤 20137：提現暫停</string>
 	<string name="estimated_balance_change">餘額變動（預估）</string>

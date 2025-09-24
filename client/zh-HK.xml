@@ -2302,7 +2302,7 @@
   <string name="Add_Watch_Address" platform="android, iOS">添加觀察地址</string>
   <string name="add_watch_address_description" platform="android, iOS">追蹤公開錢包地址</string>
   <string name="Type_your_wallet_address" platform="android, iOS">請輸入錢包地址</string>
-  <string name="error_watch_address_not_supported" platform="android, iOS">錯誤 10633：當前地址為合約地址或交易所地址，暫不支持觀察。</string>
+  <string name="error_watch_address_not_supported" platform="android, iOS">錯誤 10633：地址不可用</string>
   <string name="watch_wallet_index" platform="android, iOS">觀察錢包 %1$s</string>
   <string name="Watching" platform="android, iOS">觀察</string>
   <string name="wallet_summary_tip" platform="android, iOS">觀察錢包、隱藏的資產不計入統計</string>
