@@ -1301,6 +1301,15 @@
 	<string name="Recovery_Kit_Attention">Attention: The Recovery Kit cannot help you recover your PIN</string>
 	<string name="Recovery_Kit_instruction">The MPC wallet in Mixin Messenger is built on the decentralized key protocol TIP. You can recover your account through your phone number, mnemonic phrase, or a trusted contact. The complete wallet key exists only in the TEE security environment on the current device. Read the documentation to learn %1$s.</string>
 	<string name="red_up_green_down">Red Up / Green Down</string>
+	<string name="Referral">Referral</string>
+	<string name="referral_banner">Invite friends and earn up to 70% of their trading fees!</string>
+	<string name="referral_description">Invite friends earn crypto</string>
+	<string name="Referral_Program">Referral Program</string>
+	<string name="referral_program_introduction_1">Up to 70% commission on trading fees</string>
+	<string name="referral_program_introduction_2">Up to 2,000 USD rebate per transaction</string>
+	<string name="referral_program_introduction_3">Rebate eligibility is valid for life</string>
+	<string name="referral_program_introduction_footer">* Referral rewards are available only to paid Mixin One members</string>
+	<string name="referral_program_introduction_header">Join the referral program and invite friends to earn crypto together:</string>
 	<string name="Refresh">Refresh</string>
 	<string name="Refunded">Refunded</string>
 	<string name="Refuse">Refuse</string>

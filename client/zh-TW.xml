@@ -2361,4 +2361,13 @@
   <string name="mixin_payment_title" platform="android, iOS">📣 Mixin 收款</string>
   <string name="mixin_payment_content" platform="android, iOS">💰 金額：%1$s\n🌐 網路：%2$s\n🤝 收款人：%3$s</string>
   <string name="pay_now" platform="android, iOS">立刻支付</string>
+  <string name="Referral" platform="android, iOS">邀請</string>
+  <string name="referral_description" platform="android, iOS">邀請好友賺幣</string>
+  <string name="referral_banner" platform="android, iOS">邀請好友贏取最高 70% 手續費分傭！</string>
+  <string name="Referral_Program" platform="android, iOS">邀請計劃</string>
+  <string name="referral_program_introduction_header" platform="android, iOS">參與邀請計劃，邀請好友分享賺幣：</string>
+  <string name="referral_program_introduction_1" platform="android, iOS">最高 70% 交易手續費分傭</string>
+  <string name="referral_program_introduction_2" platform="android, iOS">會員返佣單筆最高 2000 USD</string>
+  <string name="referral_program_introduction_3" platform="android, iOS">返佣資格終生有效</string>
+  <string name="referral_program_introduction_footer" platform="android, iOS">* 推薦獎勵僅限於付費 Mixin One 會員</string>
 </resources>

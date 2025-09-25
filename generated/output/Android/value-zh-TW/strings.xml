@@ -1282,6 +1282,15 @@
 	<string name="Recovery_Kit_Attention">注意：賬號恢復無法幫助您恢復 PIN</string>
 	<string name="Recovery_Kit_instruction">Mixin Messenger 的 MPC 錢包基於去中心化金鑰協議 TIP 構建，您可以透過手機號、助記詞或可信聯絡人登入恢復你的賬號，錢包完整的金鑰只存在當前裝置的 TEE 安全環境中，閱讀檔案以瞭解%1$s。</string>
 	<string name="red_up_green_down">紅漲綠跌</string>
+	<string name="Referral">邀請</string>
+	<string name="referral_banner">邀請好友贏取最高 70% 手續費分傭！</string>
+	<string name="referral_description">邀請好友賺幣</string>
+	<string name="Referral_Program">邀請計劃</string>
+	<string name="referral_program_introduction_1">最高 70% 交易手續費分傭</string>
+	<string name="referral_program_introduction_2">會員返佣單筆最高 2000 USD</string>
+	<string name="referral_program_introduction_3">返佣資格終生有效</string>
+	<string name="referral_program_introduction_footer">* 推薦獎勵僅限於付費 Mixin One 會員</string>
+	<string name="referral_program_introduction_header">參與邀請計劃，邀請好友分享賺幣：</string>
 	<string name="Refresh">重新整理</string>
 	<string name="Refunded">已退款</string>
 	<string name="Refuse">拒絕</string>
