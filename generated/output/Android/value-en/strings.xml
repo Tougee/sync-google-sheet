@@ -180,6 +180,8 @@
 	<string name="App_version">App version</string>
 	<string name="Appearance">Appearance</string>
 	<string name="Apply">Apply</string>
+	<string name="Apply_Referral_Code">Apply Referral Code</string>
+	<string name="apply_referral_code_benefit">Apply a referral code to your account to unlock exclusive benefits on Mixin</string>
 	<string name="Approval">Approval</string>
 	<string name="approval_count">Approved %1$s</string>
 	<string name="approval_unlimited">Unlimited</string>
@@ -286,6 +288,7 @@
 	<string name="Cancel_Waiting">Cancel Waiting</string>
 	<string name="Canceled">Cancelled</string>
 	<string name="Canceled_by_caller">Cancelled by caller</string>
+	<string name="cannot_apply_your_own_referral_code">Cannot apply your own referral code</string>
 	<string name="Cant_receive_the_code">Can\'t receive the code?</string>
 	<string name="cant_talk_self">You can\'t talk to yourself</string>
 	<string name="cant_transfer_self">You can\'t transfer to yourself</string>
@@ -862,6 +865,7 @@
 	<string name="Invalid_mnemonic_phrase">Invalid mnemonic phrase</string>
 	<string name="Invalid_payment_link">Invalid payment link</string>
 	<string name="Invalid_QR_Code">Invalid QR-Code</string>
+	<string name="invalid_referral_code">Invalid Referral Code</string>
 	<string name="invalid_secret_for_wallet">The %1$s does not match the selected wallet. Please try another.</string>
 	<string name="Invalid_sticker_format">Invalid sticker format</string>
 	<string name="invalid_tag_description">Tag must be a non-zero number</string>
@@ -1303,6 +1307,13 @@
 	<string name="red_up_green_down">Red Up / Green Down</string>
 	<string name="Referral">Referral</string>
 	<string name="referral_banner">Invite friends and earn up to 70%% of their trading fees!</string>
+	<string name="Referral_Code">Referral Code</string>
+	<string name="referral_code_applied">Applied</string>
+	<string name="referral_code_applied_footer">All cashback will be settled monthly to your Mixin privacy wallet. </string>
+	<string name="referral_code_applied_header">🎉 Referral code successfully applied! You’ve unlocked the following benefits:</string>
+	<string name="referral_code_applied_introduction_1">Up to 50%% cashback on trading fees</string>
+	<string name="referral_code_applied_introduction_2">Up to 1,000 USD cashback per transaction when upgrading membership</string>
+	<string name="referral_code_applied_introduction_3">Automatic access to all future new benefits</string>
 	<string name="referral_description">Invite friends earn crypto</string>
 	<string name="Referral_Program">Referral Program</string>
 	<string name="referral_program_introduction_1">Up to 70%% commission on trading fees</string>

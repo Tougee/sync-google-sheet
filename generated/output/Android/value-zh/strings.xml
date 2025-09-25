@@ -179,6 +179,8 @@
 	<string name="App_version">应用版本</string>
 	<string name="Appearance">外观</string>
 	<string name="Apply">应用</string>
+	<string name="Apply_Referral_Code">绑定邀请码</string>
+	<string name="apply_referral_code_benefit">将邀请码绑定到你的账户，解锁 Mixin 专属福利。</string>
 	<string name="Approval">授权</string>
 	<string name="approval_count">已授权 %1$s</string>
 	<string name="approval_unlimited">无限量</string>
@@ -284,6 +286,7 @@
 	<string name="Cancel_Waiting">取消订单</string>
 	<string name="Canceled">已取消</string>
 	<string name="Canceled_by_caller">对方已取消</string>
+	<string name="cannot_apply_your_own_referral_code">不可绑定自己的邀请码</string>
 	<string name="Cant_receive_the_code">接收不到验证码？</string>
 	<string name="cant_talk_self">不能和自己对话</string>
 	<string name="cant_transfer_self">不能给自己转账</string>
@@ -850,6 +853,7 @@
 	<string name="Invalid_mnemonic_phrase">助记词无效</string>
 	<string name="Invalid_payment_link">无效支付信息</string>
 	<string name="Invalid_QR_Code">无效的二维码</string>
+	<string name="invalid_referral_code">无效的邀请码</string>
 	<string name="invalid_secret_for_wallet">导入的%1$s与钱包不匹配，请重新导入。</string>
 	<string name="Invalid_sticker_format">贴纸格式不支持</string>
 	<string name="invalid_tag_description">地址标签（Tag）必须为非 0 的数字</string>
@@ -1284,6 +1288,13 @@
 	<string name="red_up_green_down">红涨绿跌</string>
 	<string name="Referral">邀请</string>
 	<string name="referral_banner">邀请好友赢取最高 70%% 手续费分佣！</string>
+	<string name="Referral_Code">邀请码</string>
+	<string name="referral_code_applied">绑定成功</string>
+	<string name="referral_code_applied_footer">所有返现将按月结算到您的 Mixin 隐私钱包。</string>
+	<string name="referral_code_applied_header">🎉 邀请码绑定成功，您已自动获得以下权益：</string>
+	<string name="referral_code_applied_introduction_1">最高 50%% 交易手续费返现</string>
+	<string name="referral_code_applied_introduction_2">升级会员返现单笔最高 1000 USD</string>
+	<string name="referral_code_applied_introduction_3">自动获得后续所有新权益</string>
 	<string name="referral_description">邀请好友赚币</string>
 	<string name="Referral_Program">邀请计划</string>
 	<string name="referral_program_introduction_1">最高 70%% 交易手续费分佣</string>

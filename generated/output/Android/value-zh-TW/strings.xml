@@ -179,6 +179,8 @@
 	<string name="App_version">應用版本</string>
 	<string name="Appearance">外觀</string>
 	<string name="Apply">應用</string>
+	<string name="Apply_Referral_Code">繫結邀請碼</string>
+	<string name="apply_referral_code_benefit">將邀請碼繫結到你的賬戶，解鎖 Mixin 專屬福利。</string>
 	<string name="Approval">授權</string>
 	<string name="approval_count">已授權 %1$s</string>
 	<string name="approval_unlimited">無限量</string>
@@ -284,6 +286,7 @@
 	<string name="Cancel_Waiting">取消訂單</string>
 	<string name="Canceled">已取消</string>
 	<string name="Canceled_by_caller">對方已取消</string>
+	<string name="cannot_apply_your_own_referral_code">不可繫結自己的邀請碼</string>
 	<string name="Cant_receive_the_code">接收不到驗證碼？</string>
 	<string name="cant_talk_self">不能和自己對話</string>
 	<string name="cant_transfer_self">不能給自己轉賬</string>
@@ -850,6 +853,7 @@
 	<string name="Invalid_mnemonic_phrase">助記詞無效</string>
 	<string name="Invalid_payment_link">無效支付資訊</string>
 	<string name="Invalid_QR_Code">無效的二維碼</string>
+	<string name="invalid_referral_code">無效的邀請碼</string>
 	<string name="invalid_secret_for_wallet">匯入的%1$s與錢包不匹配，請重新匯入。</string>
 	<string name="Invalid_sticker_format">貼紙格式不支援</string>
 	<string name="invalid_tag_description">地址標籤（Tag）必須為非 0 的數字</string>
@@ -1284,6 +1288,13 @@
 	<string name="red_up_green_down">紅漲綠跌</string>
 	<string name="Referral">邀請</string>
 	<string name="referral_banner">邀請好友贏取最高 70%% 手續費分傭！</string>
+	<string name="Referral_Code">邀請碼</string>
+	<string name="referral_code_applied">繫結成功</string>
+	<string name="referral_code_applied_footer">所有返現將按月結算到您的 Mixin 隱私錢包。</string>
+	<string name="referral_code_applied_header">🎉 邀請碼繫結成功，您已自動獲得以下權益：</string>
+	<string name="referral_code_applied_introduction_1">最高 50%% 交易手續費返現</string>
+	<string name="referral_code_applied_introduction_2">升級會員返現單筆最高 1000 USD</string>
+	<string name="referral_code_applied_introduction_3">自動獲得後續所有新權益</string>
 	<string name="referral_description">邀請好友賺幣</string>
 	<string name="Referral_Program">邀請計劃</string>
 	<string name="referral_program_introduction_1">最高 70%% 交易手續費分傭</string>
