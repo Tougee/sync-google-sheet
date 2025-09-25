@@ -2371,4 +2371,15 @@
   <string name="referral_program_introduction_2" platform="android, iOS">会员返佣单笔最高 2000 USD</string>
   <string name="referral_program_introduction_3" platform="android, iOS">返佣资格终生有效</string>
   <string name="referral_program_introduction_footer" platform="android, iOS">* 推荐奖励仅限于付费 Mixin One 会员。</string>
+  <string name="Apply_Referral_Code" platform="android, iOS">绑定邀请码</string>
+  <string name="Referral_Code" platform="android, iOS">邀请码</string>
+  <string name="apply_referral_code_benefit" platform="android, iOS">将邀请码绑定到你的账户，解锁 Mixin 专属福利。</string>
+  <string name="referral_code_applied" platform="android, iOS">绑定成功</string>
+  <string name="referral_code_applied_header" platform="android, iOS">🎉 邀请码绑定成功，您已自动获得以下权益：</string>
+  <string name="referral_code_applied_introduction_1" platform="android, iOS">最高 50%% 交易手续费返现</string>
+  <string name="referral_code_applied_introduction_2" platform="android, iOS">升级会员返现单笔最高 1000 USD</string>
+  <string name="referral_code_applied_introduction_3" platform="android, iOS">自动获得后续所有新权益</string>
+  <string name="referral_code_applied_footer" platform="android, iOS">所有返现将按月结算到您的 Mixin 隐私钱包。</string>
+  <string name="invalid_referral_code" platform="android, iOS">无效的邀请码</string>
+  <string name="cannot_apply_your_own_referral_code" platform="android, iOS">不可绑定自己的邀请码</string>
 </resources>
