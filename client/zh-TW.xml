@@ -1757,6 +1757,7 @@
   <string name="delete_by_pin" platform="android">透過 PIN 刪除</string>
   <string name="edit_by_pin" platform="android">透過 PIN 修改</string>
   <string name="Enable" platform="android, iOS">啟用</string>
+  <string name="upgrade_membership_now" platform="android, iOS">升級會員</string>
   <string name="Not_Now" platform="android, iOS">現在不要</string>
   <string name="Sender" platform="android, iOS">交易發起人</string>
   <string name="total" platform="android, iOS">共計</string>

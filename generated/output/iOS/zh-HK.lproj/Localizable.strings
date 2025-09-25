@@ -1525,6 +1525,7 @@
 "update_now" = "立即更新";
 "upgrade" = "升級";
 "upgrade_database" = "數據庫升級";
+"upgrade_membership_now" = "升級會員";
 "upgrade_plan" = "升級會員";
 "upgrade_plan_for" = "升級會員僅需 %@";
 "upgrade_safe" = "升級 Safe";

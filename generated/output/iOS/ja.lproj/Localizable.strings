@@ -1525,6 +1525,7 @@
 "update_now" = "Update Now";
 "upgrade" = "Upgrade";
 "upgrade_database" = "データベースをアップグレード";
+"upgrade_membership_now" = "Upgrade Now";
 "upgrade_plan" = "Upgrade Plan";
 "upgrade_plan_for" = "Upgrade for %@";
 "upgrade_safe" = "Upgrade safe";

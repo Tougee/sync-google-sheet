@@ -1759,6 +1759,7 @@
 	<string name="Update_Now">立即更新</string>
 	<string name="Upgrade">升級</string>
 	<string name="Upgrade_Database">數據庫升級</string>
+	<string name="upgrade_membership_now">升級會員</string>
 	<string name="Upgrade_need_verify_your_PIN">升級需要驗證你的 PIN</string>
 	<string name="Upgrade_Plan">升級會員</string>
 	<string name="Upgrade_Plan_for">升級會員僅需 %1$s</string>

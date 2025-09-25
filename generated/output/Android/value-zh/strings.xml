@@ -1759,6 +1759,7 @@
 	<string name="Update_Now">立即更新</string>
 	<string name="Upgrade">升级</string>
 	<string name="Upgrade_Database">数据库升级</string>
+	<string name="upgrade_membership_now">升级会员</string>
 	<string name="Upgrade_need_verify_your_PIN">升级需要验证你的 PIN</string>
 	<string name="Upgrade_Plan">升级会员</string>
 	<string name="Upgrade_Plan_for">升级会员仅需 %1$s</string>

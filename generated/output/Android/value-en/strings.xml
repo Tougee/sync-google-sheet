@@ -1781,6 +1781,7 @@
 	<string name="Update_Now">Update Now</string>
 	<string name="Upgrade">Upgrade</string>
 	<string name="Upgrade_Database">Upgrade Database</string>
+	<string name="upgrade_membership_now">Upgrade Now</string>
 	<string name="Upgrade_need_verify_your_PIN">The upgrade requires verifying your PIN.</string>
 	<string name="Upgrade_Plan">Upgrade Plan</string>
 	<string name="Upgrade_Plan_for">Upgrade for %1$s</string>
