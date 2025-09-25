@@ -1784,6 +1784,7 @@
   <string name="delete_by_pin" platform="android">Delete by PIN</string>
   <string name="edit_by_pin" platform="android">Edit by PIN</string>
   <string name="Enable" platform="android, iOS">Enable</string>
+  <string name="upgrade_membership_now" platform="android, iOS">Upgrade Now</string>
   <string name="Not_Now" platform="android, iOS">Not Now</string>
   <string name="Sender" platform="android, iOS">Sender</string>
   <string name="total" platform="android, iOS">Total</string>
