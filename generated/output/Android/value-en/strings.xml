@@ -1308,7 +1308,7 @@
 	<string name="referral_program_introduction_1">Up to 70%% commission on trading fees</string>
 	<string name="referral_program_introduction_2">Up to 2,000 USD rebate per transaction</string>
 	<string name="referral_program_introduction_3">Rebate eligibility is valid for life</string>
-	<string name="referral_program_introduction_footer">* Referral rewards are available only to paid Mixin One members</string>
+	<string name="referral_program_introduction_footer">* Referral rewards are available only to paid Mixin One members. </string>
 	<string name="referral_program_introduction_header">Join the referral program and invite friends to earn crypto together:</string>
 	<string name="Refresh">Refresh</string>
 	<string name="Refunded">Refunded</string>

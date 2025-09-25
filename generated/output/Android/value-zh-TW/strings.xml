@@ -1289,7 +1289,7 @@
 	<string name="referral_program_introduction_1">最高 70%% 交易手續費分傭</string>
 	<string name="referral_program_introduction_2">會員返佣單筆最高 2000 USD</string>
 	<string name="referral_program_introduction_3">返佣資格終生有效</string>
-	<string name="referral_program_introduction_footer">* 推薦獎勵僅限於付費 Mixin One 會員</string>
+	<string name="referral_program_introduction_footer">* 推薦獎勵僅限於付費 Mixin One 會員。</string>
 	<string name="referral_program_introduction_header">參與邀請計劃，邀請好友分享賺幣：</string>
 	<string name="Refresh">重新整理</string>
 	<string name="Refunded">已退款</string>
