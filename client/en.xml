@@ -2397,7 +2397,7 @@
   <string name="Referral_Program" platform="android, iOS">Referral Program</string>
   <string name="referral_program_introduction_header" platform="android, iOS">Join the referral program and invite friends to earn crypto together:</string>
   <string name="referral_program_introduction_1" platform="android, iOS">Up to 70%% commission on trading fees</string>
-  <string name="referral_program_introduction_2" platform="android, iOS">Up to 2,000 USD rebate per transaction</string>
+  <string name="referral_program_introduction_2" platform="android, iOS">Membership commission rebate up to 1,000 USD per order</string>
   <string name="referral_program_introduction_3" platform="android, iOS">Rebate eligibility is valid for life</string>
   <string name="referral_program_introduction_footer" platform="android, iOS">* Referral rewards are available only to paid Mixin One members. </string>
   <string name="Apply_Referral_Code" platform="android, iOS">Apply Referral Code</string>

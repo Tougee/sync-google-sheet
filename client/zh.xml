@@ -2369,7 +2369,7 @@
   <string name="Referral_Program" platform="android, iOS">邀请计划</string>
   <string name="referral_program_introduction_header" platform="android, iOS">参与邀请计划，邀请好友分享赚币：</string>
   <string name="referral_program_introduction_1" platform="android, iOS">最高 70%% 交易手续费分佣</string>
-  <string name="referral_program_introduction_2" platform="android, iOS">会员返佣单笔最高 2000 USD</string>
+  <string name="referral_program_introduction_2" platform="android, iOS">会员返佣单笔最高 1000 USD</string>
   <string name="referral_program_introduction_3" platform="android, iOS">返佣资格终生有效</string>
   <string name="referral_program_introduction_footer" platform="android, iOS">* 推荐奖励仅限于付费 Mixin One 会员。</string>
   <string name="Apply_Referral_Code" platform="android, iOS">绑定邀请码</string>
