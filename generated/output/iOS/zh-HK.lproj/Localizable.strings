@@ -237,7 +237,6 @@
 "cancel_waiting" = "取消訂單";
 "canceled" = "已取消";
 "canceled_by_caller" = "對方已取消";
-"cannot_apply_your_own_referral_code" = "不可綁定自己的邀請碼";
 "cant_receive_the_code" = "接收不到驗證碼？";
 "caption_send" = "轉出";
 "card" = "卡片";
@@ -554,8 +553,10 @@
 "enter_your_pin" = "輸入你的 PIN";
 "enter_your_pin_to_continue" = "輸入你的 PIN 以繼續";
 "error_access_limited" = "錯誤 403：訪問受限";
+"error_already_bonded_referral_code" = "錯誤 10731：當前賬户已綁定邀請碼，無法修改綁定。";
 "error_bad_data" = "錯誤 10002：請求數據不合法";
 "error_blockchain" = "錯誤 30100：區塊鏈同步異常，請稍後重試";
+"error_cannot_apply_your_own_referral_code" = "錯誤 10732：不可綁定自己的邀請碼";
 "error_captcha_is_invalid" = "錯誤 10004：驗證失敗";
 "error_card_expired" = "錯誤 10601: 卡片已過期";
 "error_card_not_supported" = "錯誤 10604: 不支持此卡片";
@@ -570,7 +571,9 @@
 "error_invalid_emergency_contact" = "錯誤 20130：恢復聯繫人不正確";
 "error_invalid_pin_format" = "錯誤 20118：PIN 格式不正確";
 "error_invalid_quote_amount" = "錯誤 10614: 輸入金額太小或太大，請重新輸入。";
+"error_invalid_referral_code" = "錯誤 10730：無效的邀請碼";
 "error_invalid_swap" = "錯誤 10611: 暫無報價，請稍後重試。";
+"error_inviter_plan_expired" = "錯誤 10737：綁定失敗，邀請人的會員已過期";
 "error_legacy_pin" = "錯誤 20118：為了加強 Mixin 網絡的安全，Mixin API 現已暫停 D3M-PIN 升級到 TIP，詳情請查看文檔並登記等待處理。";
 "error_network_task_failed" = "網絡連接失敗。檢查或切換網絡並重試";
 "error_no_available_quote" = "錯誤 10615: 暫不支持該交易對，請嘗試切換幣種。";
@@ -725,7 +728,6 @@
 "invalid_parameters" = "無效的參數";
 "invalid_payment_link" = "無效支付信息";
 "invalid_qr_code" = "無效的二維碼";
-"invalid_referral_code" = "無效的邀請碼";
 "invalid_request_body" = "無效的請求";
 "invalid_sdp" = "無效的 SDP";
 "invalid_secret_for_wallet" = "導入的%@與錢包不匹配，請重新導入。";

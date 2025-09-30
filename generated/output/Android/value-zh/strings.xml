@@ -286,7 +286,6 @@
 	<string name="Cancel_Waiting">取消订单</string>
 	<string name="Canceled">已取消</string>
 	<string name="Canceled_by_caller">对方已取消</string>
-	<string name="cannot_apply_your_own_referral_code">不可绑定自己的邀请码</string>
 	<string name="Cant_receive_the_code">接收不到验证码？</string>
 	<string name="cant_talk_self">不能和自己对话</string>
 	<string name="cant_transfer_self">不能给自己转账</string>
@@ -640,9 +639,11 @@
 	<string name="error_access_limited">错误 403：访问受限</string>
 	<string name="error_address_exists">地址不存在，请确保地址是否添加成功</string>
 	<string name="error_address_not_sync">地址刷新失败，请重试</string>
+	<string name="error_already_bonded_referral_code">错误 10731：当前账户已绑定邀请码，无法修改绑定。</string>
 	<string name="error_authentication">错误 401：请重新登录</string>
 	<string name="error_bad_data">错误 10002：请求数据不合法</string>
 	<string name="error_blockchain">错误 30100：区块链同步异常，请稍后重试</string>
+	<string name="error_cannot_apply_your_own_referral_code">错误 10732：不可绑定自己的邀请码</string>
 	<string name="error_card_expired">错误 10601: 卡片已过期</string>
 	<string name="error_card_holder_name_not_same">错误 10608: 卡片异常，请稍后尝试正确的卡片</string>
 	<string name="error_card_not_supported">错误 10604: 不支持此卡片</string>
@@ -659,7 +660,9 @@
 	<string name="error_invalid_emergency_contact">错误 20130：恢复联系人不正确</string>
 	<string name="error_invalid_pin_format">错误 20118：PIN 格式不正确</string>
 	<string name="error_invalid_quote_amount">错误 10614: 输入金额太小或太大，请重新输入。</string>
+	<string name="error_invalid_referral_code">错误 10730：无效的邀请码</string>
 	<string name="error_invalid_swap">错误 10611: 暂无报价，请稍后重试。</string>
+	<string name="error_inviter_plan_expired">错误 10737：绑定失败，邀请人的会员已过期</string>
 	<string name="error_legacy_pin">错误 20118：为了加强 Mixin 网络的安全，Mixin API 现已暂停 D3M-PIN 升级到 TIP，详情请查看文档并登记等待处理。</string>
 	<string name="error_memo_too_long">Memo 字符超长，最多为 200</string>
 	<string name="error_no_available_quote">错误 10615: 暂不支持该交易对，请尝试切换币种。</string>
@@ -854,7 +857,6 @@
 	<string name="Invalid_mnemonic_phrase">助记词无效</string>
 	<string name="Invalid_payment_link">无效支付信息</string>
 	<string name="Invalid_QR_Code">无效的二维码</string>
-	<string name="invalid_referral_code">无效的邀请码</string>
 	<string name="invalid_secret_for_wallet">导入的%1$s与钱包不匹配，请重新导入。</string>
 	<string name="Invalid_sticker_format">贴纸格式不支持</string>
 	<string name="invalid_tag_description">地址标签（Tag）必须为非 0 的数字</string>

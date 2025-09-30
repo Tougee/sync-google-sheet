@@ -237,7 +237,6 @@
 "cancel_waiting" = "Cancel Waiting";
 "canceled" = "キャンセルしました";
 "canceled_by_caller" = "発信者がキャンセルしました";
-"cannot_apply_your_own_referral_code" = "Cannot apply your own referral code";
 "cant_receive_the_code" = "コードを受け取れませんか？";
 "caption_send" = "出金";
 "card" = "ロボ";
@@ -554,8 +553,10 @@
 "enter_your_pin" = "PINコードを入力してください";
 "enter_your_pin_to_continue" = "PINコードを入力して、続けてください";
 "error_access_limited" = "ERROR 403: Access Limited";
+"error_already_bonded_referral_code" = "ERROR 10731: This account has already applied a referral code";
 "error_bad_data" = "エラー 10002：リクエストデータが無効です";
 "error_blockchain" = "エラー 30100：ブロックチェーンが同期できていません。後程もう一度お試しください。";
+"error_cannot_apply_your_own_referral_code" = "ERROR 10732: Cannot apply your own referral code";
 "error_captcha_is_invalid" = "エラー10004：captchaが無効です";
 "error_card_expired" = "ERROR 10601: Card expired";
 "error_card_not_supported" = "ERROR 10604: Card not supported";
@@ -570,7 +571,9 @@
 "error_invalid_emergency_contact" = "ERROR 20130: Invalid recovery contact";
 "error_invalid_pin_format" = "エラー 20118：無効なPINフォーマットです";
 "error_invalid_quote_amount" = "ERROR 10614: The input amount is either too small or too large, please adjust the amount.";
+"error_invalid_referral_code" = "ERROR 10730: Invalid Referral Code";
 "error_invalid_swap" = "ERROR 10611: No quotes available at the moment, please try again later.";
+"error_inviter_plan_expired" = "ERROR 10737: The inviter has no valid plan";
 "error_legacy_pin" = "ERROR 20118: To enhance the security of the Mixin network, Mixin API has temporarily suspended the upgrading from D3M-PIN to TIP. Please refer to the documentation for details and register for processing.";
 "error_network_task_failed" = "ネットワーク接続に失敗しました。ネットワーク接続状態を確認した後にもう一度試してください。";
 "error_no_available_quote" = "ERROR 10615: This trading pair is currently not supported, please try switching to a different token.";
@@ -725,7 +728,6 @@
 "invalid_parameters" = "無効なパラメータ";
 "invalid_payment_link" = "支払いが無効です";
 "invalid_qr_code" = "無効なQRコード";
-"invalid_referral_code" = "Invalid Referral Code";
 "invalid_request_body" = "無効なリクエストボディ";
 "invalid_sdp" = "無効なSDP";
 "invalid_secret_for_wallet" = "The %@ does not match the selected wallet. Please try another.";

@@ -286,7 +286,6 @@
 	<string name="Cancel_Waiting">取消訂單</string>
 	<string name="Canceled">已取消</string>
 	<string name="Canceled_by_caller">對方已取消</string>
-	<string name="cannot_apply_your_own_referral_code">不可繫結自己的邀請碼</string>
 	<string name="Cant_receive_the_code">接收不到驗證碼？</string>
 	<string name="cant_talk_self">不能和自己對話</string>
 	<string name="cant_transfer_self">不能給自己轉賬</string>
@@ -640,9 +639,11 @@
 	<string name="error_access_limited">錯誤 403：訪問受限</string>
 	<string name="error_address_exists">地址不存在，請確保地址是否新增成功</string>
 	<string name="error_address_not_sync">地址重新整理失敗，請重試</string>
+	<string name="error_already_bonded_referral_code">錯誤 10731：當前賬戶已繫結邀請碼，無法修改繫結。</string>
 	<string name="error_authentication">錯誤 401：請重新登入</string>
 	<string name="error_bad_data">錯誤 10002：請求資料不合法</string>
 	<string name="error_blockchain">錯誤 30100：區塊鏈同步異常，請稍後重試</string>
+	<string name="error_cannot_apply_your_own_referral_code">錯誤 10732：不可繫結自己的邀請碼</string>
 	<string name="error_card_expired">錯誤 10601: 卡片已過期</string>
 	<string name="error_card_holder_name_not_same">錯誤 10608: 卡片異常，請稍後嘗試正確的卡片</string>
 	<string name="error_card_not_supported">錯誤 10604: 不支援此卡片</string>
@@ -659,7 +660,9 @@
 	<string name="error_invalid_emergency_contact">錯誤 20130：恢復聯絡人不正確</string>
 	<string name="error_invalid_pin_format">錯誤 20118：PIN 格式不正確</string>
 	<string name="error_invalid_quote_amount">錯誤 10614: 輸入金額太小或太大，請重新輸入。</string>
+	<string name="error_invalid_referral_code">錯誤 10730：無效的邀請碼</string>
 	<string name="error_invalid_swap">錯誤 10611: 暫無報價，請稍後重試。</string>
+	<string name="error_inviter_plan_expired">錯誤 10737：繫結失敗，邀請人的會員已過期</string>
 	<string name="error_legacy_pin">錯誤 20118：為了加強 Mixin 網路的安全，Mixin API 現已暫停 D3M-PIN 升級到 TIP，詳情請檢視檔案並登記等待處理。</string>
 	<string name="error_memo_too_long">Memo 字元超長，最多為 200</string>
 	<string name="error_no_available_quote">錯誤 10615: 暫不支援該交易對，請嘗試切換幣種。</string>
@@ -854,7 +857,6 @@
 	<string name="Invalid_mnemonic_phrase">助記詞無效</string>
 	<string name="Invalid_payment_link">無效支付資訊</string>
 	<string name="Invalid_QR_Code">無效的二維碼</string>
-	<string name="invalid_referral_code">無效的邀請碼</string>
 	<string name="invalid_secret_for_wallet">匯入的%1$s與錢包不匹配，請重新匯入。</string>
 	<string name="Invalid_sticker_format">貼紙格式不支援</string>
 	<string name="invalid_tag_description">地址標籤（Tag）必須為非 0 的數字</string>
