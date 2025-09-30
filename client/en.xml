@@ -2409,7 +2409,9 @@
   <string name="referral_code_applied_introduction_2" platform="android, iOS">Up to 1,000 USD cashback per transaction when upgrading membership</string>
   <string name="referral_code_applied_introduction_3" platform="android, iOS">Automatic access to all future new benefits</string>
   <string name="referral_code_applied_footer" platform="android, iOS">All cashback will be settled monthly to your Mixin privacy wallet. </string>
-  <string name="invalid_referral_code" platform="android, iOS">Invalid Referral Code</string>
-  <string name="cannot_apply_your_own_referral_code" platform="android, iOS">Cannot apply your own referral code</string>
   <string name="input_referral_code_hint" platform="android, iOS">Invited by a friend?</string>
+  <string name="error_invalid_referral_code" platform="android, iOS">ERROR 10730: Invalid Referral Code</string>
+  <string name="error_already_bonded_referral_code" platform="android, iOS, Desktop">ERROR 10731: This account has already applied a referral code</string>
+  <string name="error_cannot_apply_your_own_referral_code" platform="android, iOS">ERROR 10732: Cannot apply your own referral code</string>
+  <string name="error_inviter_plan_expired" platform="android, iOS, Desktop">ERROR 10737: The inviter has no valid plan</string>
 </resources>

@@ -2381,7 +2381,9 @@
   <string name="referral_code_applied_introduction_2" platform="android, iOS">升级会员返现单笔最高 1000 USD</string>
   <string name="referral_code_applied_introduction_3" platform="android, iOS">自动获得后续所有新权益</string>
   <string name="referral_code_applied_footer" platform="android, iOS">所有返现将按月结算到您的 Mixin 隐私钱包。</string>
-  <string name="invalid_referral_code" platform="android, iOS">无效的邀请码</string>
-  <string name="cannot_apply_your_own_referral_code" platform="android, iOS">不可绑定自己的邀请码</string>
   <string name="input_referral_code_hint" platform="android, iOS">输入邀请码</string>
+  <string name="error_invalid_referral_code" platform="android, iOS">错误 10730：无效的邀请码</string>
+  <string name="error_already_bonded_referral_code" platform="android, iOS, Desktop">错误 10731：当前账户已绑定邀请码，无法修改绑定。</string>
+  <string name="error_cannot_apply_your_own_referral_code" platform="android, iOS">错误 10732：不可绑定自己的邀请码</string>
+  <string name="error_inviter_plan_expired" platform="android, iOS, Desktop">错误 10737：绑定失败，邀请人的会员已过期</string>
 </resources>
