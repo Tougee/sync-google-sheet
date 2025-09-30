@@ -2411,4 +2411,5 @@
   <string name="referral_code_applied_footer" platform="android, iOS">All cashback will be settled monthly to your Mixin privacy wallet. </string>
   <string name="invalid_referral_code" platform="android, iOS">Invalid Referral Code</string>
   <string name="cannot_apply_your_own_referral_code" platform="android, iOS">Cannot apply your own referral code</string>
+  <string name="input_referral_code_hint" platform="android, iOS">Invited by a friend?</string>
 </resources>
