@@ -853,6 +853,7 @@
 	<string name="Incognito_Keyboard">Incognito Keyboard</string>
 	<string name="Incoming_voice_call">Incoming voice call</string>
 	<string name="Initializing">Initializing…</string>
+	<string name="input_referral_code_hint">Invited by a friend?</string>
 	<string name="install_messenger_desc">Visit mixin.one/mm or scan the QR code to install</string>
 	<string name="insufficient_balance">Insufficient balance</string>
 	<string name="insufficient_balance_symbol">Insufficient %1$s</string>

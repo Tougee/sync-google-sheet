@@ -707,6 +707,7 @@
 "incoming_voice_call" = "语音通话来电";
 "info" = "信息";
 "initializing" = "初始化...";
+"input_referral_code_hint" = "输入邀请码";
 "install_messenger_desc" = "访问 mixin.one/mm 或扫描二维码安装";
 "insufficient_balance" = "余额不足";
 "insufficient_balance_symbol" = "%@ 余额不足";

@@ -841,6 +841,7 @@
 	<string name="Incognito_Keyboard">隐身键盘</string>
 	<string name="Incoming_voice_call">语音通话来电</string>
 	<string name="Initializing">初始化…</string>
+	<string name="input_referral_code_hint">输入邀请码</string>
 	<string name="install_messenger_desc">访问 mixin.one/mm 或扫描二维码安装</string>
 	<string name="insufficient_balance">余额不足</string>
 	<string name="insufficient_balance_symbol">%1$s 余额不足</string>

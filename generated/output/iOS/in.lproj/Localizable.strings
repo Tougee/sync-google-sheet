@@ -707,6 +707,7 @@
 "incoming_voice_call" = "Panggilan suara masuk";
 "info" = "Info";
 "initializing" = "Memulai...";
+"input_referral_code_hint" = "Invited by a friend?";
 "install_messenger_desc" = "Visit mixin.one/mm or scan the QR code to install";
 "insufficient_balance" = "Saldo tidak cukup";
 "insufficient_balance_symbol" = "Insufficient %@";

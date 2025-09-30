@@ -707,6 +707,7 @@
 "incoming_voice_call" = "着信";
 "info" = "プロフィール";
 "initializing" = "初期化中...";
+"input_referral_code_hint" = "Invited by a friend?";
 "install_messenger_desc" = "Visit mixin.one/mm or scan the QR code to install";
 "insufficient_balance" = "残高が不足しています";
 "insufficient_balance_symbol" = "Insufficient %@";
