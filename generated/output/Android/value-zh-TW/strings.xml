@@ -1294,7 +1294,7 @@
 	<string name="referral_banner">邀請好友贏取最高 70%% 手續費分傭！</string>
 	<string name="Referral_Code">邀請碼</string>
 	<string name="referral_code_applied">繫結成功</string>
-	<string name="referral_code_applied_footer">所有返現將按月結算到您的 Mixin 隱私錢包。</string>
+	<string name="referral_code_applied_footer">手續費按月、按實際消耗的手續費幣種和金額彙總返還到您的 Mixin 隱私錢包，閱讀檔案瞭解更多。</string>
 	<string name="referral_code_applied_header">🎉 邀請碼繫結成功，您已自動獲得以下權益：</string>
 	<string name="referral_code_applied_introduction_1">最高 50%% 交易手續費返現</string>
 	<string name="referral_code_applied_introduction_2">升級會員返現單筆最高 1000 USD</string>

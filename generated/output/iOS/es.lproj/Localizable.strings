@@ -1121,7 +1121,7 @@
 "referral_banner" = "Invite friends and earn up to 70%% of their trading fees!";
 "referral_code" = "Referral Code";
 "referral_code_applied" = "Applied";
-"referral_code_applied_footer" = "All cashback will be settled monthly to your Mixin privacy wallet. ";
+"referral_code_applied_footer" = "The fees are refunded monthly to your Mixin privacy wallet, summarized by the actual fee tokens and amounts consumed. Read the documentation to learn more.";
 "referral_code_applied_header" = "🎉 Referral code successfully applied! You’ve unlocked the following benefits:";
 "referral_code_applied_introduction_1" = "Up to 50%% cashback on trading fees";
 "referral_code_applied_introduction_2" = "Up to 1,000 USD cashback per transaction when upgrading membership";

@@ -2380,7 +2380,7 @@
   <string name="referral_code_applied_introduction_1" platform="android, iOS">最高 50%% 交易手續費返現</string>
   <string name="referral_code_applied_introduction_2" platform="android, iOS">升級會員返現單筆最高 1000 USD</string>
   <string name="referral_code_applied_introduction_3" platform="android, iOS">自動獲得後續所有新權益</string>
-  <string name="referral_code_applied_footer" platform="android, iOS">所有返現將按月結算到您的 Mixin 隱私錢包。</string>
+  <string name="referral_code_applied_footer" platform="android, iOS">手續費按月、按實際消耗的手續費幣種和金額彙總返還到您的 Mixin 隱私錢包，閲讀文檔瞭解更多。</string>
   <string name="input_referral_code_hint" platform="android, iOS">輸入邀請碼</string>
   <string name="error_invalid_referral_code" platform="android, iOS">錯誤 10730：無效的邀請碼</string>
   <string name="error_already_bonded_referral_code" platform="android, iOS, Desktop">錯誤 10731：當前賬户已綁定邀請碼，無法修改綁定。</string>

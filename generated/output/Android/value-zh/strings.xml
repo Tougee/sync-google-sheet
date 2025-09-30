@@ -1294,7 +1294,7 @@
 	<string name="referral_banner">邀请好友赢取最高 70%% 手续费分佣！</string>
 	<string name="Referral_Code">邀请码</string>
 	<string name="referral_code_applied">绑定成功</string>
-	<string name="referral_code_applied_footer">所有返现将按月结算到您的 Mixin 隐私钱包。</string>
+	<string name="referral_code_applied_footer">手续费按月、按实际消耗的手续费币种和金额汇总返还到您的 Mixin 隐私钱包，阅读文档了解更多。</string>
 	<string name="referral_code_applied_header">🎉 邀请码绑定成功，您已自动获得以下权益：</string>
 	<string name="referral_code_applied_introduction_1">最高 50%% 交易手续费返现</string>
 	<string name="referral_code_applied_introduction_2">升级会员返现单笔最高 1000 USD</string>
