@@ -1017,6 +1017,7 @@
 	<string name="mixin_one_desc">Start your Mixin premium journey</string>
 	<string name="mixin_payment_content">💰 Amount: %1$s\n🌐 Network: %2$s\n🤝 Receiver: %3$s</string>
 	<string name="mixin_payment_title">📣 Mixin Payment</string>
+	<string name="Mixin_Referral">Mixin Referral</string>
 	<string name="Mixin_Support">Mixin Support</string>
 	<string name="Mnemonic_Phrase">Mnemonic Phrase</string>
 	<string name="Mnemonic_Phrase_instruction">You can log in to your account using the mnemonic phrase. The current mnemonic phrase is linked to a key shard of the MPC wallet, with the complete key existing only in the TEE security environment on the current device. Read the documentation to learn %1$s.</string>
@@ -1315,7 +1316,6 @@
 	<string name="referral_code_applied_introduction_2">Up to 1,000 USD cashback per transaction when upgrading membership</string>
 	<string name="referral_code_applied_introduction_3">Automatic access to all future new benefits</string>
 	<string name="referral_description">Invite friends earn crypto</string>
-	<string name="Referral_Program">Referral Program</string>
 	<string name="referral_program_introduction_1">Up to 70%% commission on trading fees</string>
 	<string name="referral_program_introduction_2">Membership commission rebate up to 1,000 USD per order</string>
 	<string name="referral_program_introduction_3">Rebate eligibility is valid for life</string>

@@ -999,6 +999,7 @@
 	<string name="mixin_one_desc">開啓您的 Mixin 會員之旅</string>
 	<string name="mixin_payment_content">💰 金額：%1$s\n🌐 網絡：%2$s\n🤝 收款人：%3$s</string>
 	<string name="mixin_payment_title">📣 Mixin 收款</string>
+	<string name="Mixin_Referral">Mixin 邀請</string>
 	<string name="Mixin_Support">Mixin 客服</string>
 	<string name="Mnemonic_Phrase">助記詞</string>
 	<string name="Mnemonic_Phrase_instruction">你可以通過助記詞登錄你的賬號，當前助記詞已關聯到 MPC 錢包的密鑰分片，完整的密鑰只存在當前設備的 TEE 安全環境中，閲讀文檔以瞭解%1$s。</string>
@@ -1296,7 +1297,6 @@
 	<string name="referral_code_applied_introduction_2">升級會員返現單筆最高 1000 USD</string>
 	<string name="referral_code_applied_introduction_3">自動獲得後續所有新權益</string>
 	<string name="referral_description">邀請好友賺幣</string>
-	<string name="Referral_Program">邀請計劃</string>
 	<string name="referral_program_introduction_1">最高 70%% 交易手續費分傭</string>
 	<string name="referral_program_introduction_2">會員返佣單筆最高 1000 USD</string>
 	<string name="referral_program_introduction_3">返佣資格終生有效</string>
