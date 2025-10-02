@@ -488,6 +488,7 @@
   <string name="depost_address_updated" platform="android,iOS">%1$s Deposit Address Updated</string>
   <string name="depost_address_updated_description" platform="android,iOS">Your %1$s deposit address has been updated. The deposit address will automatically update with system or network upgrades. Old addresses are still valid for deposits, but it is not recommended for further use.</string>
   <string name="deposit_invoice" platform="android, iOS">Invoice</string>
+  <string name="copy_deposit_invoice" platform="android, iOS">Copy Invoice</string>
   <string name="Deselect_All" platform="android, iOS">Deselect All</string>
   <string name="Designated_time_period" platform="android">Designated time period</string>
   <string name="desktop" platform="android">desktop</string>
