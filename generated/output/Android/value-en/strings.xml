@@ -545,6 +545,7 @@
 	</plurals>
 	<string name="deposit_dust">Minimum deposit: %1$s %2$s</string>
 	<string name="deposit_hash">Deposit Hash</string>
+	<string name="deposit_invoice">Invoice</string>
 	<string name="deposit_memo_address_notice">Both Memo and Address are required to deposit %1$s to your account.</string>
 	<string name="deposit_memo_notice">Memo is required, or you will lose your coins.</string>
 	<string name="Deposit_Pending_Confirmation">%1$s Pending Confirmation</string>

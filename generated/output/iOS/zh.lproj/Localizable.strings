@@ -467,6 +467,7 @@
 "deposit_confirmation_count" = "充值到账需要 %d 个区块确认。";
 "deposit_dust" = "最小充值数：%1$@ %2$@";
 "deposit_hash" = "充值哈希";
+"deposit_invoice" = "票据";
 "deposit_memo_address_notice" = "地址和 Memo（备注）同时使用才能充值 %@ 到你的账号。";
 "deposit_memo_notice" = "充值时务必填写 Memo（备注），否则可能导致资产丢失。";
 "deposit_pending_confirmation" = "%@ 充值确认中";
