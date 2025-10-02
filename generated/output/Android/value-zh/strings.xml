@@ -472,6 +472,7 @@
 	<string name="copied_to_clipboard">已拷贝</string>
 	<string name="Copy">复制</string>
 	<string name="copy_address">复制地址</string>
+	<string name="copy_deposit_invoice">复制票据</string>
 	<string name="Copy_invite">复制邀请链接</string>
 	<string name="Copy_link">复制链接</string>
 	<string name="Create">创建</string>

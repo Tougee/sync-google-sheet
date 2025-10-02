@@ -400,6 +400,7 @@
 "copy" = "複製";
 "copy_address" = "複製地址";
 "copy_conversation_id" = "複製對話 ID";
+"copy_deposit_invoice" = "複製票據";
 "copy_invite" = "複製邀請連結";
 "copy_link" = "複製連結";
 "copy_user_id" = "複製使用者 ID";

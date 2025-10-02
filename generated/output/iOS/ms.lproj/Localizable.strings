@@ -400,6 +400,7 @@
 "copy" = "Salinan";
 "copy_address" = "Copy Address";
 "copy_conversation_id" = "Copy Conversation ID";
+"copy_deposit_invoice" = "Copy Invoice";
 "copy_invite" = "Salin pautan";
 "copy_link" = "Salin pautan";
 "copy_user_id" = "Copy User ID";

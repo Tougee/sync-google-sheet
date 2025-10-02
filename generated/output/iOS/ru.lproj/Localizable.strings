@@ -400,6 +400,7 @@
 "copy" = "Копировать";
 "copy_address" = "Copy Address";
 "copy_conversation_id" = "Скопировать идентификатор беседы";
+"copy_deposit_invoice" = "Copy Invoice";
 "copy_invite" = "Скопировать пригласительную ссылку";
 "copy_link" = "Копировать ссылку";
 "copy_user_id" = "Копировать идентификатор пользователя";
