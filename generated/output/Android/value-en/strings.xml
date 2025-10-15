@@ -762,6 +762,9 @@
 	<string name="fees_by_gateway">Fees by Processor</string>
 	<string name="fees_by_mixin">Fees by Mixin</string>
 	<string name="fees_explaination">You may be charged fees outside of your order by your bank, please contact your bank for more details.</string>
+	<string name="Fetching_address">Fetching address…</string>
+	<string name="fetching_address_failed">Fetch Failed</string>
+	<string name="fetching_address_failed_reason">This contact hasn’t registered a common wallet.</string>
 	<string name="Fetching_in_to_your_wallet">Fetching in to your wallet…</string>
 	<string name="File">File</string>
 	<string name="File_chooser_error">File chooser error</string>

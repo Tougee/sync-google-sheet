@@ -753,6 +753,9 @@
 	<string name="fees_by_gateway">支付閘道器費用</string>
 	<string name="fees_by_mixin">Mixin 手續費</string>
 	<string name="fees_explaination">您有可能被您的銀行收取訂單之外的費用，請聯絡您的銀行了解更多詳情。</string>
+	<string name="Fetching_address">正在查詢地址…</string>
+	<string name="fetching_address_failed">找不到地址</string>
+	<string name="fetching_address_failed_reason">該聯絡人還沒有註冊普通錢包</string>
 	<string name="Fetching_in_to_your_wallet">正在查詢你的錢包…</string>
 	<string name="File">檔案</string>
 	<string name="File_chooser_error">檔案選擇錯誤</string>

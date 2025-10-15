@@ -2388,4 +2388,7 @@
   <string name="error_already_bonded_referral_code" platform="android, iOS, Desktop">錯誤 10731：當前賬戶已繫結邀請碼，無法修改繫結。</string>
   <string name="error_cannot_apply_your_own_referral_code" platform="android, iOS">錯誤 10732：不可繫結自己的邀請碼</string>
   <string name="error_inviter_plan_expired" platform="android, iOS, Desktop">錯誤 10737：繫結失敗，邀請人的會員已過期</string>
+  <string name="Fetching_address" platform="android, iOS">正在查詢地址…</string>
+  <string name="fetching_address_failed" platform="android, iOS">找不到地址</string>
+  <string name="fetching_address_failed_reason" platform="android, iOS">該聯絡人還沒有註冊普通錢包</string>
 </resources>

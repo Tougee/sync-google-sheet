@@ -753,6 +753,9 @@
 	<string name="fees_by_gateway">支付网关费用</string>
 	<string name="fees_by_mixin">Mixin 手续费</string>
 	<string name="fees_explaination">您有可能被您的银行收取订单之外的费用，请联系您的银行了解更多详情。</string>
+	<string name="Fetching_address">正在查找地址…</string>
+	<string name="fetching_address_failed">找不到地址</string>
+	<string name="fetching_address_failed_reason">该联系人还没有注册普通钱包</string>
 	<string name="Fetching_in_to_your_wallet">正在查找你的钱包…</string>
 	<string name="File">文件</string>
 	<string name="File_chooser_error">文件选择错误</string>
