@@ -1317,6 +1317,7 @@
   <string name="send_to" platform="android, iOS">发送给 %1$s</string>
   <string name="send_to_address_description" platform="android, iOS">转到我地址薄中的地址，地址受到 PIN 保护，避免地址钓鱼攻击。</string>
   <string name="Send_to_Contact_description" platform="android, iOS">转给我的 Mixin 好友，转账隐私、零手续费且秒到账。</string>
+  <string name="send_to_contact_common_wallet_description" platform="android, iOS">转到 Mixin 好友的普通钱包，转账快捷又方便。</string>
   <string name="Send_to_Developer" platform="iOS, Desktop">把日志发给开发者</string>
   <string name="Send_To_Title" platform="iOS">转给</string>
   <string name="Send_transfer" platform="android">转出</string>

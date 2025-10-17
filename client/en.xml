@@ -1336,6 +1336,7 @@
   <string name="send_to" platform="android, iOS">Send to %1$s</string>
   <string name="send_to_address_description" platform="android, iOS">Send to an address in your Address Book, PIN-protected to prevent phishing.</string>
   <string name="Send_to_Contact_description" platform="android, iOS">Send to your Mixin friends with privacy, zero fees, and instant delivery.</string>
+  <string name="send_to_contact_common_wallet_description" platform="android, iOS">Send to your friends’ Common Wallets quickly and easily.</string>
   <string name="Send_to_Developer" platform="iOS, Desktop">Send to Developer</string>
   <string name="Send_To_Title" platform="iOS">Send To</string>
   <string name="Send_transfer" platform="android">Send</string>
