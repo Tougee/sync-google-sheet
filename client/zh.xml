@@ -2391,5 +2391,4 @@
   <string name="error_inviter_plan_expired" platform="android, iOS, Desktop">错误 10737：绑定失败，邀请人的会员已过期</string>
   <string name="Fetching_address" platform="android, iOS">正在查找地址…</string>
   <string name="fetching_address_failed" platform="android, iOS">找不到地址</string>
-  <string name="fetching_address_failed_reason" platform="android, iOS">该联系人还没有注册普通钱包</string>
 </resources>

@@ -2419,5 +2419,4 @@
   <string name="error_inviter_plan_expired" platform="android, iOS, Desktop">ERROR 10737: The inviter has no valid plan</string>
   <string name="Fetching_address" platform="android, iOS">Fetching address…</string>
   <string name="fetching_address_failed" platform="android, iOS">Fetch Failed</string>
-  <string name="fetching_address_failed_reason" platform="android, iOS">This contact hasn’t registered a common wallet.</string>
 </resources>
