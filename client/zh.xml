@@ -2392,4 +2392,9 @@
   <string name="Fetching_address" platform="android, iOS">正在查找地址…</string>
   <string name="fetching_address_failed" platform="android, iOS">找不到地址</string>
   <string name="fetching_address_failed_reason" platform="android, iOS">该联系人还没有注册普通钱包</string>
+  <string name="limited_time_free" platform="android, iOS">限时免费</string>
+  <string name="limited_time_free_condition" platform="android, iOS">活动期间，钱包转账符合以下任意情况即可获得手续费全额返现：</string>
+  <string name="limited_time_free_condition_1" platform="android, iOS">隐私钱包转账到普通钱包、Mixin Safe 金库。</string>
+  <string name="limited_time_free_condition_2" platform="android, iOS">普通钱包转账到其他普通钱包、隐私钱包、Mixin Safe 金库或联系人。</string>
+  <string name="limited_time_free_description" platform="android, iOS">手续费按月、按实际消耗的手续费币种和金额汇总返还到您的隐私钱包，阅读文档了解更多。</string>
 </resources>
