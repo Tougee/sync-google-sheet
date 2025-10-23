@@ -774,6 +774,11 @@
 "lightning_address_explain_2" = "Reusable, no need to generate a new one each time.";
 "lightning_address_explain_3" = "Supported by mainstream Lightning Network wallets.";
 "lightning_address_explain_mao" = "Each MAO domain corresponds to a Lightning Network address. If you own a MAO domain, you can use name@mao.id to receive Lightning Network transfers. ";
+"limited_time_free" = "Limited-Time Free";
+"limited_time_free_condition" = "During the promotion period, you’ll receive a full refund of transaction fees if your transfer meets any of the following conditions:";
+"limited_time_free_condition_1" = "Privacy Wallet transfer to a Common Wallet or Mixin Safe.";
+"limited_time_free_condition_2" = "Common Wallet transfer to another Common Wallet, Privacy Wallet, Mixin Safe, or contact.";
+"limited_time_free_description" = "Fees will be refunded monthly to your Privacy Wallet, summarized by the actual fee tokens and amounts consumed. Read the documentation to learn more.";
 "line_busy" = "Jaringan sibuk";
 "line_busy_remote" = "Jaringan sibuk";
 "link" = "Link";
@@ -1123,7 +1128,7 @@
 "recovery_kit_instruction" = "The MPC wallet in Mixin Messenger is built on the decentralized key protocol TIP. You can recover your account through your phone number, mnemonic phrase, or a trusted contact. The complete wallet key exists only in the TEE security environment on the current device. Read the documentation to learn %@.";
 "red_up_green_down" = "Red Up / Green Down";
 "referral" = "Referral";
-"referral_banner" = "Invite friends and earn up to 70%% of their trading fees!";
+"referral_banner" = "Invite friends and earn up to 60%% of their trading fees!";
 "referral_code" = "Referral Code";
 "referral_code_applied" = "Applied";
 "referral_code_applied_footer" = "The fees are refunded monthly to your Mixin privacy wallet, summarized by the actual fee tokens and amounts consumed. Read the documentation to learn more.";
@@ -1132,7 +1137,7 @@
 "referral_code_applied_introduction_2" = "Up to 1,000 USD cashback per transaction when upgrading membership";
 "referral_code_applied_introduction_3" = "Automatic access to all future new benefits";
 "referral_description" = "Invite friends earn crypto";
-"referral_program_introduction_1" = "Up to 70%% commission on trading fees";
+"referral_program_introduction_1" = "Up to 60%% commission on trading fees";
 "referral_program_introduction_2" = "Membership commission rebate up to 1,000 USD per order";
 "referral_program_introduction_3" = "Rebate eligibility is valid for life";
 "referral_program_introduction_footer" = "* Referral rewards are available only to paid Mixin One members. ";

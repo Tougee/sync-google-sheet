@@ -774,6 +774,11 @@
 "lightning_address_explain_2" = "可重複使用，無需每次生成新的。";
 "lightning_address_explain_3" = "主流閃電網絡錢包都支持。";
 "lightning_address_explain_mao" = "每一個 MAO 域名對應一個閃電網絡地址，如果您擁有 MAO 域名，可以按 name@mao.id 格式接收閃電網絡轉賬。";
+"limited_time_free" = "限時免費";
+"limited_time_free_condition" = "活動期間，錢包轉賬符合以下任意情況即可獲得手續費全額返現：";
+"limited_time_free_condition_1" = "隱私錢包轉賬到普通錢包、Mixin Safe 金庫。";
+"limited_time_free_condition_2" = "普通錢包轉賬到其他普通錢包、隱私錢包、Mixin Safe 金庫或聯繫人。";
+"limited_time_free_description" = "手續費按月、按實際消耗的手續費幣種和金額彙總返還到您的隱私錢包，閲讀文檔瞭解更多。";
 "line_busy" = "忙線未接聽";
 "line_busy_remote" = "對方忙";
 "link" = "鏈接";
@@ -1123,7 +1128,7 @@
 "recovery_kit_instruction" = "Mixin Messenger 的 MPC 錢包基於去中心化密鑰協議 TIP 構建，您可以通過手機號、助記詞或可信聯繫人登錄恢復你的賬號，錢包完整的密鑰只存在當前設備的 TEE 安全環境中，閲讀文檔以瞭解%@。";
 "red_up_green_down" = "紅漲綠跌";
 "referral" = "邀請";
-"referral_banner" = "邀請好友贏取最高 70%% 手續費分傭！";
+"referral_banner" = "邀請好友贏取最高 60%% 手續費分傭！";
 "referral_code" = "邀請碼";
 "referral_code_applied" = "綁定成功";
 "referral_code_applied_footer" = "手續費按月、按實際消耗的手續費幣種和金額彙總返還到您的 Mixin 隱私錢包，閲讀文檔瞭解更多。";
@@ -1132,7 +1137,7 @@
 "referral_code_applied_introduction_2" = "升級會員返現單筆最高 1000 USD";
 "referral_code_applied_introduction_3" = "自動獲得後續所有新權益";
 "referral_description" = "邀請好友賺幣";
-"referral_program_introduction_1" = "最高 70%% 交易手續費分傭";
+"referral_program_introduction_1" = "最高 60%% 交易手續費分傭";
 "referral_program_introduction_2" = "會員返佣單筆最高 1000 USD";
 "referral_program_introduction_3" = "返佣資格終生有效";
 "referral_program_introduction_footer" = "* 推薦獎勵僅限於付費 Mixin One 會員。";

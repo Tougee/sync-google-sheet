@@ -2368,10 +2368,10 @@
   <string name="pay_now" platform="android, iOS">立刻支付</string>
   <string name="Referral" platform="android, iOS">邀請</string>
   <string name="referral_description" platform="android, iOS">邀請好友賺幣</string>
-  <string name="referral_banner" platform="android, iOS">邀請好友贏取最高 70%% 手續費分傭！</string>
+  <string name="referral_banner" platform="android, iOS">邀請好友贏取最高 60%% 手續費分傭！</string>
   <string name="Mixin_Referral" platform="android, iOS">Mixin 邀請</string>
   <string name="referral_program_introduction_header" platform="android, iOS">參與邀請計劃，邀請好友分享賺幣：</string>
-  <string name="referral_program_introduction_1" platform="android, iOS">最高 70%% 交易手續費分傭</string>
+  <string name="referral_program_introduction_1" platform="android, iOS">最高 60%% 交易手續費分傭</string>
   <string name="referral_program_introduction_2" platform="android, iOS">會員返佣單筆最高 1000 USD</string>
   <string name="referral_program_introduction_3" platform="android, iOS">返佣資格終生有效</string>
   <string name="referral_program_introduction_footer" platform="android, iOS">* 推薦獎勵僅限於付費 Mixin One 會員。</string>
@@ -2392,4 +2392,9 @@
   <string name="Fetching_address" platform="android, iOS">正在查找地址…</string>
   <string name="fetching_address_failed" platform="android, iOS">找不到地址</string>
   <string name="fetching_address_failed_reason" platform="android, iOS">該聯繫人還沒有註冊普通錢包</string>
+  <string name="limited_time_free" platform="android, iOS">限時免費</string>
+  <string name="limited_time_free_condition" platform="android, iOS">活動期間，錢包轉賬符合以下任意情況即可獲得手續費全額返現：</string>
+  <string name="limited_time_free_condition_1" platform="android, iOS">隱私錢包轉賬到普通錢包、Mixin Safe 金庫。</string>
+  <string name="limited_time_free_condition_2" platform="android, iOS">普通錢包轉賬到其他普通錢包、隱私錢包、Mixin Safe 金庫或聯繫人。</string>
+  <string name="limited_time_free_description" platform="android, iOS">手續費按月、按實際消耗的手續費幣種和金額彙總返還到您的隱私錢包，閲讀文檔瞭解更多。</string>
 </resources>

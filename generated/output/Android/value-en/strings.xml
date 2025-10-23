@@ -926,6 +926,11 @@
 	<string name="lightning_address_explain_2">Reusable, no need to generate a new one each time.</string>
 	<string name="lightning_address_explain_3">Supported by mainstream Lightning Network wallets.</string>
 	<string name="lightning_address_explain_mao">Each MAO domain corresponds to a Lightning Network address. If you own a MAO domain, you can use name@mao.id to receive Lightning Network transfers. </string>
+	<string name="limited_time_free">Limited-Time Free</string>
+	<string name="limited_time_free_condition">During the promotion period, you’ll receive a full refund of transaction fees if your transfer meets any of the following conditions:</string>
+	<string name="limited_time_free_condition_1">Privacy Wallet transfer to a Common Wallet or Mixin Safe.</string>
+	<string name="limited_time_free_condition_2">Common Wallet transfer to another Common Wallet, Privacy Wallet, Mixin Safe, or contact.</string>
+	<string name="limited_time_free_description">Fees will be refunded monthly to your Privacy Wallet, summarized by the actual fee tokens and amounts consumed. Read the documentation to learn more.</string>
 	<string name="Line_busy">Line busy</string>
 	<string name="Line_busy_remote">Line busy</string>
 	<string name="Link">Link</string>
@@ -1315,7 +1320,7 @@
 	<string name="Recovery_Kit_instruction">The MPC wallet in Mixin Messenger is built on the decentralized key protocol TIP. You can recover your account through your phone number, mnemonic phrase, or a trusted contact. The complete wallet key exists only in the TEE security environment on the current device. Read the documentation to learn %1$s.</string>
 	<string name="red_up_green_down">Red Up / Green Down</string>
 	<string name="Referral">Referral</string>
-	<string name="referral_banner">Invite friends and earn up to 70%% of their trading fees!</string>
+	<string name="referral_banner">Invite friends and earn up to 60%% of their trading fees!</string>
 	<string name="Referral_Code">Referral Code</string>
 	<string name="referral_code_applied">Applied</string>
 	<string name="referral_code_applied_footer">The fees are refunded monthly to your Mixin privacy wallet, summarized by the actual fee tokens and amounts consumed. Read the documentation to learn more.</string>
@@ -1324,7 +1329,7 @@
 	<string name="referral_code_applied_introduction_2">Up to 1,000 USD cashback per transaction when upgrading membership</string>
 	<string name="referral_code_applied_introduction_3">Automatic access to all future new benefits</string>
 	<string name="referral_description">Invite friends earn crypto</string>
-	<string name="referral_program_introduction_1">Up to 70%% commission on trading fees</string>
+	<string name="referral_program_introduction_1">Up to 60%% commission on trading fees</string>
 	<string name="referral_program_introduction_2">Membership commission rebate up to 1,000 USD per order</string>
 	<string name="referral_program_introduction_3">Rebate eligibility is valid for life</string>
 	<string name="referral_program_introduction_footer">* Referral rewards are available only to paid Mixin One members. </string>
