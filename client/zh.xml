@@ -264,6 +264,7 @@
   <string name="chat_decryption_failed" platform="android, iOS">此信息解密失败，请将 Mixin 升级到最新版本。</string>
   <string name="chat_decryption_failed_hint" platform="iOS, Desktop">等待%@上线后建立加密会话。</string>
   <string name="chat_delete_message.count" platform="android, Desktop">删除 %1$d 条消息吗？</string>
+  <string name="chat_delete_url" platform="android">https://support.mixin.one/zh/article/5aac5l2v5bya5zcv6zmq5pe25rai5ogv77yf-18dzv5i</string>
   <string name="chat_group_add" platform="android, iOS, Desktop">%1$s添加了%2$s</string>
   <string name="chat_group_call_decline" platform="android, iOS">%1$s已拒绝群组语音</string>
   <string name="chat_group_call_did_not_answer" platform="android, iOS">%1$s未接听群组语音</string>
@@ -281,6 +282,7 @@
   <string name="chat_list_empty_info" platform="android, iOS">你可以与你的 Mixin 好友一起聊天。</string>
   <string name="chat_not_support" platform="android, iOS">不支持此类型消息。请升级 Mixin 查看。 %1$s。</string>
   <string name="chat_not_support_uri_on_phone" platform="Desktop">不支持此链接，请在手机上查看。</string>
+  <string name="chat_not_support_url">https://support.mixin.one/zh/article/5ye6546w4occ6lz5liq57g75z6l55qe5rai5ogv5lin5psv5oyb4ocd5oco5lmi5yqe77yf-h92cxa/</string>
   <string name="chat_not_support_view_on_phone" platform="Desktop">不支持此类型消息，请在手机上查看。</string>
   <string name="chat_on_mixin_content" platform="android, iOS">快来 Mixin 与我聊天！简单、安全好用还支持比特币、以太坊等加密货币，下载 https://mixin.one/messenger 后搜索 @%1$s 加我好友。</string>
   <string name="chat_pin_message" platform="android, iOS, Desktop">%1$s置顶了%2$s</string>
@@ -504,6 +506,7 @@
   <string name="disappearing_custom_time_max_warning" platform="Desktop">最高设置 %1$s</string>
   <string name="disappearing_message" platform="android, iOS, Desktop">限时消息</string>
   <string name="disappearing_message_hint" platform="android, iOS, Desktop">启用后，在此聊天中发送和接收的新信息在被看到后会消失，阅读文档以**了解更多**。</string>
+  <string name="disappearing_message_url">https://support.mixin.one/zh/article/5aac5l2v5bya5zcv6zmq5pe25rai5ogv77yf-18dzv5i</string>
   <string name="disappearing_option_1" platform="android, iOS">30 秒</string>
   <string name="disappearing_option_2" platform="android, iOS">10 分</string>
   <string name="disappearing_option_3" platform="android, iOS">2 小时</string>
@@ -795,6 +798,7 @@
   <string name="landing_introduction" platform="android">点击 "同意并继续" 接受 Mixin %1$s和%2$s</string>
   <string name="landing_invitation_dialog_content" platform="android, Desktop">我们将发送4位验证码到手机 %1$s, 请在下一个页面输入</string>
   <string name="landing_validation_title" platform="android, iOS, Desktop">请输入发送至以下号码的 4 位验证码：%1$s</string>
+  <string name="landing_verification_tip_url">https://support.mixin.one/zh/article/5aac5l2v6k6572u57sn5ocl6igu57o75lq6-d2nssy</string>
   <string name="Language" platform="android, iOS">语言</string>
   <string name="Large_Amount_Confirmation" platform="android, iOS">大额转账确认</string>
   <string name="Large_Amount_Confirmation_with_symbol" platform="android, iOS">大额转账确认（%1$s）</string>
@@ -1359,6 +1363,7 @@
   <string name="setting_delete_account_pin_content" platform="android, iOS, Desktop">如果您继续，您的个人资料和账户信息将在%1$s被删除。阅读我们的文档以**了解更多**。</string>
   <string name="setting_delete_account_send" platform="android, iOS">我们将发送 4 位验证码到手机 %1$s</string>
   <string name="setting_delete_account_tip" platform="android, iOS">你的 Mixin 钱包还有一些资产，可以提现至其他钱包或交易所，账户一旦注销，这些资产将和钱包一起被弃用无法找回。</string>
+  <string name="setting_delete_account_url" platform="android, Desktop">https://support.mixin.one/zh/article/5aac5l2v5yig6zmk6lsm5y377yf-1uteq30</string>
   <string name="setting_desktop_logout_failed" platform="android">退出桌面端失败</string>
   <string name="setting_duplicate_transfer_desc" platform="android, iOS">当你在 6 个小时内给相同的人转相同的金额时显示确认弹窗。</string>
   <string name="setting_emergency_change_mobile" platform="android, iOS">立即修改手机号？</string>
