@@ -323,6 +323,7 @@
 	<plurals name="chat_delete_message" tools:ignore="UnusedQuantity">
 		<item quantity="other">刪除 %1$d 條消息嗎？</item>
 	</plurals>
+	<string name="chat_delete_url">https://support.mixin.one/zh/article/5aac5l2v5bya5zcv6zmq5pe25rai5ogv77yf-18dzv5i</string>
 	<string name="chat_group_add">%1$s添加了%2$s</string>
 	<string name="chat_group_call_decline">%1$s已拒絕羣組語音</string>
 	<string name="chat_group_call_did_not_answer">%1$s未接聽羣組語音</string>
@@ -338,6 +339,7 @@
 	<string name="chat_import_fail_content">導入聊天記錄失敗！是否按檔案發送？</string>
 	<string name="chat_list_empty_info">你可以與你的 Mixin 好友一起聊天。</string>
 	<string name="chat_not_support">不支持此類型消息。請升級 Mixin 查看。 %1$s。</string>
+	<string name="chat_not_support_url">https://support.mixin.one/zh/article/5ye6546w4occ6lz5liq57g75z6l55qe5rai5ogv5lin5psv5oyb4ocd5oco5lmi5yqe77yf-h92cxa/</string>
 	<string name="chat_on_mixin_content">快來 Mixin 與我聊天！簡單、安全好用還支持比特幣、以太坊等加密貨幣，下載 https://mixin.one/messenger 後搜索 @%1$s 加我好友。</string>
 	<string name="chat_pin_message">%1$s置頂了%2$s</string>
 	<string name="Chat_pinned">會話已置頂</string>
@@ -575,6 +577,7 @@
 	<string name="Disabled">已停用</string>
 	<string name="disappearing_message">限時消息</string>
 	<string name="disappearing_message_hint">啓用後，在此聊天中發送和接收的新信息在被看到後會消失，閲讀文檔以**瞭解更多**。</string>
+	<string name="disappearing_message_url">https://support.mixin.one/zh/article/5aac5l2v5bya5zcv6zmq5pe25rai5ogv77yf-18dzv5i</string>
 	<string name="disappearing_option_1">30 秒</string>
 	<string name="disappearing_option_2">10 分</string>
 	<string name="disappearing_option_3">2 小時</string>
@@ -890,6 +893,7 @@
 	<string name="landing_introduction">點擊 \"同意並繼續\" 接受 Mixin %1$s和%2$s</string>
 	<string name="landing_invitation_dialog_content">我們將發送4位驗證碼到手機 %1$s, 請在下一個頁面輸入</string>
 	<string name="landing_validation_title">請輸入發送至以下號碼的 4 位驗證碼：%1$s</string>
+	<string name="landing_verification_tip_url">https://support.mixin.one/zh/article/5aac5l2v6k6572u57sn5ocl6igu57o75lq6-d2nssy</string>
 	<string name="Language">語言</string>
 	<string name="Large_Amount_Confirmation">大額轉賬確認</string>
 	<string name="Large_Amount_Confirmation_with_symbol">大額轉賬確認（%1$s）</string>
@@ -1517,6 +1521,7 @@
 	<string name="setting_delete_account_pin_content">如果您繼續，您的個人資料和賬户信息將在%1$s被刪除。閲讀我們的文檔以**瞭解更多**。</string>
 	<string name="setting_delete_account_send">我們將發送 4 位驗證碼到手機 %1$s</string>
 	<string name="setting_delete_account_tip">你的 Mixin 錢包還有一些資產，可以提現至其他錢包或交易所，賬户一旦註銷，這些資產將和錢包一起被棄用無法找回。</string>
+	<string name="setting_delete_account_url">https://support.mixin.one/zh/article/5aac5l2v5yig6zmk6lsm5y377yf-1uteq30</string>
 	<string name="setting_desktop_logout_failed">退出桌面端失敗</string>
 	<string name="setting_duplicate_transfer_desc">當你在 6 個小時內給相同的人轉相同的金額時顯示確認彈窗。</string>
 	<string name="setting_emergency_change_mobile">立即修改手機號？</string>
