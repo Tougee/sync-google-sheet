@@ -1565,6 +1565,7 @@
 "url_api_upgrade" = "https://support.mixin.one/en/article/mixin-api-upgrade-notification-1cfmdc9/";
 "url_cant_receive_otp" = "https://support.mixin.one/en/article/what-to-do-if-you-dont-receive-a-sms-code-for-logging-1ym9me1/";
 "url_classic_wallet" = "https://support.mixin.one/en/article/what-is-a-common-wallet-y0rxkx/";
+"url_cross_wallet_transaction_free" = "https://support.mixin.one/en/article/campaign-free-transactions-between-mixin-wallets-kozded";
 "url_delete_account" = "https://support.mixin.one/en/article/how-to-delete-my-account-19fkagl/";
 "url_deposit" = "https://support.mixin.one/en/article/how-to-deposit-assets-to-mixin-messenger-1usvjod/";
 "url_deposit_suspended" = "https://support.mixin.one/en/article/the-explanation-about-mixin-stopped-support-for-some-assets-deposits-1im32px/";

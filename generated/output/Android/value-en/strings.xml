@@ -1821,6 +1821,7 @@
 	<string name="url_api_upgrade">https://support.mixin.one/en/article/mixin-api-upgrade-notification-1cfmdc9/</string>
 	<string name="url_cant_receive_otp">https://support.mixin.one/en/article/what-to-do-if-you-dont-receive-a-sms-code-for-logging-1ym9me1/</string>
 	<string name="url_classic_wallet">https://support.mixin.one/en/article/what-is-a-common-wallet-y0rxkx/</string>
+	<string name="url_cross_wallet_transaction_free">https://support.mixin.one/en/article/campaign-free-transactions-between-mixin-wallets-kozded</string>
 	<string name="url_delete_account">https://support.mixin.one/en/article/how-to-delete-my-account-19fkagl/</string>
 	<string name="url_deposit">https://support.mixin.one/en/article/how-to-deposit-assets-to-mixin-messenger-1usvjod/</string>
 	<string name="url_deposit_suspended">https://support.mixin.one/en/article/the-explanation-about-mixin-stopped-support-for-some-assets-deposits-1im32px/</string>
