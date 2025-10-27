@@ -928,8 +928,8 @@
 	<string name="lightning_address_explain_mao">Each MAO domain corresponds to a Lightning Network address. If you own a MAO domain, you can use name@mao.id to receive Lightning Network transfers. </string>
 	<string name="limited_time_free">Limited-Time Free</string>
 	<string name="limited_time_free_condition">During the promotion period, you’ll receive a full refund of transaction fees if your transfer meets any of the following conditions:</string>
-	<string name="limited_time_free_condition_1">Privacy Wallet transfer to a Common Wallet or Mixin Safe.</string>
-	<string name="limited_time_free_condition_2">Common Wallet transfer to another Common Wallet, Privacy Wallet, Mixin Safe, or contact.</string>
+	<string name="limited_time_free_condition_1">Privacy Wallet transfer to a Common Wallet.</string>
+	<string name="limited_time_free_condition_2">Common Wallet transfer to another Common Wallet, Privacy Wallet, or contact.</string>
 	<string name="limited_time_free_description">Fees will be refunded monthly to your Privacy Wallet, summarized by the actual fee tokens and amounts consumed. Read the documentation to learn more.</string>
 	<string name="Line_busy">Line busy</string>
 	<string name="Line_busy_remote">Line busy</string>
