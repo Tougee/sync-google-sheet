@@ -2423,7 +2423,7 @@
   <string name="fetching_address_failed_reason" platform="android, iOS">This contact hasn’t registered a common wallet.</string>
   <string name="limited_time_free" platform="android, iOS">Limited-Time Free</string>
   <string name="limited_time_free_condition" platform="android, iOS">During the promotion period, you’ll receive a full refund of transaction fees if your transfer meets any of the following conditions:</string>
-  <string name="limited_time_free_condition_1" platform="android, iOS">Privacy Wallet transfer to a Common Wallet or Mixin Safe.</string>
-  <string name="limited_time_free_condition_2" platform="android, iOS">Common Wallet transfer to another Common Wallet, Privacy Wallet, Mixin Safe, or contact.</string>
+  <string name="limited_time_free_condition_1" platform="android, iOS">Privacy Wallet transfer to a Common Wallet.</string>
+  <string name="limited_time_free_condition_2" platform="android, iOS">Common Wallet transfer to another Common Wallet, Privacy Wallet, or contact.</string>
   <string name="limited_time_free_description" platform="android, iOS">Fees will be refunded monthly to your Privacy Wallet, summarized by the actual fee tokens and amounts consumed. Read the documentation to learn more.</string>
 </resources>
