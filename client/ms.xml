@@ -410,7 +410,7 @@
   <string name="need_camera_permission" platform="android">Memerlukan kebenaran kamera untuk meneruskan</string>
   <string name="Need_help" platform="android, iOS">Perlukan bantuan?</string>
   <string name="Network_error" platform="android, Desktop">Ralat rangkaian</string>
-  <string name="Never" platform="android">Tidak pernah</string>
+  <string name="backup_never" platform="android">Tidak pernah</string>
   <string name="New_Group" platform="android, iOS">Kumpulan Baharu</string>
   <string name="New_Group_Chat" platform="android, iOS">Kumpulan Sembang Baharu</string>
   <string name="new_group_name" platform="android">nama kumpulan baharu</string>

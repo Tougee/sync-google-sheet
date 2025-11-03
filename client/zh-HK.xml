@@ -942,7 +942,7 @@
   <string name="Network_Operator" platform="android">網絡運營商</string>
   <string name="Network_Type" platform="android, iOS">網絡類型</string>
   <string name="Network_unavailable" platform="android">網絡連接不可用</string>
-  <string name="Never" platform="android">從未備份</string>
+  <string name="backup_never" platform="android">從未備份</string>
   <string name="never_auto_download" platform="iOS">關閉</string>
   <string name="New_Chat" platform="iOS">新聊天</string>
   <string name="New_Group" platform="android, iOS">新建羣組</string>

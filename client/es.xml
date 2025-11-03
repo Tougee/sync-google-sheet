@@ -827,7 +827,7 @@
   <string name="Network_Operator" platform="android">Operador de red</string>
   <string name="Network_Type" platform="android">Tipo de red</string>
   <string name="Network_unavailable" platform="android">Red no disponible</string>
-  <string name="Never" platform="android">Nunca</string>
+  <string name="backup_never" platform="android">Nunca</string>
   <string name="never_auto_download" platform="iOS">Nunca</string>
   <string name="New_Chat" platform="iOS">Nueva chat</string>
   <string name="New_Group" platform="android, iOS">Nuevo grupo</string>

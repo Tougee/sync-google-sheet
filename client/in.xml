@@ -386,7 +386,7 @@
   <string name="need_camera_permission" platform="android">Memerlukan izin kamera untuk melanjutkan</string>
   <string name="Need_help" platform="android, iOS">Butuh bantuan?</string>
   <string name="Network_error" platform="android, Desktop">Kesalahan jaringan</string>
-  <string name="Never" platform="android">Jangan pernah</string>
+  <string name="backup_never" platform="android">Jangan pernah</string>
   <string name="New_Group" platform="android, iOS">Grup Baru</string>
   <string name="New_Group_Chat" platform="android, iOS">Obrolan Grup Baru</string>
   <string name="new_group_name" platform="android">nama grup baru</string>

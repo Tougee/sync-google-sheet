@@ -761,7 +761,7 @@
   <string name="Network_Operator" platform="android">Operator</string>
   <string name="Network_Type" platform="android, iOS">Network Type</string>
   <string name="Network_unavailable" platform="android">ネットワークは利用不可能です</string>
-  <string name="Never" platform="android">しない</string>
+  <string name="backup_never" platform="android">しない</string>
   <string name="never_auto_download" platform="iOS">しない</string>
   <string name="New_Chat" platform="iOS">チャットを作成</string>
   <string name="New_Group" platform="android, iOS">グループを作成</string>

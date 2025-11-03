@@ -942,7 +942,7 @@
   <string name="Network_Operator" platform="android">网络运营商</string>
   <string name="Network_Type" platform="android, iOS">网络类型</string>
   <string name="Network_unavailable" platform="android">网络连接不可用</string>
-  <string name="Never" platform="android">从未备份</string>
+  <string name="backup_never" platform="android">从未备份</string>
   <string name="never_auto_download" platform="iOS">关闭</string>
   <string name="New_Chat" platform="iOS">新聊天</string>
   <string name="New_Group" platform="android, iOS">新建群组</string>
@@ -2403,4 +2403,14 @@
   <string name="limited_time_free_condition_1" platform="android, iOS">隐私钱包转账到普通钱包。</string>
   <string name="limited_time_free_condition_2" platform="android, iOS">普通钱包转账到其他普通钱包、隐私钱包或联系人。</string>
   <string name="limited_time_free_description" platform="android, iOS">手续费按月、按实际消耗的手续费币种和金额汇总返还到您的隐私钱包，阅读文档了解更多。</string>
+  <string name="swap_simple" platform="android, iOS">闪兑</string>
+  <string name="swap_advanced" platform="android, iOS">挂单</string>
+  <string name="swap_expiry" platform="android, iOS">过期</string>
+  <string name="swap_expiry_never" platform="android, iOS">永不</string>
+  <string name="one_day" platform="android, iOS">1 天</string>
+  <string name="days_count" platform="android, iOS">%d 天</string>
+  <string name="one_week" platform="android, iOS">1 星期</string>
+  <string name="one_month" platform="android, iOS">1 月</string>
+  <string name="open_orders_count" platform="android, iOS">当前委托（%d）</string>
+  <string name="current_market_price" platform="android, iOS">市价</string>
 </resources>

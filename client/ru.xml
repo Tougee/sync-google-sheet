@@ -775,7 +775,7 @@
   <string name="Network_Operator" platform="android">Сетевой оператор</string>
   <string name="Network_Type" platform="android">Тип сети</string>
   <string name="Network_unavailable" platform="android">Сеть недоступна</string>
-  <string name="Never" platform="android">Никогда</string>
+  <string name="backup_never" platform="android">Никогда</string>
   <string name="never_auto_download" platform="iOS">Никогда</string>
   <string name="New_Group" platform="android, iOS">Новая группа</string>
   <string name="New_Group_Chat" platform="android, iOS">Новый групповой чат</string>
