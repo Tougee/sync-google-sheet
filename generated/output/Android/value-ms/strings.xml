@@ -70,6 +70,7 @@
 	<string name="backup_failure_tip">Kegagalan sandaran, sila cuba lagi.</string>
 	<string name="Backup_found">Backup found</string>
 	<string name="backup_ing">Sandaran storan luaran…</string>
+	<string name="backup_never">Tidak pernah</string>
 	<string name="backup_no_available_memory">Tidak ada memori yang tersedia untuk sandaran.</string>
 	<string name="backup_notification_content">Menyiapkan sandaran …</string>
 	<string name="backup_notification_title">Sandaran sedang dijalankan</string>
@@ -422,7 +423,6 @@
 	<string name="need_camera_permission">Memerlukan kebenaran kamera untuk meneruskan</string>
 	<string name="Need_help">Perlukan bantuan?</string>
 	<string name="Network_error">Ralat rangkaian</string>
-	<string name="Never">Tidak pernah</string>
 	<string name="New_Group">Kumpulan Baharu</string>
 	<string name="New_Group_Chat">Kumpulan Sembang Baharu</string>
 	<string name="new_group_name">nama kumpulan baharu</string>

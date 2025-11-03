@@ -121,6 +121,7 @@
 	<string name="backup_ing">Copia de seguridad de almacenamiento externo…</string>
 	<string name="backup_media">Incluir archivos multimedia</string>
 	<string name="backup_media_title">Copia de seguridad en almacenamiento externo</string>
+	<string name="backup_never">Nunca</string>
 	<string name="backup_no_available_memory">No hay memoria disponible para la copia de seguridad.</string>
 	<string name="backup_notification_content">Preparando copia de seguridad…</string>
 	<string name="backup_notification_title">Copia de seguridad en proceso</string>
@@ -610,7 +611,6 @@
 	<string name="Network_Operator">Operador de red</string>
 	<string name="Network_Type">Tipo de red</string>
 	<string name="Network_unavailable">Red no disponible</string>
-	<string name="Never">Nunca</string>
 	<string name="New_Group">Nuevo grupo</string>
 	<string name="New_Group_Chat">Nuevo chat grupal</string>
 	<string name="new_group_name">nuevo nombre de grupo</string>

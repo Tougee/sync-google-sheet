@@ -228,6 +228,7 @@
 	<string name="Backup_Mnemonic_Phrase_desc">立即通过备份您的助记词来保护您的资产。</string>
 	<string name="Backup_Mnemonic_Phrase_Warning">请立即备份您的助记词。该助记词为 MPC 钱包密钥分片之一，一旦设备遗失或应用被卸载，若您没有备份，将无法重新登录当前 Mixin 账号 (%1$s)。</string>
 	<string name="Backup_mnemonic_successfully">成功备份助记词</string>
+	<string name="backup_never">从未备份</string>
 	<string name="backup_no_available_memory">没有足够的空间来备份。</string>
 	<string name="backup_notification_content">正在准备备份…</string>
 	<string name="backup_notification_title">备份正在进行中</string>
@@ -492,6 +493,7 @@
 	<string name="Creating_your_account">正在创建账户…</string>
 	<string name="Crop">裁剪</string>
 	<string name="Currency">货币</string>
+	<string name="current_market_price">市价</string>
 	<string name="Current_Plan">当前会员</string>
 	<string name="Current_price">当前价格：%1$s</string>
 	<string name="current_version">当前版本：%1$s</string>
@@ -503,6 +505,7 @@
 	<string name="database_upgrade_tips">正在进行数据库升级，可能需要几分钟，请不要强制关闭应用。</string>
 	<string name="Date">日期</string>
 	<string name="date_format_date">yyyy 年 MM 月 dd 日</string>
+	<string name="days_count">%d 天</string>
 	<string name="days_count_short">%1$d天</string>
 	<string name="db_debug_warning">注意：如果执行了有侵害性的 SQL，结果不可逆！</string>
 	<string name="debit_or_credit_card">借记卡/信用卡</string>
@@ -1074,7 +1077,6 @@
 	<string name="Network_Operator">网络运营商</string>
 	<string name="Network_Type">网络类型</string>
 	<string name="Network_unavailable">网络连接不可用</string>
-	<string name="Never">从未备份</string>
 	<string name="New_Group">新建群组</string>
 	<string name="New_Group_Chat">新群聊</string>
 	<string name="new_group_name">新群组名称</string>
@@ -1148,7 +1150,9 @@
 	<string name="old_price">过期价格</string>
 	<string name="Oldest">最早</string>
 	<string name="onboarding_description">带有端对端加密消息功能的开源加密钱包</string>
+	<string name="one_day">1 天</string>
 	<string name="one_hour">1 小时</string>
+	<string name="one_month">1 月</string>
 	<string name="one_week">1 星期</string>
 	<string name="one_year">1 年</string>
 	<string name="Ongoing_voice_call">正在进行语音通话</string>
@@ -1157,6 +1161,7 @@
 	<string name="Open_Home_page">打开主页</string>
 	<string name="Open_in_browser">在浏览器中打开</string>
 	<string name="Open_Link">打开链接：%1$s</string>
+	<string name="open_orders_count">当前委托（%d）</string>
 	<string name="open_source">版权所有 Mixin Messenger\n根据 GPL-3.0 授权许可</string>
 	<string name="Opening_Balance">期初余额</string>
 	<string name="Operator">运营商</string>
@@ -1630,9 +1635,12 @@
 	<string name="Sunday">星期日</string>
 	<string name="Suspicious_Link">可疑链接</string>
 	<string name="Swap">交易</string>
+	<string name="swap_advanced">挂单</string>
 	<string name="Swap_Again">再来一笔</string>
 	<string name="swap_confirmation">确认交易</string>
 	<string name="swap_desc">%1$s 将会在交易完成后存入您的钱包</string>
+	<string name="swap_expiry">过期</string>
+	<string name="swap_expiry_never">永不</string>
 	<string name="swap_failed">交易失败</string>
 	<string name="swap_invalid_amount">没有报价。请尝试修改金额。</string>
 	<string name="swap_message_success">您的交易已发送至网络，将很快被处理。</string>
@@ -1642,6 +1650,7 @@
 	<string name="swap_order_received">已收到</string>
 	<string name="swap_receive">获得</string>
 	<string name="swap_send">支付</string>
+	<string name="swap_simple">闪兑</string>
 	<string name="swap_token">兑换 %1$s</string>
 	<string name="swap_token_description">将其他币种兑换为 %1$s</string>
 	<string name="swap_usdt_hint">当前钱包有其他链的 USDT，是否马上兑换？</string>

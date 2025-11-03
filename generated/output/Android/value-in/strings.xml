@@ -69,6 +69,7 @@
 	<string name="backup_failure_tip">Pencadangan gagal, silakan coba lagi.</string>
 	<string name="Backup_found">Cadangan ditemukan</string>
 	<string name="backup_ing">Cadangan penyimpanan eksternal…</string>
+	<string name="backup_never">Jangan pernah</string>
 	<string name="backup_no_available_memory">Memori yang tersedia tidak cukup untuk pencadangan.</string>
 	<string name="backup_notification_content">Menyiapkan pencadangan…</string>
 	<string name="backup_notification_title">Pencadangan sedang berlangsung</string>
@@ -399,7 +400,6 @@
 	<string name="need_camera_permission">Memerlukan izin kamera untuk melanjutkan</string>
 	<string name="Need_help">Butuh bantuan?</string>
 	<string name="Network_error">Kesalahan jaringan</string>
-	<string name="Never">Jangan pernah</string>
 	<string name="New_Group">Grup Baru</string>
 	<string name="New_Group_Chat">Obrolan Grup Baru</string>
 	<string name="new_group_name">nama grup baru</string>

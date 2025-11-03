@@ -108,6 +108,7 @@
 	<string name="backup_ing">外部ストレージにバックアップ…</string>
 	<string name="backup_media">メディアファイルが含まれています</string>
 	<string name="backup_media_title">外部ストレージへのバックアップ</string>
+	<string name="backup_never">しない</string>
 	<string name="backup_no_available_memory">バックアップに使用できるメモリがありません</string>
 	<string name="backup_notification_content">バックアップの準備中…</string>
 	<string name="backup_notification_title">バックアップが進行中</string>
@@ -581,7 +582,6 @@
 	<string name="Network_Operator">Operator</string>
 	<string name="Network_Type">Network Type</string>
 	<string name="Network_unavailable">ネットワークは利用不可能です</string>
-	<string name="Never">しない</string>
 	<string name="New_Group">グループを作成</string>
 	<string name="New_Group_Chat">新しいグループチャットを作成</string>
 	<string name="new_group_name">新規グループ名</string>

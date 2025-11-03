@@ -107,6 +107,7 @@
 	<string name="backup_ing">Резервное копирование на внешнее хранилище…</string>
 	<string name="backup_media">Включить медиафайлы</string>
 	<string name="backup_media_title">Резервное копирование на внешнее хранилище</string>
+	<string name="backup_never">Никогда</string>
 	<string name="backup_no_available_memory">Нет доступной памяти для резервного копирования.</string>
 	<string name="backup_notification_content">Подготовка резервного копирования…</string>
 	<string name="backup_notification_title">Выполняется резервное копирование</string>
@@ -593,7 +594,6 @@
 	<string name="Network_Operator">Сетевой оператор</string>
 	<string name="Network_Type">Тип сети</string>
 	<string name="Network_unavailable">Сеть недоступна</string>
-	<string name="Never">Никогда</string>
 	<string name="New_Group">Новая группа</string>
 	<string name="New_Group_Chat">Новый групповой чат</string>
 	<string name="new_group_name">новое название группы</string>

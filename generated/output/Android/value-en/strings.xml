@@ -230,6 +230,7 @@
 	<string name="Backup_Mnemonic_Phrase_desc">Protect your assets by backing up your mnemonic phrase now.</string>
 	<string name="Backup_Mnemonic_Phrase_Warning">Please back up your mnemonic phrase immediately! This phrase is one of the key shards of the MPC wallet. If the device is lost or the app is uninstalled, and you haven\'t backed it up, you won\'t be able to log back into the current Mixin account (%1$s).</string>
 	<string name="Backup_mnemonic_successfully">Backup mnemonic phrase successfully</string>
+	<string name="backup_never">Never</string>
 	<string name="backup_no_available_memory">There are no available memory for backup.</string>
 	<string name="backup_notification_content">Preparing backup…</string>
 	<string name="backup_notification_title">Backup in progress</string>
@@ -495,6 +496,7 @@
 	<string name="Creating_your_account">Creating your account…</string>
 	<string name="Crop">Crop</string>
 	<string name="Currency">Currency</string>
+	<string name="current_market_price">Market</string>
 	<string name="Current_Plan">Current Plan</string>
 	<string name="Current_price">Current price: %1$s</string>
 	<string name="current_version">Version: %1$s</string>
@@ -506,6 +508,7 @@
 	<string name="database_upgrade_tips">The database is being upgraded, it may take several minutes, please do not close this App.</string>
 	<string name="Date">Date</string>
 	<string name="date_format_date">MMM dd, yyyy</string>
+	<string name="days_count">%d Days</string>
 	<string name="days_count_short">%1$dD</string>
 	<string name="db_debug_warning">Attention: If a harmful SQL statement is executed, the result is irreversible!</string>
 	<string name="debit_or_credit_card">Debit / Credit Card</string>
@@ -1088,7 +1091,6 @@
 	<string name="Network_Operator">Network Operator</string>
 	<string name="Network_Type">Network Type</string>
 	<string name="Network_unavailable">Network unavailable</string>
-	<string name="Never">Never</string>
 	<string name="New_Group">New Group</string>
 	<string name="New_Group_Chat">New Group Chat</string>
 	<string name="new_group_name">new group name</string>
@@ -1162,7 +1164,9 @@
 	<string name="old_price">Old Price</string>
 	<string name="Oldest">Oldest</string>
 	<string name="onboarding_description">An open source crypto wallet with Signal messaging</string>
+	<string name="one_day">1 Day</string>
 	<string name="one_hour">1 Hour</string>
+	<string name="one_month">1 Month</string>
 	<string name="one_week">1 Week</string>
 	<string name="one_year">1 Year</string>
 	<string name="Ongoing_voice_call">Ongoing voice call</string>
@@ -1171,6 +1175,7 @@
 	<string name="Open_Home_page">Open Home page</string>
 	<string name="Open_in_browser">Open in browser</string>
 	<string name="Open_Link">Open Link: %1$s</string>
+	<string name="open_orders_count">Open Orders (%d)</string>
 	<string name="open_source">Copyright Mixin Messenger\nLicensed under the GPLv3</string>
 	<string name="Opening_Balance">Opening Balance</string>
 	<string name="Operator">Operator</string>
@@ -1646,9 +1651,12 @@
 	<string name="Sunday">Sunday</string>
 	<string name="Suspicious_Link">Suspicious Link</string>
 	<string name="Swap">Swap</string>
+	<string name="swap_advanced">Advanced</string>
 	<string name="Swap_Again">Swap Again</string>
 	<string name="swap_confirmation">Swap Confirmation</string>
 	<string name="swap_desc">%1$s will be deposited into your wallet once the transaction is complete</string>
+	<string name="swap_expiry">Expiry</string>
+	<string name="swap_expiry_never">Never</string>
 	<string name="swap_failed">Swap Failed</string>
 	<string name="swap_invalid_amount">No available quote found. Please try a different amount.</string>
 	<string name="swap_message_success">Your transaction has been sent to network and will be processed within a few minutes.</string>
@@ -1658,6 +1666,7 @@
 	<string name="swap_order_received">Received</string>
 	<string name="swap_receive">Receive</string>
 	<string name="swap_send">Send</string>
+	<string name="swap_simple">Simple</string>
 	<string name="swap_token">Swap %1$s</string>
 	<string name="swap_token_description">Swap other coin to %1$s</string>
 	<string name="swap_usdt_hint">There is USDT on a different network in your wallet. Would you like to swap it now?</string>

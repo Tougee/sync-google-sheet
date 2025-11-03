@@ -2403,4 +2403,14 @@
   <string name="limited_time_free_condition_1" platform="android, iOS">隱私錢包轉賬到普通錢包。</string>
   <string name="limited_time_free_condition_2" platform="android, iOS">普通錢包轉賬到其他普通錢包、隱私錢包或聯繫人。</string>
   <string name="limited_time_free_description" platform="android, iOS">手續費按月、按實際消耗的手續費幣種和金額彙總返還到您的隱私錢包，閲讀文檔瞭解更多。</string>
+  <string name="swap_simple" platform="android, iOS">閃兑</string>
+  <string name="swap_advanced" platform="android, iOS">掛單</string>
+  <string name="swap_expiry" platform="android, iOS">過期</string>
+  <string name="swap_expiry_never" platform="android, iOS">永不</string>
+  <string name="one_day" platform="android, iOS">1 天</string>
+  <string name="days_count" platform="android, iOS">%d 天</string>
+  <string name="one_week" platform="android, iOS">1 星期</string>
+  <string name="one_month" platform="android, iOS">1 月</string>
+  <string name="open_orders_count" platform="android, iOS">當前委託（%d）</string>
+  <string name="current_market_price" platform="android, iOS">市價</string>
 </resources>
