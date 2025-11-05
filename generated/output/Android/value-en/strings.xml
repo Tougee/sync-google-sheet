@@ -86,6 +86,7 @@
 	<string name="address_validity_reminder">The address %1$s(%2$s) has not been used for over %3$s days. Please check if the address is still valid.</string>
 	<string name="Addresses">Addresses</string>
 	<string name="Admin">Admin</string>
+	<string name="advanced_swap_confirmation">Order Confirmation</string>
 	<string name="After_1_minute">After 1 minute</string>
 	<string name="After_30_minutes">After 30 minutes</string>
 	<string name="Agree_and_Continue">Agree &amp; Continue</string>
@@ -1185,6 +1186,7 @@
 	<string name="order_confirm">Order Confirm</string>
 	<string name="Order_Details">Order Details</string>
 	<string name="Order_ID">Order ID</string>
+	<string name="order_type">Order Type</string>
 	<string name="order_type_limit">Limit</string>
 	<string name="order_type_swap">Swap</string>
 	<string name="Orders">Orders</string>

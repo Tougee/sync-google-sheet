@@ -86,6 +86,7 @@
 	<string name="address_validity_reminder">您已经超过 %3$s 天没有使用地址 %1$s（%2$s），请注意检查地址是否仍然有效。</string>
 	<string name="Addresses">地址</string>
 	<string name="Admin">管理员</string>
+	<string name="advanced_swap_confirmation">确认挂单</string>
 	<string name="After_1_minute">1分钟之后</string>
 	<string name="After_30_minutes">30分钟之后</string>
 	<string name="Agree_and_Continue">同意并继续</string>
@@ -1171,6 +1172,7 @@
 	<string name="order_confirm">订单确认</string>
 	<string name="Order_Details">订单详情</string>
 	<string name="Order_ID">订单 ID</string>
+	<string name="order_type">订单类型</string>
 	<string name="order_type_limit">限价</string>
 	<string name="order_type_swap">闪兑</string>
 	<string name="Orders">订单</string>

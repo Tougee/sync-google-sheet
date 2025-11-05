@@ -2149,6 +2149,7 @@
   <string name="single_transaction_should_be_less_than" platform="android,iOS">最高金額 %1$s %2$s</string>
   <string name="single_transaction_should_be_between" platform="android,iOS">金額範圍 %1$s %2$s ~ %3$s %4$s</string>
   <string name="open" platform="Desktop">開啟</string>
+  <string name="order_type" platform="android, iOS">訂單型別</string>
   <string name="order_type_swap" platform="android,iOS">閃兌</string>
   <string name="order_type_limit" platform="android,iOS">限價</string>
   <string name="Swap_Again" platform="android,iOS">再來一筆</string>
@@ -2413,4 +2414,5 @@
   <string name="one_month" platform="android, iOS">1 月</string>
   <string name="open_orders_count" platform="android, iOS">當前委託（%d）</string>
   <string name="current_market_price" platform="android, iOS">市價</string>
+  <string name="advanced_swap_confirmation" platform="android, iOS">確認掛單</string>
 </resources>
