@@ -2172,6 +2172,7 @@
   <string name="single_transaction_should_be_less_than" platform="android,iOS">Maximum amount %1$s %2$s</string>
   <string name="single_transaction_should_be_between" platform="android,iOS">Amount range be %1$s %2$s ~ %3$s %4$s</string>
   <string name="open" platform="Desktop">Open</string>
+  <string name="order_type" platform="android, iOS">Order Type</string>
   <string name="order_type_swap" platform="android,iOS">Swap</string>
   <string name="order_type_limit" platform="android,iOS">Limit</string>
   <string name="Swap_Again" platform="android,iOS">Swap Again</string>
@@ -2436,4 +2437,5 @@
   <string name="one_month" platform="android, iOS">1 Month</string>
   <string name="open_orders_count" platform="android, iOS">Open Orders (%d)</string>
   <string name="current_market_price" platform="android, iOS">Market</string>
+  <string name="advanced_swap_confirmation" platform="android, iOS">Order Confirmation</string>
 </resources>
