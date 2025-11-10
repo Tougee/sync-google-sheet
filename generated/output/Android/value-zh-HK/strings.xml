@@ -877,6 +877,8 @@
 	<string name="Invite_people">邀請好友</string>
 	<string name="Invite_to_Group_via_Link">羣邀請鏈接</string>
 	<string name="Invite_to_Mixin">邀請至 Mixin</string>
+	<string name="Invitee Commission">被邀請人佣金</string>
+	<string name="Inviter">邀請人</string>
 	<string name="Invoice">賬單</string>
 	<string name="invoice_renew_plan">續訂%1$s會員</string>
 	<string name="invoice_upgrade_plan">升級到%1$s</string>
@@ -1315,11 +1317,8 @@
 	<string name="referral_banner">邀請好友贏取最高 60%% 手續費分傭！</string>
 	<string name="Referral_Code">邀請碼</string>
 	<string name="referral_code_applied">綁定成功</string>
-	<string name="referral_code_applied_footer">手續費按月、按實際消耗的手續費幣種和金額彙總返還到您的 Mixin 隱私錢包，閲讀文檔瞭解更多。</string>
-	<string name="referral_code_applied_header">🎉 邀請碼綁定成功，您已自動獲得以下權益：</string>
-	<string name="referral_code_applied_introduction_1">最高 50%% 交易手續費返現</string>
-	<string name="referral_code_applied_introduction_2">升級會員返現單筆最高 1000 USD</string>
-	<string name="referral_code_applied_introduction_3">自動獲得後續所有新權益</string>
+	<string name="referral_code_applied_header">手續費按月、按實際消耗的手續費幣種和金額彙總返還到您的 Mixin 隱私錢包，閲讀文檔瞭解更多。</string>
+	<string name="referral_code_applying_failed">綁定失敗</string>
 	<string name="referral_description">邀請好友賺幣</string>
 	<string name="referral_program_introduction_1">最高 60%% 交易手續費分傭</string>
 	<string name="referral_program_introduction_2">會員返佣單筆最高 1000 USD</string>

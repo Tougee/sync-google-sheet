@@ -877,6 +877,8 @@
 	<string name="Invite_people">邀请好友</string>
 	<string name="Invite_to_Group_via_Link">群邀请链接</string>
 	<string name="Invite_to_Mixin">邀请至 Mixin</string>
+	<string name="Invitee Commission">被邀请人佣金</string>
+	<string name="Inviter">邀请人</string>
 	<string name="Invoice">账单</string>
 	<string name="invoice_renew_plan">续订%1$s会员</string>
 	<string name="invoice_upgrade_plan">升级到%1$s</string>
@@ -1315,11 +1317,8 @@
 	<string name="referral_banner">邀请好友赢取最高 60%% 手续费分佣！</string>
 	<string name="Referral_Code">邀请码</string>
 	<string name="referral_code_applied">绑定成功</string>
-	<string name="referral_code_applied_footer">手续费按月、按实际消耗的手续费币种和金额汇总返还到您的 Mixin 隐私钱包，阅读文档了解更多。</string>
-	<string name="referral_code_applied_header">🎉 邀请码绑定成功，您已自动获得以下权益：</string>
-	<string name="referral_code_applied_introduction_1">最高 50%% 交易手续费返现</string>
-	<string name="referral_code_applied_introduction_2">升级会员返现单笔最高 1000 USD</string>
-	<string name="referral_code_applied_introduction_3">自动获得后续所有新权益</string>
+	<string name="referral_code_applied_header">手续费按月、按实际消耗的手续费币种和金额汇总返还到您的 Mixin 隐私钱包，阅读文档了解更多。</string>
+	<string name="referral_code_applying_failed">绑定失败</string>
 	<string name="referral_description">邀请好友赚币</string>
 	<string name="referral_program_introduction_1">最高 60%% 交易手续费分佣</string>
 	<string name="referral_program_introduction_2">会员返佣单笔最高 1000 USD</string>
