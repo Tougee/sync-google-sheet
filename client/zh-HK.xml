@@ -2389,12 +2389,12 @@
   <string name="referral_code_applying_failed" platform="android, iOS">綁定失敗</string>
   <string name="referral_code_applied_header" platform="android, iOS">手續費按月、按實際消耗的手續費幣種和金額彙總返還到您的 Mixin 隱私錢包，閲讀文檔瞭解更多。</string>
   <string name="input_referral_code_hint" platform="android, iOS">輸入邀請碼</string>
-  <string name="Invitee Commission" platform="android, iOS">被邀請人佣金</string>
+  <string name="Invitee_Commission" platform="android, iOS">被邀請人佣金</string>
   <string name="Inviter" platform="android, iOS">邀請人</string>
   <string name="error_invalid_referral_code" platform="android, iOS">錯誤 10730：無效的邀請碼</string>
   <string name="error_already_bonded_referral_code" platform="android, iOS, Desktop">錯誤 10731：當前賬户已綁定邀請碼，無法修改綁定。</string>
   <string name="error_cannot_apply_your_own_referral_code" platform="android, iOS">錯誤 10732：不可綁定自己的邀請碼</string>
-  <string name="error_inviter_plan_expired" platform="android, iOS, Desktop">錯誤 10737：綁定失敗，邀請人的會員已過期</string>
+  <string name="error_inviter_plan_expired" platform="android, iOS, Desktop">錯誤 10737：邀請人的會員已過期</string>
   <string name="Fetching_address" platform="android, iOS">正在查找地址…</string>
   <string name="fetching_address_failed" platform="android, iOS">找不到地址</string>
   <string name="fetching_address_failed_reason" platform="android, iOS">該聯繫人還沒有註冊普通錢包</string>

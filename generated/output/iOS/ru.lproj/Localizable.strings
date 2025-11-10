@@ -746,7 +746,7 @@
 "invite_info" = "Любой, у кого есть Mixin, может перейти по этой ссылке, чтобы присоединиться к этой группе. Делитесь ею только с теми, кому вы доверяете.";
 "invite_to_group_via_link" = "Пригласить в группу по ссылке";
 "invited_by_stranger" = "Приглашающего нет в ваших контактах";
-"invitee commission" = "Invitee Commission";
+"invitee_commission" = "Invitee Commission";
 "inviter" = "Inviter";
 "invites_you_to_a_voice_call" = "приглашает вас на голосовой вызов";
 "invoice" = "Invoice";

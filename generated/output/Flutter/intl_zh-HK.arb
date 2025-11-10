@@ -176,7 +176,7 @@
 "errorInvalidCodeTooFrequent" : "錯誤 20129：發送驗證碼太頻繁，請稍後再試",
 "errorInvalidEmergencyContact" : "錯誤 20130：恢復聯繫人不正確",
 "errorInvalidPinFormat" : "錯誤 20118：PIN 格式不正確",
-"errorInviterPlanExpired" : "錯誤 10737：綁定失敗，邀請人的會員已過期",
+"errorInviterPlanExpired" : "錯誤 10737：邀請人的會員已過期",
 "errorLegacyPin" : "錯誤 20118：為了加強 Mixin 網絡的安全，Mixin API 現已暫停 D3M-PIN 升級到 TIP，詳情請查看文檔並登記等待處理。",
 "errorNetworkTaskFailed" : "網絡連接失敗。檢查或切換網絡並重試",
 "errorNoPinToken" : "缺少憑據，請重新登錄之後再嘗試使用此功能。",

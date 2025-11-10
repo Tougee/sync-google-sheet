@@ -671,7 +671,7 @@
 	<string name="error_invalid_quote_amount">错误 10614: 输入金额太小或太大，请重新输入。</string>
 	<string name="error_invalid_referral_code">错误 10730：无效的邀请码</string>
 	<string name="error_invalid_swap">错误 10611: 暂无报价，请稍后重试。</string>
-	<string name="error_inviter_plan_expired">错误 10737：绑定失败，邀请人的会员已过期</string>
+	<string name="error_inviter_plan_expired">错误 10737：邀请人的会员已过期</string>
 	<string name="error_legacy_pin">错误 20118：为了加强 Mixin 网络的安全，Mixin API 现已暂停 D3M-PIN 升级到 TIP，详情请查看文档并登记等待处理。</string>
 	<string name="error_memo_too_long">Memo 字符超长，最多为 200</string>
 	<string name="error_no_available_quote">错误 10615: 暂不支持该交易对，请尝试切换币种。</string>
@@ -877,7 +877,7 @@
 	<string name="Invite_people">邀请好友</string>
 	<string name="Invite_to_Group_via_Link">群邀请链接</string>
 	<string name="Invite_to_Mixin">邀请至 Mixin</string>
-	<string name="Invitee Commission">被邀请人佣金</string>
+	<string name="Invitee_Commission">被邀请人佣金</string>
 	<string name="Inviter">邀请人</string>
 	<string name="Invoice">账单</string>
 	<string name="invoice_renew_plan">续订%1$s会员</string>

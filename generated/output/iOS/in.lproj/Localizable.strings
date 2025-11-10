@@ -746,7 +746,7 @@
 "invite_info" = "Siapapun yang memiliki Mixin dapat mengikuti tautan ini untuk bergabung dengan grup ini. Hanya bagikan dengan orang yang Anda percaya.";
 "invite_to_group_via_link" = "Undang ke Grup melalui Tautan";
 "invited_by_stranger" = "The inviter is not in your contacts";
-"invitee commission" = "Invitee Commission";
+"invitee_commission" = "Invitee Commission";
 "inviter" = "Inviter";
 "invites_you_to_a_voice_call" = "meminta panggilan audio dengan Anda";
 "invoice" = "Invoice";

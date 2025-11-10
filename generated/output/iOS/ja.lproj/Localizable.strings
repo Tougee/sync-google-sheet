@@ -746,7 +746,7 @@
 "invite_info" = "リンクを知っている人はだれでもグループに参加可能です、信頼できる人だけに共有してください";
 "invite_to_group_via_link" = "リンクを使って招待する";
 "invited_by_stranger" = "招待者はあなたの連絡先に存在しません";
-"invitee commission" = "Invitee Commission";
+"invitee_commission" = "Invitee Commission";
 "inviter" = "Inviter";
 "invites_you_to_a_voice_call" = "グループ通話に招待されました";
 "invoice" = "Invoice";
