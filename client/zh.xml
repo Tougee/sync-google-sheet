@@ -2389,7 +2389,7 @@
   <string name="referral_code_applying_failed" platform="android, iOS">绑定失败</string>
   <string name="referral_code_applied_header" platform="android, iOS">手续费按月、按实际消耗的手续费币种和金额汇总返还到您的 Mixin 隐私钱包，阅读文档了解更多。</string>
   <string name="input_referral_code_hint" platform="android, iOS">输入邀请码</string>
-  <string name="Invitee Commission" platform="android, iOS">被邀请人佣金</string>
+  <string name="Invitee_Commission" platform="android, iOS">被邀请人佣金</string>
   <string name="Inviter" platform="android, iOS">邀请人</string>
   <string name="error_invalid_referral_code" platform="android, iOS">错误 10730：无效的邀请码</string>
   <string name="error_already_bonded_referral_code" platform="android, iOS, Desktop">错误 10731：当前账户已绑定邀请码，无法修改绑定。</string>

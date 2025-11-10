@@ -2412,7 +2412,7 @@
   <string name="referral_code_applying_failed" platform="android, iOS">Applying Failed</string>
   <string name="referral_code_applied_header" platform="android, iOS">The fees are refunded monthly to your Mixin privacy wallet, summarized by the actual fee tokens and amounts consumed. Read the documentation to learn more.</string>
   <string name="input_referral_code_hint" platform="android, iOS">Invited by a friend?</string>
-  <string name="Invitee Commission" platform="android, iOS">Invitee Commission</string>
+  <string name="Invitee_Commission" platform="android, iOS">Invitee Commission</string>
   <string name="Inviter" platform="android, iOS">Inviter</string>
   <string name="error_invalid_referral_code" platform="android, iOS">ERROR 10730: Invalid Referral Code</string>
   <string name="error_already_bonded_referral_code" platform="android, iOS, Desktop">ERROR 10731: This account has already applied a referral code</string>
