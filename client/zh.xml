@@ -2394,7 +2394,7 @@
   <string name="error_invalid_referral_code" platform="android, iOS">错误 10730：无效的邀请码</string>
   <string name="error_already_bonded_referral_code" platform="android, iOS, Desktop">错误 10731：当前账户已绑定邀请码，无法修改绑定。</string>
   <string name="error_cannot_apply_your_own_referral_code" platform="android, iOS">错误 10732：不可绑定自己的邀请码</string>
-  <string name="error_inviter_plan_expired" platform="android, iOS, Desktop">错误 10737：绑定失败，邀请人的会员已过期</string>
+  <string name="error_inviter_plan_expired" platform="android, iOS, Desktop">错误 10737：邀请人的会员已过期</string>
   <string name="Fetching_address" platform="android, iOS">正在查找地址…</string>
   <string name="fetching_address_failed" platform="android, iOS">找不到地址</string>
   <string name="fetching_address_failed_reason" platform="android, iOS">该联系人还没有注册普通钱包</string>
