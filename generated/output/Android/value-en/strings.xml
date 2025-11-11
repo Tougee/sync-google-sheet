@@ -1258,6 +1258,7 @@
 	<string name="powered_by_mixin_route_prefix">Powered by</string>
 	<string name="powered_by_mixin_route_suffix">Mixin Route</string>
 	<string name="preauthorize_amount">Pre-authorize Amount</string>
+	<string name="Preview">Preview</string>
 	<string name="preview_unavailable">Preview unavailable</string>
 	<string name="preview_unavailable_description">Unable to estimate balance changes. Please make sure you trust this app.</string>
 	<string name="Price">Price</string>

@@ -2418,4 +2418,5 @@
   <string name="advanced_swap_confirmation" platform="android, iOS">確認掛單</string>
   <string name="wallets_count" platform="android, iOS">%d 個錢包</string>
   <string name="Cancel_Order" platform="android, iOS">取消訂單</string>
+  <string name="Preview" platform="android, iOS">預覽</string>
 </resources>
