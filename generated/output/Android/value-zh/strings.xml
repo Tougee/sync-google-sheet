@@ -877,7 +877,7 @@
 	<string name="Invite_people">邀请好友</string>
 	<string name="Invite_to_Group_via_Link">群邀请链接</string>
 	<string name="Invite_to_Mixin">邀请至 Mixin</string>
-	<string name="Invitee_Commission">被邀请人佣金</string>
+	<string name="Invitee_Commission">被邀请人返现</string>
 	<string name="Inviter">邀请人</string>
 	<string name="Invoice">账单</string>
 	<string name="invoice_renew_plan">续订%1$s会员</string>
