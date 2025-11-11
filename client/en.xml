@@ -2441,4 +2441,5 @@
   <string name="advanced_swap_confirmation" platform="android, iOS">Order Confirmation</string>
   <string name="wallets_count" platform="android, iOS">%d Wallets</string>
   <string name="Cancel_Order" platform="android, iOS">Cancel Order</string>
+  <string name="Preview" platform="android, iOS">Preview</string>
 </resources>
