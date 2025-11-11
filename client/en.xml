@@ -1573,7 +1573,7 @@
   <string name="unit_week" platform="android, iOS, Desktop">week</string>
   <string name="unit_week.count" platform="android, iOS, Desktop">weeks</string>
   <string name="unknow_error" platform="Desktop">Unknow error</string>
-  <string name="Unknown" platform="android">Unknown</string>
+  <string name="Unknown" platform="android, iOS">Unknown</string>
   <string name="Unknown_artist" platform="iOS">Unknown Artist</string>
   <string name="unlock_mixin_messenger" platform="Desktop">Unlock Mixin Messenger</string>
   <string name="Unlock_with_fingerprint" platform="android">Unlock with fingerprint</string>
@@ -2430,6 +2430,8 @@
   <string name="swap_advanced" platform="android, iOS">Advanced</string>
   <string name="swap_expiry" platform="android, iOS">Expiry</string>
   <string name="swap_expiry_never" platform="android, iOS">Never</string>
+  <string name="swap_filled" platform="android, iOS">Filled</string>
+  <string name="limit_price" platform="android, iOS">Limit Price</string>
   <string name="one_day" platform="android, iOS">1 Day</string>
   <string name="days_count" platform="android, iOS">%d Days</string>
   <string name="one_week" platform="android, iOS">1 Week</string>
@@ -2437,4 +2439,6 @@
   <string name="open_orders_count" platform="android, iOS">Open Orders (%d)</string>
   <string name="current_market_price" platform="android, iOS">Market</string>
   <string name="advanced_swap_confirmation" platform="android, iOS">Order Confirmation</string>
+  <string name="wallets_count" platform="android, iOS">%d Wallets</string>
+  <string name="Cancel_Order" platform="android, iOS">Cancel Order</string>
 </resources>
