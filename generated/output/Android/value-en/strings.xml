@@ -285,6 +285,7 @@
 	<string name="Cancel">Cancel</string>
 	<string name="Cancel_Floating">Cancel Floating</string>
 	<string name="cancel_order">Cancel Order</string>
+	<string name="Cancel_Order">Cancel Order</string>
 	<string name="cancel_transaction">Cancel Transaction</string>
 	<string name="cancel_transaction_description">If the transaction is too far along cancellation may not be possible</string>
 	<string name="Cancel_Waiting">Cancel Waiting</string>
@@ -932,6 +933,7 @@
 	<string name="lightning_address_explain_2">Reusable, no need to generate a new one each time.</string>
 	<string name="lightning_address_explain_3">Supported by mainstream Lightning Network wallets.</string>
 	<string name="lightning_address_explain_mao">Each MAO domain corresponds to a Lightning Network address. If you own a MAO domain, you can use name@mao.id to receive Lightning Network transfers. </string>
+	<string name="limit_price">Limit Price</string>
 	<string name="limited_time_free">Limited-Time Free</string>
 	<string name="limited_time_free_condition">During the promotion period, you’ll receive a full refund of transaction fees if your transfer meets any of the following conditions:</string>
 	<string name="limited_time_free_condition_1">Privacy Wallet transfer to a Common Wallet.</string>
@@ -1659,6 +1661,7 @@
 	<string name="swap_expiry">Expiry</string>
 	<string name="swap_expiry_never">Never</string>
 	<string name="swap_failed">Swap Failed</string>
+	<string name="swap_filled">Filled</string>
 	<string name="swap_invalid_amount">No available quote found. Please try a different amount.</string>
 	<string name="swap_message_success">Your transaction has been sent to network and will be processed within a few minutes.</string>
 	<string name="swap_no_available_quote">No available quote found. Please try a different token.</string>
@@ -1923,6 +1926,7 @@
 	<string name="wallet_withdrawal_not_in_addresses">%1$s This address is not in the white list of withdrawal addresses, please check the address carefully.</string>
 	<string name="wallet_withdrawal_recent_tip">You have already withdrawn %3$s to %2$s %1$s ago, Do you want to withdraw it again?</string>
 	<string name="Wallets">Wallets</string>
+	<string name="wallets_count">%d Wallets</string>
 	<string name="Watch_address">Watch %1$s</string>
 	<string name="Watch_Wallet">Watch Wallet</string>
 	<string name="Watch_Wallet_description">You are unable to control assets in a watch-only wallet, but you can track them. </string>

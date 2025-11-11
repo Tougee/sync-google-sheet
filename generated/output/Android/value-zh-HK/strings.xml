@@ -283,6 +283,7 @@
 	<string name="Cancel">取消</string>
 	<string name="Cancel_Floating">取消浮窗</string>
 	<string name="cancel_order">取消訂單</string>
+	<string name="Cancel_Order">取消訂單</string>
 	<string name="cancel_transaction">取消交易</string>
 	<string name="cancel_transaction_description">如果交易已接近完成，可能無法取消</string>
 	<string name="Cancel_Waiting">取消訂單</string>
@@ -920,6 +921,7 @@
 	<string name="lightning_address_explain_2">可重複使用，無需每次生成新的。</string>
 	<string name="lightning_address_explain_3">主流閃電網絡錢包都支持。</string>
 	<string name="lightning_address_explain_mao">每一個 MAO 域名對應一個閃電網絡地址，如果您擁有 MAO 域名，可以按 name@mao.id 格式接收閃電網絡轉賬。</string>
+	<string name="limit_price">限定價格</string>
 	<string name="limited_time_free">限時免費</string>
 	<string name="limited_time_free_condition">活動期間，錢包轉賬符合以下任意情況即可獲得手續費全額返現：</string>
 	<string name="limited_time_free_condition_1">隱私錢包轉賬到普通錢包。</string>
@@ -1643,6 +1645,7 @@
 	<string name="swap_expiry">過期</string>
 	<string name="swap_expiry_never">永不</string>
 	<string name="swap_failed">交易失敗</string>
+	<string name="swap_filled">已成交</string>
 	<string name="swap_invalid_amount">沒有報價。請嘗試修改金額。</string>
 	<string name="swap_message_success">您的交易已發送至網絡，將很快被處理。</string>
 	<string name="swap_no_available_quote">沒有報價。請嘗試切換幣種。</string>
@@ -1906,6 +1909,7 @@
 	<string name="wallet_withdrawal_not_in_addresses">%1$s 該地址不在提現地址白名單，請仔細核對地址。</string>
 	<string name="wallet_withdrawal_recent_tip">你已經在 %1$s 前提現 %3$s 到 %2$s，確認還要再提一次嗎？</string>
 	<string name="Wallets">錢包</string>
+	<string name="wallets_count">%d 個錢包</string>
 	<string name="Watch_address">觀察 %1$s</string>
 	<string name="Watch_Wallet">觀察錢包</string>
 	<string name="Watch_Wallet_description">你無法使用觀察錢包中的資產，但可以追蹤它們。 </string>
