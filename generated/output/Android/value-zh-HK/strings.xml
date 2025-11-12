@@ -289,6 +289,7 @@
 	<string name="Cancel_Waiting">取消訂單</string>
 	<string name="Canceled">已取消</string>
 	<string name="Canceled_by_caller">對方已取消</string>
+	<string name="Cancelling">正在取消</string>
 	<string name="Cant_receive_the_code">接收不到驗證碼？</string>
 	<string name="cant_talk_self">不能和自己對話</string>
 	<string name="cant_transfer_self">不能給自己轉賬</string>

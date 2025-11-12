@@ -239,6 +239,7 @@
 "cancel_waiting" = "Cancel Waiting";
 "canceled" = "Dibatalkan";
 "canceled_by_caller" = "Panggilan Dibatalkan oleh penelepon";
+"cancelling" = "Cancelling";
 "cant_receive_the_code" = "Tidak dapat menerima kode?";
 "caption_send" = "Send";
 "card" = "card";

@@ -291,6 +291,7 @@
 	<string name="Cancel_Waiting">Cancel Waiting</string>
 	<string name="Canceled">Cancelled</string>
 	<string name="Canceled_by_caller">Cancelled by caller</string>
+	<string name="Cancelling">Cancelling</string>
 	<string name="Cant_receive_the_code">Can\'t receive the code?</string>
 	<string name="cant_talk_self">You can\'t talk to yourself</string>
 	<string name="cant_transfer_self">You can\'t transfer to yourself</string>
