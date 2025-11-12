@@ -221,6 +221,7 @@
   <string name="Cancel" platform="android, iOS, Desktop">取消</string>
   <string name="Cancel_Floating" platform="android, iOS">取消浮窗</string>
   <string name="cancel_order" platform="android">取消订单</string>
+  <string name="Cancelling" platform="android, iOS">正在取消</string>
   <string name="Canceled" platform="android, iOS">已取消</string>
   <string name="Canceled_by_caller" platform="android, iOS">对方已取消</string>
   <string name="Cant_receive_the_code" platform="android, iOS">接收不到验证码？</string>
