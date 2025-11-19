@@ -1824,7 +1824,6 @@
   <string name="search_placeholder_collectible" platform="android, iOS">名稱</string>
   <string name="alert_key_contact_collectible_message" platform="android, iOS">傳送一個藏品</string>
   <string name="Collectible_Hash" platform="android, iOS">藏品雜湊</string>
-  <string name="Swap" platform="android,iOS">交易</string>
   <string name="Swapping" platform="android">兌換中</string>
   <string name="Pay" platform="android,iOS">支付</string>
   <string name="Received" platform="android,iOS">收到</string>
@@ -2153,7 +2152,7 @@
   <string name="order_type" platform="android, iOS">訂單型別</string>
   <string name="order_type_swap" platform="android,iOS">閃兌</string>
   <string name="order_type_limit" platform="android,iOS">限價</string>
-  <string name="Swap_Again" platform="android,iOS">再來一筆</string>
+  <string name="Trade_Again" platform="android,iOS">再來一筆</string>
   <string name="Share_Pair" platform="android,iOS">分享交易對</string>
   <string name="Completed" platform="android,iOS">已完成</string>
   <string name="Orders" platform="android,iOS">訂單</string>
@@ -2404,11 +2403,12 @@
   <string name="limited_time_free_condition_1" platform="android, iOS">隱私錢包轉賬到普通錢包。</string>
   <string name="limited_time_free_condition_2" platform="android, iOS">普通錢包轉賬到其他普通錢包、隱私錢包或聯絡人。</string>
   <string name="limited_time_free_description" platform="android, iOS">手續費按月、按實際消耗的手續費幣種和金額彙總返還到您的隱私錢包，閱讀檔案瞭解更多。</string>
-  <string name="swap_simple" platform="android, iOS">閃兌</string>
-  <string name="swap_advanced" platform="android, iOS">掛單</string>
-  <string name="swap_expiry" platform="android, iOS">過期</string>
-  <string name="swap_expiry_never" platform="android, iOS">永不</string>
-  <string name="swap_filled" platform="android, iOS">已成交</string>
+  <string name="trade_simple" platform="android, iOS">閃兌</string>
+  <string name="trade_advanced" platform="android, iOS">掛單</string>
+  <string name="trade_expiry" platform="android, iOS">過期</string>
+  <string name="trade_expiry_never" platform="android, iOS">永不</string>
+  <string name="trade_filled" platform="android, iOS">已成交</string>
+  <string name="trade_expiration" platform="android, iOS">有效期至</string>
   <string name="limit_price" platform="android, iOS">限定價格</string>
   <string name="one_day" platform="android, iOS">1 天</string>
   <string name="days_count" platform="android, iOS">%d 天</string>
@@ -2420,4 +2420,5 @@
   <string name="wallets_count" platform="android, iOS">%d 個錢包</string>
   <string name="Cancel_Order" platform="android, iOS">取消訂單</string>
   <string name="Preview" platform="android, iOS">預覽</string>
+  <string name="Trade" platform="android, iOS">交易</string>
 </resources>
