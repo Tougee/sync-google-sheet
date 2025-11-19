@@ -1846,7 +1846,6 @@
   <string name="search_placeholder_collectible" platform="android, iOS">Name</string>
   <string name="alert_key_contact_collectible_message" platform="android, iOS">sent you a collectible</string>
   <string name="Collectible_Hash" platform="android, iOS">Collectible Hash</string>
-  <string name="Swap" platform="android,iOS">Swap</string>
   <string name="Swapping" platform="android">Swapping</string>
   <string name="Pay" platform="android,iOS">Pay</string>
   <string name="Received" platform="android,iOS">received</string>
@@ -2176,7 +2175,7 @@
   <string name="order_type" platform="android, iOS">Order Type</string>
   <string name="order_type_swap" platform="android,iOS">Swap</string>
   <string name="order_type_limit" platform="android,iOS">Limit</string>
-  <string name="Swap_Again" platform="android,iOS">Swap Again</string>
+  <string name="Trade_Again" platform="android,iOS">Trade Again</string>
   <string name="Share_Pair" platform="android,iOS">Share Pair</string>
   <string name="Completed" platform="android,iOS">Completed</string>
   <string name="Orders" platform="android,iOS">Orders</string>
@@ -2427,11 +2426,12 @@
   <string name="limited_time_free_condition_1" platform="android, iOS">Privacy Wallet transfer to a Common Wallet.</string>
   <string name="limited_time_free_condition_2" platform="android, iOS">Common Wallet transfer to another Common Wallet, Privacy Wallet, or contact.</string>
   <string name="limited_time_free_description" platform="android, iOS">Fees will be refunded monthly to your Privacy Wallet, summarized by the actual fee tokens and amounts consumed. Read the documentation to learn more.</string>
-  <string name="swap_simple" platform="android, iOS">Simple</string>
-  <string name="swap_advanced" platform="android, iOS">Advanced</string>
-  <string name="swap_expiry" platform="android, iOS">Expiry</string>
-  <string name="swap_expiry_never" platform="android, iOS">Never</string>
-  <string name="swap_filled" platform="android, iOS">Filled</string>
+  <string name="trade_simple" platform="android, iOS">Simple</string>
+  <string name="trade_advanced" platform="android, iOS">Advanced</string>
+  <string name="trade_expiry" platform="android, iOS">Expiry</string>
+  <string name="trade_expiry_never" platform="android, iOS">Never</string>
+  <string name="trade_filled" platform="android, iOS">Filled</string>
+  <string name="trade_expiration" platform="android, iOS">Expiration</string>
   <string name="limit_price" platform="android, iOS">Limit Price</string>
   <string name="one_day" platform="android, iOS">1 Day</string>
   <string name="days_count" platform="android, iOS">%d Days</string>
@@ -2443,4 +2443,5 @@
   <string name="wallets_count" platform="android, iOS">%d Wallets</string>
   <string name="Cancel_Order" platform="android, iOS">Cancel Order</string>
   <string name="Preview" platform="android, iOS">Preview</string>
+  <string name="Trade" platform="android, iOS">Trade</string>
 </resources>
