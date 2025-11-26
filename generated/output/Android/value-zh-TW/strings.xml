@@ -86,7 +86,6 @@
 	<string name="address_validity_reminder">您已經超過 %3$s 天沒有使用地址 %1$s（%2$s），請注意檢查地址是否仍然有效。</string>
 	<string name="Addresses">地址</string>
 	<string name="Admin">管理員</string>
-	<string name="advanced_swap_confirmation">確認掛單</string>
 	<string name="After_1_minute">1分鐘之後</string>
 	<string name="After_30_minutes">30分鐘之後</string>
 	<string name="Agree_and_Continue">同意並繼續</string>
@@ -922,6 +921,7 @@
 	<string name="lightning_address_explain_2">可重複使用，無需每次生成新的。</string>
 	<string name="lightning_address_explain_3">主流閃電網路錢包都支援。</string>
 	<string name="lightning_address_explain_mao">每一個 MAO 域名對應一個閃電網路地址，如果您擁有 MAO 域名，可以按 name@mao.id 格式接收閃電網路轉賬。</string>
+	<string name="limit_order_confirmation">確認掛單</string>
 	<string name="limit_price">限定價格</string>
 	<string name="limited_time_free">限時免費</string>
 	<string name="limited_time_free_condition">活動期間，錢包轉賬符合以下任意情況即可獲得手續費全額返現：</string>
