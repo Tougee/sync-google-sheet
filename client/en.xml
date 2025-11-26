@@ -2439,7 +2439,7 @@
   <string name="one_month" platform="android, iOS">1 Month</string>
   <string name="open_orders_count" platform="android, iOS">Open Orders (%d)</string>
   <string name="current_market_price" platform="android, iOS">Market</string>
-  <string name="advanced_swap_confirmation" platform="android, iOS">Order Confirmation</string>
+  <string name="limit_order_confirmation" platform="android, iOS">Order Confirmation</string>
   <string name="wallets_count" platform="android, iOS">%d Wallets</string>
   <string name="Cancel_Order" platform="android, iOS">Cancel Order</string>
   <string name="Preview" platform="android, iOS">Preview</string>

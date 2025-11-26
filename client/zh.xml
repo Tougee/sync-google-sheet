@@ -2416,7 +2416,7 @@
   <string name="one_month" platform="android, iOS">1 月</string>
   <string name="open_orders_count" platform="android, iOS">当前委托（%d）</string>
   <string name="current_market_price" platform="android, iOS">市价</string>
-  <string name="advanced_swap_confirmation" platform="android, iOS">确认挂单</string>
+  <string name="limit_order_confirmation" platform="android, iOS">确认挂单</string>
   <string name="wallets_count" platform="android, iOS">%d 个钱包</string>
   <string name="Cancel_Order" platform="android, iOS">取消订单</string>
   <string name="Preview" platform="android, iOS">预览</string>
