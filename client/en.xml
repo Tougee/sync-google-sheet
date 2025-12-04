@@ -2444,4 +2444,16 @@
   <string name="Cancel_Order" platform="android, iOS">Cancel Order</string>
   <string name="Preview" platform="android, iOS">Preview</string>
   <string name="Trade" platform="android, iOS">Trade</string>
+  <string name="Wallet_Category_Safe" platform="android, iOS">Safe</string>
+  <string name="Wallet_Category_Created" platform="android, iOS">Created</string>
+  <string name="Wallet_Category_Imported" platform="android, iOS">Imported</string>
+  <string name="Wallet_Category_Watching" platform="android, iOS">Watching</string>
+  <string name="Whats_Safe_Wallet" platform="android, iOS">What's the Mixin Safe?</string>
+  <string name="Safe_Wallet_Description" platform="android, iOS">A multi-signature cold wallet based on Bitcoin, Ethereum, and other networks.</string>
+  <string name="Upgrade_Safe_Description" platform="android, iOS">Upgrade to Mixin One to unlock Mixin Safe and securely manage assets with your family, friends, or colleagues.</string>
+  <string name="Create_Safe" platform="android, iOS">Create Safe</string>
+  <string name="Create_Safe_Description" platform="android, iOS">You don't have a Safe yet. Create one now and securely manage assets with your family, friends, or colleagues.</string>
+  <string name="Guideline" platform="android, iOS">Guideline</string>
+  <string name="safe_learn_more_url" platform="android, iOS">https://support.mixin.one/en/article/what-is-mixin-safe-g20z2m/</string>
+  <string name="safe_create_guideline_url" platform="android, iOS">https://support.mixin.one/en/article/how-to-create-a-safe-on-mixin-1ehi2mf/</string>
 </resources>
