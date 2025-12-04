@@ -490,6 +490,8 @@
 	<string name="Create_New_Wallet">Create New Wallet</string>
 	<string name="create_new_wallet_description">Add a new multi-chain wallet</string>
 	<string name="Create_PIN">Create PIN</string>
+	<string name="Create_Safe">Create Safe</string>
+	<string name="Create_Safe_Description">You don\'t have a Safe yet. Create one now and securely manage assets with your family, friends, or colleagues.</string>
 	<string name="Created">Created</string>
 	<string name="Created_at">Created %1$s</string>
 	<string name="created_this_group">%1$s created this group</string>
@@ -827,6 +829,7 @@
 	<string name="group_pop_menu_view">View %1$s</string>
 	<string name="group_role">You\' re now an admin</string>
 	<string name="Groups_In_Common">Groups in Common</string>
+	<string name="Guideline">Guideline</string>
 	<string name="Hang_up">Hang up</string>
 	<string name="HASH">HASH</string>
 	<string name="Help_center">Help center</string>
@@ -1421,7 +1424,10 @@
 	<string name="Revoking_Multisig_Signature">Revoking Multisig Signature</string>
 	<string name="Rewards">Rewards</string>
 	<string name="SAFE">SAFE</string>
+	<string name="safe_create_guideline_url">https://support.mixin.one/en/article/how-to-create-a-safe-on-mixin-1ehi2mf/</string>
+	<string name="safe_learn_more_url">https://support.mixin.one/en/article/what-is-mixin-safe-g20z2m/</string>
 	<string name="safe_members">Safe Members</string>
+	<string name="Safe_Wallet_Description">A multi-signature cold wallet based on Bitcoin, Ethereum, and other networks.</string>
 	<string name="Saturday">Saturday</string>
 	<string name="Save">Save</string>
 	<string name="Save_failure">Save failure</string>
@@ -1827,6 +1833,7 @@
 	<string name="Upgrade_Plan">Upgrade Plan</string>
 	<string name="Upgrade_Plan_for">Upgrade for %1$s</string>
 	<string name="Upgrade_safe">Upgrade safe</string>
+	<string name="Upgrade_Safe_Description">Upgrade to Mixin One to unlock Mixin Safe and securely manage assets with your family, friends, or colleagues.</string>
 	<string name="Upgrade_TIP">Upgrade TIP</string>
 	<string name="Upgrade_TIP_successfully">Upgrade TIP successfully</string>
 	<string name="Upgrading">Upgrading</string>
@@ -1907,6 +1914,10 @@
 	<string name="wallet_biometric_invalid">Invalid biometrics state, please reset in wallet setting.</string>
 	<string name="wallet_biometric_screen_lock_desc">Use your device pattern to continue</string>
 	<string name="wallet_candidate_imported">Imported</string>
+	<string name="Wallet_Category_Created">Created</string>
+	<string name="Wallet_Category_Imported">Imported</string>
+	<string name="Wallet_Category_Safe">Safe</string>
+	<string name="Wallet_Category_Watching">Watching</string>
 	<string name="wallet_enable_biometric_pay_prompt">Once enabled, biometrics can be used to make quick transfers</string>
 	<string name="wallet_imported">Imported</string>
 	<string name="wallet_password_change_tip">Please enter the 6 digit PIN to verify.</string>
@@ -1987,6 +1998,7 @@
 	<string name="weeks_count_short">%1$dW</string>
 	<string name="Welcome_to_Mixin">Welcome to Mixin</string>
 	<string name="What_is_Pin">What is PIN?</string>
+	<string name="Whats_Safe_Wallet">What\'s the Mixin Safe?</string>
 	<string name="Whats_your_name">What\'s your name?</string>
 	<string name="When_roaming">When roaming</string>
 	<string name="withdraw_Address">Address</string>

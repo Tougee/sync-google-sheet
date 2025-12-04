@@ -487,6 +487,8 @@
 	<string name="Create_New_Wallet">创建新钱包</string>
 	<string name="create_new_wallet_description">添加一个新的多链钱包</string>
 	<string name="Create_PIN">创建钱包</string>
+	<string name="Create_Safe">创建 Safe</string>
+	<string name="Create_Safe_Description">您尚未拥有 Safe。现在创建即可与家人、朋友或同事安全管理资产。</string>
 	<string name="Created">创建日期</string>
 	<string name="Created_at">创建于 %1$s</string>
 	<string name="created_this_group">%1$s创建了这个群组</string>
@@ -818,6 +820,7 @@
 	<string name="group_pop_menu_view">查看 %1$s</string>
 	<string name="group_role">你现在成为管理员</string>
 	<string name="Groups_In_Common">共同群组</string>
+	<string name="Guideline">使用指南</string>
 	<string name="Hang_up">挂断</string>
 	<string name="HASH">哈希</string>
 	<string name="Help_center">帮助中心</string>
@@ -1406,7 +1409,10 @@
 	<string name="Revoking_Multisig_Signature">正在撤销多签交易</string>
 	<string name="Rewards">礼遇</string>
 	<string name="SAFE">金库</string>
+	<string name="safe_create_guideline_url">https://support.mixin.one/zh/article/safe-1ljf7ld/</string>
+	<string name="safe_learn_more_url">https://support.mixin.one/zh/article/mixin-safe-1bl8w6l/</string>
 	<string name="safe_members">金库共管人</string>
+	<string name="Safe_Wallet_Description">基于比特币、以太坊等网络的多重签名冷钱包。</string>
 	<string name="Saturday">星期六</string>
 	<string name="Save">保存</string>
 	<string name="Save_failure">保存失败</string>
@@ -1810,6 +1816,7 @@
 	<string name="Upgrade_Plan">升级会员</string>
 	<string name="Upgrade_Plan_for">升级会员仅需 %1$s</string>
 	<string name="Upgrade_safe">升级 Safe</string>
+	<string name="Upgrade_Safe_Description">升级到 Mixin One 即可解锁 Mixin Safe，与你的家人、朋友或同事一起安全管理资产。</string>
 	<string name="Upgrade_TIP">升级 TIP</string>
 	<string name="Upgrade_TIP_successfully">TIP 升级成功</string>
 	<string name="Upgrading">升级中…</string>
@@ -1890,6 +1897,10 @@
 	<string name="wallet_biometric_invalid">生物识别失效，请重新设置。</string>
 	<string name="wallet_biometric_screen_lock_desc">请解锁您的设备以继续</string>
 	<string name="wallet_candidate_imported">已导入</string>
+	<string name="Wallet_Category_Created">创建的钱包</string>
+	<string name="Wallet_Category_Imported">导入的钱包</string>
+	<string name="Wallet_Category_Safe">Safe 金库</string>
+	<string name="Wallet_Category_Watching">观察钱包</string>
 	<string name="wallet_enable_biometric_pay_prompt">开启后，转账时可验证生物识别快速完成付款。</string>
 	<string name="wallet_imported">导入</string>
 	<string name="wallet_password_change_tip">请输入6位 PIN 来验证</string>
@@ -1968,6 +1979,7 @@
 	<string name="Wednesday">星期三</string>
 	<string name="weeks_count_short">%1$d周</string>
 	<string name="What_is_Pin">什么是 PIN ?</string>
+	<string name="Whats_Safe_Wallet">什么是 Safe 金库？</string>
 	<string name="Whats_your_name">你的名字？</string>
 	<string name="When_roaming">当漫游时</string>
 	<string name="withdraw_Address">提现地址</string>

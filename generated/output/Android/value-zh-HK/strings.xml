@@ -487,6 +487,8 @@
 	<string name="Create_New_Wallet">創建新錢包</string>
 	<string name="create_new_wallet_description">添加一個新的多鏈錢包</string>
 	<string name="Create_PIN">創建錢包</string>
+	<string name="Create_Safe">創建 Safe</string>
+	<string name="Create_Safe_Description">您尚未擁有 Safe。現在創建即可與家人、朋友或同事安全管理資產。</string>
 	<string name="Created">創建日期</string>
 	<string name="Created_at">創建於 %1$s</string>
 	<string name="created_this_group">%1$s創建了這個羣組</string>
@@ -818,6 +820,7 @@
 	<string name="group_pop_menu_view">查看 %1$s</string>
 	<string name="group_role">你現在成為管理員</string>
 	<string name="Groups_In_Common">共同羣組</string>
+	<string name="Guideline">使用指南</string>
 	<string name="Hang_up">掛斷</string>
 	<string name="HASH">哈希</string>
 	<string name="Help_center">幫助中心</string>
@@ -1406,7 +1409,10 @@
 	<string name="Revoking_Multisig_Signature">正在撤銷多簽交易</string>
 	<string name="Rewards">禮遇</string>
 	<string name="SAFE">金庫</string>
+	<string name="safe_create_guideline_url">https://support.mixin.one/zh/article/safe-1ljf7ld/</string>
+	<string name="safe_learn_more_url">https://support.mixin.one/zh/article/mixin-safe-1bl8w6l/</string>
 	<string name="safe_members">金庫共管人</string>
+	<string name="Safe_Wallet_Description">基於比特幣、以太坊等網絡的多重簽名冷錢包。</string>
 	<string name="Saturday">星期六</string>
 	<string name="Save">保存</string>
 	<string name="Save_failure">保存失敗</string>
@@ -1810,6 +1816,7 @@
 	<string name="Upgrade_Plan">升級會員</string>
 	<string name="Upgrade_Plan_for">升級會員僅需 %1$s</string>
 	<string name="Upgrade_safe">升級 Safe</string>
+	<string name="Upgrade_Safe_Description">升級到 Mixin One 即可解鎖 Mixin Safe，與你的家人、朋友或同事一起安全管理資產。</string>
 	<string name="Upgrade_TIP">升級 TIP</string>
 	<string name="Upgrade_TIP_successfully">TIP 升級成功</string>
 	<string name="Upgrading">升級中…</string>
@@ -1890,6 +1897,10 @@
 	<string name="wallet_biometric_invalid">生物識別失效，請重新設置。</string>
 	<string name="wallet_biometric_screen_lock_desc">請解鎖您的設備以繼續</string>
 	<string name="wallet_candidate_imported">已導入</string>
+	<string name="Wallet_Category_Created">創建的錢包</string>
+	<string name="Wallet_Category_Imported">導入的錢包</string>
+	<string name="Wallet_Category_Safe">Safe 金庫</string>
+	<string name="Wallet_Category_Watching">觀察錢包</string>
 	<string name="wallet_enable_biometric_pay_prompt">開啓後，轉賬時可驗證生物識別快速完成付款。</string>
 	<string name="wallet_imported">導入</string>
 	<string name="wallet_password_change_tip">請輸入6位 PIN 來驗證</string>
@@ -1968,6 +1979,7 @@
 	<string name="Wednesday">星期三</string>
 	<string name="weeks_count_short">%1$d周</string>
 	<string name="What_is_Pin">什麼是 PIN ?</string>
+	<string name="Whats_Safe_Wallet">什麼是 Safe 金庫？</string>
 	<string name="Whats_your_name">你的名字？</string>
 	<string name="When_roaming">當漫遊時</string>
 	<string name="withdraw_Address">提現地址</string>
