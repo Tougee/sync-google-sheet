@@ -2456,5 +2456,6 @@
   <string name="Guideline" platform="android, iOS">Guideline</string>
   <string name="safe_learn_more_url" platform="android, iOS">https://support.mixin.one/en/article/what-is-mixin-safe-g20z2m/</string>
   <string name="safe_create_guideline_url" platform="android, iOS">https://support.mixin.one/en/article/how-to-create-a-safe-on-mixin-1ehi2mf/</string>
-  <string name="Stocks" platform="iOS">Stocks</string>
+  <string name="Stocks" platform="android, iOS">Stocks</string>
+  <string name="order_status" platform="android, iOS">Status</string>
 </resources>

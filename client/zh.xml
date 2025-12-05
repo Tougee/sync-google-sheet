@@ -2433,5 +2433,6 @@
   <string name="Guideline" platform="android, iOS">使用指南</string>
   <string name="safe_learn_more_url" platform="android, iOS">https://support.mixin.one/zh/article/mixin-safe-1bl8w6l/</string>
   <string name="safe_create_guideline_url" platform="android, iOS">https://support.mixin.one/zh/article/safe-1ljf7ld/</string>
-  <string name="Stocks" platform="iOS">股票</string>
+  <string name="Stocks" platform="android, iOS">股票</string>
+  <string name="order_status" platform="android, iOS">状态</string>
 </resources>
