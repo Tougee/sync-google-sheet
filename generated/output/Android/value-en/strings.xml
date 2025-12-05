@@ -1194,6 +1194,7 @@
 	<string name="order_confirm">Order Confirm</string>
 	<string name="Order_Details">Order Details</string>
 	<string name="Order_ID">Order ID</string>
+	<string name="order_status">Status</string>
 	<string name="order_type">Order Type</string>
 	<string name="order_type_limit">Limit</string>
 	<string name="order_type_swap">Swap</string>
@@ -1647,6 +1648,7 @@
 	<string name="sticker_add_invalid_size">Requires stickers file size larger than 1KB and less than 1MB, width and height between 128px and 1024px.</string>
 	<string name="Sticker_Store">Sticker Store</string>
 	<string name="stickers_count">%d stickers</string>
+	<string name="Stocks">Stocks</string>
 	<string name="Stop">Stop</string>
 	<string name="Stop_Playing">Stop Playing</string>
 	<string name="Stop_playing_this_list">Stop playing this list?</string>

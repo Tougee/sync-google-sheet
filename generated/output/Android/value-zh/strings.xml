@@ -1180,6 +1180,7 @@
 	<string name="order_confirm">订单确认</string>
 	<string name="Order_Details">订单详情</string>
 	<string name="Order_ID">订单 ID</string>
+	<string name="order_status">状态</string>
 	<string name="order_type">订单类型</string>
 	<string name="order_type_limit">限价</string>
 	<string name="order_type_swap">闪兑</string>
@@ -1631,6 +1632,7 @@
 	<string name="sticker_add_invalid_size">贴纸要求大于 1KB 且小于 1MB，宽高大于 128 像素且小于 1024 像素。</string>
 	<string name="Sticker_Store">表情商店</string>
 	<string name="stickers_count">%d 个表情</string>
+	<string name="Stocks">股票</string>
 	<string name="Stop">暂停</string>
 	<string name="Stop_Playing">停止播放</string>
 	<string name="Stop_playing_this_list">确定要停止并关闭播放列表？</string>

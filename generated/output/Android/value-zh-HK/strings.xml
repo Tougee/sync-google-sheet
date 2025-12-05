@@ -1180,6 +1180,7 @@
 	<string name="order_confirm">訂單確認</string>
 	<string name="Order_Details">訂單詳情</string>
 	<string name="Order_ID">訂單 ID</string>
+	<string name="order_status">狀態</string>
 	<string name="order_type">訂單類型</string>
 	<string name="order_type_limit">限價</string>
 	<string name="order_type_swap">閃兑</string>
@@ -1631,6 +1632,7 @@
 	<string name="sticker_add_invalid_size">貼紙要求大於 1KB 且小於 1MB，寬高大於 128 像素且小於 1024 像素。</string>
 	<string name="Sticker_Store">表情商店</string>
 	<string name="stickers_count">%d 個表情</string>
+	<string name="Stocks">股票</string>
 	<string name="Stop">暫停</string>
 	<string name="Stop_Playing">停止播放</string>
 	<string name="Stop_playing_this_list">確定要停止並關閉播放列表？</string>
