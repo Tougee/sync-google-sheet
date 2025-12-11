@@ -1428,6 +1428,8 @@
 	<string name="safe_create_guideline_url">https://support.mixin.one/en/article/how-to-create-a-safe-on-mixin-1ehi2mf/</string>
 	<string name="safe_learn_more_url">https://support.mixin.one/en/article/what-is-mixin-safe-g20z2m/</string>
 	<string name="safe_members">Safe Members</string>
+	<string name="safe_vault_member">Member</string>
+	<string name="safe_vault_owner">Owner</string>
 	<string name="Safe_Wallet_Description">A multi-signature cold wallet based on Bitcoin, Ethereum, and other networks.</string>
 	<string name="Saturday">Saturday</string>
 	<string name="Save">Save</string>

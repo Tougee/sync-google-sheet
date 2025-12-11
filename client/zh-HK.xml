@@ -2435,4 +2435,6 @@
   <string name="safe_create_guideline_url" platform="android, iOS">https://support.mixin.one/zh/article/safe-1ljf7ld/</string>
   <string name="Stocks" platform="android, iOS">股票</string>
   <string name="order_status" platform="android, iOS">狀態</string>
+  <string name="safe_vault_owner" platform="android, iOS">所有者</string>
+  <string name="safe_vault_member" platform="android, iOS">共管人</string>
 </resources>

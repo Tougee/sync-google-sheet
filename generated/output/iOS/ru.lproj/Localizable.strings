@@ -1233,6 +1233,8 @@
 "safe_create_guideline_url" = "https://support.mixin.one/en/article/how-to-create-a-safe-on-mixin-1ehi2mf/";
 "safe_learn_more_url" = "https://support.mixin.one/en/article/what-is-mixin-safe-g20z2m/";
 "safe_members" = "Safe Members";
+"safe_vault_member" = "Member";
+"safe_vault_owner" = "Owner";
 "safe_wallet_description" = "A multi-signature cold wallet based on Bitcoin, Ethereum, and other networks.";
 "save" = "Сохранить";
 "save_image" = "Сохранить изображение";

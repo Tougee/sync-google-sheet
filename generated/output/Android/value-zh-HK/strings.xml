@@ -1413,6 +1413,8 @@
 	<string name="safe_create_guideline_url">https://support.mixin.one/zh/article/safe-1ljf7ld/</string>
 	<string name="safe_learn_more_url">https://support.mixin.one/zh/article/mixin-safe-1bl8w6l/</string>
 	<string name="safe_members">金庫共管人</string>
+	<string name="safe_vault_member">共管人</string>
+	<string name="safe_vault_owner">所有者</string>
 	<string name="Safe_Wallet_Description">基於比特幣、以太坊等網絡的多重簽名冷錢包。</string>
 	<string name="Saturday">星期六</string>
 	<string name="Save">保存</string>

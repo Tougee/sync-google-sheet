@@ -1233,6 +1233,8 @@
 "safe_create_guideline_url" = "https://support.mixin.one/zh/article/safe-1ljf7ld/";
 "safe_learn_more_url" = "https://support.mixin.one/zh/article/mixin-safe-1bl8w6l/";
 "safe_members" = "金庫共管人";
+"safe_vault_member" = "共管人";
+"safe_vault_owner" = "所有者";
 "safe_wallet_description" = "基於比特幣、以太坊等網絡的多重簽名冷錢包。";
 "save" = "保存";
 "save_image" = "保存圖片";
