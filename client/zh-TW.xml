@@ -2400,8 +2400,8 @@
   <string name="fetching_address_failed_reason" platform="android, iOS">該聯絡人還沒有註冊普通錢包</string>
   <string name="limited_time_free" platform="android, iOS">限時免費</string>
   <string name="limited_time_free_condition" platform="android, iOS">活動期間，錢包轉賬符合以下任意情況即可獲得手續費全額返現：</string>
-  <string name="limited_time_free_condition_1" platform="android, iOS">隱私錢包轉賬到普通錢包。</string>
-  <string name="limited_time_free_condition_2" platform="android, iOS">普通錢包轉賬到其他普通錢包、隱私錢包或聯絡人。</string>
+  <string name="limited_time_free_condition_1" platform="android, iOS">隱私錢包轉賬到普通錢包、Mixin Safe 金庫。</string>
+  <string name="limited_time_free_condition_2" platform="android, iOS">普通錢包轉賬到其他普通錢包、隱私錢包、Mixin Safe 金庫或聯絡人。</string>
   <string name="limited_time_free_description" platform="android, iOS">手續費按月、按實際消耗的手續費幣種和金額彙總返還到您的隱私錢包，閱讀檔案瞭解更多。</string>
   <string name="trade_simple" platform="android, iOS">閃兌</string>
   <string name="trade_advanced" platform="android, iOS">掛單</string>

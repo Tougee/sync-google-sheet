@@ -928,8 +928,8 @@
 	<string name="limit_price">限定價格</string>
 	<string name="limited_time_free">限時免費</string>
 	<string name="limited_time_free_condition">活動期間，錢包轉賬符合以下任意情況即可獲得手續費全額返現：</string>
-	<string name="limited_time_free_condition_1">隱私錢包轉賬到普通錢包。</string>
-	<string name="limited_time_free_condition_2">普通錢包轉賬到其他普通錢包、隱私錢包或聯繫人。</string>
+	<string name="limited_time_free_condition_1">隱私錢包轉賬到普通錢包、Mixin Safe 金庫。</string>
+	<string name="limited_time_free_condition_2">普通錢包轉賬到其他普通錢包、隱私錢包、Mixin Safe 金庫或聯繫人。</string>
 	<string name="limited_time_free_description">手續費按月、按實際消耗的手續費幣種和金額彙總返還到您的隱私錢包，閲讀文檔瞭解更多。</string>
 	<string name="Line_busy">忙線未接聽</string>
 	<string name="Line_busy_remote">對方忙</string>
