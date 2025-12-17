@@ -2428,8 +2428,8 @@
   <string name="Whats_Safe_Wallet" platform="android, iOS">什麼是 Safe 金庫？</string>
   <string name="Safe_Wallet_Description" platform="android, iOS">基於比特幣、以太坊等網絡的多重簽名冷錢包。</string>
   <string name="Upgrade_Safe_Description" platform="android, iOS">升級到 Mixin One 即可解鎖 Mixin Safe，與你的家人、朋友或同事一起安全管理資產。</string>
-  <string name="Create_Safe" platform="android, iOS">創建 Safe</string>
-  <string name="Create_Safe_Description" platform="android, iOS">您尚未擁有 Safe。現在創建即可與家人、朋友或同事安全管理資產。</string>
+  <string name="Create_Safe" platform="android, iOS">創建 Safe 金庫</string>
+  <string name="Create_Safe_Description" platform="android, iOS">您尚未擁有 Safe 金庫。現在創建即可與家人、朋友或同事安全管理資產。</string>
   <string name="Guideline" platform="android, iOS">使用指南</string>
   <string name="safe_learn_more_url" platform="android, iOS">https://support.mixin.one/zh/article/mixin-safe-1bl8w6l/</string>
   <string name="safe_create_guideline_url" platform="android, iOS">https://support.mixin.one/zh/article/safe-1ljf7ld/</string>

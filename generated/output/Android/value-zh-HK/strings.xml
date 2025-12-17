@@ -487,8 +487,8 @@
 	<string name="Create_New_Wallet">創建新錢包</string>
 	<string name="create_new_wallet_description">添加一個新的多鏈錢包</string>
 	<string name="Create_PIN">創建錢包</string>
-	<string name="Create_Safe">創建 Safe</string>
-	<string name="Create_Safe_Description">您尚未擁有 Safe。現在創建即可與家人、朋友或同事安全管理資產。</string>
+	<string name="Create_Safe">創建 Safe 金庫</string>
+	<string name="Create_Safe_Description">您尚未擁有 Safe 金庫。現在創建即可與家人、朋友或同事安全管理資產。</string>
 	<string name="Created">創建日期</string>
 	<string name="Created_at">創建於 %1$s</string>
 	<string name="created_this_group">%1$s創建了這個羣組</string>

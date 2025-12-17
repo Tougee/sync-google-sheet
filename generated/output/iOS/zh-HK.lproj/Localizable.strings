@@ -413,8 +413,8 @@
 "create_new_wallet" = "創建新錢包";
 "create_new_wallet_description" = "添加一個新的多鏈錢包";
 "create_pin" = "創建錢包";
-"create_safe" = "創建 Safe";
-"create_safe_description" = "您尚未擁有 Safe。現在創建即可與家人、朋友或同事安全管理資產。";
+"create_safe" = "創建 Safe 金庫";
+"create_safe_description" = "您尚未擁有 Safe 金庫。現在創建即可與家人、朋友或同事安全管理資產。";
 "created" = "創建日期";
 "created_this_group" = "%@創建了這個羣組";
 "creating_wallet_terminated_unexpectedly" = "創建錢包意外中止，點繼續完成錢包創建";
