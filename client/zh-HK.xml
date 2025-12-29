@@ -2317,7 +2317,8 @@
   <string name="error_watch_address_not_supported" platform="android, iOS">錯誤 10633：地址不可用</string>
   <string name="watch_wallet_index" platform="android, iOS">觀察錢包 %1$s</string>
   <string name="Watching" platform="android, iOS">觀察</string>
-  <string name="wallet_summary_tip" platform="android, iOS">觀察錢包、隱藏的資產不計入統計</string>
+  <string name="wallet_summary_tip_all" platform="android, iOS">Safe 金庫、觀察錢包和隱藏的資產不計入統計</string>
+  <string name="wallet_summary_tip_safe" platform="android, iOS">共管的 Safe 金庫不計入統計</string>
   <string name="wallet_already_added" platform="android, iOS">這個錢包已經添加過了</string>
   <string name="error_too_many_wallets_upgrade" platform="android, iOS">錯誤 10632：導入錢包已達上限，請升級會員以添加更多錢包。</string>
   <string name="error_too_many_wallets" platform="android, iOS">錯誤 10632：導入錢包已達上限。</string>
