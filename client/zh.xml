@@ -2439,4 +2439,5 @@
   <string name="order_status" platform="android, iOS">状态</string>
   <string name="safe_vault_owner" platform="android, iOS">所有者</string>
   <string name="safe_vault_member" platform="android, iOS">共管人</string>
+  <string name="advanced_trade" platform="android, iOS">挂单交易</string>
 </resources>
