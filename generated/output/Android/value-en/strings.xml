@@ -1935,6 +1935,7 @@
 	<string name="wallet_refresh_address_failed">The withdrawal fee has been changed and the refresh fails, please try again.</string>
 	<string name="wallet_setting_currency_desc">%1$s (%2$s)</string>
 	<string name="wallet_summary_tip_all">Safes, watch wallets, and hidden assets are excluded from the total</string>
+	<string name="wallet_summary_tip_created">Hidden assets are excluded from the total</string>
 	<string name="wallet_summary_tip_safe">Co-managed Safes are excluded from the total</string>
 	<string name="wallet_transaction_continue_count_down">Continue (%1$d)</string>
 	<string name="wallet_transaction_that_time_value_tip">historical value at the time of transaction</string>

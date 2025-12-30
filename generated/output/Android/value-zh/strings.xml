@@ -1918,6 +1918,7 @@
 	<string name="wallet_refresh_address_failed">手续费已变更且刷新失败，请重试。</string>
 	<string name="wallet_setting_currency_desc">%1$s (%2$s)</string>
 	<string name="wallet_summary_tip_all">Safe 金库、观察钱包和隐藏的资产不计入统计</string>
+	<string name="wallet_summary_tip_created">隐藏的资产不计入统计</string>
 	<string name="wallet_summary_tip_safe">共管的 Safe 金库不计入统计</string>
 	<string name="wallet_transaction_continue_count_down">继续 （%1$d）</string>
 	<string name="wallet_transaction_that_time_value_tip">交易时的价值</string>
