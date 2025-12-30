@@ -86,6 +86,7 @@
 	<string name="address_validity_reminder">您已經超過 %3$s 天沒有使用地址 %1$s（%2$s），請注意檢查地址是否仍然有效。</string>
 	<string name="Addresses">地址</string>
 	<string name="Admin">管理員</string>
+	<string name="advanced_trade">掛單交易</string>
 	<string name="After_1_minute">1分鐘之後</string>
 	<string name="After_30_minutes">30分鐘之後</string>
 	<string name="Agree_and_Continue">同意並繼續</string>
