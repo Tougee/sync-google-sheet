@@ -1652,9 +1652,9 @@
 	<string name="swap_confirmation">確認交易</string>
 	<string name="swap_desc">%1$s 將會在交易完成後存入您的錢包</string>
 	<string name="swap_failed">交易失敗</string>
-	<string name="swap_invalid_amount">沒有報價。請嘗試修改金額。</string>
+	<string name="swap_invalid_amount">沒有報價。請嘗試修改金額。試試掛單？不受金額和幣種限制。</string>
 	<string name="swap_message_success">您的交易已傳送至網路，將很快被處理。</string>
-	<string name="swap_no_available_quote">沒有報價。請嘗試切換幣種。</string>
+	<string name="swap_no_available_quote">沒有報價。請嘗試切換幣種。試試掛單？不受金額和幣種限制。</string>
 	<string name="swap_not_supported">不支援 %1$s 交易。</string>
 	<string name="swap_order_paid">已支付</string>
 	<string name="swap_order_received">已收到</string>
@@ -1761,7 +1761,6 @@
 	<string name="transfer_without_pin">轉賬前請先設定 PIN</string>
 	<string name="Transferring_chat_Progress">傳輸聊天記錄（%1$s%%）</string>
 	<string name="Trending">熱門資產</string>
-	<string name="try_advanced_trade">試試掛單？不受金額和幣種限制。</string>
 	<string name="Try_Again">請重試</string>
 	<string name="Trying_connect_tip_network">正在連線 TIP 網路</string>
 	<string name="Trying_connect_tip_node">正在連線節點…</string>

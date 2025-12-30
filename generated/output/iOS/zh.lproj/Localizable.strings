@@ -1432,9 +1432,9 @@
 "suspicious_link" = "可疑链接";
 "swap_confirmation" = "确认交易";
 "swap_failed" = "交易失败";
-"swap_invalid_amount" = "没有报价。请尝试修改金额。";
+"swap_invalid_amount" = "没有报价。请尝试修改金额。试试挂单？不受金额和币种限制。";
 "swap_message_success" = "您的交易已发送至网络，将很快被处理。";
-"swap_no_available_quote" = "没有报价。请尝试切换币种。";
+"swap_no_available_quote" = "没有报价。请尝试切换币种。试试挂单？不受金额和币种限制。";
 "swap_not_supported" = "不支持 %@ 交易。";
 "swap_order_paid" = "已支付";
 "swap_order_received" = "已收到";
@@ -1533,7 +1533,6 @@
 "transfer_to_watch_wallet_warning" = "这是一个观察钱包。你确定要使用它来接收资产吗？";
 "transferring_chat_progress" = "传输聊天记录（%@%%）";
 "trending" = "热门资产";
-"try_advanced_trade" = "试试挂单？不受金额和币种限制。";
 "try_again" = "请重试";
 "trying_connect_tip_network" = "正在连接 TIP 网络";
 "trying_connect_tip_node" = "正在连接节点...";
