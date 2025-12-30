@@ -86,7 +86,6 @@
 	<string name="address_validity_reminder">您已经超过 %3$s 天没有使用地址 %1$s（%2$s），请注意检查地址是否仍然有效。</string>
 	<string name="Addresses">地址</string>
 	<string name="Admin">管理员</string>
-	<string name="advanced_trade">挂单交易</string>
 	<string name="After_1_minute">1分钟之后</string>
 	<string name="After_30_minutes">30分钟之后</string>
 	<string name="Agree_and_Continue">同意并继续</string>
@@ -1762,6 +1761,7 @@
 	<string name="transfer_without_pin">转账前请先设置 PIN</string>
 	<string name="Transferring_chat_Progress">传输聊天记录（%1$s%%）</string>
 	<string name="Trending">热门资产</string>
+	<string name="try_advanced_trade">试试挂单？不受金额和币种限制。</string>
 	<string name="Try_Again">请重试</string>
 	<string name="Trying_connect_tip_network">正在连接 TIP 网络</string>
 	<string name="Trying_connect_tip_node">正在连接节点…</string>

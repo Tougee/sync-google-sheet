@@ -60,7 +60,6 @@
 "address_validity_reminder" = "您已經超過 %3$@ 天沒有使用地址 %1$@（%2$@），請注意檢查地址是否仍然有效。";
 "addresses" = "地址";
 "admin" = "管理員";
-"advanced_trade" = "掛單交易";
 "agree_hint" = "繼續使用即表示你同意 %@ 和 %@";
 "albums" = "相簿";
 "alert" = "價格預警";
@@ -1534,6 +1533,7 @@
 "transfer_to_watch_wallet_warning" = "這是一個觀察錢包。你確定要使用它來接收資產嗎？";
 "transferring_chat_progress" = "傳輸聊天記錄（%@%%）";
 "trending" = "熱門資產";
+"try_advanced_trade" = "試試掛單？不受金額和幣種限制。";
 "try_again" = "請重試";
 "trying_connect_tip_network" = "正在連線 TIP 網路";
 "trying_connect_tip_node" = "正在連線節點...";

@@ -60,7 +60,6 @@
 "address_validity_reminder" = "The address %1$@(%2$@) has not been used for over %3$@ days. Please check if the address is still valid.";
 "addresses" = "Addresses";
 "admin" = "Administrador";
-"advanced_trade" = "Advanced Trade";
 "agree_hint" = "Al continuar, aceptas el %@ y el %@.";
 "albums" = "Álbumes";
 "alert" = "Alert";
@@ -1534,6 +1533,7 @@
 "transfer_to_watch_wallet_warning" = "This is a watch-only wallet. Are you sure you want to use it to receive assets?";
 "transferring_chat_progress" = "Transferring Chat (%@%%)";
 "trending" = "Tendencias";
+"try_advanced_trade" = " Try placing a limit order? No restrictions on amount or token.";
 "try_again" = "Intentar otra vez";
 "trying_connect_tip_network" = "Conexión de la red TIP";
 "trying_connect_tip_node" = "Intentando conectar el nodo TIP";
