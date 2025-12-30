@@ -2440,4 +2440,5 @@
   <string name="safe_vault_owner" platform="android, iOS">所有者</string>
   <string name="safe_vault_member" platform="android, iOS">共管人</string>
   <string name="advanced_trade" platform="android, iOS">挂单交易</string>
+  <string name="try_advanced_trade" platform="android, iOS">试试挂单？不受金额和币种限制。</string>
 </resources>

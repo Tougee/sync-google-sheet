@@ -2462,5 +2462,5 @@
   <string name="order_status" platform="android, iOS">Status</string>
   <string name="safe_vault_owner" platform="android, iOS">Owner</string>
   <string name="safe_vault_member" platform="android, iOS">Member</string>
-  <string name="advanced_trade" platform="android, iOS">Advanced Trade</string>
+  <string name="try_advanced_trade" platform="android, iOS"> Try placing a limit order? No restrictions on amount or token.</string>
 </resources>
