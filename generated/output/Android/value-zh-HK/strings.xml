@@ -86,6 +86,7 @@
 	<string name="address_validity_reminder">您已經超過 %3$s 天沒有使用地址 %1$s（%2$s），請注意檢查地址是否仍然有效。</string>
 	<string name="Addresses">地址</string>
 	<string name="Admin">管理員</string>
+	<string name="advanced_trade">掛單交易</string>
 	<string name="After_1_minute">1分鐘之後</string>
 	<string name="After_30_minutes">30分鐘之後</string>
 	<string name="Agree_and_Continue">同意並繼續</string>
@@ -1652,7 +1653,7 @@
 	<string name="swap_confirmation">確認交易</string>
 	<string name="swap_desc">%1$s 將會在交易完成後存入您的錢包</string>
 	<string name="swap_failed">交易失敗</string>
-	<string name="swap_invalid_amount">沒有報價。請嘗試修改金額。試試掛單？不受金額和幣種限制。</string>
+	<string name="swap_invalid_amount">沒有報價。請嘗試修改金額。</string>
 	<string name="swap_message_success">您的交易已發送至網絡，將很快被處理。</string>
 	<string name="swap_no_available_quote">沒有報價。請嘗試切換幣種。試試掛單？不受金額和幣種限制。</string>
 	<string name="swap_not_supported">不支持 %1$s 交易。</string>
