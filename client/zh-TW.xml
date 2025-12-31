@@ -1911,7 +1911,7 @@
   <string name="swap_message_success" platform="android,iOS">您的交易已傳送至網路，將很快被處理。</string>
   <string name="Price" platform="android,iOS">價格</string>
   <string name="balance_changes" platform="android,iOS">資產變動</string>
-  <string name="swap_no_available_quote" platform="android,iOS">暫無報價。請嘗試切換幣種。試試掛單？不受金額和幣種限制。</string>
+  <string name="swap_no_available_quote" platform="android,iOS">暫無報價，請嘗試切換幣種。試試掛單？不受金額和幣種限制。</string>
   <string name="swap_invalid_amount" platform="android,iOS">沒有報價。請嘗試修改金額。</string>
   <string name="swap_send" platform="android,iOS">支付</string>
   <string name="swap_receive" platform="android,iOS">獲得</string>
