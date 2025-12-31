@@ -1912,7 +1912,7 @@
   <string name="Price" platform="android,iOS">价格</string>
   <string name="balance_changes" platform="android,iOS">资产变动</string>
   <string name="swap_no_available_quote" platform="android,iOS">没有报价。请尝试切换币种。试试挂单？不受金额和币种限制。</string>
-  <string name="swap_invalid_amount" platform="android,iOS">没有报价。请尝试修改金额。试试挂单？不受金额和币种限制。</string>
+  <string name="swap_invalid_amount" platform="android,iOS">没有报价。请尝试修改金额。</string>
   <string name="swap_send" platform="android,iOS">支付</string>
   <string name="swap_receive" platform="android,iOS">获得</string>
   <string name="swap_not_supported" platform="android,iOS">不支持 %1$s 交易。</string>

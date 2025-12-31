@@ -1934,7 +1934,7 @@
   <string name="Price" platform="android,iOS">Price</string>
   <string name="balance_changes" platform="android,iOS">Balance changes</string>
   <string name="swap_no_available_quote" platform="android,iOS">No available quote found. Please try a different token. Try placing a limit order? No restrictions on amount or token.</string>
-  <string name="swap_invalid_amount" platform="android,iOS">No available quote found. Please try a different amount. Try placing a limit order? No restrictions on amount or token.</string>
+  <string name="swap_invalid_amount" platform="android,iOS">No available quote found. Please try a different amount.</string>
   <string name="swap_send" platform="android,iOS">Send</string>
   <string name="swap_receive" platform="android,iOS">Receive</string>
   <string name="swap_not_supported" platform="android,iOS">%1$s swapping is not supported.</string>
@@ -2462,4 +2462,5 @@
   <string name="order_status" platform="android, iOS">Status</string>
   <string name="safe_vault_owner" platform="android, iOS">Owner</string>
   <string name="safe_vault_member" platform="android, iOS">Member</string>
+  <string name="advanced_trade" platform="android, iOS">Advanced Trade</string>
 </resources>
