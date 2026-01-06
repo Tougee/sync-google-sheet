@@ -2463,4 +2463,12 @@
   <string name="safe_vault_owner" platform="android, iOS">Owner</string>
   <string name="safe_vault_member" platform="android, iOS">Member</string>
   <string name="advanced_trade" platform="android, iOS">Advanced Trade</string>
+  <string name="common_wallet_now_supports_btc" platform="android, iOS">Common Wallet now supports Bitcoin</string>
+  <string name="feature_decentralized" platform="android, iOS">Decentralized</string>
+  <string name="feature_decentralized_description" platform="android, iOS">A fully decentralized wallet where you control the private key.</string>
+  <string name="feature_seamless" platform="android, iOS">Seamless</string>
+  <string name="feature_seamless_description" platform="android, iOS">Lightning-fast interface with instant page loading and rapid response.</string>
+  <string name="feature_compatibility" platform="android, iOS">Compatibility</string>
+  <string name="feature_compatibility_description" platform="android, iOS">Supports importing private keys and watch-only addresses from other wallets.</string>
+  <string name="unlock_by_pin" platform="android, iOS">Unlock by PIN</string>
 </resources>
