@@ -2440,4 +2440,12 @@
   <string name="safe_vault_owner" platform="android, iOS">所有者</string>
   <string name="safe_vault_member" platform="android, iOS">共管人</string>
   <string name="advanced_trade" platform="android, iOS">掛單交易</string>
+  <string name="common_wallet_now_supports_btc" platform="android, iOS">普通錢包現已支持比特幣</string>
+  <string name="feature_decentralized" platform="android, iOS">去中心化</string>
+  <string name="feature_decentralized_description" platform="android, iOS">完全去中心化的錢包，你掌控私鑰。</string>
+  <string name="feature_seamless" platform="android, iOS">無縫體驗</string>
+  <string name="feature_seamless_description" platform="android, iOS">閃電般的交互體驗，頁面加載與響應更迅速。</string>
+  <string name="feature_compatibility" platform="android, iOS">兼容性</string>
+  <string name="feature_compatibility_description" platform="android, iOS">支持從其他錢包導入私鑰與觀察地址。</string>
+  <string name="unlock_by_pin" platform="android, iOS">使用 PIN 解鎖</string>
 </resources>

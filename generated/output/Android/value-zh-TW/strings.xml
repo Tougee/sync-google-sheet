@@ -407,6 +407,7 @@
 	<string name="Combine_utxo">歸集 UTXO</string>
 	<string name="Common_Wallet">普通錢包</string>
 	<string name="common_wallet_index">普通錢包 %1$s</string>
+	<string name="common_wallet_now_supports_btc">普通錢包現已支援比特幣</string>
 	<string name="Complete">完成</string>
 	<string name="Completed">已完成</string>
 	<string name="Confirm">確認</string>
@@ -758,6 +759,12 @@
 	<string name="Failure">錯誤</string>
 	<string name="fast">快速</string>
 	<string name="favorite">收藏</string>
+	<string name="feature_compatibility">相容性</string>
+	<string name="feature_compatibility_description">支援從其他錢包匯入私鑰與觀察地址。</string>
+	<string name="feature_decentralized">去中心化</string>
+	<string name="feature_decentralized_description">完全去中心化的錢包，你掌控私鑰。</string>
+	<string name="feature_seamless">無縫體驗</string>
+	<string name="feature_seamless_description">閃電般的互動體驗，頁面載入與響應更迅速。</string>
 	<string name="Fee">手續費</string>
 	<string name="fee_selection">手續費（%1$s）</string>
 	<string name="Feedback">反饋</string>
@@ -1799,6 +1806,7 @@
 	</plurals>
 	<string name="Unknown">未知</string>
 	<string name="unlimited_authorization_warning">這個應用可以提取你 %1$s 賬號（%2$s）裡所有的 %3$s 資產。</string>
+	<string name="unlock_by_pin">使用 PIN 解鎖</string>
 	<string name="Unlock_with_fingerprint">使用指紋解鎖</string>
 	<string name="unlock_with_fingerprint_desc">啟用後，您需要使用指紋解鎖以開啟 Mixin。</string>
 	<string name="Unmute">取消靜音</string>
