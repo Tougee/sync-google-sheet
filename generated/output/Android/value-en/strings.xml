@@ -1508,6 +1508,7 @@
 	<string name="send_to_contact_common_wallet_description">Send to your friends’ Common Wallets quickly and easily.</string>
 	<string name="Send_to_Contact_description">Send to your Mixin friends with privacy, zero fees, and instant delivery.</string>
 	<string name="send_to_other_wallet_description">Send to my other wallet using a crypto network</string>
+	<string name="send_token_minimum_amount">Send at least %1$s</string>
 	<string name="Send_transfer">Send</string>
 	<string name="send_without_compression">Send without compression</string>
 	<string name="Send_Without_Sound">Send Without Sound</string>
