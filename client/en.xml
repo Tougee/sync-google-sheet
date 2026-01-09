@@ -2471,4 +2471,5 @@
   <string name="feature_compatibility" platform="android, iOS">Compatibility</string>
   <string name="feature_compatibility_description" platform="android, iOS">Supports importing private keys and watch-only addresses from other wallets.</string>
   <string name="unlock_by_pin" platform="android, iOS">Unlock by PIN</string>
+  <string name="send_token_minimum_amount" platform="android, iOS">Send at least %1$s</string>
 </resources>

@@ -2448,4 +2448,5 @@
   <string name="feature_compatibility" platform="android, iOS">兼容性</string>
   <string name="feature_compatibility_description" platform="android, iOS">支持从其他钱包导入私钥与观察地址。</string>
   <string name="unlock_by_pin" platform="android, iOS">使用 PIN 解锁</string>
+  <string name="send_token_minimum_amount" platform="android, iOS">请发送至少 %1$s</string>
 </resources>
