@@ -2405,8 +2405,8 @@
   <string name="limited_time_free_condition_1" platform="android, iOS">隱私錢包轉賬到普通錢包、Mixin Safe 金庫。</string>
   <string name="limited_time_free_condition_2" platform="android, iOS">普通錢包轉賬到其他普通錢包、隱私錢包、Mixin Safe 金庫或聯絡人。</string>
   <string name="limited_time_free_description" platform="android, iOS">手續費按月、按實際消耗的手續費幣種和金額彙總返還到您的隱私錢包，閱讀檔案瞭解更多。</string>
-  <string name="trade_simple" platform="android, iOS">閃兌</string>
-  <string name="trade_advanced" platform="android, iOS">掛單</string>
+  <string name="trade_simple" platform="android, iOS">簡單兌換</string>
+  <string name="trade_advanced" platform="android, iOS">專業模式</string>
   <string name="trade_expiry" platform="android, iOS">過期</string>
   <string name="trade_expiry_never" platform="android, iOS">永不</string>
   <string name="trade_filled" platform="android, iOS">已成交</string>
