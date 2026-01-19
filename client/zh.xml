@@ -2405,8 +2405,8 @@
   <string name="limited_time_free_condition_1" platform="android, iOS">隐私钱包转账到普通钱包、Mixin Safe 金库。</string>
   <string name="limited_time_free_condition_2" platform="android, iOS">普通钱包转账到其他普通钱包、隐私钱包、Mixin Safe 金库或联系人。</string>
   <string name="limited_time_free_description" platform="android, iOS">手续费按月、按实际消耗的手续费币种和金额汇总返还到您的隐私钱包，阅读文档了解更多。</string>
-  <string name="trade_simple" platform="android, iOS">闪兑</string>
-  <string name="trade_advanced" platform="android, iOS">挂单</string>
+  <string name="trade_simple" platform="android, iOS">简单兑换</string>
+  <string name="trade_advanced" platform="android, iOS">专业模式</string>
   <string name="trade_expiry" platform="android, iOS">过期</string>
   <string name="trade_expiry_never" platform="android, iOS">永不</string>
   <string name="trade_filled" platform="android, iOS">已成交</string>
