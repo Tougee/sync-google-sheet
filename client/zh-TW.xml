@@ -609,9 +609,12 @@
   <string name="error_card_holder_name_not_same" platform="android">錯誤 10608: 卡片異常，請稍後嘗試正確的卡片</string>
   <string name="error_expired_session" platform="android">錯誤 10609: 交易會話過期</string>
   <string name="error_inconsistent_country" platform="android">錯誤 10610: 國家不一致</string>
-  <string name="error_invalid_swap" platform="android, iOS">錯誤 10611: 暫無報價，請稍後重試。</string>
-  <string name="error_invalid_quote_amount" platform="android, iOS">錯誤 10614: 輸入金額太小或太大，請重新輸入。</string>
-  <string name="error_no_available_quote" platform="android, iOS">錯誤 10615: 暫不支援該交易對，請嘗試切換幣種。</string>
+  <string name="error_no_quote" platform="android, iOS">錯誤 10611: 暫無報價</string>
+  <string name="error_no_quote_detailed" platform="android, iOS">錯誤 10611: 暫無報價，請稍後重試。試試掛單？不受金額和幣種限制。</string>
+  <string name="error_invalid_quote_amount" platform="android, iOS">錯誤 10614: 輸入金額太小或太大</string>
+  <string name="error_invalid_quote_amount_detailed" platform="android, iOS">錯誤 10614: 金額超出最大下單金額 %1$s，請重新輸入。試試掛單？不受金額和幣種限制。</string>
+  <string name="error_trading_pair_not_supported" platform="android, iOS">錯誤 10615: 暫不支援該交易對</string>
+  <string name="error_trading_pair_not_supported_detailed" platform="android,iOS">錯誤 10615: 暫不支援該交易對，請嘗試切換幣種。試試掛單？不受金額和幣種限制。</string>
   <string name="error_permission" platform="android, Desktop">請開啟相關許可權</string>
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">錯誤 20110：手機號碼不合法</string>
   <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">錯誤 10003：傳送簡訊失敗</string>
@@ -1911,8 +1914,6 @@
   <string name="swap_message_success" platform="android,iOS">您的交易已傳送至網路，將很快被處理。</string>
   <string name="Price" platform="android,iOS">價格</string>
   <string name="balance_changes" platform="android,iOS">資產變動</string>
-  <string name="swap_no_available_quote" platform="android,iOS">暫無報價，請嘗試切換幣種。試試掛單？不受金額和幣種限制。</string>
-  <string name="swap_invalid_amount" platform="android,iOS">沒有報價。請嘗試修改金額。</string>
   <string name="swap_send" platform="android,iOS">支付</string>
   <string name="swap_receive" platform="android,iOS">獲得</string>
   <string name="swap_not_supported" platform="android,iOS">不支援 %1$s 交易。</string>
