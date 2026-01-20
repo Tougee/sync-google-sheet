@@ -614,9 +614,12 @@
   <string name="error_card_holder_name_not_same" platform="android">ERROR 10608: Card anomaly, please try correct card later</string>
   <string name="error_expired_session" platform="android">ERROR 10609: Session expired</string>
   <string name="error_inconsistent_country" platform="android">ERROR 10610: Inconsistent country</string>
-  <string name="error_invalid_swap" platform="android, iOS">ERROR 10611: No quotes available at the moment, please try again later.</string>
-  <string name="error_invalid_quote_amount" platform="android, iOS">ERROR 10614: The input amount is either too small or too large, please adjust the amount.</string>
-  <string name="error_no_available_quote" platform="android, iOS">ERROR 10615: This trading pair is currently not supported, please try switching to a different token.</string>
+  <string name="error_no_quote" platform="android, iOS">ERROR 10611: No quotes available at the moment</string>
+  <string name="error_no_quote_detailed" platform="android, iOS">ERROR 10611: No quotes available at the moment, please try again later. Try placing a limit order? No restrictions on amount or token.</string>
+  <string name="error_invalid_quote_amount" platform="android, iOS">ERROR 10614: The input amount is either too small or too large</string>
+  <string name="error_invalid_quote_amount_detailed" platform="android, iOS">ERROR 10614: The amount exceeds the maximum allowable value of %1$s. Please re-enter the amount. Try placing a limit order? No restrictions on amount or token.</string>
+  <string name="error_trading_pair_not_supported" platform="android, iOS">ERROR 10615: This trading pair is currently not supported</string>
+  <string name="error_trading_pair_not_supported_detailed" platform="android,iOS">ERROR 10615: This trading pair is not supported yet. Please try switching tokens. Try placing a limit order? No restrictions on amount or token.</string>
   <string name="error_permission" platform="android, Desktop">Please open the necessary permissions</string>
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">ERROR 20110: Invalid phone number</string>
   <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">ERROR 10003: Failed to deliver SMS</string>
@@ -1933,8 +1936,6 @@
   <string name="swap_message_success" platform="android,iOS">Your transaction has been sent to network and will be processed within a few minutes.</string>
   <string name="Price" platform="android,iOS">Price</string>
   <string name="balance_changes" platform="android,iOS">Balance changes</string>
-  <string name="swap_no_available_quote" platform="android,iOS">No available quote found. Please try a different token. Try placing a limit order? No restrictions on amount or token.</string>
-  <string name="swap_invalid_amount" platform="android,iOS">No available quote found. Please try a different amount.</string>
   <string name="swap_send" platform="android,iOS">Send</string>
   <string name="swap_receive" platform="android,iOS">Receive</string>
   <string name="swap_not_supported" platform="android,iOS">%1$s swapping is not supported.</string>
