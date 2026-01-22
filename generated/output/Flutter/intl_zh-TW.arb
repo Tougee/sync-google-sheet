@@ -200,6 +200,7 @@
 "errorTooSmallTransferAmount" : "錯誤 20120：轉賬金額太小",
 "errorTooSmallWithdrawAmount" : "錯誤 20127：提現金額太小",
 "errorTranscriptForward" : "請在所有附件下載完成之後再轉發",
+"errorTransferToDeactivatedUser" : "錯誤 20160：無法給已經刪除的賬號轉賬",
 "errorUnableToOpenMedia" : "無法找到能開啟該媒體的應用",
 "errorUnknownWithCode" : "錯誤：{arg0}",
 "errorUnknownWithMessage" : "錯誤：{arg0}",

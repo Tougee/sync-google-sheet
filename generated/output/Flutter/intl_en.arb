@@ -200,6 +200,7 @@
 "errorTooSmallTransferAmount" : "ERROR 20120: Transfer amount is too small",
 "errorTooSmallWithdrawAmount" : "ERROR 20127: Withdraw amount too small",
 "errorTranscriptForward" : "Please forward all attachments after they have been downloaded",
+"errorTransferToDeactivatedUser" : "ERROR 20160: Transfers cannot be made to a deactivated user",
 "errorUnableToOpenMedia" : "Can't find an app able to open this media.",
 "errorUnknownWithCode" : "ERROR: {arg0}",
 "errorUnknownWithMessage" : "ERROR: {arg0}",

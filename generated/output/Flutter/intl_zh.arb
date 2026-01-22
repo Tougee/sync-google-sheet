@@ -200,6 +200,7 @@
 "errorTooSmallTransferAmount" : "错误 20120：转账金额太小",
 "errorTooSmallWithdrawAmount" : "错误 20127：提现金额太小",
 "errorTranscriptForward" : "请在所有附件下载完成之后再转发",
+"errorTransferToDeactivatedUser" : "错误 20160：无法给已经删除的账号转账",
 "errorUnableToOpenMedia" : "无法找到能打开该媒体的应用",
 "errorUnknownWithCode" : "错误：{arg0}",
 "errorUnknownWithMessage" : "错误：{arg0}",
