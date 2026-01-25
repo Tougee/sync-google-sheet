@@ -260,6 +260,7 @@
 	<string name="bots_title">Bots</string>
 	<string name="bottom_transfer_stranger_tip">Mixin ID %1$s is not on your contact list. Make sure the recipient you chosen is correct. If you transfer to the wrong person, your assets will be lost!</string>
 	<string name="Browser">Browser</string>
+	<string name="btc_tx_already_speedy">Current fee rate is already sufficient; acceleration is meaningless.</string>
 	<string name="buy">Buy</string>
 	<string name="buy_asset">Buy %1$s</string>
 	<string name="buy_crypto_with_cash">Purchase crypto with cash</string>
@@ -1648,6 +1649,7 @@
 	<string name="sort_by_recent">Sort by Recent</string>
 	<string name="sort_by_value">Sort by Value</string>
 	<string name="speed_up">Speed Up</string>
+	<string name="speed_up_failed">Speed up failed</string>
 	<string name="speed_up_transaction">Speed Up Transaction</string>
 	<string name="speed_up_transaction_description">If the transaction is too far along this may not be possible</string>
 	<string name="Star">Star</string>

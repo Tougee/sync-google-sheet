@@ -2451,4 +2451,6 @@
   <string name="feature_compatibility_description" platform="android, iOS">支持從其他錢包導入私鑰與觀察地址。</string>
   <string name="unlock_by_pin" platform="android, iOS">使用 PIN 解鎖</string>
   <string name="send_token_minimum_amount" platform="android, iOS">請發送至少 %1$s</string>
+  <string name="speed_up_failed" platform="android, iOS">加速失敗</string>
+  <string name="btc_tx_already_speedy" platform="android, iOS">當前費率已經足夠，無需加速。</string>
 </resources>

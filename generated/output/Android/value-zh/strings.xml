@@ -258,6 +258,7 @@
 	<string name="bots_title">机器人</string>
 	<string name="bottom_transfer_stranger_tip">Mixin ID %1$s 不是您的联系人，请确认收款人是否正确。如果您转错了人资产将无法追回！</string>
 	<string name="Browser">浏览器</string>
+	<string name="btc_tx_already_speedy">当前费率已经足够，无需加速。</string>
 	<string name="buy">购买</string>
 	<string name="buy_asset">购买 %1$s</string>
 	<string name="buy_crypto_with_cash">用现金购买加密货币</string>
@@ -1632,6 +1633,7 @@
 	<string name="sort_by_recent">按最近排序</string>
 	<string name="sort_by_value">按价值排序</string>
 	<string name="speed_up">加速</string>
+	<string name="speed_up_failed">加速失败</string>
 	<string name="speed_up_transaction">加速交易</string>
 	<string name="speed_up_transaction_description">如果交易已接近完成，可能无法加速</string>
 	<string name="Star">Star</string>
