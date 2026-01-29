@@ -1223,6 +1223,7 @@
 	</plurals>
 	<string name="pending_transaction_one">有 1 筆交易處理中</string>
 	<string name="pending_transactions_count">有 %1$d 筆交易處理中</string>
+	<string name="periodic_sms_verification_benefits">定期進行簡訊驗證有助於提升賬號安全，如果當前手機號已失效請儘快更換手機號。</string>
 	<string name="permission_audio">要允許錄製聲音嗎？</string>
 	<string name="permission_camera">要允許拍攝照片嗎？</string>
 	<string name="permission_video">要允許拍攝影片嗎？</string>
@@ -1877,6 +1878,8 @@
 	<string name="verification_failed_description">您的驗證失敗，可能是因為未提交所有必需的身份證明檔案或某些檔案存在問題。</string>
 	<string name="Verify">驗證</string>
 	<string name="Verify_by_Biometric">用生物識別來驗證</string>
+	<string name="Verify_Mobile_Number">驗證手機號碼</string>
+	<string name="Verify_Now">立即驗證</string>
 	<string name="Verify_PIN">驗證 PIN</string>
 	<string name="Verifying">驗證中…</string>
 	<string name="verifying_payment">支付檢測中…</string>

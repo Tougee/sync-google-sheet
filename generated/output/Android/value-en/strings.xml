@@ -1237,6 +1237,7 @@
 	</plurals>
 	<string name="pending_transaction_one">1 Pending Transaction</string>
 	<string name="pending_transactions_count">%1$d Pending Transactions</string>
+	<string name="periodic_sms_verification_benefits">Periodic SMS verification helps improve account security. If your current phone number is no longer valid, please update it as soon as possible.</string>
 	<string name="permission_audio">Allow to record audio?</string>
 	<string name="permission_camera">Allow to take pictures?</string>
 	<string name="permission_video">Allow to record video?</string>
@@ -1894,6 +1895,8 @@
 	<string name="verification_failed_description">Your verification failed, possibly because some required identification documents were not submitted or there was a problem with some documents.</string>
 	<string name="Verify">Verify</string>
 	<string name="Verify_by_Biometric">Verify by Biometric</string>
+	<string name="Verify_Mobile_Number">Verify Mobile Number</string>
+	<string name="Verify_Now">Verify Now</string>
 	<string name="Verify_PIN">Verify PIN</string>
 	<string name="Verifying">Verifying…</string>
 	<string name="verifying_payment">Verifying payment…</string>

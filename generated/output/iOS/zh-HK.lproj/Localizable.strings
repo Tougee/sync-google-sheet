@@ -1052,6 +1052,7 @@
 "pending_confirmations" = "%d/%d 區塊確認數";
 "pending_transaction_one" = "有 1 筆交易處理中";
 "pending_transactions_count" = "有 %d 筆交易處理中";
+"periodic_sms_verification_benefits" = "定期進行短信驗證有助於提升賬號安全，如果當前手機號已失效請儘快更換手機號。";
 "permission_denied_camera_hint" = "Mixin 需要攝像頭權限，請點擊'設置'打開系統授權。";
 "permission_denied_microphone_hint" = "Mixin 需要麥克風權限，請點擊'設置'打開系統授權。";
 "permission_denied_network_hint" = "Mixin 需要無線數據權限，請點擊'設置'打開系統授權。";
@@ -1635,6 +1636,8 @@
 "value_now" = "價值 %@";
 "value_then" = "當時價值 %@";
 "verify" = "驗證";
+"verify_mobile_number" = "驗證手機號碼";
+"verify_now" = "立即驗證";
 "verify_pin" = "驗證 PIN";
 "verifying_payment" = "支付檢測中...";
 "verifying_payment_description" = "支付檢測中，請耐心等待";
