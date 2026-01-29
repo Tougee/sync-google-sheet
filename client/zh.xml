@@ -2453,4 +2453,7 @@
   <string name="send_token_minimum_amount" platform="android, iOS">请发送至少 %1$s</string>
   <string name="speed_up_failed" platform="android, iOS">加速失败</string>
   <string name="btc_tx_already_speedy" platform="android, iOS">当前费率已经足够，无需加速。</string>
+  <string name="Verify_Mobile_Number" platform="android, iOS">验证手机号码</string>
+  <string name="periodic_sms_verification_benefits" platform="android, iOS">定期进行短信验证有助于提升账号安全，如果当前手机号已失效请尽快更换手机号。</string>
+  <string name="Verify_Now" platform="android, iOS">立即验证</string>
 </resources>
