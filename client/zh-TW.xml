@@ -1014,6 +1014,7 @@
   <string name="NSFaceIDUsageDescription" platform="iOSAuthorization">Mixin 使用面容識別來驗證支付</string>
   <string name="NSLocationWhenInUseUsageDescription" platform="iOSAuthorization">允許獲取位置讓您可以在對話中傳送當前的位置或附近的地點</string>
   <string name="NSMicrophoneUsageDescription" platform="iOSAuthorization">Mixin 使用你的麥克風錄製語音訊息發給你的聯絡人</string>
+  <string name="NSPhotoLibraryAddUsageDescription" platform="iOSAuthorization">僅在您主動儲存時，Mixin才會將聊天中的圖片、影片、二維碼及 Inscription 圖片儲存到系統相簿</string>
   <string name="number_reached_limit" platform="android">已達到上限</string>
   <string name="objects" platform="Desktop">物件</string>
   <string name="Off" platform="android, iOS">關閉</string>
@@ -1068,6 +1069,10 @@
   <string name="pending_confirmations" platform="iOS">%d/%d 區塊確認數</string>
   <string name="permission_audio" platform="android">要允許錄製聲音嗎？</string>
   <string name="permission_camera" platform="android">要允許拍攝照片嗎？</string>
+  <string name="permission_denied_camera" platform="iOS">授權使用相機</string>
+  <string name="permission_denied_camera_hint" platform="iOS">Mixin 需要相機許可權，請點選'設定'並調整授權。</string>
+  <string name="permission_denied_photos" platform="iOS">授權寫入相簿</string>
+  <string name="permission_denied_photos_hint" platform="iOS">Mixin 需要寫入相簿許可權，請點選'設定'並調整授權。</string>
   <string name="permission_denied_microphone_hint" platform="iOS">Mixin 需要麥克風許可權，請點選'設定'開啟系統授權。</string>
   <string name="permission_denied_network_hint" platform="iOS">Mixin 需要無線資料許可權，請點選'設定'開啟系統授權。</string>
   <string name="permission_video" platform="android">要允許拍攝影片嗎？</string>

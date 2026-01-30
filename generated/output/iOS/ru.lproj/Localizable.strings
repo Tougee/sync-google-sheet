@@ -1052,10 +1052,12 @@
 "pending_transaction_one" = "1 Pending Transaction";
 "pending_transactions_count" = "%d Pending Transactions";
 "periodic_sms_verification_benefits" = "Periodic SMS verification helps improve account security. If your current phone number is no longer valid, please update it as soon as possible.";
-"permission_denied_camera" = "Camera Permission Denied";
-"permission_denied_camera_hint" = "У Mixin нет разрешения на использование вашей камеры. Пожалуйста, нажмите Настройки, чтобы открыть системные настройки";
+"permission_denied_camera" = "Camera Access Denied";
+"permission_denied_camera_hint" = "Mixin doesn't have permission to use your camera. Tap Settings to authorize.";
 "permission_denied_microphone_hint" = "У Mixin нет разрешения на использование вашего микрофона. Пожалуйста, нажмите Настройки, чтобы открыть системные настройки.";
 "permission_denied_network_hint" = "У Mixin нет разрешения на использование беспроводных данных. Пожалуйста, нажмите Настройки, чтобы открыть системные настройки";
+"permission_denied_photos" = "Adding Photo Denied";
+"permission_denied_photos_hint" = "Mixin doesn't have permission to add photo to your library. Tap Settings to authorize.";
 "permissions" = "Разрешения";
 "phone_as_key_shard" = "Your mobile number will be associated with a key shard of the MPC wallet managed by you";
 "phone_call" = "Телефонный звонок";
@@ -1068,7 +1070,6 @@
 "photo_saved" = "Фото сохранено.";
 "photo_count" = "%d фото";
 "photos" = "Фото";
-"pick_from_library" = "Выбрать из библиотеки";
 "pin" = "PIN";
 "pin_change" = "изменение PIN-кода";
 "pin_check_tip" = "Вас будут периодически спрашивать об этом, чтобы помочь вам запомнить его.";

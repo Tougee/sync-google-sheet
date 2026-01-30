@@ -3,4 +3,4 @@
 "nsfaceidusagedescription" = "Mixin 使用面容識別來驗證支付";
 "nslocationwheninuseusagedescription" = "允許獲取位置讓您可以在對話中傳送當前的位置或附近的地點";
 "nsmicrophoneusagedescription" = "Mixin 使用你的麥克風錄製語音訊息發給你的聯絡人";
-"nsphotolibraryusagedescription" = "Mixin 需要訪問相簿的許可權來設定頭像或在聊天室裡給你的聯絡人傳送照片";
+"nsphotolibraryaddusagedescription" = "僅在您主動儲存時，Mixin才會將聊天中的圖片、影片、二維碼及 Inscription 圖片儲存到系統相簿";

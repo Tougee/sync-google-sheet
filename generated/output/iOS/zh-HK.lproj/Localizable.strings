@@ -1053,9 +1053,11 @@
 "pending_transactions_count" = "有 %d 筆交易處理中";
 "periodic_sms_verification_benefits" = "定期進行短信驗證有助於提升賬號安全，如果當前手機號已失效請儘快更換手機號。";
 "permission_denied_camera" = "授權使用相機";
-"permission_denied_camera_hint" = "Mixin 需要攝像頭權限，請點擊'設置'打開系統授權。";
+"permission_denied_camera_hint" = "Mixin 需要相機權限，請點擊'設置'並調整授權。";
 "permission_denied_microphone_hint" = "Mixin 需要麥克風權限，請點擊'設置'打開系統授權。";
 "permission_denied_network_hint" = "Mixin 需要無線數據權限，請點擊'設置'打開系統授權。";
+"permission_denied_photos" = "授權寫入相冊";
+"permission_denied_photos_hint" = "Mixin 需要寫入相冊權限，請點擊'設置'並調整授權。";
 "permissions" = "權限列表";
 "phone_as_key_shard" = "手機號將關聯到由您管理的 MPC 錢包的一個密鑰分片";
 "phone_call" = "電話呼叫";
@@ -1068,7 +1070,6 @@
 "photo_saved" = "圖片已成功保存在相冊";
 "photo_count" = "%d 張圖片";
 "photos" = "照片";
-"pick_from_library" = "打開相冊";
 "pin" = "PIN";
 "pin_change" = "修改 PIN";
 "pin_check_tip" = "定期輸入 PIN 有助於記住該 PIN";

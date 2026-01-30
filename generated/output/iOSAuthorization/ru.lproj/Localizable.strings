@@ -3,4 +3,4 @@
 "nsfaceidusagedescription" = "Mixin uses Face ID to authorize payment";
 "nslocationwheninuseusagedescription" = "Turn on location services to send your current location or nearby places in conversation";
 "nsmicrophoneusagedescription" = "Mixin uses your microphone to record voice messages to share with your contacts";
-"nsphotolibraryusagedescription" = "Mixin uses the photo library to set profile photo, and send photo to your contact in chat";
+"nsphotolibraryaddusagedescription" = "Mixin will save chat images, videos, QR codes, and inscription images to your photo library only when you choose to do so";

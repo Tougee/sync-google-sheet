@@ -3,4 +3,4 @@
 "nsfaceidusagedescription" = "Face IDでの支払いを許可";
 "nslocationwheninuseusagedescription" = "位置情報へのアクセスは、位置情報の共有に使用されます";
 "nsmicrophoneusagedescription" = "マイクは、通話やボイスメッセージに使用されます";
-"nsphotolibraryusagedescription" = "アルバムは、プロフィール画像の設定、画像の共有に使用されます";
+"nsphotolibraryaddusagedescription" = "Mixin は、あなたが保存を選択した場合にのみ、チャット内の画像・動画・QRコードおよび Inscription 画像をフォトライブラリに保存します。";
