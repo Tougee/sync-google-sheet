@@ -62,7 +62,6 @@
 "admin" = "Admin";
 "advanced_trade" = "Advanced Trade";
 "agree_hint" = "By proceeding, you agree to the %@ and %@.";
-"albums" = "Albums";
 "alert" = "Alert";
 "alert_frequency" = "Frequency";
 "alert_frequency_daily" = "Once a day";
@@ -1053,10 +1052,10 @@
 "pending_transaction_one" = "1 Pending Transaction";
 "pending_transactions_count" = "%d Pending Transactions";
 "periodic_sms_verification_benefits" = "Periodic SMS verification helps improve account security. If your current phone number is no longer valid, please update it as soon as possible.";
+"permission_denied_camera" = "Camera Permission Denied";
 "permission_denied_camera_hint" = "Mixin doesn't have permission to use your camera. Please tap Setting to open system settings.";
 "permission_denied_microphone_hint" = "Mixin doesn't have permission to use your microphone. Please tap Setting to open system settings.";
 "permission_denied_network_hint" = "Mixin doesn't have permission to use wireless data. Please tap Setting to open system settings.";
-"permission_denied_photo_library" = "Mixin doesn't have permission to use your photo library. Please tap Setting to open system settings.";
 "permissions" = "Permissions";
 "phone_as_key_shard" = "Your mobile number will be associated with a key shard of the MPC wallet managed by you";
 "phone_call" = "Phone call";

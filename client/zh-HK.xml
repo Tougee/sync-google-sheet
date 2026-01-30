@@ -62,7 +62,6 @@
   <string name="After_30_minutes" platform="android">30分鐘之後</string>
   <string name="Agree_and_Continue" platform="android">同意並繼續</string>
   <string name="agree_hint" platform="iOS">繼續使用即表示你同意 %@ 和 %@</string>
-  <string name="Albums" platform="iOS">相冊</string>
   <string name="alert_key_contact_audio_call_cancelled_message" platform="iOS">對方已取消語音通話</string>
   <string name="alert_key_contact_audio_call_message" platform="android, iOS">發起了語音通話</string>
   <string name="alert_key_contact_audio_message" platform="android, iOS">發送一條語音</string>
@@ -1070,10 +1069,10 @@
   <string name="pending_confirmations" platform="iOS">%d/%d 區塊確認數</string>
   <string name="permission_audio" platform="android">要允許錄製聲音嗎？</string>
   <string name="permission_camera" platform="android">要允許拍攝照片嗎？</string>
+  <string name="permission_denied_camera" platform="iOS">授權使用相機</string>
   <string name="permission_denied_camera_hint" platform="iOS">Mixin 需要攝像頭權限，請點擊'設置'打開系統授權。</string>
   <string name="permission_denied_microphone_hint" platform="iOS">Mixin 需要麥克風權限，請點擊'設置'打開系統授權。</string>
   <string name="permission_denied_network_hint" platform="iOS">Mixin 需要無線數據權限，請點擊'設置'打開系統授權。</string>
-  <string name="permission_denied_photo_library" platform="iOS">Mixin 需要相冊權限，請點擊'設置'打開系統授權。</string>
   <string name="permission_video" platform="android">要允許拍攝視頻嗎？</string>
   <string name="Permissions" platform="android, iOS">權限列表</string>
   <string name="Phone_call" platform="android, iOS">電話呼叫</string>
