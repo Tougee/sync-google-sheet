@@ -889,7 +889,7 @@
   <string name="NSFaceIDUsageDescription" platform="iOSAuthorization">Mixin usa Face ID para autorizar el pago</string>
   <string name="NSLocationWhenInUseUsageDescription" platform="iOSAuthorization">Activa los servicios de ubicación para enviar tu ubicación actual o lugares cercanos en una conversación</string>
   <string name="NSMicrophoneUsageDescription" platform="iOSAuthorization">Mixin usa tu micrófono para grabar mensajes de voz para compartir con tus contactos</string>
-  <string name="NSPhotoLibraryUsageDescription" platform="iOSAuthorization">Mixin usa la biblioteca de fotos para configurar la foto de perfil y enviar una foto a tu contacto en el chat</string>
+  <string name="NSPhotoLibraryAddUsageDescription" platform="iOSAuthorization">Mixin guardará en tu fototeca las imágenes, videos, códigos QR e imágenes de inscription del chat solo cuando tú lo elijas.</string>
   <string name="number_reached_limit" platform="android, iOS">El número ha llegado al límite.</string>
   <string name="objects" platform="Desktop">Objetos</string>
   <string name="Off" platform="android, iOS">Apagado</string>
@@ -934,7 +934,6 @@
   <string name="pending_confirmations" platform="iOS">%d/%d confirmaciones</string>
   <string name="permission_audio" platform="android">¿Permitir grabar audio?</string>
   <string name="permission_camera" platform="android">¿Permitir hacer fotos?</string>
-  <string name="permission_denied_camera_hint" platform="iOS">Mixin no tiene permiso para usar tu cámara. Toca Configuración para abrir la configuración del sistema.</string>
   <string name="permission_denied_microphone_hint" platform="iOS">Mixin no tiene permiso para usar tu micrófono. Toca Configuración para abrir la configuración del sistema.</string>
   <string name="permission_denied_network_hint" platform="iOS">Mixin no tiene permiso para usar datos inalámbricos. Toca Configuración para abrir la configuración del sistema.</string>
   <string name="permission_denied_photo_library" platform="iOS">Mixin no tiene permiso para usar tu biblioteca de fotos. Toca Configuración para abrir la configuración del sistema.</string>
@@ -951,7 +950,6 @@
   <string name="photo.count" platform="iOS">%1$d Fotos</string>
   <string name="Photos" platform="android, iOS, Desktop">Fotos</string>
   <string name="pick_a_conversation" platform="Desktop">Selecciona una conversación y comienza a enviar un mensaje</string>
-  <string name="Pick_from_Library" platform="iOS">Elegir de la biblioteca</string>
   <string name="PIN" platform="android, iOS">PIN</string>
   <string name="PIN_change" platform="android, iOS">Cambio de PIN</string>
   <string name="pin_check_tip" platform="android, iOS">Se te pedirá periódicamente para ayudarte a recordarlo.</string>

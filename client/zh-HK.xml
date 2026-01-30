@@ -1014,7 +1014,6 @@
   <string name="NSFaceIDUsageDescription" platform="iOSAuthorization">Mixin 使用面容識別來驗證支付</string>
   <string name="NSLocationWhenInUseUsageDescription" platform="iOSAuthorization">允許獲取位置讓您可以在對話中發送當前的位置或附近的地點</string>
   <string name="NSMicrophoneUsageDescription" platform="iOSAuthorization">Mixin 使用你的麥克風錄製語音消息發給你的聯繫人</string>
-  <string name="NSPhotoLibraryUsageDescription" platform="iOSAuthorization">Mixin 需要訪問相冊的權限來設置頭像或在聊天室裏給你的聯繫人發送照片</string>
   <string name="number_reached_limit" platform="android">已達到上限</string>
   <string name="objects" platform="Desktop">物件</string>
   <string name="Off" platform="android, iOS">關閉</string>
@@ -1069,8 +1068,6 @@
   <string name="pending_confirmations" platform="iOS">%d/%d 區塊確認數</string>
   <string name="permission_audio" platform="android">要允許錄製聲音嗎？</string>
   <string name="permission_camera" platform="android">要允許拍攝照片嗎？</string>
-  <string name="permission_denied_camera" platform="iOS">授權使用相機</string>
-  <string name="permission_denied_camera_hint" platform="iOS">Mixin 需要攝像頭權限，請點擊'設置'打開系統授權。</string>
   <string name="permission_denied_microphone_hint" platform="iOS">Mixin 需要麥克風權限，請點擊'設置'打開系統授權。</string>
   <string name="permission_denied_network_hint" platform="iOS">Mixin 需要無線數據權限，請點擊'設置'打開系統授權。</string>
   <string name="permission_video" platform="android">要允許拍攝視頻嗎？</string>
@@ -1086,7 +1083,6 @@
   <string name="photo.count" platform="iOS">%1$d 張圖片</string>
   <string name="Photos" platform="android, iOS, Desktop">照片</string>
   <string name="pick_a_conversation" platform="Desktop">選擇一個對話，開始發送信息</string>
-  <string name="Pick_from_Library" platform="iOS">打開相冊</string>
   <string name="PIN" platform="android, iOS">PIN</string>
   <string name="PIN_change" platform="android, iOS">修改 PIN</string>
   <string name="pin_check_tip" platform="android, iOS">定期輸入 PIN 有助於記住該 PIN</string>

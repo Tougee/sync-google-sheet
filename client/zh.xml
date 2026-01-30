@@ -1014,7 +1014,7 @@
   <string name="NSFaceIDUsageDescription" platform="iOSAuthorization">Mixin 使用面容识别来验证支付</string>
   <string name="NSLocationWhenInUseUsageDescription" platform="iOSAuthorization">允许获取位置让您可以在对话中发送当前的位置或附近的地点</string>
   <string name="NSMicrophoneUsageDescription" platform="iOSAuthorization">Mixin 使用你的麦克风录制语音消息发给你的联系人</string>
-  <string name="NSPhotoLibraryUsageDescription" platform="iOSAuthorization">Mixin 需要访问相册的权限来设置头像或在聊天室里给你的联系人发送照片</string>
+  <string name="NSPhotoLibraryAddUsageDescription" platform="iOSAuthorization">仅在您主动保存时，Mixin才会将聊天中的图片、视频、二维码及 Inscription 图片保存到系统相册</string>
   <string name="number_reached_limit" platform="android">已达到上限</string>
   <string name="objects" platform="Desktop">物件</string>
   <string name="Off" platform="android, iOS">关闭</string>
@@ -1070,7 +1070,9 @@
   <string name="permission_audio" platform="android">要允许录制声音吗？</string>
   <string name="permission_camera" platform="android">要允许拍摄照片吗？</string>
   <string name="permission_denied_camera" platform="iOS">授权使用相机</string>
-  <string name="permission_denied_camera_hint" platform="iOS">Mixin 需要摄像头权限，请点击'设置'打开系统授权。</string>
+  <string name="permission_denied_camera_hint" platform="iOS">Mixin 需要相机权限，请点击'设置'并调整授权。</string>
+  <string name="permission_denied_photos" platform="iOS">授权写入相册</string>
+  <string name="permission_denied_photos_hint" platform="iOS">Mixin 需要写入相册权限，请点击'设置'并调整授权。</string>
   <string name="permission_denied_microphone_hint" platform="iOS">Mixin 需要麦克风权限，请点击'设置'打开系统授权。</string>
   <string name="permission_denied_network_hint" platform="iOS">Mixin 需要无线数据权限，请点击'设置'打开系统授权。</string>
   <string name="permission_video" platform="android">要允许拍摄视频吗？</string>
@@ -1086,7 +1088,6 @@
   <string name="photo.count" platform="iOS">%1$d 张图片</string>
   <string name="Photos" platform="android, iOS, Desktop">照片</string>
   <string name="pick_a_conversation" platform="Desktop">选择一个对话，开始发送信息</string>
-  <string name="Pick_from_Library" platform="iOS">打开相册</string>
   <string name="PIN" platform="android, iOS">PIN</string>
   <string name="PIN_change" platform="android, iOS">修改 PIN</string>
   <string name="pin_check_tip" platform="android, iOS">定期输入 PIN 有助于记住该 PIN</string>

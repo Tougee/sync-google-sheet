@@ -871,7 +871,6 @@
   <string name="pending_confirmations" platform="iOS">%d/%d Подтверждения</string>
   <string name="permission_audio" platform="android">Разрешить записывать звук?</string>
   <string name="permission_camera" platform="android">Разрешить фотографировать?</string>
-  <string name="permission_denied_camera_hint" platform="iOS">У Mixin нет разрешения на использование вашей камеры. Пожалуйста, нажмите Настройки, чтобы открыть системные настройки</string>
   <string name="permission_denied_microphone_hint" platform="iOS">У Mixin нет разрешения на использование вашего микрофона. Пожалуйста, нажмите Настройки, чтобы открыть системные настройки.</string>
   <string name="permission_denied_network_hint" platform="iOS">У Mixin нет разрешения на использование беспроводных данных. Пожалуйста, нажмите Настройки, чтобы открыть системные настройки</string>
   <string name="permission_denied_photo_library" platform="iOS">У Mixin нет разрешения на использование вашей библиотеки фотографий. Пожалуйста, нажмите Настройки, чтобы открыть системные настройки</string>
@@ -888,7 +887,6 @@
   <string name="photo.count" platform="iOS">%1$d фото</string>
   <string name="Photos" platform="android, iOS, Desktop">Фото</string>
   <string name="pick_a_conversation" platform="Desktop">Выберите беседу и начните отправлять сообщение</string>
-  <string name="Pick_from_Library" platform="iOS">Выбрать из библиотеки</string>
   <string name="PIN" platform="android, iOS">PIN</string>
   <string name="PIN_change" platform="android, iOS">изменение PIN-кода</string>
   <string name="pin_check_tip" platform="android, iOS">Вас будут периодически спрашивать об этом, чтобы помочь вам запомнить его.</string>

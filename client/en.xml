@@ -1027,7 +1027,7 @@
   <string name="NSFaceIDUsageDescription" platform="iOSAuthorization">Mixin uses Face ID to authorize payment</string>
   <string name="NSLocationWhenInUseUsageDescription" platform="iOSAuthorization">Turn on location services to send your current location or nearby places in conversation</string>
   <string name="NSMicrophoneUsageDescription" platform="iOSAuthorization">Mixin uses your microphone to record voice messages to share with your contacts</string>
-  <string name="NSPhotoLibraryUsageDescription" platform="iOSAuthorization">Mixin uses the photo library to set profile photo, and send photo to your contact in chat</string>
+  <string name="NSPhotoLibraryAddUsageDescription" platform="iOSAuthorization">Mixin will save chat images, videos, QR codes, and inscription images to your photo library only when you choose to do so</string>
   <string name="number_reached_limit" platform="android">The number has reached the limit</string>
   <string name="objects" platform="Desktop">Objects</string>
   <string name="Off" platform="android, iOS">Off</string>
@@ -1082,8 +1082,10 @@
   <string name="pending_confirmations" platform="iOS">%d/%d Confirmations</string>
   <string name="permission_audio" platform="android">Allow to record audio?</string>
   <string name="permission_camera" platform="android">Allow to take pictures?</string>
-  <string name="permission_denied_camera" platform="iOS">Camera Permission Denied</string>
-  <string name="permission_denied_camera_hint" platform="iOS">Mixin doesn't have permission to use your camera. Please tap Setting to open system settings.</string>
+  <string name="permission_denied_camera" platform="iOS">Camera Access Denied</string>
+  <string name="permission_denied_camera_hint" platform="iOS">Mixin doesn't have permission to use your camera. Tap Settings to authorize.</string>
+  <string name="permission_denied_photos" platform="iOS">Adding Photo Denied</string>
+  <string name="permission_denied_photos_hint" platform="iOS">Mixin doesn't have permission to add photo to your library. Tap Settings to authorize.</string>
   <string name="permission_denied_microphone_hint" platform="iOS">Mixin doesn't have permission to use your microphone. Please tap Setting to open system settings.</string>
   <string name="permission_denied_network_hint" platform="iOS">Mixin doesn't have permission to use wireless data. Please tap Setting to open system settings.</string>
   <string name="permission_video" platform="android">Allow to record video?</string>
@@ -1099,7 +1101,6 @@
   <string name="photo.count" platform="iOS">%1$d Photos</string>
   <string name="Photos" platform="android, iOS, Desktop">Photos</string>
   <string name="pick_a_conversation" platform="Desktop">Select a conversation and start sending a message</string>
-  <string name="Pick_from_Library" platform="iOS">Pick from Library</string>
   <string name="PIN" platform="android, iOS">PIN</string>
   <string name="PIN_change" platform="android, iOS">PIN change</string>
   <string name="pin_check_tip" platform="android, iOS">You'll be asked for it periodically to help you remember it.</string>

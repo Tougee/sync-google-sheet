@@ -821,7 +821,7 @@
   <string name="NSFaceIDUsageDescription" platform="iOSAuthorization">Face IDでの支払いを許可</string>
   <string name="NSLocationWhenInUseUsageDescription" platform="iOSAuthorization">位置情報へのアクセスは、位置情報の共有に使用されます</string>
   <string name="NSMicrophoneUsageDescription" platform="iOSAuthorization">マイクは、通話やボイスメッセージに使用されます</string>
-  <string name="NSPhotoLibraryUsageDescription" platform="iOSAuthorization">アルバムは、プロフィール画像の設定、画像の共有に使用されます</string>
+  <string name="NSPhotoLibraryAddUsageDescription" platform="iOSAuthorization">Mixin は、あなたが保存を選択した場合にのみ、チャット内の画像・動画・QRコードおよび Inscription 画像をフォトライブラリに保存します。</string>
   <string name="number_reached_limit" platform="android">数が上限に達しました</string>
   <string name="Off" platform="android, iOS">オフ</string>
   <string name="OK" platform="android, iOS">OK</string>
@@ -865,7 +865,6 @@
   <string name="pending_confirmations" platform="iOS">%d/%d 承認</string>
   <string name="permission_audio" platform="android">音声の録音を許可しますか？</string>
   <string name="permission_camera" platform="android">写真を撮ることを許可しますか？</string>
-  <string name="permission_denied_camera_hint" platform="iOS">設定からカメラの使用をMixinに許可してください</string>
   <string name="permission_denied_microphone_hint" platform="iOS">設定からマイクの使用をMixinに許可してください</string>
   <string name="permission_denied_network_hint" platform="iOS">設定からワイヤレスデータの使用をMixinに許可してください</string>
   <string name="permission_denied_photo_library" platform="iOS">設定から画像ライブラリの使用をMixinに許可してください</string>
@@ -882,7 +881,6 @@
   <string name="photo.count" platform="iOS">%1$d写真</string>
   <string name="Photos" platform="android, iOS, Desktop">写真</string>
   <string name="pick_a_conversation" platform="Desktop">チャットルームを選択して、メッセージを送信してみましょう</string>
-  <string name="Pick_from_Library" platform="iOS">ライブラリーから選択する</string>
   <string name="PIN" platform="android, iOS">PINコード</string>
   <string name="PIN_change" platform="android, iOS">PINコード変更</string>
   <string name="pin_check_tip" platform="android, iOS">安全のため、定期的にPINコードを確認します。</string>
