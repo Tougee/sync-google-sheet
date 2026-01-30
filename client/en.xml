@@ -62,7 +62,6 @@
   <string name="After_30_minutes" platform="android">After 30 minutes</string>
   <string name="Agree_and_Continue" platform="android">Agree &amp; Continue</string>
   <string name="agree_hint" platform="iOS">By proceeding, you agree to the %@ and %@.</string>
-  <string name="Albums" platform="iOS">Albums</string>
   <string name="alert_key_contact_audio_call_cancelled_message" platform="iOS">voice call cancelled</string>
   <string name="alert_key_contact_audio_call_message" platform="android, iOS">invites you to a voice call</string>
   <string name="alert_key_contact_audio_message" platform="android, iOS">sent you an audio</string>
@@ -1083,10 +1082,10 @@
   <string name="pending_confirmations" platform="iOS">%d/%d Confirmations</string>
   <string name="permission_audio" platform="android">Allow to record audio?</string>
   <string name="permission_camera" platform="android">Allow to take pictures?</string>
+  <string name="permission_denied_camera" platform="iOS">Camera Permission Denied</string>
   <string name="permission_denied_camera_hint" platform="iOS">Mixin doesn't have permission to use your camera. Please tap Setting to open system settings.</string>
   <string name="permission_denied_microphone_hint" platform="iOS">Mixin doesn't have permission to use your microphone. Please tap Setting to open system settings.</string>
   <string name="permission_denied_network_hint" platform="iOS">Mixin doesn't have permission to use wireless data. Please tap Setting to open system settings.</string>
-  <string name="permission_denied_photo_library" platform="iOS">Mixin doesn't have permission to use your photo library. Please tap Setting to open system settings.</string>
   <string name="permission_video" platform="android">Allow to record video?</string>
   <string name="Permissions" platform="android, iOS">Permissions</string>
   <string name="Phone_call" platform="android, iOS">Phone call</string>
