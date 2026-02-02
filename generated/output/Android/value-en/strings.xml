@@ -38,6 +38,7 @@
 	<string name="Add_Failed">Add Failed</string>
 	<string name="Add_group_description">Add group description</string>
 	<string name="Add_Mobile_Number">Add Mobile Number</string>
+	<string name="Add_Now">Add Now</string>
 	<string name="add_or_remove_favorite_bots">Add or remove favorite bots</string>
 	<string name="Add_participants">Add Participants</string>
 	<string name="Add_people_hint">Add people by Mixin ID or phone number</string>
@@ -423,6 +424,7 @@
 	<string name="Confirm_Signing_Multisig">Confirm Signing Multisig</string>
 	<string name="Confirm_Transfer">Confirm Transfer</string>
 	<string name="Confirm_Withdrawal">Confirm Withdrawal</string>
+	<string name="confirm_your_mobile_number">Confirm your mobile number</string>
 	<string name="Confirmations">Confirmations</string>
 	<string name="Confirming_Transaction">Confirming Transaction</string>
 	<string name="Connect">Connect</string>

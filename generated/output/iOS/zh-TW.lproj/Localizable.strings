@@ -18,6 +18,7 @@
 "add_emergency_contact" = "新增恢復聯絡人";
 "add_failed" = "新增失敗";
 "add_mobile_number" = "新增手機號碼";
+"add_now" = "立即新增";
 "add_or_remove_favorite_bots" = "新增或刪除收藏的機器人";
 "add_participants" = "新增成員";
 "add_phone_desc" = "您可以透過手機號碼登入您的帳戶。手機號碼將與您 MPC 錢包的金鑰片段關聯。完整的金鑰僅存在於當前裝置的 TEE 安全環境中。閱讀檔案以瞭解%@。";
@@ -124,7 +125,6 @@
 "all_conversations" = "所有會話";
 "all_dates" = "所有日期";
 "all_invoices" = "全部賬單";
-"all_photos" = "所有照片";
 "all_signer_failure" = "所有節點失敗";
 "all_time_high" = "歷史最高";
 "all_time_low" = "歷史最低";
@@ -346,6 +346,7 @@
 "confirm_signing_multisig" = "多簽交易確認";
 "confirm_transfer" = "轉賬確認";
 "confirm_withdrawal" = "提現確認";
+"confirm_your_mobile_number" = "確認手機號碼";
 "connect" = "連線";
 "connect_to_tip_network_failed" = "連線 TIP 網路失敗，請嘗試切換網路後重試";
 "connect_web3_wallet_description" = "授權應用檢視你的錢包地址，或者向你傳送交易請求。";
@@ -1289,7 +1290,6 @@
 "select_all" = "選擇所有";
 "select_date" = "選擇日期";
 "select_emergency_contact" = "選擇恢復聯絡人";
-"select_more_photos" = "選擇更多照片";
 "select_token" = "選擇代幣";
 "selected_count" = "選擇了 %@ 個訊息";
 "selected_item" = "已選擇 1 項";

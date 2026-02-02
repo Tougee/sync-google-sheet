@@ -18,6 +18,7 @@
 "add_emergency_contact" = "Add recovery contact";
 "add_failed" = "Add Failed";
 "add_mobile_number" = "Add Mobile Number";
+"add_now" = "Add Now";
 "add_or_remove_favorite_bots" = "Add or remove favorite bots";
 "add_participants" = "Добавить участников";
 "add_phone_desc" = "You can log in to your account using your mobile number. The mobile number will be associated with a key shard of your MPC wallet. The complete key exists only in the TEE security environment on the current device. Read the documentation to learn more about %@.";
@@ -124,7 +125,6 @@
 "all_conversations" = "Все разговоры";
 "all_dates" = "All Dates";
 "all_invoices" = "All Invoices";
-"all_photos" = "Все фотографии";
 "all_signer_failure" = "All node failure";
 "all_time_high" = "All Time High";
 "all_time_low" = "All Time Low";
@@ -346,6 +346,7 @@
 "confirm_signing_multisig" = "Confirm Signing Multisig";
 "confirm_transfer" = "Confirm Transfer";
 "confirm_withdrawal" = "Confirm Withdrawal";
+"confirm_your_mobile_number" = "Confirm your mobile number";
 "connect" = "Connect";
 "connect_to_tip_network_failed" = "Unable to connect to TIP network. Check your connection and try again.";
 "connect_web3_wallet_description" = "Allow the app to view your wallet address and ask for your approval to make a transaction.";
@@ -1289,7 +1290,6 @@
 "select_all" = "Select All";
 "select_date" = "Select Date";
 "select_emergency_contact" = "Select Recovery Contact";
-"select_more_photos" = "Выберите больше фотографий";
 "select_token" = "Select Token";
 "selected_count" = "%@ Выбрано";
 "selected_item" = "Выбрано 1 элемент";

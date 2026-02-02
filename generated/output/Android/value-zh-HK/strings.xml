@@ -38,6 +38,7 @@
 	<string name="Add_Failed">添加失敗</string>
 	<string name="Add_group_description">添加羣公告</string>
 	<string name="Add_Mobile_Number">添加手機號碼</string>
+	<string name="Add_Now">立即添加</string>
 	<string name="add_or_remove_favorite_bots">添加或刪除收藏的機器人</string>
 	<string name="Add_participants">添加成員</string>
 	<string name="Add_people_hint">通過 Mixin ID 或手機號添加聯繫人</string>
@@ -420,6 +421,7 @@
 	<string name="Confirm_Signing_Multisig">多簽交易確認</string>
 	<string name="Confirm_Transfer">轉賬確認</string>
 	<string name="Confirm_Withdrawal">提現確認</string>
+	<string name="confirm_your_mobile_number">確認手機號碼</string>
 	<string name="Confirmations">區塊確認數</string>
 	<string name="Confirming_Transaction">正在確認交易</string>
 	<string name="Connect">連接</string>

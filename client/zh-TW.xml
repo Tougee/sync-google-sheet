@@ -2454,4 +2454,6 @@
   <string name="Verify_Mobile_Number" platform="android, iOS">驗證手機號碼</string>
   <string name="periodic_sms_verification_benefits" platform="android, iOS">定期進行簡訊驗證有助於提升賬號安全，如果當前手機號已失效請儘快更換手機號。</string>
   <string name="Verify_Now" platform="android, iOS">立即驗證</string>
+  <string name="Add_Now" platform="android, iOS">立即新增</string>
+  <string name="confirm_your_mobile_number" platform="android, iOS">確認手機號碼</string>
 </resources>
