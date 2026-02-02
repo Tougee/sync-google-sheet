@@ -93,7 +93,6 @@
   <string name="all_chats" platform="Desktop">Чаты</string>
   <string name="All_Conversations" platform="android, iOS">Все разговоры</string>
   <string name="All_Media" platform="android">Все медиа</string>
-  <string name="All_Photos" platform="iOS">Все фотографии</string>
   <string name="All_Transactions" platform="android, iOS">Все транзакции</string>
   <string name="Allow_Manual_Report_Message" platform="iOS">Разрешить сообщение ручного отчета</string>
   <string name="Amount" platform="android, iOS">Количество</string>
@@ -1035,7 +1034,6 @@
   <string name="Security" platform="android, iOS">Безопасность</string>
   <string name="Select" platform="android, iOS">Выбрать</string>
   <string name="Select_a_country_or_region" platform="iOS">Выберите страну или регион</string>
-  <string name="Select_More_Photos" platform="iOS">Выберите больше фотографий</string>
   <string name="selected_count" platform="iOS">%@ Выбрано</string>
   <string name="selected_Item" platform="iOS">Выбрано 1 элемент</string>
   <string name="selected_Item.count" platform="iOS">Выбрано %1$d элементов</string>

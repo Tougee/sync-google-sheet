@@ -114,7 +114,6 @@
   <string name="all_chats" platform="Desktop">Chats</string>
   <string name="All_Conversations" platform="android, iOS">Todas las conversaciones</string>
   <string name="All_Media" platform="android">Todos los medios</string>
-  <string name="All_Photos" platform="iOS">Todas las fotos</string>
   <string name="All_signer_failure" platform="android,iOS">Falla de todos los nodos</string>
   <string name="All_Transactions" platform="android, iOS">Todas las transacciones</string>
   <string name="Allow" platform="iOS">Permitir</string>
@@ -1107,7 +1106,6 @@
   <string name="Security" platform="android, iOS">Seguridad</string>
   <string name="Select" platform="android, iOS, Desktop">Seleccionar</string>
   <string name="Select_a_country_or_region" platform="iOS">Seleccionar un país o región</string>
-  <string name="Select_More_Photos" platform="iOS">Seleccionar más fotos</string>
   <string name="selected_count" platform="iOS">%@ Seleccionado</string>
   <string name="selected_Item" platform="iOS">1 artículo seleccionado</string>
   <string name="selected_Item.count" platform="iOS">%1$d elementos seleccionados</string>

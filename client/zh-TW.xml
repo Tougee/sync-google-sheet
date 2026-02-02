@@ -96,7 +96,6 @@
   <string name="All_Conversations" platform="android, iOS">所有會話</string>
   <string name="All_dates" platform="android, iOS">所有日期</string>
   <string name="All_Media" platform="android">全部</string>
-  <string name="All_Photos" platform="iOS">所有照片</string>
   <string name="All_signer_failure" platform="android,iOS">所有節點失敗</string>
   <string name="All_Transactions" platform="android, iOS">所有交易記錄</string>
   <string name="Allow" platform="iOS">允許</string>
@@ -1300,7 +1299,6 @@
   <string name="select_a_token_for_the_fee" platform="android,iOS">選擇支付手續費的幣種</string>
   <string name="Select_All" platform="android, iOS">選擇所有</string>
   <string name="Select_Emergency_Contact" platform="android, iOS">選擇恢復聯絡人</string>
-  <string name="Select_More_Photos" platform="iOS">選擇更多照片</string>
   <string name="select_payment_method" platform="android">選擇支付方式</string>
   <string name="selected_count" platform="iOS">選擇了 %@ 個訊息</string>
   <string name="selected_Item" platform="iOS">已選擇 1 項</string>

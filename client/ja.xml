@@ -87,7 +87,6 @@
   <string name="all_chats" platform="Desktop">チャット</string>
   <string name="All_Conversations" platform="android, iOS">すべてのチャットルーム</string>
   <string name="All_Media" platform="android">全てのメディア</string>
-  <string name="All_Photos" platform="iOS">全ての画像</string>
   <string name="All_Transactions" platform="android, iOS">もらった・あげたコイン💰</string>
   <string name="Allow" platform="iOS">許可</string>
   <string name="Allow_Manual_Report_Message" platform="iOS">メッセージ単位の報告を許可</string>
@@ -1031,7 +1030,6 @@
   <string name="Security" platform="android, iOS, Desktop">セキュリティ</string>
   <string name="Select" platform="android, iOS, Desktop">選択</string>
   <string name="Select_a_country_or_region" platform="iOS">国と地域を選択</string>
-  <string name="Select_More_Photos" platform="iOS">さらに選択</string>
   <string name="selected_count" platform="iOS">%@を選択しています。</string>
   <string name="selected_Item" platform="iOS">選択されたアイテム</string>
   <string name="selected_Item.count" platform="iOS">%1$d件選択中</string>

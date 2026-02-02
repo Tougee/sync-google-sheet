@@ -96,7 +96,6 @@
   <string name="All_Conversations" platform="android, iOS">All Conversations</string>
   <string name="All_dates" platform="android, iOS">All Dates</string>
   <string name="All_Media" platform="android">All Media</string>
-  <string name="All_Photos" platform="iOS">All Photos</string>
   <string name="All_signer_failure" platform="android,iOS">All node failure</string>
   <string name="All_Transactions" platform="android, iOS">All Transactions</string>
   <string name="Allow" platform="iOS">Allow</string>
@@ -1315,7 +1314,6 @@
   <string name="select_a_token_for_the_fee" platform="android,iOS">Select a token for the fee</string>
   <string name="Select_All" platform="android, iOS">Select All</string>
   <string name="Select_Emergency_Contact" platform="android, iOS">Select Recovery Contact</string>
-  <string name="Select_More_Photos" platform="iOS">Select More Photos</string>
   <string name="select_payment_method" platform="android">Select Payment Method</string>
   <string name="selected_count" platform="iOS">%@ Selected</string>
   <string name="selected_Item" platform="iOS">Selected 1 Item</string>
@@ -2479,4 +2477,6 @@
   <string name="Verify_Mobile_Number" platform="android, iOS">Verify Mobile Number</string>
   <string name="periodic_sms_verification_benefits" platform="android, iOS">Periodic SMS verification helps improve account security. If your current phone number is no longer valid, please update it as soon as possible.</string>
   <string name="Verify_Now" platform="android, iOS">Verify Now</string>
+  <string name="Add_Now" platform="android, iOS">Add Now</string>
+  <string name="confirm_your_mobile_number" platform="android, iOS">Confirm your mobile number</string>
 </resources>
