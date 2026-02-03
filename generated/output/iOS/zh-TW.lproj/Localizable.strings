@@ -18,6 +18,7 @@
 "add_emergency_contact" = "新增恢復聯絡人";
 "add_failed" = "新增失敗";
 "add_mobile_number" = "新增手機號碼";
+"add_mobile_number_reason" = "基於合規與安全原因，我們需要驗證你的手機號碼。";
 "add_now" = "立即新增";
 "add_or_remove_favorite_bots" = "新增或刪除收藏的機器人";
 "add_participants" = "新增成員";
@@ -897,6 +898,8 @@
 "mnemonics_mismatched" = "助記詞不符";
 "mobile_contacts" = "通訊錄";
 "mobile_number" = "手機號碼";
+"mobile_number_added" = "新增成功";
+"mobile_number_added_description" = "新增手機號碼有助於提升賬號安全";
 "mobile_phone" = "手機";
 "monthly" = "每月";
 "months_count_short" = "%d月";
@@ -1414,6 +1417,7 @@
 "slide_to_cancel" = "滑動取消";
 "slippage" = "滑點";
 "slow" = "緩慢";
+"sms_verified_description" = "定期進行簡訊驗證有助於提升賬號安全";
 "snapshot_hash" = "快照雜湊";
 "snapshot_not_found" = "找不到該轉賬記錄。";
 "sort_by" = "順序";
@@ -1635,6 +1639,7 @@
 "value" = "價值";
 "value_now" = "價值 %@";
 "value_then" = "當時價值 %@";
+"verification_successful" = "驗證成功";
 "verify" = "驗證";
 "verify_mobile_number" = "驗證手機號碼";
 "verify_now" = "立即驗證";

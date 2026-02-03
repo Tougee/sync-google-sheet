@@ -18,6 +18,7 @@
 "add_emergency_contact" = "Add recovery contact";
 "add_failed" = "Add Failed";
 "add_mobile_number" = "Add Mobile Number";
+"add_mobile_number_reason" = "For compliance and security reasons, we need to verify your mobile number.";
 "add_now" = "Add Now";
 "add_or_remove_favorite_bots" = "Add or remove favorite bots";
 "add_participants" = "Add Participants";
@@ -897,6 +898,8 @@
 "mnemonics_mismatched" = "Mnemonics Mismatched";
 "mobile_contacts" = "Mobile Contacts";
 "mobile_number" = "Mobile Number";
+"mobile_number_added" = "Mobile Number Added";
+"mobile_number_added_description" = "Adding mobile number helps improve account security";
 "mobile_phone" = "Mobile Phone";
 "monthly" = "Monthly";
 "months_count_short" = "%dM";
@@ -1414,6 +1417,7 @@
 "slide_to_cancel" = "Slide to Cancel";
 "slippage" = "Slippage";
 "slow" = "Slow";
+"sms_verified_description" = "Periodic SMS verification helps improve account security";
 "snapshot_hash" = "Snapshot Hash";
 "snapshot_not_found" = "Snapshot not found.";
 "sort_by" = "Sort by";
@@ -1635,6 +1639,7 @@
 "value" = "Value";
 "value_now" = "value now %@";
 "value_then" = "value then %@";
+"verification_successful" = "Verification Successful";
 "verify" = "Verify";
 "verify_mobile_number" = "Verify Mobile Number";
 "verify_now" = "Verify Now";

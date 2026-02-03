@@ -18,6 +18,7 @@
 "add_emergency_contact" = "添加恢复联系人";
 "add_failed" = "添加失败";
 "add_mobile_number" = "添加手机号码";
+"add_mobile_number_reason" = "基于合规与安全原因，我们需要验证你的手机号码。";
 "add_now" = "立即添加";
 "add_or_remove_favorite_bots" = "添加或删除收藏的机器人";
 "add_participants" = "添加成员";
@@ -897,6 +898,8 @@
 "mnemonics_mismatched" = "助记词不符";
 "mobile_contacts" = "通讯录";
 "mobile_number" = "手机号码";
+"mobile_number_added" = "添加成功";
+"mobile_number_added_description" = "添加手机号码有助于提升账号安全";
 "mobile_phone" = "手机";
 "monthly" = "每月";
 "months_count_short" = "%d月";
@@ -1414,6 +1417,7 @@
 "slide_to_cancel" = "滑动取消";
 "slippage" = "滑点";
 "slow" = "缓慢";
+"sms_verified_description" = "定期进行短信验证有助于提升账号安全";
 "snapshot_hash" = "快照哈希";
 "snapshot_not_found" = "找不到该转账记录。";
 "sort_by" = "顺序";
@@ -1635,6 +1639,7 @@
 "value" = "价值";
 "value_now" = "价值 %@";
 "value_then" = "当时价值 %@";
+"verification_successful" = "验证成功";
 "verify" = "验证";
 "verify_mobile_number" = "验证手机号码";
 "verify_now" = "立即验证";

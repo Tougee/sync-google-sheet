@@ -38,6 +38,7 @@
 	<string name="Add_Failed">添加失败</string>
 	<string name="Add_group_description">添加群公告</string>
 	<string name="Add_Mobile_Number">添加手机号码</string>
+	<string name="add_mobile_number_reason">基于合规与安全原因，我们需要验证你的手机号码。</string>
 	<string name="Add_Now">立即添加</string>
 	<string name="add_or_remove_favorite_bots">添加或删除收藏的机器人</string>
 	<string name="Add_participants">添加成员</string>
@@ -1055,6 +1056,8 @@
 	<string name="mnemonic_phrases">助记词</string>
 	<string name="Mnemonics_Mismatched">助记词不符</string>
 	<string name="Mobile_Number">手机号码</string>
+	<string name="Mobile_Number_Added">添加成功</string>
+	<string name="mobile_number_added_description">添加手机号码有助于提升账号安全</string>
 	<string name="Mobile_Phone">手机</string>
 	<string name="Model">手机型号</string>
 	<string name="Monday">星期一</string>
@@ -1628,6 +1631,7 @@
 	<string name="slippage_invalid">滑点不可大于 50% 且不可小于 0.1%</string>
 	<string name="Slippage_tolerance_exceeded">超出滑点范围</string>
 	<string name="slow">缓慢</string>
+	<string name="sms_verified_description">定期进行短信验证有助于提升账号安全</string>
 	<string name="snapshot_Hash">快照哈希</string>
 	<string name="Sort">排序</string>
 	<string name="Sort_by">顺序</string>
@@ -1878,6 +1882,7 @@
 	<string name="verification_blocked_description">你的验证失败了，可能是因为提交的文件有问题，请点击下面按钮联系客服。</string>
 	<string name="verification_failed">验证失败</string>
 	<string name="verification_failed_description">您的验证失败，可能是因为未提交所有必需的身份证明文件或某些文件存在问题。</string>
+	<string name="Verification_Successful">验证成功</string>
 	<string name="Verify">验证</string>
 	<string name="Verify_by_Biometric">用生物识别来验证</string>
 	<string name="Verify_Mobile_Number">验证手机号码</string>

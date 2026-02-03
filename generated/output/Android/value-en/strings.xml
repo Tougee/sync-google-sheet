@@ -38,6 +38,7 @@
 	<string name="Add_Failed">Add Failed</string>
 	<string name="Add_group_description">Add group description</string>
 	<string name="Add_Mobile_Number">Add Mobile Number</string>
+	<string name="add_mobile_number_reason">For compliance and security reasons, we need to verify your mobile number.</string>
 	<string name="Add_Now">Add Now</string>
 	<string name="add_or_remove_favorite_bots">Add or remove favorite bots</string>
 	<string name="Add_participants">Add Participants</string>
@@ -1069,6 +1070,8 @@
 	<string name="mnemonic_phrases">mnemonic phrases</string>
 	<string name="Mnemonics_Mismatched">Mnemonics Mismatched</string>
 	<string name="Mobile_Number">Mobile Number</string>
+	<string name="Mobile_Number_Added">Mobile Number Added</string>
+	<string name="mobile_number_added_description">Adding mobile number helps improve account security</string>
 	<string name="Mobile_Phone">Mobile Phone</string>
 	<string name="Model">Model</string>
 	<string name="Monday">Monday</string>
@@ -1644,6 +1647,7 @@
 	<string name="slippage_invalid">Slippage cannot be greater than 50% and cannot be less than 0.1%</string>
 	<string name="Slippage_tolerance_exceeded">Slippage tolerance exceeded</string>
 	<string name="slow">Slow</string>
+	<string name="sms_verified_description">Periodic SMS verification helps improve account security</string>
 	<string name="snapshot_Hash">Snapshot Hash</string>
 	<string name="Sort">Sort</string>
 	<string name="Sort_by">Sort by</string>
@@ -1895,6 +1899,7 @@
 	<string name="verification_blocked_description">Your verification failed, possibly because there was a problem with some documents, please click the button below to contact with us.</string>
 	<string name="verification_failed">Verification Failed</string>
 	<string name="verification_failed_description">Your verification failed, possibly because some required identification documents were not submitted or there was a problem with some documents.</string>
+	<string name="Verification_Successful">Verification Successful</string>
 	<string name="Verify">Verify</string>
 	<string name="Verify_by_Biometric">Verify by Biometric</string>
 	<string name="Verify_Mobile_Number">Verify Mobile Number</string>

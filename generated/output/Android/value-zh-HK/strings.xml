@@ -38,6 +38,7 @@
 	<string name="Add_Failed">添加失敗</string>
 	<string name="Add_group_description">添加羣公告</string>
 	<string name="Add_Mobile_Number">添加手機號碼</string>
+	<string name="add_mobile_number_reason">基於合規與安全原因，我們需要驗證你的手機號碼。</string>
 	<string name="Add_Now">立即添加</string>
 	<string name="add_or_remove_favorite_bots">添加或刪除收藏的機器人</string>
 	<string name="Add_participants">添加成員</string>
@@ -1055,6 +1056,8 @@
 	<string name="mnemonic_phrases">助記詞</string>
 	<string name="Mnemonics_Mismatched">助記詞不符</string>
 	<string name="Mobile_Number">手機號碼</string>
+	<string name="Mobile_Number_Added">添加成功</string>
+	<string name="mobile_number_added_description">添加手機號碼有助於提升賬號安全</string>
 	<string name="Mobile_Phone">手機</string>
 	<string name="Model">手機型號</string>
 	<string name="Monday">星期一</string>
@@ -1628,6 +1631,7 @@
 	<string name="slippage_invalid">滑點不可大於 50% 且不可小於 0.1%</string>
 	<string name="Slippage_tolerance_exceeded">超出滑點範圍</string>
 	<string name="slow">緩慢</string>
+	<string name="sms_verified_description">定期進行短信驗證有助於提升賬號安全</string>
 	<string name="snapshot_Hash">快照哈希</string>
 	<string name="Sort">排序</string>
 	<string name="Sort_by">順序</string>
@@ -1878,6 +1882,7 @@
 	<string name="verification_blocked_description">你的驗證失敗了，可能是因為提交的檔案有問題，請點擊下面按鈕聯繫客服。</string>
 	<string name="verification_failed">驗證失敗</string>
 	<string name="verification_failed_description">您的驗證失敗，可能是因為未提交所有必需的身份證明檔案或某些檔案存在問題。</string>
+	<string name="Verification_Successful">驗證成功</string>
 	<string name="Verify">驗證</string>
 	<string name="Verify_by_Biometric">用生物識別來驗證</string>
 	<string name="Verify_Mobile_Number">驗證手機號碼</string>
