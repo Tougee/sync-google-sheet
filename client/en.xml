@@ -2479,4 +2479,9 @@
   <string name="Verify_Now" platform="android, iOS">Verify Now</string>
   <string name="Add_Now" platform="android, iOS">Add Now</string>
   <string name="confirm_your_mobile_number" platform="android, iOS">Confirm your mobile number</string>
+  <string name="add_mobile_number_reason" platform="android, iOS">For compliance and security reasons, we need to verify your mobile number.</string>
+  <string name="Verification_Successful" platform="android, iOS">Verification Successful</string>
+  <string name="sms_verified_description" platform="android, iOS">Periodic SMS verification helps improve account security</string>
+  <string name="Mobile_Number_Added" platform="android, iOS">Mobile Number Added</string>
+  <string name="mobile_number_added_description" platform="android, iOS">Adding mobile number helps improve account security</string>
 </resources>

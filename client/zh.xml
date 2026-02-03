@@ -2456,4 +2456,9 @@
   <string name="Verify_Now" platform="android, iOS">立即验证</string>
   <string name="Add_Now" platform="android, iOS">立即添加</string>
   <string name="confirm_your_mobile_number" platform="android, iOS">确认手机号码</string>
+  <string name="add_mobile_number_reason" platform="android, iOS">基于合规与安全原因，我们需要验证你的手机号码。</string>
+  <string name="Verification_Successful" platform="android, iOS">验证成功</string>
+  <string name="sms_verified_description" platform="android, iOS">定期进行短信验证有助于提升账号安全</string>
+  <string name="Mobile_Number_Added" platform="android, iOS">添加成功</string>
+  <string name="mobile_number_added_description" platform="android, iOS">添加手机号码有助于提升账号安全</string>
 </resources>
