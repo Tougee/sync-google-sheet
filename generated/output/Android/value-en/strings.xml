@@ -1910,6 +1910,8 @@
 	<string name="user_delete_hint">The user has deleted his own account.</string>
 	<string name="user_deleted_hint">The user has deleted the account.</string>
 	<string name="User_not_found">User not found</string>
+	<string name="username_description">This is the name your friends will see when you chat or send them tokens</string>
+	<string name="username_placeholder">Enter a display name</string>
 	<string name="utxo_count_exceeded">This transaction consumes too many UTXOs, please try to combine UTXOs or split the transaction.</string>
 	<string name="Value">Value</string>
 	<string name="value_descending">Value Descending</string>
@@ -2047,8 +2049,8 @@
 	<string name="weeks_count_short">%1$dW</string>
 	<string name="Welcome_to_Mixin">Welcome to Mixin</string>
 	<string name="What_is_Pin">What is PIN?</string>
+	<string name="what_should_friends_call_you">What should your friends call you?</string>
 	<string name="Whats_Safe_Wallet">What\'s the Mixin Safe?</string>
-	<string name="Whats_your_name">What\'s your name?</string>
 	<string name="When_roaming">When roaming</string>
 	<string name="withdraw_Address">Address</string>
 	<string name="withdraw_aggregated_insufficient_balance_count">The withdrawal amount is %1$s, the transaction fee is %2$s, and the balance is %3$s.</string>

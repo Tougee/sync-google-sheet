@@ -1653,6 +1653,8 @@
 "user_delete_hint" = "該使用者已經刪除了賬號。";
 "user_is_reported" = "已舉報";
 "user_not_found" = "找不到這個使用者";
+"username_description" = "該名稱將在聊天和轉賬時對好友顯示";
+"username_placeholder" = "輸入顯示名稱";
 "utxo_count_exceeded" = "該交易使用的 UTXO 數量過多，請嘗試首先歸集 UTXO 或者分批轉賬。";
 "validation_timed_out" = "驗證超時";
 "value" = "價值";
@@ -1744,8 +1746,8 @@
 "weeks" = "週";
 "weeks_count_short" = "%d周";
 "what_is_pin" = "什麼是 PIN ?";
+"what_should_friends_call_you" = "你的朋友該如何稱呼你？";
 "whats_safe_wallet" = "什麼是 Safe 金庫？";
-"whats_your_name" = "你的名字？";
 "wifi" = "WLAN";
 "wifi_and_cellular" = "WLAN 與行動數據";
 "withdraw_address" = "提現地址";

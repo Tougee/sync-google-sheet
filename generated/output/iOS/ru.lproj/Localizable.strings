@@ -1653,6 +1653,8 @@
 "user_delete_hint" = "The user has deleted his own account.";
 "user_is_reported" = "Сообщено о пользователе";
 "user_not_found" = "Пользователь не найден";
+"username_description" = "This is the name your friends will see when you chat or send them tokens";
+"username_placeholder" = "Enter a display name";
 "utxo_count_exceeded" = "This transaction consumes too many UTXOs, please try to combine UTXOs or split the transaction.";
 "validation_timed_out" = "Время проверки истекло";
 "value" = "Value";
@@ -1744,8 +1746,8 @@
 "weeks" = "недели";
 "weeks_count_short" = "%dW";
 "what_is_pin" = "What is PIN?";
+"what_should_friends_call_you" = "What should your friends call you?";
 "whats_safe_wallet" = "What's the Mixin Safe?";
-"whats_your_name" = "Как вас зовут?";
 "wifi" = "Wi-Fi";
 "wifi_and_cellular" = "Wi-Fi и сотовая связь";
 "withdraw_address" = "Адрес";

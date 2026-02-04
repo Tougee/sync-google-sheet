@@ -1893,6 +1893,8 @@
 	<string name="user_delete_hint">該使用者已經刪除了賬號。</string>
 	<string name="user_deleted_hint">該使用者已經刪除了賬號。</string>
 	<string name="User_not_found">找不到這個使用者</string>
+	<string name="username_description">該名稱將在聊天和轉賬時對好友顯示</string>
+	<string name="username_placeholder">輸入顯示名稱</string>
 	<string name="utxo_count_exceeded">該交易使用的 UTXO 數量過多，請嘗試首先歸集 UTXO 或者分批轉賬。</string>
 	<string name="Value">價值</string>
 	<string name="value_descending">金額降序</string>
@@ -2028,8 +2030,8 @@
 	<string name="Wednesday">星期三</string>
 	<string name="weeks_count_short">%1$d周</string>
 	<string name="What_is_Pin">什麼是 PIN ?</string>
+	<string name="what_should_friends_call_you">你的朋友該如何稱呼你？</string>
 	<string name="Whats_Safe_Wallet">什麼是 Safe 金庫？</string>
-	<string name="Whats_your_name">你的名字？</string>
 	<string name="When_roaming">當漫遊時</string>
 	<string name="withdraw_Address">提現地址</string>
 	<string name="withdraw_aggregated_insufficient_balance_count">提現金額 %1$s，手續費 %2$s，錢包餘額 %3$s。</string>

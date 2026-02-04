@@ -478,7 +478,6 @@
 "waitingForThisMessage" : "正在等待这条消息。",
 "webview2RuntimeInstallDescription" : "该设备暂未安装 WebView2 组件，请先下载并安装 WebView2 Runtime。",
 "webviewRuntimeUnavailable" : "WebView2 组件不可用",
-"whatsYourName" : "你的名字？",
 "window" : "窗口",
 "withdrawal" : "提现",
 "withdrawalHash" : "提现哈希",
