@@ -2484,4 +2484,23 @@
   <string name="sms_verified_description" platform="android, iOS">Periodic SMS verification helps improve account security</string>
   <string name="Mobile_Number_Added" platform="android, iOS">Mobile Number Added</string>
   <string name="mobile_number_added_description" platform="android, iOS">Adding mobile number helps improve account security</string>
+  <string name="onboarding_mixin_description" platform="android, iOS">An open source crypto wallet with Signal messaging</string>
+  <string name="onboarding_decentralized_title" platform="android, iOS">Your keys, your crypto</string>
+  <string name="onboarding_decentralized_description" platform="android, iOS">A decentralized, open-source, audited non-custodial wallet</string>
+  <string name="onboarding_trade_title" platform="android, iOS">Buy, sell, trade thousands of tokens</string>
+  <string name="onboarding_trade_description" platform="android, iOS">Native swaps, fiat onramps, free transfers</string>
+  <string name="onboarding_privacy_title" platform="android, iOS">Chat and transfer privately with friends</string>
+  <string name="onboarding_privacy_description" platform="android, iOS">End-to-end encrypted chats, group calls, contact transfers</string>
+  <string name="onboarding_recover_title" platform="android, iOS">Never lose your account</string>
+  <string name="onboarding_recover_description" platform="android, iOS">Recover via mobile number, mnemonic phrase or trusted contacts</string>
+  <string name="onboarding_reward_title" platform="android, iOS">Invite friends, earn rewards</string>
+  <string name="onboarding_reward_description" platform="android, iOS">Earn commissions from trading and memberships</string>
+  <string name="feature_truly_decentralized" platform="android, iOS">Truly decentralized</string>
+  <string name="feature_truly_decentralized_description" platform="android, iOS">Your keys, your crypto. Open-source and audited.</string>
+  <string name="feature_privacy_by_default" platform="android, iOS">Privacy by default</string>
+  <string name="feature_privacy_by_default_description" platform="android, iOS">Chats, calls, transfers, and assets are protected.</string>
+  <string name="feature_all_in_one" platform="android, iOS">All-in-one</string>
+  <string name="feature_all_in_one_description" platform="android, iOS">Trade, swap, and manage thousands of native tokens.</string>
+  <string name="create_your_account" platform="android, iOS">Create your account</string>
+  <string name="create_an_account" platform="android, iOS">Create an account</string>
 </resources>

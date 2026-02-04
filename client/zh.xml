@@ -2461,4 +2461,23 @@
   <string name="sms_verified_description" platform="android, iOS">定期进行短信验证有助于提升账号安全</string>
   <string name="Mobile_Number_Added" platform="android, iOS">添加成功</string>
   <string name="mobile_number_added_description" platform="android, iOS">添加手机号码有助于提升账号安全</string>
+  <string name="onboarding_mixin_description" platform="android, iOS">开源加密钱包，集成 Signal 安全通信</string>
+  <string name="onboarding_decentralized_title" platform="android, iOS">你的私钥，你的资产</string>
+  <string name="onboarding_decentralized_description" platform="android, iOS">去中心化·开源·审计验证·非托管钱包，资产完全由你掌控</string>
+  <string name="onboarding_trade_title" platform="android, iOS">买卖交易，覆盖海量资产</string>
+  <string name="onboarding_trade_description" platform="android, iOS">原生兑换·法币入金·免费转账，支持数千种代币</string>
+  <string name="onboarding_privacy_title" platform="android, iOS">私密聊天与转账</string>
+  <string name="onboarding_privacy_description" platform="android, iOS">端到端加密通信·群组通话·联系人转账</string>
+  <string name="onboarding_recover_title" platform="android, iOS">账号永不丢失</string>
+  <string name="onboarding_recover_description" platform="android, iOS">支持手机号恢复、助记词恢复、可信联系人恢复</string>
+  <string name="onboarding_reward_title" platform="android, iOS">邀请好友，共享收益</string>
+  <string name="onboarding_reward_description" platform="android, iOS">通过交易与会员体系获取佣金奖励</string>
+  <string name="feature_truly_decentralized" platform="android, iOS">真正的去中心化</string>
+  <string name="feature_truly_decentralized_description" platform="android, iOS">你的私钥，你的资产。经审计验证的开源架构。</string>
+  <string name="feature_privacy_by_default" platform="android, iOS">默认隐私保护</string>
+  <string name="feature_privacy_by_default_description" platform="android, iOS">聊天、通话、转账、资产，全程加密守护</string>
+  <string name="feature_all_in_one" platform="android, iOS">一站式加密资产管理</string>
+  <string name="feature_all_in_one_description" platform="android, iOS">交易、兑换、管理数千种原生代币</string>
+  <string name="create_your_account" platform="android, iOS">创建你的账户</string>
+  <string name="create_an_account" platform="android, iOS">创建账户</string>
 </resources>
