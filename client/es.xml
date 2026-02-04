@@ -1416,7 +1416,6 @@
   <string name="Weekly" platform="iOS">Semanalmente</string>
   <string name="weeks" platform="iOS">semanas</string>
   <string name="Welcome_to_Mixin" platform="android">Bienvenido a Mixin</string>
-  <string name="Whats_your_name" platform="android, iOS, Desktop">¿Cómo te llamas?</string>
   <string name="When_roaming" platform="android">Con roaming</string>
   <string name="WiFi" platform="iOS">Wi-Fi</string>
   <string name="WiFi_and_cellular" platform="iOS">Wi-Fi y móvil</string>

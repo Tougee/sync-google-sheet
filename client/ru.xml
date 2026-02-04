@@ -1327,7 +1327,6 @@
   <string name="Weekly" platform="iOS">Еженедельно</string>
   <string name="weeks" platform="iOS">недели</string>
   <string name="Welcome_to_Mixin" platform="android">Добро пожаловать в Mixin</string>
-  <string name="Whats_your_name" platform="android, iOS, Desktop">Как вас зовут?</string>
   <string name="When_roaming" platform="android">Когда в роуминге</string>
   <string name="WiFi" platform="iOS">Wi-Fi</string>
   <string name="WiFi_and_cellular" platform="iOS">Wi-Fi и сотовая связь</string>

@@ -658,7 +658,6 @@
   <string name="website" platform="android">https://mixin.one/messenger</string>
   <string name="Wednesday" platform="android">Rabu</string>
   <string name="Welcome_to_Mixin" platform="android">Welcome to Mixin</string>
-  <string name="Whats_your_name" platform="android, iOS, Desktop">Siapa nama Anda?</string>
   <string name="When_roaming" platform="android">Saat roaming</string>
   <string name="withdraw_Address" platform="android, iOS">Alamat</string>
   <string name="Withdrawal" platform="android, iOS, Desktop">Penarikan</string>

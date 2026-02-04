@@ -1314,7 +1314,6 @@
   <string name="Weekly" platform="iOS">週</string>
   <string name="weeks" platform="iOS">週間</string>
   <string name="Welcome_to_Mixin" platform="android">Mixinへようこそ！</string>
-  <string name="Whats_your_name" platform="android, iOS, Desktop">お名前は何ですか？</string>
   <string name="When_roaming" platform="android">ローミング時</string>
   <string name="WiFi" platform="iOS">Wi-Fi</string>
   <string name="WiFi_and_cellular" platform="iOS">Wi-Fiとデータ通信</string>

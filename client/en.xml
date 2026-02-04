@@ -1686,7 +1686,6 @@
   <string name="Weekly" platform="iOS">Weekly</string>
   <string name="weeks" platform="iOS">weeks</string>
   <string name="Welcome_to_Mixin" platform="android">Welcome to Mixin</string>
-  <string name="Whats_your_name" platform="android, iOS, Desktop">What's your name?</string>
   <string name="When_roaming" platform="android">When roaming</string>
   <string name="WiFi" platform="iOS">Wi-Fi</string>
   <string name="WiFi_and_cellular" platform="iOS">Wi-Fi and Cellular</string>
@@ -2503,4 +2502,7 @@
   <string name="feature_all_in_one_description" platform="android, iOS">Trade, swap, and manage thousands of native tokens.</string>
   <string name="create_your_account" platform="android, iOS">Create your account</string>
   <string name="create_an_account" platform="android, iOS">Create an account</string>
+  <string name="what_should_friends_call_you" platform="android, iOS">What should your friends call you?</string>
+  <string name="username_placeholder" platform="android, iOS">Enter a display name</string>
+  <string name="username_description" platform="android, iOS">This is the name your friends will see when you chat or send them tokens</string>
 </resources>

@@ -1668,7 +1668,6 @@
   <string name="Wednesday" platform="android">星期三</string>
   <string name="Weekly" platform="iOS">每周</string>
   <string name="weeks" platform="iOS">周</string>
-  <string name="Whats_your_name" platform="android, iOS, Desktop">你的名字？</string>
   <string name="When_roaming" platform="android">当漫游时</string>
   <string name="WiFi" platform="iOS">WLAN</string>
   <string name="WiFi_and_cellular" platform="iOS">WLAN 与蜂窝移动网</string>
@@ -2480,4 +2479,7 @@
   <string name="feature_all_in_one_description" platform="android, iOS">交易、兑换、管理数千种原生代币</string>
   <string name="create_your_account" platform="android, iOS">创建你的账户</string>
   <string name="create_an_account" platform="android, iOS">创建账户</string>
+  <string name="what_should_friends_call_you" platform="android, iOS">你的朋友该如何称呼你？</string>
+  <string name="username_placeholder" platform="android, iOS">输入显示名称</string>
+  <string name="username_description" platform="android, iOS">该名称将在聊天和转账时对好友显示</string>
 </resources>
