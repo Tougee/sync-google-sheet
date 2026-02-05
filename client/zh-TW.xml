@@ -608,11 +608,11 @@
   <string name="error_expired_session" platform="android">錯誤 10609: 交易會話過期</string>
   <string name="error_inconsistent_country" platform="android">錯誤 10610: 國家不一致</string>
   <string name="error_no_quote" platform="android, iOS">錯誤 10611: 暫無報價，請稍後重試。</string>
-  <string name="error_no_quote_detailed" platform="android, iOS">錯誤 10611: 暫無報價，請稍後重試。試試掛單？不受金額和幣種限制。</string>
+  <string name="error_no_quote_detailed" platform="android, iOS">錯誤 10611: 暫無報價，請稍後重試。試試專業模式？不受金額和幣種限制。</string>
   <string name="error_invalid_quote_amount" platform="android, iOS">錯誤 10614: 輸入金額太小或太大，請重新輸入。</string>
-  <string name="error_invalid_quote_amount_detailed" platform="android, iOS">錯誤 10614: 金額超出最大下單金額 %1$s，請重新輸入。試試掛單？不受金額和幣種限制。</string>
+  <string name="error_invalid_quote_amount_detailed" platform="android, iOS">錯誤 10614: 金額超出最大下單金額 %1$s，請重新輸入。試試專業模式？不受金額和幣種限制。</string>
   <string name="error_trading_pair_not_supported" platform="android, iOS">錯誤 10615: 暫不支援該交易對，請嘗試切換幣種。</string>
-  <string name="error_trading_pair_not_supported_detailed" platform="android,iOS">錯誤 10615: 暫不支援該交易對，請嘗試切換幣種。試試掛單？不受金額和幣種限制。</string>
+  <string name="error_trading_pair_not_supported_detailed" platform="android,iOS">錯誤 10615: 暫不支援該交易對，請嘗試切換幣種。試試專業模式？不受金額和幣種限制。</string>
   <string name="error_permission" platform="android, Desktop">請開啟相關許可權</string>
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">錯誤 20110：手機號碼不合法</string>
   <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">錯誤 10003：傳送簡訊失敗</string>
@@ -2438,7 +2438,7 @@
   <string name="order_status" platform="android, iOS">狀態</string>
   <string name="safe_vault_owner" platform="android, iOS">所有者</string>
   <string name="safe_vault_member" platform="android, iOS">共管人</string>
-  <string name="advanced_trade" platform="android, iOS">掛單交易</string>
+  <string name="advanced_trade" platform="android, iOS">專業模式</string>
   <string name="common_wallet_now_supports_btc" platform="android, iOS">普通錢包現已支援比特幣</string>
   <string name="feature_decentralized" platform="android, iOS">去中心化</string>
   <string name="feature_decentralized_description" platform="android, iOS">完全去中心化的錢包，你掌控私鑰。</string>
