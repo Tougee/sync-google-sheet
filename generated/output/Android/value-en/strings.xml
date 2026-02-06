@@ -311,7 +311,7 @@
 	<string name="change_percent_period_day">%1$dD %%</string>
 	<string name="change_percent_period_hour">%1$dh %%</string>
 	<string name="Change_Phone_desc">You can log in to your account using your mobile number. The current mobile number (%1$s) is associated with a key shard of your MPC wallet. The complete key exists only in the TEE security environment on the current device. Read the documentation to learn more about %2$s.</string>
-	<string name="Change_Phone_Number">Change Phone Number</string>
+	<string name="Change_Phone_Number">Change Mobile Number</string>
 	<string name="Change_PIN">Change PIN</string>
 	<string name="Change_PIN_successfully">Change PIN successfully</string>
 	<string name="Change_Profile_Photo_with_Camera">Change Profile Photo with Camera</string>
@@ -650,14 +650,14 @@
 	<string name="Enter_Amount">Enter Amount</string>
 	<string name="enter_mnemonic_phrase">Enter or paste your %1$d mnemonic words.</string>
 	<string name="Enter_new_anonymous_number">Enter your new anonymous number</string>
-	<string name="Enter_new_phone_number">Enter your new phone number</string>
+	<string name="Enter_new_phone_number">Enter your new mobile number</string>
 	<string name="enter_pin_create_wallet">Enter your PIN to create a new wallet</string>
 	<string name="Enter_PIN_to_delete_account">Enter your PIN to delete your account</string>
 	<string name="Enter_your_anonymous_number">Enter your anonymous number</string>
 	<string name="Enter_your_emergency_contact_Mixin_ID">Enter your recovery contact Mixin ID</string>
 	<string name="Enter_your_new_PIN">Enter your new PIN</string>
 	<string name="Enter_your_old_PIN">Enter your old PIN</string>
-	<string name="Enter_your_phone_number">Enter your phone number</string>
+	<string name="Enter_your_phone_number">Enter your mobile number</string>
 	<string name="Enter_your_PIN">Enter your PIN</string>
 	<string name="Enter_your_PIN_to_continue">Enter your PIN to continue</string>
 	<string name="Enter_your_PIN_to_verify">Enter your PIN to verify</string>
@@ -703,10 +703,10 @@
 	<string name="error_opponent_not_registered_to_safe">ERROR 10404: The opponent is using an earlier version, you can remind them to update</string>
 	<string name="error_payment_capture_failed">ERROR 10603: Payment capture failed</string>
 	<string name="error_permission">Please open the necessary permissions</string>
-	<string name="error_phone_invalid_format">ERROR 20110: Invalid phone number</string>
+	<string name="error_phone_invalid_format">ERROR 20110: Invalid mobile number</string>
 	<string name="error_phone_sms_delivery">ERROR 10003: Failed to deliver SMS</string>
-	<string name="error_phone_verification_code_expired">ERROR 20114: Expired phone verification code</string>
-	<string name="error_phone_verification_code_invalid">ERROR 20113: Invalid phone verification code</string>
+	<string name="error_phone_verification_code_expired">ERROR 20114: Expired verification code</string>
+	<string name="error_phone_verification_code_invalid">ERROR 20113: Invalid verification code</string>
 	<string name="error_pin_check_too_many_request">You have tried more than 5 times, please wait at least 24 hours to try again.</string>
 	<string name="error_pin_incorrect">ERROR 20119: PIN incorrect</string>
 	<plurals name="error_pin_incorrect_with_times">
@@ -734,7 +734,7 @@
 	<string name="error_unknown_with_code">ERROR: %1$d</string>
 	<string name="error_unknown_with_message">ERROR: %1$s</string>
 	<string name="error_use_card_same_time">ERROR 10605: Card anomaly, please try correct card later</string>
-	<string name="error_used_phone">ERROR 20122: This phone number is already associated with another account.</string>
+	<string name="error_used_phone">ERROR 20122: This mobile number is already associated with another account.</string>
 	<string name="error_user_invalid_format">Invalid user id</string>
 	<string name="error_watch_address_not_supported">ERROR 10633: Invalid Address</string>
 	<string name="error_withdrawal_memo_format_incorrect">ERROR 20131: Withdrawal memo format incorrect.</string>
@@ -941,7 +941,7 @@
 	<string name="landing_enter_mobile_tip">We will never display your mobile number publicly.</string>
 	<string name="landing_have_account">I already have an account</string>
 	<string name="landing_introduction">Tap \"Agree &amp; Continue\" to accept  the %1$s and %2$s</string>
-	<string name="landing_invitation_dialog_content">We will send a 4-digit code to your phone number %1$s, please enter the code in next screen.</string>
+	<string name="landing_invitation_dialog_content">We will send a 4-digit code to your mobile number %1$s, please enter the code in next screen.</string>
 	<string name="landing_privacy_policy_url">https://mixin.one/pages/privacy</string>
 	<string name="landing_terms_url">https://mixin.one/pages/terms</string>
 	<string name="landing_validation_title">Enter the 4-digit code sent to you at %1$s</string>
@@ -1269,7 +1269,7 @@
 	</plurals>
 	<string name="pending_transaction_one">1 Pending Transaction</string>
 	<string name="pending_transactions_count">%1$d Pending Transactions</string>
-	<string name="periodic_sms_verification_benefits">Periodic SMS verification helps improve account security. If your current phone number is no longer valid, please update it as soon as possible.</string>
+	<string name="periodic_sms_verification_benefits">Periodic SMS verification helps improve account security. If your current mobile number is no longer valid, please update it as soon as possible.</string>
 	<string name="permission_audio">Allow to record audio?</string>
 	<string name="permission_camera">Allow to take pictures?</string>
 	<string name="permission_video">Allow to record video?</string>
@@ -1278,8 +1278,8 @@
 	<string name="Phone_call">Phone call</string>
 	<string name="Phone_Contact">Phone Contacts</string>
 	<string name="Phone_Contacts">Phone Contacts</string>
-	<string name="Phone_Number">Phone Number</string>
-	<string name="Phone_number_change">Phone number change</string>
+	<string name="Phone_Number">Mobile Number</string>
+	<string name="Phone_number_change">Mobile number change</string>
 	<string name="phone_number_privacy">Who can find me by my number</string>
 	<string name="Photo">Photo</string>
 	<string name="Photos">Photos</string>
@@ -1336,7 +1336,7 @@
 	<string name="processing">Processing</string>
 	<string name="Profile_Badge">Profile Badge</string>
 	<string name="Profile_Badge_description">An exclusive badge next to your name</string>
-	<string name="profile_modify_number">Do you want to change your phone number?</string>
+	<string name="profile_modify_number">Do you want to change your mobile number?</string>
 	<string name="Profile_photo">Profile Photo</string>
 	<string name="profile_share_bot_hint">If you want to share a bot, add it to your contacts first</string>
 	<string name="Public_profile">Public profile (required)</string>
@@ -1380,7 +1380,7 @@
 	<string name="Recovery_Contact">Recovery Contact</string>
 	<string name="Recovery_Kit">Recovery Kit</string>
 	<string name="Recovery_Kit_Attention">Attention: The Recovery Kit cannot help you recover your PIN</string>
-	<string name="Recovery_Kit_instruction">The MPC wallet in Mixin Messenger is built on the decentralized key protocol TIP. You can recover your account through your phone number, mnemonic phrase, or a trusted contact. The complete wallet key exists only in the TEE security environment on the current device. Read the documentation to learn %1$s.</string>
+	<string name="Recovery_Kit_instruction">The MPC wallet in Mixin Messenger is built on the decentralized key protocol TIP. You can recover your account through your mobile number, mnemonic phrase, or a trusted contact. The complete wallet key exists only in the TEE security environment on the current device. Read the documentation to learn %1$s.</string>
 	<string name="red_up_green_down">Red Up / Green Down</string>
 	<string name="Referral">Referral</string>
 	<string name="referral_banner">Invite friends and earn up to 60%% of their trading fees!</string>
