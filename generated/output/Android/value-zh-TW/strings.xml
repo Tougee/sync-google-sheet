@@ -877,6 +877,12 @@
 	<string name="import_single_chain_wallet">匯入單鏈錢包</string>
 	<string name="import_wallet_count">匯入 %1$d 個錢包</string>
 	<string name="import_wallet_count_one">匯入 1 個錢包</string>
+	<string name="import_wallet_guide_1">註冊一個 Mixin 賬號。</string>
+	<string name="import_wallet_guide_2">前往錢包列表 → 新增錢包 > 選擇匯入助記詞。</string>
+	<string name="import_wallet_guide_3">輸入您的 12 或 24 位助記詞或私鑰完成匯入。</string>
+	<string name="import_wallet_guide_4">開始使用。</string>
+	<string name="import_wallet_guide_footer">建立 Mixin 賬號後，將預設生成一個隱私錢包，您的餘額、轉賬、交易等功能都會預設受到隱私保護，檢視檔案瞭解更多。</string>
+	<string name="import_wallet_guide_header">如需使用 12 或 24 位助記詞錢包，請按以下步驟操作：</string>
 	<string name="Import_Wallets">匯入錢包</string>
 	<string name="Import_wallets_from_another_wallet">從其他錢包匯入錢包</string>
 	<string name="Importing_into_your_wallet">正在匯入你的錢包…</string>
@@ -1063,6 +1069,7 @@
 	<string name="mnemonic_phrase_tip_2">·不要在網路上傳送</string>
 	<string name="mnemonic_phrases">助記詞</string>
 	<string name="Mnemonics_Mismatched">助記詞不符</string>
+	<string name="mnemonics_policy">你的助記詞僅用於本地處理，不會進行儲存。</string>
 	<string name="Mobile_Number">手機號碼</string>
 	<string name="Mobile_Number_Added">新增成功</string>
 	<string name="mobile_number_added_description">新增手機號碼有助於提升賬號安全</string>
@@ -1626,6 +1633,7 @@
 	<string name="Sign_in_desktop_app">登入桌面端</string>
 	<string name="sign_in_no_account">還沒有賬戶？</string>
 	<string name="Sign_in_with_Mnemonic_Phrase">助記詞登入</string>
+	<string name="sign_up_15_secs">15 秒完成註冊</string>
 	<string name="sign_up_have_account">已有帳戶?</string>
 	<string name="Sign_with_emergency_contact">透過恢復聯絡人登入</string>
 	<string name="sign_with_mobile_number">透過手機號登入</string>
@@ -1812,6 +1820,7 @@
 	<string name="Unable_synced_between_different_account">不同賬戶之間無法同步聊天記錄</string>
 	<string name="unable_to_decode_the_request">無法解析請求: %1$s</string>
 	<string name="Unable_to_estimate_balance_changes">無法估計資產變化</string>
+	<string name="unavailable_mnemonics_word_count">12 個詞或 24 個詞</string>
 	<string name="Unblock">解除封鎖</string>
 	<string name="UNDO">撤銷</string>
 	<string name="unfamiliar_person_reminder">%1$s（%2$s）不是你的聯絡人，請注意收款人是否正確。</string>

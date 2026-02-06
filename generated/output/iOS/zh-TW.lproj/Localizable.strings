@@ -735,6 +735,12 @@
 "import_single_chain_wallet" = "匯入單鏈錢包";
 "import_wallet_count" = "匯入 %d 個錢包";
 "import_wallet_count_one" = "匯入 1 個錢包";
+"import_wallet_guide_1" = "註冊一個 Mixin 賬號。";
+"import_wallet_guide_2" = "前往錢包列表 → 新增錢包 > 選擇匯入助記詞。";
+"import_wallet_guide_3" = "輸入您的 12 或 24 位助記詞或私鑰完成匯入。";
+"import_wallet_guide_4" = "開始使用。";
+"import_wallet_guide_footer" = "建立 Mixin 賬號後，將預設生成一個隱私錢包，您的餘額、轉賬、交易等功能都會預設受到隱私保護，檢視檔案瞭解更多。";
+"import_wallet_guide_header" = "如需使用 12 或 24 位助記詞錢包，請按以下步驟操作：";
 "import_wallets" = "匯入錢包";
 "import_wallets_from_another_wallet" = "從其他錢包匯入錢包";
 "importing_into_your_wallet" = "正在匯入你的錢包...";
@@ -904,6 +910,7 @@
 "mnemonic_phrase_tip_2" = "·不要在網路上傳送";
 "mnemonic_phrases" = "助記詞";
 "mnemonics_mismatched" = "助記詞不符";
+"mnemonics_policy" = "你的助記詞僅用於本地處理，不會進行儲存。";
 "mobile_contacts" = "通訊錄";
 "mobile_number" = "手機號碼";
 "mobile_number_added" = "新增成功";
@@ -1422,6 +1429,7 @@
 "sign_in" = "登入";
 "sign_in_no_account" = "還沒有賬戶？";
 "sign_in_with_mnemonic_phrase" = "助記詞登入";
+"sign_up_15_secs" = "15 秒完成註冊";
 "sign_up_have_account" = "已有帳戶?";
 "sign_with_emergency_contact" = "透過恢復聯絡人登入";
 "sign_with_mobile_number" = "透過手機號登入";
@@ -1584,6 +1592,7 @@
 "unable_to_save_video" = "儲存影片失敗";
 "unable_to_share_content" = "無法分享此內容";
 "unauthorized" = "未授權";
+"unavailable_mnemonics_word_count" = "12 個詞或 24 個詞";
 "unblock" = "解除封鎖";
 "unfamiliar_person_reminder" = "%1$@（%2$@）不是你的聯絡人，請注意收款人是否正確。";
 "unit_day" = "天";
