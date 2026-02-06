@@ -241,7 +241,7 @@
   <string name="Change_name" platform="iOS">Change name</string>
   <string name="Change_Number" platform="iOS, Desktop">Change Number</string>
   <string name="Change_Number_Instead" platform="android, iOS, Desktop">Change Number Instead</string>
-  <string name="Change_Phone_Number" platform="android, iOS">Change Phone Number</string>
+  <string name="Change_Phone_Number" platform="android, iOS">Change Mobile Number</string>
   <string name="Change_PIN" platform="android, iOS">Change PIN</string>
   <string name="change_pin_interval_hint" platform="iOS">Confirm PIN to change interval</string>
   <string name="Change_PIN_successfully" platform="android, iOS">Change PIN successfully</string>
@@ -561,14 +561,14 @@
   <string name="Encrypted" platform="android">Encrypted</string>
   <string name="End_to_End_Encryption" platform="android, iOS">End-to-end Encrypted</string>
   <string name="Enter_new_anonymous_number" platform="android, iOS">Enter your new anonymous number</string>
-  <string name="Enter_new_phone_number" platform="android, iOS">Enter your new phone number</string>
+  <string name="Enter_new_phone_number" platform="android, iOS">Enter your new mobile number</string>
   <string name="Enter_PIN_to_delete_account" platform="android, iOS, Desktop">Enter your PIN to delete your account</string>
   <string name="enter_to_send" platform="Desktop">Return/Enter ⏎ to Send</string>
   <string name="Enter_your_anonymous_number" platform="android, iOS">Enter your anonymous number</string>
   <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">Enter your recovery contact Mixin ID</string>
   <string name="Enter_your_new_PIN" platform="android,iOS">Enter your new PIN</string>
   <string name="Enter_your_old_PIN" platform="android,iOS">Enter your old PIN</string>
-  <string name="Enter_your_phone_number" platform="android, Desktop">Enter your phone number</string>
+  <string name="Enter_your_phone_number" platform="android, iOS, Desktop">Enter your mobile number</string>
   <string name="Enter_your_PIN" platform="android, iOS">Enter your PIN</string>
   <string name="Enter_your_PIN_to_continue" platform="android, iOS, Desktop">Enter your PIN to continue</string>
   <string name="Enter_your_PIN_to_verify" platform="android">Enter your PIN to verify</string>
@@ -619,10 +619,10 @@
   <string name="error_trading_pair_not_supported" platform="android, iOS">ERROR 10615: This trading pair is currently not supported, please try switching to a different token.</string>
   <string name="error_trading_pair_not_supported_detailed" platform="android,iOS">ERROR 10615: This trading pair is not supported yet. Please try switching to a different token. Try placing a limit order? No restrictions on amount or token.</string>
   <string name="error_permission" platform="android, Desktop">Please open the necessary permissions</string>
-  <string name="error_phone_invalid_format" platform="android, iOS, Desktop">ERROR 20110: Invalid phone number</string>
+  <string name="error_phone_invalid_format" platform="android, iOS, Desktop">ERROR 20110: Invalid mobile number</string>
   <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">ERROR 10003: Failed to deliver SMS</string>
-  <string name="error_phone_verification_code_expired" platform="android, iOS, Desktop">ERROR 20114: Expired phone verification code</string>
-  <string name="error_phone_verification_code_invalid" platform="android, iOS, Desktop">ERROR 20113: Invalid phone verification code</string>
+  <string name="error_phone_verification_code_expired" platform="android, iOS, Desktop">ERROR 20114: Expired verification code</string>
+  <string name="error_phone_verification_code_invalid" platform="android, iOS, Desktop">ERROR 20113: Invalid verification code</string>
   <string name="error_pin_check_too_many_request" platform="android, iOS, Desktop">You have tried more than 5 times, please wait at least 24 hours to try again.</string>
   <string name="error_pin_incorrect" platform="android, iOS, Desktop">ERROR 20119: PIN incorrect</string>
   <string name="error_pin_incorrect_with_times" platform="android, iOS, Desktop">ERROR 20119: PIN incorrect. You still have %1$d chance. Please wait for 24 hours to retry later.</string>
@@ -645,7 +645,7 @@
   <string name="error_unknown_with_code" platform="android, Desktop">ERROR: %1$d</string>
   <string name="error_unknown_with_message" platform="android, Desktop">ERROR: %1$s</string>
   <string name="error_upload_attachment_failed" platform="Desktop">Failed to upload message attachment</string>
-  <string name="error_used_phone" platform="android, iOS, Desktop">ERROR 20122: This phone number is already associated with another account.</string>
+  <string name="error_used_phone" platform="android, iOS, Desktop">ERROR 20122: This mobile number is already associated with another account.</string>
   <string name="error_user_invalid_format" platform="android, Desktop">Invalid user id</string>
   <string name="error_withdrawal_memo_format_incorrect" platform="android, iOS, Desktop">ERROR 20131: Withdrawal memo format incorrect.</string>
   <string name="error_withdrawal_suspend" platform="android, iOS, Desktop">ERROR 20137: Withdrawal suspend.</string>
@@ -808,7 +808,7 @@
   <string name="landing_delete_content" platform="android, iOS, Desktop">You requested to delete your account on %1$s. The account will be deleted on %2$s. If you continue to login, your account deletion will be cancelled.</string>
   <string name="landing_enter_mobile_tip" platform="android">We will never display your mobile number publicly.</string>
   <string name="landing_introduction" platform="android">Tap "Agree &amp; Continue" to accept  the %1$s and %2$s</string>
-  <string name="landing_invitation_dialog_content" platform="android, Desktop">We will send a 4-digit code to your phone number %1$s, please enter the code in next screen.</string>
+  <string name="landing_invitation_dialog_content" platform="android, Desktop">We will send a 4-digit code to your mobile number %1$s, please enter the code in next screen.</string>
   <string name="landing_privacy_policy_url" platform="android">https://mixin.one/pages/privacy</string>
   <string name="landing_terms_url" platform="android">https://mixin.one/pages/terms</string>
   <string name="landing_validation_title" platform="android, iOS, Desktop">Enter the 4-digit code sent to you at %1$s</string>
@@ -1092,8 +1092,8 @@
   <string name="Phone_call" platform="android, iOS">Phone call</string>
   <string name="Phone_Contact" platform="android, iOS">Phone Contacts</string>
   <string name="Phone_Contacts" platform="android, iOS">Phone Contacts</string>
-  <string name="Phone_Number" platform="android, iOS, Desktop">Phone Number</string>
-  <string name="Phone_number_change" platform="android, iOS">Phone number change</string>
+  <string name="Phone_Number" platform="android, iOS, Desktop">Mobile Number</string>
+  <string name="Phone_number_change" platform="android, iOS">Mobile number change</string>
   <string name="phone_number_privacy" platform="android, iOS">Who can find me by my number</string>
   <string name="Photo" platform="android, iOS">Photo</string>
   <string name="Photo_saved" platform="iOS">Photo saved.</string>
@@ -1149,7 +1149,7 @@
   <string name="Process_can_not_be_stop" platform="android,iOS">The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.</string>
   <string name="processing" platform="android">Processing</string>
   <string name="Profile" platform="iOS">Profile</string>
-  <string name="profile_modify_number" platform="android">Do you want to change your phone number?</string>
+  <string name="profile_modify_number" platform="android">Do you want to change your mobile number?</string>
   <string name="Profile_photo" platform="android, iOS">Profile Photo</string>
   <string name="profile_share_bot_hint" platform="android, iOS">If you want to share a bot, add it to your contacts first</string>
   <string name="proxy" platform="Desktop">Proxy</string>
@@ -1491,7 +1491,7 @@
   <string name="Terms_of_Service" platform="android, iOS, Desktop">Terms of Service</string>
   <string name="Text" platform="android, Desktop">Text</string>
   <string name="text" platform="iOS">text</string>
-  <string name="text_confirm_send_code" platform="iOS">Please confirm the phone number %@</string>
+  <string name="text_confirm_send_code" platform="iOS">Please confirm the mobile number %@</string>
   <string name="TEXT_QR_CODE" platform="android, iOS">TEXT QR CODE</string>
   <string name="The_code_is_incorrect" platform="android, iOS">The code is incorrect.</string>
   <string name="Theme" platform="android, Desktop">Theme</string>
@@ -1722,7 +1722,7 @@
   <string name="You_have_a_new_message" platform="iOS">You have a new message</string>
   <string name="You_have_left_the_group" platform="android, iOS">You have left the group</string>
   <string name="Your_emergency_contact_has_been_changed" platform="android,iOS">Your recovery contact has been changed</string>
-  <string name="Your_phone_number_has_been_changed" platform="iOS">Your phone number has been changed</string>
+  <string name="Your_phone_number_has_been_changed" platform="iOS">Your mobile number has been changed</string>
   <string name="Your_PIN_has_been_changed" platform="iOS">Your PIN has been changed</string>
   <string name="your_pin_has_been_created" platform="android, iOS">Your PIN has been created</string>
   <string name="zoom" platform="Desktop">Zoom</string>
@@ -2081,7 +2081,7 @@
   <string name="Set_up_Pin_answer_1" platform="android,iOS">I can recover my account later.</string>
   <string name="Set_up_Pin_answer_2" platform="android,iOS">I will lose access to my account and funds.</string>
   <string name="What_is_Pin" platform="android,iOS">What is PIN?</string>
-  <string name="Recovery_Kit_instruction" platform="android,iOS">The MPC wallet in Mixin Messenger is built on the decentralized key protocol TIP. You can recover your account through your phone number, mnemonic phrase, or a trusted contact. The complete wallet key exists only in the TEE security environment on the current device. Read the documentation to learn %1$s.</string>
+  <string name="Recovery_Kit_instruction" platform="android,iOS">The MPC wallet in Mixin Messenger is built on the decentralized key protocol TIP. You can recover your account through your mobile number, mnemonic phrase, or a trusted contact. The complete wallet key exists only in the TEE security environment on the current device. Read the documentation to learn %1$s.</string>
   <string name="Recovery_Kit_Attention" platform="android,iOS">Attention: The Recovery Kit cannot help you recover your PIN</string>
   <string name="Mobile_Number" platform="android,iOS">Mobile Number</string>
   <string name="Recovery_Contact" platform="android,iOS">Recovery Contact</string>
@@ -2474,7 +2474,7 @@
   <string name="speed_up_failed" platform="android, iOS">Speed up failed</string>
   <string name="btc_tx_already_speedy" platform="android, iOS">Current fee rate is already sufficient; acceleration is meaningless.</string>
   <string name="Verify_Mobile_Number" platform="android, iOS">Verify Mobile Number</string>
-  <string name="periodic_sms_verification_benefits" platform="android, iOS">Periodic SMS verification helps improve account security. If your current phone number is no longer valid, please update it as soon as possible.</string>
+  <string name="periodic_sms_verification_benefits" platform="android, iOS">Periodic SMS verification helps improve account security. If your current mobile number is no longer valid, please update it as soon as possible.</string>
   <string name="Verify_Now" platform="android, iOS">Verify Now</string>
   <string name="Add_Now" platform="android, iOS">Add Now</string>
   <string name="confirm_your_mobile_number" platform="android, iOS">Confirm your mobile number</string>

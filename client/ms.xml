@@ -232,7 +232,7 @@
   <string name="Enable_web_debug" platform="android">Bolehkan laman web nyahpepijat</string>
   <string name="End_to_End_Encryption" platform="android, iOS">Disulitkan</string>
   <string name="Enter_new_phone_number" platform="android, iOS">Masukkan nombor telefon bimbit baharu anda</string>
-  <string name="Enter_your_phone_number" platform="android, Desktop">Masukkan nombor telefon bimbit anda</string>
+  <string name="Enter_your_phone_number" platform="android, iOS, Desktop">Masukkan nombor telefon bimbit anda</string>
   <string name="Enter_your_PIN" platform="android, iOS">Masukkan PIN anda</string>
   <string name="EOS_contract_address" platform="android">alamat kontrak EOS</string>
   <string name="error_authentication" platform="android, Desktop">RALAT 401: Log masuk untuk meneruskan</string>

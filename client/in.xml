@@ -215,7 +215,7 @@
   <string name="Empty_address_book" platform="android">Buku alamat kosong</string>
   <string name="End_to_End_Encryption" platform="android, iOS">Terenkripsi end-to-end</string>
   <string name="Enter_new_phone_number" platform="android, iOS">Masukkan nomor ponsel baru Anda</string>
-  <string name="Enter_your_phone_number" platform="android, Desktop">Masukkan nomor ponsel Anda</string>
+  <string name="Enter_your_phone_number" platform="android, iOS, Desktop">Masukkan nomor ponsel Anda</string>
   <string name="Enter_your_PIN" platform="android, iOS">Masukkan PIN Anda</string>
   <string name="error_authentication" platform="android, Desktop">KESALAHAN 401: Masuk untuk melanjutkan</string>
   <string name="error_bad_data" platform="android, iOS, Desktop">KESALAHAN 10002: Data permintaan memiliki bidang yang tidak valid</string>

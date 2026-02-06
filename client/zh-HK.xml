@@ -563,7 +563,7 @@
   <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">請輸入恢復聯繫人的 Mixin ID</string>
   <string name="Enter_your_new_PIN" platform="android,iOS">輸入你的新 PIN</string>
   <string name="Enter_your_old_PIN" platform="android,iOS">輸入你的舊 PIN</string>
-  <string name="Enter_your_phone_number" platform="android, Desktop">輸入你的手機號碼</string>
+  <string name="Enter_your_phone_number" platform="android, iOS, Desktop">輸入你的手機號碼</string>
   <string name="Enter_your_PIN" platform="android, iOS">輸入你的 PIN</string>
   <string name="Enter_your_PIN_to_continue" platform="android, iOS, Desktop">輸入你的 PIN 以繼續</string>
   <string name="Enter_your_PIN_to_verify" platform="android">輸入你的 PIN 來驗證</string>

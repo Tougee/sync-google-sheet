@@ -508,7 +508,7 @@
   <string name="Enter_PIN_to_delete_account" platform="android, iOS, Desktop">Introduce tu PIN para eliminar tu cuenta</string>
   <string name="Enter_your_new_PIN" platform="android,iOS">Introduce tu nuevo PIN</string>
   <string name="Enter_your_old_PIN" platform="android,iOS">Introduce tu antiguo PIN</string>
-  <string name="Enter_your_phone_number" platform="android, Desktop">Introduce tu número telefónico</string>
+  <string name="Enter_your_phone_number" platform="android, iOS, Desktop">Introduce tu número telefónico</string>
   <string name="Enter_your_PIN" platform="android, iOS">Introduce tu PIN</string>
   <string name="Enter_your_PIN_to_continue" platform="android, iOS, Desktop">Introduce tu PIN para continuar</string>
   <string name="EOS_contract_address" platform="android">Dirección del contrato EOS</string>

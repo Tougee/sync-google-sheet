@@ -468,7 +468,7 @@
   <string name="English" platform="iOS">Английский</string>
   <string name="Enter_new_phone_number" platform="android">Введите новый номер телефона</string>
   <string name="Enter_PIN_to_delete_account" platform="android, iOS">Введите свой PIN-код, чтобы удалить свою учетную запись</string>
-  <string name="Enter_your_phone_number" platform="android, Desktop">Введите свой номер телефона</string>
+  <string name="Enter_your_phone_number" platform="android, iOS, Desktop">Введите свой номер телефона</string>
   <string name="Enter_your_PIN" platform="android, iOS">Введите свой PIN-код</string>
   <string name="Enter_your_PIN_to_continue" platform="android, iOS">Введите PIN-код, чтобы продолжить</string>
   <string name="EOS_contract_address" platform="android">Адрес контракта EOS</string>
