@@ -915,6 +915,7 @@
 "mobile_number" = "手機號碼";
 "mobile_number_added" = "添加成功";
 "mobile_number_added_description" = "添加手機號碼有助於提升賬號安全";
+"mobile_number_changed" = "已更改手機號碼";
 "mobile_phone" = "手機";
 "monthly" = "每月";
 "months_count_short" = "%d月";

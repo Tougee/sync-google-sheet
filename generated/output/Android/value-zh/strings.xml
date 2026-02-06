@@ -1073,6 +1073,7 @@
 	<string name="Mobile_Number">手机号码</string>
 	<string name="Mobile_Number_Added">添加成功</string>
 	<string name="mobile_number_added_description">添加手机号码有助于提升账号安全</string>
+	<string name="Mobile_Number_Changed">已更改手机号码</string>
 	<string name="Mobile_Phone">手机</string>
 	<string name="Model">手机型号</string>
 	<string name="Monday">星期一</string>

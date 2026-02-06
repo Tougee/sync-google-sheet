@@ -1087,6 +1087,7 @@
 	<string name="Mobile_Number">Mobile Number</string>
 	<string name="Mobile_Number_Added">Mobile Number Added</string>
 	<string name="mobile_number_added_description">Adding mobile number helps improve account security</string>
+	<string name="Mobile_Number_Changed">Mobile Number Changed</string>
 	<string name="Mobile_Phone">Mobile Phone</string>
 	<string name="Model">Model</string>
 	<string name="Monday">Monday</string>
