@@ -22,6 +22,7 @@
 	<string name="access_your_contacts_list">access your contacts list</string>
 	<string name="access_your_snapshots">access your snapshots</string>
 	<string name="Account">Account</string>
+	<string name="Account_Creation_Failed">Account Creation Failed</string>
 	<string name="Accounts">Accounts</string>
 	<string name="Add">Add</string>
 	<string name="add_a_note">Add a note</string>

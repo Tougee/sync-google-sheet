@@ -22,6 +22,7 @@
 	<string name="access_your_contacts_list">訪問你的聯絡人列表</string>
 	<string name="access_your_snapshots">訪問你的轉賬記錄</string>
 	<string name="Account">賬號</string>
+	<string name="Account_Creation_Failed">建立賬號失敗</string>
 	<string name="Accounts">賬戶</string>
 	<string name="Add">新增</string>
 	<string name="add_a_note">新增轉賬備註</string>
