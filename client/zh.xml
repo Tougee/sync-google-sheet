@@ -2460,6 +2460,7 @@
   <string name="sms_verified_description" platform="android, iOS">定期进行短信验证有助于提升账号安全</string>
   <string name="Mobile_Number_Added" platform="android, iOS">添加成功</string>
   <string name="mobile_number_added_description" platform="android, iOS">添加手机号码有助于提升账号安全</string>
+  <string name="Mobile_Number_Changed" platform="android, iOS">已更改手机号码</string>
   <string name="onboarding_mixin_description" platform="android, iOS">开源加密钱包，集成 Signal 安全通信</string>
   <string name="onboarding_decentralized_title" platform="android, iOS">你的私钥，你的资产</string>
   <string name="onboarding_decentralized_description" platform="android, iOS">去中心化·开源·审计验证·非托管钱包，资产完全由你掌控</string>
