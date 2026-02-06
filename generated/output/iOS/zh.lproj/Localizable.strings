@@ -735,10 +735,10 @@
 "import_single_chain_wallet" = "导入单链钱包";
 "import_wallet_count" = "导入 %d 个钱包";
 "import_wallet_count_one" = "导入 1 个钱包";
-"import_wallet_guide_1" = "注册一个 Mixin 账号。";
-"import_wallet_guide_2" = "前往钱包列表 → 添加钱包 > 选择导入助记词。";
-"import_wallet_guide_3" = "输入您的 12 或 24 位助记词或私钥完成导入。";
-"import_wallet_guide_4" = "开始使用。";
+"import_wallet_guide_1" = "· 注册一个 Mixin 账号。";
+"import_wallet_guide_2" = "· 前往钱包列表 → 添加钱包 > 选择导入助记词。";
+"import_wallet_guide_3" = "· 输入您的 12 或 24 位助记词或私钥完成导入。";
+"import_wallet_guide_4" = "· 开始使用。";
 "import_wallet_guide_footer" = "创建 Mixin 账号后，将默认生成一个隐私钱包，您的余额、转账、交易等功能都会默认受到隐私保护，查看文档了解更多。";
 "import_wallet_guide_header" = "如需使用 12 或 24 位助记词钱包，请按以下步骤操作：";
 "import_wallets" = "导入钱包";
