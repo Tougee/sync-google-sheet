@@ -143,7 +143,7 @@
   <string name="Contact" platform="android, iOS, Desktop">Kontak</string>
   <string name="contact_count.count" platform="android, iOS">%1$d kontak</string>
   <string name="contact_empty_tip" platform="android">Mixin perlu mengakses kontak Anda untuk membantu Anda terhubung dengan orang lain di Mixin.</string>
-  <string name="contact_invite_content" platform="android, iOS">Hai, saya menggunakan Mixin Messenger untuk mengobrol. Unduh di sini: https://mixin.one/messenger .</string>
+  <string name="contact_invite_content" platform="android, iOS">Hai, saya menggunakan Mixin untuk mengobrol. Unduh di sini: https://mixin.one/messenger .</string>
   <string name="contact_mixin_id" platform="android, iOS, Desktop">Mixin ID: %1$s</string>
   <string name="contact_mobile" platform="android, iOS">Seluler: %1$s</string>
   <string name="contact_mute_title" platform="android, Desktop">Matikan notifikasi selama…</string>
@@ -186,7 +186,7 @@
   <string name="Delete_Synced_Contact" platform="android, iOS">Hapus Kontak yang Disinkronkan</string>
   <string name="Delete_withdraw_Address" platform="android, iOS">Hapus Alamat %1$s</string>
   <string name="Deposit" platform="android, iOS, Desktop">Deposit</string>
-  <string name="deposit_account_attention" platform="android, iOS">Perhatian: Harap coba jumlah kecil untuk deposit pertama. Memo dan Alamat diperlukan agar deposit %1$s Anda ke Mixin Messenger dapat dilakukan dengan sukses.</string>
+  <string name="deposit_account_attention" platform="android, iOS">Perhatian: Harap coba jumlah kecil untuk deposit pertama. Memo dan Alamat diperlukan agar deposit %1$s Anda ke Mixin dapat dilakukan dengan sukses.</string>
   <string name="deposit_attention" platform="android, iOS">Harap coba jumlah kecil untuk deposit pertama.</string>
   <string name="deposit_confirmation.count" platform="android, iOS">Deposit akan tiba setelah setidaknya %1$d konfirmasi block</string>
   <string name="deposit_tip_btc" platform="android, iOS">Alamat ini hanya mendukung BTC.</string>
@@ -195,7 +195,7 @@
   <string name="deposit_tip_eth" platform="android, iOS">Alamat ini mendukung semua token ERC-20, seperti ETH, XIN, dll.</string>
   <string name="deposit_tip_trx" platform="android, iOS">Alamat ini mendukung semua token TRC-10 dan TRC-20, seperti TRX, BTT, USDT-TRON, dll.</string>
   <string name="desktop" platform="android">desktop</string>
-  <string name="desktop_upgrade" platform="android, iOS">Harap tingkatkan Mixin Messenger Desktop ke versi terbaru.</string>
+  <string name="desktop_upgrade" platform="android, iOS">Harap tingkatkan Mixin Desktop ke versi terbaru.</string>
   <string name="detect_qr_tip" platform="android, iOS">Mendeteksi kode QR Mixin, ketuk untuk mengenali</string>
   <string name="Developer" platform="android, iOS, Desktop">Pengembang</string>
   <string name="DISCARD" platform="android">BUANG</string>
@@ -366,7 +366,7 @@
   <string name="Minute.count" platform="android, iOS">%d Menit</string>
   <string name="Mixin" platform="android, iOS">Mixin</string>
   <string name="Mixin_ID" platform="android">Mixin ID</string>
-  <string name="Mixin_Messenger_Desktop" platform="android, iOS, Desktop">Mixin Messenger Desktop</string>
+  <string name="Mixin_Messenger_Desktop" platform="android, iOS, Desktop">Mixin Desktop</string>
   <string name="Monday" platform="android">Senin</string>
   <string name="More" platform="android, iOS, Desktop">Lebih banyak</string>
   <string name="Multisig_by_PIN" platform="android">Multisig dengan PIN</string>

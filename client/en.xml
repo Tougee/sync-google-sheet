@@ -286,7 +286,7 @@
   <string name="chat_not_support_uri_on_phone" platform="Desktop">This type of url is not supported, please check on your phone.</string>
   <string name="chat_not_support_url" platform="android, Desktop">https://support.mixin.one/en/article/how-to-do-when-you-receive-a-message-like-this-this-type-of-message-is-not-supported-please-upgrade-mixin-17j1t3p</string>
   <string name="chat_not_support_view_on_phone" platform="Desktop">This type of message is not supported, please check on your phone.</string>
-  <string name="chat_on_mixin_content" platform="android, iOS">Let's chat on Mixin Messenger! Simple, safe, and easy to use. It also supports Bitcoin, Ethereum, and other cryptocurrencies, download https://mixin.one/messenger and search @%1$s to add me as a friend.</string>
+  <string name="chat_on_mixin_content" platform="android, iOS">Let's chat on Mixin! Simple, safe, and easy to use. It also supports Bitcoin, Ethereum, and other cryptocurrencies, download https://mixin.one/messenger and search @%1$s to add me as a friend.</string>
   <string name="chat_pin_message" platform="android, iOS, Desktop">%1$s pinned %2$s</string>
   <string name="Chat_pinned" platform="android">Chat pinned</string>
   <string name="chat_recall_delete_alert" platform="android, iOS">Messages you selected will be deleted for everyone on the latest version of Mixin in this chat.</string>
@@ -358,7 +358,7 @@
   <string name="Contact_Developer" platform="android, iOS">Contact Developer</string>
   <string name="contact_empty_tip" platform="android">Mixin needs access your contacts to help you connect with other people on Mixin.</string>
   <string name="contact_favorite_bots_title" platform="android, iOS">%1$s's Favorite Bots</string>
-  <string name="contact_invite_content" platform="android, iOS">Hey, I'm using Mixin Messenger to chat. Download it here: https://mixin.one/messenger</string>
+  <string name="contact_invite_content" platform="android, iOS">Hey, I'm using Mixin to chat. Download it here: https://mixin.one/messenger</string>
   <string name="contact_mixin_id" platform="android, iOS, Desktop">Mixin ID: %1$s</string>
   <string name="contact_mobile" platform="android, iOS">Mobile: %1$s</string>
   <string name="contact_mute_title" platform="android, Desktop">Mute notifications for…</string>
@@ -469,7 +469,7 @@
   <string name="Delete_withdraw_Address" platform="android, iOS">Delete %1$s Address</string>
   <string name="Deleted" platform="iOS">Deleted</string>
   <string name="Deposit" platform="android, iOS, Desktop">Deposit</string>
-  <string name="deposit_account_attention" platform="android, iOS">Attention: Please try a small amount for the first deposit. Both a Memo and an Address are required to successfully deposit your %1$s to Mixin Messenger.</string>
+  <string name="deposit_account_attention" platform="android, iOS">Attention: Please try a small amount for the first deposit. Both a Memo and an Address are required to successfully deposit your %1$s to Mixin.</string>
   <string name="deposit_attention" platform="android, iOS">Please try a small amount for the first deposit.</string>
   <string name="deposit_confirmation" platform="android, iOS">Deposit will arrive %1$d block confirmation</string>
   <string name="deposit_confirmation.count" platform="android, iOS">Deposit will arrive %1$d block confirmations</string>
@@ -493,7 +493,7 @@
   <string name="desktop" platform="android">desktop</string>
   <string name="desktop_login_no_pin" platform="android">For your account security, please set up the PIN before logging into the desktop app.</string>
   <string name="desktop_on_hint" platform="android, iOS">You have your desktop logged in</string>
-  <string name="desktop_upgrade" platform="android, iOS">Please upgrade Mixin Messenger Desktop to the latest version.</string>
+  <string name="desktop_upgrade" platform="android, iOS">Please upgrade Mixin Desktop to the latest version.</string>
   <string name="detect_qr_tip" platform="android, iOS">Detected a Mixin QR code, tap to recognize</string>
   <string name="Developer" platform="android, iOS, Desktop">Developer</string>
   <string name="Device_unsupported" platform="android">Device unsupported</string>
@@ -832,7 +832,7 @@
   <string name="Line_busy" platform="android, iOS">Line busy</string>
   <string name="Line_busy_remote" platform="android, iOS">Line busy</string>
   <string name="link_desktop" platform="android,iOS">Link Desktop</string>
-  <string name="link_desktop_description" platform="android,iOS">Link Mixin Messenger Desktop by QR code</string>
+  <string name="link_desktop_description" platform="android,iOS">Link Mixin Desktop by QR code</string>
   <string name="Link_desktop_failed" platform="android">Link desktop failed</string>
   <string name="Link_desktop_success" platform="android">Link desktop success</string>
   <string name="Link_recognition_failure" platform="iOS">Link recognition failure</string>
@@ -866,8 +866,8 @@
   <string name="Log_in" platform="android, iOS, Desktop">Log in</string>
   <string name="log_out_from_desktop" platform="android, iOS">Log out from desktop</string>
   <string name="login_and_abort_account_deletion" platform="android, iOS, Desktop">Continue to log in and abort account deletion</string>
-  <string name="login_by_qrcode" platform="Desktop">Login to Mixin Messenger by QR Code</string>
-  <string name="login_by_qrcode_tips_1" platform="Desktop">Open Mixin Messenger on your phone.</string>
+  <string name="login_by_qrcode" platform="Desktop">Login to Mixin by QR Code</string>
+  <string name="login_by_qrcode_tips_1" platform="Desktop">Open Mixin on your phone.</string>
   <string name="login_by_qrcode_tips_2" platform="Desktop">Scan the QR Code on the screen and confirm your login.</string>
   <string name="Login_desktop_first" platform="iOS,android">Please log in to the desktop first</string>
   <string name="Login_with_PIN" platform="android">Login with PIN</string>
@@ -915,7 +915,7 @@
   <string name="Mixin_ID" platform="android">Mixin ID</string>
   <string name="mixin_id_or_phone" platform="iOS">Mixin ID, Phone number</string>
   <string name="Mixin_Locked" platform="android, iOS">Mixin Locked</string>
-  <string name="Mixin_Messenger_Desktop" platform="android, iOS, Desktop">Mixin Messenger Desktop</string>
+  <string name="Mixin_Messenger_Desktop" platform="android, iOS, Desktop">Mixin Desktop</string>
   <string name="Mixin_server_encounters_errors" platform="iOS">Mixin server encounters errors</string>
   <string name="Mobile_Contacts" platform="iOS">Mobile Contacts</string>
   <string name="Model" platform="android">Model</string>
@@ -967,7 +967,7 @@
   <string name="new_name" platform="iOS">new name</string>
   <string name="new_price" platform="android">New Price</string>
   <string name="new_version_available" platform="Desktop">New version available</string>
-  <string name="new_version_description" platform="Desktop">Mixin Messenger %1$s is now available, you have %2$s. Would you like to download it now?</string>
+  <string name="new_version_description" platform="Desktop">Mixin %1$s is now available, you have %2$s. Would you like to download it now?</string>
   <string name="Next" platform="android, iOS, Desktop">Next</string>
   <string name="next_conversation" platform="Desktop">Next conversation</string>
   <string name="NO_AUDIO" platform="android, iOS, Desktop">NO AUDIO</string>
@@ -1014,7 +1014,7 @@
   <string name="Not_turn_off_screen_hint" platform="iOS,android">Please do not turn off the screen and keep Mixin in the foreground when synchronizing.</string>
   <string name="Notice" platform="android">Notice</string>
   <string name="Notification_and_Confirmation" platform="android, iOS">Notification and Confirmation</string>
-  <string name="notification_channel_description" platform="android">Shows what music is currently playing in Mixin Messenger</string>
+  <string name="notification_channel_description" platform="android">Shows what music is currently playing in Mixin</string>
   <string name="notification_content" platform="android, iOS, Desktop">Enable push notifications to stay updated on price alerts and messages in real time.</string>
   <string name="notification_message_preview_description" platform="iOS">Preview message text inside new message notifications.</string>
   <string name="notification_permission_manually" platform="Desktop">Notifications are not allowed, please go to Notification Settings to turn on.</string>
@@ -1040,7 +1040,7 @@
   <string name="one_year" platform="android, iOS, Desktop">1 Year</string>
   <string name="Ongoing_voice_call" platform="android">Ongoing voice call</string>
   <string name="Open" platform="android, iOS">Open</string>
-  <string name="Open_Desktop_to_Confirm" platform="iOS,android">Please open your Mixin Messenger desktop to confirm the operation.</string>
+  <string name="Open_Desktop_to_Confirm" platform="iOS,android">Please open your Mixin desktop to confirm the operation.</string>
   <string name="Open_Home_page" platform="android, iOS, Desktop">Open Home page</string>
   <string name="Open_in_browser" platform="android, iOS">Open in browser</string>
   <string name="Open_in_gaode_maps" platform="iOS">Open in 高德地图</string>
@@ -1243,7 +1243,7 @@
   <string name="Restore_From_icloud_Confirmation" platform="iOS">There are already %1$d local chat records, and the last message was created at %2$s. Are you sure you want to overwrite the local data with the chat data on iCloud?</string>
   <string name="Restore_from_PC" platform="iOS,android">Restore from PC</string>
   <string name="Restore_from_PC_Hint" platform="iOS,android">Restore your chat history from PC</string>
-  <string name="Restore_from_PC_Tip" platform="iOS,android">Synchronize your chat history from the Mixin Messenger desktop client. The synchronization will not overwrite the local records but only incrementally synchronize them. Please make sure that both devices are connected to the same Wi-Fi or hotspot.</string>
+  <string name="Restore_from_PC_Tip" platform="iOS,android">Synchronize your chat history from the Mixin desktop client. The synchronization will not overwrite the local records but only incrementally synchronize them. Please make sure that both devices are connected to the same Wi-Fi or hotspot.</string>
   <string name="restore_in_progress" platform="android">Restore in progress</string>
   <string name="restore_info" platform="android">Restore your messages from external storage.\nIf you don't restore new, you won't be able to restore later.</string>
   <string name="restore_message" platform="android">Back up your messages and media to external storage. You can restore them when you reinstall Mixin. Your messages and media will also back up to your phone's internal storage. Media and messages your back up are not protected by Mixin end-to-end encryption while in external storage.</string>
@@ -1356,13 +1356,13 @@
   <string name="Set_emergency_create_successfully" platform="android,iOS">Set recovery contact successfully</string>
   <string name="Set_new_PIN" platform="android, iOS">Set a new PIN</string>
   <string name="Set_or_update_PIN_failed" platform="android,iOS">Set or update PIN failed</string>
-  <string name="set_passcode_desc" platform="Desktop">Set Passcode to unlock Mixin Messenger</string>
+  <string name="set_passcode_desc" platform="Desktop">Set Passcode to unlock Mixin</string>
   <string name="Set_PIN" platform="android">Set PIN</string>
   <string name="Set_PIN_successfully" platform="android, iOS">Set PIN successfully</string>
   <string name="setting_appearance_language_alert_description" platform="iOS">You can pick a preferred language in settings</string>
   <string name="setting_auth_access" platform="android, iOS">Approved: %1$s, Last Accessed: %2$s</string>
   <string name="setting_auth_search_hint" platform="android, iOS, Desktop">Mixin ID, Name</string>
-  <string name="setting_backup_tips" platform="iOS, Desktop">Back up your chat history to iCloud. if you lose your iPhone or switch to a new one, you can restore your chat history when you reinstall Mixin Messenger. Messages you back up are not protected by Mixin Messenger end-to-end encryption while in iCloud.</string>
+  <string name="setting_backup_tips" platform="iOS, Desktop">Back up your chat history to iCloud. if you lose your iPhone or switch to a new one, you can restore your chat history when you reinstall Mixin. Messages you back up are not protected by Mixin end-to-end encryption while in iCloud.</string>
   <string name="setting_battery_optimize_title" platform="android">This will improve reliability for incoming notifications and Mixin calls</string>
   <string name="setting_battery_optimize_title_one_ui_above_s" platform="android">This will improve reliability for incoming notifications and Mixin calls. Please select **Optimised** or **Unrestricted** in Settings > Battery.</string>
   <string name="setting_battery_optimize_title_one_ui_below_s" platform="android">This will improve reliability for incoming notifications and Mixin calls. Tap Settings -> Battery and turn **Allow background activity** on.</string>
@@ -1541,7 +1541,7 @@
   <string name="Transfer_to_Another_Phone_Hint" platform="iOS,android">Transfer your chat history to another device</string>
   <string name="Transfer_to_Mixin_address" platform="iOS">Transfer to Mixin address</string>
   <string name="Transfer_to_PC" platform="iOS,android">Transfer to PC</string>
-  <string name="Transfer_to_PC_Hint" platform="iOS,android">Synchronize your chat history to the Mixin Messenger desktop version. Please make sure both devices are connected to the same Wi-Fi or hotspot.</string>
+  <string name="Transfer_to_PC_Hint" platform="iOS,android">Synchronize your chat history to the Mixin desktop version. Please make sure both devices are connected to the same Wi-Fi or hotspot.</string>
   <string name="Transfer_to_user_or_bot" platform="iOS">Transfer to user or bot</string>
   <string name="transfer_without_pin" platform="android">You must setup PIN for transfer</string>
   <string name="Transferring_chat_Progress" platform="iOS,android">Transferring Chat (%1$s%%)</string>
@@ -1578,10 +1578,10 @@
   <string name="unknow_error" platform="Desktop">Unknow error</string>
   <string name="Unknown" platform="android, iOS">Unknown</string>
   <string name="Unknown_artist" platform="iOS">Unknown Artist</string>
-  <string name="unlock_mixin_messenger" platform="Desktop">Unlock Mixin Messenger</string>
+  <string name="unlock_mixin_messenger" platform="Desktop">Unlock Mixin</string>
   <string name="Unlock_with_fingerprint" platform="android">Unlock with fingerprint</string>
   <string name="unlock_with_fingerprint_desc" platform="android">When enabled, you'll need to use fingerprint to open Mixin.</string>
-  <string name="unlock_with_wasscode" platform="Desktop">Enter Passcode to unlock Mixin Messenger</string>
+  <string name="unlock_with_wasscode" platform="Desktop">Enter Passcode to unlock Mixin</string>
   <string name="Unmute" platform="android, iOS, Desktop">Unmute</string>
   <string name="Unmuted" platform="iOS">Unmuted</string>
   <string name="Unnamed_location" platform="android, iOS">Unnamed location</string>
@@ -2059,7 +2059,7 @@
   <string name="Signing_in_to_your_account" platform="android,iOS">Signing in to your account…</string>
   <string name="Creating_your_account" platform="android,iOS">Creating your account…</string>
   <string name="Set_up_Pin" platform="android,iOS">Set up PIN</string>
-  <string name="Set_up_Pin_desc" platform="android,iOS">The MPC Wallet in Mixin Messenger is built on a decentralized key protocol (TIP). The PIN is one of the key shards. The full wallet key exists only in the TEE security environment on the current device. Read the documentation to learn %1$s.</string>
+  <string name="Set_up_Pin_desc" platform="android,iOS">The MPC Wallet in Mixin is built on a decentralized key protocol (TIP). The PIN is one of the key shards. The full wallet key exists only in the TEE security environment on the current device. Read the documentation to learn %1$s.</string>
   <string name="More_Information" platform="android,iOS">more information</string>
   <string name="set_up_pin_instruction_1" platform="android,iOS">Please complete the process in a stable network environment.</string>
   <string name="set_up_pin_instruction_2" platform="android,iOS">Please keep the app in the foreground and do not force quit it during the setup process.</string>
@@ -2081,7 +2081,7 @@
   <string name="Set_up_Pin_answer_1" platform="android,iOS">I can recover my account later.</string>
   <string name="Set_up_Pin_answer_2" platform="android,iOS">I will lose access to my account and funds.</string>
   <string name="What_is_Pin" platform="android,iOS">What is PIN?</string>
-  <string name="Recovery_Kit_instruction" platform="android,iOS">The MPC wallet in Mixin Messenger is built on the decentralized key protocol TIP. You can recover your account through your mobile number, mnemonic phrase, or a trusted contact. The complete wallet key exists only in the TEE security environment on the current device. Read the documentation to learn %1$s.</string>
+  <string name="Recovery_Kit_instruction" platform="android,iOS">The MPC wallet in Mixin is built on the decentralized key protocol TIP. You can recover your account through your mobile number, mnemonic phrase, or a trusted contact. The complete wallet key exists only in the TEE security environment on the current device. Read the documentation to learn %1$s.</string>
   <string name="Recovery_Kit_Attention" platform="android,iOS">Attention: The Recovery Kit cannot help you recover your PIN</string>
   <string name="Mobile_Number" platform="android,iOS">Mobile Number</string>
   <string name="Recovery_Contact" platform="android,iOS">Recovery Contact</string>
@@ -2106,7 +2106,7 @@
   <string name="Add_Mobile_Number" platform="android,iOS">Add Mobile Number</string>
   <string name="add_phone_instruction_1" platform="android,iOS">The mobile number and mnemonic phrase will link to the same key shard.</string>
   <string name="add_phone_instruction_2" platform="android,iOS">The mobile number and mnemonic phrase log into the same account.</string>
-  <string name="add_phone_instruction_3" platform="android,iOS">You cannot add a mobile number registered to a Mixin Messenger account.</string>
+  <string name="add_phone_instruction_3" platform="android,iOS">You cannot add a mobile number registered to a Mixin account.</string>
   <string name="add_phone_instruction_4" platform="android,iOS">Once bound, the mobile number cannot be removed.</string>
   <string name="Change_Mobile_Number" platform="android,iOS">Change Mobile Number</string>
   <string name="Add_Recovery_Contact_desc" platform="android,iOS">The recovery contact is designed to help you log in to your account if you are lost and cannot retrieve your mobile number or mnemonic phrase.</string>
@@ -2115,8 +2115,8 @@
   <string name="add_recovery_contact_instruction_3" platform="android,iOS">The recovery contact cannot transfer assets from your Mixin wallet but can help you regain access to your account.</string>
   <string name="add_recovery_contact_instruction_4" platform="android,iOS">The recovery contact cannot recover your PIN.</string>
   <string name="Im_Ready" platform="android,iOS">I'm Ready</string>
-  <string name="add_recovery_contact_before_instruction_1" platform="android,iOS">The recovery contact you want to add has downloaded and logged in to Mixin Messenger.</string>
-  <string name="add_recovery_contact_before_instruction_2" platform="android,iOS">The recovery contact you want to add keeps Mixin Messenger online or is meeting with you face-to-face.</string>
+  <string name="add_recovery_contact_before_instruction_1" platform="android,iOS">The recovery contact you want to add has downloaded and logged in to Mixin.</string>
+  <string name="add_recovery_contact_before_instruction_2" platform="android,iOS">The recovery contact you want to add keeps Mixin online or is meeting with you face-to-face.</string>
   <string name="add_recovery_contact_before_instruction_3" platform="android,iOS">The recovery contact you want to add has added the current account (%1$s) as a contact; otherwise, they may not receive the verification code.</string>
   <string name="Mixin_Support" platform="android,iOS">Mixin Support</string>
   <string name="Ask_me_anything" platform="android,iOS">Ask me anything</string>
@@ -2138,8 +2138,8 @@
   <string name="Export_mnemonic_phrase" platform="android,iOS">Export mnemonic phrase</string>
   <string name="Upgrade_safe" platform="android,iOS">Upgrade safe</string>
   <string name="All_assets_will_be_lost" platform="android,iOS">All assets will be lost</string>
-  <string name="desktop_login" platform="android,iOS">Login to Mixin Messenger Desktop</string>
-  <string name="desktop_logout" platform="android,iOS">Logout Mixin Messenger Desktop</string>
+  <string name="desktop_login" platform="android,iOS">Login to Mixin Desktop</string>
+  <string name="desktop_logout" platform="android,iOS">Logout Mixin Desktop</string>
   <string name="forget_pin" platform="android,iOS">Forget PIN?</string>
   <string name="switch_account" platform="android,iOS">Switch Account</string>
   <string name="url_support" platform="android,iOS">https://support.mixin.one/en/</string>
@@ -2166,7 +2166,7 @@
   <string name="Deposits_Pending_Confirmation" platform="android,iOS">%1$d Deposits Pending Confirmation</string>
   <string name="pending_transaction_one" platform="android,iOS">1 Pending Transaction</string>
   <string name="pending_transactions_count" platform="android,iOS">%1$d Pending Transactions</string>
-  <string name="open_source" platform="android,iOS">Copyright Mixin Messenger\nLicensed under the GPLv3</string>
+  <string name="open_source" platform="android,iOS">Copyright Mixin\nLicensed under the GPLv3</string>
   <string name="single_transaction_should_be_greater_than" platform="android,iOS">Minimum amount %1$s %2$s</string>
   <string name="single_transaction_should_be_less_than" platform="android,iOS">Maximum amount %1$s %2$s</string>
   <string name="single_transaction_should_be_between" platform="android,iOS">Amount range be %1$s %2$s ~ %3$s %4$s</string>
@@ -2322,7 +2322,7 @@
   <string name="import_wallet_count_one" platform="android, iOS">Import 1 Wallet</string>
   <string name="Show_Private_Key" platform="android, iOS">Show Private Key</string>
   <string name="export_secret_warning_1" platform="android, iOS">Anyone who gains access to this %1$s can transfer all assets from your wallet.</string>
-  <string name="export_secret_warning_2" platform="android, iOS">Mixin Messenger does not store your %1$s on its servers.</string>
+  <string name="export_secret_warning_2" platform="android, iOS">Mixin does not store your %1$s on its servers.</string>
   <string name="export_secret_warning_3" platform="android, iOS">Never share your %1$s with any third party, individual, website, or application.</string>
   <string name="export_secret_warning_4" platform="android, iOS">Ensure that no one — including surveillance cameras — can see your screen.</string>
   <string name="Your_Mnemonic_Phrase" platform="android, iOS">Your Mnemonic Phrase</string>
@@ -2516,4 +2516,5 @@
   <string name="import_wallet_guide_footer" platform="android, iOS">After creating a Mixin account, a Privacy Wallet will be generated by default. Your assets, transactions, and trades are protected by privacy features. See the documentation to learn more.</string>
   <string name="sign_up_15_secs" platform="android, iOS">Sign up in just 15 seconds</string>
   <string name="Account_Creation_Failed" platform="android, iOS">Account Creation Failed</string>
+  <string name="Sign_in_Failed" platform="android, iOS">Sign in Failed</string>
 </resources>

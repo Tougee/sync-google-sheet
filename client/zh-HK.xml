@@ -286,7 +286,7 @@
   <string name="chat_on_mixin_content" platform="android, iOS">快來 Mixin 與我聊天！簡單、安全好用還支持比特幣、以太坊等加密貨幣，下載 https://mixin.one/messenger 後搜索 @%1$s 加我好友。</string>
   <string name="chat_pin_message" platform="android, iOS, Desktop">%1$s置頂了%2$s</string>
   <string name="Chat_pinned" platform="android">會話已置頂</string>
-  <string name="chat_recall_delete_alert" platform="android, iOS">所有使用最新版本 Mixin Messenger 的設備都將刪除被選中的消息</string>
+  <string name="chat_recall_delete_alert" platform="android, iOS">所有使用最新版本 Mixin 的設備都將刪除被選中的消息</string>
   <string name="chat_restore_subtitle" platform="iOS">如果現在不恢復，未來將無法恢復這些記錄。媒體檔案將在信息恢復完成後在後台繼續運行。</string>
   <string name="chat_text_size" platform="android, Desktop, iOS">聊天字體大小</string>
   <string name="Chat_unpinned" platform="android">置頂會話已取消</string>
@@ -463,7 +463,7 @@
   <string name="Delete_withdraw_Address" platform="android, iOS">刪除 %1$s 地址</string>
   <string name="Deleted" platform="iOS">已刪除</string>
   <string name="Deposit" platform="android, iOS, Desktop">充值</string>
-  <string name="deposit_account_attention" platform="android, iOS">注意：首次充值建議小額嘗試！地址和 Memo（備註）同時使用才能充值 %1$s 到 Mixin Messenger。</string>
+  <string name="deposit_account_attention" platform="android, iOS">注意：首次充值建議小額嘗試！地址和 Memo（備註）同時使用才能充值 %1$s 到 Mixin。</string>
   <string name="deposit_attention" platform="android, iOS">首次充值建議小額嘗試！</string>
   <string name="deposit_confirmation" platform="android, iOS">充值到賬需要 %1$d 個區塊確認。</string>
   <string name="deposit_confirmation.count" platform="android, iOS">充值到賬需要 %1$d 個區塊確認。</string>
@@ -487,7 +487,7 @@
   <string name="desktop" platform="android">桌面端</string>
   <string name="desktop_login_no_pin" platform="android">為了您的安全，登錄桌面前請先設置 PIN 碼！</string>
   <string name="desktop_on_hint" platform="android, iOS">桌面版已登入。</string>
-  <string name="desktop_upgrade" platform="android, iOS">請升級 Mixin Messenger 桌面端至最新版！</string>
+  <string name="desktop_upgrade" platform="android, iOS">請升級 Mixin 桌面端至最新版！</string>
   <string name="detect_qr_tip" platform="android, iOS">檢測到一個 Mixin 二維碼，點擊識別</string>
   <string name="Developer" platform="android, iOS, Desktop">開發者</string>
   <string name="Device_unsupported" platform="android">當前設備不支持</string>
@@ -749,7 +749,7 @@
   <string name="how_are_you" platform="iOS, Desktop">嗨，你好嗎？</string>
   <string name="i_am_good" platform="iOS, Desktop">我很好。</string>
   <string name="I_know" platform="android">我知道了</string>
-  <string name="identity_verification_description" platform="android">正在驗證您的身份。一旦您的驗證完成，我們將通過 Mixin Messenger 向您發送消息。</string>
+  <string name="identity_verification_description" platform="android">正在驗證您的身份。一旦您的驗證完成，我們將通過 Mixin 向您發送消息。</string>
   <string name="identity_verifying" platform="android">正在審核</string>
   <string name="ignore_this_version" platform="Desktop">忽略這次版本更新</string>
   <string name="image" platform="iOS, Desktop">圖像</string>
@@ -854,8 +854,8 @@
   <string name="Log_in" platform="android, iOS, Desktop">登錄</string>
   <string name="log_out_from_desktop" platform="android, iOS">從桌面版退出</string>
   <string name="login_and_abort_account_deletion" platform="android, iOS, Desktop">繼續登錄並放棄刪除賬户</string>
-  <string name="login_by_qrcode" platform="Desktop">通過二維碼登錄 Mixin Messenger</string>
-  <string name="login_by_qrcode_tips_1" platform="Desktop">打開手機上的 Mixin Messenger。</string>
+  <string name="login_by_qrcode" platform="Desktop">通過二維碼登錄 Mixin</string>
+  <string name="login_by_qrcode_tips_1" platform="Desktop">打開手機上的 Mixin。</string>
   <string name="login_by_qrcode_tips_2" platform="Desktop">掃描屏幕上的二維碼，確認登錄。</string>
   <string name="Login_desktop_first" platform="iOS,android">請先登錄桌面端</string>
   <string name="Login_with_PIN" platform="android">用 PIN 來登錄</string>
@@ -902,7 +902,7 @@
   <string name="Mixin" platform="android, iOS">Mixin</string>
   <string name="mixin_id_or_phone" platform="iOS">Mixin ID 或手機號</string>
   <string name="Mixin_Locked" platform="android, iOS">Mixin 已鎖定</string>
-  <string name="Mixin_Messenger_Desktop" platform="android, iOS, Desktop">Mixin Messenger 桌面</string>
+  <string name="Mixin_Messenger_Desktop" platform="android, iOS, Desktop">Mixin 桌面</string>
   <string name="Mixin_server_encounters_errors" platform="iOS">服務器出錯，請稍後重試</string>
   <string name="Mobile_Contacts" platform="iOS">通訊錄</string>
   <string name="Model" platform="android">手機型號</string>
@@ -954,7 +954,7 @@
   <string name="new_name" platform="iOS">名稱</string>
   <string name="new_price" platform="android">最新價格</string>
   <string name="new_version_available" platform="Desktop">發現新版本</string>
-  <string name="new_version_description" platform="Desktop">發現新版本 Mixin Messenger %1$s，當前版本為 %2$s。是否要下載最新的版本？</string>
+  <string name="new_version_description" platform="Desktop">發現新版本 Mixin %1$s，當前版本為 %2$s。是否要下載最新的版本？</string>
   <string name="Next" platform="android, iOS, Desktop">下一步</string>
   <string name="next_conversation" platform="Desktop">下一個會話</string>
   <string name="NO_AUDIO" platform="android, iOS, Desktop">沒有音頻</string>
@@ -1001,7 +1001,7 @@
   <string name="Not_turn_off_screen_hint" platform="iOS,android">同步時請不要關閉屏幕並保持 Mixin 在前台運行。</string>
   <string name="Notice" platform="android">注意</string>
   <string name="Notification_and_Confirmation" platform="android, iOS">通知和確認</string>
-  <string name="notification_channel_description" platform="android">顯示 Mixin Messenger 中正在播放的音樂</string>
+  <string name="notification_channel_description" platform="android">顯示 Mixin 中正在播放的音樂</string>
   <string name="notification_content" platform="android, iOS, Desktop">啓用推送通知以實時更新價格警報和消息。</string>
   <string name="notification_message_preview_description" platform="iOS">在推送通知中顯示消息內容。</string>
   <string name="notification_permission_manually" platform="Desktop">未允許通知，請到通知設置開啓。</string>
@@ -1027,7 +1027,7 @@
   <string name="one_year" platform="android, iOS, Desktop">1 年</string>
   <string name="Ongoing_voice_call" platform="android">正在進行語音通話</string>
   <string name="Open" platform="android, iOS">打開</string>
-  <string name="Open_Desktop_to_Confirm" platform="iOS,android">請打開您的 Mixin Messenger 桌面端來確認此操作。</string>
+  <string name="Open_Desktop_to_Confirm" platform="iOS,android">請打開您的 Mixin 桌面端來確認此操作。</string>
   <string name="Open_Home_page" platform="android, iOS, Desktop">打開主頁</string>
   <string name="Open_in_browser" platform="android, iOS">在瀏覽器中打開</string>
   <string name="Open_in_gaode_maps" platform="iOS">在高德地圖中打開</string>
@@ -1229,7 +1229,7 @@
   <string name="Restore_From_icloud_Confirmation" platform="iOS">已經有 %1$d 條本地聊天記錄，最後一條消息的時間是 %2$s，確定用 iCloud 上的聊天數據覆蓋本地數據嗎？</string>
   <string name="Restore_from_PC" platform="iOS,android">從桌面恢復</string>
   <string name="Restore_from_PC_Hint" platform="iOS,android">從桌面端恢復你的聊天記錄</string>
-  <string name="Restore_from_PC_Tip" platform="iOS,android">從 Mixin Messenger 桌面端同步你的聊天記錄，同步不會覆蓋本地記錄只會增量同步，請確保兩台設備接入同一個 Wi-Fi 或熱點。</string>
+  <string name="Restore_from_PC_Tip" platform="iOS,android">從 Mixin 桌面端同步你的聊天記錄，同步不會覆蓋本地記錄只會增量同步，請確保兩台設備接入同一個 Wi-Fi 或熱點。</string>
   <string name="restore_in_progress" platform="android">還原正在進行中</string>
   <string name="restore_info" platform="android">從外部存儲還原您的對話。如果您選擇現在不進行還原，您稍後將無法還原資料。</string>
   <string name="restore_message" platform="android">如果您之前曾備份到外部存儲並且現在想要還原備份，請給與 Mixin 相應權限以檢查您外部存儲裏的備份。</string>
@@ -1347,7 +1347,7 @@
   <string name="setting_appearance_language_alert_description" platform="iOS">前往系統設置修改語言偏好</string>
   <string name="setting_auth_access" platform="android, iOS">授權時間：%1$s, 上次訪問：%2$s</string>
   <string name="setting_auth_search_hint" platform="android, iOS, Desktop">Mixin ID, 暱稱</string>
-  <string name="setting_backup_tips" platform="iOS, Desktop">備份你的聊天記錄到 iCloud。如果你丟失或者更換手機，你可以在重新安裝 Mixin Messenger 時恢復你的聊天記錄。注意備份到 iCloud 中的聊天記錄不受端對端加密保護！</string>
+  <string name="setting_backup_tips" platform="iOS, Desktop">備份你的聊天記錄到 iCloud。如果你丟失或者更換手機，你可以在重新安裝 Mixin 時恢復你的聊天記錄。注意備份到 iCloud 中的聊天記錄不受端對端加密保護！</string>
   <string name="setting_battery_optimize_title" platform="android">這將提高 Mixin 通知和呼叫的可靠性。</string>
   <string name="setting_battery_optimize_title_one_ui_above_s" platform="android">這將提高 Mixin 通知和呼叫的可靠性. 請在設置 &gt; 電池中選擇 **已優化** 或者 **不受限制**。</string>
   <string name="setting_battery_optimize_title_one_ui_below_s" platform="android">這將提高 Mixin 通知和呼叫的可靠性。點擊設置 -&gt; 電池，開啓**允許後台活動**。</string>
@@ -1525,7 +1525,7 @@
   <string name="Transfer_to_Another_Phone_Hint" platform="iOS,android">備份你的聊天記錄到另一台設備</string>
   <string name="Transfer_to_Mixin_address" platform="iOS">給主網地址轉賬</string>
   <string name="Transfer_to_PC" platform="iOS,android">備份到桌面端</string>
-  <string name="Transfer_to_PC_Hint" platform="iOS,android">同步你的聊天記錄到 Mixin Messenger 桌面端，請確保兩台設備接入同一個 Wi-Fi 或熱點。</string>
+  <string name="Transfer_to_PC_Hint" platform="iOS,android">同步你的聊天記錄到 Mixin 桌面端，請確保兩台設備接入同一個 Wi-Fi 或熱點。</string>
   <string name="Transfer_to_user_or_bot" platform="iOS">給用户或機器人轉賬</string>
   <string name="transfer_without_pin" platform="android">轉賬前請先設置 PIN</string>
   <string name="Transferring_chat_Progress" platform="iOS,android">傳輸聊天記錄（%1$s%%）</string>
@@ -1562,10 +1562,10 @@
   <string name="unknow_error" platform="Desktop">未知錯誤</string>
   <string name="Unknown" platform="android, iOS">未知</string>
   <string name="Unknown_artist" platform="iOS">未知藝術家</string>
-  <string name="unlock_mixin_messenger" platform="Desktop">解鎖 Mixin Messenger</string>
+  <string name="unlock_mixin_messenger" platform="Desktop">解鎖 Mixin</string>
   <string name="Unlock_with_fingerprint" platform="android">使用指紋解鎖</string>
   <string name="unlock_with_fingerprint_desc" platform="android">啓用後，您需要使用指紋解鎖以開啓 Mixin。</string>
-  <string name="unlock_with_wasscode" platform="Desktop">輸入密碼解鎖 Mixin Messenger</string>
+  <string name="unlock_with_wasscode" platform="Desktop">輸入密碼解鎖 Mixin</string>
   <string name="Unmute" platform="android, iOS, Desktop">取消靜音</string>
   <string name="Unmuted" platform="iOS">已取消靜音</string>
   <string name="Unnamed_location" platform="android, iOS">未命名地點</string>
@@ -2036,7 +2036,7 @@
   <string name="Signing_in_to_your_account" platform="android,iOS">正在登錄賬户…</string>
   <string name="Creating_your_account" platform="android,iOS">正在創建賬户…</string>
   <string name="Set_up_Pin" platform="android,iOS">設置 PIN</string>
-  <string name="Set_up_Pin_desc" platform="android,iOS">Mixin Messenger 的 MPC 錢包基於去中心化密鑰協議 TIP 構建，PIN 是密鑰分片之一。錢包完整的密鑰只存在當前設備的 TEE 安全環境中。閲讀文檔以瞭解%1$s。</string>
+  <string name="Set_up_Pin_desc" platform="android,iOS">Mixin 的 MPC 錢包基於去中心化密鑰協議 TIP 構建，PIN 是密鑰分片之一。錢包完整的密鑰只存在當前設備的 TEE 安全環境中。閲讀文檔以瞭解%1$s。</string>
   <string name="More_Information" platform="android,iOS">更多信息</string>
   <string name="set_up_pin_instruction_1" platform="android,iOS">請在穩定的網絡環境下完成操作。</string>
   <string name="set_up_pin_instruction_2" platform="android,iOS">請保持應用在前台運行，設置過程中請勿強制退出。</string>
@@ -2058,7 +2058,7 @@
   <string name="Set_up_Pin_answer_1" platform="android,iOS">我可以稍後恢復我的帳户。</string>
   <string name="Set_up_Pin_answer_2" platform="android,iOS">我將無法訪問我的帳户和資金。</string>
   <string name="What_is_Pin" platform="android,iOS">什麼是 PIN ?</string>
-  <string name="Recovery_Kit_instruction" platform="android,iOS">Mixin Messenger 的 MPC 錢包基於去中心化密鑰協議 TIP 構建，您可以通過手機號、助記詞或可信聯繫人登錄恢復你的賬號，錢包完整的密鑰只存在當前設備的 TEE 安全環境中，閲讀文檔以瞭解%1$s。</string>
+  <string name="Recovery_Kit_instruction" platform="android,iOS">Mixin 的 MPC 錢包基於去中心化密鑰協議 TIP 構建，您可以通過手機號、助記詞或可信聯繫人登錄恢復你的賬號，錢包完整的密鑰只存在當前設備的 TEE 安全環境中，閲讀文檔以瞭解%1$s。</string>
   <string name="Recovery_Kit_Attention" platform="android,iOS">注意：賬號恢復無法幫助您恢復 PIN</string>
   <string name="Mobile_Number" platform="android,iOS">手機號碼</string>
   <string name="Recovery_Contact" platform="android,iOS">恢復聯繫人</string>
@@ -2083,7 +2083,7 @@
   <string name="Add_Mobile_Number" platform="android,iOS">添加手機號碼</string>
   <string name="add_phone_instruction_1" platform="android,iOS">手機號和助記詞將鏈接到同一個密鑰分片。</string>
   <string name="add_phone_instruction_2" platform="android,iOS">手機號和助記詞登錄的是同一個賬號。</string>
-  <string name="add_phone_instruction_3" platform="android,iOS">無法添加一個已註冊為 Mixin Messenger 賬號的手機號。</string>
+  <string name="add_phone_instruction_3" platform="android,iOS">無法添加一個已註冊為 Mixin 賬號的手機號。</string>
   <string name="add_phone_instruction_4" platform="android,iOS">手機號綁定後無法刪除。</string>
   <string name="Change_Mobile_Number" platform="android,iOS">更改手機號碼</string>
   <string name="Add_Recovery_Contact_desc" platform="android,iOS">恢復聯繫人旨在幫助您在丟失手機號碼或助記詞時登錄您的帳户。</string>
@@ -2092,8 +2092,8 @@
   <string name="add_recovery_contact_instruction_3" platform="android,iOS">恢復聯繫人無法轉移您 Mixin 錢包裏的資產，但可以協助您重新訪問賬號。</string>
   <string name="add_recovery_contact_instruction_4" platform="android,iOS">恢復聯繫人無法恢復您的 PIN 。</string>
   <string name="Im_Ready" platform="android,iOS">準備好了</string>
-  <string name="add_recovery_contact_before_instruction_1" platform="android,iOS">要添加的恢復聯繫人已下載並登錄了 Mixin Messenger。</string>
-  <string name="add_recovery_contact_before_instruction_2" platform="android,iOS">要添加的恢復聯繫人保持 Mixin Messenger 在線或者正在與您面對面。</string>
+  <string name="add_recovery_contact_before_instruction_1" platform="android,iOS">要添加的恢復聯繫人已下載並登錄了 Mixin。</string>
+  <string name="add_recovery_contact_before_instruction_2" platform="android,iOS">要添加的恢復聯繫人保持 Mixin 在線或者正在與您面對面。</string>
   <string name="add_recovery_contact_before_instruction_3" platform="android,iOS">要添加的恢復聯繫人已添加當前賬號（%1$s）為聯繫人，否則對方可能無法收到驗證碼。</string>
   <string name="Mixin_Support" platform="android,iOS">Mixin 客服</string>
   <string name="Ask_me_anything" platform="android,iOS">向我提問</string>
@@ -2115,8 +2115,8 @@
   <string name="Export_mnemonic_phrase" platform="android,iOS">導出助記詞</string>
   <string name="Upgrade_safe" platform="android,iOS">升級 Safe</string>
   <string name="All_assets_will_be_lost" platform="android,iOS">所有資產將無法取回</string>
-  <string name="desktop_login" platform="android,iOS">登錄 Mixin Messenger 桌面端</string>
-  <string name="desktop_logout" platform="android,iOS">退出 Mixin Messenger 桌面端</string>
+  <string name="desktop_login" platform="android,iOS">登錄 Mixin 桌面端</string>
+  <string name="desktop_logout" platform="android,iOS">退出 Mixin 桌面端</string>
   <string name="forget_pin" platform="android,iOS">忘記 PIN？</string>
   <string name="switch_account" platform="android,iOS">切換賬號</string>
   <string name="url_support" platform="android,iOS">https://support.mixin.one/zh/</string>
@@ -2143,7 +2143,7 @@
   <string name="Deposits_Pending_Confirmation" platform="android,iOS">有 %1$d 筆充值確認中</string>
   <string name="pending_transaction_one" platform="android,iOS">有 1 筆交易處理中</string>
   <string name="pending_transactions_count" platform="android,iOS">有 %1$d 筆交易處理中</string>
-  <string name="open_source" platform="android,iOS">版權所有 Mixin Messenger\n根據 GPL-3.0 授權許可</string>
+  <string name="open_source" platform="android,iOS">版權所有 Mixin\n根據 GPL-3.0 授權許可</string>
   <string name="single_transaction_should_be_greater_than" platform="android,iOS">最低金額 %1$s %2$s</string>
   <string name="single_transaction_should_be_less_than" platform="android,iOS">最高金額 %1$s %2$s</string>
   <string name="single_transaction_should_be_between" platform="android,iOS">金額範圍 %1$s %2$s ~ %3$s %4$s</string>
@@ -2299,7 +2299,7 @@
   <string name="import_wallet_count_one" platform="android, iOS">導入 1 個錢包</string>
   <string name="Show_Private_Key" platform="android, iOS">查看私鑰</string>
   <string name="export_secret_warning_1" platform="android, iOS">任何擁有此%1$s的人都可以轉移該錢包中所有的資金。</string>
-  <string name="export_secret_warning_2" platform="android, iOS">Mixin Messenger 服務器不會保存您的%1$s。</string>
+  <string name="export_secret_warning_2" platform="android, iOS">Mixin 服務器不會保存您的%1$s。</string>
   <string name="export_secret_warning_3" platform="android, iOS">請勿與任何第三方、個人、網站或應用程序分享您的%1$s。</string>
   <string name="export_secret_warning_4" platform="android, iOS">確保沒有人或監控攝像頭正在看你的屏幕。</string>
   <string name="Your_Mnemonic_Phrase" platform="android, iOS">你的錢包助記詞</string>

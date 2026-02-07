@@ -127,7 +127,7 @@
   <string name="chat_list_empty_info" platform="android, iOS">Anda boleh bersembang dengan kenalan yang memasang Mixin di telefon mereka</string>
   <string name="chat_not_support" platform="android, iOS">Mesej jenis ini tidak disokong, sila tingkatkan Mixin ke versi terkini. %1$s.</string>
   <string name="chat_not_support_url" platform="android, Desktop">https://mixinmessenger.zendesk.com/hc/articles/360043776071</string>
-  <string name="chat_on_mixin_content" platform="android, iOS">Mari sembang di Mixin Messenger! Ringkas, selamat, dan senang digunakan. Ia juga menyokong Bitcoin, Ethereum, dan cryptocurrency lain, muat turun https://mixin.one/messenger dan cari @%1$s untuk menambahkan saya sebagai rakan.</string>
+  <string name="chat_on_mixin_content" platform="android, iOS">Mari sembang di Mixin! Ringkas, selamat, dan senang digunakan. Ia juga menyokong Bitcoin, Ethereum, dan cryptocurrency lain, muat turun https://mixin.one/messenger dan cari @%1$s untuk menambahkan saya sebagai rakan.</string>
   <string name="chat_recall_delete_alert" platform="android, iOS">Mesej yang anda pilih akan dihapus untuk semua orang pada versi terbaharu Mixin dalam sembang ini.</string>
   <string name="chat_waiting" platform="android, iOS">Menunggu %1$s untuk berada dalam talian dan tubuhkan sesi yang disulitkan. %2$s.</string>
   <string name="check_trace_failed" platform="android">Periksa maklumat jejak gagal, sila cuba lagi</string>
@@ -152,7 +152,7 @@
   <string name="contact_count.count" platform="android, iOS">%1$d kenalan</string>
   <string name="Contact_Developer" platform="android, iOS">Hubungi Pembangun</string>
   <string name="contact_empty_tip" platform="android">Mixin perlu mengakses kenalan anda untuk membantu anda berhubung dengan orang lain di Mixin.</string>
-  <string name="contact_invite_content" platform="android, iOS">Hei, saya menggunakan Mixin Messenger untuk sembang. Muat turun di sini: https://mixin.one/messenger .</string>
+  <string name="contact_invite_content" platform="android, iOS">Hei, saya menggunakan Mixin untuk sembang. Muat turun di sini: https://mixin.one/messenger .</string>
   <string name="contact_mixin_id" platform="android, iOS, Desktop">Mixin ID: %1$s</string>
   <string name="contact_mobile" platform="android, iOS">Mudah alih: %1$s</string>
   <string name="contact_mute_title" platform="android, Desktop">Senyapkan pemberitahuan untuk…</string>
@@ -198,7 +198,7 @@
   <string name="Delete_Synced_Contact" platform="android, iOS">Padam Kenalan yang selaraskan</string>
   <string name="Delete_withdraw_Address" platform="android, iOS">Padamkan Alamat %1$s</string>
   <string name="Deposit" platform="android, iOS, Desktop">Deposit</string>
-  <string name="deposit_account_attention" platform="android, iOS">Perhatian: Cuba sebilangan kecil untuk deposit pertama. Kedua-dua Memo dan Alamat diperlukan untuk memasukkan deposit anda dengan jayanya %1$s ke Mixin Messenger.</string>
+  <string name="deposit_account_attention" platform="android, iOS">Perhatian: Cuba sebilangan kecil untuk deposit pertama. Kedua-dua Memo dan Alamat diperlukan untuk memasukkan deposit anda dengan jayanya %1$s ke Mixin.</string>
   <string name="deposit_attention" platform="android, iOS">Cuba sedikit untuk deposit pertama.</string>
   <string name="deposit_confirmation.count" platform="android, iOS">Deposit akan tiba setelah sekurang-kurangnya %1$d pengesahan sekatan</string>
   <string name="deposit_tip_btc" platform="android, iOS">Alamat ini hanya menyokong BTC.</string>
@@ -207,7 +207,7 @@
   <string name="deposit_tip_eth" platform="android, iOS">Alamat ini menyokong semua token ERC-20, seperti ETH, XIN, dll.</string>
   <string name="deposit_tip_trx" platform="android, iOS">Alamat ini menyokong semua token TRC-10 dan TRC-20, seperti TRX, BTT, USDT-TRON, dll.</string>
   <string name="desktop" platform="android">desktop</string>
-  <string name="desktop_upgrade" platform="android, iOS">Sila tingkatkan Mixin Messenger Desktop kepada versi terkini.</string>
+  <string name="desktop_upgrade" platform="android, iOS">Sila tingkatkan Mixin Desktop kepada versi terkini.</string>
   <string name="detect_qr_tip" platform="android, iOS">Mengesan kod QR Mixin, ketuk untuk mengenali</string>
   <string name="Developer" platform="android, iOS, Desktop">Pemaju</string>
   <string name="Device_unsupported" platform="android">Peranti tidak disokong</string>
@@ -390,7 +390,7 @@
   <string name="Minute.count" platform="android, iOS">%d Minit</string>
   <string name="Mixin" platform="android, iOS">Mixin</string>
   <string name="Mixin_ID" platform="android">Mixin ID</string>
-  <string name="Mixin_Messenger_Desktop" platform="android, iOS, Desktop">Desktop Mixin Messenger</string>
+  <string name="Mixin_Messenger_Desktop" platform="android, iOS, Desktop">Desktop Mixin</string>
   <string name="Monday" platform="android">Isnin</string>
   <string name="More" platform="android, iOS, Desktop">Lebih banyak lagi</string>
   <string name="Multisig_by_PIN" platform="android">Multisig dengan PIN</string>
@@ -444,7 +444,7 @@
   <string name="Not_logged_in" platform="android">Tidak log masuk</string>
   <string name="Not_support" platform="android">Tidak sokong</string>
   <string name="Notification_and_Confirmation" platform="android, iOS">Pemberitahuan dan Pengesahan</string>
-  <string name="notification_channel_description" platform="android">Tunjukkan muzik apa yang sedang dimainkan di Mixin Messenger</string>
+  <string name="notification_channel_description" platform="android">Tunjukkan muzik apa yang sedang dimainkan di Mixin</string>
   <string name="Notifications" platform="android, Desktop">Pemberitahuan</string>
   <string name="Now_Playing" platform="android">Main sekarang</string>
   <string name="number_reached_limit" platform="android">Jumlahnya sudah mencapai had</string>

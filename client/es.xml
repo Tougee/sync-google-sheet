@@ -271,7 +271,7 @@
   <string name="chat_not_support_uri_on_phone" platform="Desktop">Este tipo de URL no es compatible, verifícalo en su teléfono.</string>
   <string name="chat_not_support_url" platform="android, Desktop">https://mixinmessenger.zendesk.com/hc/articles/360043776071</string>
   <string name="chat_not_support_view_on_phone" platform="Desktop">Este tipo de mensaje no es compatible, verifícalo en su teléfono.</string>
-  <string name="chat_on_mixin_content" platform="android, iOS">¡Chateemos en Mixin Messenger! Sencillo, seguro y fácil de usar. También es compatible con Bitcoin, Ethereum y otras criptomonedas. Descarga https://mixin.one/messenger y busca \@%1$s para añadirme como amigo.</string>
+  <string name="chat_on_mixin_content" platform="android, iOS">¡Chateemos en Mixin! Sencillo, seguro y fácil de usar. También es compatible con Bitcoin, Ethereum y otras criptomonedas. Descarga https://mixin.one/messenger y busca \@%1$s para añadirme como amigo.</string>
   <string name="chat_pin_message" platform="android, iOS, Desktop">%1$s ha fijado %2$s</string>
   <string name="Chat_pinned" platform="android">Chat fijado</string>
   <string name="chat_recall_delete_alert" platform="android, iOS">Los mensajes que has seleccionado se eliminarán para todos en la última versión de Mixin en este chat.</string>
@@ -326,7 +326,7 @@
   <string name="contact_count.count" platform="android, iOS">%1$d contactos</string>
   <string name="Contact_Developer" platform="android, iOS">Contactar al desarrollador</string>
   <string name="contact_empty_tip" platform="android">Mixin necesita acceder a tus contactos para ayudarte a conectarse con otras personas en Mixin.</string>
-  <string name="contact_invite_content" platform="android, iOS">Oye, estoy usando Mixin Messenger para chatear. Descárgalo aquí: https://mixin.one/messenger</string>
+  <string name="contact_invite_content" platform="android, iOS">Oye, estoy usando Mixin para chatear. Descárgalo aquí: https://mixin.one/messenger</string>
   <string name="contact_mixin_id" platform="android, iOS, Desktop">ID de Mixin: %1$s</string>
   <string name="contact_mobile" platform="android, iOS">Móvil: %1$s</string>
   <string name="contact_mute_title" platform="android, Desktop">Silenciar notificaciones para…</string>
@@ -427,7 +427,7 @@
   <string name="Delete_withdraw_Address" platform="android, iOS">Eliminar dirección de %1$s</string>
   <string name="Deleted" platform="iOS">Eliminado</string>
   <string name="Deposit" platform="android, iOS, Desktop">Depósito</string>
-  <string name="deposit_account_attention" platform="android, iOS">Atención: prueba con una pequeña cantidad para el primer depósito. Se requiere una nota y una dirección para depositar correctamente tu %1$s en Mixin Messenger.</string>
+  <string name="deposit_account_attention" platform="android, iOS">Atención: prueba con una pequeña cantidad para el primer depósito. Se requiere una nota y una dirección para depositar correctamente tu %1$s en Mixin.</string>
   <string name="Deposit_at_least" platform="iOS">Deposita al menos %@ %@ por primera vez.</string>
   <string name="deposit_attention" platform="android, iOS">Prueba con una pequeña cantidad para el primer depósito.</string>
   <string name="deposit_confirmation" platform="android, iOS">El depósito llegará %1$d confirmación de bloqueo</string>
@@ -443,7 +443,7 @@
   <string name="desktop" platform="android">escritorio</string>
   <string name="desktop_login_no_pin" platform="android">Para la seguridad de tu cuenta, configura el PIN antes de iniciar sesión en la aplicación de escritorio.</string>
   <string name="desktop_on_hint" platform="android, iOS">Tienes tu escritorio conectado</string>
-  <string name="desktop_upgrade" platform="android, iOS">Actualiza Mixin Messenger Desktop a la última versión.</string>
+  <string name="desktop_upgrade" platform="android, iOS">Actualiza Mixin Desktop a la última versión.</string>
   <string name="detect_qr_tip" platform="android, iOS">Se ha detectado un código QR de Mixin, toca para reconocer</string>
   <string name="Developer" platform="android, iOS, Desktop">Desarrollador</string>
   <string name="Device_unsupported" platform="android">Dispositivo no compatible</string>
@@ -751,7 +751,7 @@
   <string name="Log_in" platform="android, iOS, Desktop">Iniciar sesión</string>
   <string name="log_out_from_desktop" platform="android, iOS">Cerrar sesión desde el escritorio</string>
   <string name="login_and_abort_account_deletion" platform="android, iOS, Desktop">Continuar para iniciar sesión y cancelar la eliminación de la cuenta</string>
-  <string name="login_by_qrcode" platform="Desktop">Iniciar sesión en Mixin Messenger por código QR</string>
+  <string name="login_by_qrcode" platform="Desktop">Iniciar sesión en Mixin por código QR</string>
   <string name="Login_with_PIN" platform="android">Iniciar sesión con PIN</string>
   <string name="Logined" platform="iOS">Sesión iniciada</string>
   <string name="Logout" platform="android">Cerrar sesión…</string>
@@ -789,7 +789,7 @@
   <string name="Mixin_ID" platform="android">ID de Mixin</string>
   <string name="mixin_id_or_phone" platform="iOS">ID de Mixin, número de teléfono</string>
   <string name="Mixin_Locked" platform="android, iOS">Mixin bloqueado</string>
-  <string name="Mixin_Messenger_Desktop" platform="android, iOS, Desktop">Mixin Messenger de Escritorio</string>
+  <string name="Mixin_Messenger_Desktop" platform="android, iOS, Desktop">Mixin de Escritorio</string>
   <string name="Mixin_server_encounters_errors" platform="iOS">El servidor Mixin encuentra errores</string>
   <string name="Mobile_Contacts" platform="iOS">Contactos móviles</string>
   <string name="Model" platform="android">Modelo</string>
@@ -834,7 +834,7 @@
   <string name="new_group_name" platform="android">nuevo nombre de grupo</string>
   <string name="new_name" platform="iOS">nuevo nombre</string>
   <string name="new_version_available" platform="Desktop">Nueva versión disponible</string>
-  <string name="new_version_description" platform="Desktop">Mixin Messenger %1$s ya está disponible, tienes %2$s. ¿Te gustaría descargarlo ahora?</string>
+  <string name="new_version_description" platform="Desktop">Mixin %1$s ya está disponible, tienes %2$s. ¿Te gustaría descargarlo ahora?</string>
   <string name="News" platform="iOS">Noticias</string>
   <string name="Next" platform="android, iOS, Desktop">Próximo</string>
   <string name="next_conversation" platform="Desktop">Próxima conversación</string>
@@ -877,7 +877,7 @@
   <string name="Not_support" platform="android">No compatible</string>
   <string name="Notice" platform="android">Aviso</string>
   <string name="Notification_and_Confirmation" platform="android, iOS">Notificación y Confirmación</string>
-  <string name="notification_channel_description" platform="android">Muestra qué música se está reproduciendo actualmente en Mixin Messenger</string>
+  <string name="notification_channel_description" platform="android">Muestra qué música se está reproduciendo actualmente en Mixin</string>
   <string name="notification_message_preview_description" platform="iOS">Obtén una vista previa del texto del mensaje dentro de las notificaciones de mensajes nuevos.</string>
   <string name="notification_permission_manually" platform="Desktop">Las notificaciones no están permitidas, ve a Configuración de notificaciones para activarlas.</string>
   <string name="Notifications" platform="android, Desktop">Notificaciones</string>
@@ -1148,7 +1148,7 @@
   <string name="setting_appearance_language_alert_description" platform="iOS">Puedes elegir un idioma preferido en la configuración</string>
   <string name="setting_auth_access" platform="android, iOS">Aprobado: %1$s, último acceso: %2$s</string>
   <string name="setting_auth_search_hint" platform="android, iOS, Desktop">ID de Mixin, nombre</string>
-  <string name="setting_backup_tips" platform="iOS, Desktop">Haz una copia de seguridad de tu historial de chat en iCloud. si pierdes tu iPhone o cambias a uno nuevo, puedes restaurar tu historial de chat cuando reinstales Mixin Messenger. Los mensajes de los que realizas una copia de seguridad no están protegidos por el cifrado de extremo a extremo de Mixin Messenger mientras estás en iCloud.</string>
+  <string name="setting_backup_tips" platform="iOS, Desktop">Haz una copia de seguridad de tu historial de chat en iCloud. si pierdes tu iPhone o cambias a uno nuevo, puedes restaurar tu historial de chat cuando reinstales Mixin. Los mensajes de los que realizas una copia de seguridad no están protegidos por el cifrado de extremo a extremo de Mixin mientras estás en iCloud.</string>
   <string name="setting_battery_optimize_title" platform="android">Esto mejorará la confiabilidad de las notificaciones entrantes y las llamadas de Mixin.</string>
   <string name="setting_battery_optimize_title_one_ui_above_s" platform="android">Esto mejorará la confiabilidad de las notificaciones entrantes y las llamadas de Mixin. Selecciona **Optimizado** o **Sin restricciones** en Configuración &gt; Batería.</string>
   <string name="setting_battery_optimize_title_one_ui_below_s" platform="android">Esto mejorará la confiabilidad de las notificaciones entrantes y las llamadas de Mixin. Pulsa Configuración -&gt; Batería y activa **Permitir actividad en segundo plano**.</string>
@@ -1454,7 +1454,7 @@
   <string name="search_unread" platform="Desktop">Buscar no leído</string>
   <string name="clear_filter" platform="Desktop">Limpiar filtro</string>
   <string name="error_upload_attachment_failed" platform="Desktop">No se ha podido cargar el archivo adjunto del mensaje</string>
-  <string name="login_by_qrcode_tips_1" platform="Desktop">Abre Mixin Messenger en tu teléfono.</string>
+  <string name="login_by_qrcode_tips_1" platform="Desktop">Abre Mixin en tu teléfono.</string>
   <string name="login_by_qrcode_tips_2" platform="Desktop">Escanea el código QR en la pantalla y confirma tu inicio de sesión.</string>
   <string name="chat_text_size" platform="Desktop, iOS">Tamaño del texto del chat</string>
   <string name="draft" platform="Desktop">Borrador</string>
