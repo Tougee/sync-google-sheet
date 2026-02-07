@@ -130,7 +130,7 @@
 "messageE2ee" : "Pesan ke percakapan ini dienkripsi end-to-end, ketuk untuk info selengkapnya.",
 "messageNotFound" : "Pesan tidak ditemukan",
 "messageNotSupport" : "Jenis pesan ini tidak didukung, harap tingkatkan Mixin ke versi terbaru.",
-"mixinMessengerDesktop" : "Mixin Messenger Desktop",
+"mixinMessengerDesktop" : "Mixin Desktop",
 "more" : "Lebih banyak",
 "multisigTransaction" : "Transaksi Multisig",
 "myMixinId" : "ID Mixin saya: {arg0}",

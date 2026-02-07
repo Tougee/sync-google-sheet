@@ -463,7 +463,7 @@
   <string name="Delete_withdraw_Address" platform="android, iOS">刪除 %1$s 地址</string>
   <string name="Deleted" platform="iOS">已刪除</string>
   <string name="Deposit" platform="android, iOS, Desktop">充值</string>
-  <string name="deposit_account_attention" platform="android, iOS">注意：首次充值建議小額嘗試！地址和 Memo（備註）同時使用才能充值 %1$s 到 Mixin。</string>
+  <string name="deposit_account_attention" platform="android, iOS">注意：首次充值建議小額嘗試！地址和 Memo（備註）同時使用才能充值 %1$s 到 Mixin Messenger。</string>
   <string name="deposit_attention" platform="android, iOS">首次充值建議小額嘗試！</string>
   <string name="deposit_confirmation" platform="android, iOS">充值到賬需要 %1$d 個區塊確認。</string>
   <string name="deposit_confirmation.count" platform="android, iOS">充值到賬需要 %1$d 個區塊確認。</string>
@@ -855,7 +855,7 @@
   <string name="log_out_from_desktop" platform="android, iOS">從桌面版退出</string>
   <string name="login_and_abort_account_deletion" platform="android, iOS, Desktop">繼續登入並放棄刪除賬戶</string>
   <string name="login_by_qrcode" platform="Desktop">透過二維碼登入 Mixin</string>
-  <string name="login_by_qrcode_tips_1" platform="Desktop">開啟手機上的 Mixin。</string>
+  <string name="login_by_qrcode_tips_1" platform="Desktop">開啟手機上的 Mixin Messenger。</string>
   <string name="login_by_qrcode_tips_2" platform="Desktop">掃描螢幕上的二維碼，確認登入。</string>
   <string name="Login_desktop_first" platform="iOS,android">請先登入桌面端</string>
   <string name="Login_with_PIN" platform="android">用 PIN 來登入</string>
@@ -2092,7 +2092,7 @@
   <string name="add_recovery_contact_instruction_3" platform="android,iOS">恢復聯絡人無法轉移您 Mixin 錢包裡的資產，但可以協助您重新訪問賬號。</string>
   <string name="add_recovery_contact_instruction_4" platform="android,iOS">恢復聯絡人無法恢復您的 PIN 。</string>
   <string name="Im_Ready" platform="android,iOS">準備好了</string>
-  <string name="add_recovery_contact_before_instruction_1" platform="android,iOS">要新增的恢復聯絡人已下載並登入了 Mixin。</string>
+  <string name="add_recovery_contact_before_instruction_1" platform="android,iOS">要新增的恢復聯絡人已下載並登入了 Mixin Messenger。</string>
   <string name="add_recovery_contact_before_instruction_2" platform="android,iOS">要新增的恢復聯絡人保持 Mixin 線上或者正在與您面對面。</string>
   <string name="add_recovery_contact_before_instruction_3" platform="android,iOS">要新增的恢復聯絡人已添加當前賬號（%1$s）為聯絡人，否則對方可能無法收到驗證碼。</string>
   <string name="Mixin_Support" platform="android,iOS">Mixin 客服</string>
@@ -2493,4 +2493,5 @@
   <string name="import_wallet_guide_footer" platform="android, iOS">建立 Mixin 賬號後，將預設生成一個隱私錢包，您的餘額、轉賬、交易等功能都會預設受到隱私保護，檢視檔案瞭解更多。</string>
   <string name="sign_up_15_secs" platform="android, iOS">15 秒完成註冊</string>
   <string name="Account_Creation_Failed" platform="android, iOS">建立賬號失敗</string>
+  <string name="Sign_in_Failed" platform="android, iOS">登入失敗</string>
 </resources>

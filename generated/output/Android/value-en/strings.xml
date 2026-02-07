@@ -48,10 +48,10 @@
 	<string name="Add_Phone_desc">You can log in to your account using your mobile number. The mobile number will be associated with a key shard of your MPC wallet. The complete key exists only in the TEE security environment on the current device. Read the documentation to learn more about %1$s.</string>
 	<string name="add_phone_instruction_1">The mobile number and mnemonic phrase will link to the same key shard.</string>
 	<string name="add_phone_instruction_2">The mobile number and mnemonic phrase log into the same account.</string>
-	<string name="add_phone_instruction_3">You cannot add a mobile number registered to a Mixin Messenger account.</string>
+	<string name="add_phone_instruction_3">You cannot add a mobile number registered to a Mixin account.</string>
 	<string name="add_phone_instruction_4">Once bound, the mobile number cannot be removed.</string>
-	<string name="add_recovery_contact_before_instruction_1">The recovery contact you want to add has downloaded and logged in to Mixin Messenger.</string>
-	<string name="add_recovery_contact_before_instruction_2">The recovery contact you want to add keeps Mixin Messenger online or is meeting with you face-to-face.</string>
+	<string name="add_recovery_contact_before_instruction_1">The recovery contact you want to add has downloaded and logged in to Mixin.</string>
+	<string name="add_recovery_contact_before_instruction_2">The recovery contact you want to add keeps Mixin online or is meeting with you face-to-face.</string>
 	<string name="add_recovery_contact_before_instruction_3">The recovery contact you want to add has added the current account (%1$s) as a contact; otherwise, they may not receive the verification code.</string>
 	<string name="Add_Recovery_Contact_desc">The recovery contact is designed to help you log in to your account if you are lost and cannot retrieve your mobile number or mnemonic phrase.</string>
 	<string name="add_recovery_contact_instruction_1">Add someone you trust as a recovery contact, such as your family, friends, or colleagues.</string>
@@ -351,7 +351,7 @@
 	<string name="chat_list_empty_info">You can chat with contacts who have Mixin installed on their phone.</string>
 	<string name="chat_not_support">This type of message is not supported, please upgrade Mixin to the latest version. %1$s.</string>
 	<string name="chat_not_support_url">https://support.mixin.one/en/article/how-to-do-when-you-receive-a-message-like-this-this-type-of-message-is-not-supported-please-upgrade-mixin-17j1t3p</string>
-	<string name="chat_on_mixin_content">Let\'s chat on Mixin Messenger! Simple, safe, and easy to use. It also supports Bitcoin, Ethereum, and other cryptocurrencies, download https://mixin.one/messenger and search @%1$s to add me as a friend.</string>
+	<string name="chat_on_mixin_content">Let\'s chat on Mixin! Simple, safe, and easy to use. It also supports Bitcoin, Ethereum, and other cryptocurrencies, download https://mixin.one/messenger and search @%1$s to add me as a friend.</string>
 	<string name="chat_pin_message">%1$s pinned %2$s</string>
 	<string name="Chat_pinned">Chat pinned</string>
 	<string name="chat_recall_delete_alert">Messages you selected will be deleted for everyone on the latest version of Mixin in this chat.</string>
@@ -448,7 +448,7 @@
 	<string name="Contact_Developer">Contact Developer</string>
 	<string name="contact_empty_tip">Mixin needs access your contacts to help you connect with other people on Mixin.</string>
 	<string name="contact_favorite_bots_title">%1$s\'s Favorite Bots</string>
-	<string name="contact_invite_content">Hey, I\'m using Mixin Messenger to chat. Download it here: https://mixin.one/messenger</string>
+	<string name="contact_invite_content">Hey, I\'m using Mixin to chat. Download it here: https://mixin.one/messenger</string>
 	<string name="contact_mixin_id">Mixin ID: %1$s</string>
 	<string name="contact_mobile">Mobile: %1$s</string>
 	<string name="contact_mute_title">Mute notifications for…</string>
@@ -554,7 +554,7 @@
 	<string name="Deleting_Address">Delete Address</string>
 	<string name="Deleting_Address_Failed">Delete Address Failed</string>
 	<string name="Deposit">Deposit</string>
-	<string name="deposit_account_attention">Attention: Please try a small amount for the first deposit. Both a Memo and an Address are required to successfully deposit your %1$s to Mixin Messenger.</string>
+	<string name="deposit_account_attention">Attention: Please try a small amount for the first deposit. Both a Memo and an Address are required to successfully deposit your %1$s to Mixin.</string>
 	<string name="deposit_attention">Please try a small amount for the first deposit.</string>
 	<plurals name="deposit_confirmation">
 		<item quantity="one">Deposit will arrive %1$d block confirmation</item>
@@ -583,11 +583,11 @@
 	<string name="Deselect_All">Deselect All</string>
 	<string name="Designated_time_period">Designated time period</string>
 	<string name="desktop">desktop</string>
-	<string name="desktop_login">Login to Mixin Messenger Desktop</string>
+	<string name="desktop_login">Login to Mixin Desktop</string>
 	<string name="desktop_login_no_pin">For your account security, please set up the PIN before logging into the desktop app.</string>
-	<string name="desktop_logout">Logout Mixin Messenger Desktop</string>
+	<string name="desktop_logout">Logout Mixin Desktop</string>
 	<string name="desktop_on_hint">You have your desktop logged in</string>
-	<string name="desktop_upgrade">Please upgrade Mixin Messenger Desktop to the latest version.</string>
+	<string name="desktop_upgrade">Please upgrade Mixin Desktop to the latest version.</string>
 	<string name="detect_qr_tip">Detected a Mixin QR code, tap to recognize</string>
 	<string name="Developer">Developer</string>
 	<string name="device_transfer_failed">Transfer failed</string>
@@ -768,7 +768,7 @@
 	<string name="export_mnemonics_instruction_3">Ensure that no one or surveillance cameras are watching your screen.</string>
 	<string name="Export_PDF">Export PDF</string>
 	<string name="export_secret_warning_1">Anyone who gains access to this %1$s can transfer all assets from your wallet.</string>
-	<string name="export_secret_warning_2">Mixin Messenger does not store your %1$s on its servers.</string>
+	<string name="export_secret_warning_2">Mixin does not store your %1$s on its servers.</string>
 	<string name="export_secret_warning_3">Never share your %1$s with any third party, individual, website, or application.</string>
 	<string name="export_secret_warning_4">Ensure that no one — including surveillance cameras — can see your screen.</string>
 	<string name="Extract_QR_Code">Extract QR Code</string>
@@ -978,7 +978,7 @@
 	<string name="Line_busy_remote">Line busy</string>
 	<string name="Link">Link</string>
 	<string name="link_desktop">Link Desktop</string>
-	<string name="link_desktop_description">Link Mixin Messenger Desktop by QR code</string>
+	<string name="link_desktop_description">Link Mixin Desktop by QR code</string>
 	<string name="Link_desktop_failed">Link desktop failed</string>
 	<string name="Link_desktop_success">Link desktop success</string>
 	<string name="Links">Links</string>
@@ -1068,7 +1068,7 @@
 	<string name="Mixin_ID">Mixin ID</string>
 	<string name="Mixin_Locked">Mixin Locked</string>
 	<string name="mixin_logs">Mixin Logs</string>
-	<string name="Mixin_Messenger_Desktop">Mixin Messenger Desktop</string>
+	<string name="Mixin_Messenger_Desktop">Mixin Desktop</string>
 	<string name="Mixin_One">Mixin One</string>
 	<string name="mixin_one_desc">Start your Mixin premium journey</string>
 	<string name="mixin_payment_content">💰 Amount: %1$s\n🌐 Network: %2$s\n🤝 Receiver: %3$s</string>
@@ -1191,7 +1191,7 @@
 	<string name="Note">Note</string>
 	<string name="Notice">Notice</string>
 	<string name="Notification_and_Confirmation">Notification and Confirmation</string>
-	<string name="notification_channel_description">Shows what music is currently playing in Mixin Messenger</string>
+	<string name="notification_channel_description">Shows what music is currently playing in Mixin</string>
 	<string name="notification_content">Enable push notifications to stay updated on price alerts and messages in real time.</string>
 	<string name="Notifications">Notifications</string>
 	<string name="Now_Playing">Now Playing</string>
@@ -1226,12 +1226,12 @@
 	<string name="one_year">1 Year</string>
 	<string name="Ongoing_voice_call">Ongoing voice call</string>
 	<string name="Open">Open</string>
-	<string name="Open_Desktop_to_Confirm">Please open your Mixin Messenger desktop to confirm the operation.</string>
+	<string name="Open_Desktop_to_Confirm">Please open your Mixin desktop to confirm the operation.</string>
 	<string name="Open_Home_page">Open Home page</string>
 	<string name="Open_in_browser">Open in browser</string>
 	<string name="Open_Link">Open Link: %1$s</string>
 	<string name="open_orders_count">Open Orders (%d)</string>
-	<string name="open_source">Copyright Mixin Messenger\nLicensed under the GPLv3</string>
+	<string name="open_source">Copyright Mixin\nLicensed under the GPLv3</string>
 	<string name="Opening_Balance">Opening Balance</string>
 	<string name="Operator">Operator</string>
 	<string name="Opponents">Opponents</string>
@@ -1381,7 +1381,7 @@
 	<string name="Recovery_Contact">Recovery Contact</string>
 	<string name="Recovery_Kit">Recovery Kit</string>
 	<string name="Recovery_Kit_Attention">Attention: The Recovery Kit cannot help you recover your PIN</string>
-	<string name="Recovery_Kit_instruction">The MPC wallet in Mixin Messenger is built on the decentralized key protocol TIP. You can recover your account through your mobile number, mnemonic phrase, or a trusted contact. The complete wallet key exists only in the TEE security environment on the current device. Read the documentation to learn %1$s.</string>
+	<string name="Recovery_Kit_instruction">The MPC wallet in Mixin is built on the decentralized key protocol TIP. You can recover your account through your mobile number, mnemonic phrase, or a trusted contact. The complete wallet key exists only in the TEE security environment on the current device. Read the documentation to learn %1$s.</string>
 	<string name="red_up_green_down">Red Up / Green Down</string>
 	<string name="Referral">Referral</string>
 	<string name="referral_banner">Invite friends and earn up to 60%% of their trading fees!</string>
@@ -1446,7 +1446,7 @@
 	<string name="Restore_from_iCloud">Restore from iCloud</string>
 	<string name="Restore_from_PC">Restore from PC</string>
 	<string name="Restore_from_PC_Hint">Restore your chat history from PC</string>
-	<string name="Restore_from_PC_Tip">Synchronize your chat history from the Mixin Messenger desktop client. The synchronization will not overwrite the local records but only incrementally synchronize them. Please make sure that both devices are connected to the same Wi-Fi or hotspot.</string>
+	<string name="Restore_from_PC_Tip">Synchronize your chat history from the Mixin desktop client. The synchronization will not overwrite the local records but only incrementally synchronize them. Please make sure that both devices are connected to the same Wi-Fi or hotspot.</string>
 	<string name="restore_in_progress">Restore in progress</string>
 	<string name="restore_info">Restore your messages from external storage.\nIf you don\'t restore new, you won\'t be able to restore later.</string>
 	<string name="restore_message">Back up your messages and media to external storage. You can restore them when you reinstall Mixin. Your messages and media will also back up to your phone\'s internal storage. Media and messages your back up are not protected by Mixin end-to-end encryption while in external storage.</string>
@@ -1574,7 +1574,7 @@
 	<string name="Set_up_Pin">Set up PIN</string>
 	<string name="Set_up_Pin_answer_1">I can recover my account later.</string>
 	<string name="Set_up_Pin_answer_2">I will lose access to my account and funds.</string>
-	<string name="Set_up_Pin_desc">The MPC Wallet in Mixin Messenger is built on a decentralized key protocol (TIP). The PIN is one of the key shards. The full wallet key exists only in the TEE security environment on the current device. Read the documentation to learn %1$s.</string>
+	<string name="Set_up_Pin_desc">The MPC Wallet in Mixin is built on a decentralized key protocol (TIP). The PIN is one of the key shards. The full wallet key exists only in the TEE security environment on the current device. Read the documentation to learn %1$s.</string>
 	<string name="Set_up_pin_desc_1">Set a 6-digit PIN for your wallet</string>
 	<string name="Set_up_pin_desc_2">Please confirm your 6-digit PIN again</string>
 	<string name="set_up_pin_instruction_1">Please complete the process in a stable network environment.</string>
@@ -1649,6 +1649,7 @@
 	<string name="sign_by_pin">Sign by PIN</string>
 	<string name="Sign_in">Sign in</string>
 	<string name="Sign_in_desktop_app">Sign in desktop app</string>
+	<string name="Sign_in_Failed">Sign in Failed</string>
 	<string name="sign_in_no_account">Don’t have an account yet?</string>
 	<string name="Sign_in_with_Mnemonic_Phrase">Sign in with Mnemonic Phrase</string>
 	<string name="sign_up_15_secs">Sign up in just 15 seconds</string>
@@ -1822,7 +1823,7 @@
 	<string name="Transfer_to_Another_Phone_Hint">Transfer your chat history to another device</string>
 	<string name="transfer_to_no_key_wallet_warning">This wallet has no private key on this device. Are you sure you want to use it to receive assets?</string>
 	<string name="Transfer_to_PC">Transfer to PC</string>
-	<string name="Transfer_to_PC_Hint">Synchronize your chat history to the Mixin Messenger desktop version. Please make sure both devices are connected to the same Wi-Fi or hotspot.</string>
+	<string name="Transfer_to_PC_Hint">Synchronize your chat history to the Mixin desktop version. Please make sure both devices are connected to the same Wi-Fi or hotspot.</string>
 	<string name="transfer_to_watch_wallet_warning">This is a watch-only wallet. Are you sure you want to use it to receive assets?</string>
 	<string name="transfer_without_pin">You must setup PIN for transfer</string>
 	<string name="Transferring_chat_Progress">Transferring Chat (%1$s%%)</string>

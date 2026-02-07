@@ -131,7 +131,7 @@
 "messageE2ee" : "Mesej ke perbualan ini disulitkan dari hujung ke hujung, ketuk untuk maklumat lebih lanjut.",
 "messageNotFound" : "Mesej tidak dijumpai",
 "messageNotSupport" : "Mesej jenis ini tidak disokong, sila tingkatkan Mixin ke versi terkini.",
-"mixinMessengerDesktop" : "Desktop Mixin Messenger",
+"mixinMessengerDesktop" : "Desktop Mixin",
 "more" : "Lebih banyak lagi",
 "multisigTransaction" : "Transaksi Multisig",
 "myMixinId" : "ID Mixin Saya: {arg0}",
