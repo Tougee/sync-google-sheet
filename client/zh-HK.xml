@@ -446,7 +446,7 @@
   <string name="deep_cleaning_deleted" platform="android">正在清理，已刪除 %1$s</string>
   <string name="Delete" platform="android, iOS, Desktop">刪除</string>
   <string name="delete_account_detail_hint" platform="iOS, Desktop">本地消息和 iCloud 備份不會被自動刪除</string>
-  <string name="delete_account_hint" platform="android, iOS, Desktop">刪除你的賬户和個人照片</string>
+  <string name="delete_account_hint" platform="android, iOS, Desktop">刪除你的賬號和個人照片</string>
   <string name="Delete_address" platform="android, iOS">刪除地址</string>
   <string name="Delete_Chat" platform="iOS, Desktop">刪除聊天</string>
   <string name="delete_chat_description" platform="Desktop">刪除會話只會刪除此設備的聊天記錄，不會影響其他設備。</string>
@@ -557,7 +557,7 @@
   <string name="End_to_End_Encryption" platform="android, iOS">端到端加密</string>
   <string name="Enter_new_anonymous_number" platform="android, iOS">輸入你的新匿名號碼</string>
   <string name="Enter_new_phone_number" platform="android, iOS">輸入你的新手機號碼</string>
-  <string name="Enter_PIN_to_delete_account" platform="android, iOS, Desktop">輸入你的 PIN 以註銷你的賬户</string>
+  <string name="Enter_PIN_to_delete_account" platform="android, iOS, Desktop">輸入你的 PIN 以註銷你的賬號</string>
   <string name="enter_to_send" platform="Desktop">按下回車 ⏎ 發送</string>
   <string name="Enter_your_anonymous_number" platform="android, iOS">輸入你的匿名號碼</string>
   <string name="Enter_your_emergency_contact_Mixin_ID" platform="android, iOS">請輸入恢復聯繫人的 Mixin ID</string>
@@ -796,7 +796,7 @@
   <string name="Keep_Running_Foreground" platform="iOS,android">不要關閉屏幕並保持 Mixin 在前台運行</string>
   <string name="Label" platform="android, iOS">標題</string>
   <string name="landing_anonymous_dialog_content" platform="android">我們將發送4位驗證碼到匿名號碼 %1$s, 請在下一個頁面輸入</string>
-  <string name="landing_delete_content" platform="android, iOS, Desktop">您在 %1$s 申請了刪除賬號，賬號將於 %2$s 被刪除，如果您繼續登錄，刪除您賬户的請求將被取消。</string>
+  <string name="landing_delete_content" platform="android, iOS, Desktop">您在 %1$s 申請了刪除賬號，賬號將於 %2$s 被刪除，如果您繼續登錄，刪除您賬號的請求將被取消。</string>
   <string name="landing_enter_mobile_tip" platform="android">我們不會公開你的手機號碼</string>
   <string name="landing_introduction" platform="android">點擊 "同意並繼續" 接受 Mixin %1$s和%2$s</string>
   <string name="landing_invitation_dialog_content" platform="android, Desktop">我們將發送4位驗證碼到手機 %1$s, 請在下一個頁面輸入</string>
@@ -853,7 +853,7 @@
   <string name="lock_with_biometric" platform="iOS">%@鎖定</string>
   <string name="Log_in" platform="android, iOS, Desktop">登錄</string>
   <string name="log_out_from_desktop" platform="android, iOS">從桌面版退出</string>
-  <string name="login_and_abort_account_deletion" platform="android, iOS, Desktop">繼續登錄並放棄刪除賬户</string>
+  <string name="login_and_abort_account_deletion" platform="android, iOS, Desktop">繼續登錄並放棄刪除賬號</string>
   <string name="login_by_qrcode" platform="Desktop">通過二維碼登錄 Mixin</string>
   <string name="login_by_qrcode_tips_1" platform="Desktop">打開手機上的 Mixin Messenger。</string>
   <string name="login_by_qrcode_tips_2" platform="Desktop">掃描屏幕上的二維碼，確認登錄。</string>
@@ -1363,9 +1363,9 @@
   <string name="setting_data_title" platform="android">自動下載檔案</string>
   <string name="setting_data_wifi" platform="android">當連接到 Wi-Fi 時</string>
   <string name="setting_delete_account_content_2" platform="android">本地信息和備份不會被自動刪除</string>
-  <string name="setting_delete_account_pin_content" platform="android, iOS, Desktop">如果您繼續，您的個人資料和賬户信息將在%1$s被刪除。閲讀我們的文檔以**瞭解更多**。</string>
+  <string name="setting_delete_account_pin_content" platform="android, iOS, Desktop">如果您繼續，您的個人資料和賬號信息將在%1$s被刪除。閲讀我們的文檔以**瞭解更多**。</string>
   <string name="setting_delete_account_send" platform="android, iOS">我們將發送 4 位驗證碼到手機 %1$s</string>
-  <string name="setting_delete_account_tip" platform="android, iOS">你的 Mixin 錢包還有一些資產，可以提現至其他錢包或交易所，賬户一旦註銷，這些資產將和錢包一起被棄用無法找回。</string>
+  <string name="setting_delete_account_tip" platform="android, iOS">你的 Mixin 錢包還有一些資產，可以提現至其他錢包或交易所，賬號一旦註銷，這些資產將和錢包一起被棄用無法找回。</string>
   <string name="setting_delete_account_url" platform="android, Desktop">https://support.mixin.one/zh/article/5aac5l2v5yig6zmk6lsm5y377yf-1uteq30</string>
   <string name="setting_desktop_logout_failed" platform="android">退出桌面端失敗</string>
   <string name="setting_duplicate_transfer_desc" platform="android, iOS">當你在 6 個小時內給相同的人轉相同的金額時顯示確認彈窗。</string>
@@ -1540,7 +1540,7 @@
   <string name="Enable_push_notification" platform="android, iOS, Desktop">啓用推送通知</string>
   <string name="Type_message" platform="android, Desktop">輸入消息</string>
   <string name="unable_connect_to_desktop" platform="android, iOS">無法連接到桌面，請稍後重試</string>
-  <string name="Unable_synced_between_different_account" platform="android, iOS">不同賬户之間無法同步聊天記錄</string>
+  <string name="Unable_synced_between_different_account" platform="android, iOS">不同賬號之間無法同步聊天記錄</string>
   <string name="unable_to_decode_the_request" platform="android, iOS">無法解析請求: %1$s</string>
   <string name="unable_to_open_file" platform="Desktop">無法打開檔案：%1$s</string>
   <string name="Unable_to_save_photo" platform="iOS">保存圖片失敗</string>
@@ -1624,7 +1624,7 @@
   <string name="Voice_call_has_been_declined" platform="iOS">已拒絕通話</string>
   <string name="Waiting" platform="android, iOS">等待中</string>
   <string name="Waiting_for_Other_Device" platform="iOS,android">等待其他設備…</string>
-  <string name="Waiting_for_Other_Device_Login" platform="iOS,android">在新設備上登錄當前賬户並選擇從其他手機恢復</string>
+  <string name="Waiting_for_Other_Device_Login" platform="iOS,android">在新設備上登錄當前賬號並選擇從其他手機恢復</string>
   <string name="Waiting_for_Other_Device_Scan" platform="iOS,android">新設備掃上面的二維碼建立連接</string>
   <string name="Waiting_for_this_message" platform="android, Desktop">正在等待這條消息。</string>
   <string name="Waiting_transaction" platform="android,iOS">正在等待交易</string>
@@ -1813,7 +1813,7 @@
   <string name="Review" platform="android, iOS">預覽</string>
   <string name="Max" platform="android, iOS">最大值</string>
   <string name="hint_address" platform="android, iOS">輸入錢包地址、交易所地址</string>
-  <string name="Accounts" platform="android">賬户</string>
+  <string name="Accounts" platform="android">賬號</string>
   <string name="Invalid_Address" platform="android, iOS">無效的地址</string>
   <string name="signature_request_from" platform="android, iOS">該簽名請求來自 %1$s。</string>
   <string name="content_collectible" platform="android, iOS">[藏品]</string>
@@ -2026,15 +2026,15 @@
   <string name="or" platform="android,iOS">或者</string>
   <string name="Sign_in_with_Mnemonic_Phrase" platform="android,iOS">助記詞登錄</string>
   <string name="landing_have_account" platform="android,iOS">已有帳户</string>
-  <string name="sign_in_no_account" platform="android,iOS">還沒有賬户？</string>
+  <string name="sign_in_no_account" platform="android,iOS">還沒有賬號？</string>
   <string name="sign_up_have_account" platform="android,iOS">已有帳户?</string>
   <string name="Create_Account" platform="android,iOS">創建帳户</string>
   <string name="Mobile_Phone" platform="android,iOS">手機</string>
   <string name="Mnemonic_Phrase" platform="android,iOS">助記詞</string>
   <string name="create_introduction" platform="android,iOS">MPC 錢包，2FA，%1$s，自我保管，社交恢復</string>
   <string name="Convenience" platform="android,iOS">便利</string>
-  <string name="Signing_in_to_your_account" platform="android,iOS">正在登錄賬户…</string>
-  <string name="Creating_your_account" platform="android,iOS">正在創建賬户…</string>
+  <string name="Signing_in_to_your_account" platform="android,iOS">正在登錄賬號…</string>
+  <string name="Creating_your_account" platform="android,iOS">正在創建賬號…</string>
   <string name="Set_up_Pin" platform="android,iOS">設置 PIN</string>
   <string name="Set_up_Pin_desc" platform="android,iOS">Mixin 的 MPC 錢包基於去中心化密鑰協議 TIP 構建，PIN 是密鑰分片之一。錢包完整的密鑰只存在當前設備的 TEE 安全環境中。閲讀文檔以瞭解%1$s。</string>
   <string name="More_Information" platform="android,iOS">更多信息</string>
@@ -2349,8 +2349,8 @@
   <string name="enter_pin_create_wallet" platform="android, iOS">輸入你的 PIN 以創建新錢包</string>
   <string name="mixin_logs" platform="android, iOS">Mixin 日誌</string>
   <string name="tip_quiz_question" platform="android, iOS">如果我丟失了 PIN，會發生什麼？</string>
-  <string name="tip_quiz_wrong_answer" platform="android, iOS">我可以恢復我的賬户。</string>
-  <string name="tip_quiz_correct_answer" platform="android, iOS">我將無法訪問賬户和資金。</string>
+  <string name="tip_quiz_wrong_answer" platform="android, iOS">我可以恢復我的賬號。</string>
+  <string name="tip_quiz_correct_answer" platform="android, iOS">我將無法訪問賬號和資金。</string>
   <string name="Check_answer" platform="android, iOS">檢查答案</string>
   <string name="tip_quiz_title_correct" platform="android, iOS">正確！</string>
   <string name="tip_quiz_title_wrong" platform="android, iOS">哎呀，答錯了</string>
@@ -2385,7 +2385,7 @@
   <string name="referral_program_introduction_footer" platform="android, iOS">* 推薦獎勵僅限於付費 Mixin One 會員。</string>
   <string name="Apply_Referral_Code" platform="android, iOS">綁定邀請碼</string>
   <string name="Referral_Code" platform="android, iOS">邀請碼</string>
-  <string name="apply_referral_code_benefit" platform="android, iOS">將邀請碼綁定到你的賬户，解鎖 Mixin 專屬福利。</string>
+  <string name="apply_referral_code_benefit" platform="android, iOS">將邀請碼綁定到你的賬號，解鎖 Mixin 專屬福利。</string>
   <string name="referral_code_applied" platform="android, iOS">綁定成功</string>
   <string name="referral_code_applying_failed" platform="android, iOS">綁定失敗</string>
   <string name="referral_code_applied_header" platform="android, iOS">手續費按月、按實際消耗的手續費幣種和金額彙總返還到您的 Mixin 隱私錢包，閲讀文檔瞭解更多。</string>
@@ -2393,7 +2393,7 @@
   <string name="Invitee_Commission" platform="android, iOS">被邀請人返現</string>
   <string name="Inviter" platform="android, iOS">邀請人</string>
   <string name="error_invalid_referral_code" platform="android, iOS">錯誤 10730：無效的邀請碼</string>
-  <string name="error_already_bonded_referral_code" platform="android, iOS, Desktop">錯誤 10731：當前賬户已綁定邀請碼，無法修改綁定。</string>
+  <string name="error_already_bonded_referral_code" platform="android, iOS, Desktop">錯誤 10731：當前賬號已綁定邀請碼，無法修改綁定。</string>
   <string name="error_cannot_apply_your_own_referral_code" platform="android, iOS">錯誤 10732：不可綁定自己的邀請碼</string>
   <string name="error_inviter_plan_expired" platform="android, iOS, Desktop">錯誤 10737：邀請人的會員已過期</string>
   <string name="Fetching_address" platform="android, iOS">正在查找地址…</string>
@@ -2478,8 +2478,8 @@
   <string name="feature_privacy_by_default_description" platform="android, iOS">聊天、通話、轉賬、資產，全程加密守護</string>
   <string name="feature_all_in_one" platform="android, iOS">一站式加密資產管理</string>
   <string name="feature_all_in_one_description" platform="android, iOS">交易、兑換、管理數千種原生代幣</string>
-  <string name="create_your_account" platform="android, iOS">創建你的賬户</string>
-  <string name="create_an_account" platform="android, iOS">創建賬户</string>
+  <string name="create_your_account" platform="android, iOS">創建你的賬號</string>
+  <string name="create_an_account" platform="android, iOS">創建賬號</string>
   <string name="what_should_friends_call_you" platform="android, iOS">你的朋友該如何稱呼你？</string>
   <string name="username_placeholder" platform="android, iOS">輸入顯示名稱</string>
   <string name="username_description" platform="android, iOS">該名稱將在聊天和轉賬時對好友顯示</string>
