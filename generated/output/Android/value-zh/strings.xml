@@ -1203,7 +1203,7 @@
 	<string name="onboarding_recover_title">账号永不丢失</string>
 	<string name="onboarding_reward_description">邀请好友可获得高达 60%% 的交易返利和会员佣金</string>
 	<string name="onboarding_reward_title">邀请返佣</string>
-	<string name="onboarding_trade_description">支持兑换原生代币、法币入金和免费转账\"</string>
+	<string name="onboarding_trade_description">支持兑换原生代币、法币入金和免费转账</string>
 	<string name="onboarding_trade_title">兑换数千种原生加密货币</string>
 	<string name="one_day">1 天</string>
 	<string name="one_hour">1 小时</string>

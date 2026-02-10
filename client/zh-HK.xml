@@ -2465,7 +2465,7 @@
   <string name="onboarding_decentralized_title" platform="android, iOS">你的私鑰，你的資產</string>
   <string name="onboarding_decentralized_description" platform="android, iOS">去中心化、開源、經審計的非託管錢包</string>
   <string name="onboarding_trade_title" platform="android, iOS">兑換數千種原生加密貨幣</string>
-  <string name="onboarding_trade_description" platform="android, iOS">支持兑換原生代幣、法幣入金和免費轉賬"</string>
+  <string name="onboarding_trade_description" platform="android, iOS">支持兑換原生代幣、法幣入金和免費轉賬</string>
   <string name="onboarding_privacy_title" platform="android, iOS">私密聊天與轉賬</string>
   <string name="onboarding_privacy_description" platform="android, iOS">支持端到端加密聊天、羣組通話，可直接向聯繫人發送加密貨幣</string>
   <string name="onboarding_recover_title" platform="android, iOS">賬號永不丟失</string>
