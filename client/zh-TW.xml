@@ -2461,17 +2461,17 @@
   <string name="Mobile_Number_Added" platform="android, iOS">新增成功</string>
   <string name="mobile_number_added_description" platform="android, iOS">新增手機號碼有助於提升賬號安全</string>
   <string name="Mobile_Number_Changed" platform="android, iOS">已更改手機號碼</string>
-  <string name="onboarding_mixin_description" platform="android, iOS">開源加密錢包，整合 Signal 安全通訊</string>
+  <string name="onboarding_mixin_description" platform="android, iOS">一個帶有端對端加密聊天功能的開源加密貨幣錢包</string>
   <string name="onboarding_decentralized_title" platform="android, iOS">你的私鑰，你的資產</string>
-  <string name="onboarding_decentralized_description" platform="android, iOS">去中心化·開源·審計驗證·非託管錢包，資產完全由你掌控</string>
-  <string name="onboarding_trade_title" platform="android, iOS">買賣交易，覆蓋海量資產</string>
-  <string name="onboarding_trade_description" platform="android, iOS">原生兌換·法幣入金·免費轉賬，支援數千種代幣</string>
+  <string name="onboarding_decentralized_description" platform="android, iOS">去中心化、開源、經審計的非託管錢包</string>
+  <string name="onboarding_trade_title" platform="android, iOS">兌換數千種原生加密貨幣</string>
+  <string name="onboarding_trade_description" platform="android, iOS">支援兌換原生代幣、法幣入金和免費轉賬"</string>
   <string name="onboarding_privacy_title" platform="android, iOS">私密聊天與轉賬</string>
-  <string name="onboarding_privacy_description" platform="android, iOS">端到端加密通訊·群組通話·聯絡人轉賬</string>
+  <string name="onboarding_privacy_description" platform="android, iOS">支援端到端加密聊天、群組通話，可直接向聯絡人傳送加密貨幣</string>
   <string name="onboarding_recover_title" platform="android, iOS">賬號永不丟失</string>
-  <string name="onboarding_recover_description" platform="android, iOS">支援手機號恢復、助記詞恢復、可信聯絡人恢復</string>
-  <string name="onboarding_reward_title" platform="android, iOS">邀請好友，共享收益</string>
-  <string name="onboarding_reward_description" platform="android, iOS">透過交易與會員體系獲取佣金獎勵</string>
+  <string name="onboarding_recover_description" platform="android, iOS">使用助記詞、恢復聯絡人或手機號碼恢復去中心化錢包</string>
+  <string name="onboarding_reward_title" platform="android, iOS">邀請返佣</string>
+  <string name="onboarding_reward_description" platform="android, iOS">邀請好友可獲得高達 60%% 的交易返利和會員佣金</string>
   <string name="feature_truly_decentralized" platform="android, iOS">真正的去中心化</string>
   <string name="feature_truly_decentralized_description" platform="android, iOS">你的私鑰，你的資產。經審計驗證的開源架構。</string>
   <string name="feature_privacy_by_default" platform="android, iOS">預設隱私保護</string>
@@ -2481,8 +2481,8 @@
   <string name="create_your_account" platform="android, iOS">建立你的賬號</string>
   <string name="create_an_account" platform="android, iOS">建立賬號</string>
   <string name="what_should_friends_call_you" platform="android, iOS">你的朋友該如何稱呼你？</string>
-  <string name="username_placeholder" platform="android, iOS">輸入顯示名稱</string>
-  <string name="username_description" platform="android, iOS">該名稱將在聊天和轉賬時對好友顯示</string>
+  <string name="username_placeholder" platform="android, iOS">輸入暱稱</string>
+  <string name="username_description" platform="android, iOS">好友在與你聊天或轉賬時會看到此暱稱</string>
   <string name="mnemonics_policy" platform="android, iOS">你的助記詞僅用於本地處理，不會進行儲存。</string>
   <string name="unavailable_mnemonics_word_count" platform="android, iOS">12 個詞或 24 個詞</string>
   <string name="import_wallet_guide_header" platform="android, iOS">如需使用 12 或 24 位助記詞錢包，請按以下步驟操作：</string>
