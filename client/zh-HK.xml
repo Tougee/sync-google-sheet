@@ -2486,7 +2486,7 @@
   <string name="mnemonics_policy" platform="android, iOS">你的助記詞僅用於本地處理，不會進行儲存。</string>
   <string name="unavailable_mnemonics_word_count" platform="android, iOS">12 個詞或 24 個詞</string>
   <string name="import_wallet_guide_header" platform="android, iOS">如需使用 12 或 24 位助記詞錢包，請按以下步驟操作：</string>
-  <string name="import_wallet_guide_1" platform="android, iOS">· 註冊一個 Mixin 賬號。</string>
+  <string name="import_wallet_guide_1" platform="android, iOS">· 創建一個 Mixin 賬號。</string>
   <string name="import_wallet_guide_2" platform="android, iOS">· 前往錢包列表 → 添加錢包 &gt; 選擇導入助記詞。</string>
   <string name="import_wallet_guide_3" platform="android, iOS">· 輸入您的 12 或 24 位助記詞或私鑰完成導入。</string>
   <string name="import_wallet_guide_4" platform="android, iOS">· 開始使用。</string>

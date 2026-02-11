@@ -878,7 +878,7 @@
 	<string name="import_single_chain_wallet">导入单链钱包</string>
 	<string name="import_wallet_count">导入 %1$d 个钱包</string>
 	<string name="import_wallet_count_one">导入 1 个钱包</string>
-	<string name="import_wallet_guide_1">· 注册一个 Mixin 账号。</string>
+	<string name="import_wallet_guide_1">· 创建一个 Mixin 账号。</string>
 	<string name="import_wallet_guide_2">· 前往钱包列表 → 添加钱包 > 选择导入助记词。</string>
 	<string name="import_wallet_guide_3">· 输入您的 12 或 24 位助记词或私钥完成导入。</string>
 	<string name="import_wallet_guide_4">· 开始使用。</string>
