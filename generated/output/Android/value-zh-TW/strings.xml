@@ -50,7 +50,7 @@
 	<string name="add_phone_instruction_2">手機號和助記詞登入的是同一個賬號。</string>
 	<string name="add_phone_instruction_3">無法新增一個已註冊為 Mixin 賬號的手機號。</string>
 	<string name="add_phone_instruction_4">手機號繫結後無法刪除。</string>
-	<string name="add_recovery_contact_before_instruction_1">要新增的恢復聯絡人已下載並登入了 Mixin Messenger。</string>
+	<string name="add_recovery_contact_before_instruction_1">要新增的恢復聯絡人已下載並登入了 Mixin。</string>
 	<string name="add_recovery_contact_before_instruction_2">要新增的恢復聯絡人保持 Mixin 線上或者正在與您面對面。</string>
 	<string name="add_recovery_contact_before_instruction_3">要新增的恢復聯絡人已添加當前賬號（%1$s）為聯絡人，否則對方可能無法收到驗證碼。</string>
 	<string name="Add_Recovery_Contact_desc">恢復聯絡人旨在幫助您在丟失手機號碼或助記詞時登入您的帳戶。</string>
@@ -548,7 +548,7 @@
 	<string name="Deleting_Address">正在刪除地址</string>
 	<string name="Deleting_Address_Failed">刪除地址失敗</string>
 	<string name="Deposit">充值</string>
-	<string name="deposit_account_attention">注意：首次充值建議小額嘗試！地址和 Memo（備註）同時使用才能充值 %1$s 到 Mixin Messenger。</string>
+	<string name="deposit_account_attention">注意：首次充值建議小額嘗試！地址和 Memo（備註）同時使用才能充值 %1$s 到 Mixin。</string>
 	<string name="deposit_attention">首次充值建議小額嘗試！</string>
 	<plurals name="deposit_confirmation" tools:ignore="UnusedQuantity">
 		<item quantity="one">充值到賬需要 %1$d 個區塊確認。</item>
@@ -580,7 +580,7 @@
 	<string name="desktop_login">登入 Mixin 桌面端</string>
 	<string name="desktop_login_no_pin">為了您的安全，登入桌面前請先設定 PIN 碼！</string>
 	<string name="desktop_logout">退出 Mixin 桌面端</string>
-	<string name="desktop_on_hint">桌面版已登入。</string>
+	<string name="desktop_on_hint">桌面端已登入。</string>
 	<string name="desktop_upgrade">請升級 Mixin 桌面端至最新版！</string>
 	<string name="detect_qr_tip">檢測到一個 Mixin 二維碼，點選識別</string>
 	<string name="Developer">開發者</string>
@@ -1054,7 +1054,7 @@
 	<string name="Mixin_Contact">Mixin 聯絡人</string>
 	<string name="Mixin_Locked">Mixin 已鎖定</string>
 	<string name="mixin_logs">Mixin 日誌</string>
-	<string name="Mixin_Messenger_Desktop">Mixin 桌面</string>
+	<string name="Mixin_Messenger_Desktop">Mixin 桌面端</string>
 	<string name="Mixin_One">Mixin 大會員</string>
 	<string name="mixin_one_desc">開啟您的 Mixin 會員之旅</string>
 	<string name="mixin_payment_content">💰 金額：%1$s\n🌐 網路：%2$s\n🤝 收款人：%3$s</string>

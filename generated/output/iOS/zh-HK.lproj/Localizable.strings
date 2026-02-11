@@ -28,7 +28,7 @@
 "add_phone_instruction_2" = "手機號和助記詞登錄的是同一個賬號。";
 "add_phone_instruction_3" = "無法添加一個已註冊為 Mixin 賬號的手機號。";
 "add_phone_instruction_4" = "手機號綁定後無法刪除。";
-"add_recovery_contact_before_instruction_1" = "要添加的恢復聯繫人已下載並登錄了 Mixin Messenger。";
+"add_recovery_contact_before_instruction_1" = "要添加的恢復聯繫人已下載並登錄了 Mixin。";
 "add_recovery_contact_before_instruction_2" = "要添加的恢復聯繫人保持 Mixin 在線或者正在與您面對面。";
 "add_recovery_contact_before_instruction_3" = "要添加的恢復聯繫人已添加當前賬號（%@）為聯繫人，否則對方可能無法收到驗證碼。";
 "add_recovery_contact_desc" = "恢復聯繫人旨在幫助您在丟失手機號碼或助記詞時登錄您的帳户。";
@@ -174,7 +174,7 @@
 "authorization" = "授權";
 "authorizations" = "授權";
 "authorize" = "授權";
-"authorize_desktop_login" = "通過%@授權桌面登錄";
+"authorize_desktop_login" = "通過%@授權桌面端登錄";
 "authorize_payment_via" = "通過%@驗證支付";
 "authorized" = "已授權";
 "auto_back_up_hint" = "只會在 Wi-Fi 下自動備份聊天記錄。";
@@ -475,7 +475,7 @@
 "deleting_address" = "正在刪除地址";
 "deleting_address_failed" = "刪除地址失敗";
 "deposit" = "充值";
-"deposit_account_attention" = "注意：首次充值建議小額嘗試！地址和 Memo（備註）同時使用才能充值 %@ 到 Mixin Messenger。";
+"deposit_account_attention" = "注意：首次充值建議小額嘗試！地址和 Memo（備註）同時使用才能充值 %@ 到 Mixin。";
 "deposit_attention" = "首次充值建議小額嘗試！";
 "deposit_confirmation" = "充值到賬需要 %d 個區塊確認。";
 "deposit_confirmation_count" = "充值到賬需要 %d 個區塊確認。";
@@ -502,7 +502,7 @@
 "deselect_all" = "取消所有選擇";
 "desktop_login" = "登錄 Mixin 桌面端";
 "desktop_logout" = "退出 Mixin 桌面端";
-"desktop_on_hint" = "桌面版已登入。";
+"desktop_on_hint" = "桌面端已登入。";
 "desktop_upgrade" = "請升級 Mixin 桌面端至最新版！";
 "detect_qr_tip" = "檢測到一個 Mixin 二維碼，點擊識別";
 "developer" = "開發者";
@@ -895,7 +895,7 @@
 "mixin_id_or_phone" = "Mixin ID 或手機號";
 "mixin_locked" = "Mixin 已鎖定";
 "mixin_logs" = "Mixin 日誌";
-"mixin_messenger_desktop" = "Mixin 桌面";
+"mixin_messenger_desktop" = "Mixin 桌面端";
 "mixin_one" = "Mixin 大會員";
 "mixin_one_desc" = "開啓您的 Mixin 會員之旅";
 "mixin_payment_content" = "💰 金額：%1$@\n🌐 網絡：%2$@\n🤝 收款人：%3$@";

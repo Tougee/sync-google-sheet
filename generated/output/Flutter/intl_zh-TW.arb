@@ -285,7 +285,7 @@
 "messages" : "訊息",
 "minimize" : "最小化",
 "minute" : "{count, plural, one{{arg0} 分鐘} other{{arg0} 分鐘}}",
-"mixinMessengerDesktop" : "Mixin 桌面",
+"mixinMessengerDesktop" : "Mixin 桌面端",
 "more" : "更多",
 "multisigTransaction" : "多重簽名交易",
 "mute" : "靜音",
