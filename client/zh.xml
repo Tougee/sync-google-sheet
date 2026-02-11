@@ -141,7 +141,7 @@
   <string name="authorization" platform="android, iOS">授权</string>
   <string name="Authorizations" platform="android, iOS">授权</string>
   <string name="Authorize" platform="iOS">授权</string>
-  <string name="Authorize_desktop_login" platform="iOS">通过%@授权桌面登录</string>
+  <string name="Authorize_desktop_login" platform="iOS">通过%@授权桌面端登录</string>
   <string name="Authorize_payment_via" platform="iOS">通过%@验证支付</string>
   <string name="Authorized" platform="iOS">已授权</string>
   <string name="auto_back_up_hint" platform="iOS">只会在 Wi-Fi 下自动备份聊天记录。</string>
@@ -463,7 +463,7 @@
   <string name="Delete_withdraw_Address" platform="android, iOS">删除 %1$s 地址</string>
   <string name="Deleted" platform="iOS">已删除</string>
   <string name="Deposit" platform="android, iOS, Desktop">充值</string>
-  <string name="deposit_account_attention" platform="android, iOS">注意：首次充值建议小额尝试！地址和 Memo（备注）同时使用才能充值 %1$s 到 Mixin Messenger。</string>
+  <string name="deposit_account_attention" platform="android, iOS">注意：首次充值建议小额尝试！地址和 Memo（备注）同时使用才能充值 %1$s 到 Mixin。</string>
   <string name="deposit_attention" platform="android, iOS">首次充值建议小额尝试！</string>
   <string name="deposit_confirmation" platform="android, iOS">充值到账需要 %1$d 个区块确认。</string>
   <string name="deposit_confirmation.count" platform="android, iOS">充值到账需要 %1$d 个区块确认。</string>
@@ -486,7 +486,7 @@
   <string name="Designated_time_period" platform="android">指定时间段</string>
   <string name="desktop" platform="android">桌面端</string>
   <string name="desktop_login_no_pin" platform="android">为了您的安全，登录桌面前请先设置 PIN 码！</string>
-  <string name="desktop_on_hint" platform="android, iOS">桌面版已登入。</string>
+  <string name="desktop_on_hint" platform="android, iOS">桌面端已登入。</string>
   <string name="desktop_upgrade" platform="android, iOS">请升级 Mixin 桌面端至最新版！</string>
   <string name="detect_qr_tip" platform="android, iOS">检测到一个 Mixin 二维码，点击识别</string>
   <string name="Developer" platform="android, iOS, Desktop">开发者</string>
@@ -902,7 +902,7 @@
   <string name="Mixin" platform="android, iOS">Mixin</string>
   <string name="mixin_id_or_phone" platform="iOS">Mixin ID 或手机号</string>
   <string name="Mixin_Locked" platform="android, iOS">Mixin 已锁定</string>
-  <string name="Mixin_Messenger_Desktop" platform="android, iOS, Desktop">Mixin 桌面</string>
+  <string name="Mixin_Messenger_Desktop" platform="android, iOS, Desktop">Mixin 桌面端</string>
   <string name="Mixin_server_encounters_errors" platform="iOS">服务器出错，请稍后重试</string>
   <string name="Mobile_Contacts" platform="iOS">通讯录</string>
   <string name="Model" platform="android">手机型号</string>
@@ -2092,7 +2092,7 @@
   <string name="add_recovery_contact_instruction_3" platform="android,iOS">恢复联系人无法转移您 Mixin 钱包里的资产，但可以协助您重新访问账号。</string>
   <string name="add_recovery_contact_instruction_4" platform="android,iOS">恢复联系人无法恢复您的 PIN 。</string>
   <string name="Im_Ready" platform="android,iOS">准备好了</string>
-  <string name="add_recovery_contact_before_instruction_1" platform="android,iOS">要添加的恢复联系人已下载并登录了 Mixin Messenger。</string>
+  <string name="add_recovery_contact_before_instruction_1" platform="android,iOS">要添加的恢复联系人已下载并登录了 Mixin。</string>
   <string name="add_recovery_contact_before_instruction_2" platform="android,iOS">要添加的恢复联系人保持 Mixin 在线或者正在与您面对面。</string>
   <string name="add_recovery_contact_before_instruction_3" platform="android,iOS">要添加的恢复联系人已添加当前账号（%1$s）为联系人，否则对方可能无法收到验证码。</string>
   <string name="Mixin_Support" platform="android,iOS">Mixin 客服</string>
