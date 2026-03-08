@@ -2559,4 +2559,11 @@
   <string name="impact_on_pnl_1" platform="android, iOS">Leverage amplifies both profits and losses</string>
   <string name="impact_on_pnl_2" platform="android, iOS">The higher the leverage, the greater the PnL impact from price movements</string>
   <string name="perps_leverage_risk_notice" platform="android, iOS">Please choose your leverage carefully. With high leverage, even small price fluctuations may result in significant losses.</string>
+  <string name="position_value" platform="android, iOS">Position Value</string>
+  <string name="perps_position_overview" platform="android, iOS">Margin represents the actual trading value supporting your current position, calculated as Margin × Leverage.</string>
+  <string name="Purpose" platform="android, iOS">Purpose:</string>
+  <string name="perps_position_purpose_1" platform="android, iOS">Supports the current position</string>
+  <string name="perps_position_purpose_1" platform="android, iOS">Offsets unrealized losses</string>
+  <string name="perps_position_risk_1" platform="android, iOS">If the margin becomes insufficient to support the position, it may be forcibly liquidated by the system.</string>
+  <string name="perps_position_risk_2" platform="android, iOS">Sharp price fluctuations may quickly consume the margin.</string>
 </resources>
