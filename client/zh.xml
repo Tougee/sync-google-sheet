@@ -2511,7 +2511,7 @@
   <string name="Risk_Notice" platform="android, iOS">风险提示：</string>
   <string name="risk_notice_1" platform="android, iOS">杠杆交易可能放大收益，同时也会放大亏损</string>
   <string name="risk_notice_2" platform="android, iOS">当保证金不足时，仓位可能被强制平仓</string>
-  <string name="risk_notice_1" platform="android, iOS">请合理控制杠杆倍数与仓位规模，谨慎交易</string>
+  <string name="risk_notice_3" platform="android, iOS">请合理控制杠杆倍数与仓位规模，谨慎交易</string>
   <string name="Example" platform="android, iOS">举例说明</string>
   <string name="example_open_position" platform="android, iOS">开仓交易</string>
   <string name="example_direction" platform="android, iOS">开仓方向</string>

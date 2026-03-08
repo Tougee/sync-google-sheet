@@ -2534,7 +2534,7 @@
   <string name="Risk_Notice" platform="android, iOS">Risk Notice:</string>
   <string name="risk_notice_1" platform="android, iOS">Leveraged trading amplifies both profits and losses</string>
   <string name="risk_notice_2" platform="android, iOS">Positions may be forcibly liquidated if margin becomes insufficient</string>
-  <string name="risk_notice_1" platform="android, iOS">Please manage leverage and position size carefully and trade responsibly</string>
+  <string name="risk_notice_3" platform="android, iOS">Please manage leverage and position size carefully and trade responsibly</string>
   <string name="Example" platform="android, iOS">Example</string>
   <string name="example_open_position" platform="android, iOS">Open Position</string>
   <string name="example_direction" platform="android, iOS">Direction</string>
