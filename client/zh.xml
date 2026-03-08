@@ -2518,10 +2518,10 @@
   <string name="Leverage_Multiplier" platform="android, iOS">杠杆倍数</string>
   <string name="example_margin" platform="android, iOS">投入资金</string>
   <string name="example_scene1_increasing" platform="android, iOS">场景一：价格上涨</string>
-  <string name="example_price_change_increasing" platform="android, iOS">上涨幅度</string>
+  <string name="example_price_increased" platform="android, iOS">上涨幅度</string>
   <string name="PnL" platform="android, iOS">盈亏</string>
   <string name="example_scene2_decreasing" platform="android, iOS">场景二：价格下跌</string>
-  <string name="example_price_change_decreasing" platform="android, iOS">下跌幅度</string>
+  <string name="example_price_decreased" platform="android, iOS">下跌幅度</string>
   <string name="perps_long_overview" platform="android, iOS">做多是指在预期价格上涨时建立仓位，价格上涨可获得盈利，价格下跌则产生亏损。</string>
   <string name="PnL_Rules" platform="android, iOS">盈亏规则：</string>
   <string name="pnl_rules_1" platform="android, iOS">价格上涨：产生盈利</string>
