@@ -2540,7 +2540,7 @@
   <string name="perps_position_overview" platform="android, iOS">当前合约持仓的实际交易价值，由「保证金 × 杠杆」决定。</string>
   <string name="Purpose" platform="android, iOS">用途：</string>
   <string name="perps_position_purpose_1" platform="android, iOS">支撑当前仓位</string>
-  <string name="perps_position_purpose_1" platform="android, iOS">抵扣浮动亏损</string>
+  <string name="perps_position_purpose_2" platform="android, iOS">抵扣浮动亏损</string>
   <string name="perps_position_risk_1" platform="android, iOS">当投入资金不足以支撑当前仓位时，仓位将被系统强制平仓。</string>
   <string name="perps_position_risk_2" platform="android, iOS">价格剧烈波动可能会快速消耗投入资金。</string>
 </resources>

@@ -2563,7 +2563,7 @@
   <string name="perps_position_overview" platform="android, iOS">Margin represents the actual trading value supporting your current position, calculated as Margin × Leverage.</string>
   <string name="Purpose" platform="android, iOS">Purpose:</string>
   <string name="perps_position_purpose_1" platform="android, iOS">Supports the current position</string>
-  <string name="perps_position_purpose_1" platform="android, iOS">Offsets unrealized losses</string>
+  <string name="perps_position_purpose_2" platform="android, iOS">Offsets unrealized losses</string>
   <string name="perps_position_risk_1" platform="android, iOS">If the margin becomes insufficient to support the position, it may be forcibly liquidated by the system.</string>
   <string name="perps_position_risk_2" platform="android, iOS">Sharp price fluctuations may quickly consume the margin.</string>
 </resources>
