@@ -260,6 +260,7 @@
 	<string name="BOTS">机器人</string>
 	<string name="bots_title">机器人</string>
 	<string name="bottom_transfer_stranger_tip">Mixin ID %1$s 不是您的联系人，请确认收款人是否正确。如果您转错了人资产将无法追回！</string>
+	<string name="Brief_Introduction">简介</string>
 	<string name="Browser">浏览器</string>
 	<string name="btc_tx_already_speedy">当前费率已经足够，无需加速。</string>
 	<string name="buy">购买</string>
@@ -738,6 +739,14 @@
 	<string name="Estimated_Price">预计价格</string>
 	<string name="Estimated_Receive">预计收到</string>
 	<string name="Everybody">任何人</string>
+	<string name="Example">举例说明</string>
+	<string name="example_direction">开仓方向</string>
+	<string name="example_margin">投入资金</string>
+	<string name="example_open_position">开仓交易</string>
+	<string name="example_price_change_decreasing">下跌幅度</string>
+	<string name="example_price_change_increasing">上涨幅度</string>
+	<string name="example_scene1_increasing">场景一：价格上涨</string>
+	<string name="example_scene2_decreasing">场景二：价格下跌</string>
 	<string name="exchange_rate">价格</string>
 	<string name="Exchanges_or_Wallets">交易所或其他钱包</string>
 	<string name="Exchanging_data">正在同步密钥分片，进度 %1$s%%…</string>
@@ -949,6 +958,8 @@
 	<string name="leave_message_to_team_mixin">给 Mixin 客服留言</string>
 	<string name="Legacy_Network">旧网络</string>
 	<string name="legacy_network_transfer_hint">当前转账使用的是旧网络</string>
+	<string name="Leverage">杠杆</string>
+	<string name="Leverage_Multiplier">杠杆倍数</string>
 	<string name="Lightning_Address">闪电网络地址</string>
 	<string name="lightning_address_explain">%1$s 是您的闪电网络地址，通过该地址，您可以便捷、安全地接收支付：</string>
 	<string name="lightning_address_explain_1">地址格式类似邮箱，简单好记。</string>
@@ -970,6 +981,7 @@
 	<string name="Link_desktop_failed">登录桌面端失败</string>
 	<string name="Link_desktop_success">登录桌面端成功</string>
 	<string name="Links">链接</string>
+	<string name="Liquidation">平仓</string>
 	<string name="Live">直播</string>
 	<string name="live_permission">Mixin 需要使用出现在其它应用上的权限以在画中画模式中播放视频。</string>
 	<string name="live_shareable_false">该直播已被设置为不允许转发</string>
@@ -998,6 +1010,7 @@
 	<string name="logout_description">退出账号不会影响当前账号的资产安全，也不会删除当前账号的聊天记录。</string>
 	<string name="logout_title">输入 PIN 退出登录</string>
 	<string name="Logs">日志</string>
+	<string name="Long">做多</string>
 	<string name="Lost_your_mobile_number">手机丢失？</string>
 	<string name="low_24h">24 小时最低</string>
 	<string name="Make_group_admin">设定为群组管理员</string>
@@ -1232,6 +1245,7 @@
 	<string name="order_type_swap">闪兑</string>
 	<string name="Orders">订单</string>
 	<string name="OTHER">其他</string>
+	<string name="Overview">具体说明</string>
 	<string name="Overwrite">覆盖</string>
 	<string name="Owner">群主</string>
 	<string name="Paid">已支付</string>
@@ -1261,6 +1275,9 @@
 	<string name="permission_camera">要允许拍摄照片吗？</string>
 	<string name="permission_video">要允许拍摄视频吗？</string>
 	<string name="Permissions">权限列表</string>
+	<string name="Perpetual_Futures">永续合约</string>
+	<string name="perps_intro_overview">Mixin 永续合约是一种以数字资产结算的衍生品交易方式，支持做多和做空，无到期日。通过杠杆机制，交易者可以放大仓位，把握价格上涨或下跌带来的交易机会。</string>
+	<string name="perps_long_overview">做多是指在预期价格上涨时建立仓位，价格上涨可获得盈利，价格下跌则产生亏损。</string>
 	<string name="phone_as_key_shard">手机号将关联到由您管理的 MPC 钱包的一个密钥分片</string>
 	<string name="Phone_call">电话呼叫</string>
 	<string name="Phone_Contact">手机联系人</string>
@@ -1291,6 +1308,10 @@
 	<string name="Please_keep_app_in_foreground">请保持应用在前台，设置过程中不要强制关闭应用</string>
 	<string name="Please_use_when_network_is_connected">请在网络流畅的环境下进行此操作</string>
 	<string name="Please_wait_a_bit">请稍等…</string>
+	<string name="PnL">盈亏</string>
+	<string name="PnL_Rules">盈亏规则：</string>
+	<string name="pnl_rules_1">价格上涨：产生盈利</string>
+	<string name="pnl_rules_2">价格下跌：产生亏损</string>
 	<string name="Post">文章</string>
 	<string name="POST">文章</string>
 	<string name="powered_by_mixin_route_prefix">由</string>
@@ -1321,6 +1342,12 @@
 	<string name="Proceed">继续</string>
 	<string name="Process_can_not_be_stop">流程一旦开始无法取消，请牢记 6 位数字 PIN，意外中止流程需要再次输入</string>
 	<string name="processing">处理中</string>
+	<string name="Product_Features">产品特点：</string>
+	<string name="product_features_1">无到期日，可长期持仓</string>
+	<string name="product_features_2">支持做多 / 做空，双向交易</string>
+	<string name="product_features_3">最高支持 %d 倍杠杆</string>
+	<string name="product_features_4">支持逐仓模式，灵活控制风险</string>
+	<string name="product_features_5">延迟爆仓，防插针</string>
 	<string name="Profile_Badge">个人资料徽章</string>
 	<string name="Profile_Badge_description">您名字旁边的专属徽章</string>
 	<string name="profile_modify_number">你想要修改手机号码么？</string>
@@ -1456,6 +1483,9 @@
 	<string name="Revoking_Multisig_Failed">撤销多重签名交易失败</string>
 	<string name="Revoking_Multisig_Signature">正在撤销多签交易</string>
 	<string name="Rewards">礼遇</string>
+	<string name="Risk_Notice">风险提示：</string>
+	<string name="risk_notice_1">请合理控制杠杆倍数与仓位规模，谨慎交易</string>
+	<string name="risk_notice_2">当保证金不足时，仓位可能被强制平仓</string>
 	<string name="SAFE">金库</string>
 	<string name="safe_create_guideline_url">https://support.mixin.one/zh/article/safe-1ljf7ld/</string>
 	<string name="safe_learn_more_url">https://support.mixin.one/zh/article/mixin-safe-1bl8w6l/</string>
@@ -1624,6 +1654,7 @@
 	<string name="Share_QR_Code">分享二维码</string>
 	<string name="share_to">分享%1$s到…</string>
 	<string name="Shared_Media">媒体内容</string>
+	<string name="Short">做空</string>
 	<string name="Show">显示</string>
 	<string name="Show_in_chat">在聊天中展示</string>
 	<string name="Show_Mnemonic_Phrase">查看助记词</string>

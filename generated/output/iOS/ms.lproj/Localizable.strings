@@ -211,6 +211,7 @@
 "bot_not_found" = "Aplikasi tidak dijumpai";
 "bots" = "BOT";
 "bots_title" = "Bot";
+"brief_introduction" = "Introduction";
 "browser" = "Browser";
 "btc_tx_already_speedy" = "Current fee rate is already sufficient; acceleration is meaningless.";
 "buy" = "Buy";
@@ -628,6 +629,14 @@
 "estimated_price" = "Estimated Price";
 "estimated_receive" = "Estimated Receive";
 "everybody" = "Semua orang";
+"example" = "Example";
+"example_direction" = "Direction";
+"example_margin" = "Margin";
+"example_open_position" = "Open Position";
+"example_price_change_decreasing" = "Price Change";
+"example_price_change_increasing" = "Price Change";
+"example_scene1_increasing" = "Scenario 1: Price Increases";
+"example_scene2_decreasing" = "Scenario 2: Price Decreases";
 "exchanges_or_wallets" = "Exchanges or Wallets";
 "exchanging_data" = "Synchronization key shards in progress %@%%...";
 "exit_confirmation" = "Exit \"%@\"?";
@@ -806,6 +815,8 @@
 "leave_message_to_team_mixin" = "Leave a message to Team Mixin";
 "legacy_network" = "Legacy Network";
 "legacy_network_transfer_hint" = "Current transfer is using legacy network";
+"leverage" = "Leverage";
+"leverage_multiplier" = "Leverage Multiplier";
 "light" = "Light";
 "lightning_address" = "Lightning Address";
 "lightning_address_explain" = "%@ is your Lightning Network address. With this address, you can conveniently and securely receive payments:";
@@ -827,6 +838,7 @@
 "link_desktop_description" = "Link Mixin Desktop by QR code";
 "link_recognition_failure" = "Link recognition failure";
 "link_shareable_false" = "The link has been set to not allow sharing";
+"liquidation" = "Liquidation";
 "live" = "Langsung";
 "live_shareable_false" = "The live has been set to not allow sharing";
 "live_stream" = "live stream";
@@ -850,6 +862,7 @@
 "logout_description" = "Logging out will not compromise asset security, nor will it delete chat history.";
 "logout_title" = "Enter your PIN to log out";
 "logs" = "Log";
+"long" = "Long";
 "lost_your_mobile_number" = "Kehilangan nombor telefon bimbit anda?";
 "low_24h" = "24H LOW";
 "make_group_admin" = "Buat pentadbir kumpulan";
@@ -1060,6 +1073,7 @@
 "order_type_swap" = "Swap";
 "orders" = "Orders";
 "other" = "Other";
+"overview" = "Overview";
 "overwrite" = "Overwrite";
 "owner" = "pemilik";
 "paid" = "Paid";
@@ -1092,6 +1106,9 @@
 "permission_denied_photos" = "Adding Photo Denied";
 "permission_denied_photos_hint" = "Mixin doesn't have permission to add photo to your library. Tap Settings to authorize.";
 "permissions" = "Kebenaran";
+"perpetual_futures" = "Perpetual Futures";
+"perps_intro_overview" = "Mixin Perpetual Futures are a type of derivatives trading settled in digital assets. They allow traders to go long or short with no expiration date. Through leverage, traders can amplify their position size and capture opportunities from both rising and falling market prices.";
+"perps_long_overview" = "Going Long means opening a position when you expect the price to rise. If the price increases, you make a profit; if the price decreases, you incur a loss.";
 "phone_as_key_shard" = "Your mobile number will be associated with a key shard of the MPC wallet managed by you";
 "phone_call" = "Panggilan telefon";
 "phone_contact" = "Kenalan Telefon";
@@ -1130,6 +1147,10 @@
 "playlist" = "Senarai main";
 "please_keep_app_in_foreground" = "Please keep the app in the foreground and do not force quit it during the setup process.";
 "please_use_when_network_is_connected" = "Please complete the operation under a stable network environment.";
+"pnl" = "PnL";
+"pnl_rules" = "PnL Rules:";
+"pnl_rules_1" = "Price rises: Profit";
+"pnl_rules_2" = "Price falls: Loss";
 "post" = "Kirim";
 "post_sharing" = "post";
 "preauthorize_amount" = "Pre-authorize Amount";
@@ -1156,6 +1177,12 @@
 "private_key_storage_description" = "Your private key will only be stored locally on your device";
 "proceed" = "Proceed";
 "process_can_not_be_stop" = "The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.";
+"product_features" = "Product Features:";
+"product_features_1" = "No expiration date, allowing positions to be held long-term";
+"product_features_2" = "Long / Short for two-way trading";
+"product_features_3" = "Up to %d× leverage";
+"product_features_4" = "Isolated margin mode for flexible risk control";
+"product_features_5" = "Delayed liquidation mechanism to reduce wick-triggered liquidations";
 "profile" = "Profile";
 "profile_badge" = "Profile Badge";
 "profile_badge_description" = "An exclusive badge next to your name";
@@ -1275,6 +1302,9 @@
 "revoking_multisig_failed" = "Revoking Multisig Failed";
 "revoking_multisig_signature" = "Revoking Multisig Signature";
 "rewards" = "Rewards";
+"risk_notice" = "Risk Notice:";
+"risk_notice_1" = "Please manage leverage and position size carefully and trade responsibly";
+"risk_notice_2" = "Positions may be forcibly liquidated if margin becomes insufficient";
 "room_is_full" = "Room is full";
 "safe" = "SAFE";
 "safe_create_guideline_url" = "https://support.mixin.one/en/article/how-to-create-a-safe-on-mixin-1ehi2mf/";
@@ -1424,6 +1454,7 @@
 "share_pair" = "Share Pair";
 "share_to" = "Share To";
 "shared_media" = "Media Berkongsi";
+"short" = "Short";
 "show" = "Tunjuk";
 "show_asset" = "Show asset";
 "show_in_chat" = "Show in chat";

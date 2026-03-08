@@ -262,6 +262,7 @@
 	<string name="BOTS">BOTS</string>
 	<string name="bots_title">Bots</string>
 	<string name="bottom_transfer_stranger_tip">Mixin ID %1$s is not on your contact list. Make sure the recipient you chosen is correct. If you transfer to the wrong person, your assets will be lost!</string>
+	<string name="Brief_Introduction">Introduction</string>
 	<string name="Browser">Browser</string>
 	<string name="btc_tx_already_speedy">Current fee rate is already sufficient; acceleration is meaningless.</string>
 	<string name="buy">Buy</string>
@@ -744,6 +745,14 @@
 	<string name="Estimated_Price">Estimated Price</string>
 	<string name="Estimated_Receive">Estimated Receive</string>
 	<string name="Everybody">Everybody</string>
+	<string name="Example">Example</string>
+	<string name="example_direction">Direction</string>
+	<string name="example_margin">Margin</string>
+	<string name="example_open_position">Open Position</string>
+	<string name="example_price_change_decreasing">Price Change</string>
+	<string name="example_price_change_increasing">Price Change</string>
+	<string name="example_scene1_increasing">Scenario 1: Price Increases</string>
+	<string name="example_scene2_decreasing">Scenario 2: Price Decreases</string>
 	<string name="exchange_rate">Exchange Rate</string>
 	<string name="Exchanges_or_Wallets">Exchanges or Wallets</string>
 	<string name="Exchanging_data">Synchronization key shards in progress %1$s%%…</string>
@@ -961,6 +970,8 @@
 	<string name="leave_message_to_team_mixin">Leave a message to Team Mixin</string>
 	<string name="Legacy_Network">Legacy Network</string>
 	<string name="legacy_network_transfer_hint">Current transfer is using legacy network</string>
+	<string name="Leverage">Leverage</string>
+	<string name="Leverage_Multiplier">Leverage Multiplier</string>
 	<string name="Lightning_Address">Lightning Address</string>
 	<string name="lightning_address_explain">%1$s is your Lightning Network address. With this address, you can conveniently and securely receive payments:</string>
 	<string name="lightning_address_explain_1">The address format is similar to an email, simple and easy to remember.</string>
@@ -982,6 +993,7 @@
 	<string name="Link_desktop_failed">Link desktop failed</string>
 	<string name="Link_desktop_success">Link desktop success</string>
 	<string name="Links">Links</string>
+	<string name="Liquidation">Liquidation</string>
 	<string name="Live">Live</string>
 	<string name="live_permission">Mixin needs access to draw above other apps to play videos in Picture-in-Picture mode.</string>
 	<string name="live_shareable_false">The live has been set to not allow sharing</string>
@@ -1011,6 +1023,7 @@
 	<string name="logout_description">Logging out will not compromise asset security, nor will it delete chat history.</string>
 	<string name="logout_title">Enter your PIN to log out</string>
 	<string name="Logs">Logs</string>
+	<string name="Long">Long</string>
 	<string name="Lost_your_mobile_number">Lost your mobile number?</string>
 	<string name="low_24h">24H LOW</string>
 	<string name="Make_group_admin">Make group admin</string>
@@ -1246,6 +1259,7 @@
 	<string name="order_type_swap">Swap</string>
 	<string name="Orders">Orders</string>
 	<string name="OTHER">OTHER</string>
+	<string name="Overview">Overview</string>
 	<string name="Overwrite">Overwrite</string>
 	<string name="Owner">Owner</string>
 	<string name="Paid">Paid</string>
@@ -1275,6 +1289,9 @@
 	<string name="permission_camera">Allow to take pictures?</string>
 	<string name="permission_video">Allow to record video?</string>
 	<string name="Permissions">Permissions</string>
+	<string name="Perpetual_Futures">Perpetual Futures</string>
+	<string name="perps_intro_overview">Mixin Perpetual Futures are a type of derivatives trading settled in digital assets. They allow traders to go long or short with no expiration date. Through leverage, traders can amplify their position size and capture opportunities from both rising and falling market prices.</string>
+	<string name="perps_long_overview">Going Long means opening a position when you expect the price to rise. If the price increases, you make a profit; if the price decreases, you incur a loss.</string>
 	<string name="phone_as_key_shard">Your mobile number will be associated with a key shard of the MPC wallet managed by you</string>
 	<string name="Phone_call">Phone call</string>
 	<string name="Phone_Contact">Phone Contacts</string>
@@ -1305,6 +1322,10 @@
 	<string name="Please_keep_app_in_foreground">Please keep the app in the foreground and do not force quit it during the setup process.</string>
 	<string name="Please_use_when_network_is_connected">Please complete the operation under a stable network environment.</string>
 	<string name="Please_wait_a_bit">Please wait a bit…</string>
+	<string name="PnL">PnL</string>
+	<string name="PnL_Rules">PnL Rules:</string>
+	<string name="pnl_rules_1">Price rises: Profit</string>
+	<string name="pnl_rules_2">Price falls: Loss</string>
 	<string name="Post">Post</string>
 	<string name="POST">POST</string>
 	<string name="powered_by_mixin_route_prefix">Powered by</string>
@@ -1335,6 +1356,12 @@
 	<string name="Proceed">Proceed</string>
 	<string name="Process_can_not_be_stop">The process cannot be canceled when it begins. Please remember the 6-digit PIN and reenter it if the process is aborted unexpectedly.</string>
 	<string name="processing">Processing</string>
+	<string name="Product_Features">Product Features:</string>
+	<string name="product_features_1">No expiration date, allowing positions to be held long-term</string>
+	<string name="product_features_2">Long / Short for two-way trading</string>
+	<string name="product_features_3">Up to %d× leverage</string>
+	<string name="product_features_4">Isolated margin mode for flexible risk control</string>
+	<string name="product_features_5">Delayed liquidation mechanism to reduce wick-triggered liquidations</string>
 	<string name="Profile_Badge">Profile Badge</string>
 	<string name="Profile_Badge_description">An exclusive badge next to your name</string>
 	<string name="profile_modify_number">Do you want to change your mobile number?</string>
@@ -1471,6 +1498,9 @@
 	<string name="Revoking_Multisig_Failed">Revoking Multisig Failed</string>
 	<string name="Revoking_Multisig_Signature">Revoking Multisig Signature</string>
 	<string name="Rewards">Rewards</string>
+	<string name="Risk_Notice">Risk Notice:</string>
+	<string name="risk_notice_1">Please manage leverage and position size carefully and trade responsibly</string>
+	<string name="risk_notice_2">Positions may be forcibly liquidated if margin becomes insufficient</string>
 	<string name="SAFE">SAFE</string>
 	<string name="safe_create_guideline_url">https://support.mixin.one/en/article/how-to-create-a-safe-on-mixin-1ehi2mf/</string>
 	<string name="safe_learn_more_url">https://support.mixin.one/en/article/what-is-mixin-safe-g20z2m/</string>
@@ -1640,6 +1670,7 @@
 	<string name="Share_QR_Code">Share QR Code</string>
 	<string name="share_to">Share %1$s to…</string>
 	<string name="Shared_Media">Shared Media</string>
+	<string name="Short">Short</string>
 	<string name="Show">Show</string>
 	<string name="Show_in_chat">Show in chat</string>
 	<string name="Show_Mnemonic_Phrase">Show Mnemonic Phrase</string>
