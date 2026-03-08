@@ -635,8 +635,10 @@
 "example_open_position" = "開倉交易";
 "example_price_decreased" = "下跌幅度";
 "example_price_increased" = "上漲幅度";
+"example_scene1_decreasing" = "場景一：價格下跌";
 "example_scene1_increasing" = "場景一：價格上漲";
 "example_scene2_decreasing" = "場景二：價格下跌";
+"example_scene2_increasing" = "場景二：價格上漲";
 "exchanges_or_wallets" = "交易所或其他錢包";
 "exchanging_data" = "正在同步金鑰分片，進度 %@%%...";
 "exit_confirmation" = "退出\"%@\"？";
@@ -1109,6 +1111,7 @@
 "perpetual_futures" = "永續合約";
 "perps_intro_overview" = "Mixin 永續合約是一種以數字資產結算的衍生品交易方式，支援做多和做空，無到期日。透過槓桿機制，交易者可以放大倉位，把握價格上漲或下跌帶來的交易機會。";
 "perps_long_overview" = "做多是指在預期價格上漲時建立倉位，價格上漲可獲得盈利，價格下跌則產生虧損。";
+"perps_short_overview" = "做空是指在預期價格下跌時建立倉位，價格下跌可獲得盈利，價格上漲則產生虧損。";
 "phone_as_key_shard" = "手機號將關聯到由您管理的 MPC 錢包的一個金鑰分片";
 "phone_call" = "電話呼叫";
 "phone_contact" = "手機聯絡人";
@@ -1149,8 +1152,10 @@
 "please_use_when_network_is_connected" = "請在網路流暢的環境下進行此操作";
 "pnl" = "盈虧";
 "pnl_rules" = "盈虧規則：";
-"pnl_rules_1" = "價格上漲：產生盈利";
-"pnl_rules_2" = "價格下跌：產生虧損";
+"pnl_rules_fall_loss" = "價格下跌：產生虧損";
+"pnl_rules_fall_profit" = "價格下跌：產生盈利";
+"pnl_rules_rise_loss" = "價格上漲：產生虧損";
+"pnl_rules_rise_profit" = "價格上漲：產生盈利";
 "post" = "文章";
 "post_sharing" = "文章";
 "preauthorize_amount" = "預授權額度";

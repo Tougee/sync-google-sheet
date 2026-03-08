@@ -751,8 +751,10 @@
 	<string name="example_open_position">Open Position</string>
 	<string name="example_price_decreased">Price Decreased</string>
 	<string name="example_price_increased">Price Increased</string>
+	<string name="example_scene1_decreasing">Scenario 1: Price Decreases</string>
 	<string name="example_scene1_increasing">Scenario 1: Price Increases</string>
 	<string name="example_scene2_decreasing">Scenario 2: Price Decreases</string>
+	<string name="example_scene2_increasing">Scenario 2: Price Increases</string>
 	<string name="exchange_rate">Exchange Rate</string>
 	<string name="Exchanges_or_Wallets">Exchanges or Wallets</string>
 	<string name="Exchanging_data">Synchronization key shards in progress %1$s%%…</string>
@@ -1292,6 +1294,7 @@
 	<string name="Perpetual_Futures">Perpetual Futures</string>
 	<string name="perps_intro_overview">Mixin Perpetual Futures are a type of derivatives trading settled in digital assets. They allow traders to go long or short with no expiration date. Through leverage, traders can amplify their position size and capture opportunities from both rising and falling market prices.</string>
 	<string name="perps_long_overview">Going Long means opening a position when you expect the price to rise. If the price increases, you make a profit; if the price decreases, you incur a loss.</string>
+	<string name="perps_short_overview">Going Short means opening a position when you expect the price to fall. If the price decreases, you make a profit; if the price increases, you incur a loss.</string>
 	<string name="phone_as_key_shard">Your mobile number will be associated with a key shard of the MPC wallet managed by you</string>
 	<string name="Phone_call">Phone call</string>
 	<string name="Phone_Contact">Phone Contacts</string>
@@ -1324,8 +1327,10 @@
 	<string name="Please_wait_a_bit">Please wait a bit…</string>
 	<string name="PnL">PnL</string>
 	<string name="PnL_Rules">PnL Rules:</string>
-	<string name="pnl_rules_1">Price rises: Profit</string>
-	<string name="pnl_rules_2">Price falls: Loss</string>
+	<string name="pnl_rules_fall_loss">Price falls: Loss</string>
+	<string name="pnl_rules_fall_profit">Price falls: Profit</string>
+	<string name="pnl_rules_rise_loss">Price rises: Loss</string>
+	<string name="pnl_rules_rise_profit">Price rises: Profit</string>
 	<string name="Post">Post</string>
 	<string name="POST">POST</string>
 	<string name="powered_by_mixin_route_prefix">Powered by</string>

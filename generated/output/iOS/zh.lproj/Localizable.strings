@@ -635,8 +635,10 @@
 "example_open_position" = "开仓交易";
 "example_price_decreased" = "下跌幅度";
 "example_price_increased" = "上涨幅度";
+"example_scene1_decreasing" = "场景一：价格下跌";
 "example_scene1_increasing" = "场景一：价格上涨";
 "example_scene2_decreasing" = "场景二：价格下跌";
+"example_scene2_increasing" = "场景二：价格上涨";
 "exchanges_or_wallets" = "交易所或其他钱包";
 "exchanging_data" = "正在同步密钥分片，进度 %@%%...";
 "exit_confirmation" = "退出\"%@\"？";
@@ -1109,6 +1111,7 @@
 "perpetual_futures" = "永续合约";
 "perps_intro_overview" = "Mixin 永续合约是一种以数字资产结算的衍生品交易方式，支持做多和做空，无到期日。通过杠杆机制，交易者可以放大仓位，把握价格上涨或下跌带来的交易机会。";
 "perps_long_overview" = "做多是指在预期价格上涨时建立仓位，价格上涨可获得盈利，价格下跌则产生亏损。";
+"perps_short_overview" = "做空是指在预期价格下跌时建立仓位，价格下跌可获得盈利，价格上涨则产生亏损。";
 "phone_as_key_shard" = "手机号将关联到由您管理的 MPC 钱包的一个密钥分片";
 "phone_call" = "电话呼叫";
 "phone_contact" = "手机联系人";
@@ -1149,8 +1152,10 @@
 "please_use_when_network_is_connected" = "请在网络流畅的环境下进行此操作";
 "pnl" = "盈亏";
 "pnl_rules" = "盈亏规则：";
-"pnl_rules_1" = "价格上涨：产生盈利";
-"pnl_rules_2" = "价格下跌：产生亏损";
+"pnl_rules_fall_loss" = "价格下跌：产生亏损";
+"pnl_rules_fall_profit" = "价格下跌：产生盈利";
+"pnl_rules_rise_loss" = "价格上涨：产生亏损";
+"pnl_rules_rise_profit" = "价格上涨：产生盈利";
 "post" = "文章";
 "post_sharing" = "文章";
 "preauthorize_amount" = "预授权额度";
