@@ -2532,9 +2532,9 @@
   <string name="product_features_4" platform="android, iOS">Isolated margin mode for flexible risk control</string>
   <string name="product_features_5" platform="android, iOS">Delayed liquidation mechanism to reduce wick-triggered liquidations</string>
   <string name="Risk_Notice" platform="android, iOS">Risk Notice:</string>
-  <string name="risk_notice_1" platform="android, iOS">Leveraged trading amplifies both profits and losses</string>
-  <string name="risk_notice_2" platform="android, iOS">Positions may be forcibly liquidated if margin becomes insufficient</string>
-  <string name="risk_notice_3" platform="android, iOS">Please manage leverage and position size carefully and trade responsibly</string>
+  <string name="perps_intro_risk_notice_1" platform="android, iOS">Leveraged trading amplifies both profits and losses</string>
+  <string name="perps_intro_risk_notice_2" platform="android, iOS">Positions may be forcibly liquidated if margin becomes insufficient</string>
+  <string name="perps_intro_risk_notice_3" platform="android, iOS">Please manage leverage and position size carefully and trade responsibly</string>
   <string name="Example" platform="android, iOS">Example</string>
   <string name="example_open_position" platform="android, iOS">Open Position</string>
   <string name="example_direction" platform="android, iOS">Direction</string>
@@ -2554,4 +2554,9 @@
   <string name="pnl_rule_price_rise_loss" platform="android, iOS">Price rises: Loss</string>
   <string name="pnl_rule_price_fall_loss" platform="android, iOS">Price falls: Loss</string>
   <string name="pnl_rule_price_fall_profit" platform="android, iOS">Price falls: Profit</string>
+  <string name="perps_leverage_overview" platform="android, iOS">Leverage allows you to amplify your trading position, enabling you to control a larger contract size with a smaller amount of margin.</string>
+  <string name="impact_on_pnl" platform="android, iOS">Impact on PnL:</string>
+  <string name="impact_on_pnl_1" platform="android, iOS">Leverage amplifies both profits and losses</string>
+  <string name="impact_on_pnl_2" platform="android, iOS">The higher the leverage, the greater the PnL impact from price movements</string>
+  <string name="perps_leverage_risk_notice" platform="android, iOS">Please choose your leverage carefully. With high leverage, even small price fluctuations may result in significant losses.</string>
 </resources>
