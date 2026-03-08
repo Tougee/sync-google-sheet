@@ -743,8 +743,8 @@
 	<string name="example_direction">開倉方向</string>
 	<string name="example_margin">投入資金</string>
 	<string name="example_open_position">開倉交易</string>
-	<string name="example_price_change_decreasing">下跌幅度</string>
-	<string name="example_price_change_increasing">上漲幅度</string>
+	<string name="example_price_decreased">下跌幅度</string>
+	<string name="example_price_increased">上漲幅度</string>
 	<string name="example_scene1_increasing">場景一：價格上漲</string>
 	<string name="example_scene2_decreasing">場景二：價格下跌</string>
 	<string name="exchange_rate">價格</string>
