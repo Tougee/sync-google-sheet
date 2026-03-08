@@ -2536,6 +2536,7 @@
   <string name="impact_on_pnl_1" platform="android, iOS">槓桿會同時放大收益和虧損</string>
   <string name="impact_on_pnl_2" platform="android, iOS">槓桿倍數越高，盈虧隨價格波動的變化越大</string>
   <string name="perps_leverage_risk_notice" platform="android, iOS">請合理選擇槓桿倍數，高槓杆下，價格小幅波動也可能導致較大虧損。</string>
+  <string name="Position" platform="android, iOS">倉位</string>
   <string name="position_value" platform="android, iOS">倉位價值</string>
   <string name="perps_position_overview" platform="android, iOS">當前合約持倉的實際交易價值，由「保證金 × 槓桿」決定。</string>
   <string name="Purpose" platform="android, iOS">用途：</string>

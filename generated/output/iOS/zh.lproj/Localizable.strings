@@ -1169,6 +1169,7 @@
 "pnl_rule_price_rise_loss" = "价格上涨：产生亏损";
 "pnl_rule_price_rise_profit" = "价格上涨：产生盈利";
 "pnl_rules" = "盈亏规则：";
+"position" = "仓位";
 "position_value" = "仓位价值";
 "post" = "文章";
 "post_sharing" = "文章";

@@ -1169,6 +1169,7 @@
 "pnl_rule_price_rise_loss" = "價格上漲：產生虧損";
 "pnl_rule_price_rise_profit" = "價格上漲：產生盈利";
 "pnl_rules" = "盈虧規則：";
+"position" = "倉位";
 "position_value" = "倉位價值";
 "post" = "文章";
 "post_sharing" = "文章";

@@ -1330,6 +1330,7 @@
 	<string name="pnl_rule_price_rise_loss">价格上涨：产生亏损</string>
 	<string name="pnl_rule_price_rise_profit">价格上涨：产生盈利</string>
 	<string name="PnL_Rules">盈亏规则：</string>
+	<string name="Position">仓位</string>
 	<string name="position_value">仓位价值</string>
 	<string name="Post">文章</string>
 	<string name="POST">文章</string>

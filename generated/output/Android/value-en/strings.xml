@@ -1344,6 +1344,7 @@
 	<string name="pnl_rule_price_rise_loss">Price rises: Loss</string>
 	<string name="pnl_rule_price_rise_profit">Price rises: Profit</string>
 	<string name="PnL_Rules">PnL Rules:</string>
+	<string name="Position">Position</string>
 	<string name="position_value">Position Value</string>
 	<string name="Post">Post</string>
 	<string name="POST">POST</string>
