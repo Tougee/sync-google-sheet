@@ -1302,6 +1302,10 @@
 	<string name="perps_leverage_overview">Leverage allows you to amplify your trading position, enabling you to control a larger contract size with a smaller amount of margin.</string>
 	<string name="perps_leverage_risk_notice">Please choose your leverage carefully. With high leverage, even small price fluctuations may result in significant losses.</string>
 	<string name="perps_long_overview">Going Long means opening a position when you expect the price to rise. If the price increases, you make a profit; if the price decreases, you incur a loss.</string>
+	<string name="perps_position_overview">Margin represents the actual trading value supporting your current position, calculated as Margin × Leverage.</string>
+	<string name="perps_position_purpose_1">Offsets unrealized losses</string>
+	<string name="perps_position_risk_1">If the margin becomes insufficient to support the position, it may be forcibly liquidated by the system.</string>
+	<string name="perps_position_risk_2">Sharp price fluctuations may quickly consume the margin.</string>
 	<string name="perps_short_overview">Going Short means opening a position when you expect the price to fall. If the price decreases, you make a profit; if the price increases, you incur a loss.</string>
 	<string name="phone_as_key_shard">Your mobile number will be associated with a key shard of the MPC wallet managed by you</string>
 	<string name="Phone_call">Phone call</string>
@@ -1339,6 +1343,7 @@
 	<string name="pnl_rule_price_rise_loss">Price rises: Loss</string>
 	<string name="pnl_rule_price_rise_profit">Price rises: Profit</string>
 	<string name="PnL_Rules">PnL Rules:</string>
+	<string name="position_value">Position Value</string>
 	<string name="Post">Post</string>
 	<string name="POST">POST</string>
 	<string name="powered_by_mixin_route_prefix">Powered by</string>
@@ -1382,6 +1387,7 @@
 	<string name="profile_share_bot_hint">If you want to share a bot, add it to your contacts first</string>
 	<string name="Public_profile">Public profile (required)</string>
 	<string name="purchase_total_amount">Purchase Total Amount</string>
+	<string name="Purpose">Purpose:</string>
 	<string name="QR_Code">QR Code</string>
 	<string name="qr_code_camera_code">Use the built-in Camera to scan any QR Code. When a code is detected, tap the notification to view more information.</string>
 	<string name="QR_Code_not_found">QR Code not found</string>

@@ -1119,6 +1119,10 @@
 "perps_leverage_overview" = "杠杆倍数用于放大交易规模，以较少的保证金控制更大的合约仓位。";
 "perps_leverage_risk_notice" = "请合理选择杠杆倍数，高杠杆下，价格小幅波动也可能导致较大亏损。";
 "perps_long_overview" = "做多是指在预期价格上涨时建立仓位，价格上涨可获得盈利，价格下跌则产生亏损。";
+"perps_position_overview" = "当前合约持仓的实际交易价值，由「保证金 × 杠杆」决定。";
+"perps_position_purpose_1" = "抵扣浮动亏损";
+"perps_position_risk_1" = "当投入资金不足以支撑当前仓位时，仓位将被系统强制平仓。";
+"perps_position_risk_2" = "价格剧烈波动可能会快速消耗投入资金。";
 "perps_short_overview" = "做空是指在预期价格下跌时建立仓位，价格下跌可获得盈利，价格上涨则产生亏损。";
 "phone_as_key_shard" = "手机号将关联到由您管理的 MPC 钱包的一个密钥分片";
 "phone_call" = "电话呼叫";
@@ -1164,6 +1168,7 @@
 "pnl_rule_price_rise_loss" = "价格上涨：产生亏损";
 "pnl_rule_price_rise_profit" = "价格上涨：产生盈利";
 "pnl_rules" = "盈亏规则：";
+"position_value" = "仓位价值";
 "post" = "文章";
 "post_sharing" = "文章";
 "preauthorize_amount" = "预授权额度";
@@ -1201,6 +1206,7 @@
 "profile_badge_description" = "您名字旁边的专属徽章";
 "profile_photo" = "个人头像";
 "profile_share_bot_hint" = "如果您希望分享机器人，请先添加联系人。";
+"purpose" = "用途：";
 "qr_code" = "二维码";
 "qr_code_not_found" = "未发现二维码";
 "quote_color" = "涨跌颜色";

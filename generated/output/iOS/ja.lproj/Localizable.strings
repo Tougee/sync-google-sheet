@@ -1119,6 +1119,10 @@
 "perps_leverage_overview" = "Leverage allows you to amplify your trading position, enabling you to control a larger contract size with a smaller amount of margin.";
 "perps_leverage_risk_notice" = "Please choose your leverage carefully. With high leverage, even small price fluctuations may result in significant losses.";
 "perps_long_overview" = "Going Long means opening a position when you expect the price to rise. If the price increases, you make a profit; if the price decreases, you incur a loss.";
+"perps_position_overview" = "Margin represents the actual trading value supporting your current position, calculated as Margin × Leverage.";
+"perps_position_purpose_1" = "Offsets unrealized losses";
+"perps_position_risk_1" = "If the margin becomes insufficient to support the position, it may be forcibly liquidated by the system.";
+"perps_position_risk_2" = "Sharp price fluctuations may quickly consume the margin.";
 "perps_short_overview" = "Going Short means opening a position when you expect the price to fall. If the price decreases, you make a profit; if the price increases, you incur a loss.";
 "phone_as_key_shard" = "Your mobile number will be associated with a key shard of the MPC wallet managed by you";
 "phone_call" = "通話";
@@ -1164,6 +1168,7 @@
 "pnl_rule_price_rise_loss" = "Price rises: Loss";
 "pnl_rule_price_rise_profit" = "Price rises: Profit";
 "pnl_rules" = "PnL Rules:";
+"position_value" = "Position Value";
 "post" = "投稿";
 "post_sharing" = "投稿";
 "preauthorize_amount" = "Pre-authorize Amount";
@@ -1201,6 +1206,7 @@
 "profile_badge_description" = "An exclusive badge next to your name";
 "profile_photo" = "プロフィール画像";
 "profile_share_bot_hint" = "ミニアプリをシェアしたい場合は、まずミニアプリを連絡先に追加してください。";
+"purpose" = "Purpose:";
 "qr_code" = "QRコード";
 "qr_code_not_found" = "QRコードが見つかりません";
 "quote_color" = "Quote Color";

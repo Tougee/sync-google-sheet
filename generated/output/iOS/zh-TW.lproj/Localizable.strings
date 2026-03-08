@@ -1119,6 +1119,10 @@
 "perps_leverage_overview" = "槓桿倍數用於放大交易規模，以較少的保證金控制更大的合約倉位。";
 "perps_leverage_risk_notice" = "請合理選擇槓桿倍數，高槓杆下，價格小幅波動也可能導致較大虧損。";
 "perps_long_overview" = "做多是指在預期價格上漲時建立倉位，價格上漲可獲得盈利，價格下跌則產生虧損。";
+"perps_position_overview" = "當前合約持倉的實際交易價值，由「保證金 × 槓桿」決定。";
+"perps_position_purpose_1" = "抵扣浮動虧損";
+"perps_position_risk_1" = "當投入資金不足以支撐當前倉位時，倉位將被系統強制平倉。";
+"perps_position_risk_2" = "價格劇烈波動可能會快速消耗投入資金。";
 "perps_short_overview" = "做空是指在預期價格下跌時建立倉位，價格下跌可獲得盈利，價格上漲則產生虧損。";
 "phone_as_key_shard" = "手機號將關聯到由您管理的 MPC 錢包的一個金鑰分片";
 "phone_call" = "電話呼叫";
@@ -1164,6 +1168,7 @@
 "pnl_rule_price_rise_loss" = "價格上漲：產生虧損";
 "pnl_rule_price_rise_profit" = "價格上漲：產生盈利";
 "pnl_rules" = "盈虧規則：";
+"position_value" = "倉位價值";
 "post" = "文章";
 "post_sharing" = "文章";
 "preauthorize_amount" = "預授權額度";
@@ -1201,6 +1206,7 @@
 "profile_badge_description" = "您名字旁邊的專屬徽章";
 "profile_photo" = "個人頭像";
 "profile_share_bot_hint" = "如果您希望分享機器人，請先新增聯絡人。";
+"purpose" = "用途：";
 "qr_code" = "二維碼";
 "qr_code_not_found" = "未發現二維碼";
 "quote_color" = "漲跌顏色";
