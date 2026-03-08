@@ -2517,4 +2517,36 @@
   <string name="sign_up_15_secs" platform="android, iOS">Sign up in just 15 seconds</string>
   <string name="Account_Creation_Failed" platform="android, iOS">Account Creation Failed</string>
   <string name="Sign_in_Failed" platform="android, iOS">Sign in Failed</string>
+  <string name="Perpetual_Futures" platform="android, iOS">Perpetual Futures</string>
+  <string name="Brief_Introduction" platform="android, iOS">Introduction</string>
+  <string name="Long" platform="android, iOS">Long</string>
+  <string name="Short" platform="android, iOS">Short</string>
+  <string name="Leverage" platform="android, iOS">Leverage</string>
+  <string name="Liquidation" platform="android, iOS">Liquidation</string>
+  <string name="Overview" platform="android, iOS">Overview</string>
+  <string name="perps_intro_overview" platform="android, iOS">Mixin Perpetual Futures are a type of derivatives trading settled in digital assets. They allow traders to go long or short with no expiration date. Through leverage, traders can amplify their position size and capture opportunities from both rising and falling market prices.</string>
+  <string name="Product_Features" platform="android, iOS">Product Features:</string>
+  <string name="product_features_1" platform="android, iOS">No expiration date, allowing positions to be held long-term</string>
+  <string name="product_features_2" platform="android, iOS">Long / Short for two-way trading</string>
+  <string name="product_features_3" platform="android, iOS">Up to %d× leverage</string>
+  <string name="product_features_4" platform="android, iOS">Isolated margin mode for flexible risk control</string>
+  <string name="product_features_5" platform="android, iOS">Delayed liquidation mechanism to reduce wick-triggered liquidations</string>
+  <string name="Risk_Notice" platform="android, iOS">Risk Notice:</string>
+  <string name="risk_notice_1" platform="android, iOS">Leveraged trading amplifies both profits and losses</string>
+  <string name="risk_notice_2" platform="android, iOS">Positions may be forcibly liquidated if margin becomes insufficient</string>
+  <string name="risk_notice_1" platform="android, iOS">Please manage leverage and position size carefully and trade responsibly</string>
+  <string name="Example" platform="android, iOS">Example</string>
+  <string name="example_open_position" platform="android, iOS">Open Position</string>
+  <string name="example_direction" platform="android, iOS">Direction</string>
+  <string name="Leverage_Multiplier" platform="android, iOS">Leverage Multiplier</string>
+  <string name="example_margin" platform="android, iOS">Margin</string>
+  <string name="example_scene1_increasing" platform="android, iOS">Scenario 1: Price Increases</string>
+  <string name="example_price_change_increasing" platform="android, iOS">Price Change</string>
+  <string name="PnL" platform="android, iOS">PnL</string>
+  <string name="example_scene2_decreasing" platform="android, iOS">Scenario 2: Price Decreases</string>
+  <string name="example_price_change_decreasing" platform="android, iOS">Price Change</string>
+  <string name="perps_long_overview" platform="android, iOS">Going Long means opening a position when you expect the price to rise. If the price increases, you make a profit; if the price decreases, you incur a loss.</string>
+  <string name="PnL_Rules" platform="android, iOS">PnL Rules:</string>
+  <string name="pnl_rules_1" platform="android, iOS">Price rises: Profit</string>
+  <string name="pnl_rules_2" platform="android, iOS">Price falls: Loss</string>
 </resources>
