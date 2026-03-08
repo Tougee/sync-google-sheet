@@ -2527,8 +2527,8 @@
   <string name="perps_long_overview" platform="android, iOS">做多是指在预期价格上涨时建立仓位，价格上涨可获得盈利，价格下跌则产生亏损。</string>
   <string name="perps_short_overview" platform="android, iOS">做空是指在预期价格下跌时建立仓位，价格下跌可获得盈利，价格上涨则产生亏损。</string>
   <string name="PnL_Rules" platform="android, iOS">盈亏规则：</string>
-  <string name="pnl_rules_rise_profit" platform="android, iOS">价格上涨：产生盈利</string>
-  <string name="pnl_rules_rise_loss" platform="android, iOS">价格上涨：产生亏损</string>
-  <string name="pnl_rules_fall_loss" platform="android, iOS">价格下跌：产生亏损</string>
-  <string name="pnl_rules_fall_profit" platform="android, iOS">价格下跌：产生盈利</string>
+  <string name="pnl_rule_price_rise_profit" platform="android, iOS">价格上涨：产生盈利</string>
+  <string name="pnl_rule_price_rise_loss" platform="android, iOS">价格上涨：产生亏损</string>
+  <string name="pnl_rule_price_fall_loss" platform="android, iOS">价格下跌：产生亏损</string>
+  <string name="pnl_rule_price_fall_profit" platform="android, iOS">价格下跌：产生盈利</string>
 </resources>

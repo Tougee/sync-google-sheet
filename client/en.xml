@@ -2550,8 +2550,8 @@
   <string name="perps_long_overview" platform="android, iOS">Going Long means opening a position when you expect the price to rise. If the price increases, you make a profit; if the price decreases, you incur a loss.</string>
   <string name="perps_short_overview" platform="android, iOS">Going Short means opening a position when you expect the price to fall. If the price decreases, you make a profit; if the price increases, you incur a loss.</string>
   <string name="PnL_Rules" platform="android, iOS">PnL Rules:</string>
-  <string name="pnl_rules_rise_profit" platform="android, iOS">Price rises: Profit</string>
-  <string name="pnl_rules_rise_loss" platform="android, iOS">Price rises: Loss</string>
-  <string name="pnl_rules_fall_loss" platform="android, iOS">Price falls: Loss</string>
-  <string name="pnl_rules_fall_profit" platform="android, iOS">Price falls: Profit</string>
+  <string name="pnl_rule_price_rise_profit" platform="android, iOS">Price rises: Profit</string>
+  <string name="pnl_rule_price_rise_loss" platform="android, iOS">Price rises: Loss</string>
+  <string name="pnl_rule_price_fall_loss" platform="android, iOS">Price falls: Loss</string>
+  <string name="pnl_rule_price_fall_profit" platform="android, iOS">Price falls: Profit</string>
 </resources>
