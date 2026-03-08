@@ -1312,11 +1312,11 @@
 	<string name="Please_use_when_network_is_connected">请在网络流畅的环境下进行此操作</string>
 	<string name="Please_wait_a_bit">请稍等…</string>
 	<string name="PnL">盈亏</string>
+	<string name="pnl_rule_price_fall_loss">价格下跌：产生亏损</string>
+	<string name="pnl_rule_price_fall_profit">价格下跌：产生盈利</string>
+	<string name="pnl_rule_price_rise_loss">价格上涨：产生亏损</string>
+	<string name="pnl_rule_price_rise_profit">价格上涨：产生盈利</string>
 	<string name="PnL_Rules">盈亏规则：</string>
-	<string name="pnl_rules_fall_loss">价格下跌：产生亏损</string>
-	<string name="pnl_rules_fall_profit">价格下跌：产生盈利</string>
-	<string name="pnl_rules_rise_loss">价格上涨：产生亏损</string>
-	<string name="pnl_rules_rise_profit">价格上涨：产生盈利</string>
 	<string name="Post">文章</string>
 	<string name="POST">文章</string>
 	<string name="powered_by_mixin_route_prefix">由</string>

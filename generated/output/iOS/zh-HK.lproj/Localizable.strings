@@ -1151,11 +1151,11 @@
 "please_keep_app_in_foreground" = "請保持應用在前台，設置過程中不要強制關閉應用";
 "please_use_when_network_is_connected" = "請在網絡流暢的環境下進行此操作";
 "pnl" = "盈虧";
+"pnl_rule_price_fall_loss" = "價格下跌：產生虧損";
+"pnl_rule_price_fall_profit" = "價格下跌：產生盈利";
+"pnl_rule_price_rise_loss" = "價格上漲：產生虧損";
+"pnl_rule_price_rise_profit" = "價格上漲：產生盈利";
 "pnl_rules" = "盈虧規則：";
-"pnl_rules_fall_loss" = "價格下跌：產生虧損";
-"pnl_rules_fall_profit" = "價格下跌：產生盈利";
-"pnl_rules_rise_loss" = "價格上漲：產生虧損";
-"pnl_rules_rise_profit" = "價格上漲：產生盈利";
 "post" = "文章";
 "post_sharing" = "文章";
 "preauthorize_amount" = "預授權額度";

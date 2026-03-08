@@ -1151,11 +1151,11 @@
 "please_keep_app_in_foreground" = "请保持应用在前台，设置过程中不要强制关闭应用";
 "please_use_when_network_is_connected" = "请在网络流畅的环境下进行此操作";
 "pnl" = "盈亏";
+"pnl_rule_price_fall_loss" = "价格下跌：产生亏损";
+"pnl_rule_price_fall_profit" = "价格下跌：产生盈利";
+"pnl_rule_price_rise_loss" = "价格上涨：产生亏损";
+"pnl_rule_price_rise_profit" = "价格上涨：产生盈利";
 "pnl_rules" = "盈亏规则：";
-"pnl_rules_fall_loss" = "价格下跌：产生亏损";
-"pnl_rules_fall_profit" = "价格下跌：产生盈利";
-"pnl_rules_rise_loss" = "价格上涨：产生亏损";
-"pnl_rules_rise_profit" = "价格上涨：产生盈利";
 "post" = "文章";
 "post_sharing" = "文章";
 "preauthorize_amount" = "预授权额度";

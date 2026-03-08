@@ -1151,11 +1151,11 @@
 "please_keep_app_in_foreground" = "Mantén la aplicación en primer plano y no fuerces el cierre durante el proceso de configuración.";
 "please_use_when_network_is_connected" = "Completa la operación en un entorno de red estable.";
 "pnl" = "PnL";
+"pnl_rule_price_fall_loss" = "Price falls: Loss";
+"pnl_rule_price_fall_profit" = "Price falls: Profit";
+"pnl_rule_price_rise_loss" = "Price rises: Loss";
+"pnl_rule_price_rise_profit" = "Price rises: Profit";
 "pnl_rules" = "PnL Rules:";
-"pnl_rules_fall_loss" = "Price falls: Loss";
-"pnl_rules_fall_profit" = "Price falls: Profit";
-"pnl_rules_rise_loss" = "Price rises: Loss";
-"pnl_rules_rise_profit" = "Price rises: Profit";
 "post" = "Publicar";
 "post_sharing" = "publicar";
 "preauthorize_amount" = "Pre-authorize Amount";

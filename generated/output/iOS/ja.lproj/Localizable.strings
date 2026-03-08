@@ -1151,11 +1151,11 @@
 "please_keep_app_in_foreground" = "Please keep the app in the foreground and do not force quit it during the setup process.";
 "please_use_when_network_is_connected" = "Please complete the operation under a stable network environment.";
 "pnl" = "PnL";
+"pnl_rule_price_fall_loss" = "Price falls: Loss";
+"pnl_rule_price_fall_profit" = "Price falls: Profit";
+"pnl_rule_price_rise_loss" = "Price rises: Loss";
+"pnl_rule_price_rise_profit" = "Price rises: Profit";
 "pnl_rules" = "PnL Rules:";
-"pnl_rules_fall_loss" = "Price falls: Loss";
-"pnl_rules_fall_profit" = "Price falls: Profit";
-"pnl_rules_rise_loss" = "Price rises: Loss";
-"pnl_rules_rise_profit" = "Price rises: Profit";
 "post" = "投稿";
 "post_sharing" = "投稿";
 "preauthorize_amount" = "Pre-authorize Amount";
