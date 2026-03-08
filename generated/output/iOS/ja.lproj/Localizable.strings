@@ -738,6 +738,9 @@
 "im_ready" = "I'm Ready";
 "image" = "画像";
 "immediately" = "すぐに";
+"impact_on_pnl" = "Impact on PnL:";
+"impact_on_pnl_1" = "Leverage amplifies both profits and losses";
+"impact_on_pnl_2" = "The higher the leverage, the greater the PnL impact from price movements";
 "import" = "インポート";
 "import_failed" = "Import Failed";
 "import_mnemonic_phrase" = "Import Mnemonic Phrase";
@@ -1110,6 +1113,11 @@
 "permissions" = "許可";
 "perpetual_futures" = "Perpetual Futures";
 "perps_intro_overview" = "Mixin Perpetual Futures are a type of derivatives trading settled in digital assets. They allow traders to go long or short with no expiration date. Through leverage, traders can amplify their position size and capture opportunities from both rising and falling market prices.";
+"perps_intro_risk_notice_1" = "Leveraged trading amplifies both profits and losses";
+"perps_intro_risk_notice_2" = "Positions may be forcibly liquidated if margin becomes insufficient";
+"perps_intro_risk_notice_3" = "Please manage leverage and position size carefully and trade responsibly";
+"perps_leverage_overview" = "Leverage allows you to amplify your trading position, enabling you to control a larger contract size with a smaller amount of margin.";
+"perps_leverage_risk_notice" = "Please choose your leverage carefully. With high leverage, even small price fluctuations may result in significant losses.";
 "perps_long_overview" = "Going Long means opening a position when you expect the price to rise. If the price increases, you make a profit; if the price decreases, you incur a loss.";
 "perps_short_overview" = "Going Short means opening a position when you expect the price to fall. If the price decreases, you make a profit; if the price increases, you incur a loss.";
 "phone_as_key_shard" = "Your mobile number will be associated with a key shard of the MPC wallet managed by you";
@@ -1308,9 +1316,6 @@
 "revoking_multisig_signature" = "Revoking Multisig Signature";
 "rewards" = "Rewards";
 "risk_notice" = "Risk Notice:";
-"risk_notice_1" = "Leveraged trading amplifies both profits and losses";
-"risk_notice_2" = "Positions may be forcibly liquidated if margin becomes insufficient";
-"risk_notice_3" = "Please manage leverage and position size carefully and trade responsibly";
 "room_is_full" = "ルームが満員です";
 "safe" = "SAFE";
 "safe_create_guideline_url" = "https://support.mixin.one/en/article/how-to-create-a-safe-on-mixin-1ehi2mf/";

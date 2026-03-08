@@ -2509,9 +2509,9 @@
   <string name="product_features_4" platform="android, iOS">支援逐倉模式，靈活控制風險</string>
   <string name="product_features_5" platform="android, iOS">延遲爆倉，防插針</string>
   <string name="Risk_Notice" platform="android, iOS">風險提示：</string>
-  <string name="risk_notice_1" platform="android, iOS">槓桿交易可能放大收益，同時也會放大虧損</string>
-  <string name="risk_notice_2" platform="android, iOS">當保證金不足時，倉位可能被強制平倉</string>
-  <string name="risk_notice_3" platform="android, iOS">請合理控制槓桿倍數與倉位規模，謹慎交易</string>
+  <string name="perps_intro_risk_notice_1" platform="android, iOS">槓桿交易可能放大收益，同時也會放大虧損</string>
+  <string name="perps_intro_risk_notice_2" platform="android, iOS">當保證金不足時，倉位可能被強制平倉</string>
+  <string name="perps_intro_risk_notice_3" platform="android, iOS">請合理控制槓桿倍數與倉位規模，謹慎交易</string>
   <string name="Example" platform="android, iOS">舉例說明</string>
   <string name="example_open_position" platform="android, iOS">開倉交易</string>
   <string name="example_direction" platform="android, iOS">開倉方向</string>
@@ -2531,4 +2531,9 @@
   <string name="pnl_rule_price_rise_loss" platform="android, iOS">價格上漲：產生虧損</string>
   <string name="pnl_rule_price_fall_loss" platform="android, iOS">價格下跌：產生虧損</string>
   <string name="pnl_rule_price_fall_profit" platform="android, iOS">價格下跌：產生盈利</string>
+  <string name="perps_leverage_overview" platform="android, iOS">槓桿倍數用於放大交易規模，以較少的保證金控制更大的合約倉位。</string>
+  <string name="impact_on_pnl" platform="android, iOS">盈虧影響：</string>
+  <string name="impact_on_pnl_1" platform="android, iOS">槓桿會同時放大收益和虧損</string>
+  <string name="impact_on_pnl_2" platform="android, iOS">槓桿倍數越高，盈虧隨價格波動的變化越大</string>
+  <string name="perps_leverage_risk_notice" platform="android, iOS">請合理選擇槓桿倍數，高槓杆下，價格小幅波動也可能導致較大虧損。</string>
 </resources>
