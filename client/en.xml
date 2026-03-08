@@ -618,6 +618,7 @@
   <string name="error_invalid_quote_amount_detailed" platform="android, iOS">ERROR 10614: The amount exceeds the maximum allowable value of %1$s. Please adjust the amount. Try placing a limit order? No restrictions on amount or token.</string>
   <string name="error_trading_pair_not_supported" platform="android, iOS">ERROR 10615: This trading pair is currently not supported, please try switching to a different token.</string>
   <string name="error_trading_pair_not_supported_detailed" platform="android,iOS">ERROR 10615: This trading pair is not supported yet. Please try switching to a different token. Try placing a limit order? No restrictions on amount or token.</string>
+  <string name="error_already_had_open_position" platform="android,iOS">ERROR 10651: You already had a open position</string>
   <string name="error_permission" platform="android, Desktop">Please open the necessary permissions</string>
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">ERROR 20110: Invalid mobile number</string>
   <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">ERROR 10003: Failed to deliver SMS</string>
@@ -1959,6 +1960,7 @@
   <string name="high_24h" platform="android,iOS">24H HIGH</string>
   <string name="low_24h" platform="android,iOS">24H LOW</string>
   <string name="vol_24h" platform="android,iOS">24H VOL</string>
+  <string name="minutes_count_short" platform="android,iOS">%1$dm</string>
   <string name="hours_count_short" platform="android,iOS">%1$dH</string>
   <string name="days_count_short" platform="android,iOS">%1$dD</string>
   <string name="weeks_count_short" platform="android,iOS">%1$dW</string>
@@ -2009,15 +2011,15 @@
   <string name="alert_type_price_reached" platform="android,iOS">Price reaches</string>
   <string name="alert_type_price_reached_description" platform="android,iOS">Triggered when the last price moves above or below your set price.</string>
   <string name="alert_type_price_reached_value" platform="android,iOS">Price reaches %1$s</string>
-  <string name="alert_type_price_increased" platform="android,iOS">Price moves above</string>
-  <string name="alert_type_price_increased_description" platform="android,iOS">Triggered when the last price moves above your set price.</string>
-  <string name="alert_type_price_increased_value" platform="android,iOS">Price moves above %1$s</string>
+  <string name="alert_type_price_risesed" platform="android,iOS">Price moves above</string>
+  <string name="alert_type_price_risesed_description" platform="android,iOS">Triggered when the last price moves above your set price.</string>
+  <string name="alert_type_price_risesed_value" platform="android,iOS">Price moves above %1$s</string>
   <string name="alert_type_price_decreased" platform="android,iOS">Price moves below</string>
   <string name="alert_type_price_decreased_description" platform="android,iOS">Triggered when the last price moves below your set price.</string>
   <string name="alert_type_price_decreased_value" platform="android,iOS">Price moves below %1$s</string>
-  <string name="alert_type_percentage_increased" platform="android,iOS">24h gain exceeds</string>
-  <string name="alert_type_percentage_increased_description" platform="android,iOS">Triggered when the 24h gain exceeds your set price change. </string>
-  <string name="alert_type_percentage_increased_value" platform="android,iOS">24h gain exceeds %1$s</string>
+  <string name="alert_type_percentage_risesed" platform="android,iOS">24h gain exceeds</string>
+  <string name="alert_type_percentage_risesed_description" platform="android,iOS">Triggered when the 24h gain exceeds your set price change. </string>
+  <string name="alert_type_percentage_risesed_value" platform="android,iOS">24h gain exceeds %1$s</string>
   <string name="alert_type_percentage_decreased" platform="android,iOS">24h loss exceeds</string>
   <string name="alert_type_percentage_decreased_description" platform="android,iOS">Triggered when the 24h loss exceeds your set price change. </string>
   <string name="alert_type_percentage_decreased_value" platform="android,iOS">24h loss exceeds %1$s</string>
@@ -2040,7 +2042,7 @@
   <string name="price_must_greater_than_current" platform="android,iOS">The set price must be greater than the current price</string>
   <string name="price_too_less" platform="android,iOS">The set price must be greater than %1$s of the current price</string>
   <string name="price_too_large" platform="android,iOS">The set price must be less than %1$s times the current price</string>
-  <string name="price_increase_invalid" platform="android,iOS">The price increase must be greater than %1$s and less than %2$s</string>
+  <string name="price_risese_invalid" platform="android,iOS">The price risese must be greater than %1$s and less than %2$s</string>
   <string name="price_decrease_invalid" platform="android,iOS">The price decrease must be greater than %1$s and less than %2$s</string>
   <string name="All_Alert" platform="android,iOS">All Alert</string>
   <string name="Send_Collectible" platform="android,iOS">Send Collectible</string>
@@ -2516,5 +2518,102 @@
   <string name="import_wallet_guide_footer" platform="android, iOS">After creating a Mixin account, a Privacy Wallet will be generated by default. Your assets, transactions, and trades are protected by privacy features. See the documentation to learn more.</string>
   <string name="sign_up_15_secs" platform="android, iOS">Sign up in just 15 seconds</string>
   <string name="Account_Creation_Failed" platform="android, iOS">Account Creation Failed</string>
-  <string name="Sign_in_Failed" platform="android, iOS">Sign in Failed</string>
+  <string name="Sign_in_Failed" platform="android">Sign in Failed</string>
+  <string name="Perpetual" platform="android, iOS">Perpetual</string>
+  <string name="Perpetual_Futures" platform="android, iOS">Perpetual Futures</string>
+  <string name="Brief_Introduction" platform="android, iOS">Introduction</string>
+  <string name="Long" platform="android, iOS">Long</string>
+  <string name="Short" platform="android, iOS">Short</string>
+  <string name="Leverage" platform="android, iOS">Leverage</string>
+  <string name="Overview" platform="android, iOS">Overview</string>
+  <string name="perps_intro_overview" platform="android, iOS">Mixin Perpetual Futures are a type of derivatives trading settled in digital assets. They allow traders to go long or short with no expiration date. Through leverage, traders can amplify their position size and capture opportunities from both rising and falling market prices.</string>
+  <string name="Product_Features" platform="android, iOS">Product Features:</string>
+  <string name="product_features_1" platform="android, iOS">No expiration date, allowing positions to be held long-term</string>
+  <string name="product_features_2" platform="android, iOS">Long / Short for two-way trading</string>
+  <string name="product_features_3" platform="android, iOS">Up to %d× leverage</string>
+  <string name="product_features_4" platform="android, iOS">Isolated margin mode for flexible risk control</string>
+  <string name="Risk_Notice" platform="android, iOS">Risk Notice:</string>
+  <string name="perps_intro_risk_notice_1" platform="android, iOS">Leveraged trading amplifies both profits and losses</string>
+  <string name="perps_intro_risk_notice_2" platform="android, iOS">Positions may be forcibly liquidated if margin becomes insufficient</string>
+  <string name="perps_intro_risk_notice_3" platform="android, iOS">Please manage leverage and position size carefully and trade responsibly</string>
+  <string name="Example" platform="android, iOS">Example</string>
+  <string name="example_perpetual" platform="android, iOS">Perpetual</string>
+  <string name="example_direction" platform="android, iOS">Direction</string>
+  <string name="example_leverage_multiplier" platform="android, iOS">Leverage</string>
+  <string name="example_amount" platform="android, iOS">Amount</string>
+  <string name="example_scene1_risesing" platform="android, iOS">Scenario 1: Price Rises</string>
+  <string name="example_scene1_decreasing" platform="android, iOS">Scenario 1: Price Falls</string>
+  <string name="example_price_risesed" platform="android, iOS">Price Increased</string>
+  <string name="PnL" platform="android, iOS">PnL</string>
+  <string name="example_scene2_decreasing" platform="android, iOS">Scenario 2: Price Falls</string>
+  <string name="example_scene2_risesing" platform="android, iOS">Scenario 2: Price Falls</string>
+  <string name="example_price_decreased" platform="android, iOS">Price Decreased</string>
+  <string name="perps_long_overview" platform="android, iOS">Going Long means opening a position when you expect the price to rise. If the price falls, you make a profit; if the price falls, you incur a loss.</string>
+  <string name="perps_short_overview" platform="android, iOS">Going Short means opening a position when you expect the price to fall. If the price falls, you make a profit; if the price Falls, you incur a loss.</string>
+  <string name="PnL_Rules" platform="android, iOS">PnL Rules:</string>
+  <string name="pnl_rule_price_rise_profit" platform="android, iOS">Price rises: Profit</string>
+  <string name="pnl_rule_price_rise_loss" platform="android, iOS">Price rises: Loss</string>
+  <string name="pnl_rule_price_fall_loss" platform="android, iOS">Price falls: Loss</string>
+  <string name="pnl_rule_price_fall_profit" platform="android, iOS">Price falls: Profit</string>
+  <string name="perps_leverage_overview" platform="android, iOS">Leverage allows you to amplify your trading position, enabling you to control a larger contract size with a smaller amount of margin.</string>
+  <string name="impact_on_pnl" platform="android, iOS">Impact on PnL:</string>
+  <string name="impact_on_pnl_1" platform="android, iOS">Leverage amplifies both profits and losses</string>
+  <string name="impact_on_pnl_2" platform="android, iOS">The higher the leverage, the greater the PnL impact from price movements</string>
+  <string name="perps_leverage_risk_notice" platform="android, iOS">Please choose your leverage carefully. With high leverage, even small price fluctuations may result in significant losses.</string>
+  <string name="Position" platform="android, iOS">Position</string>
+  <string name="Positions" platform="android, iOS">Positions</string>
+  <string name="positions_count" platform="android, iOS">Positions(%d)</string>
+  <string name="perps_activity" platform="android, iOS">Activity</string>
+  <string name="position_value" platform="android, iOS">Position Value</string>
+  <string name="perps_position_size_overview" platform="android, iOS">Position size is calculated as “Margin × Leverage”, representing the total value of the position you control in a trade.</string>
+  <string name="Purpose" platform="android, iOS">Purpose:</string>
+  <string name="perps_position_size_purpose_1" platform="android, iOS">Defines your market exposure for the trade</string>
+  <string name="perps_position_size_purpose_2" platform="android, iOS">Determines how much your PnL is amplified</string>
+  <string name="perps_position_size_risk_1" platform="android, iOS">If losses approach your margin, your position may be liquidated by the system.</string>
+  <string name="perps_position_size_risk_2" platform="android, iOS">Rapid price movements can quickly deplete your margin.</string>
+  <string name="Open_Position" platform="android, iOS">Open Position</string>
+  <string name="Direction" platform="android, iOS">Direction</string>
+  <string name="position_size" platform="android, iOS">Size</string>
+  <string name="Entry_Price" platform="android, iOS">Entry Price</string>
+  <string name="Close_Price" platform="android, iOS">Close Price</string>
+  <string name="Liquidation_Price" platform="android, iOS">Liquidation Price</string>
+  <string name="Close_Position" platform="android, iOS">Close Position</string>
+  <string name="Funding_Rate" platform="android, iOS">Funding Rate</string>
+  <string name="confirm_opening_position" platform="android, iOS">Confirm Opening</string>
+  <string name="confirm_closing_position" platform="android, iOS">Confirm Closing</string>
+  <string name="opening_position" platform="android, iOS">Opening Position</string>
+  <string name="closing_position" platform="android, iOS">Closing Position</string>
+  <string name="Position_Closed" platform="android, iOS">Position Closed</string>
+  <string name="position_closed_description" platform="android, iOS">You have closed a position.</string>
+  <string name="Position_Opened" platform="android, iOS">Position Opened</string>
+  <string name="position_opened_description" platform="android, iOS">You have opened a position.</string>
+  <string name="position_closing_failed" platform="android, iOS">Closing Failed</string>
+  <string name="position_opening_failed" platform="android, iOS">Opening Failed</string>
+  <string name="long_asset" platform="android, iOS">Long %1$s</string>
+  <string name="short_asset" platform="android, iOS">Short %1$s</string>
+  <string name="Custom" platform="android, iOS">Custom</string>
+  <string name="No_Position" platform="android, iOS">No Position</string>
+  <string name="No_Activity" platform="android, iOS">No Activity</string>
+  <string name="Opened_Long" platform="android, iOS">Opened Long</string>
+  <string name="Opened_Short" platform="android, iOS">Opened Short</string>
+  <string name="Closed_Long" platform="android, iOS">Closed Long</string>
+  <string name="Closed_Short" platform="android, iOS">Closed Short</string>
+  <string name="price_rise_profit_value" platform="android, iOS">Price risese %1$s → Gain %2$s (%3$s)</string>
+  <string name="price_fall_profit_value" platform="android, iOS">Price decrease %1$s → Gain %2$s (%3$s)</string>
+  <string name="price_rise_profit" platform="android, iOS">Price risese %1$s → Gain %2$s</string>
+  <string name="price_fall_profit" platform="android, iOS">Price decrease %1$s → Gain %2$s</string>
+  <string name="price_rise_loss" platform="android, iOS">Price risese %1$s → Loss %2$s</string>
+  <string name="price_rise_loss_all" platform="android, iOS">Price risese %1$s → Loss all</string>
+  <string name="price_fall_loss" platform="android, iOS">Price decrease %1$s → Loss %2$s</string>
+  <string name="price_fall_loss_all" platform="android, iOS">Price decrease %1$s → Loss all</string>
+  <string name="margin_isolated" platform="android, iOS">Margin (Isolated)</string>
+  <string name="Estimated_Liquidation_Price" platform="android, iOS">Estimated Liquidation Price</string>
+  <string name="how_perps_works" platform="android, iOS">How perps works?</string>
+  <string name="learn_how_to_trade_perps" platform="android, iOS">Learn how to trade perps</string>
+  <string name="Total_Position_Value" platform="android, iOS">Total Position Value</string>
+  <string name="Total_Realized_PnL" platform="android, iOS">Total Realized PnL</string>
+  <string name="Margin" platform="android, iOS">Margin</string>
+  <string name="perps_markets" platform="android, iOS">Markets</string>
+  <string name="volume_label" platform="android, iOS">VOL: %1$s</string>
+  <string name="perps_current_price" platform="android, iOS">Current Price</string>
 </resources>

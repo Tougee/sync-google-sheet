@@ -613,6 +613,7 @@
   <string name="error_invalid_quote_amount_detailed" platform="android, iOS">错误 10614: 金额超出最大下单金额 %1$s，请重新输入。试试专业模式？不受金额和币种限制。</string>
   <string name="error_trading_pair_not_supported" platform="android, iOS">错误 10615: 暂不支持该交易对，请尝试切换币种。</string>
   <string name="error_trading_pair_not_supported_detailed" platform="android,iOS">错误 10615: 暂不支持该交易对，请尝试切换币种。试试专业模式？不受金额和币种限制。</string>
+  <string name="error_already_had_open_position" platform="android,iOS">错误 10651：当前已有持仓</string>
   <string name="error_permission" platform="android, Desktop">请开启相关权限</string>
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">错误 20110：手机号码不合法</string>
   <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">错误 10003：发送短信失败</string>
@@ -1937,6 +1938,7 @@
   <string name="high_24h" platform="android,iOS">24 小时最高</string>
   <string name="low_24h" platform="android,iOS">24 小时最低</string>
   <string name="vol_24h" platform="android,iOS">24 小时交易量</string>
+  <string name="minutes_count_short" platform="android,iOS">%1$d分钟</string>
   <string name="hours_count_short" platform="android,iOS">%1$d小时</string>
   <string name="days_count_short" platform="android,iOS">%1$d天</string>
   <string name="weeks_count_short" platform="android,iOS">%1$d周</string>
@@ -2493,5 +2495,102 @@
   <string name="import_wallet_guide_footer" platform="android, iOS">创建 Mixin 账号后，将默认生成一个隐私钱包，您的余额、转账、交易等功能都会默认受到隐私保护，查看文档了解更多。</string>
   <string name="sign_up_15_secs" platform="android, iOS">15 秒完成注册</string>
   <string name="Account_Creation_Failed" platform="android, iOS">创建账号失败</string>
-  <string name="Sign_in_Failed" platform="android, iOS">登录失败</string>
+  <string name="Sign_in_Failed" platform="android">登录失败</string>
+  <string name="Perpetual" platform="android, iOS">永续合约</string>
+  <string name="Perpetual_Futures" platform="android, iOS">永续合约</string>
+  <string name="Brief_Introduction" platform="android, iOS">简介</string>
+  <string name="Long" platform="android, iOS">做多</string>
+  <string name="Short" platform="android, iOS">做空</string>
+  <string name="Leverage" platform="android, iOS">杠杆</string>
+  <string name="Overview" platform="android, iOS">具体说明</string>
+  <string name="perps_intro_overview" platform="android, iOS">Mixin 永续合约是一种以数字资产结算的衍生品交易方式，支持做多和做空，无到期日。通过杠杆机制，交易者可以放大仓位，把握价格上涨或下跌带来的交易机会。</string>
+  <string name="Product_Features" platform="android, iOS">产品特点：</string>
+  <string name="product_features_1" platform="android, iOS">无到期日，可长期持仓</string>
+  <string name="product_features_2" platform="android, iOS">支持做多 / 做空，双向交易</string>
+  <string name="product_features_3" platform="android, iOS">最高支持 %d 倍杠杆</string>
+  <string name="product_features_4" platform="android, iOS">支持逐仓模式，灵活控制风险</string>
+  <string name="Risk_Notice" platform="android, iOS">风险提示：</string>
+  <string name="perps_intro_risk_notice_1" platform="android, iOS">杠杆交易可能放大收益，同时也会放大亏损</string>
+  <string name="perps_intro_risk_notice_2" platform="android, iOS">当保证金不足时，仓位可能被强制平仓</string>
+  <string name="perps_intro_risk_notice_3" platform="android, iOS">请合理控制杠杆倍数与仓位规模，谨慎交易</string>
+  <string name="Example" platform="android, iOS">举例说明</string>
+  <string name="example_perpetual" platform="android, iOS">开仓交易</string>
+  <string name="example_direction" platform="android, iOS">开仓方向</string>
+  <string name="example_leverage_multiplier" platform="android, iOS">杠杆倍数</string>
+  <string name="example_amount" platform="android, iOS">投入资金</string>
+  <string name="example_scene1_increasing" platform="android, iOS">场景一：价格上涨</string>
+  <string name="example_scene1_decreasing" platform="android, iOS">场景一：价格下跌</string>
+  <string name="example_price_increased" platform="android, iOS">上涨幅度</string>
+  <string name="PnL" platform="android, iOS">盈亏</string>
+  <string name="example_scene2_decreasing" platform="android, iOS">场景二：价格下跌</string>
+  <string name="example_scene2_increasing" platform="android, iOS">场景二：价格上涨</string>
+  <string name="example_price_decreased" platform="android, iOS">下跌幅度</string>
+  <string name="perps_long_overview" platform="android, iOS">做多是指在预期价格上涨时建立仓位，价格上涨可获得盈利，价格下跌则产生亏损。</string>
+  <string name="perps_short_overview" platform="android, iOS">做空是指在预期价格下跌时建立仓位，价格下跌可获得盈利，价格上涨则产生亏损。</string>
+  <string name="PnL_Rules" platform="android, iOS">盈亏规则：</string>
+  <string name="pnl_rule_price_rise_profit" platform="android, iOS">价格上涨：产生盈利</string>
+  <string name="pnl_rule_price_rise_loss" platform="android, iOS">价格上涨：产生亏损</string>
+  <string name="pnl_rule_price_fall_loss" platform="android, iOS">价格下跌：产生亏损</string>
+  <string name="pnl_rule_price_fall_profit" platform="android, iOS">价格下跌：产生盈利</string>
+  <string name="perps_leverage_overview" platform="android, iOS">杠杆倍数用于放大交易规模，以较少的保证金控制更大的合约仓位。</string>
+  <string name="impact_on_pnl" platform="android, iOS">盈亏影响：</string>
+  <string name="impact_on_pnl_1" platform="android, iOS">杠杆会同时放大收益和亏损</string>
+  <string name="impact_on_pnl_2" platform="android, iOS">杠杆倍数越高，盈亏随价格波动的变化越大</string>
+  <string name="perps_leverage_risk_notice" platform="android, iOS">请合理选择杠杆倍数，高杠杆下，价格小幅波动也可能导致较大亏损。</string>
+  <string name="Position" platform="android, iOS">仓位</string>
+  <string name="Positions" platform="android, iOS">仓位</string>
+  <string name="positions_count" platform="android, iOS">仓位(%d)</string>
+  <string name="perps_activity" platform="android, iOS">历史记录</string>
+  <string name="position_value" platform="android, iOS">仓位价值</string>
+  <string name="perps_position_size_overview" platform="android, iOS">当前合约的仓位规模由「投入资金 × 杠杆倍数」计算得出，表示本次交易所控制的资产规模。</string>
+  <string name="Purpose" platform="android, iOS">用途：</string>
+  <string name="perps_position_size_purpose_1" platform="android, iOS">决定本次交易的市场敞口规模</string>
+  <string name="perps_position_size_purpose_2" platform="android, iOS">影响盈亏变化的放大倍数</string>
+  <string name="perps_position_size_risk_1" platform="android, iOS">当亏损接近已投入资金时，可能被系统强制平仓。</string>
+  <string name="perps_position_size_risk_2" platform="android, iOS">价格剧烈波动可能会快速消耗投入资金。</string>
+  <string name="Open_Position" platform="android, iOS">开仓</string>
+  <string name="Direction" platform="android, iOS">方向</string>
+  <string name="position_size" platform="android, iOS">仓位规模</string>
+  <string name="Entry_Price" platform="android, iOS">开仓价格</string>
+  <string name="Close_Price" platform="android, iOS">平仓价格</string>
+  <string name="Liquidation_Price" platform="android, iOS">清算价格</string>
+  <string name="Close_Position" platform="android, iOS">平仓</string>
+  <string name="Funding_Rate" platform="android, iOS">资金费率</string>
+  <string name="confirm_opening_position" platform="android, iOS">确认开仓</string>
+  <string name="confirm_closing_position" platform="android, iOS">确认平仓</string>
+  <string name="opening_position" platform="android, iOS">正在开仓</string>
+  <string name="closing_position" platform="android, iOS">正在平仓</string>
+  <string name="Position_Closed" platform="android, iOS">平仓成功</string>
+  <string name="position_closed_description" platform="android, iOS">您的平仓已成功。</string>
+  <string name="Position_Opened" platform="android, iOS">开仓成功</string>
+  <string name="position_opened_description" platform="android, iOS">您的开仓已成功。</string>
+  <string name="position_closing_failed" platform="android, iOS">平仓失败</string>
+  <string name="position_opening_failed" platform="android, iOS">开仓失败</string>
+  <string name="long_asset" platform="android, iOS">做多 %1$s</string>
+  <string name="short_asset" platform="android, iOS">做空 %1$s</string>
+  <string name="Custom" platform="android, iOS">自定义</string>
+  <string name="No_Position" platform="android, iOS">暂无仓位</string>
+  <string name="No_Activity" platform="android, iOS">暂无历史记录</string>
+  <string name="Opened_Long" platform="android, iOS">持有多单</string>
+  <string name="Opened_Short" platform="android, iOS">持有空单</string>
+  <string name="Closed_Long" platform="android, iOS">历史多单</string>
+  <string name="Closed_Short" platform="android, iOS">历史空单</string>
+  <string name="price_rise_profit_value" platform="android, iOS">价格上涨 %1$s → 盈利 %2$s（%3$s）</string>
+  <string name="price_fall_profit_value" platform="android, iOS">价格下跌 %1$s → 盈利 %2$s（%3$s）</string>
+  <string name="price_rise_profit" platform="android, iOS">价格上涨 %1$s → 盈利 %2$s</string>
+  <string name="price_fall_profit" platform="android, iOS">价格下跌 %1$s → 盈利 %2$s</string>
+  <string name="price_rise_loss" platform="android, iOS">价格下跌 %1$s → 亏损 %2$s</string>
+  <string name="price_rise_loss_all" platform="android, iOS">价格下跌 %1$s → 亏损全部</string>
+  <string name="price_fall_loss" platform="android, iOS">价格上涨 %1$s → 亏损 %2$s</string>
+  <string name="price_fall_loss_all" platform="android, iOS">价格上涨 %1$s → 亏损全部</string>
+  <string name="margin_isolated" platform="android, iOS">保证金（逐仓）</string>
+  <string name="Estimated_Liquidation_Price" platform="android, iOS">预估清算价格</string>
+  <string name="how_perps_works" platform="android, iOS">永续合约是什么？</string>
+  <string name="learn_how_to_trade_perps" platform="android, iOS">了解如何交易永续合约</string>
+  <string name="Total_Position_Value" platform="android, iOS">仓位总价值</string>
+  <string name="Total_Realized_PnL" platform="android, iOS">总盈亏</string>
+  <string name="Margin" platform="android, iOS">保证金</string>
+  <string name="perps_markets" platform="android, iOS">市场</string>
+  <string name="volume_label" platform="android, iOS">交易量：%1$s</string>
+  <string name="perps_current_price" platform="android, iOS">最新价格</string>
 </resources>
