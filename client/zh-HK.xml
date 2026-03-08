@@ -2540,7 +2540,7 @@
   <string name="perps_position_overview" platform="android, iOS">當前合約持倉的實際交易價值，由「保證金 × 槓桿」決定。</string>
   <string name="Purpose" platform="android, iOS">用途：</string>
   <string name="perps_position_purpose_1" platform="android, iOS">支撐當前倉位</string>
-  <string name="perps_position_purpose_1" platform="android, iOS">抵扣浮動虧損</string>
+  <string name="perps_position_purpose_2" platform="android, iOS">抵扣浮動虧損</string>
   <string name="perps_position_risk_1" platform="android, iOS">當投入資金不足以支撐當前倉位時，倉位將被系統強制平倉。</string>
   <string name="perps_position_risk_2" platform="android, iOS">價格劇烈波動可能會快速消耗投入資金。</string>
 </resources>
