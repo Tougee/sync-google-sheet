@@ -1303,8 +1303,9 @@
 "revoking_multisig_signature" = "正在撤销多签交易";
 "rewards" = "礼遇";
 "risk_notice" = "风险提示：";
-"risk_notice_1" = "请合理控制杠杆倍数与仓位规模，谨慎交易";
+"risk_notice_1" = "杠杆交易可能放大收益，同时也会放大亏损";
 "risk_notice_2" = "当保证金不足时，仓位可能被强制平仓";
+"risk_notice_3" = "请合理控制杠杆倍数与仓位规模，谨慎交易";
 "room_is_full" = "房间已满";
 "safe" = "金库";
 "safe_create_guideline_url" = "https://support.mixin.one/zh/article/safe-1ljf7ld/";

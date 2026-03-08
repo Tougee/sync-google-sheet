@@ -2511,7 +2511,7 @@
   <string name="Risk_Notice" platform="android, iOS">風險提示：</string>
   <string name="risk_notice_1" platform="android, iOS">槓桿交易可能放大收益，同時也會放大虧損</string>
   <string name="risk_notice_2" platform="android, iOS">當保證金不足時，倉位可能被強制平倉</string>
-  <string name="risk_notice_1" platform="android, iOS">請合理控制槓桿倍數與倉位規模，謹慎交易</string>
+  <string name="risk_notice_3" platform="android, iOS">請合理控制槓桿倍數與倉位規模，謹慎交易</string>
   <string name="Example" platform="android, iOS">舉例説明</string>
   <string name="example_open_position" platform="android, iOS">開倉交易</string>
   <string name="example_direction" platform="android, iOS">開倉方向</string>

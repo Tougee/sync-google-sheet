@@ -1499,8 +1499,9 @@
 	<string name="Revoking_Multisig_Signature">Revoking Multisig Signature</string>
 	<string name="Rewards">Rewards</string>
 	<string name="Risk_Notice">Risk Notice:</string>
-	<string name="risk_notice_1">Please manage leverage and position size carefully and trade responsibly</string>
+	<string name="risk_notice_1">Leveraged trading amplifies both profits and losses</string>
 	<string name="risk_notice_2">Positions may be forcibly liquidated if margin becomes insufficient</string>
+	<string name="risk_notice_3">Please manage leverage and position size carefully and trade responsibly</string>
 	<string name="SAFE">SAFE</string>
 	<string name="safe_create_guideline_url">https://support.mixin.one/en/article/how-to-create-a-safe-on-mixin-1ehi2mf/</string>
 	<string name="safe_learn_more_url">https://support.mixin.one/en/article/what-is-mixin-safe-g20z2m/</string>

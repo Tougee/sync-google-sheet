@@ -1303,8 +1303,9 @@
 "revoking_multisig_signature" = "Revoking Multisig Signature";
 "rewards" = "Rewards";
 "risk_notice" = "Risk Notice:";
-"risk_notice_1" = "Please manage leverage and position size carefully and trade responsibly";
+"risk_notice_1" = "Leveraged trading amplifies both profits and losses";
 "risk_notice_2" = "Positions may be forcibly liquidated if margin becomes insufficient";
+"risk_notice_3" = "Please manage leverage and position size carefully and trade responsibly";
 "room_is_full" = "Комната заполнена";
 "safe" = "SAFE";
 "safe_create_guideline_url" = "https://support.mixin.one/en/article/how-to-create-a-safe-on-mixin-1ehi2mf/";

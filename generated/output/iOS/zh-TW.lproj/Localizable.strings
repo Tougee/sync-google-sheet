@@ -1303,8 +1303,9 @@
 "revoking_multisig_signature" = "正在撤銷多簽交易";
 "rewards" = "禮遇";
 "risk_notice" = "風險提示：";
-"risk_notice_1" = "請合理控制槓桿倍數與倉位規模，謹慎交易";
+"risk_notice_1" = "槓桿交易可能放大收益，同時也會放大虧損";
 "risk_notice_2" = "當保證金不足時，倉位可能被強制平倉";
+"risk_notice_3" = "請合理控制槓桿倍數與倉位規模，謹慎交易";
 "room_is_full" = "房間已滿";
 "safe" = "金庫";
 "safe_create_guideline_url" = "https://support.mixin.one/zh/article/safe-1ljf7ld/";

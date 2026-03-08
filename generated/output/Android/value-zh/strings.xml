@@ -1484,8 +1484,9 @@
 	<string name="Revoking_Multisig_Signature">正在撤销多签交易</string>
 	<string name="Rewards">礼遇</string>
 	<string name="Risk_Notice">风险提示：</string>
-	<string name="risk_notice_1">请合理控制杠杆倍数与仓位规模，谨慎交易</string>
+	<string name="risk_notice_1">杠杆交易可能放大收益，同时也会放大亏损</string>
 	<string name="risk_notice_2">当保证金不足时，仓位可能被强制平仓</string>
+	<string name="risk_notice_3">请合理控制杠杆倍数与仓位规模，谨慎交易</string>
 	<string name="SAFE">金库</string>
 	<string name="safe_create_guideline_url">https://support.mixin.one/zh/article/safe-1ljf7ld/</string>
 	<string name="safe_learn_more_url">https://support.mixin.one/zh/article/mixin-safe-1bl8w6l/</string>
