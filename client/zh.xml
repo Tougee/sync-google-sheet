@@ -2551,7 +2551,7 @@
   <string name="Order_Value" platform="android, iOS">订单价值</string>
   <string name="Entry_Price" platform="android, iOS">开仓价格</string>
   <string name="Close_Price" platform="android, iOS">关仓价格</string>
-  <string name="Liquidation_Price" platform="android, iOS">强平价格</string>
+  <string name="Liquidation_Price" platform="android, iOS">清算价格</string>
   <string name="Close_Position" platform="android, iOS">关仓</string>
   <string name="Open_Interest" platform="android, iOS">未平仓合约</string>
   <string name="Funding_Rate" platform="android, iOS">资金利率</string>
