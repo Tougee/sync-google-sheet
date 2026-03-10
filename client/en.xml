@@ -1959,6 +1959,7 @@
   <string name="high_24h" platform="android,iOS">24H HIGH</string>
   <string name="low_24h" platform="android,iOS">24H LOW</string>
   <string name="vol_24h" platform="android,iOS">24H VOL</string>
+  <string name="minutes_count_short" platform="android,iOS">%1$dm</string>
   <string name="hours_count_short" platform="android,iOS">%1$dH</string>
   <string name="days_count_short" platform="android,iOS">%1$dD</string>
   <string name="weeks_count_short" platform="android,iOS">%1$dW</string>
@@ -2603,4 +2604,6 @@
   <string name="price_fall_loss" platform="android, iOS">Price decrease %s → Loss %s</string>
   <string name="amount_isolated" platform="android, iOS">Amount (Isolated)</string>
   <string name="Estimated_Liquidation_Price" platform="android, iOS">Estimated Liquidation Price</string>
+  <string name="how_perps_works" platform="android, iOS">How perps works?</string>
+  <string name="learn_how_to_trade_perps" platform="android, iOS">Learn how to trade perps</string>
 </resources>

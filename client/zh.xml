@@ -1937,6 +1937,7 @@
   <string name="high_24h" platform="android,iOS">24 小时最高</string>
   <string name="low_24h" platform="android,iOS">24 小时最低</string>
   <string name="vol_24h" platform="android,iOS">24 小时交易量</string>
+  <string name="minutes_count_short" platform="android,iOS">%1$d分钟</string>
   <string name="hours_count_short" platform="android,iOS">%1$d小时</string>
   <string name="days_count_short" platform="android,iOS">%1$d天</string>
   <string name="weeks_count_short" platform="android,iOS">%1$d周</string>
@@ -2580,4 +2581,6 @@
   <string name="price_fall_loss" platform="android, iOS">价格上涨 %s → 亏损 %s</string>
   <string name="amount_isolated" platform="android, iOS">保证金（逐仓）</string>
   <string name="Estimated_Liquidation_Price" platform="android, iOS">预估清算价格</string>
+  <string name="how_perps_works" platform="android, iOS">永续合约是什么？</string>
+  <string name="learn_how_to_trade_perps" platform="android, iOS">了解如何交易永续合约</string>
 </resources>
