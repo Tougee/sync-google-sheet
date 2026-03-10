@@ -2538,6 +2538,9 @@
   <string name="impact_on_pnl_2" platform="android, iOS">杠杆倍数越高，盈亏随价格波动的变化越大</string>
   <string name="perps_leverage_risk_notice" platform="android, iOS">请合理选择杠杆倍数，高杠杆下，价格小幅波动也可能导致较大亏损。</string>
   <string name="Position" platform="android, iOS">仓位</string>
+  <string name="Positions" platform="android, iOS">仓位</string>
+  <string name="positions_count" platform="android, iOS">仓位(%d)</string>
+  <string name="perps_activity" platform="android, iOS">历史记录</string>
   <string name="position_value" platform="android, iOS">仓位价值</string>
   <string name="perps_position_overview" platform="android, iOS">当前合约持仓的实际交易价值，由「保证金 × 杠杆」决定。</string>
   <string name="Purpose" platform="android, iOS">用途：</string>
@@ -2555,12 +2558,12 @@
   <string name="Close_Position" platform="android, iOS">关仓</string>
   <string name="Open_Interest" platform="android, iOS">未平仓合约</string>
   <string name="Funding_Rate" platform="android, iOS">资金利率</string>
-  <string name="Open_Positions" platform="android, iOS">持有仓位</string>
-  <string name="open_positions_count" platform="android, iOS">持有仓位(%d)</string>
-  <string name="Closed_Positions" platform="android, iOS">仓位历史</string>
-  <string name="All_Positions" platform="android, iOS">全部仓位</string>
+  <string name="confirm_opening_position" platform="android, iOS">确认开仓</string>
   <string name="confirm_closing_position" platform="android, iOS">确认关仓</string>
+  <string name="opening_position" platform="android, iOS">正在开仓</string>
+  <string name="closing_position" platform="android, iOS">正在关仓</string>
   <string name="Position_Closed" platform="android, iOS">仓位已关闭</string>
+  <string name="Position_Opened" platform="android, iOS">仓位已打开</string>
   <string name="long_asset" platform="android, iOS">做多 %s</string>
   <string name="short_asset" platform="android, iOS">做空 %s</string>
   <string name="Custom" platform="android, iOS">自定义</string>
@@ -2575,4 +2578,6 @@
   <string name="price_fall_profit" platform="android, iOS">价格下跌 %s → 盈利 %s</string>
   <string name="price_rise_loss" platform="android, iOS">价格下跌 %s → 亏损 %s</string>
   <string name="price_fall_loss" platform="android, iOS">价格上涨 %s → 亏损 %s</string>
+  <string name="amount_isolated" platform="android, iOS">保证金（逐仓）</string>
+  <string name="Estimated_Liquidation_Price" platform="android, iOS">预估清算价格</string>
 </resources>

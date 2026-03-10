@@ -2561,6 +2561,9 @@
   <string name="impact_on_pnl_2" platform="android, iOS">The higher the leverage, the greater the PnL impact from price movements</string>
   <string name="perps_leverage_risk_notice" platform="android, iOS">Please choose your leverage carefully. With high leverage, even small price fluctuations may result in significant losses.</string>
   <string name="Position" platform="android, iOS">Position</string>
+  <string name="Positions" platform="android, iOS">Positions</string>
+  <string name="positions_count" platform="android, iOS">Positions(%d)</string>
+  <string name="perps_activity" platform="android, iOS">Activity</string>
   <string name="position_value" platform="android, iOS">Position Value</string>
   <string name="perps_position_overview" platform="android, iOS">Margin represents the actual trading value supporting your current position, calculated as Margin × Leverage.</string>
   <string name="Purpose" platform="android, iOS">Purpose:</string>
@@ -2578,12 +2581,12 @@
   <string name="Close_Position" platform="android, iOS">Close Position</string>
   <string name="Open_Interest" platform="android, iOS">Open Interest</string>
   <string name="Funding_Rate" platform="android, iOS">Funding Rate</string>
-  <string name="Open_Positions" platform="android, iOS">Open Positions</string>
-  <string name="open_positions_count" platform="android, iOS">Open Positions(%d)</string>
-  <string name="Closed_Positions" platform="android, iOS">Closed Positions</string>
-  <string name="All_Positions" platform="android, iOS">All Positions</string>
+  <string name="confirm_opening_position" platform="android, iOS">Confirm Opening</string>
   <string name="confirm_closing_position" platform="android, iOS">Confirm Closing</string>
+  <string name="opening_position" platform="android, iOS">Opening Position</string>
+  <string name="closing_position" platform="android, iOS">Closing Position</string>
   <string name="Position_Closed" platform="android, iOS">Position Closed</string>
+  <string name="Position_Opened" platform="android, iOS">Position Opened</string>
   <string name="long_asset" platform="android, iOS">Long %s</string>
   <string name="short_asset" platform="android, iOS">Short %s</string>
   <string name="Custom" platform="android, iOS">Custom</string>
@@ -2598,4 +2601,6 @@
   <string name="price_fall_profit" platform="android, iOS">Price decrease %s → Gain %s</string>
   <string name="price_rise_loss" platform="android, iOS">Price increase %s → Loss %s</string>
   <string name="price_fall_loss" platform="android, iOS">Price decrease %s → Loss %s</string>
+  <string name="amount_isolated" platform="android, iOS">Amount (Isolated)</string>
+  <string name="Estimated_Liquidation_Price" platform="android, iOS">Estimated Liquidation Price</string>
 </resources>
