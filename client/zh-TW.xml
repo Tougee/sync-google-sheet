@@ -2494,6 +2494,7 @@
   <string name="sign_up_15_secs" platform="android, iOS">15 秒完成註冊</string>
   <string name="Account_Creation_Failed" platform="android, iOS">建立賬號失敗</string>
   <string name="Sign_in_Failed" platform="android, iOS">登入失敗</string>
+  <string name="Perpetual" platform="android, iOS">永續合約</string>
   <string name="Perpetual_Futures" platform="android, iOS">永續合約</string>
   <string name="Brief_Introduction" platform="android, iOS">簡介</string>
   <string name="Long" platform="android, iOS">做多</string>
@@ -2544,4 +2545,34 @@
   <string name="perps_position_purpose_2" platform="android, iOS">抵扣浮動虧損</string>
   <string name="perps_position_risk_1" platform="android, iOS">當投入資金不足以支撐當前倉位時，倉位將被系統強制平倉。</string>
   <string name="perps_position_risk_2" platform="android, iOS">價格劇烈波動可能會快速消耗投入資金。</string>
+  <string name="All_Markets" platform="android, iOS">全部合約</string>
+  <string name="Open_Position" platform="android, iOS">開倉</string>
+  <string name="Direction" platform="android, iOS">方向</string>
+  <string name="Order_Value" platform="android, iOS">訂單價值</string>
+  <string name="Entry_Price" platform="android, iOS">開倉價格</string>
+  <string name="Close_Price" platform="android, iOS">關倉價格</string>
+  <string name="Liquidation_Price" platform="android, iOS">強平價格</string>
+  <string name="Close_Position" platform="android, iOS">關倉</string>
+  <string name="Open_Interest" platform="android, iOS">未平倉合約</string>
+  <string name="Funding_Rate" platform="android, iOS">資金利率</string>
+  <string name="Open_Positions" platform="android, iOS">持有倉位</string>
+  <string name="open_positions_count" platform="android, iOS">持有倉位(%d)</string>
+  <string name="Closed_Positions" platform="android, iOS">倉位歷史</string>
+  <string name="All_Positions" platform="android, iOS">全部倉位</string>
+  <string name="confirm_closing_position" platform="android, iOS">確認關倉</string>
+  <string name="Position_Closed" platform="android, iOS">倉位已關閉</string>
+  <string name="long_asset" platform="android, iOS">做多 %s</string>
+  <string name="short_asset" platform="android, iOS">做空 %s</string>
+  <string name="Custom" platform="android, iOS">自定義</string>
+  <string name="No_Position" platform="android, iOS">暫無倉位</string>
+  <string name="Opened_Long" platform="android, iOS">持有多單</string>
+  <string name="Opened_Short" platform="android, iOS">持有空單</string>
+  <string name="Closed_Long" platform="android, iOS">歷史多單</string>
+  <string name="Closed_Short" platform="android, iOS">歷史空單</string>
+  <string name="price_rise_profit_value" platform="android, iOS">價格上漲 %s → 盈利 %s（%s）</string>
+  <string name="price_fall_profit_value" platform="android, iOS">價格下跌 %s → 盈利 %s（%s）</string>
+  <string name="price_rise_profit" platform="android, iOS">價格上漲 %s → 盈利 %s</string>
+  <string name="price_fall_profit" platform="android, iOS">價格下跌 %s → 盈利 %s</string>
+  <string name="price_rise_loss" platform="android, iOS">價格下跌 %s → 虧損 %s</string>
+  <string name="price_fall_loss" platform="android, iOS">價格上漲 %s → 虧損 %s</string>
 </resources>

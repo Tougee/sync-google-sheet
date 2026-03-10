@@ -153,8 +153,10 @@
 	<string name="All_Conversations">所有會話</string>
 	<string name="All_dates">所有日期</string>
 	<string name="All_Invoices">全部賬單</string>
+	<string name="All_Markets">全部合約</string>
 	<string name="All_Media">全部</string>
 	<string name="All_Networks">所有網路</string>
+	<string name="All_Positions">全部倉位</string>
 	<string name="All_signer_failure">所有節點失敗</string>
 	<string name="All_Time_High">歷史最高</string>
 	<string name="All_Time_Low">歷史最低</string>
@@ -392,6 +394,11 @@
 	<string name="Click_to_retry">點選重試</string>
 	<string name="Click_to_unlock">點選解鎖</string>
 	<string name="Close">關閉</string>
+	<string name="Close_Position">關倉</string>
+	<string name="Close_Price">關倉價格</string>
+	<string name="Closed_Long">歷史多單</string>
+	<string name="Closed_Positions">倉位歷史</string>
+	<string name="Closed_Short">歷史空單</string>
 	<string name="Closing_Balance">期末餘額</string>
 	<string name="Collectible">藏品</string>
 	<string name="Collectible_Hash">藏品雜湊</string>
@@ -417,6 +424,7 @@
 	<string name="Completed">已完成</string>
 	<string name="Confirm">確認</string>
 	<string name="Confirm_Adding_Address">新增地址確認</string>
+	<string name="confirm_closing_position">確認關倉</string>
 	<string name="Confirm_Deleting_Address">刪除地址確認</string>
 	<string name="Confirm_Editing_Address">修改地址確認</string>
 	<string name="Confirm_fingerprint">確認指紋</string>
@@ -511,6 +519,7 @@
 	<string name="Current_Plan">當前會員</string>
 	<string name="Current_price">當前價格：%1$s</string>
 	<string name="current_version">當前版本：%1$s</string>
+	<string name="Custom">自定義</string>
 	<string name="Custom_Time">自定義時間</string>
 	<string name="dapp_description">此 app 已經與你的錢包連線，並被授權檢視你的錢包餘額及活動，也可向你發出轉賬請求。</string>
 	<string name="Data_and_Storage_Usage">資料與儲存空間</string>
@@ -588,6 +597,7 @@
 	<string name="device_transfer_failed">同步失敗</string>
 	<string name="Device_unsupported">當前裝置不支援</string>
 	<string name="Diagnosis_Complete">診斷完成</string>
+	<string name="Direction">方向</string>
 	<string name="Disable_db_debug">已關閉 db 除錯</string>
 	<string name="disable_disappearing_message">%1$s停用了限時訊息</string>
 	<string name="Disable_web_debug">已關閉 Web 除錯</string>
@@ -657,6 +667,7 @@
 	<string name="Enter_your_PIN">輸入你的 PIN</string>
 	<string name="Enter_your_PIN_to_continue">輸入你的 PIN 以繼續</string>
 	<string name="Enter_your_PIN_to_verify">輸入你的 PIN 來驗證</string>
+	<string name="Entry_Price">開倉價格</string>
 	<string name="EOS_contract_address">EOS 合約地址</string>
 	<string name="error_access_limited">錯誤 403：訪問受限</string>
 	<string name="error_address_exists">地址不存在，請確保地址是否新增成功</string>
@@ -833,6 +844,7 @@
 	<string name="From_Address">從外部轉入</string>
 	<string name="from_date">自%1$s</string>
 	<string name="From_Mixin_Wallet">從 Mixin 錢包轉入</string>
+	<string name="Funding_Rate">資金利率</string>
 	<string name="Generating_keys">正在建立金鑰…</string>
 	<string name="Global_Market_Cap">全球總市值</string>
 	<string name="Go">導航</string>
@@ -987,6 +999,7 @@
 	<string name="Link_desktop_success">登入桌面端成功</string>
 	<string name="Links">連結</string>
 	<string name="Liquidation">平倉</string>
+	<string name="Liquidation_Price">強平價格</string>
 	<string name="Live">直播</string>
 	<string name="live_permission">Mixin 需要使用出現在其它應用上的許可權以在畫中畫模式中播放影片。</string>
 	<string name="live_shareable_false">該直播已被設定為不允許轉發</string>
@@ -1016,6 +1029,7 @@
 	<string name="logout_title">輸入 PIN 退出登入</string>
 	<string name="Logs">日誌</string>
 	<string name="Long">做多</string>
+	<string name="long_asset">做多 %s</string>
 	<string name="Lost_your_mobile_number">手機丟失？</string>
 	<string name="low_24h">24 小時最低</string>
 	<string name="Make_group_admin">設定為群組管理員</string>
@@ -1167,6 +1181,7 @@
 	<string name="No_Memo">沒有 Memo（備註）</string>
 	<string name="No_network_connection">無網路連線</string>
 	<string name="NO_ORDERS">沒有訂單</string>
+	<string name="No_Position">暫無倉位</string>
 	<string name="NO_POSTS">沒有文章</string>
 	<string name="No_raws">暫無其他記錄</string>
 	<string name="No_rebates">暫無退款記錄</string>
@@ -1233,9 +1248,15 @@
 	<string name="Open_Desktop_to_Confirm">請開啟您的 Mixin 桌面端來確認此操作。</string>
 	<string name="Open_Home_page">開啟主頁</string>
 	<string name="Open_in_browser">在瀏覽器中開啟</string>
+	<string name="Open_Interest">未平倉合約</string>
 	<string name="Open_Link">開啟連結：%1$s</string>
 	<string name="open_orders_count">當前委託（%d）</string>
+	<string name="Open_Position">開倉</string>
+	<string name="Open_Positions">持有倉位</string>
+	<string name="open_positions_count">持有倉位(%d)</string>
 	<string name="open_source">版權所有 Mixin\n根據 GPL-3.0 授權許可</string>
+	<string name="Opened_Long">持有多單</string>
+	<string name="Opened_Short">持有空單</string>
 	<string name="Opening_Balance">期初餘額</string>
 	<string name="Operator">運營商</string>
 	<string name="Opponents">收發人</string>
@@ -1248,6 +1269,7 @@
 	<string name="order_type">訂單型別</string>
 	<string name="order_type_limit">限價</string>
 	<string name="order_type_swap">閃兌</string>
+	<string name="Order_Value">訂單價值</string>
 	<string name="Orders">訂單</string>
 	<string name="OTHER">其他</string>
 	<string name="Overview">具體說明</string>
@@ -1280,6 +1302,7 @@
 	<string name="permission_camera">要允許拍攝照片嗎？</string>
 	<string name="permission_video">要允許拍攝影片嗎？</string>
 	<string name="Permissions">許可權列表</string>
+	<string name="Perpetual">永續合約</string>
 	<string name="Perpetual_Futures">永續合約</string>
 	<string name="perps_intro_overview">Mixin 永續合約是一種以數字資產結算的衍生品交易方式，支援做多和做空，無到期日。透過槓桿機制，交易者可以放大倉位，把握價格上漲或下跌帶來的交易機會。</string>
 	<string name="perps_intro_risk_notice_1">槓桿交易可能放大收益，同時也會放大虧損</string>
@@ -1331,6 +1354,7 @@
 	<string name="pnl_rule_price_rise_profit">價格上漲：產生盈利</string>
 	<string name="PnL_Rules">盈虧規則：</string>
 	<string name="Position">倉位</string>
+	<string name="Position_Closed">倉位已關閉</string>
 	<string name="position_value">倉位價值</string>
 	<string name="Post">文章</string>
 	<string name="POST">文章</string>
@@ -1346,10 +1370,16 @@
 	<string name="Price_data_unavailable">暫無價格資料</string>
 	<string name="price_decrease_invalid">跌幅需大於 %1$s 且小於 %2$s</string>
 	<string name="price_expired">報價已過期</string>
+	<string name="price_fall_loss">價格上漲 %s → 虧損 %s</string>
+	<string name="price_fall_profit">價格下跌 %s → 盈利 %s</string>
+	<string name="price_fall_profit_value">價格下跌 %s → 盈利 %s（%s）</string>
 	<string name="price_in_currency">價格（%1$s）</string>
 	<string name="price_increase_invalid">漲幅需大於 %1$s 且小於 %2$s</string>
 	<string name="price_must_greater_than_current">設定價格需大於現價</string>
 	<string name="price_must_less_than_current">設定價格需小於現價</string>
+	<string name="price_rise_loss">價格下跌 %s → 虧損 %s</string>
+	<string name="price_rise_profit">價格上漲 %s → 盈利 %s</string>
+	<string name="price_rise_profit_value">價格上漲 %s → 盈利 %s（%s）</string>
 	<string name="price_too_large">設定價格需小於現價的 %1$s 倍</string>
 	<string name="price_too_less">設定價格需大於現價的 %1$s</string>
 	<string name="Privacy">隱私</string>
@@ -1674,6 +1704,7 @@
 	<string name="share_to">分享%1$s到…</string>
 	<string name="Shared_Media">媒體內容</string>
 	<string name="Short">做空</string>
+	<string name="short_asset">做空 %s</string>
 	<string name="Show">顯示</string>
 	<string name="Show_in_chat">在聊天中展示</string>
 	<string name="Show_Mnemonic_Phrase">檢視助記詞</string>

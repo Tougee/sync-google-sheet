@@ -153,8 +153,10 @@
 	<string name="All_Conversations">All Conversations</string>
 	<string name="All_dates">All Dates</string>
 	<string name="All_Invoices">All Invoices</string>
+	<string name="All_Markets">All Markets</string>
 	<string name="All_Media">All Media</string>
 	<string name="All_Networks">All networks</string>
+	<string name="All_Positions">All Positions</string>
 	<string name="All_signer_failure">All node failure</string>
 	<string name="All_Time_High">All Time High</string>
 	<string name="All_Time_Low">All Time Low</string>
@@ -395,6 +397,11 @@
 	<string name="Click_to_retry">Click to retry</string>
 	<string name="Click_to_unlock">Click to unlock</string>
 	<string name="Close">Close</string>
+	<string name="Close_Position">Close Position</string>
+	<string name="Close_Price">Close Price</string>
+	<string name="Closed_Long">Closed Long</string>
+	<string name="Closed_Positions">Closed Positions</string>
+	<string name="Closed_Short">Closed Short</string>
 	<string name="Closing_Balance">Closing Balance</string>
 	<string name="Collectible">Collectible</string>
 	<string name="Collectible_Hash">Collectible Hash</string>
@@ -420,6 +427,7 @@
 	<string name="Completed">Completed</string>
 	<string name="Confirm">Confirm</string>
 	<string name="Confirm_Adding_Address">Confirm Address</string>
+	<string name="confirm_closing_position">Confirm Closing</string>
 	<string name="Confirm_Deleting_Address">Delete Address</string>
 	<string name="Confirm_Editing_Address">Confirm Editing Address</string>
 	<string name="Confirm_fingerprint">Confirm fingerprint</string>
@@ -514,6 +522,7 @@
 	<string name="Current_Plan">Current Plan</string>
 	<string name="Current_price">Current price: %1$s</string>
 	<string name="current_version">Version: %1$s</string>
+	<string name="Custom">Custom</string>
 	<string name="Custom_Time">Custom Time</string>
 	<string name="dapp_description">This app has connected to your wallet, it can view your wallet balance, activity and request approval for transactions.</string>
 	<string name="Data_and_Storage_Usage">Data and Storage Usage</string>
@@ -594,6 +603,7 @@
 	<string name="device_transfer_failed">Transfer failed</string>
 	<string name="Device_unsupported">Device unsupported</string>
 	<string name="Diagnosis_Complete">Diagnosis Complete</string>
+	<string name="Direction">Direction</string>
 	<string name="Disable_db_debug">Disable db debug</string>
 	<string name="disable_disappearing_message">%1$s disabled disappearing message</string>
 	<string name="Disable_web_debug">Disable web debug</string>
@@ -663,6 +673,7 @@
 	<string name="Enter_your_PIN">Enter your PIN</string>
 	<string name="Enter_your_PIN_to_continue">Enter your PIN to continue</string>
 	<string name="Enter_your_PIN_to_verify">Enter your PIN to verify</string>
+	<string name="Entry_Price">Entry Price</string>
 	<string name="EOS_contract_address">EOS contract address</string>
 	<string name="error_access_limited">ERROR 403: Access Limited</string>
 	<string name="error_address_exists">The address does not exist, please make sure that the address is added successfully</string>
@@ -839,6 +850,7 @@
 	<string name="From_Address">From address</string>
 	<string name="from_date">From %1$s</string>
 	<string name="From_Mixin_Wallet">From Mixin Wallet</string>
+	<string name="Funding_Rate">Funding Rate</string>
 	<string name="Generating_keys">Generating keys…</string>
 	<string name="GIF">GIF</string>
 	<string name="Global_Market_Cap">Market Cap</string>
@@ -999,6 +1011,7 @@
 	<string name="Link_desktop_success">Link desktop success</string>
 	<string name="Links">Links</string>
 	<string name="Liquidation">Liquidation</string>
+	<string name="Liquidation_Price">Liquidation Price</string>
 	<string name="Live">Live</string>
 	<string name="live_permission">Mixin needs access to draw above other apps to play videos in Picture-in-Picture mode.</string>
 	<string name="live_shareable_false">The live has been set to not allow sharing</string>
@@ -1029,6 +1042,7 @@
 	<string name="logout_title">Enter your PIN to log out</string>
 	<string name="Logs">Logs</string>
 	<string name="Long">Long</string>
+	<string name="long_asset">Long %s</string>
 	<string name="Lost_your_mobile_number">Lost your mobile number?</string>
 	<string name="low_24h">24H LOW</string>
 	<string name="Make_group_admin">Make group admin</string>
@@ -1181,6 +1195,7 @@
 	<string name="No_Memo">No Memo</string>
 	<string name="No_network_connection">No network connection</string>
 	<string name="NO_ORDERS">NO ORDERS</string>
+	<string name="No_Position">No Position</string>
 	<string name="NO_POSTS">NO POSTS</string>
 	<string name="No_raws">No raws</string>
 	<string name="No_rebates">No rebates</string>
@@ -1247,9 +1262,15 @@
 	<string name="Open_Desktop_to_Confirm">Please open your Mixin desktop to confirm the operation.</string>
 	<string name="Open_Home_page">Open Home page</string>
 	<string name="Open_in_browser">Open in browser</string>
+	<string name="Open_Interest">Open Interest</string>
 	<string name="Open_Link">Open Link: %1$s</string>
 	<string name="open_orders_count">Open Orders (%d)</string>
+	<string name="Open_Position">Open Position</string>
+	<string name="Open_Positions">Open Positions</string>
+	<string name="open_positions_count">Open Positions(%d)</string>
 	<string name="open_source">Copyright Mixin\nLicensed under the GPLv3</string>
+	<string name="Opened_Long">Opened Long</string>
+	<string name="Opened_Short">Opened Short</string>
 	<string name="Opening_Balance">Opening Balance</string>
 	<string name="Operator">Operator</string>
 	<string name="Opponents">Opponents</string>
@@ -1262,6 +1283,7 @@
 	<string name="order_type">Order Type</string>
 	<string name="order_type_limit">Limit</string>
 	<string name="order_type_swap">Swap</string>
+	<string name="Order_Value">Order Value</string>
 	<string name="Orders">Orders</string>
 	<string name="OTHER">OTHER</string>
 	<string name="Overview">Overview</string>
@@ -1294,6 +1316,7 @@
 	<string name="permission_camera">Allow to take pictures?</string>
 	<string name="permission_video">Allow to record video?</string>
 	<string name="Permissions">Permissions</string>
+	<string name="Perpetual">Perpetual</string>
 	<string name="Perpetual_Futures">Perpetual Futures</string>
 	<string name="perps_intro_overview">Mixin Perpetual Futures are a type of derivatives trading settled in digital assets. They allow traders to go long or short with no expiration date. Through leverage, traders can amplify their position size and capture opportunities from both rising and falling market prices.</string>
 	<string name="perps_intro_risk_notice_1">Leveraged trading amplifies both profits and losses</string>
@@ -1345,6 +1368,7 @@
 	<string name="pnl_rule_price_rise_profit">Price rises: Profit</string>
 	<string name="PnL_Rules">PnL Rules:</string>
 	<string name="Position">Position</string>
+	<string name="Position_Closed">Position Closed</string>
 	<string name="position_value">Position Value</string>
 	<string name="Post">Post</string>
 	<string name="POST">POST</string>
@@ -1360,10 +1384,16 @@
 	<string name="Price_data_unavailable">Price data unavailable</string>
 	<string name="price_decrease_invalid">The price decrease must be greater than %1$s and less than %2$s</string>
 	<string name="price_expired">Price Expired</string>
+	<string name="price_fall_loss">Price decrease %s → Loss %s</string>
+	<string name="price_fall_profit">Price decrease %s → Gain %s</string>
+	<string name="price_fall_profit_value">Price decrease %s → Gain %s (%s)</string>
 	<string name="price_in_currency">Price (%1$s)</string>
 	<string name="price_increase_invalid">The price increase must be greater than %1$s and less than %2$s</string>
 	<string name="price_must_greater_than_current">The set price must be greater than the current price</string>
 	<string name="price_must_less_than_current">The set price must be less than the current price</string>
+	<string name="price_rise_loss">Price increase %s → Loss %s</string>
+	<string name="price_rise_profit">Price increase %s → Gain %s</string>
+	<string name="price_rise_profit_value">Price increase %s → Gain %s (%s)</string>
 	<string name="price_too_large">The set price must be less than %1$s times the current price</string>
 	<string name="price_too_less">The set price must be greater than %1$s of the current price</string>
 	<string name="Privacy">Privacy</string>
@@ -1690,6 +1720,7 @@
 	<string name="share_to">Share %1$s to…</string>
 	<string name="Shared_Media">Shared Media</string>
 	<string name="Short">Short</string>
+	<string name="short_asset">Short %s</string>
 	<string name="Show">Show</string>
 	<string name="Show_in_chat">Show in chat</string>
 	<string name="Show_Mnemonic_Phrase">Show Mnemonic Phrase</string>
