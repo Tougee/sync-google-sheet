@@ -747,6 +747,7 @@
 "hour_count" = "%d 小时";
 "hours_count_short" = "%d小时";
 "how_are_you" = "嗨，你好吗？";
+"how_perps_works" = "永续合约是什么？";
 "i_am_good" = "我很好。";
 "id" = "ID";
 "im_ready" = "准备好了";
@@ -830,6 +831,7 @@
 "last_active_time" = "最后登入于 %@";
 "last_backup_hint" = "上次备份是 %@，占用空间 %@。";
 "later" = "稍后";
+"learn_how_to_trade_perps" = "了解如何交易永续合约";
 "learn_more" = "了解更多";
 "leave_message_to_team_mixin" = "给 Mixin 客服留言";
 "legacy_network" = "旧网络";
@@ -924,6 +926,7 @@
 "minimum_withdrawal" = "最小提现数量";
 "minute" = "%d 分钟";
 "minute_count" = "%d 分钟";
+"minutes_count_short" = "%d分钟";
 "mixin" = "Mixin";
 "mixin_contact" = "Mixin 联系人";
 "mixin_id_or_phone" = "Mixin ID 或手机号";

@@ -885,6 +885,7 @@
 		<item quantity="other">%d 小時</item>
 	</plurals>
 	<string name="hours_count_short">%1$d小時</string>
+	<string name="how_perps_works">永續合約是什麼？</string>
 	<string name="I_know">我知道了</string>
 	<string name="ID">ID</string>
 	<string name="identity_verification_description">正在驗證您的身份。一旦您的驗證完成，我們將透過 Mixin 向您傳送訊息。</string>
@@ -973,6 +974,7 @@
 	<string name="Last_year">最近一年</string>
 	<string name="Last_years">最近 %1$s 年</string>
 	<string name="Later">稍後</string>
+	<string name="learn_how_to_trade_perps">瞭解如何交易永續合約</string>
 	<string name="Learn_More">瞭解更多</string>
 	<string name="leave_message_to_team_mixin">給 Mixin 客服留言</string>
 	<string name="Legacy_Network">舊網路</string>
@@ -1084,6 +1086,7 @@
 		<item quantity="one">%d 分鐘</item>
 		<item quantity="other">%d 分鐘</item>
 	</plurals>
+	<string name="minutes_count_short">%1$d分鐘</string>
 	<string name="Mixin">Mixin</string>
 	<string name="Mixin_Contact">Mixin 聯絡人</string>
 	<string name="Mixin_Locked">Mixin 已鎖定</string>

@@ -747,6 +747,7 @@
 "hour_count" = "%d Jam";
 "hours_count_short" = "%dH";
 "how_are_you" = "Hi, how are you?";
+"how_perps_works" = "How perps works?";
 "i_am_good" = "I’m good.";
 "id" = "ID";
 "im_ready" = "I'm Ready";
@@ -830,6 +831,7 @@
 "last_active_time" = "Last active %@";
 "last_backup_hint" = "Last backup on %@, total size %@.";
 "later" = "Nanti";
+"learn_how_to_trade_perps" = "Learn how to trade perps";
 "learn_more" = "Pelajari Selengkapnya";
 "leave_message_to_team_mixin" = "Leave a message to Team Mixin";
 "legacy_network" = "Legacy Network";
@@ -924,6 +926,7 @@
 "minimum_withdrawal" = "Minimum Withdrawal";
 "minute" = "%d Minute";
 "minute_count" = "%d Menit";
+"minutes_count_short" = "%dm";
 "mixin" = "Mixin";
 "mixin_contact" = "Mixin Contact";
 "mixin_id_or_phone" = "Mixin ID, Phone number";

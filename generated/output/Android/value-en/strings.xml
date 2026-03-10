@@ -894,6 +894,7 @@
 		<item quantity="other">%d Hours</item>
 	</plurals>
 	<string name="hours_count_short">%1$dH</string>
+	<string name="how_perps_works">How perps works?</string>
 	<string name="I_know">I know</string>
 	<string name="ID">ID</string>
 	<string name="identity_verification_description">Your identity is being verified. We will send you a message once your verification has completed.</string>
@@ -985,6 +986,7 @@
 	<string name="Last_year">Last year</string>
 	<string name="Last_years">Last %1$s  years</string>
 	<string name="Later">Later</string>
+	<string name="learn_how_to_trade_perps">Learn how to trade perps</string>
 	<string name="Learn_More">Learn More</string>
 	<string name="leave_message_to_team_mixin">Leave a message to Team Mixin</string>
 	<string name="Legacy_Network">Legacy Network</string>
@@ -1097,6 +1099,7 @@
 		<item quantity="one">%d Minute</item>
 		<item quantity="other">%d Minutes</item>
 	</plurals>
+	<string name="minutes_count_short">%1$dm</string>
 	<string name="Mixin">Mixin</string>
 	<string name="Mixin_Contact">Mixin Contact</string>
 	<string name="Mixin_ID">Mixin ID</string>

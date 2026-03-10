@@ -747,6 +747,7 @@
 "hour_count" = "%d 小時";
 "hours_count_short" = "%d小時";
 "how_are_you" = "嗨，你好嗎？";
+"how_perps_works" = "永續合約是什麼？";
 "i_am_good" = "我很好。";
 "id" = "ID";
 "im_ready" = "準備好了";
@@ -830,6 +831,7 @@
 "last_active_time" = "最後登入於 %@";
 "last_backup_hint" = "上次備份是 %@，佔用空間 %@。";
 "later" = "稍後";
+"learn_how_to_trade_perps" = "瞭解如何交易永續合約";
 "learn_more" = "瞭解更多";
 "leave_message_to_team_mixin" = "給 Mixin 客服留言";
 "legacy_network" = "舊網絡";
@@ -924,6 +926,7 @@
 "minimum_withdrawal" = "最小提現數量";
 "minute" = "%d 分鐘";
 "minute_count" = "%d 分鐘";
+"minutes_count_short" = "%d分鐘";
 "mixin" = "Mixin";
 "mixin_contact" = "Mixin 聯繫人";
 "mixin_id_or_phone" = "Mixin ID 或手機號";

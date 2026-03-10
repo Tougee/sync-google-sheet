@@ -885,6 +885,7 @@
 		<item quantity="other">%d 小时</item>
 	</plurals>
 	<string name="hours_count_short">%1$d小时</string>
+	<string name="how_perps_works">永续合约是什么？</string>
 	<string name="I_know">我知道了</string>
 	<string name="ID">ID</string>
 	<string name="identity_verification_description">正在验证您的身份。一旦您的验证完成，我们将通过 Mixin 向您发送消息。</string>
@@ -973,6 +974,7 @@
 	<string name="Last_year">最近一年</string>
 	<string name="Last_years">最近 %1$s 年</string>
 	<string name="Later">稍后</string>
+	<string name="learn_how_to_trade_perps">了解如何交易永续合约</string>
 	<string name="Learn_More">了解更多</string>
 	<string name="leave_message_to_team_mixin">给 Mixin 客服留言</string>
 	<string name="Legacy_Network">旧网络</string>
@@ -1084,6 +1086,7 @@
 		<item quantity="one">%d 分钟</item>
 		<item quantity="other">%d 分钟</item>
 	</plurals>
+	<string name="minutes_count_short">%1$d分钟</string>
 	<string name="Mixin">Mixin</string>
 	<string name="Mixin_Contact">Mixin 联系人</string>
 	<string name="Mixin_Locked">Mixin 已锁定</string>

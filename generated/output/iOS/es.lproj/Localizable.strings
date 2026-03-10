@@ -747,6 +747,7 @@
 "hour_count" = "%d Horas";
 "hours_count_short" = "%dH";
 "how_are_you" = "¿Hola, cómo estás?";
+"how_perps_works" = "How perps works?";
 "i_am_good" = "Estoy bien.";
 "id" = "ID";
 "im_ready" = "I'm Ready";
@@ -830,6 +831,7 @@
 "last_active_time" = "Último Activo %@";
 "last_backup_hint" = "Última copia de seguridad en %@, tamaño total %@.";
 "later" = "Más tarde";
+"learn_how_to_trade_perps" = "Learn how to trade perps";
 "learn_more" = "Obtener más información";
 "leave_message_to_team_mixin" = "Leave a message to Team Mixin";
 "legacy_network" = "Legacy Network";
@@ -924,6 +926,7 @@
 "minimum_withdrawal" = "Minimum Withdrawal";
 "minute" = "%d Minuto";
 "minute_count" = "%d Minutos";
+"minutes_count_short" = "%dm";
 "mixin" = "Mixin";
 "mixin_contact" = "Mixin Contact";
 "mixin_id_or_phone" = "ID de Mixin, número de teléfono";
