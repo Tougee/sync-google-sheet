@@ -2517,6 +2517,7 @@
   <string name="sign_up_15_secs" platform="android, iOS">Sign up in just 15 seconds</string>
   <string name="Account_Creation_Failed" platform="android, iOS">Account Creation Failed</string>
   <string name="Sign_in_Failed" platform="android, iOS">Sign in Failed</string>
+  <string name="Perpetual" platform="android, iOS">Perpetual</string>
   <string name="Perpetual_Futures" platform="android, iOS">Perpetual Futures</string>
   <string name="Brief_Introduction" platform="android, iOS">Introduction</string>
   <string name="Long" platform="android, iOS">Long</string>
@@ -2567,4 +2568,34 @@
   <string name="perps_position_purpose_2" platform="android, iOS">Offsets unrealized losses</string>
   <string name="perps_position_risk_1" platform="android, iOS">If the margin becomes insufficient to support the position, it may be forcibly liquidated by the system.</string>
   <string name="perps_position_risk_2" platform="android, iOS">Sharp price fluctuations may quickly consume the margin.</string>
+  <string name="All_Markets" platform="android, iOS">All Markets</string>
+  <string name="Open_Position" platform="android, iOS">Open Position</string>
+  <string name="Direction" platform="android, iOS">Direction</string>
+  <string name="Order_Value" platform="android, iOS">Order Value</string>
+  <string name="Entry_Price" platform="android, iOS">Entry Price</string>
+  <string name="Close_Price" platform="android, iOS">Close Price</string>
+  <string name="Liquidation_Price" platform="android, iOS">Liquidation Price</string>
+  <string name="Close_Position" platform="android, iOS">Close Position</string>
+  <string name="Open_Interest" platform="android, iOS">Open Interest</string>
+  <string name="Funding_Rate" platform="android, iOS">Funding Rate</string>
+  <string name="Open_Positions" platform="android, iOS">Open Positions</string>
+  <string name="open_positions_count" platform="android, iOS">Open Positions(%d)</string>
+  <string name="Closed_Positions" platform="android, iOS">Closed Positions</string>
+  <string name="All_Positions" platform="android, iOS">All Positions</string>
+  <string name="confirm_closing_position" platform="android, iOS">Confirm Closing</string>
+  <string name="Position_Closed" platform="android, iOS">Position Closed</string>
+  <string name="long_asset" platform="android, iOS">Long %s</string>
+  <string name="short_asset" platform="android, iOS">Short %s</string>
+  <string name="Custom" platform="android, iOS">Custom</string>
+  <string name="No_Position" platform="android, iOS">No Position</string>
+  <string name="Opened_Long" platform="android, iOS">Opened Long</string>
+  <string name="Opened_Short" platform="android, iOS">Opened Short</string>
+  <string name="Closed_Long" platform="android, iOS">Closed Long</string>
+  <string name="Closed_Short" platform="android, iOS">Closed Short</string>
+  <string name="price_rise_profit_value" platform="android, iOS">Price increase %s → Gain %s (%s)</string>
+  <string name="price_fall_profit_value" platform="android, iOS">Price decrease %s → Gain %s (%s)</string>
+  <string name="price_rise_profit" platform="android, iOS">Price increase %s → Gain %s</string>
+  <string name="price_fall_profit" platform="android, iOS">Price decrease %s → Gain %s</string>
+  <string name="price_rise_loss" platform="android, iOS">Price increase %s → Loss %s</string>
+  <string name="price_fall_loss" platform="android, iOS">Price decrease %s → Loss %s</string>
 </resources>
