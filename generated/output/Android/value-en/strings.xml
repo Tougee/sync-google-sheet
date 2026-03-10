@@ -156,7 +156,6 @@
 	<string name="All_Markets">All Markets</string>
 	<string name="All_Media">All Media</string>
 	<string name="All_Networks">All networks</string>
-	<string name="All_Positions">All Positions</string>
 	<string name="All_signer_failure">All node failure</string>
 	<string name="All_Time_High">All Time High</string>
 	<string name="All_Time_Low">All Time Low</string>
@@ -177,6 +176,7 @@
 	<string name="Alphabetical">Alphabetical</string>
 	<string name="Amount">Amount</string>
 	<string name="amount_descending">Amount Descending</string>
+	<string name="amount_isolated">Amount (Isolated)</string>
 	<string name="an_audio">an audio</string>
 	<string name="Anonymous">Anonymous</string>
 	<string name="Anonymous_Number">Anonymous Number</string>
@@ -400,9 +400,9 @@
 	<string name="Close_Position">Close Position</string>
 	<string name="Close_Price">Close Price</string>
 	<string name="Closed_Long">Closed Long</string>
-	<string name="Closed_Positions">Closed Positions</string>
 	<string name="Closed_Short">Closed Short</string>
 	<string name="Closing_Balance">Closing Balance</string>
+	<string name="closing_position">Closing Position</string>
 	<string name="Collectible">Collectible</string>
 	<string name="Collectible_Hash">Collectible Hash</string>
 	<string name="collectible_not_found">Collectible does not exist</string>
@@ -431,6 +431,7 @@
 	<string name="Confirm_Deleting_Address">Delete Address</string>
 	<string name="Confirm_Editing_Address">Confirm Editing Address</string>
 	<string name="Confirm_fingerprint">Confirm fingerprint</string>
+	<string name="confirm_opening_position">Confirm Opening</string>
 	<string name="Confirm_PIN">Confirm PIN</string>
 	<string name="Confirm_Signing_Multisig">Confirm Signing Multisig</string>
 	<string name="Confirm_Transfer">Confirm Transfer</string>
@@ -753,6 +754,7 @@
 	<string name="error_withdrawal_memo_format_incorrect">ERROR 20131: Withdrawal memo format incorrect.</string>
 	<string name="error_withdrawal_suspend">ERROR 20137: Withdrawal suspend.</string>
 	<string name="estimated_balance_change">Balance Change (estimate)</string>
+	<string name="Estimated_Liquidation_Price">Estimated Liquidation Price</string>
 	<string name="Estimated_Price">Estimated Price</string>
 	<string name="Estimated_Receive">Estimated Receive</string>
 	<string name="Everybody">Everybody</string>
@@ -1266,12 +1268,11 @@
 	<string name="Open_Link">Open Link: %1$s</string>
 	<string name="open_orders_count">Open Orders (%d)</string>
 	<string name="Open_Position">Open Position</string>
-	<string name="Open_Positions">Open Positions</string>
-	<string name="open_positions_count">Open Positions(%d)</string>
 	<string name="open_source">Copyright Mixin\nLicensed under the GPLv3</string>
 	<string name="Opened_Long">Opened Long</string>
 	<string name="Opened_Short">Opened Short</string>
 	<string name="Opening_Balance">Opening Balance</string>
+	<string name="opening_position">Opening Position</string>
 	<string name="Operator">Operator</string>
 	<string name="Opponents">Opponents</string>
 	<string name="optional_note">Note (Optional)</string>
@@ -1318,6 +1319,7 @@
 	<string name="Permissions">Permissions</string>
 	<string name="Perpetual">Perpetual</string>
 	<string name="Perpetual_Futures">Perpetual Futures</string>
+	<string name="perps_activity">Activity</string>
 	<string name="perps_intro_overview">Mixin Perpetual Futures are a type of derivatives trading settled in digital assets. They allow traders to go long or short with no expiration date. Through leverage, traders can amplify their position size and capture opportunities from both rising and falling market prices.</string>
 	<string name="perps_intro_risk_notice_1">Leveraged trading amplifies both profits and losses</string>
 	<string name="perps_intro_risk_notice_2">Positions may be forcibly liquidated if margin becomes insufficient</string>
@@ -1369,7 +1371,10 @@
 	<string name="PnL_Rules">PnL Rules:</string>
 	<string name="Position">Position</string>
 	<string name="Position_Closed">Position Closed</string>
+	<string name="Position_Opened">Position Opened</string>
 	<string name="position_value">Position Value</string>
+	<string name="Positions">Positions</string>
+	<string name="positions_count">Positions(%d)</string>
 	<string name="Post">Post</string>
 	<string name="POST">POST</string>
 	<string name="powered_by_mixin_route_prefix">Powered by</string>

@@ -156,7 +156,6 @@
 	<string name="All_Markets">全部合约</string>
 	<string name="All_Media">全部</string>
 	<string name="All_Networks">所有网络</string>
-	<string name="All_Positions">全部仓位</string>
 	<string name="All_signer_failure">所有节点失败</string>
 	<string name="All_Time_High">历史最高</string>
 	<string name="All_Time_Low">历史最低</string>
@@ -177,6 +176,7 @@
 	<string name="Alphabetical">按字母顺序</string>
 	<string name="Amount">金额</string>
 	<string name="amount_descending">价值降序</string>
+	<string name="amount_isolated">保证金（逐仓）</string>
 	<string name="an_audio">一条语音</string>
 	<string name="Anonymous">匿名</string>
 	<string name="Anonymous_Number">匿名号码</string>
@@ -397,9 +397,9 @@
 	<string name="Close_Position">关仓</string>
 	<string name="Close_Price">关仓价格</string>
 	<string name="Closed_Long">历史多单</string>
-	<string name="Closed_Positions">仓位历史</string>
 	<string name="Closed_Short">历史空单</string>
 	<string name="Closing_Balance">期末余额</string>
+	<string name="closing_position">正在关仓</string>
 	<string name="Collectible">藏品</string>
 	<string name="Collectible_Hash">藏品哈希</string>
 	<string name="collectible_not_found">藏品不存在</string>
@@ -428,6 +428,7 @@
 	<string name="Confirm_Deleting_Address">删除地址确认</string>
 	<string name="Confirm_Editing_Address">修改地址确认</string>
 	<string name="Confirm_fingerprint">确认指纹</string>
+	<string name="confirm_opening_position">确认开仓</string>
 	<string name="Confirm_PIN">确认 PIN</string>
 	<string name="Confirm_Signing_Multisig">多签交易确认</string>
 	<string name="Confirm_Transfer">转账确认</string>
@@ -747,6 +748,7 @@
 	<string name="error_withdrawal_memo_format_incorrect">错误 20131：提现备注格式不正确</string>
 	<string name="error_withdrawal_suspend">错误 20137：提现暂停</string>
 	<string name="estimated_balance_change">余额变动（预估）</string>
+	<string name="Estimated_Liquidation_Price">预估清算价格</string>
 	<string name="Estimated_Price">预计价格</string>
 	<string name="Estimated_Receive">预计收到</string>
 	<string name="Everybody">任何人</string>
@@ -1252,12 +1254,11 @@
 	<string name="Open_Link">打开链接：%1$s</string>
 	<string name="open_orders_count">当前委托（%d）</string>
 	<string name="Open_Position">开仓</string>
-	<string name="Open_Positions">持有仓位</string>
-	<string name="open_positions_count">持有仓位(%d)</string>
 	<string name="open_source">版权所有 Mixin\n根据 GPL-3.0 授权许可</string>
 	<string name="Opened_Long">持有多单</string>
 	<string name="Opened_Short">持有空单</string>
 	<string name="Opening_Balance">期初余额</string>
+	<string name="opening_position">正在开仓</string>
 	<string name="Operator">运营商</string>
 	<string name="Opponents">收发人</string>
 	<string name="optional_note">转账备注（可选）</string>
@@ -1304,6 +1305,7 @@
 	<string name="Permissions">权限列表</string>
 	<string name="Perpetual">永续合约</string>
 	<string name="Perpetual_Futures">永续合约</string>
+	<string name="perps_activity">历史记录</string>
 	<string name="perps_intro_overview">Mixin 永续合约是一种以数字资产结算的衍生品交易方式，支持做多和做空，无到期日。通过杠杆机制，交易者可以放大仓位，把握价格上涨或下跌带来的交易机会。</string>
 	<string name="perps_intro_risk_notice_1">杠杆交易可能放大收益，同时也会放大亏损</string>
 	<string name="perps_intro_risk_notice_2">当保证金不足时，仓位可能被强制平仓</string>
@@ -1355,7 +1357,10 @@
 	<string name="PnL_Rules">盈亏规则：</string>
 	<string name="Position">仓位</string>
 	<string name="Position_Closed">仓位已关闭</string>
+	<string name="Position_Opened">仓位已打开</string>
 	<string name="position_value">仓位价值</string>
+	<string name="Positions">仓位</string>
+	<string name="positions_count">仓位(%d)</string>
 	<string name="Post">文章</string>
 	<string name="POST">文章</string>
 	<string name="powered_by_mixin_route_prefix">由</string>
