@@ -856,7 +856,7 @@
 "link_recognition_failure" = "連結識別失敗";
 "link_shareable_false" = "該連結已被設定為不允許分享";
 "liquidation" = "平倉";
-"liquidation_price" = "強平價格";
+"liquidation_price" = "清算價格";
 "live" = "直播";
 "live_shareable_false" = "該直播已被設定為不允許轉發";
 "live_stream" = "直播卡片";

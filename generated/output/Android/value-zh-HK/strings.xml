@@ -999,7 +999,7 @@
 	<string name="Link_desktop_success">登錄桌面端成功</string>
 	<string name="Links">鏈接</string>
 	<string name="Liquidation">平倉</string>
-	<string name="Liquidation_Price">強平價格</string>
+	<string name="Liquidation_Price">清算價格</string>
 	<string name="Live">直播</string>
 	<string name="live_permission">Mixin 需要使用出現在其它應用上的權限以在畫中畫模式中播放視頻。</string>
 	<string name="live_shareable_false">該直播已被設置為不允許轉發</string>
