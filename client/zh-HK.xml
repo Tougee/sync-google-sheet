@@ -2552,7 +2552,7 @@
   <string name="All_Markets" platform="android, iOS">全部合約</string>
   <string name="Open_Position" platform="android, iOS">開倉</string>
   <string name="Direction" platform="android, iOS">方向</string>
-  <string name="Order_Value" platform="android, iOS">訂單價值</string>
+  <string name="position_size" platform="android, iOS">訂單價值</string>
   <string name="Entry_Price" platform="android, iOS">開倉價格</string>
   <string name="Close_Price" platform="android, iOS">關倉價格</string>
   <string name="Liquidation_Price" platform="android, iOS">清算價格</string>
