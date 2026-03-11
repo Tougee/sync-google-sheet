@@ -1619,6 +1619,8 @@
 "total" = "共计";
 "total_amount" = "总金额";
 "total_balance" = "资产合计";
+"total_position_value" = "仓位总价值";
+"total_realized_pnl" = "总盈亏";
 "total_supply" = "总量";
 "touch_id" = "指纹";
 "track_not_found" = "Track 无效";

@@ -2583,4 +2583,6 @@
   <string name="Estimated_Liquidation_Price" platform="android, iOS">預估清算價格</string>
   <string name="how_perps_works" platform="android, iOS">永續合約是什麼？</string>
   <string name="learn_how_to_trade_perps" platform="android, iOS">瞭解如何交易永續合約</string>
+  <string name="Total_Position_Value" platform="android, iOS">倉位總價值</string>
+  <string name="Total_Realized_PnL" platform="android, iOS">總盈虧</string>
 </resources>

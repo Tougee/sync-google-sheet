@@ -1848,6 +1848,8 @@
 	<string name="total">共计</string>
 	<string name="Total_Amount">总金额</string>
 	<string name="Total_Balance">资产合计</string>
+	<string name="Total_Position_Value">仓位总价值</string>
+	<string name="Total_Realized_PnL">总盈亏</string>
 	<string name="Total_Supply">总量</string>
 	<string name="Touch_the_fingerprint_sensor">触摸指纹传感器</string>
 	<string name="Trade">交易</string>

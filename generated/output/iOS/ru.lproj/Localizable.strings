@@ -1619,6 +1619,8 @@
 "total" = "Total";
 "total_amount" = "Total Amount";
 "total_balance" = "Total Balance";
+"total_position_value" = "Total Position Value";
+"total_realized_pnl" = "Total Realized PnL";
 "total_supply" = "Total Supply";
 "touch_id" = "Сенсорный идентификатор";
 "track_not_found" = "Трек не найден";
