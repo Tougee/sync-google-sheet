@@ -1101,7 +1101,6 @@
 "order_type" = "訂單類型";
 "order_type_limit" = "限價";
 "order_type_swap" = "閃兑";
-"order_value" = "訂單價值";
 "orders" = "訂單";
 "other" = "其他";
 "overview" = "具體説明";
@@ -1200,6 +1199,7 @@
 "position" = "倉位";
 "position_closed" = "倉位已關閉";
 "position_opened" = "倉位已打開";
+"position_size" = "規模";
 "position_value" = "倉位價值";
 "positions" = "倉位";
 "positions_count" = "倉位(%d)";

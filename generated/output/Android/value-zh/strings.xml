@@ -1273,7 +1273,6 @@
 	<string name="order_type">订单类型</string>
 	<string name="order_type_limit">限价</string>
 	<string name="order_type_swap">闪兑</string>
-	<string name="Order_Value">订单价值</string>
 	<string name="Orders">订单</string>
 	<string name="OTHER">其他</string>
 	<string name="Overview">具体说明</string>
@@ -1361,6 +1360,7 @@
 	<string name="Position">仓位</string>
 	<string name="Position_Closed">仓位已关闭</string>
 	<string name="Position_Opened">仓位已打开</string>
+	<string name="position_size">规模</string>
 	<string name="position_value">仓位价值</string>
 	<string name="Positions">仓位</string>
 	<string name="positions_count">仓位(%d)</string>

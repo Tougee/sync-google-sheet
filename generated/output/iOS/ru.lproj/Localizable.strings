@@ -1101,7 +1101,6 @@
 "order_type" = "Order Type";
 "order_type_limit" = "Limit";
 "order_type_swap" = "Swap";
-"order_value" = "Order Value";
 "orders" = "Orders";
 "other" = "Другой";
 "overview" = "Overview";
@@ -1200,6 +1199,7 @@
 "position" = "Position";
 "position_closed" = "Position Closed";
 "position_opened" = "Position Opened";
+"position_size" = "Size";
 "position_value" = "Position Value";
 "positions" = "Positions";
 "positions_count" = "Positions(%d)";

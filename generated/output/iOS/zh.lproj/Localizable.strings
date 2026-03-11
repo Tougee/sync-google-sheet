@@ -1101,7 +1101,6 @@
 "order_type" = "订单类型";
 "order_type_limit" = "限价";
 "order_type_swap" = "闪兑";
-"order_value" = "订单价值";
 "orders" = "订单";
 "other" = "其他";
 "overview" = "具体说明";
@@ -1200,6 +1199,7 @@
 "position" = "仓位";
 "position_closed" = "仓位已关闭";
 "position_opened" = "仓位已打开";
+"position_size" = "规模";
 "position_value" = "仓位价值";
 "positions" = "仓位";
 "positions_count" = "仓位(%d)";
