@@ -1014,7 +1014,6 @@
 	<string name="Link_desktop_failed">Link desktop failed</string>
 	<string name="Link_desktop_success">Link desktop success</string>
 	<string name="Links">Links</string>
-	<string name="Liquidation">Liquidation</string>
 	<string name="Liquidation_Price">Liquidation Price</string>
 	<string name="Live">Live</string>
 	<string name="live_permission">Mixin needs access to draw above other apps to play videos in Picture-in-Picture mode.</string>
@@ -1373,7 +1372,10 @@
 	<string name="PnL_Rules">PnL Rules:</string>
 	<string name="Position">Position</string>
 	<string name="Position_Closed">Position Closed</string>
+	<string name="position_closing_failed">Closing Failed</string>
 	<string name="Position_Opened">Position Opened</string>
+	<string name="position_opened_description">You have opened a position.</string>
+	<string name="position_opening_failed">Opening Failed</string>
 	<string name="position_size">Size</string>
 	<string name="position_value">Position Value</string>
 	<string name="Positions">Positions</string>

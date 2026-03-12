@@ -2501,7 +2501,6 @@
   <string name="Long" platform="android, iOS">做多</string>
   <string name="Short" platform="android, iOS">做空</string>
   <string name="Leverage" platform="android, iOS">槓桿</string>
-  <string name="Liquidation" platform="android, iOS">平倉</string>
   <string name="Overview" platform="android, iOS">具體說明</string>
   <string name="perps_intro_overview" platform="android, iOS">Mixin 永續合約是一種以數字資產結算的衍生品交易方式，支援做多和做空，無到期日。透過槓桿機制，交易者可以放大倉位，把握價格上漲或下跌帶來的交易機會。</string>
   <string name="Product_Features" platform="android, iOS">產品特點：</string>
@@ -2554,17 +2553,20 @@
   <string name="Direction" platform="android, iOS">方向</string>
   <string name="position_size" platform="android, iOS">規模</string>
   <string name="Entry_Price" platform="android, iOS">開倉價格</string>
-  <string name="Close_Price" platform="android, iOS">關倉價格</string>
+  <string name="Close_Price" platform="android, iOS">平倉價格</string>
   <string name="Liquidation_Price" platform="android, iOS">清算價格</string>
-  <string name="Close_Position" platform="android, iOS">關倉</string>
+  <string name="Close_Position" platform="android, iOS">平倉</string>
   <string name="Open_Interest" platform="android, iOS">未平倉合約</string>
   <string name="Funding_Rate" platform="android, iOS">資金利率</string>
   <string name="confirm_opening_position" platform="android, iOS">確認開倉</string>
-  <string name="confirm_closing_position" platform="android, iOS">確認關倉</string>
+  <string name="confirm_closing_position" platform="android, iOS">確認平倉</string>
   <string name="opening_position" platform="android, iOS">正在開倉</string>
-  <string name="closing_position" platform="android, iOS">正在關倉</string>
-  <string name="Position_Closed" platform="android, iOS">倉位已關閉</string>
-  <string name="Position_Opened" platform="android, iOS">倉位已開啟</string>
+  <string name="closing_position" platform="android, iOS">正在平倉</string>
+  <string name="Position_Closed" platform="android, iOS">平倉成功</string>
+  <string name="Position_Opened" platform="android, iOS">開倉成功</string>
+  <string name="position_opened_description" platform="android, iOS">您的開倉已成功。</string>
+  <string name="position_closing_failed" platform="android, iOS">平倉失敗</string>
+  <string name="position_opening_failed" platform="android, iOS">開倉失敗</string>
   <string name="long_asset" platform="android, iOS">做多 %s</string>
   <string name="short_asset" platform="android, iOS">做空 %s</string>
   <string name="Custom" platform="android, iOS">自定義</string>

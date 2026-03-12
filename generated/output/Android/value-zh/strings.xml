@@ -394,12 +394,12 @@
 	<string name="Click_to_retry">点击重试</string>
 	<string name="Click_to_unlock">点击解锁</string>
 	<string name="Close">关闭</string>
-	<string name="Close_Position">关仓</string>
-	<string name="Close_Price">关仓价格</string>
+	<string name="Close_Position">平仓</string>
+	<string name="Close_Price">平仓价格</string>
 	<string name="Closed_Long">历史多单</string>
 	<string name="Closed_Short">历史空单</string>
 	<string name="Closing_Balance">期末余额</string>
-	<string name="closing_position">正在关仓</string>
+	<string name="closing_position">正在平仓</string>
 	<string name="Collectible">藏品</string>
 	<string name="Collectible_Hash">藏品哈希</string>
 	<string name="collectible_not_found">藏品不存在</string>
@@ -424,7 +424,7 @@
 	<string name="Completed">已完成</string>
 	<string name="Confirm">确认</string>
 	<string name="Confirm_Adding_Address">添加地址确认</string>
-	<string name="confirm_closing_position">确认关仓</string>
+	<string name="confirm_closing_position">确认平仓</string>
 	<string name="Confirm_Deleting_Address">删除地址确认</string>
 	<string name="Confirm_Editing_Address">修改地址确认</string>
 	<string name="Confirm_fingerprint">确认指纹</string>
@@ -1002,7 +1002,6 @@
 	<string name="Link_desktop_failed">登录桌面端失败</string>
 	<string name="Link_desktop_success">登录桌面端成功</string>
 	<string name="Links">链接</string>
-	<string name="Liquidation">平仓</string>
 	<string name="Liquidation_Price">清算价格</string>
 	<string name="Live">直播</string>
 	<string name="live_permission">Mixin 需要使用出现在其它应用上的权限以在画中画模式中播放视频。</string>
@@ -1358,8 +1357,11 @@
 	<string name="pnl_rule_price_rise_profit">价格上涨：产生盈利</string>
 	<string name="PnL_Rules">盈亏规则：</string>
 	<string name="Position">仓位</string>
-	<string name="Position_Closed">仓位已关闭</string>
-	<string name="Position_Opened">仓位已打开</string>
+	<string name="Position_Closed">平仓成功</string>
+	<string name="position_closing_failed">平仓失败</string>
+	<string name="Position_Opened">开仓成功</string>
+	<string name="position_opened_description">您的开仓已成功。</string>
+	<string name="position_opening_failed">开仓失败</string>
 	<string name="position_size">规模</string>
 	<string name="position_value">仓位价值</string>
 	<string name="Positions">仓位</string>

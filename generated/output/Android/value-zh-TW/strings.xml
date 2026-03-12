@@ -394,12 +394,12 @@
 	<string name="Click_to_retry">點選重試</string>
 	<string name="Click_to_unlock">點選解鎖</string>
 	<string name="Close">關閉</string>
-	<string name="Close_Position">關倉</string>
-	<string name="Close_Price">關倉價格</string>
+	<string name="Close_Position">平倉</string>
+	<string name="Close_Price">平倉價格</string>
 	<string name="Closed_Long">歷史多單</string>
 	<string name="Closed_Short">歷史空單</string>
 	<string name="Closing_Balance">期末餘額</string>
-	<string name="closing_position">正在關倉</string>
+	<string name="closing_position">正在平倉</string>
 	<string name="Collectible">藏品</string>
 	<string name="Collectible_Hash">藏品雜湊</string>
 	<string name="collectible_not_found">藏品不存在</string>
@@ -424,7 +424,7 @@
 	<string name="Completed">已完成</string>
 	<string name="Confirm">確認</string>
 	<string name="Confirm_Adding_Address">新增地址確認</string>
-	<string name="confirm_closing_position">確認關倉</string>
+	<string name="confirm_closing_position">確認平倉</string>
 	<string name="Confirm_Deleting_Address">刪除地址確認</string>
 	<string name="Confirm_Editing_Address">修改地址確認</string>
 	<string name="Confirm_fingerprint">確認指紋</string>
@@ -1002,7 +1002,6 @@
 	<string name="Link_desktop_failed">登入桌面端失敗</string>
 	<string name="Link_desktop_success">登入桌面端成功</string>
 	<string name="Links">連結</string>
-	<string name="Liquidation">平倉</string>
 	<string name="Liquidation_Price">清算價格</string>
 	<string name="Live">直播</string>
 	<string name="live_permission">Mixin 需要使用出現在其它應用上的許可權以在畫中畫模式中播放影片。</string>
@@ -1358,8 +1357,11 @@
 	<string name="pnl_rule_price_rise_profit">價格上漲：產生盈利</string>
 	<string name="PnL_Rules">盈虧規則：</string>
 	<string name="Position">倉位</string>
-	<string name="Position_Closed">倉位已關閉</string>
-	<string name="Position_Opened">倉位已開啟</string>
+	<string name="Position_Closed">平倉成功</string>
+	<string name="position_closing_failed">平倉失敗</string>
+	<string name="Position_Opened">開倉成功</string>
+	<string name="position_opened_description">您的開倉已成功。</string>
+	<string name="position_opening_failed">開倉失敗</string>
 	<string name="position_size">規模</string>
 	<string name="position_value">倉位價值</string>
 	<string name="Positions">倉位</string>
