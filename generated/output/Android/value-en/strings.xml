@@ -1398,6 +1398,7 @@
 	<string name="price_decrease_invalid">The price decrease must be greater than %1$s and less than %2$s</string>
 	<string name="price_expired">Price Expired</string>
 	<string name="price_fall_loss">Price decrease %s → Loss %s</string>
+	<string name="price_fall_loss_all">Price decrease %s → Loss all</string>
 	<string name="price_fall_profit">Price decrease %s → Gain %s</string>
 	<string name="price_fall_profit_value">Price decrease %s → Gain %s (%s)</string>
 	<string name="price_in_currency">Price (%1$s)</string>
@@ -1405,6 +1406,7 @@
 	<string name="price_must_greater_than_current">The set price must be greater than the current price</string>
 	<string name="price_must_less_than_current">The set price must be less than the current price</string>
 	<string name="price_rise_loss">Price increase %s → Loss %s</string>
+	<string name="price_rise_loss_all">Price increase %s → Loss all</string>
 	<string name="price_rise_profit">Price increase %s → Gain %s</string>
 	<string name="price_rise_profit_value">Price increase %s → Gain %s (%s)</string>
 	<string name="price_too_large">The set price must be less than %1$s times the current price</string>

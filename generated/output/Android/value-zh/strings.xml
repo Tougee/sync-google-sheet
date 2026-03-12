@@ -1384,6 +1384,7 @@
 	<string name="price_decrease_invalid">跌幅需大于 %1$s 且小于 %2$s</string>
 	<string name="price_expired">报价已过期</string>
 	<string name="price_fall_loss">价格上涨 %s → 亏损 %s</string>
+	<string name="price_fall_loss_all">价格上涨 %s → 亏损全部</string>
 	<string name="price_fall_profit">价格下跌 %s → 盈利 %s</string>
 	<string name="price_fall_profit_value">价格下跌 %s → 盈利 %s（%s）</string>
 	<string name="price_in_currency">价格（%1$s）</string>
@@ -1391,6 +1392,7 @@
 	<string name="price_must_greater_than_current">设定价格需大于现价</string>
 	<string name="price_must_less_than_current">设定价格需小于现价</string>
 	<string name="price_rise_loss">价格下跌 %s → 亏损 %s</string>
+	<string name="price_rise_loss_all">价格下跌 %s → 亏损全部</string>
 	<string name="price_rise_profit">价格上涨 %s → 盈利 %s</string>
 	<string name="price_rise_profit_value">价格上涨 %s → 盈利 %s（%s）</string>
 	<string name="price_too_large">设定价格需小于现价的 %1$s 倍</string>
