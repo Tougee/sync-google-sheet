@@ -2583,7 +2583,7 @@
   <string name="price_fall_profit" platform="android, iOS">價格下跌 %s → 盈利 %s</string>
   <string name="price_rise_loss" platform="android, iOS">價格下跌 %s → 虧損 %s</string>
   <string name="price_fall_loss" platform="android, iOS">價格上漲 %s → 虧損 %s</string>
-  <string name="amount_isolated" platform="android, iOS">保證金（逐倉）</string>
+  <string name="margin_isolated" platform="android, iOS">保證金（逐倉）</string>
   <string name="Estimated_Liquidation_Price" platform="android, iOS">預估清算價格</string>
   <string name="how_perps_works" platform="android, iOS">永續合約是什麼？</string>
   <string name="learn_how_to_trade_perps" platform="android, iOS">瞭解如何交易永續合約</string>

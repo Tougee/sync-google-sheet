@@ -2583,7 +2583,7 @@
   <string name="price_fall_profit" platform="android, iOS">价格下跌 %s → 盈利 %s</string>
   <string name="price_rise_loss" platform="android, iOS">价格下跌 %s → 亏损 %s</string>
   <string name="price_fall_loss" platform="android, iOS">价格上涨 %s → 亏损 %s</string>
-  <string name="amount_isolated" platform="android, iOS">保证金（逐仓）</string>
+  <string name="margin_isolated" platform="android, iOS">保证金（逐仓）</string>
   <string name="Estimated_Liquidation_Price" platform="android, iOS">预估清算价格</string>
   <string name="how_perps_works" platform="android, iOS">永续合约是什么？</string>
   <string name="learn_how_to_trade_perps" platform="android, iOS">了解如何交易永续合约</string>
