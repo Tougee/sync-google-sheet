@@ -2605,7 +2605,9 @@
   <string name="price_rise_profit" platform="android, iOS">Price increase %s → Gain %s</string>
   <string name="price_fall_profit" platform="android, iOS">Price decrease %s → Gain %s</string>
   <string name="price_rise_loss" platform="android, iOS">Price increase %s → Loss %s</string>
+  <string name="price_rise_loss_all" platform="android, iOS">Price increase %s → Loss all</string>
   <string name="price_fall_loss" platform="android, iOS">Price decrease %s → Loss %s</string>
+  <string name="price_fall_loss_all" platform="android, iOS">Price decrease %s → Loss all</string>
   <string name="margin_isolated" platform="android, iOS">Margin (Isolated)</string>
   <string name="Estimated_Liquidation_Price" platform="android, iOS">Estimated Liquidation Price</string>
   <string name="how_perps_works" platform="android, iOS">How perps works?</string>
