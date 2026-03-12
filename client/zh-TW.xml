@@ -2558,7 +2558,7 @@
   <string name="Liquidation_Price" platform="android, iOS">清算價格</string>
   <string name="Close_Position" platform="android, iOS">平倉</string>
   <string name="Open_Interest" platform="android, iOS">未平倉合約</string>
-  <string name="Funding_Rate" platform="android, iOS">資金利率</string>
+  <string name="Funding_Rate" platform="android, iOS">資金費率</string>
   <string name="confirm_opening_position" platform="android, iOS">確認開倉</string>
   <string name="confirm_closing_position" platform="android, iOS">確認平倉</string>
   <string name="opening_position" platform="android, iOS">正在開倉</string>
@@ -2589,4 +2589,5 @@
   <string name="learn_how_to_trade_perps" platform="android, iOS">瞭解如何交易永續合約</string>
   <string name="Total_Position_Value" platform="android, iOS">倉位總價值</string>
   <string name="Total_Realized_PnL" platform="android, iOS">總盈虧</string>
+  <string name="Margin" platform="android, iOS">保證金</string>
 </resources>

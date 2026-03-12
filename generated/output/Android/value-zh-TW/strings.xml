@@ -847,7 +847,7 @@
 	<string name="From_Address">從外部轉入</string>
 	<string name="from_date">自%1$s</string>
 	<string name="From_Mixin_Wallet">從 Mixin 錢包轉入</string>
-	<string name="Funding_Rate">資金利率</string>
+	<string name="Funding_Rate">資金費率</string>
 	<string name="Generating_keys">正在建立金鑰…</string>
 	<string name="Global_Market_Cap">全球總市值</string>
 	<string name="Go">導航</string>
@@ -1045,6 +1045,7 @@
 	<string name="Manage_your_circles">管理你所有的圈子</string>
 	<string name="Manager_Sticker">管理貼紙</string>
 	<string name="Manufacturer">生產商</string>
+	<string name="Margin">保證金</string>
 	<string name="Mark_as_read">標記為已讀</string>
 	<string name="Market">行情</string>
 	<string name="Market_Cap">市值</string>
