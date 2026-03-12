@@ -2524,7 +2524,6 @@
   <string name="Long" platform="android, iOS">Long</string>
   <string name="Short" platform="android, iOS">Short</string>
   <string name="Leverage" platform="android, iOS">Leverage</string>
-  <string name="Liquidation" platform="android, iOS">Liquidation</string>
   <string name="Overview" platform="android, iOS">Overview</string>
   <string name="perps_intro_overview" platform="android, iOS">Mixin Perpetual Futures are a type of derivatives trading settled in digital assets. They allow traders to go long or short with no expiration date. Through leverage, traders can amplify their position size and capture opportunities from both rising and falling market prices.</string>
   <string name="Product_Features" platform="android, iOS">Product Features:</string>
@@ -2588,6 +2587,9 @@
   <string name="closing_position" platform="android, iOS">Closing Position</string>
   <string name="Position_Closed" platform="android, iOS">Position Closed</string>
   <string name="Position_Opened" platform="android, iOS">Position Opened</string>
+  <string name="position_opened_description" platform="android, iOS">You have opened a position.</string>
+  <string name="position_closing_failed" platform="android, iOS">Closing Failed</string>
+  <string name="position_opening_failed" platform="android, iOS">Opening Failed</string>
   <string name="long_asset" platform="android, iOS">Long %s</string>
   <string name="short_asset" platform="android, iOS">Short %s</string>
   <string name="Custom" platform="android, iOS">Custom</string>
