@@ -618,6 +618,7 @@
   <string name="error_invalid_quote_amount_detailed" platform="android, iOS">ERROR 10614: The amount exceeds the maximum allowable value of %1$s. Please adjust the amount. Try placing a limit order? No restrictions on amount or token.</string>
   <string name="error_trading_pair_not_supported" platform="android, iOS">ERROR 10615: This trading pair is currently not supported, please try switching to a different token.</string>
   <string name="error_trading_pair_not_supported_detailed" platform="android,iOS">ERROR 10615: This trading pair is not supported yet. Please try switching to a different token. Try placing a limit order? No restrictions on amount or token.</string>
+  <string name="error_already_had_open_position" platform="android,iOS">ERROR 10651: You already had a open position</string>
   <string name="error_permission" platform="android, Desktop">Please open the necessary permissions</string>
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">ERROR 20110: Invalid mobile number</string>
   <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">ERROR 10003: Failed to deliver SMS</string>

@@ -613,6 +613,7 @@
   <string name="error_invalid_quote_amount_detailed" platform="android, iOS">错误 10614: 金额超出最大下单金额 %1$s，请重新输入。试试专业模式？不受金额和币种限制。</string>
   <string name="error_trading_pair_not_supported" platform="android, iOS">错误 10615: 暂不支持该交易对，请尝试切换币种。</string>
   <string name="error_trading_pair_not_supported_detailed" platform="android,iOS">错误 10615: 暂不支持该交易对，请尝试切换币种。试试专业模式？不受金额和币种限制。</string>
+  <string name="error_already_had_open_position" platform="android,iOS">错误 10651：当前已有持仓</string>
   <string name="error_permission" platform="android, Desktop">请开启相关权限</string>
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">错误 20110：手机号码不合法</string>
   <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">错误 10003：发送短信失败</string>
