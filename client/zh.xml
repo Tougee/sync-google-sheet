@@ -2563,6 +2563,7 @@
   <string name="opening_position" platform="android, iOS">正在开仓</string>
   <string name="closing_position" platform="android, iOS">正在平仓</string>
   <string name="Position_Closed" platform="android, iOS">平仓成功</string>
+  <string name="position_closed_description" platform="android, iOS">您的平仓已成功。</string>
   <string name="Position_Opened" platform="android, iOS">开仓成功</string>
   <string name="position_opened_description" platform="android, iOS">您的开仓已成功。</string>
   <string name="position_closing_failed" platform="android, iOS">平仓失败</string>

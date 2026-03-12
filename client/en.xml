@@ -2586,6 +2586,7 @@
   <string name="opening_position" platform="android, iOS">Opening Position</string>
   <string name="closing_position" platform="android, iOS">Closing Position</string>
   <string name="Position_Closed" platform="android, iOS">Position Closed</string>
+  <string name="position_closed_description" platform="android, iOS">You have closed a position.</string>
   <string name="Position_Opened" platform="android, iOS">Position Opened</string>
   <string name="position_opened_description" platform="android, iOS">You have opened a position.</string>
   <string name="position_closing_failed" platform="android, iOS">Closing Failed</string>
