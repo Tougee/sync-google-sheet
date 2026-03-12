@@ -176,7 +176,6 @@
 	<string name="Alphabetical">按字母順序</string>
 	<string name="Amount">金額</string>
 	<string name="amount_descending">價值降序</string>
-	<string name="amount_isolated">保證金（逐倉）</string>
 	<string name="an_audio">一條語音</string>
 	<string name="Anonymous">匿名</string>
 	<string name="Anonymous_Number">匿名號碼</string>
@@ -1046,6 +1045,7 @@
 	<string name="Manager_Sticker">管理貼紙</string>
 	<string name="Manufacturer">生產商</string>
 	<string name="Margin">保證金</string>
+	<string name="margin_isolated">保證金（逐倉）</string>
 	<string name="Mark_as_read">標記為已讀</string>
 	<string name="Market">行情</string>
 	<string name="Market_Cap">市值</string>

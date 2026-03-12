@@ -176,7 +176,6 @@
 	<string name="Alphabetical">Alphabetical</string>
 	<string name="Amount">Amount</string>
 	<string name="amount_descending">Amount Descending</string>
-	<string name="amount_isolated">Amount (Isolated)</string>
 	<string name="an_audio">an audio</string>
 	<string name="Anonymous">Anonymous</string>
 	<string name="Anonymous_Number">Anonymous Number</string>
@@ -1059,6 +1058,7 @@
 	<string name="Manager_Sticker">Manager Sticker</string>
 	<string name="Manufacturer">Manufacturer</string>
 	<string name="Margin">Margin</string>
+	<string name="margin_isolated">Margin (Isolated)</string>
 	<string name="Mark_as_read">Mark as read</string>
 	<string name="Market">Market</string>
 	<string name="Market_Cap">Market Cap</string>
