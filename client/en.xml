@@ -2612,4 +2612,5 @@
   <string name="learn_how_to_trade_perps" platform="android, iOS">Learn how to trade perps</string>
   <string name="Total_Position_Value" platform="android, iOS">Total Position Value</string>
   <string name="Total_Realized_PnL" platform="android, iOS">Total Realized PnL</string>
+  <string name="Margin" platform="android, iOS">Margin</string>
 </resources>
