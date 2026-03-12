@@ -674,6 +674,7 @@
 	<string name="error_address_exists">地址不存在，请确保地址是否添加成功</string>
 	<string name="error_address_not_sync">地址刷新失败，请重试</string>
 	<string name="error_already_bonded_referral_code">错误 10731：当前账号已绑定邀请码，无法修改绑定。</string>
+	<string name="error_already_had_open_position">错误 10651：当前已有持仓</string>
 	<string name="error_authentication">错误 401：请重新登录</string>
 	<string name="error_bad_data">错误 10002：请求数据不合法</string>
 	<string name="error_blockchain">错误 30100：区块链同步异常，请稍后重试</string>
@@ -1358,6 +1359,7 @@
 	<string name="PnL_Rules">盈亏规则：</string>
 	<string name="Position">仓位</string>
 	<string name="Position_Closed">平仓成功</string>
+	<string name="position_closed_description">您的平仓已成功。</string>
 	<string name="position_closing_failed">平仓失败</string>
 	<string name="Position_Opened">开仓成功</string>
 	<string name="position_opened_description">您的开仓已成功。</string>

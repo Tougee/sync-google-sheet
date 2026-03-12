@@ -680,6 +680,7 @@
 	<string name="error_address_exists">The address does not exist, please make sure that the address is added successfully</string>
 	<string name="error_address_not_sync">Address refresh failed, please try again</string>
 	<string name="error_already_bonded_referral_code">ERROR 10731: This account has already applied a referral code</string>
+	<string name="error_already_had_open_position">ERROR 10651: You already had a open position</string>
 	<string name="error_authentication">ERROR 401: Sign in to continue</string>
 	<string name="error_bad_data">ERROR 10002: The request data has invalid field</string>
 	<string name="error_blockchain">ERROR 30100: Blockchain not in sync, please try again later.</string>
@@ -1372,6 +1373,7 @@
 	<string name="PnL_Rules">PnL Rules:</string>
 	<string name="Position">Position</string>
 	<string name="Position_Closed">Position Closed</string>
+	<string name="position_closed_description">You have closed a position.</string>
 	<string name="position_closing_failed">Closing Failed</string>
 	<string name="Position_Opened">Position Opened</string>
 	<string name="position_opened_description">You have opened a position.</string>

@@ -613,6 +613,7 @@
   <string name="error_invalid_quote_amount_detailed" platform="android, iOS">錯誤 10614: 金額超出最大下單金額 %1$s，請重新輸入。試試專業模式？不受金額和幣種限制。</string>
   <string name="error_trading_pair_not_supported" platform="android, iOS">錯誤 10615: 暫不支援該交易對，請嘗試切換幣種。</string>
   <string name="error_trading_pair_not_supported_detailed" platform="android,iOS">錯誤 10615: 暫不支援該交易對，請嘗試切換幣種。試試專業模式？不受金額和幣種限制。</string>
+  <string name="error_already_had_open_position" platform="android,iOS">錯誤 10651：當前已有持倉</string>
   <string name="error_permission" platform="android, Desktop">請開啟相關許可權</string>
   <string name="error_phone_invalid_format" platform="android, iOS, Desktop">錯誤 20110：手機號碼不合法</string>
   <string name="error_phone_sms_delivery" platform="android, iOS, Desktop">錯誤 10003：傳送簡訊失敗</string>
@@ -2563,6 +2564,7 @@
   <string name="opening_position" platform="android, iOS">正在開倉</string>
   <string name="closing_position" platform="android, iOS">正在平倉</string>
   <string name="Position_Closed" platform="android, iOS">平倉成功</string>
+  <string name="position_closed_description" platform="android, iOS">您的平倉已成功。</string>
   <string name="Position_Opened" platform="android, iOS">開倉成功</string>
   <string name="position_opened_description" platform="android, iOS">您的開倉已成功。</string>
   <string name="position_closing_failed" platform="android, iOS">平倉失敗</string>
