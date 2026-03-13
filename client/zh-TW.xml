@@ -2549,7 +2549,6 @@
   <string name="perps_position_purpose_2" platform="android, iOS">抵扣浮動虧損</string>
   <string name="perps_position_risk_1" platform="android, iOS">當投入資金不足以支撐當前倉位時，倉位將被系統強制平倉。</string>
   <string name="perps_position_risk_2" platform="android, iOS">價格劇烈波動可能會快速消耗投入資金。</string>
-  <string name="All_Markets" platform="android, iOS">全部合約</string>
   <string name="Open_Position" platform="android, iOS">開倉</string>
   <string name="Direction" platform="android, iOS">方向</string>
   <string name="position_size" platform="android, iOS">規模</string>
