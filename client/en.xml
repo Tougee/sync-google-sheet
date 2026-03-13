@@ -2615,4 +2615,6 @@
   <string name="Total_Position_Value" platform="android, iOS">Total Position Value</string>
   <string name="Total_Realized_PnL" platform="android, iOS">Total Realized PnL</string>
   <string name="Margin" platform="android, iOS">Margin</string>
+  <string name="perps_markets" platform="android, iOS">Markets</string>
+  <string name="perps_all_markets" platform="android, iOS">All Markets</string>
 </resources>
