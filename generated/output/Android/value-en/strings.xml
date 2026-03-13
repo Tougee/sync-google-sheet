@@ -1323,6 +1323,7 @@
 	<string name="Perpetual">Perpetual</string>
 	<string name="Perpetual_Futures">Perpetual Futures</string>
 	<string name="perps_activity">Activity</string>
+	<string name="perps_all_markets">All Markets</string>
 	<string name="perps_intro_overview">Mixin Perpetual Futures are a type of derivatives trading settled in digital assets. They allow traders to go long or short with no expiration date. Through leverage, traders can amplify their position size and capture opportunities from both rising and falling market prices.</string>
 	<string name="perps_intro_risk_notice_1">Leveraged trading amplifies both profits and losses</string>
 	<string name="perps_intro_risk_notice_2">Positions may be forcibly liquidated if margin becomes insufficient</string>
@@ -1330,6 +1331,7 @@
 	<string name="perps_leverage_overview">Leverage allows you to amplify your trading position, enabling you to control a larger contract size with a smaller amount of margin.</string>
 	<string name="perps_leverage_risk_notice">Please choose your leverage carefully. With high leverage, even small price fluctuations may result in significant losses.</string>
 	<string name="perps_long_overview">Going Long means opening a position when you expect the price to rise. If the price increases, you make a profit; if the price decreases, you incur a loss.</string>
+	<string name="perps_markets">Markets</string>
 	<string name="perps_position_overview">Margin represents the actual trading value supporting your current position, calculated as Margin × Leverage.</string>
 	<string name="perps_position_purpose_1">Supports the current position</string>
 	<string name="perps_position_purpose_2">Offsets unrealized losses</string>

@@ -2592,4 +2592,6 @@
   <string name="Total_Position_Value" platform="android, iOS">倉位總價值</string>
   <string name="Total_Realized_PnL" platform="android, iOS">總盈虧</string>
   <string name="Margin" platform="android, iOS">保證金</string>
+  <string name="perps_markets" platform="android, iOS">市場</string>
+  <string name="perps_all_markets" platform="android, iOS">市場總覽</string>
 </resources>
