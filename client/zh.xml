@@ -2549,7 +2549,6 @@
   <string name="perps_position_purpose_2" platform="android, iOS">抵扣浮动亏损</string>
   <string name="perps_position_risk_1" platform="android, iOS">当投入资金不足以支撑当前仓位时，仓位将被系统强制平仓。</string>
   <string name="perps_position_risk_2" platform="android, iOS">价格剧烈波动可能会快速消耗投入资金。</string>
-  <string name="All_Markets" platform="android, iOS">全部合约</string>
   <string name="Open_Position" platform="android, iOS">开仓</string>
   <string name="Direction" platform="android, iOS">方向</string>
   <string name="position_size" platform="android, iOS">规模</string>

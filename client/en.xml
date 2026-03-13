@@ -2572,7 +2572,6 @@
   <string name="perps_position_purpose_2" platform="android, iOS">Offsets unrealized losses</string>
   <string name="perps_position_risk_1" platform="android, iOS">If the margin becomes insufficient to support the position, it may be forcibly liquidated by the system.</string>
   <string name="perps_position_risk_2" platform="android, iOS">Sharp price fluctuations may quickly consume the margin.</string>
-  <string name="All_Markets" platform="android, iOS">All Markets</string>
   <string name="Open_Position" platform="android, iOS">Open Position</string>
   <string name="Direction" platform="android, iOS">Direction</string>
   <string name="position_size" platform="android, iOS">Size</string>
