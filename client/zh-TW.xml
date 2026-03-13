@@ -2495,7 +2495,7 @@
   <string name="import_wallet_guide_footer" platform="android, iOS">建立 Mixin 賬號後，將預設生成一個隱私錢包，您的餘額、轉賬、交易等功能都會預設受到隱私保護，檢視檔案瞭解更多。</string>
   <string name="sign_up_15_secs" platform="android, iOS">15 秒完成註冊</string>
   <string name="Account_Creation_Failed" platform="android, iOS">建立賬號失敗</string>
-  <string name="Sign_in_Failed" platform="android, iOS">登入失敗</string>
+  <string name="Sign_in_Failed" platform="android">登入失敗</string>
   <string name="Perpetual" platform="android, iOS">永續合約</string>
   <string name="Perpetual_Futures" platform="android, iOS">永續合約</string>
   <string name="Brief_Introduction" platform="android, iOS">簡介</string>

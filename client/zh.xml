@@ -2495,7 +2495,7 @@
   <string name="import_wallet_guide_footer" platform="android, iOS">创建 Mixin 账号后，将默认生成一个隐私钱包，您的余额、转账、交易等功能都会默认受到隐私保护，查看文档了解更多。</string>
   <string name="sign_up_15_secs" platform="android, iOS">15 秒完成注册</string>
   <string name="Account_Creation_Failed" platform="android, iOS">创建账号失败</string>
-  <string name="Sign_in_Failed" platform="android, iOS">登录失败</string>
+  <string name="Sign_in_Failed" platform="android">登录失败</string>
   <string name="Perpetual" platform="android, iOS">永续合约</string>
   <string name="Perpetual_Futures" platform="android, iOS">永续合约</string>
   <string name="Brief_Introduction" platform="android, iOS">简介</string>
