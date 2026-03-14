@@ -1793,6 +1793,7 @@
 "voice_call_has_been_declined" = "已拒絕通話";
 "vol_24h" = "24 小時交易量";
 "volume_24h" = "24 小時交易量";
+"volume_label" = "交易量：";
 "waiting" = "等待中";
 "waiting_for_other_device" = "等待其他裝置...";
 "waiting_for_other_device_login" = "在新裝置上登入當前賬號並選擇從其他手機恢復";

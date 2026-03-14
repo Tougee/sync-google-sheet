@@ -2057,6 +2057,7 @@
 	<string name="Voice_call">Voice call</string>
 	<string name="vol_24h">24H VOL</string>
 	<string name="volume_24h">24h Volume</string>
+	<string name="volume_label">VOL: </string>
 	<string name="Waiting">Waiting</string>
 	<string name="Waiting_for_Other_Device">Waiting for Other Device…</string>
 	<string name="Waiting_for_Other_Device_Login">Log in to your current account on the new device and select the option to restore from another phone.</string>

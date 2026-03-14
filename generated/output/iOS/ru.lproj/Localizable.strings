@@ -1793,6 +1793,7 @@
 "voice_call_has_been_declined" = "Голосовой вызов был отклонен";
 "vol_24h" = "24H VOL";
 "volume_24h" = "24h Volume";
+"volume_label" = "VOL: ";
 "waiting" = "Ожидание";
 "waiting_for_other_device" = "Waiting for Other Device...";
 "waiting_for_other_device_login" = "Log in to your current account on the new device and select the option to restore from another phone.";

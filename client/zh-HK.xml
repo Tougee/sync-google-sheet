@@ -2592,4 +2592,5 @@
   <string name="Total_Realized_PnL" platform="android, iOS">總盈虧</string>
   <string name="Margin" platform="android, iOS">保證金</string>
   <string name="perps_markets" platform="android, iOS">市場</string>
+  <string name="volume_label" platform="android, iOS">交易量：</string>
 </resources>

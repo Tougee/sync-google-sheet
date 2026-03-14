@@ -2040,6 +2040,7 @@
 	<string name="Voice_call">語音通話</string>
 	<string name="vol_24h">24 小時交易量</string>
 	<string name="volume_24h">24 小時交易量</string>
+	<string name="volume_label">交易量：</string>
 	<string name="Waiting">等待中</string>
 	<string name="Waiting_for_Other_Device">等待其他設備…</string>
 	<string name="Waiting_for_Other_Device_Login">在新設備上登錄當前賬號並選擇從其他手機恢復</string>
