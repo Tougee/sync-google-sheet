@@ -2568,22 +2568,22 @@
   <string name="position_opened_description" platform="android, iOS">您的开仓已成功。</string>
   <string name="position_closing_failed" platform="android, iOS">平仓失败</string>
   <string name="position_opening_failed" platform="android, iOS">开仓失败</string>
-  <string name="long_asset" platform="android, iOS">做多 %s</string>
-  <string name="short_asset" platform="android, iOS">做空 %s</string>
+  <string name="long_asset" platform="android, iOS">做多 %1$s</string>
+  <string name="short_asset" platform="android, iOS">做空 %1$s</string>
   <string name="Custom" platform="android, iOS">自定义</string>
   <string name="No_Position" platform="android, iOS">暂无仓位</string>
   <string name="Opened_Long" platform="android, iOS">持有多单</string>
   <string name="Opened_Short" platform="android, iOS">持有空单</string>
   <string name="Closed_Long" platform="android, iOS">历史多单</string>
   <string name="Closed_Short" platform="android, iOS">历史空单</string>
-  <string name="price_rise_profit_value" platform="android, iOS">价格上涨 %s → 盈利 %s（%s）</string>
-  <string name="price_fall_profit_value" platform="android, iOS">价格下跌 %s → 盈利 %s（%s）</string>
-  <string name="price_rise_profit" platform="android, iOS">价格上涨 %s → 盈利 %s</string>
-  <string name="price_fall_profit" platform="android, iOS">价格下跌 %s → 盈利 %s</string>
-  <string name="price_rise_loss" platform="android, iOS">价格下跌 %s → 亏损 %s</string>
-  <string name="price_rise_loss_all" platform="android, iOS">价格下跌 %s → 亏损全部</string>
-  <string name="price_fall_loss" platform="android, iOS">价格上涨 %s → 亏损 %s</string>
-  <string name="price_fall_loss_all" platform="android, iOS">价格上涨 %s → 亏损全部</string>
+  <string name="price_rise_profit_value" platform="android, iOS">价格上涨 %1$s → 盈利 %2$s（%3$s）</string>
+  <string name="price_fall_profit_value" platform="android, iOS">价格下跌 %1$s → 盈利 %2$s（%3$s）</string>
+  <string name="price_rise_profit" platform="android, iOS">价格上涨 %1$s → 盈利 %2$s</string>
+  <string name="price_fall_profit" platform="android, iOS">价格下跌 %1$s → 盈利 %2$s</string>
+  <string name="price_rise_loss" platform="android, iOS">价格下跌 %1$s → 亏损 %2$s</string>
+  <string name="price_rise_loss_all" platform="android, iOS">价格下跌 %1$s → 亏损全部</string>
+  <string name="price_fall_loss" platform="android, iOS">价格上涨 %1$s → 亏损 %2$s</string>
+  <string name="price_fall_loss_all" platform="android, iOS">价格上涨 %1$s → 亏损全部</string>
   <string name="margin_isolated" platform="android, iOS">保证金（逐仓）</string>
   <string name="Estimated_Liquidation_Price" platform="android, iOS">预估清算价格</string>
   <string name="how_perps_works" platform="android, iOS">永续合约是什么？</string>
@@ -2592,5 +2592,5 @@
   <string name="Total_Realized_PnL" platform="android, iOS">总盈亏</string>
   <string name="Margin" platform="android, iOS">保证金</string>
   <string name="perps_markets" platform="android, iOS">市场</string>
-  <string name="volume_label" platform="android, iOS">交易量：</string>
+  <string name="volume_label" platform="android, iOS">交易量：%1$s</string>
 </resources>

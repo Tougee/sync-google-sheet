@@ -2591,22 +2591,22 @@
   <string name="position_opened_description" platform="android, iOS">You have opened a position.</string>
   <string name="position_closing_failed" platform="android, iOS">Closing Failed</string>
   <string name="position_opening_failed" platform="android, iOS">Opening Failed</string>
-  <string name="long_asset" platform="android, iOS">Long %s</string>
-  <string name="short_asset" platform="android, iOS">Short %s</string>
+  <string name="long_asset" platform="android, iOS">Long %1$s</string>
+  <string name="short_asset" platform="android, iOS">Short %1$s</string>
   <string name="Custom" platform="android, iOS">Custom</string>
   <string name="No_Position" platform="android, iOS">No Position</string>
   <string name="Opened_Long" platform="android, iOS">Opened Long</string>
   <string name="Opened_Short" platform="android, iOS">Opened Short</string>
   <string name="Closed_Long" platform="android, iOS">Closed Long</string>
   <string name="Closed_Short" platform="android, iOS">Closed Short</string>
-  <string name="price_rise_profit_value" platform="android, iOS">Price increase %s → Gain %s (%s)</string>
-  <string name="price_fall_profit_value" platform="android, iOS">Price decrease %s → Gain %s (%s)</string>
-  <string name="price_rise_profit" platform="android, iOS">Price increase %s → Gain %s</string>
-  <string name="price_fall_profit" platform="android, iOS">Price decrease %s → Gain %s</string>
-  <string name="price_rise_loss" platform="android, iOS">Price increase %s → Loss %s</string>
-  <string name="price_rise_loss_all" platform="android, iOS">Price increase %s → Loss all</string>
-  <string name="price_fall_loss" platform="android, iOS">Price decrease %s → Loss %s</string>
-  <string name="price_fall_loss_all" platform="android, iOS">Price decrease %s → Loss all</string>
+  <string name="price_rise_profit_value" platform="android, iOS">Price increase %1$s → Gain %2$s (%3$s)</string>
+  <string name="price_fall_profit_value" platform="android, iOS">Price decrease %1$s → Gain %2$s (%3$s)</string>
+  <string name="price_rise_profit" platform="android, iOS">Price increase %1$s → Gain %2$s</string>
+  <string name="price_fall_profit" platform="android, iOS">Price decrease %1$s → Gain %2$s</string>
+  <string name="price_rise_loss" platform="android, iOS">Price increase %1$s → Loss %2$s</string>
+  <string name="price_rise_loss_all" platform="android, iOS">Price increase %1$s → Loss all</string>
+  <string name="price_fall_loss" platform="android, iOS">Price decrease %1$s → Loss %2$s</string>
+  <string name="price_fall_loss_all" platform="android, iOS">Price decrease %1$s → Loss all</string>
   <string name="margin_isolated" platform="android, iOS">Margin (Isolated)</string>
   <string name="Estimated_Liquidation_Price" platform="android, iOS">Estimated Liquidation Price</string>
   <string name="how_perps_works" platform="android, iOS">How perps works?</string>
@@ -2615,5 +2615,5 @@
   <string name="Total_Realized_PnL" platform="android, iOS">Total Realized PnL</string>
   <string name="Margin" platform="android, iOS">Margin</string>
   <string name="perps_markets" platform="android, iOS">Markets</string>
-  <string name="volume_label" platform="android, iOS">VOL: </string>
+  <string name="volume_label" platform="android, iOS">VOL: %1$s</string>
 </resources>
