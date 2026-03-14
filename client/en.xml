@@ -2615,4 +2615,5 @@
   <string name="Total_Realized_PnL" platform="android, iOS">Total Realized PnL</string>
   <string name="Margin" platform="android, iOS">Margin</string>
   <string name="perps_markets" platform="android, iOS">Markets</string>
+  <string name="volume_label" platform="android, iOS">VOL: </string>
 </resources>
