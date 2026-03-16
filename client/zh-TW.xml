@@ -2556,7 +2556,6 @@
   <string name="Close_Price" platform="android, iOS">平倉價格</string>
   <string name="Liquidation_Price" platform="android, iOS">清算價格</string>
   <string name="Close_Position" platform="android, iOS">平倉</string>
-  <string name="Open_Interest" platform="android, iOS">未平倉合約</string>
   <string name="Funding_Rate" platform="android, iOS">資金費率</string>
   <string name="confirm_opening_position" platform="android, iOS">確認開倉</string>
   <string name="confirm_closing_position" platform="android, iOS">確認平倉</string>
@@ -2593,4 +2592,5 @@
   <string name="Margin" platform="android, iOS">保證金</string>
   <string name="perps_markets" platform="android, iOS">市場</string>
   <string name="volume_label" platform="android, iOS">交易量：%1$s</string>
+  <string name="perps_current_price" platform="android, iOS">最新價格</string>
 </resources>

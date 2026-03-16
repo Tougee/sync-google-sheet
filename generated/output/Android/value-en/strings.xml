@@ -1267,7 +1267,6 @@
 	<string name="Open_Desktop_to_Confirm">Please open your Mixin desktop to confirm the operation.</string>
 	<string name="Open_Home_page">Open Home page</string>
 	<string name="Open_in_browser">Open in browser</string>
-	<string name="Open_Interest">Open Interest</string>
 	<string name="Open_Link">Open Link: %1$s</string>
 	<string name="open_orders_count">Open Orders (%d)</string>
 	<string name="Open_Position">Open Position</string>
@@ -1322,6 +1321,7 @@
 	<string name="Perpetual">Perpetual</string>
 	<string name="Perpetual_Futures">Perpetual Futures</string>
 	<string name="perps_activity">Activity</string>
+	<string name="perps_current_price">Current Price</string>
 	<string name="perps_intro_overview">Mixin Perpetual Futures are a type of derivatives trading settled in digital assets. They allow traders to go long or short with no expiration date. Through leverage, traders can amplify their position size and capture opportunities from both rising and falling market prices.</string>
 	<string name="perps_intro_risk_notice_1">Leveraged trading amplifies both profits and losses</string>
 	<string name="perps_intro_risk_notice_2">Positions may be forcibly liquidated if margin becomes insufficient</string>
