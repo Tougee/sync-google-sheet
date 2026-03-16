@@ -2579,7 +2579,6 @@
   <string name="Close_Price" platform="android, iOS">Close Price</string>
   <string name="Liquidation_Price" platform="android, iOS">Liquidation Price</string>
   <string name="Close_Position" platform="android, iOS">Close Position</string>
-  <string name="Open_Interest" platform="android, iOS">Open Interest</string>
   <string name="Funding_Rate" platform="android, iOS">Funding Rate</string>
   <string name="confirm_opening_position" platform="android, iOS">Confirm Opening</string>
   <string name="confirm_closing_position" platform="android, iOS">Confirm Closing</string>
@@ -2616,4 +2615,5 @@
   <string name="Margin" platform="android, iOS">Margin</string>
   <string name="perps_markets" platform="android, iOS">Markets</string>
   <string name="volume_label" platform="android, iOS">VOL: %1$s</string>
+  <string name="perps_current_price" platform="android, iOS">Current Price</string>
 </resources>
