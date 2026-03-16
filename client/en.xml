@@ -2594,6 +2594,7 @@
   <string name="short_asset" platform="android, iOS">Short %1$s</string>
   <string name="Custom" platform="android, iOS">Custom</string>
   <string name="No_Position" platform="android, iOS">No Position</string>
+  <string name="No_Activity" platform="android, iOS">No Activity</string>
   <string name="Opened_Long" platform="android, iOS">Opened Long</string>
   <string name="Opened_Short" platform="android, iOS">Opened Short</string>
   <string name="Closed_Long" platform="android, iOS">Closed Long</string>

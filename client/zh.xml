@@ -2571,6 +2571,7 @@
   <string name="short_asset" platform="android, iOS">做空 %1$s</string>
   <string name="Custom" platform="android, iOS">自定义</string>
   <string name="No_Position" platform="android, iOS">暂无仓位</string>
+  <string name="No_Activity" platform="android, iOS">暂无历史记录</string>
   <string name="Opened_Long" platform="android, iOS">持有多单</string>
   <string name="Opened_Short" platform="android, iOS">持有空单</string>
   <string name="Closed_Long" platform="android, iOS">历史多单</string>
