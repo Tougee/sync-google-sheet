@@ -2550,7 +2550,7 @@
   <string name="perps_position_risk_2" platform="android, iOS">價格劇烈波動可能會快速消耗投入資金。</string>
   <string name="Open_Position" platform="android, iOS">開倉</string>
   <string name="Direction" platform="android, iOS">方向</string>
-  <string name="position_size" platform="android, iOS">規模</string>
+  <string name="position_size" platform="android, iOS">倉位規模</string>
   <string name="Entry_Price" platform="android, iOS">開倉價格</string>
   <string name="Close_Price" platform="android, iOS">平倉價格</string>
   <string name="Liquidation_Price" platform="android, iOS">清算價格</string>

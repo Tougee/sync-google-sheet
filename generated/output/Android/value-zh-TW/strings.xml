@@ -1366,7 +1366,7 @@
 	<string name="Position_Opened">開倉成功</string>
 	<string name="position_opened_description">您的開倉已成功。</string>
 	<string name="position_opening_failed">開倉失敗</string>
-	<string name="position_size">規模</string>
+	<string name="position_size">倉位規模</string>
 	<string name="position_value">倉位價值</string>
 	<string name="Positions">倉位</string>
 	<string name="positions_count">倉位(%d)</string>
