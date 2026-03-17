@@ -2542,12 +2542,12 @@
   <string name="positions_count" platform="android, iOS">倉位(%d)</string>
   <string name="perps_activity" platform="android, iOS">歷史記錄</string>
   <string name="position_value" platform="android, iOS">倉位價值</string>
-  <string name="perps_position_overview" platform="android, iOS">當前合約持倉的實際交易價值，由「保證金 × 槓桿」決定。</string>
+  <string name="perps_position_size_overview" platform="android, iOS">當前合約的倉位規模由「投入資金 × 槓桿倍數」計算得出，表示本次交易所控制的資產規模。</string>
   <string name="Purpose" platform="android, iOS">用途：</string>
-  <string name="perps_position_purpose_1" platform="android, iOS">支撐當前倉位</string>
-  <string name="perps_position_purpose_2" platform="android, iOS">抵扣浮動虧損</string>
-  <string name="perps_position_risk_1" platform="android, iOS">當投入資金不足以支撐當前倉位時，倉位將被系統強制平倉。</string>
-  <string name="perps_position_risk_2" platform="android, iOS">價格劇烈波動可能會快速消耗投入資金。</string>
+  <string name="perps_position_size_purpose_1" platform="android, iOS">決定本次交易的市場敞口規模</string>
+  <string name="perps_position_size_purpose_2" platform="android, iOS">影響盈虧變化的放大倍數</string>
+  <string name="perps_position_size_risk_1" platform="android, iOS">當虧損接近已投入資金時，可能被系統強制平倉。</string>
+  <string name="perps_position_size_risk_2" platform="android, iOS">價格劇烈波動可能會快速消耗投入資金。</string>
   <string name="Open_Position" platform="android, iOS">開倉</string>
   <string name="Direction" platform="android, iOS">方向</string>
   <string name="position_size" platform="android, iOS">倉位規模</string>
