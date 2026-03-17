@@ -1427,7 +1427,6 @@
 	<string name="product_features_2">Long / Short for two-way trading</string>
 	<string name="product_features_3">Up to %d× leverage</string>
 	<string name="product_features_4">Isolated margin mode for flexible risk control</string>
-	<string name="product_features_5">Delayed liquidation mechanism to reduce wick-triggered liquidations</string>
 	<string name="Profile_Badge">Profile Badge</string>
 	<string name="Profile_Badge_description">An exclusive badge next to your name</string>
 	<string name="profile_modify_number">Do you want to change your mobile number?</string>

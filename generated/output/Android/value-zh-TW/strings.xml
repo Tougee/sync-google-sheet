@@ -1413,7 +1413,6 @@
 	<string name="product_features_2">支援做多 / 做空，雙向交易</string>
 	<string name="product_features_3">最高支援 %d 倍槓桿</string>
 	<string name="product_features_4">支援逐倉模式，靈活控制風險</string>
-	<string name="product_features_5">延遲爆倉，防插針</string>
 	<string name="Profile_Badge">個人資料徽章</string>
 	<string name="Profile_Badge_description">您名字旁邊的專屬徽章</string>
 	<string name="profile_modify_number">你想要修改手機號碼麼？</string>
