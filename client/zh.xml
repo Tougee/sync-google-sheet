@@ -2509,7 +2509,6 @@
   <string name="product_features_2" platform="android, iOS">支持做多 / 做空，双向交易</string>
   <string name="product_features_3" platform="android, iOS">最高支持 %d 倍杠杆</string>
   <string name="product_features_4" platform="android, iOS">支持逐仓模式，灵活控制风险</string>
-  <string name="product_features_5" platform="android, iOS">延迟爆仓，防插针</string>
   <string name="Risk_Notice" platform="android, iOS">风险提示：</string>
   <string name="perps_intro_risk_notice_1" platform="android, iOS">杠杆交易可能放大收益，同时也会放大亏损</string>
   <string name="perps_intro_risk_notice_2" platform="android, iOS">当保证金不足时，仓位可能被强制平仓</string>

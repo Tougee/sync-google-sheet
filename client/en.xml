@@ -2532,7 +2532,6 @@
   <string name="product_features_2" platform="android, iOS">Long / Short for two-way trading</string>
   <string name="product_features_3" platform="android, iOS">Up to %d× leverage</string>
   <string name="product_features_4" platform="android, iOS">Isolated margin mode for flexible risk control</string>
-  <string name="product_features_5" platform="android, iOS">Delayed liquidation mechanism to reduce wick-triggered liquidations</string>
   <string name="Risk_Notice" platform="android, iOS">Risk Notice:</string>
   <string name="perps_intro_risk_notice_1" platform="android, iOS">Leveraged trading amplifies both profits and losses</string>
   <string name="perps_intro_risk_notice_2" platform="android, iOS">Positions may be forcibly liquidated if margin becomes insufficient</string>
