@@ -2542,12 +2542,12 @@
   <string name="positions_count" platform="android, iOS">仓位(%d)</string>
   <string name="perps_activity" platform="android, iOS">历史记录</string>
   <string name="position_value" platform="android, iOS">仓位价值</string>
-  <string name="perps_position_overview" platform="android, iOS">当前合约持仓的实际交易价值，由「保证金 × 杠杆」决定。</string>
+  <string name="perps_position_size_overview" platform="android, iOS">当前合约的仓位规模由「投入资金 × 杠杆倍数」计算得出，表示本次交易所控制的资产规模。</string>
   <string name="Purpose" platform="android, iOS">用途：</string>
-  <string name="perps_position_purpose_1" platform="android, iOS">支撑当前仓位</string>
-  <string name="perps_position_purpose_2" platform="android, iOS">抵扣浮动亏损</string>
-  <string name="perps_position_risk_1" platform="android, iOS">当投入资金不足以支撑当前仓位时，仓位将被系统强制平仓。</string>
-  <string name="perps_position_risk_2" platform="android, iOS">价格剧烈波动可能会快速消耗投入资金。</string>
+  <string name="perps_position_size_purpose_1" platform="android, iOS">决定本次交易的市场敞口规模</string>
+  <string name="perps_position_size_purpose_2" platform="android, iOS">影响盈亏变化的放大倍数</string>
+  <string name="perps_position_size_risk_1" platform="android, iOS">当亏损接近已投入资金时，可能被系统强制平仓。</string>
+  <string name="perps_position_size_risk_2" platform="android, iOS">价格剧烈波动可能会快速消耗投入资金。</string>
   <string name="Open_Position" platform="android, iOS">开仓</string>
   <string name="Direction" platform="android, iOS">方向</string>
   <string name="position_size" platform="android, iOS">仓位规模</string>

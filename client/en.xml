@@ -2565,12 +2565,12 @@
   <string name="positions_count" platform="android, iOS">Positions(%d)</string>
   <string name="perps_activity" platform="android, iOS">Activity</string>
   <string name="position_value" platform="android, iOS">Position Value</string>
-  <string name="perps_position_overview" platform="android, iOS">Margin represents the actual trading value supporting your current position, calculated as Margin × Leverage.</string>
+  <string name="perps_position_size_overview" platform="android, iOS">Position size is calculated as “Margin × Leverage”, representing the total value of the position you control in a trade.</string>
   <string name="Purpose" platform="android, iOS">Purpose:</string>
-  <string name="perps_position_purpose_1" platform="android, iOS">Supports the current position</string>
-  <string name="perps_position_purpose_2" platform="android, iOS">Offsets unrealized losses</string>
-  <string name="perps_position_risk_1" platform="android, iOS">If the margin becomes insufficient to support the position, it may be forcibly liquidated by the system.</string>
-  <string name="perps_position_risk_2" platform="android, iOS">Sharp price fluctuations may quickly consume the margin.</string>
+  <string name="perps_position_size_purpose_1" platform="android, iOS">Defines your market exposure for the trade</string>
+  <string name="perps_position_size_purpose_2" platform="android, iOS">Determines how much your PnL is amplified</string>
+  <string name="perps_position_size_risk_1" platform="android, iOS">If losses approach your margin, your position may be liquidated by the system.</string>
+  <string name="perps_position_size_risk_2" platform="android, iOS">Rapid price movements can quickly deplete your margin.</string>
   <string name="Open_Position" platform="android, iOS">Open Position</string>
   <string name="Direction" platform="android, iOS">Direction</string>
   <string name="position_size" platform="android, iOS">Size</string>
