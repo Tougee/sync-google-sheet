@@ -2537,10 +2537,10 @@
   <string name="perps_intro_risk_notice_2" platform="android, iOS">Positions may be forcibly liquidated if margin becomes insufficient</string>
   <string name="perps_intro_risk_notice_3" platform="android, iOS">Please manage leverage and position size carefully and trade responsibly</string>
   <string name="Example" platform="android, iOS">Example</string>
-  <string name="example_open_position" platform="android, iOS">Open Position</string>
+  <string name="example_perpetual" platform="android, iOS">Perpetual</string>
   <string name="example_direction" platform="android, iOS">Direction</string>
-  <string name="Leverage_Multiplier" platform="android, iOS">Leverage Multiplier</string>
-  <string name="example_margin" platform="android, iOS">Margin</string>
+  <string name="example_leverage_multiplier" platform="android, iOS">Leverage</string>
+  <string name="example_amount" platform="android, iOS">Amount</string>
   <string name="example_scene1_increasing" platform="android, iOS">Scenario 1: Price Increases</string>
   <string name="example_scene1_decreasing" platform="android, iOS">Scenario 1: Price Decreases</string>
   <string name="example_price_increased" platform="android, iOS">Price Increased</string>

@@ -2514,10 +2514,10 @@
   <string name="perps_intro_risk_notice_2" platform="android, iOS">当保证金不足时，仓位可能被强制平仓</string>
   <string name="perps_intro_risk_notice_3" platform="android, iOS">请合理控制杠杆倍数与仓位规模，谨慎交易</string>
   <string name="Example" platform="android, iOS">举例说明</string>
-  <string name="example_open_position" platform="android, iOS">开仓交易</string>
+  <string name="example_perpetual" platform="android, iOS">开仓交易</string>
   <string name="example_direction" platform="android, iOS">开仓方向</string>
-  <string name="Leverage_Multiplier" platform="android, iOS">杠杆倍数</string>
-  <string name="example_margin" platform="android, iOS">投入资金</string>
+  <string name="example_leverage_multiplier" platform="android, iOS">杠杆倍数</string>
+  <string name="example_amount" platform="android, iOS">投入资金</string>
   <string name="example_scene1_increasing" platform="android, iOS">场景一：价格上涨</string>
   <string name="example_scene1_decreasing" platform="android, iOS">场景一：价格下跌</string>
   <string name="example_price_increased" platform="android, iOS">上涨幅度</string>
