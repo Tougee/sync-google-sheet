@@ -752,9 +752,10 @@
 	<string name="Estimated_Receive">預計收到</string>
 	<string name="Everybody">任何人</string>
 	<string name="Example">舉例說明</string>
+	<string name="example_amount">投入資金</string>
 	<string name="example_direction">開倉方向</string>
-	<string name="example_margin">投入資金</string>
-	<string name="example_open_position">開倉交易</string>
+	<string name="example_leverage_multiplier">槓桿倍數</string>
+	<string name="example_perpetual">開倉交易</string>
 	<string name="example_price_decreased">下跌幅度</string>
 	<string name="example_price_increased">上漲幅度</string>
 	<string name="example_scene1_decreasing">場景一：價格下跌</string>
@@ -979,7 +980,6 @@
 	<string name="Legacy_Network">舊網路</string>
 	<string name="legacy_network_transfer_hint">當前轉賬使用的是舊網路</string>
 	<string name="Leverage">槓桿</string>
-	<string name="Leverage_Multiplier">槓桿倍數</string>
 	<string name="Lightning_Address">閃電網路地址</string>
 	<string name="lightning_address_explain">%1$s 是您的閃電網路地址，透過該地址，您可以便捷、安全地接收支付：</string>
 	<string name="lightning_address_explain_1">地址格式類似郵箱，簡單好記。</string>

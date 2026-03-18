@@ -758,9 +758,10 @@
 	<string name="Estimated_Receive">Estimated Receive</string>
 	<string name="Everybody">Everybody</string>
 	<string name="Example">Example</string>
+	<string name="example_amount">Amount</string>
 	<string name="example_direction">Direction</string>
-	<string name="example_margin">Margin</string>
-	<string name="example_open_position">Open Position</string>
+	<string name="example_leverage_multiplier">Leverage</string>
+	<string name="example_perpetual">Perpetual</string>
 	<string name="example_price_decreased">Price Decreased</string>
 	<string name="example_price_increased">Price Increased</string>
 	<string name="example_scene1_decreasing">Scenario 1: Price Decreases</string>
@@ -991,7 +992,6 @@
 	<string name="Legacy_Network">Legacy Network</string>
 	<string name="legacy_network_transfer_hint">Current transfer is using legacy network</string>
 	<string name="Leverage">Leverage</string>
-	<string name="Leverage_Multiplier">Leverage Multiplier</string>
 	<string name="Lightning_Address">Lightning Address</string>
 	<string name="lightning_address_explain">%1$s is your Lightning Network address. With this address, you can conveniently and securely receive payments:</string>
 	<string name="lightning_address_explain_1">The address format is similar to an email, simple and easy to remember.</string>
