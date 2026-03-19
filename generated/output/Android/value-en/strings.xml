@@ -764,10 +764,10 @@
 	<string name="example_perpetual">Perpetual</string>
 	<string name="example_price_decreased">Price Decreased</string>
 	<string name="example_price_increased">Price Increased</string>
-	<string name="example_scene1_decreasing">Scenario 1: Price Decreases</string>
-	<string name="example_scene1_increasing">Scenario 1: Price Increases</string>
-	<string name="example_scene2_decreasing">Scenario 2: Price Decreases</string>
-	<string name="example_scene2_increasing">Scenario 2: Price Increases</string>
+	<string name="example_scene1_falls">Scenario 1: Price Falls</string>
+	<string name="example_scene1_rises">Scenario 1: Price Rises</string>
+	<string name="example_scene2_falls">Scenario 2: Price Falls</string>
+	<string name="example_scene2_rises">Scenario 2: Price Rises</string>
 	<string name="exchange_rate">Exchange Rate</string>
 	<string name="Exchanges_or_Wallets">Exchanges or Wallets</string>
 	<string name="Exchanging_data">Synchronization key shards in progress %1$s%%…</string>
