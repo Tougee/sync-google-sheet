@@ -2541,12 +2541,12 @@
   <string name="example_direction" platform="android, iOS">Direction</string>
   <string name="example_leverage_multiplier" platform="android, iOS">Leverage</string>
   <string name="example_amount" platform="android, iOS">Amount</string>
-  <string name="example_scene1_increasing" platform="android, iOS">Scenario 1: Price Increases</string>
-  <string name="example_scene1_decreasing" platform="android, iOS">Scenario 1: Price Decreases</string>
+  <string name="example_scene1_rises" platform="android, iOS">Scenario 1: Price Rises</string>
+  <string name="example_scene1_falls" platform="android, iOS">Scenario 1: Price Falls</string>
   <string name="example_price_increased" platform="android, iOS">Price Increased</string>
   <string name="PnL" platform="android, iOS">PnL</string>
-  <string name="example_scene2_decreasing" platform="android, iOS">Scenario 2: Price Decreases</string>
-  <string name="example_scene2_increasing" platform="android, iOS">Scenario 2: Price Increases</string>
+  <string name="example_scene2_falls" platform="android, iOS">Scenario 2: Price Falls</string>
+  <string name="example_scene2_rises" platform="android, iOS">Scenario 2: Price Rises</string>
   <string name="example_price_decreased" platform="android, iOS">Price Decreased</string>
   <string name="perps_long_overview" platform="android, iOS">Going Long means opening a position when you expect the price to rise. If the price increases, you make a profit; if the price decreases, you incur a loss.</string>
   <string name="perps_short_overview" platform="android, iOS">Going Short means opening a position when you expect the price to fall. If the price decreases, you make a profit; if the price increases, you incur a loss.</string>
