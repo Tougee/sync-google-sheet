@@ -2579,10 +2579,10 @@
   <string name="price_fall_profit_value" platform="android, iOS">價格下跌 %1$s → 盈利 %2$s（%3$s）</string>
   <string name="price_rise_profit" platform="android, iOS">價格上漲 %1$s → 盈利 %2$s</string>
   <string name="price_fall_profit" platform="android, iOS">價格下跌 %1$s → 盈利 %2$s</string>
-  <string name="price_rise_loss" platform="android, iOS">價格下跌 %1$s → 虧損 %2$s</string>
-  <string name="price_rise_loss_all" platform="android, iOS">價格下跌 %1$s → 虧損全部</string>
-  <string name="price_fall_loss" platform="android, iOS">價格上漲 %1$s → 虧損 %2$s</string>
-  <string name="price_fall_loss_all" platform="android, iOS">價格上漲 %1$s → 虧損全部</string>
+  <string name="price_rise_loss" platform="android, iOS">價格上漲 %1$s → 虧損 %2$s</string>
+  <string name="price_rise_loss_all" platform="android, iOS">價格上漲 %1$s → 虧損全部</string>
+  <string name="price_fall_loss" platform="android, iOS">價格下跌 %1$s → 虧損 %2$s</string>
+  <string name="price_fall_loss_all" platform="android, iOS">價格下跌 %1$s → 虧損全部</string>
   <string name="margin_isolated" platform="android, iOS">保證金（逐倉）</string>
   <string name="Estimated_Liquidation_Price" platform="android, iOS">預估清算價格</string>
   <string name="how_perps_works" platform="android, iOS">永續合約是什麼？</string>
