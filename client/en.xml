@@ -2598,14 +2598,14 @@
   <string name="Opened_Short" platform="android, iOS">Opened Short</string>
   <string name="Closed_Long" platform="android, iOS">Closed Long</string>
   <string name="Closed_Short" platform="android, iOS">Closed Short</string>
-  <string name="price_rise_profit_value" platform="android, iOS">Price increase %1$s → Gain %2$s (%3$s)</string>
-  <string name="price_fall_profit_value" platform="android, iOS">Price decrease %1$s → Gain %2$s (%3$s)</string>
-  <string name="price_rise_profit" platform="android, iOS">Price increase %1$s → Gain %2$s</string>
-  <string name="price_fall_profit" platform="android, iOS">Price decrease %1$s → Gain %2$s</string>
-  <string name="price_rise_loss" platform="android, iOS">Price increase %1$s → Loss %2$s</string>
-  <string name="price_rise_loss_all" platform="android, iOS">Price increase %1$s → Loss all</string>
-  <string name="price_fall_loss" platform="android, iOS">Price decrease %1$s → Loss %2$s</string>
-  <string name="price_fall_loss_all" platform="android, iOS">Price decrease %1$s → Loss all</string>
+  <string name="price_rise_profit_value" platform="android, iOS">Price rises %1$s → Gain %2$s (%3$s)</string>
+  <string name="price_fall_profit_value" platform="android, iOS">Price falls %1$s → Gain %2$s (%3$s)</string>
+  <string name="price_rise_profit" platform="android, iOS">Price rises %1$s → Gain %2$s</string>
+  <string name="price_fall_profit" platform="android, iOS">Price falls %1$s → Gain %2$s</string>
+  <string name="price_rise_loss" platform="android, iOS">Price rises %1$s → Loss %2$s</string>
+  <string name="price_rise_loss_all" platform="android, iOS">Price rises %1$s → Loss all</string>
+  <string name="price_fall_loss" platform="android, iOS">Price falls %1$s → Loss %2$s</string>
+  <string name="price_fall_loss_all" platform="android, iOS">Price falls %1$s → Loss all</string>
   <string name="margin_isolated" platform="android, iOS">Margin (Isolated)</string>
   <string name="Estimated_Liquidation_Price" platform="android, iOS">Estimated Liquidation Price</string>
   <string name="how_perps_works" platform="android, iOS">How perps works?</string>
